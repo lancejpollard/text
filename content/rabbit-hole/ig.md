@@ -1,0 +1,23 @@
+“Mmmm...” M gbatịa, mepee anya m. m na-agbachi ụkwụ m. Mmm ... Ulo m mara nma taa. Achọghị iteta, ka anya ndị ahụ mechie obere oge! Mmmm !! Ọwara nwere isi na-adịghị atọ ụtọ Oge eruola ịrụ ọrụ !. Ihe niile ga adi nma, chere ma hu.
+Hop hop hop, si n'ọgba m. Mykwụ na-esi n’ala apụta, ụkwụ m na-akwado anya m. Lee anya! Lee anya na mma a. Na-agba ama banyere mkpughe na-enweghị njedebe. Ụzarị anyanwụ jiri ọmịiko metụ m. Gbara gburugburu na-acha akwụkwọ ndụ akwụkwọ ndụ na odo, ọbara ọbara na -acha anụnụ anụnụ, M na-eche odo na-agwa anyị niile. Sniff. Sniff. "Kedu ihe bụ nke a?" Perching on all toes, I freeze. Ears kept sharp and steady. Bloop. A bit of rain settling into the dirt. Wow, so cool.
+Ikuku dị nro na-achagharị m aji. Boom, ọ bụ ihe ịtụnanya ịnwe ndụ. Ka o doo isi ísì ụtọ nke anụ ọhịa; Ka m ga-anọdụ ala n’etiti osisi ndị kachasị ogologo. ana m eri mkpụrụ. gịnị ọzọ ka m ga-achọ.
+Ehee, enyi m! ị mụ anya! Dị ka nwa amụrụ ọhụrụ. Na-eche ụda, na-enwe njikọ. Ihe omuma ndi gbara anyi gburugburu kachasi nma.
+Na-elele dị ka dinta, na-emeghe uche dị ka ifuru mara mma nke na-acha anụnụ anụnụ, dị njikere dị ka ikuku, anyị na-amalite ije anyị. Na-agbaso ije nke ọzara, na-eri oriri dị iche iche. Ndị ọzọ ga-esonye dịka ha siri hụ.
+Ugbu a bụ oge maka ọrụ. Ihe aga eme. Echiche imepụta. Nsogbu iji gosipụta, ụzọ ịgagharịa, dịka ọwara anyị gwuru. A ga-egwu olulu mmiri. achọtara nkume di egwu. mgbọrọgwụ ije na, Mpaghara ahụ dị mma ma dịkwa mma. Ka emechara, usoro a chọrọ enyemaka. Kwee ka uche kpụzie ụwa, m ga-enwe ụlọ nchekwa maka abalị. Sniff Sniff.
+ịsa ntị anyị ma hichaa aka anyị, oke bekee na-amalite njem anyị siri ike. Dị ka ọmarịcha nna ukwu n'ụtụtụ. Ee, anyị na-egwu ala. Anyị ga-eme ihe ole na ole dị mkpa n'ụzọ,. Lee anya n’ìhè ahụ, mara ihe ga-eme n’ọchịchịrị.
+Boom. Nkume ohuru. Obere nke ndị a na-anaghị ahụ anya. Ihe omuma banyere mmalite nke okike. 
+Bam. Kedu ihe ị hụrụ?! Fọdụ na-akpụpụ ọlaedo na nkume a. Mma.
+Ugbu a, maapụ ya. Gịnị ọzọ ka anyị ga-eme? Anyị na-edozi isi nsogbu anyị na-eche ihu n'ọwara oke bekee
+Anyanwụ na-ada. Ihu igwe ka dicha mma. Anụ na-efe n’elu. Azụ ka juru eju. Ọnwa na-ahụ anya, ma, anyị enweghị ọchịchọ ịkwụsị njem anyị. Kedu ihe omimi na-echere? Gịnị ọzọ ka anyị ga-ahụ ma mụta iji rụọ map a ma jiri ya mee ihe maka ụwa?
+Mmiri. Anyi aghaghi ima mmirizo. Mara otu o si ebido, yana otu esi eweghachi ya mgbe ihe dị nso. Anyi aghaghi ichota ihe okike n’abali na n’abali, n’o buru ibu ma n’obere mmadu, n’agba siri ike ma di ire, ruo mgbe anyi gh otara. Mara karịa nke a karịa ka m chere. Anyi bu nna ukwu, di ka ihe nile na erute n’amaghi ama ma meghekwa amamihe nke ndi okenye. Ozugbo anyị chọpụtara ya, anyị ga-enwe ike ịmegharị ugwu.
+Mana, ka ọ dị ugbu a, anyị nọ ebe a. N'oge. Anọdụ n’elu ebe ntụpọ anyị họọrọ. Dị ọcha, lekwasịrị anya, nwee afọ ojuju, ma nwee ike. Sniff. Sniff. Anam ata ahihia. Kedu ihe ị na-eme? Amalitere m itinye aka m n’ime ala iji gwuo n’ime ya, na-agbanwe ya otú a na nke ahụ. Ana m eji oge m, anya m na-adọpụ uche, na-ele anya m n'ihu na n'akụkụ m, ma na-ahụ ahụ m. Mara ya mgbe ị hụrụ ya, ịmara ya mgbe ọ dị gị n’obi, ịmara mgbe ị mere ya. Naanị ka m chere na ọ ga - enwe ntakịrị oge karịa inwale nke ikpeazụ a. Ewoo, anyanwụ adaala.
+Njem m na-ejedebe na ọchịchịrị na-acha anụnụ anụnụ na ọla edo. Anyanwụ na-enwu site na usoro akụkụ ya anọ, na-ekewa gaa na ọnụ ọgụgụ dị njọ asaa. Obere ihe na ike ma na-arụsi ọrụ ike, na nsonazụ ya bụ ihe anwansi.
+N’ikpeazụ, m na-elegharị anya n’ihe omimi ahụ m chọpụtara. Nwee isi n ’ọrụ anyị niile rụrụ. Sniff. Sniff. Anyị emeela ka ụlọ anyị dị mma, mee ka ọ dị ebube, anyị enweghị ike ichefu ya. Ulo anyi gha emebe anyi nke oma. Mgbidi ahụ hiri nne iji kwe ka m fegharịa ntị m ma ọ bụrụ na ọ dị m mkpa. Ma, ọ dị mma iji kpuchie ahụ m dị ka blanket. Ana m eku ume ume. Na otu pụọ, ikele abalị ma kelee ụbọchị.
+Mu onwem egwuwo olulu. Ebe obibi m.
+Akpọrọ m ụkwụ m, na-eme m obi ụtọ. Ntị m niile furu ọhịa. Alreadylọ m adịlarị mara. Ahapụrụ m anya m ka ha mechie. Uche m dajụrụ. Anno bɛyɛ wo nwonwa. Gị onwe gị kwa? M na-enye onwe m aka na azụ m, ka echiche m na-ebelata. Anyị bụ ezigbo ndị otu, enweghị m ike ichere ka ndị ọzọ sonye.
+Sniff sniff. Mmmm ... Oge ezumike. Oge ime ka uche dị ọcha ma hapụ ihe kachasị mma. Na-eku ume na .... Na-ebugharị. Abalị ọma. Sniff sniff. Sniff.
+Ihu igwe na - efegharị n’elu ikuku nke anyị jiri mee ebe anyị na-ehi ụra. Atụrụ m anya maka ihe ọhụụ nke m na-eme ma na-eme n'akụkụ ọzọ nke okirikiri ahụ. Na nso, ma rue ugbu a, mana nke a bụ ihe na-eme m.
+Olu okwu osimiri si n’ebe dị anya. ụmụ ahụhụ ole na ole.
+ụmụ ahụhụ ọzọ. Nke a bụ ndụ
+ọzọ ikuku… ọzọ ọzara na-echere.
+
