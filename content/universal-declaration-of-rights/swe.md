@@ -1,0 +1,123 @@
+<h1 align='center'>ALLMÄN FÖRKLARING OM DE MÄNSKLIGA RÄTTIGHETERNA</h1>
+<h2 align='center'>INLEDNING</h2>
+<p align='center'>Enär erkännandet av det inneboende värdet hos alla medlemmar av människosläktet och av deras lika och oförytterliga rättigheter är grundvalen för frihet, rättvisa och fred i världen,
+enär ringaktning och förakt för de mänskliga rättigheterna lett till barbariska gärningar, som upprört mänsklighetens samvete, och enär skapandet av en värld, där människorna åtnjuta yttrandefrihet, trosfrihet samt frihet från fruktan och nöd, kungjorts som folkens högsta strävan,
+enär det är väsentligt för att icke människan skall tvingas att som en sista utväg tillgripa uppror mot tyranni och förtryck, att de mänskliga rättigheterna skyddas genom lagens överhöghet,
+enär det är väsentligt att främja utvecklandet av vänskapliga förbindelser mellan nationerna,
+enär Förenta Nationernas folk i stadgan ånyo uttryckt sin tro på de grundläggande mänskliga rättigheterna, den enskilda människans värdighet och värde samt männens och kvinnornas lika rättigheter, ävensom beslutat främja socialt framåtskridande och bättre levnadsvillkor under större frihet,
+enär medlemsstaterna åtagit sig att i samverkan med Förenta Nationerna säkerställa allmän och effektiv respekt för de mänskliga rättigheterna och de grundläggande friheterna,
+enär en gemensam uppfattning av dessa fri- och rättigheters innebörd är av största betydelse för uppfyllandet av detta åtagande,
+kungör
+GENERALFÖRSAMLINGEN
+denna ALLMÄNNA FÖRKLARING OM DE MÄNSKLIGA RÄTTIGHETERNA såsom en gemensam riktlinje för alla folk och alla nationer, på det att varje individ och varje samhällsorgan må med denna förklaring i åtanke ständigt sträva efter att genom undervisning och uppfostran befordra respekten för dessa fri- och rättigheter samt genom framstegsfrämjande inhemska och internationella åtgärder säkerställa deras allmänna och verksamma erkännande och tilllämpning såväl bland folken i medlemsstaterna som bland folken i områden under deras överhöghet.</p>
+<ol>
+  <li>
+    <p>Allamänniskoräroföddafriaochlikaivärdeochrättigheter.Deäroutrustademedförnuftochsamveteochbörahandlagentemotvarandraienandaavbroderskap.</p>
+  </li>
+  <li>
+    <p>Envarärberättigadtillalladefri-ochrättigheter,somuttalasidennaförklaring,utanåtskillnadavnågotslag,såsomras,hudfärg,kön,språk,religion,politiskellerannanuppfattning,nationelltellersocialtursprung,egendom,bördellerställningiövrigt.Ingenåtskillnadmåvidaregöraspågrundavdenpolitiska,juridiskaellerinternationellaställning,somintagesavdetlandellerområde,tillvilketenpersonhör,varesigdettalandellerområdeäroberoende,stårunderförvaltarskap,äricke-självstyrandeellerärunderkastatnågonannanbegränsningavsinsuveränitet.</p>
+  </li>
+  <li>
+    <p>Envarharrätttillliv,frihetochpersonligsäkerhet.</p>
+  </li>
+  <li>
+    <p>Ingenmåhållasislaveriellerträldom;slaveriochslavhandelialladessformeräroförbjudna.</p>
+  </li>
+  <li>
+    <p>Ingenmåutsättasförtortyrellergrym,omänskligellerförnedrandebehandlingellerbestraffning.</p>
+  </li>
+  <li>
+    <p>Envarharrättattallestädeserkännassompersonilagensmening.</p>
+  </li>
+  <li>
+    <p>Allaärolikainförlagenochäroutanåtskillnadberättigadetilllikaskyddfrånlagenssida.Allaäroberättigadetilllikaskyddmotvarjeåtskillnadistridmeddennaförklaringochmotvarjeframkallandeavsådanåtskillnad.</p>
+  </li>
+  <li>
+    <p>Envarharrätttillverksamhjälpfrånsittlandsbehörigadomstolarmothandlingar,somkränkadegrundlägganderättigheter,vilkatillkommahonomgenomlagellerförfattning.</p>
+  </li>
+  <li>
+    <p>Ingenmågodtyckligtanhållas,fängslasellerlandsförvisas.</p>
+  </li>
+  <li>
+    <p>Envarärunderfulllikställdhetberättigadtillrättvisochoffentligrannsakninginföroavhängigochopartiskdomstolvidfastställandetavsåvälhansrättigheterochskyldighetersomvarjeanklagelsemothonomförbrott.</p>
+  </li>
+  <li>
+    <p>Envar,somblivitanklagadförstraffbargärning,harrättattbetraktassomoskyldig,tilldesshansskuldblivitlagligenfastställdvidoffentligrättegång,undervilkenhanåtnjutitallaförsittförsvarnödigagarantier.</p>
+    <p>Ingenmådömasförhandlingellerunderlåtenhet,somvidtidpunktenfördessbegåendeickevarstraffbarenligtinhemskellerinternationellrätt.Ejhellermåhögrestraffutmätasänvadsomvartillämpligtvidtidpunktenfördenstraffbaragärningensbegående.</p>
+  </li>
+  <li>
+    <p>Ingenmåutsättasförgodtyckligaingripandenifrågaomprivatliv,familj,hemellerkorrespondens,ejhellerangrepppåhederochanseende.Envarharrätttilllagensskyddmotsådanaingripandenellerangrepp.</p>
+  </li>
+  <li>
+    <p>Envarharrättattinomvarjestatsgränserfrittförflyttasigochväljasinvistelseort.</p>
+    <p>Envarharrättattlämnavarjeland,inbegripetsitteget,ochattåtervändatillsittegetland.</p>
+  </li>
+  <li>
+    <p>Envarharrättattiandraländersökaochåtnjutafristadfrånförföljelse.</p>
+    <p>Dennarättmåickeåberopasvidlagaåtgärder,reelltgrundadepåicke-politiskabrottellerpåhandlingar,somstridamotFörentaNationernasändamålochgrundsatser.</p>
+  </li>
+  <li>
+    <p>Envarharrätttillennationalitet.</p>
+    <p>Ingenmågodtyckligtberövassinnationalitetellerförmenasrättenattändranationalitet.</p>
+  </li>
+  <li>
+    <p>Fullvuxnamänochkvinnorharrättattutannågoninskränkningpågrundavsinras,nationalitetellerreligioningåäktenskapochbildafamilj.Deägalikarättighetervidgiftermål,underäktenskapochvidäktenskapsupplösning.</p>
+    <p>Äktenskapmåingåsendastmeddeblivandemakarnasfriaochfullständigasamtycke.</p>
+    <p>Familjenärdennaturligaochgrundläggandeenhetenisamhälletochägerrätttillskyddfrånsamhälletochstaten.</p>
+  </li>
+  <li>
+    <p>Envarharrättattägaegendomsåvälensamsomiföreningmedandra.</p>
+    <p>Ingenmågodtyckligtberövassinegendom.</p>
+  </li>
+  <li>
+    <p>Envarharrätttilltankefrihet,samvetsfrihetochreligionsfrihet.Dennarättinnefattarfrihetattbytareligionellertroochattensamellerigemenskapmedandraoffentligtellerenskiltutövasinreligionellertrogenomundervisning,andaktsövningar,gudstjänstochiakttagandeavreligiösasedvänjor.</p>
+  </li>
+  <li>
+    <p>Envarharrätttillåsiktsfrihetochyttrandefrihet.Dennarättinnefattarfrihetförenvarattutaningripandenhysaåsikterochfrihetattsöka,mottagaochspridaupplysningarochtankargenomvarjeslagsuttrycksmedelochutanhänsyntillgränser.</p>
+  </li>
+  <li>
+    <p>Envarharrätttillfrihetifrågaomfredligamötenochsammanslutningar.</p>
+    <p>Ingenmåtvingasatttillhöraensammanslutning.</p>
+  </li>
+  <li>
+    <p>Envarharrättatttagadelisittlandsstyrelsedirektellergenomfrittvaldaombud.</p>
+    <p>Envarharrätttilllikatillträdetillallmäntjänstisittland.</p>
+    <p>Folketsviljaskallutgöragrundvalenförstatsmakternasmyndighet.Dennaviljaskalluttryckasiperiodiskaochverkligaval,vilkaskolaägarummedtillämpningavallmänochlikarösträttsamthemligröstningellerlikvärdigafriaröstningsförfaranden.</p>
+  </li>
+  <li>
+    <p>Envarägerisinegenskapavsamhällsmedlemrätttillsocialtrygghetochärberättigadtillattdeekonomiska,socialaochkulturellarättigheter,somärooundgängligaförhansvärdighetochförenfriutvecklingavhanspersonlighet,förverkligasgenomnationellaåtgärderochmellanfolkligtsamarbetemedhänsyntagentillvarjestatsorganisationochresurser.</p>
+  </li>
+  <li>
+    <p>Envarharrätttillarbete,tillfrittvalavsysselsättning,tillrättvisaochtillfredsställandearbetsförhållandenochtillskyddmotarbetslöshet.</p>
+    <p>Envarharutanåtskillnadrätttilllikalönförlikaarbete.</p>
+    <p>Envar,somarbetar,harrätttillrättvisochtillfredsställandeersättning,somtillförsäkrarhonomsjälvochhansfamiljenmänniskovärdigtillvaroochsom,därsåärnödvändigt,kompletterasmedandramedelförsocialtskydd.</p>
+    <p>Envarharrättattbildaochanslutasigtillfackföreningartillskyddförsinaintressen.</p>
+  </li>
+  <li>
+    <p>Envarharrätttillvilaochfritid,innefattanderimligbegränsningavarbetstidenochregelbundensemestermedbibehållenlön.</p>
+  </li>
+  <li>
+    <p>Envarharrätttillenlevnadsstandard,somärtillräckligförhansegenochhansfamiljshälsaochvälbefinnande,däriinbegripetföda,kläder,bostad,hälsovårdochnödvändigasocialaförmåner,vidarerätttilltrygghetihändelseavarbetslöshet,sjukdom,invaliditet,makesdöd,ålderdomellerannanförlustavförsörjningunderomständigheter,övervilkahanickekunnatråda.</p>
+    <p>Mödrarochbarnäroberättigadetillsärskildomvårdnadochhjälp.Allabarn,varesigföddainomellerutomäktenskap,skolaåtnjutasammasocialaskydd.</p>
+  </li>
+  <li>
+    <p>Envarharrätttillundervisning.Undervisningenskallvarakostnadsfri,åtminstonepådeelementäraochgrundläggandestadierna.Denelementäraundervisningenskallvaraobligatorisk.Yrkesundervisningochtekniskundervisningskallvaraallmänttillgänglig.Denhögreundervisningenskallståöppenilikamånförallapågrundvalavderasduglighet.</p>
+    <p>Undervisningenskallsyftatillpersonlighetensfullautvecklingochtillattstärkarespektenförmänniskansgrundläggandefri-ochrättigheter.Undervisningenskallfrämjaförståelse,toleransochvänskapmellanallanationer,rasgrupperochreligiösagruppersamtbefordraFörentaNationernasverksamhetförfredensbevarande.</p>
+    <p>Rättenattväljadenundervisning,somskallgesåtbarnen,tillkommerifrämstarummetderasföräldrar.</p>
+  </li>
+  <li>
+    <p>Envarharrättattfritttagadelisamhälletskulturellaliv,attnjutaavkonstensamtattblidelaktigavvetenskapensframstegochdessförmåner.</p>
+    <p>Envarharrätttillskyddfördemoraliskaochmateriellaintressen,somhärrörafrånvarjevetenskapligt,litterärtellerkonstnärligtverk,tillvilkethanärupphovsman.</p>
+  </li>
+  <li>
+    <p>Envarharrätttillensocialochinternationellordning,ivilkendefri-ochrättigheter,somuttalasidennaförklaring,tillfullokunnaförverkligas.</p>
+  </li>
+  <li>
+    <p>Envarharpliktermotsamhället,ivilketdenfriaochfullständigautvecklingenavhanspersonlighetensamtärmöjlig.</p>
+    <p>Vidutövandetavsinafri-ochrättighetermåenvarunderkastasendastsådanainskränkningar,somblivitfastställdailagiuteslutandesyfteatttryggatillbörlighänsyntillochrespektförandrasfri-ochrättighetersamtföratttillgodosedetdemokratiskasamhälletsrättmätigakravpåmoral,allmänordningochallmänvälfärd.</p>
+    <p>Dessafri-ochrättighetermåiintetfallutövasistridmedFörentaNationernasändamålochgrundsatser.</p>
+  </li>
+  <li>
+    <p>Intetidennaförklaringmåtolkassåsominnebäranderättighetförnågonstat,gruppellerpersonattägnasigåtverksamhetellerutförahandling,somsyftartillattomintetgöranågonavhäriuttaladefri-ochrättigheter.</p>
+  </li>
+</ol>

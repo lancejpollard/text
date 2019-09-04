@@ -1,0 +1,123 @@
+<h1 align='center'>dunya kishilik hoquqi xitabnamisi</h1>
+<h2 align='center'>söz béshi</h2>
+<p align='center'>insanlar ailisining barliq ezalirining özige xas izzet-hörmitini shuningdek ularning barwer we tewrenmes hoquqini etrap qilishning dunyawi erkinlik, heqqaniyet we tinchliqning asasi ikenliki.
+kixilik hoquqigha étibarsiz qarash we haqaret kelturush ewj élip kixilerning wijdanini bulghaydighan yawuz zorawanliqqa aylan'ghanliqi, hemme adem söz erkinliki we étikad erkinlikidin behrimen bolidighan hemde wehime we namratliqtin xaliy bolidighan dunyaning yetip kélishi addiy xelqning aliy arzusi dep élan qilin'ghanliqi.
+insanlarning ilajisizliqtin zorawanliq we zulum ustide isyan köturimiz dep tewekkulige heriket qilip yurmesliki üchün, kishilik hoquqini qanun arqiliq idare qilish yoli bilen qoghdash zörür bolghanliqi,
+döletler ara dosttluq munasiwetning tereqqiyatini algha sürüsh zörürluki.
+birleshken döletler teshkilatigha eza döletler xelqining birleshken döletler xartiyiside özlirining asasiy kishilik hoquqi, insaniy izzet-hörmiti we qedir-qimmiti shuningdek er-ayallarning barawerlik hoquqi toghrisidiki eqidisini qayta tekitligenliki hemde bir qeder chong erkinlik asasida jem'iyetning yuksilishi we turmush derijisining yaxshilinishini algha sürüshke bel baghlighanliqi.
+eza döletlerning birleshken döletler teshkilati bilen hemkarliship, kishilik hoquqi we asasiy erkinlikning omumyuzluq hörmetlinishi we emelge qoyulushini algha sürüsh yolida qet'iy iradige kelgenliki.
+ashu hoquq we erkinlikni omumyüzlük chushinishning shu qet'iy iradining toluq emelge ashurulushigha muhim tesir körsitidighanliqi.
+közde tutulghachqa, hazir
+yighin,
+barliq xelq we barliq dölet tiriship emelge ashuridighan ortaq ölchem süpitide mushu dunya kishilik hoquqi xitabnamisini élan qilidu. her bir adem we ijtima’iy apparatning mushu xitabnamini her daim este ching saqlap, telim we terbiye arqiliq hoquq we erkinlikning hörmetlinishni tiriship algha sürüshi hemde döletlerning we xelq'araning tedrijiy ilgirilesh tedbirliri arqiliq ashu hoquq we erkinlikning eza döletlerning özidiki xelq arisida shuningdek shu döletlerning bashqurush tewelikidiki zéminida yasaydighan xelq arisida omumyüzlük we unumluk étirap qilinishi we emelge qoyulushini umid qilidu:</p>
+<ol>
+  <li>
+    <p>hemmeademzatidinlaerkin,izzet-hörmetwehoquqtababbarawerboluptughulghan.ulareqilghewewijdan'ghaigehemdebir-birigeqérindashliqmunasiwitigexasrohbilenmuamileqilishikérek.</p>
+  </li>
+  <li>
+    <p>hemmeademmushuxitabnamideqeytqilin'ghanbarliqhoquqweerkinliktinbehrimenbolushsalahiyitigeige.ularirqi,renggi,jinsi,tili,dini,siyasiyqarishiyakibashqaqarishi,dölettewelikiyakiijtimaiykélipchiqishi,mülki,tughulushiyakibashqasalahiyitijehettinqilcheperqlenmeydu.uningustigehemmeademozitewedöletyakizéminningsiyasiy,memuriyyakixelq'araorniningoxshashbolmasliqibilenperqlenmeydu.Buzéminningmusteqilzémin,wakalitenbashquruluwatqanzémin.aptonomiyisizzéminyakibashqaherqandaqigilikhoquqighachekqoyulghanhalettikizéminbolushidinqet'iynezer.</p>
+  </li>
+  <li>
+    <p>hemmeademhayatliqtin,erkinliktinwejismaniybixeterliktinbehrimenbolushqahoquqluq.</p>
+  </li>
+  <li>
+    <p>herqandaqademniqulqilishqayakiqulqataridaishlitishkebolmaydu.herqandaqshekildikiqulluqtozumnimu,qullarniélip-sétishnimumen'iqilishkérek.</p>
+  </li>
+  <li>
+    <p>herqandaqademnirehimsizlikbilenqiynashqayakiwehshiy,insaniyetsizyakijaqaretxaraktérlikmuamiligeyakijazaghaducharqilishqabolmaydu.</p>
+  </li>
+  <li>
+    <p>hemmeademherqandaqjaydaqanunaldidikikishilikizzitiniétirapqildurushqahoquqluq.</p>
+  </li>
+  <li>
+    <p>hemmeademqanunaldidababbarawerhemdeqilchekemsitilmey,qanunningbarawerqoghdishidinbehrimenbolushqahoquqluq.Hemmeademmushuxitabnamigexilapherqandaqkemsitishtinwemushundaqkemsitishketurtkebolidighanherqandaqqilmishningziyankeshlikdinsaqlinishüchün,barawerqoghdashtinbehrimenbolushqahoquqluq.</p>
+  </li>
+  <li>
+    <p>herqandaqademoziningasasiyqanunyakiqanunlarbexshetkenasasiyhoquqiziyankeshlikkeuchrighanda,layaqetlikdöletsotiarqiliqbundaqziyankeshlikherikitidinunumlukqutulupqélishqahoquqluq.</p>
+  </li>
+  <li>
+    <p>herqandaqademiniherqandaqshekildeqolghaélishqa,nezerbentqilishqayakisürgünqilishqabolmaydu.</p>
+  </li>
+  <li>
+    <p>hemmeademmusteqilhemxalissotningadilweochuqsoraqqilishbilenözininghoquqiwemejburiyitinimueyyenleshturushkehemdeözigeqoyulghanherqandaqjinayieyibniéniqliwélishqapütünleytenghoquqluq.</p>
+  </li>
+  <li>
+    <p>jinayiishlarbilenerzqilin'ghanlikiademaqlashjehettelazimliqbarliqkapaletkeérishkenashkarasottajinayitibarliqiqanunboyichedelillengichegunahsizdepqarilisqahoquqluq.</p>
+    <p>herqandaqademningherqandaqqilmishiyakiqilmishsizliqisadirbolghanwaqtidadöletqanuniyakixelq'araqanunboyichejinayiishlarjinayitinishekillendurmigenbolsa,jinayiishlarjinayitiniötküzgendephökümchiqirishqabolmaydu.jinayijazajinayetötküzgendetetbiqqilindighanqanundikibelgilimilerdikidinéghirlitiwétilsebolmaydu.</p>
+  </li>
+  <li>
+    <p>herqandaqademningxususiyturmushigha,ailisige,turalghujayighawexet-alaqisigexalighanchearilishiwélishqabolmaydu.Uningsheniweshöhritigehujumqilishqabolmaydu.bundaqarilishishtinyakihujumdinsaqlinishüchün,hemmeademqanunningqoghdishidinbehrimenbolushqahoquqluq.</p>
+  </li>
+  <li>
+    <p>hemmeademherqaysidöletlerningzéminidaerkinkochushkeweolturaqlishishqahoquqluq.</p>
+    <p>hemmeademherqandaqdölettinkétishke,jomlidinözdöletidinkétishkehoquqluqhemdeöziningdölitigeqaytipkélishkehoquqluq.</p>
+  </li>
+  <li>
+    <p>hemmeademziyankeshliktinsaqlinishüchün,bashqadöletlerdepanahtileshkewepanahlinishqahoquqluq.</p>
+    <p>heqiqetengheyriysiyasiyjinayetyakibirleshkendöletlerteshkilatningasasiymeqsitiweprinsipighaxilapqilmishbileneyiblengenehwalastida,bundaqhoquqtinpaydilinishqabolmaydu.</p>
+  </li>
+  <li>
+    <p>hemmeademdölettewelikidinbehrimenbolushqahoquqluq.</p>
+    <p>herqandaqademnidölettewelikidinxalighanchemehrumqilishqabolmaydu.uningdölettewelikiniözgertishhoquqiniinkarqilishqimubolmaydu.</p>
+  </li>
+  <li>
+    <p>yashqoramighayetkener-ayallarirq.dölettewelikiwedinjehettinherqandaqcheklimigeuchrimay,toylishishqaweöytutushqahoquqluq.Ularnikahjehette,toyqilghanmezgildewenikahtoxtimibikarqilin'ghanda,barawerhoquqqaigebolushikérek.</p>
+    <p>erterepbilenayalterepningixtiyarqilishiwetamamenmaqulbolushiarqisidilatoyqilishqabolidu.</p>
+    <p>ailetebiiyweasasiyijtimaiybirlik,ujem'iyetwedöletterpidinqoghdilishqatégishlik.</p>
+  </li>
+  <li>
+    <p>hemmeademningmülükkeongcheigidarliqqilishhoquqishuningdekbashqilarbilenshériklishipigidarliqqilishhoquqibolushikérek.</p>
+    <p>herqandaqademnimal-mülükidinxalighanchemehrumqilishqabolmaydu.</p>
+  </li>
+  <li>
+    <p>hemmeademidiyiwi,wijdaniywediniyerkinlikhoquqighaige:buhoquqshuademningöziningdininiyakiétiqadiniözgertisherkinliknishuningdeköziningdiniyakiétiqadinidiniyéqide,emeliyet,namaz-ibadetweemrimeruparqiliqyalghuzyakiöm,ashkarayakimexpiyipadilesherkinlikniözichigealidu.</p>
+  </li>
+  <li>
+    <p>hemmeademözteshebbusinibildrushwepikirbayanqilisherkinlikidinbehrimenbolushqahoquqluq:buhoquqmudaxiligeuchrimayözteshebbusinisaqlapqélisherkinlikiniweuchurhempikirlerniherqandaqwastearqiliqwedöletayrimisighaqarimayizdesh,qobulqilishwetarqitisherkinlikiniözichigealidu.</p>
+  </li>
+  <li>
+    <p>hemmeademtinchyolbilenyighinötküzüshweteshkilatlarghaoyushusherkinlikidinbehrimenbolushqahoquqluq.</p>
+    <p>herqandaqademnimelumbirteshkilatningtewelikigeotushkezorlashqabolmaydu.</p>
+  </li>
+  <li>
+    <p>hemmeademdöletniidareqilishqaözibiwasteqatnishishyakiözierkintallighanwekiliarqiliqqatnishishhoquqighaige.</p>
+    <p>hemmeademözdölitininghökümetishlirighabarawerpursetbilenqatnishishhoquqighaige.</p>
+    <p>xelqningiradisihökümethoquqiningasasi:buiradeqerellikweheqiqiysaylambilenipadilinishikérek.saylamomumyüzlükwebarawerawazbérishhoquqighaasaslinishihemdeyoshurunawazbérishyakiobdanlaerkinawazbérishboyicheélipbérilishikérek.</p>
+  </li>
+  <li>
+    <p>herbirademjem'iyetningbirezasibolushsüpitibilen,ijtimaiykapalettinbehrimenbolushqahoquqluqhemdeöziningshexsiyizzet-hörmitiwekishilikghururiningerkinrawajlinishiüchünzörürbolghaniqtisadiy,ijtimaiyjehettikiwemedeniyetjehettikiherxilhoquqlardinbehrimenbolushniemelgeashurushqahoquqluq.buemelgeashurushdöletningtirishchanliqiwexelq'arahemkarliqarqiliqhemdeherqaysidöletlerningteshkilatiwebayliqehwaliboyichebolidu.</p>
+  </li>
+  <li>
+    <p>hemmeademishleshke,erkinkesiptallashqa,adilwemuwapiqxizmetsharaitidinbehrimenbolushqahemdeishsizqélishtinsaqlinishkapalitidinbehrimenbolushqahoquqluq.</p>
+    <p>hemmeademherqandaqshekildekemsitilmey,oxshashishüchünoxshashheqélishhoquqighaige.</p>
+    <p>ishligenademningherbiriadilwemuwapiqheqtinbehrimenbolushqa,öziningweailetawabiatininginsaniyizzet-hörmetkelayiqturmushsharaitighaigebolushinikapaletkeigeqilishqa,zörürtepilghanda.uningghabashqaijtimaiykapaletniqoshumcheqilishqahoquqluq.</p>
+    <p>hemmeademöziningmenpeitiniqoghdashüchün,ishchilaruyushmisiniteshkilleshweuningghaqatnishishhoquqighaige.</p>
+  </li>
+  <li>
+    <p>hemmeademdemélishwebikaryürüshhoquqidin,jumlidinishwaqtiningchekinieqilgemuwapiqlashturushhemdeqerellik,maashliqdemélishhoquqidinbehrimenbolidu.</p>
+  </li>
+  <li>
+    <p>hemmeademoziningweailetawabiatiningsalametlikiweparawanliqinikapaletkeigeqilishüchünzörürbolghanturmushsewiyisidin,jumlidinyémeklik,kiyim-kéchek,turalghuöy,dawalinishtinwezörürijtimaiymulazimetchiliktinbehrimenbolushhoquqighaige:ishsizqalghanda,késelbolupqalghanda,mejruhbolupqalghanda,tulqalghanda,qerighandayakitizginligilibolmaydighanbashqaehwalbilentirikchilikiqtidariniyoqatqanda,kapalettinbehrimenbolushqahoquqluq.</p>
+    <p>anilarwebalilaralahideétibardinweyardemdinbehrimenbolushqahoquqluq.barliqbalilarnikahliqyakinikahsiztughulghanliqighaqarimay,okhshashijtimaiymuhapizettinbehrimenbolushqatégishlik.</p>
+  </li>
+  <li>
+    <p>hemmeadembilimélishhoquqighaige.bilimélishheqsizbolushikérek.héchbolmighanda,bashlan'ghuchweasasiybasquchtashundaqbolushikérek.bashlanghuchma'aripmejburiyetxaraktéridabolushikérek.téxnikama'aripiwekespiyma'aripniomumyüzlüktesisqilishkérek.aliyma'aripningishikininetijigeqarapbarliqkishilergetengechiwétishkérek.</p>
+    <p>ma'aripningmeqsitiademningxasliqinitoluqyétildurushhemdekishilikhoquqiweasasiyerkinlikkebolghanhörmetnikücheytish.ma'aripherqaysidöletler,irqlar,yakiherqaysidiniyguruhlararachushinishni,yolqoyushniwedostluqtinilgirisürüshihemdebirleshkendöletlerteshkilatiningtinchliqniqoghdashyolidikiturlukpaaliyetlirinialghasürüshikérek.</p>
+    <p>ata-anilarperzentliriningélishqatégishlikbilimturliriniawwaltallashhoquqighaige.</p>
+  </li>
+  <li>
+    <p>hemmeademjem'iyetningmedeniyturmushighaerkinqatniship,sen'ettinbehrimenbolushqahemdeilim-pentereqqiyatidinweuningdinhasilbolghanparawanliqtintengbehrimenbolushqahoquqluq.</p>
+    <p>hemmeademöziijadqilghanilmiy,bed'iyeserlerdinweguzelsen'eteserliridinhasilbolghanmeniwiwemaddiymenpe'etmunasiwitibilen,qoghdilishhoquqighaige.</p>
+  </li>
+  <li>
+    <p>hemmeademmushuxitabnamideqeytqilinghanhoquqweerkinlikningtoluqré'allishishighaimkanbéridighanbirxilijtimaiywexelq'aratertipnitelepqilishqahoquqluq.</p>
+  </li>
+  <li>
+    <p>hemmeademjem'iyetaldidamejburiyetniüstigealghanbolidu.chünki,ularningxasliqijem'iyetichidilaerkinwetoluqrawajtapalaydu.</p>
+    <p>hemmeademözininghoquqiweerkinlikiniyürgüzgende,qanundabelgilengencheklimigilauchraydu.bundaqchekliminibelgileshtikibirdinbirmeqsetbashqilarninghoquqiweerkinlikiningtégishlikderijideétirapqilinishiwehörmetqilinishighakapaletlikqilishhemdedemokratikjem'iyetteexlaq.jamaettertipiweomumiyparawanliqningorunluqéhtiyajighalayqlishish.</p>
+    <p>ashuhoquqweerkinliklerniyürgüzgende,herqandaqehwaldabirleshkendöletlerteshkilatningasasiymeqsitiweprinsipighaxilapliqqilishqabolmaydu.</p>
+  </li>
+  <li>
+    <p>buxitabnaminingherqandaqbirmaddisiniherqandaqdölet,guruhyakishexsmushuxitabnamideqeytqilinghanherqandaqhoquqweerkinliknibuzushmeqsitidikipa'aliyetyakiheriketlerniélipbérishqahoquqluqdepsukutqilidighanmenidechushendurushkebolmaydu.</p>
+  </li>
+</ol>

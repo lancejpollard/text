@@ -1,0 +1,122 @@
+<h1 align='center'>DECLARATION UNIVERSAL DEL DERECTOS HUMAN</h1>
+<h2 align='center'>PREAMBULO</h2>
+<p align='center'>Considerante que le recognoscentia del dignitate inherente a tote le membros del familia human e de lor derectos equal e inalienabile constitue le fundamento del libertate, del justitia e del pace in le mundo,
+Considerante que le ignorantia e le disprecio del derectos human ha resultate in actos de barbaria que ultragia le conscientia del humanitate, e que le advenimento de un mundo in le qual le esseres human essera libere de parlar e de creder, liberate del terror e del miseria, ha essite proclamate como le plus alte aspiration del homine,
+Considerante que il es essential que le derectos human es protegite per medio de un regime de derecto, a fin que le homine non es compellite al ultime recurso del rebellion contra le tyrannia e le oppression,
+Considerante que il es essential promover le disveloppamento de relationes amical inter le nationes,
+Considerante que in le Charta le populos del Nationes Unite ha reaffirmate lor fide in le derectos human fundamental, in le dignitate e in le valor del persona human, in le equalitate del derectos del homines e del feminas, e que illos se ha declarate resolute a promover le progresso social e a instaurar melior conditiones de vita in un libertate plus grande,
+Considerante que le Statos Membros ha promittite de assecurar, in cooperation con le Organisation del Nationes Unite, le respecto universal e effective al derectos human e libertates fundamental,
+Considerante que un conception commun de iste derectos e libertates es del plus grande importantia pro le plen realisation de iste promissa,
+Le Assemblea General
+Proclama le presente Declaration Universal del Derectos Human como le ideal commun a attinger per tote le populos e nationes, a fin que tote le individuos e tote le organos del societate, habente iste Declaration constantemente in mente, se effortia, per le inseniamento e per le education, a disveloppar le respecto a iste derectos e libertates e a promover, per mesuras progressive de character national e international, lor recognoscentia e lor application universal e effective tanto inter le populos del Statos Membros mesme como inter los del territorios sub lor jurisdiction.</p>
+<ol>
+  <li>
+    <p>Toteleessereshumannascelibereeequalindignitateeinderectos.Illesesdotatederationedeconscientiaedebeagerleunesversolealteresinunspiritodefraternitate.</p>
+  </li>
+  <li>
+    <p>ToteesserhumanhatotelederectosetotelelibertatesproclamateinisteDeclaration,sinalicundistinctionderacia,decolor,desexo,delingua,dereligion,deopinionpoliticodealtereopinion,deoriginenationalosocial,depositioneconomic,denascentiaodequalcunquealtereposition.Inplus,ilnonesserafacitealicundistinctionfundatesuperlestatutopolitic,juridicointernationaldelpaisodelterritorioalqualunpersonapertine,tantosiilsetractadeunpaisindependentecomodeunterritoriosubtutela,nonautonomeosubmittiteaqualcunquealterelimitationdesoveranitate.</p>
+  </li>
+  <li>
+    <p>Toteindividuohalederectoalvita,allibertateealsecuritatedesupersona.</p>
+  </li>
+  <li>
+    <p>Necunoesserasubmittiteasclavitudeoservitude;lesclavitudeeletrafficodesclavosesinterdicteintotesuformas.</p>
+  </li>
+  <li>
+    <p>Necunoesserasubmittiteniatorturasniapenasotractamentoscruel,inhumanodegradante.</p>
+  </li>
+  <li>
+    <p>Toteesserhumanhalederectoalrecognoscentiadesupersonalitatejuridicinomnelocos.</p>
+  </li>
+  <li>
+    <p>Totesesequalantelelegeeha,sindistinction,lederectoaequalprotectiondellege.ToteshalederectoaequalprotectioncontratotediscriminationqueinfringeisteDeclarationecontratoteprovocationauntaldiscrimination.</p>
+  </li>
+  <li>
+    <p>Totepersonahalederectoaunrecursoeffectiveanteletribunalesnationalcompetentecontraleactosqueviolasuderectosfundamentalrecognosciteperleconstitutioneperlelege.</p>
+  </li>
+  <li>
+    <p>Necunopoteesserarbitrarimentearrestate,deteniteoexilate.</p>
+  </li>
+  <li>
+    <p>Totepersonahalederecto,inplenequalitate,aesserauditeequitabile-epublicamenteperuntribunalindependenteeimpartial,proledeterminationdesuderectoseobligationesedequalcunqueaccusationdecriminecontraille.</p>
+  </li>
+  <li>
+    <p>Totepersonaaccusatedeundelictohalederectodeesserpresumiteinnocenteusquealmomentoquandosuculpabilitatehaberaessitelegalmenteestabliteinunprocessopubliceinlequalilhaberaessiteassecuratetotelegarantianecessariprosudefensa.</p>
+    <p>Necunoesseracondemnateproactioneseomissionesque,almomentoquandoilloshaessitecommittite,nonessevaactosdelictuosesecundolederectonationalointernational.Idem,ilesserainfligitenullepenaplusfortequeilloqueessevaapplicabilealmomentoquandoleactodelictuosehaessitecommittite.</p>
+  </li>
+  <li>
+    <p>Necunoesseraleobjectodeingerentiasarbitrariinsuvitaprivate,sufamilia,sudomicilioosucorrespondentia,nideattaccosasuhonoroasureputation.Totepersonahalederectoalprotectiondellegecontratalingerentiasoattaccos.</p>
+  </li>
+  <li>
+    <p>TotepersonahalederectodecircularliberementeedeeligersuresidentiainleterritoriodeunStato.</p>
+    <p>Totepersonahalederectodequitarqualcunquepais,incluselesue,ederetornarasupais.</p>
+  </li>
+  <li>
+    <p>Incasodepersecution,totepersonahalederectodecercarasyloedebeneficiardelasyloinalterepaises.</p>
+    <p>Istederectononpoteesserinvocateinlecasodepersecutionesoriginatedecriminesnon-politicodeactoscontrarialscoposeprincipiosdelNationesUnite.</p>
+  </li>
+  <li>
+    <p>Totepersonahalederectoaunnationalitate.</p>
+    <p>Necunopoteesserprivatearbitrarimentedesunationalitate,nidelderectodecambiardenationalitate.</p>
+  </li>
+  <li>
+    <p>Lehomineselefeminas,apartirdeletatenubile,halederecto,sinalicunrestrictionquantoalracia,alnationalitateoalreligion,demaritarseedefundarunfamilia.Illeshaberaderectosequalquantoalmaritage,durantelemaritageeincasodedissolutiondelmaritage.</p>
+    <p>Soloconlelibereeplenconsentimentodelfutursposos,lemaritagepoteessercontrahite.</p>
+    <p>LefamiliaesleelementonaturalefundamentaldelsocietateehalederectoalprotectiondelsocietateedelStato.</p>
+  </li>
+  <li>
+    <p>Totepersonahalederectoalproprietate,individual-ecollectivemente.</p>
+    <p>Necunoesseraprivatearbitrarimentedesuproprietate.</p>
+  </li>
+  <li>
+    <p>Totepersonahalederectoallibertatedepensamento,deconscientiaedereligion;istederectoincludelelibertatedecambiardereligionodeconviction,assicomolelibertatedemanifestarsureligionosuconviction,soloincommunitateconaltereseinpublicooprivatemente,perleinseniamento,lepractica,lecultoeleobservantiadelritos.</p>
+  </li>
+  <li>
+    <p>Totepersonahalederectoallibertatedeopinionedeexpression,loqueimplicalederectodenonessermolestateacausadesuopinion,lederectodeinvestigarereciperinformationeseopiniones,elederectodediffunderlos,sinlimitationdefrontieras,perqualcunquemediodeexpression.</p>
+  </li>
+  <li>
+    <p>Totepersonahalederectoallibertatedereunionedeassociationpacific.</p>
+    <p>Necunopoteesserobligateapertineraunassociation.</p>
+  </li>
+  <li>
+    <p>Totepersonahalederectodeparticiparinlegovernamentodesupais,eligitedirectementeopermedioderepresentantesliberemente.</p>
+    <p>Totepersonahalederectodeacceder,inconditionesdeequalitate,alfunctionespublicdesupais.</p>
+    <p>Levoluntatedelpopuloeslebasedelautoritatedelpoterpublic;istevoluntatedebeexprimersemedianteelectionesauthentic,quedebeoccurrerperiodicamente,persuffragiouniversaleequal,epervotosecreteoperaltereprocedimentoequivalentequegarantialelibertatedelvoto.</p>
+  </li>
+  <li>
+    <p>Totepersona,comomembrodelsocietate,halederectoalsecuritatesocial,eaobtener,medianteeffortionationalecooperationinternational,lesatisfactiondelderectoseconomic,socialecultural,indispensabileasudignitateealliberedisveloppamentodesupersonalitate,inaccordoconleorganisationeleressourcesdecatastato.</p>
+  </li>
+  <li>
+    <p>Totepersonahalederectoaltravalio,allibereelectiondesutravalio,aconditionesjusteefavorabiledesutravalioealprotectioncontraledisoccupation.</p>
+    <p>Totepersonahalederecto,sinalicundiscrimination,aunsalarioequalprountravalioequal.</p>
+    <p>Totepersonaquitravalia,halederectoaunremunerationjusteefavorabile,queassecuraaille,assicomoasufamilia,unexistentiaconformealdignitatehuman,equeesseracompletate,sinecessari,peralteremediosdeprotectionsocial.</p>
+    <p>Totepersonahalederectodefundarsyndicatosconalteresedeaffiliarseasyndicatosproledefensadesuinteresses.</p>
+  </li>
+  <li>
+    <p>Totepersonahalederectoalreposoealtemporelibere,aunlimitationrationabiledeldurationdetravalioeavacantiaspagateperiodic.</p>
+  </li>
+  <li>
+    <p>Totepersonahalederectoaunnivellodevitasufficienteprolesanitateebenesserdeilleipseedesufamilia,queincludelemangiar,levestir,lehabitar,leassistentiamediceleserviciossocialnecessari;illehaderectoalsecuritateincasodedisoccupation,demaladia,deinvaliditate,deviduitate,devetulessaoinalterecasosdeperditadesumediosdesubsistentiacausatepercircumstantiasindependentedesuvoluntate.</p>
+    <p>Lematernitateeleinfantiahalederectoaadjutaeassistentiaspecial.Toteleinfantes,nasciteinlemaritageonasciteforasdelmaritage,halederectoaequalprotectionsocial.</p>
+  </li>
+  <li>
+    <p>Totepersonahalederectoaleducation.Leeducationdebeessergratuite,alminusproleinstructionelementariefundamental.Leinstructionelementariesseraobligatori.Leinstructiontechniceprofessionaldebeessergeneralisate;leaccessoalstudiossuperioresseraequalprototes,infunctiondelmeritosrespective.</p>
+    <p>Leeducationdebevisaralplendisveloppamentodelpersonalitatehumanealreinfortiamentodelrespectoalderectoshumaneallibertatesfundamental.Illodebefavorisarlecomprehension,letolerantiaeleamicitateintertotelenationesetotelegrupposethnicereligiose,assicomoledisveloppamentodelactivitatesdelNationesUniteprolemantenentiadelpace.</p>
+    <p>Legenitoreshalederectopreferentedeseligerletypodeeducationprolorinfantes.</p>
+  </li>
+  <li>
+    <p>Totepersonahalederectodeprenderparteliberementeinlevitaculturaldelcommunitate,defruerdelartesedeparticiparinleprogressoscientificeinlebeneficiosqueresultadeillo.</p>
+    <p>Totepersonahalederectoalprotectiondelinteressesmoralematerial,resultantedequalcunqueproductionscientific,litterarioartisticdelqualilleesleautor.</p>
+  </li>
+  <li>
+    <p>TotepersonahalederectoalestablimentodeunordinesocialeinternationalinlequallederectoselibertatesproclamateinisteDeclarationpoteesserplenmenterealisate.</p>
+  </li>
+  <li>
+    <p>Totepersonahadeberesversolecommunitateinlequalsololelibereeplendisveloppamentodesupersonalitateespossibile.</p>
+    <p>Inleexercitiodesuderectoselibertatestotepersonaesserasolmentesubmittiteallimitationesestabliteperlelegeconleunicfindeassecurarlerecognoscentiaelerespectodelderectoselibertatesdelaltereseafindesatisfacerlejusteexigentiasdelmoral,delordinepublicedelbenessergeneralinunsocietatedemocratic.</p>
+    <p>Istederectoselibertatesnonpotera,innecuncaso,esserexerciteinoppositionalscoposealprincipiosdelNationesUnite.</p>
+  </li>
+  <li>
+    <p>NulledispositiondelpresenteDeclarationpoteesserinterpretatecomoimplicanteprounstato,proungruppamentooprounindividuounqualcunquederectodelivrarseaactivitatesederealisaractosvisantealdestructiondelderectoselibertatesproclamateinisteDeclaration.</p>
+  </li>
+</ol>

@@ -1,0 +1,122 @@
+<h1 align='center'>CHIBVOMEREZO CA LAMULO LOSAMALIRA KHALIDWE LA MUNTHU PA DZIKO LONSE LA PANSI</h1>
+<h2 align='center'>CIYAMBI</h2>
+<p align='center'>Popeza kuti citsimikizo ca khalidwe loyenera la munthu mu banja lonse ndico tsinde la ufulu, ungwiro ndi mtendere pa dziko liri lonse la pansi,
+Popeza kuti kusalabadira ufulu wa munthu kwabweretsa khalidwe la nkhalwe pa umoyo wa munthu, ndi kutinso kusintha kwa zinthu pa dziko la pansi mwakufuna kupereka ufulu weni-weni pa umoyo wa munthu aliyense ndilo funo la munthu wamba aliyense,
+Popeza kuti ndi kofunikira kuti ufulu wa munthu ucinjirizidwe ndi lamulo pofuna kupewa nkhondo yomenyera ufulu kukhala ngati njira yomwe munthu angagwiritse nchito pofuna kumasulidwa ku nsinga za nkhalwe,
+Popeza kuti ndi kofunikira kukweza umodzi pakati pa mitundu ya maiko osiyana-siyana pa dziko lonse la pansi,
+Popeza kuti anthu a m' maiko amene ali mamembala a bungwe la United Nations anabvomereza za kufunikira kwa ufulu wa munthu mu makhalidwe ace onse ndiponso kuti sipayenera kukhala kusiyana pakati pa mwamuna ndi mkazi m' makhalidwe ao ndikutinso maikowa anadzipereka kukweza nchito za cisangalalo ndi makhalidwe ena pa ufulu wa munthu,
+Popeza kuti maiko amene ali mamembala a bungweli la United Nations anatsimikiza kugwirizana ndi bungweli pa nchito zokweza ufulu wa munthu pa umoyo wace ndi kutsatira zofunikira zonse mu lamuloli lopereka ufulu weni-weni pa umoyo wa munthu,
+Popeza kuti kumvetsetsa cifuniro ca kufunika kwace kwa ufulu wa munthu pa umoyo wace kuli kofunikira kwambiri pofuna kuti cibvomerezoci cigwire nchito yace moyenera.
+Motero tsopano, bungwe lalikulu la General Assembly likulengeza
+Chibvomerezoci pakati pa imitundu ya antu onse a dzikoli la pansi, ndikuti munthu aliyense mokumbukira chibvomerezoci nthawi zonse adzakhoza kuthandiza kukweza ndi kukwaniritsa lamuloli pakati pa maiko onse amene ali mamembala a bungwe la United Nations ndiponso ku anthu okhala m' maiko ena amene sakhudzidwa ndi nchito za bungweli pa dziko lonse la pansi.</p>
+<ol>
+  <li>
+    <p>Anthuonseamabadwamwaufulundiponsoolingangam'makhalidweao.Iwoamakhalandinzeruzacibadwidwekoteroayenerakucitiranazabwinowinandimnzace.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealindidangalokhalandiufuluonseofunikirapaumoyowacemolinganandizofunikiramuchibvomerezocikopandatsankholirilonsemongalamtundu,khungu,kukhalamwamunakapenamkazi,cilankhulidwe,cumakapenamaonekedweenaaceonse.Ndiponsotsankholinalirilonsemongalamalireamaiko,ndalekapenamaloopezekamaikowomosayang'anapaulamulirowacewadzikolopainkhanizaufulukapenakayendetsedwekaulamulirowace.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealinaoufuluwapaumoyom'makhalidweaceonsemocinjirizidwa.</p>
+  </li>
+  <li>
+    <p>Palibemunthuameneadzakhalamongakapolokapenakugwiranchitoyopandamalipiromokakamizidwa;Ukapolokapenacibalosizidzaloledwangakhalepang'ono.</p>
+  </li>
+  <li>
+    <p>Palibemunthualiyenseameneadzayenerakuzunzidwamunjirairiyonsepanthawiyamoyowace.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealiobvomerezedwamuumoyowacewaumunthumolinganandilamuloloyang'anapamakhalidweamunthu.</p>
+  </li>
+  <li>
+    <p>Anthuonsealiolinganam'makhalidweaumoyowaokoterokutipalibekusiyanakulikonsemulamulolakasamalidwekaumoyowao.Moteromunthualiyensealinalodangalokhalandicisamalirocoyeneramolinganandichibvomerezocalamulolosamalirakhalidwelaumoyowamunthualiyense.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealinalodangalodandaulapakhalidwelaumoyowacekumabungweakulu-akuluoyang'anapamadandauloosiyana-siyanamudzikomalingandiufuluwamunthualiyenseopatsidwamwalamulopaumoyowace.</p>
+  </li>
+  <li>
+    <p>Munthualiyensesayenerakumangidwa,kusungidwamundendekapenakuthamangitsidwamudzikolacemosayenera.</p>
+  </li>
+  <li>
+    <p>Munthyaliyensealindidangaloperekadandaulolacelokhudzazaufuluwamoyowacekubungwelapaderalacilungamopofunakulandiraciweruzocoyenerapamlanduulionseumenemunthuangapezekenao.</p>
+  </li>
+  <li>
+    <p>Munthualiyenseakazengedwamlanduwofikanaomukhoti,munthuyoayenerakuyesedwaosacimwakufikirapataonekaumboniotsimikizakutiiyeyoanacitacimolo.</p>
+    <p>Munthualiyensesayenerakuzengedwamlanduosayeneramotsutsanandilamuloladzikolacekapenadzikolonselapansi.Ndipomunthualiyenseocimwilalamuloayenerakupatsidwacilangocolinganandimlanduyomosapitiliramalirealamulolamlanduwace.</p>
+  </li>
+  <li>
+    <p>Munthualiyenseayenerakulemekezedwapaumoyowacewamseri(privatelife),banjakapenanyumbayacendiponsoumoyowinawaiyeyekha,mwinansokudzudzulidwapakhalidwelaumoyowacewamseri.Aliyensealinalodangalocinjirizidwakukhalidwelosokonezaumoyowacemwalamulo.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealinalodangaloyendakapenakukhalakulikonsemudzikolace.</p>
+    <p>Munthualiyensealindidangalocokamudzikolacekapenadzikolinalirilonsendiponsoalinalodangalobweleramudzikolacemwakufunakwace.</p>
+  </li>
+  <li>
+    <p>Munthualiyenseangathekupitakukakhalakudzikolirilonsemwakuthawamazunzomudzikolace.</p>
+    <p>KomatudangaloterelisiridzaperekedwakumunthuofunakulangidwakaambakazolakwazinazobvomerezedwandibungwelaUnitedNations.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealindidangalokhalanzikayadziko.</p>
+    <p>Munthualiyensesayenerakuletsedwakapenakulandidwaunzikawadzikolacendiponsokuletsedwakusinthaunzikawace.</p>
+  </li>
+  <li>
+    <p>Mwamunandimkaziwamsinkhuobvomerezekaalindidangalokwatirakapenakukwatiwandikukhalandibanjakopandatsankholamtundu,unzikakapenampingo.Anthuawiriwaalindidangalomangabanjandiponsokumasulabanjalao.</p>
+    <p>Cikwaticiriconsecidzamangidwamobvomerezedwandianthuawiriofunakukwatiranamwaufulu.</p>
+    <p>Banjandilomazikoeni-eniamtunduwadzikokoterokutiliyenerakukhalalocinjirizidwamokwanirandiBomaladziko.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealinalodangalokhalandicumapaiyeyekhakapenamwakukhalagulundianzace.</p>
+    <p>Palibemunthuameneayenerakulandidwacumacacemosayenera.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealindidangalokhalandimaganizo,nzerukapenampingowakukhosikwace;ufuluwundiosinthampingokapenacipembedzocacendiponsoufuluwofalitsanchitondicikhulupilirocampingomwaiyeyekhakapenamogwirizanandianzacekupsyoleram'maphunziro,kacitidwekazinthu,cipembedzondiponsomukaonekedwekanchitoyo.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealindidangalaufuluwamaganizondimalankhulidwe;ufuluwuukhudzamaganizoamunthukopandamsokonezowinawace,kupemphandikulandiranzerundiponsokuphunzitsaenanzerukapenamaganizomogwiritsanchitonjirairiyonse.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealindidangalopezekapamsonkhanokapenabungwelirilonse.</p>
+    <p>Munthualiyensesayenerakukakamizidwakukhalamembalawabungwelirilonse.</p>
+  </li>
+  <li>
+    <p>MunthualiyensealindidangalogwapopakayendetsedwekaBomaladzikolacemwakudziperekapanchitozacekapenamwakusankhakoatsogoleriolankhuliranchitozaBomalo.</p>
+    <p>AliyensealindiufuluolandirathandizolaBomamudzikolace.</p>
+    <p>Bomalirilonselidzayenerakuyendetsedwamolinganandizofunazaanthuamudzikolo;zofunazaanthuwozidzaonetsedwakupsyoleramumasankhooyeneraameneadzayenerakucitikamwacilungamomwaufuluwamunthualiyensewadziko.</p>
+  </li>
+  <li>
+    <p>Munthualiyensepokhalanzikayadzikoalindidangalolandiracitetezopanchitozacisangalalocamoyowacendikutiayenerakuzindikirazaufuluwacepanchitozacuma,cisangalalondimiyambocinthucomweciricofunikirakwambiripaubwinondicitukukocamoyowace.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealindidangalogwiranchitoyakukhosikwace,kugwiranchitoyamalamulooyenerandiponsokuthandizidwapabvutolakusowakwanchito.</p>
+    <p>Munthualiyensekopandatsankholirilonsealindidangalolandiramalipiromolinganandianzaceogwiranaonchitoimodzi.</p>
+    <p>Munthualiyenseogwiranchitoalindidangalolandiramalipirookwanirakusamalirabanjalacemopatsidwansothandizolinalapaderalosamaliraumoyowace.</p>
+    <p>Munthualiyensealindidangalokhalamembalawabungwelirilonselothandizapaumoyowace.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealindidangalopezampumulondicisangalalomwakupatsidwamaolaokwaniraogwiliramonchitondimasikuachuticamalipiro.</p>
+  </li>
+  <li>
+    <p>Muthualiyensealindidangalokhalandiumoyowabwinomubanjalace,mwakukhalandicakudya,zobvala,nyumbayogonamondiponsothandizolamankhwala,kudzansothandizoloyenerapanthawiyosowanchito,nthawiyamatenda,nthawiyopuwala(kulemala),nthawiyaumasiye,nthawiyaukalambakapenanthawiyosowathandizolirilonselofunikirapaumoyowamunthukaambakazobvutazinazodziwikabwino.</p>
+    <p>Anakubalapamodzindianaayenerakupatsidwacisamalirocapaderapaumoyowao.Anaonsepamodzindiajaameneabadwamunjirazosayeneraayenerakutetezedwamunjiraimodzi.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealindiufuluwakupatamaphunziro.Maphunzirooyambaadzayenerakukhalaaulerekomansomokakamizamwanaaliyensekupatamaphunzirowa.Maphunziroanchitozalusoadzayenerakupatsidwakwaaliyensepamenemaphunziroapamwambaadzapatsidwakuanamolinganandinzeruzao.</p>
+    <p>Munthualiyenseadzaphunzitsidwazakasamalidwendikakulidwekaumoyowamunthundikakwezedwekaulemuwamunthundiufuluwaumoyowace.Maphunzirooterewaadzakhalaofunakukwezaumodzi,cikhululukirondiubwenzipakatipaanthuamaiko,maguluamipingondienaosiyana-siyanandiponsokulimbikitsanchitozabungwelaUnitedNationspofunakukhazikitsamtendere.</p>
+    <p>Makoloalindidangalosankhamaphunziroofunikirakuanaao.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealindiufuluwogwapopaumoyowazisangalalozamaguluaanthu,kusangalalakapenakudziperekapanchitozokwezanchitozazisangalalozosiyana-siyanapakatipaanthu.</p>
+    <p>Aliyensealindidangalopezacitetezopacitukukocanchitozacezacitukukocosiyana-siyanamokomeradziko.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealinalodangakapenaufuluwacisangalalocamoyowacemolinganandichibvomerezocazofunazalamulolosamalirakhalidwelaumoyowamunthu.</p>
+  </li>
+  <li>
+    <p>Munthualiyensealindinchitoyothandizakukwezacitukukocaumoyowaanthumolinganandimphamvuyace.</p>
+    <p>Mogwiritsanchitoufuluwace,munthualiyenseadzayenerakugwiranchitomolinganandimalamuloaBomapofunakuthandizapanchitozokwezaumoyowaanthuonseamudzikondilingolofunakubweretsacimvanondicitukukocoyenerapakatipaanthu.</p>
+    <p>UfuluwakagwiridwekanchitozothandizakukwezacitukukocadzikouyenerakulinganandizolingazabugwelaUnitedNations.</p>
+  </li>
+  <li>
+    <p>Zosindikizidwazonsezachibvomerezocalamulolosamalirakhalidwelaumoyowamunthu,sizitanthauzakutiBoma,kagulukaanthukapenamunthuwinaaliyensealindidangakapenaufuluocitazinthuzinazonsezofunakuonongacilingocachibvomerezociai.</p>
+  </li>
+</ol>

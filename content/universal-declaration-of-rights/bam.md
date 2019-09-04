@@ -1,0 +1,122 @@
+<h1 align='center'>Hadamaden josiraw dantigɛkan, 1948</h1>
+<h2 align='center'>ɲebila</h2>
+<p align='center'>K’a d’a kan ko dine hɔrɔnɲa ni tilennenɲa ni lafiya sintin ye hadamaden bɛɛ danbe dɔnni n’u josiraw danmakɛɲneni ye,
+K’a d’a kan ko hadamaden josiraw n’u kɔnni kɛra dannajuguya caman sababu ye minnu bɛ maaya ɲugun, ani ko hadamaden haju bɛɛ la gɛlɛnman ye de ka diɲe kura dabali min den si tɛ bali k’a hakilila fɔ nink’a dannasira batu, min den bɛɛ tangalen bɛ bagabagali ni ɲani ma,
+K’a d’a kan ko a tɛ ɲɛ fo hadamaden josiraw ka lakana sariyabatufanga de fe yaasa muruti kana kɛ mɔgɔ ma jagoya ye tɔɲɔn ni degun kanma,
+K’a d’a kan ko kanu jiidili ka kan ka kɔkɔrɔdon kabilaw ni ɲɔgɔn cɛ,
+K’a d’a kan ko Diɲe kabilatɔn y’a ɲaniya dantigɛ kokura, kabilaw Bɛnkansɛbɛn kɔnɔ, ko ale sirilen bɛ hadamaden josira bɛrɛw la, hadamaden danbe n’a kiimɛ na, cɛ ni muso josiraw kɛɲɛni na, ani ko a b’a cɛsire maaya ka taa ɲe, diɲɛnatigɛ ka nɔgɔya hɔrɔnɲa jiidilen kɔnɔ,
+K’a d’a kan ko tɔndenjamana bɛɛ y’a kandi ko a bɛ fara Kabilatɔn kan ka hadamaden josiraw n’a ka hɔrɔnɲa bɛrɛ lakana ani k’u waleya diɲe bɛɛ kɔnɔ,
+K’a d’a kan ko fɔlen tɛ se ka tiimɛ a ɲɛ ma ni bɛn ma kɛ josiraw ni hɔrɔnɲa faamucogo kan,
+Tɔn ɲɛjama y’a kanbɔ
+Hadamaden josiraw dantigɛkan in ka kɛ diɲɛ fasojama n’a kabila bɛɛ kuntilenna ye, yaasa a ka basigi mɔgɔ kelen-kelen bɛɛ hakili la, ani maaya labɛnbolo bɛɛ kɔnɔ, u k’u cɛsiri kalan ni ladamuni fɛ ka josira ni hɔrɔɲasira ninnu batuli jiidi, ka fɛɛrɛ tigɛ faso kɔnɔ n’a kɔn kan ka sira ninnu jateli n’u waleyali nɛmɛnɛmɛ tiimɛ diɲɛ bɛɛ, tɔndenjamanaw yɛrɛ kɔnɔmɔgɔw fɛ, ani u ka marajamanw kɔnɔmɔgɔw fɛ.</p>
+<ol>
+  <li>
+    <p>Hadamadenbɛɛdanmakɛɲɛnenbɛbange,danbenijosirala.Hakilinitaasib’ubɛɛla,waukakankabadenɲasiradewaleyauniɲɔgɔncɛ.</p>
+  </li>
+  <li>
+    <p>Bɛɛkakanjosiranihɔrɔnɲasiradantigɛlenninnubɛɛla,wolomalifansit’ala,jankosiyawoloma,farijɛyan’afinɲa,cɛyanimusoya,kan,diinɛ,politikisiranimiirisirajanojan,fasowolomanisɛrɛwoloma,sɔrɔnibondanijɔyɔrɔwolomafanofan.Wamɔgɔtɛminɛibɔyɔrɔma,odabolomanakɛfɛnofɛnyepolitikinisariyalaanidiɲɛkɔnɔ:okakɛjamanawalidugukoloyɛrɛmahɔrɔnye,walikalifafen,walimaralen,walidankaribɛminkasetigiyala,</p>
+  </li>
+  <li>
+    <p>Hadamadenbɛɛkakannikisinitanganihɔrɔɲaye.</p>
+  </li>
+  <li>
+    <p>Mɔgɔsitɛkɛjɔnye,walibolokɔnɔmɔgɔ.Jɔnɲanijɔnjagojanojankɔnnendon.</p>
+  </li>
+  <li>
+    <p>Mɔgɔsinimankankaɲangata;dannajuguyaɲanginiwalidanbelakariɲagaginimankankadaikan.</p>
+  </li>
+  <li>
+    <p>Mɔgɔbɛɛkakannijateliyesariyafɛyɔrɔbɛɛ.</p>
+  </li>
+  <li>
+    <p>Bɛɛkakansariyala,bɛɛkakannilakananiyesariyafɛBɛɛkakankakisifisamanciyawalewmaminnubɛdankarikɛDantigɛkaninna,animɔgɔlaɲiniwalefɛnofɛnbɛnan’oɲɔgɔnfisamanciyaye.</p>
+  </li>
+  <li>
+    <p>Bɛɛjodonk’isirijamanasariyaboloɲumanwnak’ijosirabɛrɛwdankariwlewkɛlɛ,ijosiraminnusɛmɛntiyalenbɛjamanaSariyabajufɛ.</p>
+  </li>
+  <li>
+    <p>Binmankankakɛmɔgɔsikank’iminɛ,k’idatugu,walik’igɛndugula.</p>
+  </li>
+  <li>
+    <p>Bɛɛjobɛk’ifɛladakɛnɛkankiiridatilennenbagabagabalikɔrɔ,akajonijalakibɔɲɔgɔnnan’amakɛnimɔgɔlawolomaye.</p>
+  </li>
+  <li>
+    <p>Komanadamɔgɔla,itɛminɛsɔntigiyefokiirik’ijalakibangekɛnɛkanilapasalisirabɛɛtiimɛnenkɔ.</p>
+    <p>Mɔgɔteɲangik’adakɛwalewalifilikankɛwaatiy’asɔrɔsitɛjamanakɔnɔwalijamanawniɲɔgɔncɛminb’ojatekojuguye.Waɲangilifanatedaikankatɛmɛnmintunbɛsennakankojugukɛtumana.</p>
+  </li>
+  <li>
+    <p>Bintɛsekakɛmɔgɔkankadonigundola,ikadukɔnɔkowla,isisokɔnɔan’ikagundosɛbɛnwna,walikadankarikɛitɔgɔnidanbela.Sariyakakankabɛɛtangaobinkanninidankarisuguma.</p>
+  </li>
+  <li>
+    <p>Bɛɛkakannitaa-ninka-seginyeifɛrɛma,aniisigiyɔrɔsugandilijamanakɔnɔ.</p>
+    <p>Mɔgɔtɛbalikabɔikajamanawalijamanawɛrɛkono,katilakaseginikajamanakɔnɔ.</p>
+  </li>
+  <li>
+    <p>Bɛɛjodonkabɔmafiɲɛyakɔrɔkatagaikunkalifayɔrɔwɛrɛ,waojamanawɛrɛmankank’ijɛkalifayɔrɔla.</p>
+    <p>Imankann’ojosirayen’inɔminɛkunyekojugukɛlideyejaatiforobasariyalawalimakɛwaleminnubɛKabilatɔnkuntilennan’adaliluwsɔsɔ.</p>
+  </li>
+  <li>
+    <p>Mɔgɔbɛɛkakannikabilayaye.</p>
+    <p>Bintɛkɛmɔgɔsikank’ijɛkabilayala,walik’ibalikakabilayafalen.</p>
+  </li>
+  <li>
+    <p>Cɛnimusosimanasefuruye,siyakot’ola,kabilakot’ola,diinɛkot’ola,ukakannifurunidenbayaye.Udanmakakanjosiralafurudontuman’akuntagalakɔnɔaniasalikɛnɛkan.</p>
+    <p>Furutɛsekasirinicɛnimusomadiɲɛn’ayefaasi.</p>
+    <p></p>
+  </li>
+  <li>
+    <p>Ikelennao,jɛkɔnɔo,mɔgɔbɛɛkakannitɔgɔlafɛntigiyaye.</p>
+    <p>Bintɛsekakɛmɔgɔkank’itɔgɔlafɛnminɛila.</p>
+  </li>
+  <li>
+    <p>Bɛɛb’iyɛrɛyemiirisiranitaasinidiinɛkola;ojob’iyamaruyakadiinɛn’idannakofalen,anik’uwaleyaikelennawaliin’ijenɔgɔnw,kɛnɛkanwalidundugumana,kalannimatarafalinibatusenfɛ.</p>
+  </li>
+  <li>
+    <p>Bɛɛsagobɛimiiriyala,aniikakililajirali;olaitɛbagabagak’adaimiiriyakan,waijobɛkamiiriyanikibaruyawɲinianik’ugansifojamanafojamana,jɛnsɛnnifɛɛrɛsugubɛɛla.</p>
+  </li>
+  <li>
+    <p>Bɛɛsagobɛkajɛdilan,kaɲɔgɔɲewkɛ.</p>
+    <p>Mɔgɔtɛjagoyakadonjɛla.</p>
+  </li>
+  <li>
+    <p>Bɛɛkakaninjɔyɔrɔyeifasokoɲɛwɲɛkunna,iyɛrɛkunwaliidungɔlamɔgɔsugandilenfɛ.</p>
+    <p>Bɛɛkakannijɔyɔrɔye,ɲɛnawolomat’ala,ikajamanaforobabaarawla.</p>
+    <p>Jamanadungɔdeyeforobafangadaga;adungɔkakankajirakaladajɛlenwsenfɛ,bɛɛkakanforobakaladaminnuna,gundolawalioɲɔgɔnnasirawlaminnubɛsagolasugandilitiimɛ.</p>
+  </li>
+  <li>
+    <p>Bɛɛyemaayadenyeminkɛ,bɛɛkakanniɲɛsumayemaayakɔnɔ;jamanakamagannijamanawcɛɲɔgɔndɛmɛnkakankakɛsababuye,jamanasariyan’asekohukumukɔnɔ,kabɛɛjosiratiimɛsɔrɔnidiɲɛnatigɛnifaamuyasiratigɛla,danbenimɔgɔbɛrɛyayiriwalitɛtaaominnukɔ.</p>
+  </li>
+  <li>
+    <p>Mɔgɔbɛɛkakannibaaraye,baaracogoɲumaninbaaranafaman;bɛɛkakankatangabaarantaɲama.</p>
+    <p>Baarawmanakɛɲɛ,sarawkakankakɛɲɛ;mɔgɔmabɔmɔgɔla,bɛɛkakanola.</p>
+    <p>Mɔgɔomɔgɔn’ibɛbaarala,ikakannisarasɛbɛyeminbɛin’ikadenbayasuturahadamadeɲana,animaayalakanasiratɔfɛnofɛnn’akunbɛ.</p>
+    <p>Bɛɛjobɛkamɔgɔwɛrɛwfaraikankakaaratɔnwdilan,walikadonbaaratɔnwna,yaasak’inafasirawmakara.</p>
+  </li>
+  <li>
+    <p>Bɛɛkakanilafiɲɛniɲɛnajɛye,anibaarawaatidannenhakɛla,aniwaatiniwaatisɛgɛnnabɔmintɛsarala.</p>
+  </li>
+  <li>
+    <p>Mɔgɔbɛɛkakannisɔrɔyediɲɛnatigɛlaminbɛkɛnɛyanihɛɛrɛsabatiin’ikadenbayaye,ikobalo,fɛɛrɛbɔ,siso,furakɛli,animaayadɛmɛnsiragɛlɛnw;ikakannidɛmɛnyebaarantaɲanibananidɛsɛnifiriyanikɔrɔkɔnɔ,on’aɲɔgɔnnabaanmakomanakɛsababuyek’ikadiɲɛnatigɛsɔrɔsirawtiɲe.</p>
+    <p>Bangenideɲakakannidɛmɛnniladonnikɛrɛnkɛrɛnnenye.Denoden,akɛrafurudenyeo,amakɛfurudenyeo,bɛɛkakanlakanacogokelennamaayakɔnɔ.</p>
+  </li>
+  <li>
+    <p>Mɔgɔbɛɛkakannikalanye.Saramankankabɔkalanna,kalanbajukɔninafiyew.Kalanbajuyebɛɛmawajibiye.Fɛɛrɛkalannibaarakalankakankaforobaya;kalandakunbakakankalabilabɛɛye,fisamanciyat’ala,mɔgɔomɔgɔn’iy’asaratidafa.</p>
+    <p>Ladamunikakankaɲesinmɔgɔbɛrɛyayiriwalima,hadamadenjosirawmatarafalinihɔrɔɲabajuwsinsinni.Akakankafaamuyanisabaliniteriyaɲɔgɔyakabilawnisibolownidiinɛkulubɛɛniɲɔgɔncɛ,anikaDiɲɛkabilatɔnkalafiyabasigiwalewyiriwa.</p>
+    <p>Bangebagawfɔlɔdesagobɛudenwladamucogosugandilila.</p>
+  </li>
+  <li>
+    <p>Abɛbɛɛsagolak’inindonjamakafaamuyasirawla,kabɔmasiriwnunma,k’inindondɔnniyayiriwawalewlaanikabɔahɛɛrɛnunma.</p>
+    <p>Bɛɛtɔgɔn’ikanafakakankalakanaikadɔnkonisɛbɛnkonimasirikobaarakɛlenwna.</p>
+  </li>
+  <li>
+    <p>Bɛɛjobɛk’aɲinilabɛnkakɛmaayalaanijamanawcɛla,minb’atojosiranihɔrɔnɲabajuminnudantigɛlenfilɛDantigɛkaninkɔnɔ,olukasirasɔrɔaɲɛma.</p>
+  </li>
+  <li>
+    <p>Ikahadamadenɲayiriwalisirilenbemaayajɛkuluminna,okacib’ikan.</p>
+    <p>Dansitɛjosirataamanihɔrɔnɲatɔnɔbɔla,fosariyakadansigilenminnukunyekatɔwjosirawnihɔrɔɲasirawgasisigi,anitilennenɲanibasiginijamakahɛɛrɛtɛetagawajibiminnukɔsariyafangakɔnɔkaolutiimɛ.</p>
+    <p>OjownihɔrɔnɲasiraninnutɛbolicogosilaminbeKabilatɔnkuntilennawn’adaliluwkota.</p>
+  </li>
+  <li>
+    <p>JɔyɔrɔfɛnofɛndantigɛlenyeninDantigɛkaninkɔnɔ,Fangawalijɛkuluwalimɔgɔkelensijotɛk’ominɛyamaruyayekasirataama,walikawalekɛ,minkunyehadamadenjosiranihɔrɔnɲasirajiralenninnutiɲɛniye.</p>
+  </li>
+</ol>

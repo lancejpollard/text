@@ -1,0 +1,120 @@
+<h1 align='center'>TAFASWIRI AN-KIƁUSHI NIM-MATEKELEZO KI DUNIA NIN-HAKI-L-ADAMÌ</h1>
+<h2 align='center'>ALUHA NIN-VUDIN’NI KURAŊA</h2>
+<p align='center'>An-fahitaŋa amba, fikuɓaliaŋa amba ɓinadamu djabi nitirahinyi ndreka usheu ndreka haki meraŋa nandzari ro musingi nin-nafasi, nin-haki ndreka usalama duniani ;
+An-fahitaŋa amba, tsifahizaŋa ndreka fipuzisaŋa haki-l-adamì ro mikutsonga faŋanovaŋa shitrendro ki katili maneitri rohu nin-umati djabi, amin’ni zenyi, fitunga nin-ulemengu mbu kuruhusu ɓinadamu ivulaŋa ndreka ikwamini aminnafasi, ɓilà tahutru wala taãɓu nin-ufukara, ro nikutekelezaŋa kirasimi, ustaãraɓu beheben-djabi ninhulumbelu ;
+An-An- fahitaŋa amba, aŋatin’ni sharia-musingi nin-ndreu, zanatani nin-Uvumoja nin-Twaifa (Shama nin-Daula nin-Ulemengu) nikutekeleza mara hafa uaminifu nin-ndreu amin’ni haki musingi nim-ɓinadamu ; amin’ni usheu ndreka kima ninhulu an-rohuni, amin’ni fihiraŋa nin-haki nin-lalahi ndreka viavi, amin’zenyi, reu nampahei amba reu nangala ãzima ampadeha aluha faŋadzarisaŋa maisha nimɓinadamu ndreka ampiditri an-lalaŋa raha mbu andei tanafu tsara am-maisha nin-nafasi nankitinyi nimɓinadamu ;ahitaŋa amba, nikulazimu natou nguvu fihavaŋana ɓainan’ni tani ndreka tani ;
+An- fahitaŋa amba, Daula Aŋatin-shama itì ndreka shama nin-Uvumoja nin-Twaifa (Shama nin-Daula nin-Ulemengu) nangala wahadi an-ndreu aŋaraka kaɓaru retu atà haki-ladamì ndreka nafasi musingi ikustehinyi nankitinyi amin’ni dunia mafia ;
+An- fahitaŋa amba, fikutrugaŋa djumla nin-sharia ndreka nafasi retu nandzari muhimu swafi an-fikustehiaŋa namuna kulazimu, wahadi itì ;
+Trengwe djumla nampahei amba Matekelezo ki Dunia nin-Haki-l-Adamì itì
+ro daradja aŋabuŋabun-djabi nin-ustaãraɓu nikulazimu nahazu nin-kula karazaŋa zanatani ndreka nishani, anga ɓinadamu djabi ndreka kula karazaŋa ninfikueshiŋandreu, ihisi Matekelezo itì daima amin’ni luhan-ndreu, aŋanu djitihadi amin’ni fampidzuruaŋa ndreka fitarimiaŋa, ampiasa masitaha nin-sharia ndreka nafasi retu ; amin’ni zenyi, aŋanu modeli ata, amin’ndreu maŋapiditri an-lalaŋa moramora-moramora satua mifotutru tani ou mifotutru dunia, reu ikutsonga ata fikuɓaliaŋa ndreka fikurumiaŋa reu itì, ike nin-ankitinyi amin’ni dunia mafiha ; rangu amin’ni zanatani nin-Daula aŋatin’ni Uvumoja nin-Twaifa (Shama nin-Daula nin-Ulemengu) ata an-tani amin’ni hifadhwi ni sharian-ndreu.</p>
+<ol>
+  <li>
+    <p>Ɓinadamudjabinitirahinyian-nafasi,reubokeumiraŋaamin’niusheundrekahaki.Reuterakandrekaãkilindrekahikima,amin’nizenyi,reunikulazimunisitweraŋanin-fihavaŋareusambireu.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumetimikudaifikurumianaŋaamin’nazininshariandrekanafasiretudjabi,nivulaŋanaamin’niMatekelezoitì,walatsisififidanaŋatsokaoyotsi,mfanomifotutrukaɓila,range(nin-nenyi),lalahiauviavi,fivulaŋana,dini,fikirakisiasaaufikirahafatu,taninibwahaŋaaudaradjan-huluŋu,mali,terakaaukabaruhafatu.Bokaeu,tsiuhisififidanaŋatsokaoyotsimbuatouhatasiɓaɓun’nidaradjanin-siasa,nim-mahakamaauhatasiɓaɓun’niabezan-taniaugitronin-taninibwahaninhuluŋu;nekataniiuaugitronin-taniiuhuru,nikutawalan’nitanihafa,tsimahaleuteŋaaunikupunguzaŋayezi.</p>
+  </li>
+  <li>
+    <p>Kulashumbe-ɓinadamumisihakian-fikueshiaŋa,annafasindrekaan-hifadhwinin-nafusini.</p>
+  </li>
+  <li>
+    <p>Tsisihuluŋumbuatouandevuauandivuzaŋa:fandivuzaŋandrekakulakalitenin-fanyirahakiandevu,tsikuruhusuŋu.</p>
+  </li>
+  <li>
+    <p>Tsisihuluŋumbuatoumatriko,walafihezinyioukudilinyikararahatsisimananiouatourahamikulanisaizi.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-fikuɓaliaŋahakinazikulamahalamisiizi.</p>
+  </li>
+  <li>
+    <p>Huluŋudjabimiraŋaan-lalaŋakishariandrekamisihakidjabiɓilàfifidanaŋa,an-hifadhwimiraŋanin-sharia.Huluŋudjabimisihakimiraŋaan-shariamikuhifadhwihuluŋundrekakulauɓanguzimandehakinyumendrekaMatekelezoitì,ndrekakulafikutsotsaŋauɓanguziitì.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-fandihanaŋamikushitakiammahakamanin-tanimisimaãrifaamin’nikabarunazi,nekahaki-musinginazi,bokaeunikuɓalin’nishariabemusingioushariatu,tsinikusutehinyi.</p>
+  </li>
+  <li>
+    <p>Tsisihuluŋumbuhetitanin-sirikaliougadranilajoliouatuwataniniɓilàsiɓaɓu.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihaki,an-fihiraŋaswafi,an-faŋanovanimodeliatàhadjanaziurenyim-mahakamatsikisirikali,tsimampinonuhila,an-lalaŋanin-hakindrekaanyivunntrengwe.Mahakamaitìrombuaheinekahuluŋuitìamin’nihakinazindrekafarudhwinaziaumashitakanatoŋaiziitìmaŋarakalalaŋa.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋunikuhutumuŋundrekataɓiaratsi,kazataninyindrekahalathwipakaizikuhukumuŋukirasimiam-mahakamambiaŋaan-trengwe,amin’izieu,kulakabarumiditriamin’nidifãinazidjabinikurumianaŋa.</p>
+    <p>Tsisihuluŋumbuvangoŋakubeihatasiɓaɓun’niãmaliaurahatsinishugulinyi,ndrekawakatinaŋanovaŋareuitì,reutsinalaŋaambataɓiaratsiamin’nisharianin-taniaunin-ulemengu.Bokaeukua,tsisiraharatimandiltrainyifavuahuluŋuleranaŋanovaŋataɓiaratiretu,mbuvuahuluŋukua.</p>
+  </li>
+  <li>
+    <p>Tsisihuluŋumbuhidiraŋaɓilasiɓaɓu,am-maishaninantanananazi,amin’nihavaŋanazi,amin’nitraŋunaziauamin’niɓaruanazi;walatsisihuluŋumbuhiditriamin’nikabarumbuikupuahuluŋuusheu,mbuandatsakaizi.Kulahuluŋumisihakian-hifadhwininshariamamahaŋafidiraŋaan-huluŋundrekafikufutsuhaŋamaishanin-huluŋu.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-fidiraŋandrekafibwahaŋaan-nafasindrekaan-fifidanaŋamahalaipitrahaniaŋatin’niDaula.</p>
+    <p>Kulahuluŋumisihakian-fibwahanian-nakwakilatani,ataan-taninazi,ndrekaan-fipudianian-taninazi.</p>
+  </li>
+  <li>
+    <p>Am-mahalamisiudilifu,kulahuluŋumisiruhusamitsakarakamahalaififiaŋa,bokaeu,misifurswaahazumahalaififianiamin’nitanihafa.</p>
+    <p>Shariaititsihetikurumianaŋanekahuluŋumilaikurumianaŋaiziitì,tsakarahin’nisirikalihatasiɓaɓun’nishidrendronatoniniditriamin’niɓaãdhwinin-shidrendronikudukuruŋuamin’nishariadjumlaauhatasiɓaɓun’nitaɓianatonitsimiarakandrekamadhumunindrekamakuswadanin-Uvumojanin-Twaifa(Shamanin-Daulanin-Ulemengu).</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-fazahuaŋauraĩa.</p>
+    <p>Tsisihuluŋumbuhetifahaŋanakazaahazuuraĩaauamadikiuraĩa,ɓilàsiɓaɓu.</p>
+  </li>
+  <li>
+    <p>Nekareufakutsimu,lalahindrekaviavinin-kulanishani,kulauraĩaaukuladini,metimanambadindrekamiterakazanakan-ndreu.Hakin-ndreuamin’nikabarumifotutruvadiaŋameraŋa,lerareuamin’nivadiaŋandrekalerareumiboŋu.</p>
+    <p>Vadiaŋambuhetiatounekabwanaharusindrekabweniharusinikuɓaliiziitì.</p>
+    <p>Fihisiaŋahavaŋaiurahaamin’nivatan-huluŋubokaeumuhimuamin’nimaishakiudjamaã;iziitìmisifurswaahazuhifadhwinin-udjamaãndrekanin-Daula.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋu,ranguinyimipetrakaiziarekiatainyimipetrakaan-djamaã,misifurswaambaizihutompinshandza.</p>
+    <p>Tsisihuluŋumbuhetifahaŋanaɓilàsiɓaɓuambaizikazautompin-shandza.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-fihisiaŋanafasinin-fikufikiriaŋa,nin-fikurumianaŋaãkili-musingindrekanin-fihisiaŋadini;hakiitìmikuruhusuhuluŋumamadikidiniaufikira,ndrekamaŋamiahuluŋunafasimampaheidiniaufikiranaziiziarekiaundrekarinamaniranguan-karamandzaataan-traŋuni;amin’nifidzuruaŋaizi,amin’nifaŋanovaŋaizi,amin’nifaŋanovaŋaĩɓadandrekamahafalamifotrutudiniitì.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-fihisiaŋanafasininfaŋabwahaŋafikirandrekanin-fivulaŋana;maãnaniiu,huluŋumisihakian-tsifiampidzaliŋahuluŋuhatasiɓaɓunin-fikiranazi;an-fahazuaŋandrekafaŋabuŋuaŋaɓilatsisifikutundaŋamupaka,kabarundrekafikira,an-kulalalaŋambukurumianaŋa.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-fihisiaŋanafasinin-fivuriaŋandrekanin-faŋanovaŋashamatsisitashahushi.</p>
+    <p>Tsisihuluŋumbuatounguvuihiditrian-shama.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-fangalaŋafuvuanfaŋandesaŋakabarumifotutruhuluŋudjabian-taninazi,nahikarohuluŋutompiniauamin’nihuluŋumaŋatitriwakalanifidanaŋaan-nafasi.</p>
+    <p>Kulahuluŋumisihakian-fihisiaŋalalaŋa,mikustehimasharutwinin-fihiraŋa,iditrian-hasakisirikalinin-taninazi.</p>
+    <p>Nianin-zanataniioromusinginin-yezinin-sirikali;niaitìnikulazimukutekelezaŋaamin’nivotimazavanikulazimunatoukulamumbamuda,amin’nilalaŋamikukarɓisahuluŋudjabian-fihiraŋana,amin’nivotininsiriaumaŋarakafombamiraŋandrekavotinin-siri,mikuruhusuunafasinin-voti.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋu,amin’izihuluŋunin-djamaã,misihakianfazahuaŋahifadhwikifihavaŋana(kisiraki);musinginin-hifadhwiiu,rofikutsimidzaŋahakimifotutruãkiɓa,udjamaãndrekautamadunimuhimuan-hishimanazindrekaan-huvambufuan-nafasinin-tweraŋa,hatasiɓaɓun’nidjitihadikitanindrekafishirikaŋakiulemengu,hatasiɓaɓun’ninamunanin-kupangaŋandrekarasulimalinin-kulatani.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-fazahuanihasandrekaanfihisianishaɓahaan-fifidananihasaamin’nilalaŋaninhakibokeukusutounin-hasa;ndrekamisihakianfikuhafadhwiaŋaizindrekafipitrahaŋa-ɓure.</p>
+    <p>Huluŋudjabi,walatsisififidanaŋa,misihakianfazahuaŋamushaharameraŋaan-faŋanovaŋahasamiraŋa.</p>
+    <p>Kulahuluŋumiasa,misihakian-fazahuaŋamushaharakusutou,modelinikulazimumbuikuruhusuizindrekarihavaniuhisimaishakiuɓinadamu,bokeumetisusohinyindrekamusadahafanin-hifadhwikiudjamaã.</p>
+    <p>Kulahuluŋumisihakian-fikupanganandrekirihavani,shamanin-fikudaiaŋahakinin-huluŋunin-hasa,an-fihidiranian-shamamikudifaĩtanafunazi.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-faŋabwahaŋavahandrekafangalaŋanafasi,amin’nizenyi,an-faŋanovaŋamupakamikustahikiamin’nimudanin-hasandrekaanfaŋabwahaŋavahaifaŋanim-muda.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-fihisiaŋadaradjaninfikueshiaŋakiasi,mikuruhusuiziuhisiswihatsara,ahazufaivaŋana,izindrekarihavaŋanazi,an-kabarumifoturu,fihinanaŋa,fisikinaŋa,fihisiaŋatraŋu,fazahuaŋaaudikilopitalindrekafazahuan-huluŋuzemakisirikalimuhimu:izimisihakian-fazahuanimusadaanwakatinin-fipitrahaŋa-ɓure,nin-aretinyi,ninfikupunguzan’niziga,nin-fatinin-vadi,ninhauɓakokuaŋa,auam-mukaɓalanin-fihafahan-rahamampahazuhuluŋumaisha,hatasiɓaɓunin-fandihananin-kabaruɓilauvhendzanazi.</p>
+    <p>Fitirahaŋandrekahauzazaŋamisihakian-fazahuaŋamusadandrekafikututuɓiaŋamahususu.Zazadjabi,rangureunitirahinyian-vadiaŋaatàreunitirahinyiantani,misihakimiraŋaan-fazahuaŋahifadhwinin-taãɓunim-maisha.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-fidzuruaŋa.Fidzuruaŋanikulazimuɓure,shinganiro,fidzuruaŋaan-likolimadiniki.Fidzuruaŋahasan-taŋananikulazimumibiaŋaan-huluŋudjabi;fidiraŋaan-likolinin-daradjaaŋabuninfidzuruaŋanikulazimunibiaŋaan-fihiraŋanin-ankitinyi,an-kulahuluŋudjabimisimaãrifauhiditri.</p>
+    <p>Fidzuruaŋanikulazimunikusudiautsatsarufunimɓinadamu,faŋanovaŋanguvumastahanin-haki-l-adamìndrekanafasimusingi.Izitihìnikulazimunampandehaaluhafikuelewaŋa,muswamahandrekafiwandzaniaŋanin-tanidjabi,ndrekashikaonin-kaɓilaaunin-dinindrekafandihanaŋa-aluhanin-ãmalinin-UvumojaninTwaifa(Shamanin-Daulanin-Ulemengu)fikututuɓiaŋausalama.</p>
+    <p>Rihuluŋumaventinin-huluŋu,misihakian-fifidanaŋaamin’nirahamuhimuamin’ndreu,fidzuruaŋatokutruahazun-ndrizanakan-ndreu.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-fangalaŋafuvunekaizishoku,am-maishakitamaduninin-djamaã,an-fangalaŋaɓastwinin-swanaãndrekaan-fangalaŋaɓandzaamin’nifandihanaŋa-aluhanin-sayãsindrekaatsaraŋaahazuŋuan-raharetu.</p>
+    <p>Kulahuluŋumisihakian-fikuafadhwiaŋazavatranazi,rangureumifotutruĩlimuatazombonikumbaŋaanfikurumianaŋasayãsi,fanurataŋabukuaufikutrungaŋakabaru,nekaizirotompin’niraharetu.</p>
+  </li>
+  <li>
+    <p>Kulahuluŋumisihakian-faŋanovaŋamodeliatàutrilivuamin’nimaishakiɓinadamundrekaamin’niulemenguikuɓalaatàhakindrekaunafasinikudukuruŋuaŋatim-Matekelezoitì,ikurumianaŋanamunanin-kulazimu.</p>
+  </li>
+  <li>
+    <p>Ɓinadamumisirahadiasinyindrekaiziamin’nidjamaãnazi;amin’iziitì,fikuvambusan’nitweraŋanazian-nafasi,iuturorahaisianiruhusamaŋanuazi.</p>
+    <p>Amin’nifikurumianaŋahakin-huluŋu,ndrekafihisianhuluŋunafasi,raharetudjabimisimupakanapetrakansharia.Makuswadanim-mupakaretu,izirofaŋanovaŋamodeliatafikuɓaliaŋandrekamastahanin-hakindrekanafasinin-havaŋaikueshi;amin’nifikusutehiaŋakua,masharutwinin-uɓinadamu,nin-utrulivunin-trengwendrekafiatsaraŋadjumlanin-djamaãnin-kinafasi.</p>
+    <p>Hakindrekanafasiretu,ãla-kulli-hali,tsiuhetiikurumianaŋaamin’nilalaŋatsimiarakandrekamakswadandrekamasharutwinin-Uvumojanin-Twaifa(Shamanin-Daulanin-Ulemengu).</p>
+  </li>
+  <li>
+    <p>Tsisiatàshariaarekinim-Matekelezoitìmbuhetikutafaswirinyiamin’nilalaŋamikuruhusu,Daula,shikaoauhuluŋuareki,ihisihakiitsokaoyotsinin-faŋanovaŋamahafalaauãmalimandrubakahakindrekaunafasinikudukuruŋuetu.</p>
+  </li>
+</ol>

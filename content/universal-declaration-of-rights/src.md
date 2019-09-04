@@ -1,0 +1,122 @@
+<h1 align='center'>DECRARATZIONE UNIVERSALE E SOS DERETOSDE S'ÒMINE</h1>
+<h2 align='center'></h2>
+<p align='center'>Cunsiderende chi su reconnoschimentu de sa dinnidade inerente a totu sos membros de sa famìlia umana e de sos deretos issoro eguales e inalienàbiles costìtuit su fundamentu de sa libertade, de sa zustìssia e de sa paghe in su mundu,
+Cunsiderende chi su misconnoschimentu e su dispretziu de sos deretos de s'òmine ant zutu a atziones de barbaridade chi bulluzant sa cussèntzia de s'umanidade e chi sa bènnida de unu mundu in ue sos èsseres umanos ant a esser lìberos de faeddare e de creer, liberados dae su terrore e dae sa misèria, est proclamadu comente s'isetu prus mannu de s'òmine,
+Cunsiderende chi est essentziale chi sos deretos de s'òmine siant garantidos dae unu rezìmene de deretu, a manera chi s'òmine non siat custrintu prus, comente remediu estremu, a si bortare contra a sa tirannia e a s'opressione,
+Cunsiderende chi est essentziale a animare s'isvilupu de sas relatziones de amighèntzia intre sas natziones,
+Cunsiderende chi in sa Carta sos pòpulos de sas Natziones Unidas ant proclamadu torra sa fide issoro in sos deretos fundamentales de s'òmine, in sa dinnidade e su balore de sa pessone umana, in s'egualidade de sos deretos de sos òmines e de sas fèminas, e chi issos si sunt decrarados dispostos a favorire su progressu sotziale e a instaurare cunditziones mezus de bida in una libertade prus manna,
+Cunsiderende chi sos Istados Membros si sunt postos de acordu pro assegurare, in cooperatzione cun s'Organizatzione de sas Natziones Unidas, su respetu universale e efetivu de sos deretos de s'òmine e de sas libertades fundamentales,
+Cunsiderende chi un'idea comuna de custos deretos e libertades tenet s'importàntzia prus manna pro cumprire custu acordu,
+s'Assemblea Zenerale proclamat
+custa decraratzione universale de sos deretos de s'òmine comente s'ideale comunu chi totu sos pòpulos e totu sas natziones depent sighire pro fagher a manera chi totu sos indivìduos e totu sos òrganos de sa sotziedade, tenende semper in coro custa Decraratzione, s'isfortzent, cun s'amaestramentu e s'educatzione, pro isvilupare su respetu de custos deretos e libertades e pro nd'assegurare, cun mesuras progressivas de òrdine natzionale e internatzionale, su reconnoschimentu e s'aplicatzione universales e efetivas, siat in mesu de sas populatziones de sos Istados Membros etotu, siat in mesu de cussas de sos territòrios postos suta de sa zurisditzione issoro.</p>
+<ol>
+  <li>
+    <p>Totusosèsseresumanosnaschintlìberoseegualesindinnidadeeinderetos.Issostenentsaresoneesacussèntziaedepentoperares'unucuns'àterucunispìritudefraternidade.</p>
+  </li>
+  <li>
+    <p>OnziunupodetfagherbalertotusosderetosetotusaslibertadesproclamadasinsaDecraratzionepresente,senadistintzioneperuna,mescamentederatza,decolore,desessu,delimba,derelizione,deopinionepolìticaodeonziàteraopinione,deorìzinenatzionaleosotziale,decunditzione,denàschidaodeonziàteracunditzione.Inprus,noataesserfataperunadistintzionefundadasupras'istatutupolìticu,zurìdicuointernatzionaledesupaìsuodesuterritoriudaeueunapessonepodetbenner,chicustupaìsuoterritoriusiatindipendente,sutatutela,noautònomuoassuzetaduaunalimitatzionecalesisiatdesoveranidade.</p>
+  </li>
+  <li>
+    <p>Onziindividuutenetderetuasabida,asalibertadeeasaseguràntziadesapessonesua.</p>
+  </li>
+  <li>
+    <p>Nemosatapoderessermantesuneinistadudeiscravitùdine,nendeterachiu;s'iscravitùdineesatratadesosiscraossuntpreubidasintotusasformas.</p>
+  </li>
+  <li>
+    <p>Nemosatapoderesserassuzetaduasatortura,neapenasoatratamentoscrudeles,inumanosodegradantes.</p>
+  </li>
+  <li>
+    <p>Onziunutenetsuderetuasureconnoschimentuinonzilogudesapersonalidadezurìdicasua.</p>
+  </li>
+  <li>
+    <p>Totussuntegualesincaradesalezeetenentderetusenaperunadistintzioneaunatutelaegualedesaleze.TotustenentderetuaunatutelaegualecontraaonzidiscriminatzionechidiatcontraìghersaDecraratzionepresenteecontraaonziistigamentuacustadiscriminatzione.</p>
+  </li>
+  <li>
+    <p>Onzipessonetenetderetuaunurecursuefetivuasaszurisditzionesnatzionalescumpetentescontraasosatoschibìolantsosderetosfundamentaleschilisuntreconnotosdaesacostitutzioneodaesaleze.</p>
+  </li>
+  <li>
+    <p>Nemospodetesserarrestadu,impresonaduoesiliaduarbitrariamente.</p>
+  </li>
+  <li>
+    <p>Onzipessonetenetsuderetu,inegualidadeprena,afagherintendersaboghesuaecuamenteepublicamentedaeunutribunaleindipendenteeimpartziale,chiatadetzider,siatdesosderetoseòbrigossuos,siatdesufundamentudeonziacusa,inmatèriapenale,diretacontraaissa.</p>
+  </li>
+  <li>
+    <p>Onzipessoneacusadadeun'atzionedelituosasidepetcunsiderareinnossentefinasacandosind'ataistabilirelegalementesanegheinunuprotzessupùblicuinueantaesserasseguradastotusasgarantiasnetzessàriasasadefensasua.</p>
+    <p>Nemosatapoderessercundennaduproatzionesoomissioneschi,insumamentuchisuntistadasfatas,noncostituiantun'atudelituosuprosuderetunatzionaleointernatzionale.Inprus,nons'atapoderimponnerperunapenaprusfortedesachifitaplicàbileinsumamentuchis'atudelituosuestistaducumpridu.</p>
+  </li>
+  <li>
+    <p>Nemosatapoderesserozetudeintromissionesarbitràriasinsabidaprivadasua,insafamìliasua,insadomooinsacurrispondèntziasua,nendeatentadosas'onoreoasareputatzionesua.Onzipessonetenetderetuaessertuteladadaesalezecontraacustasintromissionesoacustosatentados.</p>
+  </li>
+  <li>
+    <p>Onzipessonetenetsuderetudezirareliberamenteedes'isseperaresaresidèntziainintrodeun'Istadu.</p>
+    <p>Onzipessonetenetsuderetudesinch'andaredaeunulogu-finasdaesusuo-,edetorrareasulogusuo.</p>
+  </li>
+  <li>
+    <p>Onzipessone,siestpessighida,tenetsuderetudesichircareasiluedeotennerasiluinàteroslogos.</p>
+    <p>CustuderetunonpodetesserchircadusisapessoneestpessighidaprounucrìminedederetucomunuoproatzionescontràriasasosfineseprintzìpiosdesasNatzionesUnidas.</p>
+  </li>
+  <li>
+    <p>Onziindividuutenetderetuaunanatzionalidade.</p>
+    <p>Nemospodetesserprivadudesanatzionalidadesua,nendesuderetudecambiarenatzionalidade.</p>
+  </li>
+  <li>
+    <p>Daecandosuntbaganzos,s'òmineesafèmina,senaperunuimpedimentuprosaratza,sanatzionalidadeosarelizione,tenentsuderetudesicojuareedesifagherunafamìlia.Issostenentsosmatessideretosinocasionedesucojuiu,apustisdesucojuiueins'orades'isparzimentu.</p>
+    <p>Sucojuius'atapoderfagherpetzicuns'acordulìberueprenudesosisposos.</p>
+    <p>Safamìliaests'elementunaturaleefundamentaledesasotziedadeetenetderetuaessertuteladadaesasotziedadeedaes'Istadu.</p>
+  </li>
+  <li>
+    <p>Onzipessone,solachisiatoacumone,tenetderetuasapropiedade.</p>
+    <p>Nemospodetesserprivaduarbitrariamentedesapropiedadesua.</p>
+  </li>
+  <li>
+    <p>Onzipessonetenetderetuasalibertadedepessamentu,decussèntziaederelizione;custuderetuìmplicatsalibertadedecambiarerelizioneoidea,efinassalibertadedemanifestaresarelizioneos'ideasua,asasolaoacumone,siatinpùblicusiatinprivadu,cuns'insinnamentu,saspràticas,sucultuesucumprimentudesosritos.</p>
+  </li>
+  <li>
+    <p>Onziindividuutenetderetuasalibertadedeopinioneedeespressione.Custuìmplicatsuderetuanoesserpessighiduprosasopinionessuasesudechircare,deretzireededifunder,senacunsiderudeperunafrontera,sasinformatzionesesasideascunonzizeniademediu.</p>
+  </li>
+  <li>
+    <p>Onzipessonetenetderetuasalibertadedereunioneedeassotziamentupatzìficu.</p>
+    <p>Nemospodetesserobrigaduafagherpartedeunusotziu.</p>
+  </li>
+  <li>
+    <p>Onzipessonetenetsuderetudeintrareinpartedesadiretzionedesosafarespùblicosdesulogusuo,siatdiretamente,siattràmiterapresentantesisseperadosliberamente.</p>
+    <p>Onzipessonetenetsuderetudeintrare,incunditzionesdeegualidade,insasfuntzionespùblicasdesupaìsusuo.</p>
+    <p>Saboluntadedesupòpuluestsufundamentudes'autoridadedesospoderespùblicos;custaboluntadesidepetespressarecuneletzionesonestaschidepentesserfatasperiodicamente,cunbotuuniversaleegualeesegretuocunformaaunanormaecuivalentechiasseguretsalibertadedebotu.</p>
+  </li>
+  <li>
+    <p>Onzipessone,comentemembrudesasotziedade,tenetderetuasaseguridadesotziale,chiestfundadaprootennersugodimentudesosderetoseconòmicos,sotzialeseculturalesindispensàbilesasadinnidadeeas'isvilupulìberudesapersonalidadesua,promoredes'isfortzunatzionaleedesacooperatzioneinternatzionale,apustisdeaertentuincontus'organizatzioneesasrichesasdeonzipaìsu.</p>
+  </li>
+  <li>
+    <p>Onzipessonetenetderetuasutraballu,aisseperareliberamentesutraballusuo,acunditzionesdetraballuècuasechipodantacuntentare,easaprotetzionecontraasadisocupatzione.</p>
+    <p>Totustenentsuderetu,senaperunadiscriminatzione,aunusalariuegualeprounutraballueguale.</p>
+    <p>Chietraballattenetderetuaunapagaècuaechil'acuntentet,chiasseguretaissueasafamìliasuaun'esistèntziachisiatcunformaasadinnidadeumanaecumpretada,sisipodet,daetotusosàterosmèdiosdetutelasotziale.</p>
+    <p>Onzipessonetenetsuderetudefundaresindicadospariscunàtereedeintrareinsossindicadosprodifendersosinteressossuos.</p>
+  </li>
+  <li>
+    <p>Onzipessonetenetderetuasupasueasudisaoguemescamenteaunulìmitezustudesutempusdetraballuealissèntziasperiòdicaspagadas.</p>
+  </li>
+  <li>
+    <p>Onzipessonetenetderetuaunugradudebidabastanteprol'asseguraresasalude,subonistaresuoesudesafamìliasua,mescamentepros'alimentatzione,sabestimenta,sadomo,sascurasmèdicasefinasprososservìtziossotzialesindispensàbiles;tenetderetuasaseguridadesiestdisocupada,malaìda,imbàlida,biuda,betzaosiatpèrdidusosmèdiossuosprocampareapustisdeeventosindipendentesdaesaboluntadesua.</p>
+    <p>Samaternidadees'infàntziatenentderetuaun'azudueaun'assistèntziaparticulare.Totusospitzinnos,chisiantnaschidosforasdesucojuiuoapustis,godintdesamatessitutelasotziale.</p>
+  </li>
+  <li>
+    <p>Onzipessonetenetderetuas'educatzione.S'educatzionedepetessergratuita,asunessipros'insinnamentuelementareefundamentale.S'insinnamentuelementareestobrigatoriu.S'insinnamentutènnicueprofessionaledepetesserzeneralizadu;s'intradaasasiscolassuperioresdepetesserapertainegualidadeprenaatotus,cunformaasumèrituissoro.</p>
+    <p>S'educatzionedepetpunnareas'isvilupuprenudesapersonalidadeumanaeas'afortimentudesurespetudesosderetosdes'òmineedesaslibertadesfundamentales.Issadepetfavoriresacumprensione,satoleràntziaes'amighèntziaintretotusasnatzionesetotusosgruposratzialesoreliziosos,comentepurus'isvilupudesasatividadesdesasNatzionesUnidasprosumantenimentudesapaghe.</p>
+    <p>Babosemamastenent,comenteprioridade,suderetudeisseperaresacastadeeducatzionededareasosfizosissoro.</p>
+  </li>
+  <li>
+    <p>Onzipessonetenetsuderetudepigareparteliberamenteasabidaculturaledesacomunidade,degodiredesasartesedetennerparteinsuprogressusientìficueinsosbenefìtzioschinderesurtant.</p>
+    <p>Onziunutenetsuderetuasaprotetzionedesosinteressosmoralesematerialeschiderivantdaecalesisiatprodutzionesientìfica,literàriaoartìsticadesacaleestautore.</p>
+  </li>
+  <li>
+    <p>Onzipessonetenetderetuchirennet,inàmbitusotzialeeinàmbituinternatzionale,un'òrdinefatuamanerachisosderetosesaslibertadesproclamadasinsaDecraratzionepresentebipodantagatareefetucumpretu.</p>
+  </li>
+  <li>
+    <p>S'individuutenetdeverescunsacomunidadeinuepetziestpossìbiles'isvilupulìberueprenudesapersonalidadesua.</p>
+    <p>Insapràticadesosderetossuoseinsugodimentudesaslibertadessuas,onziunuestassuzetaduebiaasaslimitatzionesistabilidasdaesalezepetzicuns'intentudeasseguraresureconnoschimentuesurespetudesosderetoselibertadesdeàtereecunsufinedeatataresosdisizoszustosdesamorale,des'òrdinepùblicuedesubonistarezeneraleinunasotziedadedemocràtica.</p>
+    <p>Custosderetoselibertadesnoantapoder,inperunucasu,esserpraticadosinmaneracontràriaasosfineseprintzìpiosdesasNatzionesUnidas.</p>
+  </li>
+  <li>
+    <p>Nonb'atperunudisponimentudecustaDecraratzionechipodatesserinterpretaducomenteimplicanteproun'Istadu,un'aggrupamentuoun'individuuunuderetucalesisiatasidareaun'atividadeodefagherun'atzionechipunnetasadistrutzionedesosderetoselibertadeschibisuntproclamados.</p>
+  </li>
+</ol>

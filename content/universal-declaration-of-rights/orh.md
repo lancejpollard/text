@@ -1,0 +1,124 @@
+<h1 align='center'>Shizhe Beyel-ngi Chuanli-tin Shuanyan</h1>
+<h2 align='center'>Zhulgide-ngi Ulgur-in</h2>
+<p align='center'>Beyel-ngi zhunyan-a-tin bineken pingdeng buyi chuanli-ye-tin chengren, shizhe zhiyu, zhengyi bineken heping-ngi chichu-tin bishin,
+Beyel-ngi chuanli-ye-tin wushi bineken wumie yeman baoshing-shel oochaa, eril baoshing-shel
+beyel-ngi liangshin-ye-tin dianwu-choo-l. Beyel bambur yanlun bineken shinyang zhiyu bi bineken kongchu bineken kuyfa e-shi-re shizhe eme-re-n, putong beyel-ngi manii gugda yuanwang-tin bishin,
+Beyel baozheng-e bineken yapo-yo e-fanpan-kshi, beyel-ngi chuanli-tin fazhi-du baohu-ro biyao bishin,
+Gurun-shol-ngi aya guanshi-ngi fazhan chuchin-re biyao bishin,
+Lianhe Gurun-ngi gurun-shol-ngi beyel-tin Lianhe Gurun-ngi Shanzhang-dulaa-in chiben beyel-ngi chuanli-lee-tin, renge zhunyan, chachi bineken niray ashii pingdeng chuanli-lee-tin shinnian oo-choo-l, egdenge-chere zhiyu-loo shehui chinbu bineken shenghuo shuiping gaishan chuchin-kshi,
+Huiyuan Gurun-shol Lianhe Gurun beyel-ngi chuanli-ye-tin bineken chiben zhiyu-ye-tin pubian zhunzhong-o bineken zhunshin-e chuchin-meet-kshi,
+Eril chuanli-we-shel bineken zhiyu-wo-shol pubian liaozhe eri shiyuan-ma chongfen shishan-du manii gugda zhongyaoshing bishin,
+Eshi,
+Dahui,
+Eri Shizhe Beyel-ngi Chuanli-tin Shuanyan-ma fabu-chaa, beyel-ngi bineken gurun-shol-ngi gongtong biaozhun-tin oo-chaa beyel bineken shehui chigou shooti eri shuanyan-ma ezhe-kshi, chaohui bineken chaoyu-duk chuanli-ye bineken zhiyu-yo zhunzhong-o chuchin, gurun-ngi bineken gurun zhongchan-ngi chanchin choshi-duk eril chuanli-shel bineken zhiyu-shol huiyuan gurun-shol-ngi beyel-du-tin pubian bineken shaoguo bi-re chengren-ye bineken zhunshin-ye baka-wkann-an.</p>
+<ol>
+  <li>
+    <p>Beyelbamburzhiyubishi,zhunyan-dubinekenchuanli-dubamburpingdengbishi.Nugartinlishingbinekenliangshinbishi,akinnekunguanshi-ngichingshen-du-induidai-meet-ki-tin.</p>
+  </li>
+  <li>
+    <p>Beyelbamburerishuanyan-duchuanli-shelbinekenzhiyu-sholbi-rezhigebishi,zhongzhu,fuse,shingbie,ulgur,zongchao,zhengzhibinekenchitachanche,guochibinekenshehuichushen,chaichan,chushengbinekenchitashenfene-chufen-ngi-tin.Gurun-ngibinekenlingtu-ngizhengzhi,shingzhengbinekenguojidiwei-duke-chufen-ngi-tin.Erilingtuduli,tuoguan,e-zhizhi,chuchuanshanzhibi-rechingkuangbishin,bambure-angngu-yi-tin.</p>
+  </li>
+  <li>
+    <p>Beyelbamburshengming,zhiyubinekenrenshenanchuanbi-rechuanlibishi.</p>
+  </li>
+  <li>
+    <p>Beyelbamburnulibinekennuyie-oo-yi-tin.Nulizhidubinekennulimaimaibamburjinzhi-yi-tin.</p>
+  </li>
+  <li>
+    <p>Beyelbamburkushing-ebinekenchanren,burendaobinekenwurushingdaiyu-wobinekenshingfa-wae-baka-yi-tin.</p>
+  </li>
+  <li>
+    <p>Renhedifang-dubamburfalü-dukrenge-yechengren-ngi-tin.</p>
+  </li>
+  <li>
+    <p>Falü-dukbeyelbamburpingdeng,falü-ngipingdengbaohu-yo-ninbaka-rachuanlibishi,chishi-yee-baka-yi-tin.Beyelbamburpingdengbaohu-yobaka-rachuanlibishi,erishuanyan-aweifan-nachishi-dubinekenerichishi-yeshangdong-loshingwei-due-weihai-yi-tin.</p>
+  </li>
+  <li>
+    <p>Shanfabinekenfalü-dukbeye-ngichibenchuanli-nchinhai-yabaka-du-wi,hegegurunfating-duerichihaishingwei-dushaoguobi-rebuchiuoo-w-achuanlibishin.</p>
+  </li>
+  <li>
+    <p>Beye-yerenyie-daibu-yi-tin,e-juchin-ngi-tin,e-fangzhu-yi-tin.</p>
+  </li>
+  <li>
+    <p>Beyebamburpingdengdulibinekenwupianyifating-dugongzhengbinekengongkaishenpan-w-achuanlibishin,nugannginchuanli-ye-nyiwu-yo-nchoding,nuganin-duoo-roshingshizhikong-opanding-daa-wizhaalin.</p>
+  </li>
+  <li>
+    <p>Shingshikonggao-yobaka-chaabeye,bianhubi-regongkaishenpan-inecheebaka-ra-k-in,zuiecheechuanlibishin.</p>
+    <p>Beye-ngishingwei-nbinekenbushingwei-n,fasheng-dugurunfa-dukguochifa-dukbamburshingshizuiechee-re-k-in,shingshizuie-shi-yi-n.</p>
+  </li>
+  <li>
+    <p>Beye-ngisishenghuo-n,chating-in,zhuu-nbinekentongshin-inrenyie-ganshe-yi-tin,rongyu-ne-gongchi-yi-tin.Beyelbamburfalü-zhieriganshe-we-regongchi-we-rechuanlibishi.</p>
+  </li>
+  <li>
+    <p>Beyegurun-duzhiyuchanshibinekenaanga-rachuanlibishin.</p>
+    <p>Beyegurun-dukyuu-rochuanlibishin,gurun-mibishin,gurun-kkiemergi-rechuanlibishin.</p>
+  </li>
+  <li>
+    <p>Beyetulgide-ngigurun-du-inpohai-yae-baka-daa-wizhaalinbihu-youyume-rebaka-rachuanlibishin.</p>
+    <p>Zhengzhishinge-shi-rezuishingbinekenLianheGurun-ngizongzhi-ye-nbinekenyuanze-ye-nweibei-reshingwei-dukchisu-w-ochingkuang-du,erichuanli-yee-baytalaa-yi-n.</p>
+  </li>
+  <li>
+    <p>Beyeguochibi-rechuanlibishin.</p>
+    <p>Beye-ngiguochi-ye-nrenyie-tii-yi-tin,guochi-yegaibian-nachuanli-yee-fouren-ni-tin.</p>
+  </li>
+  <li>
+    <p>Niraybeyebinekenashiibeye,zhongzhu,guochibinekenzhongcho-due-shanzhi-yi-tin,huncha-razhuuoo-rochuanlibishi.Hunyin-du,cheehun-dubinekenlihun-dupingdengchuanlibi-yi-tin.</p>
+    <p>Niraybeyebinekenashiibeyebamburzhiyubinekenwanchuantongyi-chaa-shik-tin,chehun-ni-tin.</p>
+    <p>Zhuutianranbinekenchibenshehui-ngidanyuan-inbishin,shehui-dugurun-dubaohu-yi-n.</p>
+  </li>
+  <li>
+    <p>Beyechaichan-mibi-rechuanlibishin,chaichan-bi-meet-techuanlibishin.</p>
+    <p>Beye-ngichaichan-a-nrenyie-tii-yi-tin.</p>
+  </li>
+  <li>
+    <p>Beyebodo,liangshinbinekenzhongchozhiyu-ngichuanli-nbishin;erichuanli-dubishizhongchobinekenshinyang-agaibian-nazhiyu,dandubinekenchiti,gongkaibinekenmimichaoyi,shizhan,libaibinekenchelü-dukzhongcho-yo-nshinyang-a-nbiaoshi-rezhiyu.</p>
+  </li>
+  <li>
+    <p>Beyezhuzhangbinekenyizhan-afabio-rozhiyubi-rechuanlibishin;erichuanli-dubishizhuzhangganshe-yee-baka-razhiyu,meiche-dukrenhegurun-dukshaoshibinekenbodo-yogelee-rebaka-rabinekenchuandi-rezhiyu.</p>
+  </li>
+  <li>
+    <p>Beyehepingzhihuibinekenzhishe-rezhiyubi-rechuanlibishin.</p>
+    <p>Beyechangpo-yobaka-chaa-shik-in,tuanti-kkie-ii-yi-n.</p>
+  </li>
+  <li>
+    <p>Beyezhichebinekenzhiyushuanlaa-radaibyo-dukgurun-ozhilichanyu-rochuanlibishin.</p>
+    <p>Beyechihuipingdenggurun-ngigongwu-yo-nchancha-rachuanlibishin.</p>
+    <p>Irgenyizhizhengfuchuanli-ngichichu-nbishin;eriyizhidingchibinekenzhengzhengshuanchu-dukbyoshan-ni-n,shuanchupubianbinekenpingdengtoupyochuan-duk,gerbi-yee-ezhe-retoupyobinekenshangdangzhiyutoupyochengshu-dukoo-yi-n.</p>
+  </li>
+  <li>
+    <p>Beyeshehui-ngichengyuan-inbishin,shehuibaozhang-abaka-rachuanlibishin,zhunyan-mibinekenrenge-wizhiyufazhan-duga-razhingzhi,shehuibinekenwenhua-duchuanli-yeshishan-yabaka-rachuanlibishin,erishishangurunnuli-duk,guochihezhuo-duk,gurun-ngizhuzhi-nbinekenzhiyuanchingkuang-dukbishin.</p>
+  </li>
+  <li>
+    <p>Beyegerbe-re,zhiyuzhiye-yeshuan-na,gongzhengbinekenheshigerbe-retiaochan-abaka-ra,shiye-yebimian-abozhang-abaka-rachuanlibishin.</p>
+    <p>Beyelgerbepingdengchalinpingdengchuanlibishi,chishi-yee-baka-yi-tin.</p>
+    <p>Gerbeirgengongzhengbinekenheshichalin-ebaka-rachuanlibishin,nuganinbinekenzhuubeye-wibeyezhunyanfuhe-reshenghuotiaochanbi-yi-tin,biyo-duchitafangshi-ngishehuibozhang-a-nbaka-yi-tin.</p>
+    <p>Beyeliyi-wi-yeweihu-daa-wizhaalingonghui-yozhuzhi-rechancha-rachuanlibishin.</p>
+  </li>
+  <li>
+    <p>Beyeshushibinekenshansha-rachuanlibishin,gerbe-reshizhanshanzhibi-redingchichalinbi-rehucha-rachuanlibishin.</p>
+  </li>
+  <li>
+    <p>Nuganinbinekenzhuubeye-wi-ngichankang-a-nbinekenfuli-ye-nweichi-daa-wizhaalin,beyeshenghuoshuizhun-obaka-rachuanlibishin,zheekte,teti,zhuu,yiliaobinekenbiyoshehuifuwubishi;shiye,chibing,chanfei,shougua,shuailaobinekenchitakongzhi-rebanfae-shi-rechingkuang-dumoushengnenglie-chaa,bozhang-abaka-rachuanlibishin.</p>
+    <p>Eninbinekenkookantebiezhaogubinekenshezhu-yobaka-rachuanlibishi.Kookan-shal,hunyin-dubaldi-chaabinekenhunyintulgidebaldi-chaa,bamburpingdengshehuibohu-yobaka-yi-tin.</p>
+  </li>
+  <li>
+    <p>Beyelbamburchaoyu-yobaka-rachuanlibishi,chaoyuulinaachi-yi-n,maniiachukunchuchibinekenchibencheduanerigechinbi-yi-n.Chuchichaoyuyiwushingzhibi-yi-n.Zhishubinekenzhiyechaoyupubianbi-yi-tin.Gugdachaoyuchengzhi-dukbeyel-dupingdengkaifang-na-n.</p>
+    <p>Chaoyu-ngimudi-nbeye-ngigeshing-e-nchongfenfazhanbishin,beyel-ngichuanlibinekenchibenzhiyu-yozhunzhong-ochachangbishin.Chaoyugurun-shol,zhongzhu-sholbinekenzhongzhaozhituan-shal-ngiliaoche-ye-n,rongren-e-nbinekenyouyi-ye-nchuzhing-ni-n,LianheGurunheping-eweihu-rohuodong-shol-ochuzhing-ni-n.</p>
+    <p>Amineninkookan-mibaka-rachaoyu-du,youshanshuanzhe-rechuanlibishi.</p>
+  </li>
+  <li>
+    <p>Beyezhiyushehui-ngiwenhuashenghuo-yochancha-rachuanlibishin,yishu-yoshangshou,keshobinekenfuli-ye-nbaka-rachuanlibishin.</p>
+    <p>Beyekesho,wenshobinekenmeishuzhopin-mi-dukoo-rozhingshenbinekenwuzhiliyi-yebohu-w-ochuanlibishin.</p>
+  </li>
+  <li>
+    <p>Beyeshehuibinekenguochi-ngizhishu-ye-nga-rachuanlibishin,erizhishu-du,erishuanyan-duoo-rochuanli-shelbinekenzhiyu-sholchongfenshishan-a.</p>
+  </li>
+  <li>
+    <p>Beyeshehui-duzherenbishin,shehui-dugeshing-mizhiyubinekenchongfenfazhan-abaka-ra.</p>
+    <p>Beyechuanli-ye-wibinekenzhiyu-yo-wishingshi,falü-dushanzhi-w,erishanzhi-yechoding-emudibeye-ngichuanli-ye-nbinekenzhiyu-yo-nchongfenzhunzhongbozhengbishin,minzhushehui-dudode,gonggongzhishubinekenpubianfuli-ngizhengdangshuyo-yoshiyingbishin.</p>
+    <p>Erilchuanli-webinekenzhiyu-woshingshi,renhechingkuang-dubamburLianheGurun-ngizhongzhibinekenyuanzhe-ye-ne-weibei-yi-n.</p>
+  </li>
+  <li>
+    <p>Erishuanyan-ngirenhetiaowen-in,renhegurun,chituanbinekenbeyeerishuanyan-duoo-rochuanli-yebinekenzhiyu-yopohuay-achuanlibishicheshie-oo-yi-n.</p>
+  </li>
+</ol>

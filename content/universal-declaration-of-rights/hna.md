@@ -1,0 +1,121 @@
+<h1 align='center'>XIXE BLIBOA BE GBEFANƉEƉE SO AMƐBUSEWO ALOGOƉOEJSEWO ŊTI</h1>
+<h2 align='center'>ŊKƆJENYA</h2>
+<p align='center'>Ke e nyi be jesinana agbetɔ xɔmɛviwo kpata le woabe nujɔnunyinyi ku le woabe goɖoejisiwo alo amɛbusewo be gbesɔɛmɛ maɖeviɖe le emɛ ye nyi ku Fafa alo tujanyi le xixea mɛ a;
+Ke e nyi be amɛbusewo, geɖojisewo majesi kudo woabe makanmana woe dɔ̀nna gbélán be hunyra wɔnawo kawoe zinzinna agbetɔ be cìcìnya va a, eye nɛ agbetɔ b'a vǒ le nupópò pò ku nujixɔse mɛ a, ke e nyi be vɔ́nvɔ̀n sɔyi kumɛ ŋgba le e ji o a yeŋuti wo ɖegbefan só xixe búŋuku mɛ be jɔ̀jɔ̀ ke la nɔ sigbe jíjí wuta jijiwo kpata le amɛgbetɔwo be jijiwe mɛ a;
+Ke e nyi be e le veveɖe be ɖoɖo tɔ̀xɛ̀ ɖéwo la nɔ xɔ akpo nɛ amɛbuse kea woa, goɖojise kea woa, nɛ ŋgba va nyi be ke e jo va gloe kpatatàa, agbetɔ la jeagla, la fɔngu ɖo nukeŋutia hunyra sɔ do lannuwɔwɔmɛ ku amɛjizinzin jo va wugan, jo va flaa, jo va glo a;
+Ke e nyi be enu tajitɔ̀ ba nyì be wo ɖo la de ŋsɛn abɔkamɛ nɛ dukɔnwo le xlɔnnyinyi be ka ke le woa domɛ a;
+Ke e nyi be le gɔnmɛ dǒse a mɛ a dukɔn blaɖoduwo b'amɛhawo gbigbɔ le tè, le zingbe ɖo e ji le woabe jixɔse so nujɔjɔɛ tajitɔ̀wo ke kuɖo agbetɔ ŋti, le yebe nújɔnún yinyi kudo yeb'asixɔxɔ mɛ, le ɖe gblɔn ku kanɖoji be yewoa wɔ ye amɛsia be ŋkɔyìyì le jijèjè mɛ a la zɔn ɖo e ji kpe. Eye yewoa na ye agbenɔnɔ ɖɔhwin be wɔnawo la se axwe le vosinɔnɔ ganɖe mɛ le amɛbusewo be gbesɔɛ mɛ le ŋsuwo ku nyɔnuwo domɛ a;
+Ke e nyi be acɛkpadu kewoe nyi bɔbɔa bo viwo dota amɛ be asi le^ mɛa, yewo la xɔ alɔkpe dukɔn blá ɖóduwo be habɔbɔa, nɛ xixe bliboa ba setonu tútútú nɛ amɛbusewo ku gɔnmɛdose be vòsinɔnɔ a;
+Ke e nyi be gbɔngbɔ ɖekaŋukumɛ ɖoɖo nɛ goɖojisewo, amɛbusewo ku vòsinɔnɔ keawo ye la nyi kpɛnkpɛn ke wuta nɛ woa teŋu sɔ wɔ tadoemɛ a blibo a,
+Amɛsia be takpekpe le degblɔn aléké be gbefanɖeɖe xixe bliboato so amɛbusewo, goɖojisewo ŋti; sigbe flinmácici ɖekaŋuku ke ji amɛhawo kpata la yi tɔ́asi aleabe amɛ ɖekpekpe amɛ́ ku habɔbɔ be tòtòwo nɛ nyi be woa légbefan kea ɖo tamɛ gasiagamɛ eye wo la nɔ dovevenú tó nufyɔfyɔ ku hɛnhɛn nyawo, kewoe la vlunka nɛ esǐ ke ɖo la nɔ̀ aléké be sewo ku vosinɔnɔwo ŋti, eye le blɛwu denyigban ku xixe blibo be ɖoɖowo la na ye amɛhawo ku acɛkpaduwo la jesii eye woa zaɛn pɛpɛpɛ; nɛnɛake be ɖo la nyi nɛ dukɔn kewoe le woab'acɛkpakpa alo woabe ŋsɛn gɔnmɛ a yeŋu.</p>
+<ol>
+  <li>
+    <p>Agbetɔwokpatalejijimɛa,ɖovosinɔnɔ,nyigbèsɔɛ́mɛ́wólenujɔnunnyikugoɖoejisewo,amɛbusewomɛ.Tagbɔlewoasi,eyewɔnawosɔdodawoanɔnɔwogbɔalanyinɔ́visilélé.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛteŋusɔgoɖoejise,amɛbusekuvósinɔ́nɔ́keawosigbeenúkewoenyiétɔ̀nɛnɛlegbefanɖeɖekeamɛlevoklanɖekpemadoemɛ,veveɖesoagbazekelemiaŋtia,gbèkelèkɔ́núnamia,asualoasinyinyilejijimɛ,sɛ́nsɛ́n,amɛŋutɔ́begɔnmɛɖeɖelepolitikialodunyagbɔngbɔngblamɛ,aloamɛŋutɔ́gɔnmɛɖeɖeɖekpekpekewoelakuɖoamɛŋutɔ́bedu,alokekuɖoamɛhawobenyanwoŋti.Nɛnɛakewomadojesiamɛɖeŋtisɔkuɖoyebedubepolitikialɔkpaɖe,kojosewoalosɔkuɖowɛkɛabesewoŋtio;nɛnɛbedukemɛbesoa,teŋumanyiablɔɖedu,kpɔtɔ̀leduɖeb'acɛgɔnmɛalokejiwomuɖealɔkejiwomuɖealɔlekeŋukeŋunɛbazanɖokwesinɔnɔb'acɛo.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛ,aloamɛɖeka-ɖekaɖegbelanɔagbe,lavòeyeyeamɛtialakpɔgomɛleamɛjikpɔkpɔmɛ.</p>
+  </li>
+  <li>
+    <p>Amɛɖèmuɖolanyikluvialokannumɔo,kluvialokannumɔaloagbetɔsɔdoajɔbenǔgùnlenɔnɔmɛaloalɔkpaɖekpekpemɛ.</p>
+  </li>
+  <li>
+    <p>Womuɖolanyamaamɛɖebeŋtilanlejizinzinmɛalolevevesesedonaamɛdonaamɛlehunyrakemujenɛagbetɔo,alokeladovloealolaɖekpɔtɔ.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛleafisiafiaɖoacɛɖoyeb'amɛnyinyisɔzɔnɖeseaji.</p>
+  </li>
+  <li>
+    <p>Amɛsianyigbesɔɛleseabeŋkɔeyelevoklanmadoemɛa,woɖogbenɛeseab'amɛjikpɔkpɔ.Amɛsiamɛɖogbeɖekaŋukumɛleseab'amɛjikpɔkpɔsɔkuɖoamɛɖekpɔtókelanyiafɔtuŋukumɛnɛgbefanɖeɖekeakuɖogejijiɖekpekpekelakuɖoamɛdekpɔaŋti.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeɖogbelatùtàduamɛbenyasopewo,kewoeɖoacɛɖowɔnaalonɔnɔmɛkewoelatuafɔŋukumɛnɛalékébegbefanɖeɖesɔamɛbusegunmɛkpetɔwoŋtikejigɔnmɛseaaloesead'alɔɖoa.</p>
+  </li>
+  <li>
+    <p>Womuɖogbelaléamɛɖetikpoŋuo,laɖoetealolahɛneŋutúɖoamɛtupealoaɖetóleyebedùmɛasɔyidùhúmɛo.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛɖogbelegbesɔɛbliboamɛ,nɛbanawoasenukejɔ̀ɖoejia,leagbaŋugbakudoaléèbeɖolanyitútútúalevosikojoɖopekekpacɛnɛeɖokweaeyeleamɛɖejimadomɛa,lasònɛamɛabegoɖoejisewokuɖoɖoziamɛjikejea,alonɛanukwakelenyakewosɔɖoteledoehwɛmɛa.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpeɖekpeamɛkeŋutiwosɔnyaɖosɔɛdohwɛmɛa,lesigbeamɛkemukpɔjeagɔonɛnɛkakavanagakemɛyeagbaŋugbabekojoleamɛfuwobeŋkɔeyejeŋukɔawolacɔnnyaxɔɖoamɛtab'akpakewoeleveveɖenɛamɛa,laɖeefyɔbeejeagɔ.</p>
+    <p>Womadohwɛamɛɖenɛenyibenɛenyibegakemɛbelewɔwɔnaɖealoɖeŋuɖeleeɖejiaeseeseketeŋupoamɛɖonɛnɛbewɔnawoŋtiamuleyebedumɛalonyidusidutɔ̀o.Nɛnɛakewomuɖolanaɛtódɔndɔnsɔwugankejenɛagɔao.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpemuɖolasɔakpasɛnsɛnyidonùamɛɖeb'agbenyakekanyeɖenɔo,yebexomɛkuyeb'axwebenyawo,yeb'aŋɛdohomawo,aoloawɔnuɖeasɔgbleyebenyikɔkuyebenyiɖiɖio.Amɛsiamɛɖɔgbelabyɔsoaseagbɔnɛbakpɔejiɖowɔnakeawoŋti.</p>
+  </li>
+  <li>
+    <p>Amɛsiamɛɖogbelaɖisalevosimɛeyebalikeɖoafikejroealeyeb'acɛkpadumɛ.</p>
+    <p>Amɛɖekpekpeamɛɖogbelajóleduɖekpekpedumɛ,yeŋutɔbeduacanleemɛ;eyeelagbatrɔvaemɛ.</p>
+  </li>
+  <li>
+    <p>Nɛenyibewotinamɛɖeyomɛa,eɖogbelayijiafikelanyisiwlapenɛeyeelakpɔnɛnɛmɔnúledubuwocanmɛ</p>
+    <p>Vɔanɛnyibelenyawomɛezebeamɛajeagoganɖeɖoyebedua,mateŋubyɔsiwlapeb'amɛijikpɔɔkpɔɔo,nɛnɛakeneegbawɔwɔnaɖewokewoemuzɔnɖodukonblaɖoduwobeɖoɖowojio.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛɖogbelanyiduɖemɛtɔ̀.</p>
+    <p>Womuɖolasɔakpasɛnsɛnlaɖedumɛvinyinyib'akpaleamɛɖeŋtialoagbebemaɖɔliiabyɔduketɔ̀jroeao.</p>
+  </li>
+  <li>
+    <p>Nɛŋsualonyɔnuɖovijipea,woɖogbelaɖesrɔnadogbelaɖesrɔnadoxomɛeyenuɖematúmɔ́nawosɔkuɖoagbezebeklɛnklɛn,duɖemɛtɔnyinyi,alosɛ̀nsɛǹbenyawoŋtio.Woɖoacɛɖekaŋukumɛlewoab'agbeŋukekewomɛsɔdoasinagokemɛwolagbewoanɔnɔwoa.</p>
+    <p>Srɔnsrɔnɖeɖeamuɖolanyiwɔ̀wɔnɛlevosimɛaejromusosrɔnɖetɔwoŋtɔgbɔo.</p>
+    <p>Srɔnɖeɖenyinúzɔnɖoxixeabeɖoɖowoji,eyebegbanyiadokpenɛamɛha;éɖogbenɛamɛhakuacɛkpaduabakpɔeji,alebenɛ.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛnɛenyiyedekanɔoo,alolehabɔbɔ,alolehadodoɖemɛa,ɖogbeénúnyiamɛtɔ̀ji.</p>
+    <p>Womuɖolasɔakpasɛnsɛnaatsriamɛɖeenukenyiétɔao.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛɖogbelavòlesusunɖeɖemɛ,leyebecicinyakusɛ̀nsɛ̀nb'acɛayelenaɛegbebeegbateŋuɖɔlisɛ̀nsɛ̀nalokankánɖoenuji,eteŋuwɔnɛnɛayeɖekanɔ,alolehaboboɖemɛ,leagbaŋugbaleagun-abeŋkɔalolekɔ́ɖɔ́ɔmɛ,sɔtonufyɔfyɔ,wɔnawo,kusɛ̀nsɛ̀nbekɔnuwoji.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛɖoɖoacɛɖovosibesusunkudonyaɖegblɔnwoji;eŋwayenayewomuɖoladoŋuklɛnnɛɖosusunkewobeɖesiaŋtio,alolajitrɔlégukuɖowoaŋti,aloafufuwotonyakakanb'alɔɖekpekpemɛsɔjeyebeduabelipowogoɖo.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛɖogbelawɔbɔbɔaloadogbɛfafawolevosimɛ.</p>
+    <p>Womuɖolazinamɛjibenɛnɔbɔbɔɖemɛo.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛɖogbelazeta,lakenudokewokanhahoayebedumɛ,yeamɛtiaŋtɔteŋuwɔnɛnɛa,aloamɛcewobecanlevosimɛa,lawɔɛdoetepe.</p>
+    <p>Amɛɖekpekpeamɛlesɔsɔɛnyinyibeɖoɖowomɛaɖogbelawɔfyɔdɔleyebedumɛ.</p>
+    <p>Amɛhawobejroyelenyiadokpenɛfyɔhawob'acɛkpakpa.Nɛnɛabejrolazeleakɔdadaasɔcanamɛsigbealekebejea,eyewoɖolanɔtrɔwɔɛhwenuhwenusɔtoamɛsɔyebegbenaamɛkejroealewlawlamɛlehahob'akɔdadamealosɔzɔnɖoɖoɖobuwojikewoelanavovonɛakɔadada.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛkegbenyihamɛviaɖogbenɛwɔkpɔeji,aleben'ɛ.Nɛnɛbebelelenaamɛlakpɔgomɛleecibemɔnuwomɛ,hamɛvibehyanwokudokewokpatalanayebeŋkɔyiyileagbemɛ.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛɖogbenɛedɔ́,eyeelasɔekejroealeɖoɖosɔgbekejeamɛŋkumɛeyewoɖolakpeŋukuviɖoeŋtinɛŋgbacidɔ́ɖemaleasitɔ́o.</p>
+    <p>Leamɛmaɖekpɔtɔmɛa,amɛsiamɛɖogbelaxɔecikejenɛedɔkebelewɔ.</p>
+    <p>Amɛkelewɔdɔ́aɖolaɖuecikesɔgbegbajeamɛŋkumɛ,kelananaagbenɔnɔadodoeyeŋutɔkuyebexomɛaeyeɖoɖobuwokewoelaleŋukuviɖoejikpɔkpɔleledomɛacanteŋucɔnakpan'ɛ.</p>
+    <p>Amɛɖekpekpeamɛɖogbelanɔkudɔwɔtɔbuwosɔnadɔwɔtɔwobegbɛwogbɛwoɖoɖoeyeegbateŋudakudɔwɔtɔbegbɛbuwoasɔhwlɛnyeb'alewogan.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛɖogbenɛgbɔjɛnkuenukewoɖenaŋmɛjaka;womanayedɔwɔgamɛlawuganalebejeae,eyehwenu-hwenua,woɖolanɔnagbɔnjɛnb'azankewoelaɖofɛntu.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛɖogbenɛkejen'ɛlecigomɛanɛbasɔhwlɛnyebelanmɛsɛn,yɛŋutɔkuyebexomɛabetujenyi,veveɖeamuɖuɖu,awukuavɔwo,axwealoxɔ̀kemɛwoteŋunɔ,amɛjikpɔkpɔledɔyɔpewokudonukewokeŋujenɛamɛha;eɖogbenɛŋkuléléɖoyeamɛtiaŋtileedɔkusinsinmɛ,nɛyebeŋtilanb'akpaɖewogundua,nɛevatrɔahosialodɔɖe-manɔsitɔalonúkewokeŋunan'ɛbeɖunaa.</p>
+    <p>Nyɔnubevijihwenuwo,vifɛnmɛnɔnɔwóɖogbenɛalɔdokuamɛjikpɔkpɔtɔxɛɖewo.Ɖeviɖekpekpeɖevikewojìlesrɔnɖeɖemɛalolesrɔnmaɖemɛaɖogbenɛŋkuleɖoamɛŋtiɖekaŋkumɛ.</p>
+  </li>
+  <li>
+    <p>Amɛsiamɛɖogbenɛhɛnhɛnkusukulubenyawo.Gɔnmɛje-sukuluwoyiyimuɖogɛntúo.Nufyɔamɛlegɔnmɛjesukuluwonyinuzinamɛji.Wolanayedɔkplapesukuluwolakeketà,agbànɖoduamɛ.</p>
+    <p>Wolanamɔ́nɛnufyɔfyɔlesukuluganwolanyikejenɛamɛasɔzɔndonyányáŋti.</p>
+    <p>Nufyɔfyɔɖolaxɔdɔ́soagbetɔbevùnviùnbliboaŋti,ladokaabɔ-kamɛnɛesinanaamɛbusewokuvosiwo.Eɖolanayenugɔnmɛsese,agɔ̀sɔ́kèamɛkuxlɔnkadodolanɔkɔtawokpatakusɛ̀nsɛ̀nwokpatadomɛeyeelagbanadukɔnblaɖoduwobewɔnawoŋkɔyiyinɛfafabanɔanyi.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛɖogbelevosimɛ,adonùenúkewokanamɛhab'agbealedèkɔnuwokukamɛtetebemɔ́wonúeyeeɖolasèvivileaɖaŋuɖɔ́wokunugɔnmɛjijibeŋkɔyiyiŋti.</p>
+    <p>Amɛɖekpekpeamɛɖogbenɛwoakpɔyeb'alewoji,lehadomɛb'agbemɛaloenukewokpatanyietɔ̀lenugɔnmɛjijikunuŋɔŋlɔwomɛ.</p>
+  </li>
+  <li>
+    <p>Amɛɖelkpekpeamɛɖogbelawɔyelayebedumɛ,lewɛkɛbliboamɛaamɛbusewokuvosinɔnɔwobezanzawolazɔnɖoejitútútú.</p>
+  </li>
+  <li>
+    <p>Amɛɖekpekpeamɛɖódɔ́lawɔ̀nɛamɛhakenɛvosibeŋkɔyiyibliboateŋunɔnɛyeamɛtia.</p>
+    <p>Lezanzanwonɛvivisesewoleabusewokuvosiwomɛawomadolipoɖetóvònɛekeseseaɖoɖeanyiasɔɖɔkpejesinanakuesinɛgoɖoejisisewokuvosiwoji,aleabewowɔɖoɖoɖozinamɛjisoagbenɔnɔɖɔnwin,ɖoɖosɔgbelehadomɛ,kutujeanyibliboaleamɛsiabehamɛ.</p>
+    <p>Womazanalekebevosinɔnɔasojegagoɖodukɔnblaɖoduwobedodowoo.</p>
+  </li>
+  <li>
+    <p>Nɔnɔmɛalowɔnaɖekpekpemuɖolanayegbefanɖeɖekealazésigbeacɛkpaduɖeyesɔɛɖotenɛnɛ,alonagbeamɛɖe,habɔbɔɖebebawɔwɔnaɖekelahɛnnugbleleamɛbusewokuvosinɔnɔkewoŋwoponuposoao.</p>
+  </li>
+</ol>

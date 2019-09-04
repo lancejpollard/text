@@ -1,0 +1,122 @@
+<h1 align='center'>NA NQATAXACPI NA ỸOTTA'A'T SHIỸAXAUAPI MAYI NETALEC ANA 'ALHUA</h1>
+<h2 align='center'>Na Hua'auchiguii N'aqtacpi</h2>
+<p align='center'>Cha'ayi qaỹaỹateeta de'eda huesochiguii nataxac, qataq da huo'o ca qai'ot ỹaỹamaqchiguii, qataq da nlagaxayic mayi huetalec ana 'alhua, chigoqchigui, qataq da 'eetec da qaica da huo'o ca napacalec ca lỹa, huo'otaq da qaỹacona ca lalamaxat i 'oonolec 'enauac na shiỹaxauasat.
+Qataq qaỹaỹateeta da souaxat ca saqaỹaỹateelec lataxac, qataq da qaỹI'ina 'I da lataxac ca shiỹaxaua, da nachida da chigoqchigui da qai'otec ca qauem qataq da saqaiyacnapec na ỹale, ỹoqo'oyi namayipi sa ishit da pal da lavilỹaxac, qataq souaxat da qanasachigui nagui da qalapaxai da qaỹauotaique no'on llic na shiỹaxauasat, qataq naua aq naidauo na'axa'te mayi heutoiguilo da 'enauac na shiỹaxauapi ỹataqta huesochiguii qanqoỹin, imeuo da lcolanaxa qataq da lachoxoyic, qataq sa ishit da qoỹinapega souaxat ca l'aqtac qataq souaxat ca l'amqaanataxanaxac.
+Qataq iuen da ne'ena maichi lataxac na shiỹaxauapi ỹataqta qanpaxatalec qataq qai'ot ca llic, yaqto' ca shiỹaxaua sa ishit da I'ot ca sa lhuennataxa, huaa nachi ishit da dataỹa 'aguet cam sa ishit da dechoxonnataxan huo'otaq ca huetaiya' naq'en ca lỹa.
+Qataq iuen da qalapaxai da qai'ot ca llic da yaqto' nhuoteeta't 'enauac na netalguete naua ỹotta 'a't 'ale'u.
+Cha'ayi ne'ena ỹotta 'a't shiỹaxauapi mayi hueto'ot na huaxaỹa't nta'alpi, na mayipi mashi sogote da nasachigui da ỹirei da l'aqtac da 'enapec ỹataqa pi'iỹa'a ne'ena l'atchiguii maichi lataxacpi na shiỹaxauapi, qataq da maichi l'amaqchic i 'oonolec, qataq da lta'adaic naigui i 'oonolec, qataq da 'eetec na mavipi da qaica da huo'o ca napacalec ca lỹa, na ỹale qataq ana 'alo, qataq na mayipi I'axateec de'eda l'aqtac da yaqto' qai'ot ca llic da ỹaỹamaxai qanqoỹin na shiỹaxauapi qaica ca iueetac, yaqto' ca shiỹaxaua ỹataqta huesochiguii.
+Qataq ne'ena nta'alpi mayi ỹalectau'a de'eda qai'ot, na mayipi ỹan da l'aqtac da 'enapec itauan da l'onataxanaxac nam huaxaỹa 't nta'alpi, da yaqto' ỹataqta qantela'a de'eda maichi lataxac nam netalguete naua ỹotta 'a't 'ale'u, qataq huesochiguii da I'ottac ca maichi laỹaanataxanaxac na shiỹaxauasat, qataq.
+Qaỹaỹateeta da 'enauac ne'ena 'eeta'a't nhuennataxacpi qata ne'ena maichi lataxac na shiỹaxauapi, qataq da 'eetec da huesochiguii na mayipi, ỹataqta huo'o ca lta'araic naigui da ỹataqta qaipacchigui qai'ot, cha'avi maichi n'aqtac.
+De'eda ima'a't ltaxaỹaxac na Nta'alpi
+Lapaxai ne'ena n'aqtacpi mayi mashi qanasachigui da yaqto' mpaxatalec da maichi lataxac ma ỹotta't shiỹaxauapi, cha'ayi ỹataqta 'enauac da 'eeta'a't da lhuennataxac na mayipi, qaq ỹoqo'oyi iuen da 'enauac na shiỹaxauapi ỹotta'a't na l'aqtac n'aaxata 'a't, yaqto' i 'oonolec na mayipi hua'otaq na nocittagui ca l'onataxanaxac, ishit da nachi 'eetai' tatapigui lauel damayi, qataq ishit da huelec da I'ot, chigoqchigui naq'en ca paxaguenaxac, qataq da na paxaguenataxanaxac, qataq ipacchigui naq'en damayi, da ishit da nquigaxattashiguem ca I'ot cam qanayiuta'a 'alhua, qataq naua lỹa 't 'ale'u, da yaqtohuo'o da nuattonaguec qataq da qaipacchigui da qai'ot ivida'alo naua lỹa't 'ale'u mayi nataq'en nanettau'a de'eda, qataq naua lỹa't 'ale'u qanayiitalguete mayi hueto'oto da lamaxasoxonaxac ne'ena nta'alpi.</p>
+<ol>
+  <li>
+    <p>'Enauacnanaaxatshiỹaxauapinamayipihuesochiguiiqataq'eeta'a'tdal'amaqchicqataqda'enecqataqỹataqtaỹaỹate'nnaualataxacoqataqnuano'o'nnvilỹaxaco,qaqỹoqo'oyiiuendai'oonolecỹataqtaitauanichoxodencalỹa</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauapiỹalectau'a'enauacne'enalataxaguesatqataqda'eetecdahuesochiguiiqanqoỹinnamayipimayimashiqanasachiguiqataqqoỹidelecana'ananede,qaicadahuo'ocaqaiỹotauga'enauacnashiỹaxauasatna'aictagaca'eeteccal'ogueyaxacỹaleqataq'alo,qataqnaual'aqtaqanataq'endal'amqajnataxanaxachuo'otaqda'eeteccamlaỹaanechuo'otaqda'eeteccalỹanaỹaanataxanaxac,qataqcamchigoqta'a'alhua,huo'otaqcamchigoxoigui,sallaxanechuo'otaqchoxodaqhuo'otaqcamlỹalataxac.Nataq'ensaishitdahuo'ocaqaiỹotaugahuasoilecdalliccalaỹaanataxanaxachuo'otaqnaỹotta'a'tllicnalataxaguesatcam'alhuamayinetaacashiỹaxaua,nachi'en'amdahuo'otaqnetaaca'alhuamayinalamaxatqoỹittalecnaalaqpihuo'otaqdachochiqaipataxalecdailotague',qalaxayisaishitdaỹaqaugahuo'otaqda'ico'noxonecpihueto'otdalamaxasoxonaxaccanta'amayiilotagueque'eca'alhua.</p>
+  </li>
+  <li>
+    <p>'Enauaci'oonolecnashiỹaxauasatnhuanau'adantaunaguecdanachaalataxac,qataqỹataqtahuesochiguii,qataqỹataqtaqantela'adanachaalataxac.</p>
+  </li>
+  <li>
+    <p>Qaicadahuo'oca'ico'nlatachuo'otaqdachochiqaỹamaqtaccha'ayide'eda'eeteccanlatachuo'otaqdallicdachochiqaỹamaqtaqdamayinaguisaishitdaqaỹashiitadaqai'ot.</p>
+  </li>
+  <li>
+    <p>Qaicadahuo'ocaqaỹauo'ocanhuaxanaguechuo'otaqdaqai'otcancoitaguechuo'otaqdasaqaichidapec,qaicacaqoỹanaiguiqataqsaqaiyacnapec.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauasatsaishitdaqaillapeguemdahuo'ocataigue,na'aictaxadaỹaqa'acahueta'a,qalaqqailo'oguetcha'ayin'attau'a'enauacnalataxaguesat.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauasat'eeta'a'tqaicadahuo'ocanapacaleccalỹasouaxatnaỹotta'atllicnanqataxacpi,saishitdaqaiỹottacachinamayipicha'ayinachi'eeta'a'tdahueto'otnaỹotta'a'tnqataxacpi.'Enauac'eeta'a'tdahuoto'otdaltelaqtaxanaxacnanqataxacpi,qaicadahuo'ocaqaiỹottapeugahuo'otaqdasaqaipaguelecne'enan'aqtacpimayiqoỹittai.</p>
+  </li>
+  <li>
+    <p>'EnnauacnashiỹaxauasatishitdaI'otcalliccal'aqtacdaỹaneu'anaaloicol'o'pinta'alpimayiilotague'cam'alhua,dayaqto'camayiqanpaxatalecsaishitdaqan'aqchitcha'ayimashin'attau'ananqataxacpimayiI'otdaqailo'oguetcamayi,mayin'attalecpique'eca'alhua.</p>
+  </li>
+  <li>
+    <p>Qaicadahuo'ocachichiqaỹacoolecdaqaicoi',qaỹapou'a,huo'otaqdaqai'odauecnachicallalaqpi,cha'ayicamayihuo'onaq'enecdayi'oqchiguinachaalataxac,yoqo'oyiiuendaqaỹaỹamaxatchiguiicaqai'otec,huo'otaqqai'oteccalỹalataxacmayiishitdampaxatalecdalataxaccamayi.'Enauacnashiỹaxauasatsaishitdahuo'ocaqaillapeguemdahuo'otaqI'ada'tcalaỹipidayaqto'nachajlecqataqdadeqalaeccam'eetapegueccamayipi.</p>
+  </li>
+  <li>
+    <p>Enauacnashiỹaxauapiishitdahuo'ocaI'ot,cha'ayinamayipinachi'eeeta'amnalaỹipi,daishitdaqan'axaỹaxanaca'enapec,qataqdaqai'oteccamỹaỹamaqchiguiilataxac,huaaqanqoỹincaỹaqaugal'onataxanqa'namloicnatacnaaloicpi,mayiỹaqaugadayagto'qaỹaỹamaxajicallicdalataxaccamayi,qataqcamishitdaI'otlataxac,huo'otaqdaqanmitcamnegue'tcalataxacmayiqaỹaqtapegueleccamayi,mayiiuendaqaidolecnamlataxacpimayiI'otcallicnalasouaxashitpi.</p>
+  </li>
+  <li>
+    <p>Enauacnashiỹaxauapimayihuo'ocamchochiqaỹasaqtapeguelecishitdachochiqampaxatalecdahuo'otaqsaxanaxadaỹoqtaqaỹaỹateetacamlasouaxashitda'eesa,qaipacchiguica'enapecnamnqataxacpiqataqdallicdaqanmitcamayi,dahuo'otaqsaxanaxadaỹoqtaqaỹaỹateetadaishitdadataỹa'aguetcamqaỹasaqtapeleclasouaxashitcamayi.</p>
+    <p>Saishitdahuo'ocaqaỹauo'ocanhuaxanaguecsouaxatcamI'ot,huo'otaqdahuo'ocalataxacsaipaguelec,dahuaqchiguidahuo'ocaqai'otmayisaishitda'iso'na'aqchitnamlataxaguesat,mayiishitdaỹashiitacamqanayiuta'a'alhuahuo'otaqcamlỹa'alhua.Nataq'ensaishitdaqaỹasaxaleccanhuaxanagueclta'adaicmayisanatenguetdalataxacco'ollaqqaitaxaỹapiguique'ecalasouaxashit.</p>
+  </li>
+  <li>
+    <p>Qaicadahuo'ocaqai'igueeta'adahuo'ocaqai'otecsalataxacdalalamaxatnachaalataxac,huo'otaqnallalaqpi,qataqcalma',qataqdaqaimetenacalede,huo'otaqdaqaishigueeta'adano'onlataxaccamayi,huo'otaqdano'onn'aqtagueccha'ayi'enauacnashiỹaxauapiiuendantela'aqanqoỹinnalataxacpimayiI'otnalliccamchochinshiguenataxanaxachuo'otaqnshiunaxanaxac.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauapiishitquenhuotapigui'qaicaca'eetegaqataqishitdamaichilca'aiquecamnaaque'eca'alhuamayihueta'a.</p>
+    <p>'Enauacnashiỹaxauapiishitdaca'aicamhueta'a'alhua,nachi'en'amcamhueta'aishitdahuo'otaỹalỹa'alhua,qataqishitdaỹI'iguelaxacamchigoqchiguina'alhua.</p>
+  </li>
+  <li>
+    <p>Dahuo'otaqhuo'ocaqaicaatac,qalaq'enauacnashiỹaxauapiishitdanmitaiquecalli'iguenqa',qataqiuendaỹataqtamachiguiqanqoỹin,nai'ctaxacamhueta'a'alhua.</p>
+    <p>Qalaxayide'edalataxacsaishitdaqai'ogoxonadahuo'otaqqaỹataỹa'aguetcaI'otnamloicnatacnalataxaguesat,dahuo'otaqỹataqta'eesacamqai'otnasouaxashithuo'otaqcamlỹalataxacmayidataỹa'aguetnamelataxacpimayinasachiguico'ollaxanamỹotta'a'tnta'alpimayihuaxaỹa't.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauapiishit,dananedeuocamhueta'a'alhua.</p>
+    <p>Qaicadahuo'ocaishitdasaqaỹashinemdananedaxaccamhueta'a'alhua,huo'otaqdanadalaxatdananedeu'acalỹa'alhuamayisaishitdalma'.</p>
+  </li>
+  <li>
+    <p>'Enauacnaỹaleqataqana'alodaivitadamashiỹIqalaqishitdasaqaillapeguemcaI'otsouaxatdanqomshaxachuo'otaqcamchigoxoiguihuo'otaqsouaxatcal'amqajnataxanaxac,nachisaqaỹashinemdahuadonuo'otaqdaỹauo'onallalaqpi,huo'otaqdasaqaỹalemaxatde'edaladonaxac,daanca'altaiccamayi,huo'otaqdanalte'acalhua.</p>
+    <p>Nachaqdatadaỹoqtahuesochiguinicamayihuo'otaqdaỹataqtaỹaỹamaxadeetacaI'ot,nachiishitdaqaltaqhuadon.</p>
+    <p>Cha'ayine'enahuadoota'a'tpiqataqnallalaqpinamayipinachinanaqanayiutapeguelecqataqnachinana'ico'nllitai'enauacnashiỹaxauapicamqanayiuta'aqataqnamayipiiuendaỹataqtaqampaxatalecque'ecaqanayiuta'a'alhua.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauapiishitdaỹauo'onamaichelalamaxatpi,huo'otaqdanhuaata'ai'calỹa.</p>
+    <p>Qaicadahuo'ocachochiqaỹacojlecdaqaillapeguemcamaichilalamaxat.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauapisaishitdaqaillapeguemdahuesochiguiilataxacdalhuennataxac,huo'otaqdalavilỹaxacqataqcal'amqajnataxanaxac,nataq'ensaishitdaqaillapeguemdanadalaxatcaml'amqajnataxanaxachuo'otaqdalpi'iỹaxac,nataq'ensaishitdaqaillapeguemdaỹachaxancalpi'iỹaxachuo'otaqdal'amqajnataxanaxac,nai>>ctaxada'oonoleccamayihue'otaqdahuaxaiguetnalaỹipi,nachi'en'amdaỹataqtanachaxaatahuo'otaqdasaishitdanachaxaata,souaxatdanapaxaguenataxanaxac,qataqdallicdahuo'ocaI'ot,huo'otaqdaỹataqtailotelecdalliccaml'amqanataxanaxac.</p>
+  </li>
+  <li>
+    <p>'EnauacnashiỹaxauapisaishitdaqaillapeguemdaI'axatdalhuennataxachuo'otaqdahuo'ocal'aqtac;qaqde'eda'eetecdasaishetdaqoỹinapegadamayiivida'anataq'endasaishetdahuo'otaqsaqaỹalemaxatcamayisouaxatcamlhuennataxacmayiI'axateecco'ollaxa,qataqsaishetdahuo'otaqqanmittac,qataqcamayiishitdahuo'ocaI'axateeclhuennataxac,na'aictaxadaqaỹoqtegeuivida'acalỹa'alhua,qataqishitdaỹachalecacacamachaqcalmalatenana'axaỹaxacpi.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauapiishitdaỹalegueu'adahuo'onantaxaỹaxac,huo'otaqdaỹalegoiguidahuo'ocananeda'tshiỹaxauapi,daI'otdalliccam'eetapeguecỹaỹamaqchiguii.</p>
+    <p>Qaicadahuo'ocachochinaỹamaxalecdananedeu'aqanqoỹindahuo'oicananeda'tshiỹaxauapi.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauapiishitdado'onoataxaneu'adal'onataxanaxaccanta'amayiilotague'ca'alhuacamhueta'a,ishitdamaichihuapegue'dadetaxaỹapegue'canta'a,huo'otaqdaỹauota'acaltaxaỹanexanecmayimaichilca'egueshic.</p>
+    <p>'Enauacnashiỹaxauapisaisnitdaqaillapeguemdahuo'ocainoxoneu'acha'ayinachi'eeta'am'enauacnalaỹipishiỹaxauapidaishitdahuo'ocalo'onataxanaxacque'eca'alhuamayihueta'a.</p>
+    <p>Dalasataxac'enauacnashiỹaxauapinachidadaI'otdal'aaxaccanta'amayiilo'ogue'enauacnamayipi,de'edanasataxacdamayidaqai'otqalaqỹataqtaqaỹaỹamaxatchiguiidanallida'tqanqoỹin,qataqdaqaỹahuo'oinaualaloqo'teqanqoỹinde'edaallitaxac,de'edaallitaxacI'otdaqaỹataleccamdauegaxanỹaguecnanale,qataqsaishitdaqaỹauaachiguiqanqoỹincamnalliji'oonolec,huo'otaqdaqaỹahuota'acamlỹalataxacdahuo'ocaqanallijlecdaqaỹahuotaiquedanta'a,mayinataq'enỹaỹamalechiguii.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauapimayiỹalectaiguicamlaỹipicahueta'a,namayipiishitdaqaỹauo'oacalashieu,qataqnallalaqpi,qataqishitdaqaỹanemdaivitadaiỹaxanaique.Chigoqchiguiqanqoỹinaimlaponguishianommayiilotague'canta'amayiilotague'que'eca'alhua,huo'otaqanachigaqa'analaỹipinta'alpinaualỹa't'ale'u,mayiqaỹamaxatchiguiidallicdailo'oguene'enanta'alpi,'enauacne'enashiỹaxauapiiuendaỹataqtamachiguiniqanqoỹinqataqishitdanhuanau'ade'edansallaxaqataqdaỹalecta'aguet'enauacnalaỹipi,qataqdamaichilataxacnamayipi,qataq'enauacnalhueneguesatdanachaalataxacqataqqaicaca'eetegadaI'otdamaichilaaxataxacdamaichinachaalataxac.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauapiishitdaỹauo'ocal'onatacqataqdamaichilca'aiquecaishitdaI'otl'onatac,qalaxayinalochiguiiqanqoỹindalashiichiỹaxacqataqỹataqtaỹaỹamaxadeetaqataqqaiqataxana'Idasaishitdahuo'ocana'aqnachiqaicacal'onataccamayi.</p>
+    <p>'Enauacnashiỹaxauapisaishitdahuo'otaqqalca'ataguidaqai'otcanshiitenagueccal'onataxanaxac,dalashiichiỹaxacnachi'eeta'amnaleỹipi.</p>
+    <p>'Enauacnashiỹaxauapimayido'onataxaataciuendaỹataqtanalochiguiiqancoỹindanshiitenaguecqataqỹaỹamaqchiguiiqanqoỹinqataqqaipactelecnachi'en'amnallalaqpi,de'edanshiitenaguecnateeteguetqanqoỹindano'onlataxaccamayiqataqỹataqtaqanaloqteeta'tdaivitacalaloqo',huo'otaqdaiuendaqaỹamaxajicamsaxanaxadaime,huo'otaqcalỹalataxacmayiishitdampaxatalecdalataxaccamayi.</p>
+    <p>'EnauacnashiỹaxauapiishitdaI'ayiidallicdano'onataxanaxachuo'otaqdananedeu'acalỹailotague'dano'onataxanaxacdayaqto'ishitdaqaiuejlecdal'onataxanaxac.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauasatsaishitdaqaillapeguemdanmataxac,qataqishitdahuo'ocalỹaI'ottacdaỹI'imaqta,qataqnaualoga'tedal'onataxanaxacnaloteguetqanqoỹincamI'ottac,qataqnaualaloxoqui'danmateecqanqoỹinqaishiite'n.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauasatiuendaỹataqtanalochiguiiqaicadahuo'ocaiueetacqanqoỹin,nachi'en'amnallalaqpi,no'oitaqataqỹaỹamaqchiguii,saishitdaiueetaccaaloqqataqqaitauneccalỹantaunaxanaxac,nataq'eniuendaqaiqataxana'Iacanshiitenaqtedaivitadaqaicacal'onatac,huo'otaqdasano'on,huo'otaqdasada'aiigue,huo'otaqdapa'aic,qataqdamashiỹa'axaiqui,huo'otaqdahuaiguicalỹalataxac,huo'otaqdadeqatcachigoqtapoiguinalhueneguesatỹasouaxatcamnegue'tcalataxacmayisaishitdalhuennataxacamayi.</p>
+    <p>Da'eetecaca'alodadeco'oqataqnanogotoleciuendaỹataqtaqantela'aqataqqanayiuapegue'.'Enauacnanogotolecmahyichigoxoiguilocauanamoxo'uhuo'otaqdaỹaqa'aacachigoxoiguinamayipi'enauac'eeta'a'tiuendaỹataqtaqantela'a.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauasatiuendaỹataqtanapaxaguen,qalaxyide'edanapaxaguenataguecsaishitdaishiitenimauecde'edahua'auchiguiinapaxaguenataguecdayaqto'ỹaỹate'nnaualliconahua'auchiguiinaỹaaneguesat.Ne'enahua'auchiguiinaỹaaneguesatiuendaỹoqtaqalapaxaidaqai'ot.Daqalapaxaicallicne'enaỹotta'a'tnaỹaaneguesatqalaqiuendaqaicacaichiỹauga,qataqdaqananedeu'ane'enaqaỹoqotchiguemecnaỹaaaneguesatqalaqqaicadahuo'ocaqaiỹotauga,qalaxayinataq'eniuendaqailoteguetcamỹoqta'eesasaivi'danqatne'enanaỹaaneguesat.</p>
+    <p>Qataq'enauacne'enanapaxaguenataxanaxacpiiuendaỹoqtanaaxatnaq'endalauattonaxanaxacnashiỹaxausatqataqỹa'anaqchiteccamlataxacmayiishitdaI'otqataqdahuesochiguiinaq'ennamayipi,nataq'enitaunecdaỹaỹateeteguetnalataxacpi,qataqda'eetecdaqanhualaxaine'canỹaqataqda'eetecdanhuoteeta'tnanetalguetenauaỹotta't'ale'u,qataq'enauacnaỹotta'a'tnal'aqtachuo'otaqcal'amqajnataxanaxac,qataqdaqalapaxaicallicnaI'otpinaỹotta'atnta'alpimayinaneeta'a'tdayaqto'lactapiguiinashiỹaxauasat.</p>
+    <p>Namhuo'onallalaqpiishitdamaichilca'ateu'acalataxacdanapaxaguenatageucnallalaqpi.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauasatishitdamaichichigoqchiguidaỹalegueu'a'enauacnamaichilalamaxatlataxaccamnetaiguishiỹaxauapi,qataq'enauacnaỹaỹamaqchiguiilataxagesatnalalamaxatlayaanecpimayiishitdaỹaỹamajnicamayipiqataqishitdaỹaconguetcachigaqaigui.</p>
+    <p>'Enauacnashiỹaxauasatiuendaqantela'acamlalamaxatlaỹaanec,huo'otaqcayi'oqchiguilalamaxatmayichigaqaiguicaI'ottaclaỹaanec,huo'otaqdaI'ottacananere,huo'otaqnano'onne'enaqtacpimayimaichilalamaxatl'onatac.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauasatishitdaqai'oteccallicdayaqto'qaicacamachicague'tdaivida'alonaualỹa't'ale'u,mayiqailotaguetamayinataq'enividaugalo'enauacne'enanqataxacpimayimashiqanasachigui,yaqto'ỹataqtaqaipacchiguidaqai'ot'enauacca'enapec.</p>
+  </li>
+  <li>
+    <p>'Enauacnashiỹaxauasatishitdahuo'ocaI'ottaccamhueta'a,cha'ayinachicatacamhueta'amayihuesochiguiidahuo'ocamI'ottacqataqsaishitdaqoỹiitega.</p>
+    <p>Daivitadahuo'ocaỹacoolecdaI'othuo'otaqcamlỹalataxacmayisaishitdaillapecdaqai'otne'enanqataxacpi,qalaq'enauacnashiỹaxauapiishitdaqai'otcaỹashiitane'enanqataxacpiyaqto'camayinataq'enishitdahuo'ocaqai'ot,qataqdaqaipacchiguidaqai'otcalataxacỹaỹamaqchiguii,yaqto''enauacnashiỹaxauasatqaicacamachicage'tqataqsaishitdahuo'ocaqoỹiitega.</p>
+    <p>N'enanqataxacpiqataqdanataxacmayihuesochiguii,saishitdaqai'onataxanadahuo'otaqqaỹataỹa'aguetcam'eetapeguecqataqnaml'auaxaneclataxacmayilapaxainaỹotta'a'tnta'alpimayinanetta'a't.</p>
+  </li>
+  <li>
+    <p>Qaicaqomedahuo'oca'oonlecne'enananettaimayiqanasachiguidaqoỹinacchigoqchiguidaI'otcal'aqtaccacamachicague'tnanta'alpi,dahuo'otaqhuo'ocaỹanemshiỹaxauapihuo'otaqca'oonolecnamayipidayaqto'huo'caishitdaỹacoolecdaI'ot,huo'otaqdaỹaueca'a'tcalaỹipidayaqto'nlaxajica'oonolecne'enanqataxacpi,huo'otaqdanlaxajidanataxacmayihuesochiguii,mayimashinasachiguiqataqlapaxai.</p>
+  </li>
+</ol>

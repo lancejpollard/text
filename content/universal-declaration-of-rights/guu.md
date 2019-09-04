@@ -1,0 +1,121 @@
+<h1 align='center'>TOTIHITAWË THAMOTIMA THE Ã</h1>
+<h2 align='center'>PREÁMBULO</h2>
+<p align='center'>Enaha thë puhi taeo kuaai, wã rëamai thë, peheti he usukuwë thë, wã toprao thë kãi, hei thë pë nohi taemopou piyëkou, ĩhĩ thë pë nohi ĩhĩpimopouha totihitawë thamotima thë hami he usukuwë thë pë nohi taeayou totihitaopë,
+Enaha thë puhi taeo kuaai, totihitawë thamotima thëni thë taimi ha, thë pë kãi shomiaprai ha, hei wãrĩtiwë thamotima thë kipi thaprarema. Komi pëmaki rë kui pëmaki kiriihou mai, pëmaki kãi no preaai mai pëmaki përihou piyëkopë, pëmaki ã topraopë, pëhetiapramotima thë pë hami.
+Enaha thë puhi taeo kuaai, totihitawë thamotima thë rë wã nosie huamotima thëni thë nohi thapopë, komi urihitheri thë pë no yuayou maõpë,
+Enaha thë puhi taeo kuaai, thë pë përihiwë rë piyëkëi thë pë puhi taamayõpë thë pë rĩmimayõpë,
+Enaha thë puhi taeo kuaai, komi urihitheri ONU thë ha thë pehetiapraihe, totihithawë thamotima thë hami, suwë wãro pei pëmaki no rẽ kui thë pë no ã hẽ usukuwë, kama pëni thë ã wawemarẽmahẽ thë pë puhi rë taamaĩwẽĩ,
+Enaha thë puhi taeo kuaai, komi urihitheri pë rë kui ONU thë iha thë pë ã wawëtokema totihitawë thë ã nosi riã ha poheni,
+Enaha thë puhi taeo kuaai, thë pë ã rẽ wawëtokenowẽĩ thë pëni thë ã hĩrĩapehe thë ã nosi kãi popehe
+Ĩhĩ thë no ã ha TOTIHITAWË THAMOTIMA THË Ã wëyëi piyëkouhe.</p>
+<ol>
+  <li>
+    <p>Kõmithëpërëpëriprawërëpiyëkëi,heusukuwëthëpëkeprouaithëãrëamaihãnoãheparohowë,totihitawëthëpëriãrẽthaiweheihami,thëpëpuhitaokãipërihiwëha,thëpëpuhikãikatehewëhahawëkamathëpëmashishĩropërihimopë.</p>
+  </li>
+  <li>
+    <p>Kõmithëpëihamitotihitawëthamotimathëkuprawë,thëãrëmaihathëpëpëriprawë,wãkatehanothënithëwãhãnowayoano,suwë,wãro,peikahi,thëpërëreahumouwẽĩ,napëthëã,nomatohipi,nopreaarewë,thëpërëkepronowẽĩhami,aithëpësho,shomiurihitherihimayõumahẽĩ.Kõmithëpëihamitotihitawëthamotimathëkuprawë,thëãrëmaihathëpëpëriprawë,makuiaithëpënithëpëurihipirëpoumakuheithëpëriãpëriotopraoheyatio.</p>
+  </li>
+  <li>
+    <p>Yãmikõmithëpëihamitotihitawëthamotimathëkuprawëthëpërëpëriaiweithëpëkuprawë,aithëãrëamai,pehetithëpërëpëriaiwei.</p>
+  </li>
+  <li>
+    <p>Aithëpëihahoremouwamakinoohotamopimai,horemouohotamomamotimathëthamaipuhiomiheparohowë.</p>
+  </li>
+  <li>
+    <p>Thëpëshëmoutaomi,thëpëwãhãkãiwãrĩhĩthomamoutaomi,thëpëshëmouwãrĩtiaitaomi.</p>
+  </li>
+  <li>
+    <p>Thëpëpëriprawërëpiyëkëithëpëihamitotihitawëthamotimathëkuprawë,thëpënohiriãhatukëmopoupiyëkou.</p>
+  </li>
+  <li>
+    <p>Wãnosiehuamotimaahami,komihititiwëthëpëheusukuwë,thëpënohikãithapoupiyëkou.Heiwãkatehanothërëkuithëni,hititiwëwãnosiehuamatimaaniwãrĩhĩthothamotimathëhami,thëpëhekomirupoupiyëkou;wãrĩhĩtothamotimathëhamithëpënoyuomaõpë.</p>
+  </li>
+  <li>
+    <p>Komihititiwëthëpërëkui,thëpëpayeriopënohithaporewëpatapëni,pënohirẽhatukëaweikamaurihithërithëpëni,totihitawëthamotimathëwãrĩhĩthothaimaõpehe.</p>
+  </li>
+  <li>
+    <p>Enahapëtawëthëpëhuëamoutaomi,thëpëkãiõkamopoutaomiaithëurihihamithëpëshimamouayaotaomi.</p>
+  </li>
+  <li>
+    <p>Komihititiwëthëpëihami,totihitawëthamotimathëkuprawë,thëpëheprukausukuwë,nohithaporewëpatapëmitharihami,thëariãhaithëariãhahĩrĩãmonithërëthanowẽĩthëhamithëwãhãnowëyëihetëhë,thënoãheriãharuoni.</p>
+  </li>
+  <li>
+    <p>Hititiwëthëpërëkuithëpëniaithëmathamonomaithëpëwãhãnowëyëihetëhëthëpehetiapraihaiamaheĩhathëshurukuamouhaiotaomi.Nohithaporewëpatapënithëpehetiapraihaiamaheĩhapënoanapëmoutaomi.</p>
+    <p>Thëpëwãhãnowëyëyonomamai,thëpëwãhãnowëyëyou,enahathëthamoutaomi.Hapahotewãrĩtĩwëthëaniheitëhëthëwãrĩtĩwëheparohowëthëthamoutaomi.</p>
+  </li>
+  <li>
+    <p>Aithëpuhipëtouhaayaroni,thëpëyahipihami,thëhehaprouayoutaomi,therihëpëihamikãi,õniõniashimaihetëhëthëkãimiiparioayaotaomihe,komithëpëmitharihawathëwãhãnowëyëiayaotaomi.Ĩhĩthëpëhamitotihitawëthamotimathërëkuiwãnosiehuamotimathënithëpënohithapoupiyëkou.</p>
+  </li>
+  <li>
+    <p>Hititiwëthëpëihamitotihitawëthamotimathëkuprawë,aithëãrëamaihãthëpëriãhuupiyëkou,wathënohirëpëripouweithëurihihathëpëkãiriãshaponomou.</p>
+    <p>Hititiwëthëpëihamitotitihitawëthamotimathëkuprawëĩhĩthënoãhãthëpërëpërihiwërëpiyëkëithëpëurihipihami,thëpëkãiriãhuu,thëpëurihipinohikãirëpëriprai,thëpëurihipinohikãiriãkõõmiyapao.</p>
+  </li>
+  <li>
+    <p>Aithëyapëkamahetëhë,kõmihititiwëthëpëihamitotihitawëthamotimathëkuprawëthëpërëhithëpraamaiwẽĩaurihiha,ĩhĩãhãthëpëãriãtoprao,shomithëpëurihipihamikãi.</p>
+    <p>Heiahamitotihitawëthamotimathërëkuithëwãhãpomoutaomithëkãipuhipramoutaomi,wãnosiehuamotimanohithaporewëpënithëpëhuëmamaihẽtëhëpehetikõmiyapëkamotimathëpëhamipeithëhaparëhupëtarenowẽheĩthëpënikãi.</p>
+  </li>
+  <li>
+    <p>Hititiwëthëpëihamitotitihitawëthamotimathëkuprawë,kamaurihitherithëpëwãhãhiroukatitou.</p>
+    <p>Thëpuhipëtouhaayaronikamaurihitherithërëkuithëmapramaiayaotaomi,totihitawëthamotimathënihawëkamaethëwãhãriãhiroproukuo.</p>
+  </li>
+  <li>
+    <p>Wãrõ,suwëpësho,kamahuyathëpëriãrẽtoayouweihamitotihitawëthamotimathëkuprawëaithëãrëotaomi.Aithëãrëamaihãsuwë,wãropëshothëpëriãtoayou,kamatherithëpëwãhãhirou,reahumotimakamaurihithëri,ĩhĩthëpënitotihitawëthamotimathëhamithëpëãrëotaomi,kamathëpëmashiriãkuprou.Shoatitotihitawëthamotimathëhathëpëãriãtoprao,thëpëtoayoupariotëhë,thëpëãtopraorëkuonowẽĩnaha,thëãriãtopraokuoshoao.</p>
+    <p>Kamakëkipirëpuhiyouwei,pehetikëkipiriãtoayou.</p>
+    <p>Kamathëpëmashishĩronipëshaponopraukamaihẽĩhĩthënoãhãtotihitawëthamotimathërëkui,kamaurihitherithënithënohithapouhe,kamathëpëshaponopikãini.</p>
+  </li>
+  <li>
+    <p>Hititiwëthëpërëkuithëpëmatohipiriãkuo,totihitawëthamotimathëha,thëpërëperihiihamikamathëpëurihipiriãriikuomopotayou.</p>
+    <p>Peithëpuhipëtouhaayaronithëpëmatohipiriãrëmaimihethëpërëperihiihamiurihiãkãirëmaitaomihe.</p>
+  </li>
+  <li>
+    <p>Hititiwëthëpërëkuiaithëãrëamaihãtotihitawëthamotimathëhathëpëpuhitaokãiriãpërio,reahumotimathëhami,thëpëpuhikatehewëha;totihitawëthamotimathëhathëãkãikoyokoareahumotimawathëriãrëhemihipraiwei,aithëãrëamaihãthëriãowëmamoukomithëpëmitharihathëkãiriãowëmaihe,thëpëhirayoutëhë,thëpëowëmayõũtëhë,pehetithëãhuamousharirouha.</p>
+  </li>
+  <li>
+    <p>Aithëãrëamaihãhititiwëthëpërëkuiyãmithëpëpuhiriãpiyëkou,thëwãhãnoriãrëwayoaiwehei;ĩhãthëãkãikoyokoathëãhaitëhëthëãnohiwãrimopoutaomi,makuiyanikithëriãwãrimoukuaahërii,thëãríãopisitëamoukuaaherii,thëãriãwëyëmoupiyëkouwãnoshimamotimathëpëhami.</p>
+  </li>
+  <li>
+    <p>Hititiwëthëpëihamitotihitawethamotimathëkuprawëaithëãrëamaihãthëpëãriãwayoukãiyototaithëpëriãrëthaiweheithëpëwãhãnowayoaiheha.</p>
+    <p>Aithëniyototamotimathëhamithëshimaiayaotaomi.</p>
+  </li>
+  <li>
+    <p>Hititiwëthëpëihamitotihitawëthamotimathëkuprawëpatamorẽwẽthëpërëkuithëpëãwayoukãiriãroaainarẽõkamapeniapatarëthanowẽhẽipëmitharihakãi.</p>
+    <p>Hititiwëthëpëihamitotihitawëthamotimathëkuprawëkamathëpërëpëripraihamithëohotepirëshatiprai,thëpëriãohotamoutoaai.</p>
+    <p>Patamorẽwẽthëpërëkui,thëpëshaponopikãirëpërioweithëpëihathëpëpatamou.Eithërëkuithëpëshaponopikãirëpërioweithëpenithëpëwãhãnohawayoahenithëyaiapraishoaoheyaiamotimathëkuotëhëthëpëyaiamouhãthõõ.</p>
+  </li>
+  <li>
+    <p>Hititiwëthëpëihamitotihitawëthamotimathëkuprawëkamathëpërëpëripraihamipatathëpënithëpënohikãihatukepopehe,aiurihitherithëpëpatanithëpënohikãihatukëpopehë,thëpëpuhitopramapopehe,ĩhĩthënohiyaimopouthëpëpuhiwetinahamoumaõpë,pehetithëpëpërihopë.</p>
+  </li>
+  <li>
+    <p>Hititiwëthëpëihamitotihitawëthamotimathëkuprawë,thëpëurihipiriãhupëo,aithëãrëamaihãthëohotehurimopë,thëprewëthaporaheni,patathëniohotamorẽwẽthëpërëkuithëpënohipëyëpouthëpëohotekuomaõtëhë.</p>
+    <p>Hititiwëthëpëihamitotihitawëthamotimathëkuprawë,thëpëohotamouheusukuwërëkurenahathëpënokãikõõheusukuopë.</p>
+    <p>Hititiwëthëpëihamitotihitawëthamotimathëkuprawëhehusukuwëthëpënokõõ,thëpëpuhikãiowëhëo,kamapëshĩrorëkuiepëpuhikãipëriomihetuopëethëkipeheriproimihapëkãirẽpërioweiniaiethëkiheriãtikëaiethëkiheusukuopë.</p>
+    <p>Hititiwëthëpëihamitotihitawëthamotimathëkuprawë,sindicatothëpëriãthayou,thëpëherumopopë.</p>
+  </li>
+  <li>
+    <p>Hititiwëthëpëihamitotihitawëthamotimathëkuprawë,thëpëwashimihoruuyãnikiopariopë,thëpëriãhuutoatarou,topraothëpëkãirẽohotamonowẽĩthënokãiríãkõãmamouthëmayãnikiaparirani.</p>
+  </li>
+  <li>
+    <p>Hititiwëthëpëihamitotihitawëthamotimathëkuprawë,thëpëriãpëriotopraokamatherithëpëshĩrosho,niipëhami,yahipësho,thëpëkãitemiotopraopë,thëpëkãititihopë,thëpënohikãirẽyaimopouweithëpësho.Enahahititiwëthëpëpehitotihitawëthamotimathëhathëkuathëpërëohotamoumai,përëshawarapiwei,thëpënorëhuwëmai,thëpëherëpaharaprai,thëpërëwãrõrẽpatai,thëpësuwekãirẽpatai,aithëpëwãrĩtiwekãinithëpëpehetipopehe.</p>
+    <p>Suwëshipënapithëpërëkui,ihiru,marãnapi,suwëhërimarãnapithëpëkomisho,totihitawëthamotimathëni,thëpënohithamopoutopraopë.Hititiwëihiruhĩĩpikuapërëkeprouwei,pëhĩĩpimakuamaipëkãirẽkeprouwei,totihitawëthamotimathëkuprawëpehetipënohikãithaprawë.</p>
+  </li>
+  <li>
+    <p>Hititiwëthëpëihamitotihitawëthamotimathëkuprawë,thëpëkãihirayopë.Hiramotimathëpërëkui,nomraihathëpëhiramoupariopë.Hiramoupariotimathëhamithëpëihirupishimioheparohoopë.Hiramoupariotimathënohãhamiĩhahititiwëthëpëõnimoutaaiheparohoopë;õnimoupatathërëkuihititiwëthëpëpehimakuithëpëpuhimoyãweirëthëpëpehishĩrokuopë.</p>
+    <p>Hiramotimapëhami,puhitaothëpëkupropëĩhĩthënoãhãtotihitawëthamotimathëpënohiasipopeheaitheãrëamaithësho;thëpërëpëriprawëpiyëkëithëpëni,thëpënohikãirëyaipouweheithëpëhami,thëpënoĩhĩpipopehe,thëpëkãipuhipoyopë,O.N.U.thënithëthamairëpuhiiweithëãriãpraukamaihapiyëkoni,thëpëãriãtopramapouhatotihioni.</p>
+    <p>Pënĩĩ,pëhĩĩthëpëniethëhiramaishirëtopraoweheiethëhiramaipuhipehe.</p>
+  </li>
+  <li>
+    <p>Komihititiwëthëpëihamitotihitawëthamotimathëkuprawë,thëpërëpërihiithëpënithëpërëtairëpiyëkouweheithëpëhamiaithëãrëamaihã,thëpënoriãtaayou,thëpëakãiriãtoprao,matohipërëthanowẽhẽĩpëhami,ĩhĩthëpëmatohihathëpëãriãtoprarou.</p>
+    <p>Hititiwëthëpëihamitotihitawëthamotimathëkuprawë,thëpënohithaopë,kamathëpënithëpërëthaiweheithëpëhami,thëkãirẽõnimaiwẽhẽĩthëpëhami,noshiharirawëthëpëkãirẽkopemaiwẽhẽĩhamikãi.</p>
+  </li>
+  <li>
+    <p>Komihititiwëthëpëihamitotihitawëthamotimathëkuprawëaithëpënithëãrëthaiwehei,thëãnosipopehe.</p>
+  </li>
+  <li>
+    <p>Komihititiwëthëpëniohotethëhuripehekamathëpëshaponopihami,ĩhĩpëshaponohamitopraothëpëparahërii.</p>
+    <p>Totihitawëthamotimathëhamithëpërëwapëoheriiweiaithëpëihamitotihitawëthamotimathëpëkãikuprawë,ĩhĩeithënithënohihatukëmapoutotihitawëthamotimathërëkuiaithëãreamaithësho.Mihitotihitawëthamotimathëhamipehetithëpëkuaahërii,yaiamotimathëhamithëpërëpatamouthëkuotëhë.</p>
+    <p>HeitotihitawëthamotimathërëkuiaithëãkuamaithëpëshoO.N.U.thërëkuuweithëãnohiwãrĩpoutaomi.</p>
+  </li>
+  <li>
+    <p>Thëpërëpërihouweithëpëni,yototarewëpëni,aiyãmithëniwakatehanothënitotihitawëthamotimathëwãhãnowëyëihaaithënithëwãhãnohitaeaitaomi,thëwãhãkãihemihipraiayaotaomi.</p>
+  </li>
+</ol>

@@ -1,0 +1,121 @@
+<h1 align='center'>FA'IRA'A HA'ATI I TE MAU Tl'AMANARA'A O TE TA'ATA-TUPU</h1>
+<h2 align='center'>PARAU FA'AARA</h2>
+<p align='center'>I te fa'ari'i i te fa'ati'amā o te ihomana tumu o te mau mero tā'āto'a o te nuna'a ta'ata e i to ratou ato'a ti'amanara'a 'aifaito e te tūtu'u-mana-'ore 'ei papa no te orara'ati'amā, no te orara'a-'aifaro e no te hau i roto i teie nei ao, e ti'a ai,
+I te fa'ari'i e no te ha'apa'o'ore, e no te fa'afaufa'a'ore i te mau ti'amanara'a o te ta'ata, i tupu ai te mau peu 'oviri i fa'ati'arepu i te manava o te tā'āto'ara'a o te ao; i te fa'ari'i i te ti'aoroara'ahia 'ei a'e nui no te ta'ata te hitira'a mai o te hō'ē ao iti i reira te mau ta'ata, i ora mai mai roto mai i te taiā e te veve, e 'aparaparau noa ai ma te ti'aturi fa'ahou, e ti'a ai,
+I te fa'afaufa'a i te paruru i te ti'amanara'a o te ta'ata ma te hō'ē fa'aterera'a-ture, ia 'ore 'oia te ta'ata ia hepohia, i te hope'a, i te hepo-'orure-hau i te fa'atītīra'a e te fa'afaora'a a te taehae, e tia ai,
+I te fa'afaufa'a i te fa'aitoitora'a i te rito o te here i rotopū i te mau va'a'ai'a, e ti'a ai,
+I te fa'ari'i, i roto i teie Parau-Fa'aau, e ua ti'aoro fa'ahou te mau nuna'a ta'ata o te mau Va'a'ai'a-'Amuitahia i to ratou ti'aturi pāpū i te mau ti'amanara'a tumu o te ta'ata, i te ihomana e i te faufa'a o te ihota'ata i te 'aifaitora'a o te ti'amanara'a o te mau tane e o te mau vahine. I te fa'ari'i e ua fa'i ato'a i to ratou hina'aro mau i te tauturu i te 'e'era'a o te 'avirira'ata'ata, e i te ha'apunaho i te hō'ē orara'a hau roa a'e i te maita'i na roto ia i te hō'ē ti'amara'a hau a'e, e ti'a ai,
+I te fa'ari'i i te 'opuara'a'amui a te mau Hau Mero e a te Fa'anahora'a a te mau Va'a'ai'a-'Amuitahia no te ha'amau pāpū i te fa'atura hā'āti-pāpū-mau i te mau ti'amanara'a o te ta'ata e i te ti'ama tumu, e ti'a ai,
+I te fa'ari'i 'ei faufa'a nui no te ha'apāpū i teie parau-fa'aau, te hō'ē rahura'a 'amui i teie mau ti'amanara'a e teie mau ti'amāra'a, e ti'a ai,
+Te poro nei te 'Apo'ora'a Rahi i teie Fa'ira'a Hā'āti i te mau Ti'amanara'a o te Ta'ata 'ei moea titaura'a 'amui na te mau nuna'a ta'ata e te mau va'a'ai'a ato'a, ia tutava 'oia te mau ta'ata tupu e te mau mero o te 'avirira'a ta'ata, ma te raupe'a -mana'o noa i teie Fa'ira'a, na roto i te ha'api'ira'a-'ite e te ha'api'ira'a-peu, no te ha'aparare i te fa'aturara'a o teie mau ti'amanara'a, e no te ha'amau pāpū, na roto i te hō'ē mau fa'auera'a ri'iri'i a to na iho va'a'ai'a e a te mau va'a'ai'a tā'āto'a. Te poro nei i te fa'ati'amā ra'a e i te ha'apāpūra'a, mai rotopū i te huira'atira o te mau Hau Mero iho e tae roa atu i te huira'atira o te mau fenua i raro a'e i to ratou mana.</p>
+<ol>
+  <li>
+    <p>Efanauhiatetā'āto'ara'aoteta'ata-tupumateti'amāeteti'amanara'a'aifaito.Ua'ītemana'opa'arieitemanavaemate'a'autaea'e'oiataratouha'airotopūiaratouiho,eti'aai;</p>
+  </li>
+  <li>
+    <p>Eti'atateta'atatata'itahiitefa'ariro'eiti'ara'anona,teiemauti'amanara'aetemauti'amāra'aiha'aparareairotoiteieFa'ira'a,matehō'ēmā'itira'a'orehia'oianani'aitetaurata'ata,nani'aiterava'iri,itetānēetevahine,itereo,itefa'aro'o,temana'oporitita'aoreranani'aitetahiatuamaumana'onorotomaiiteva'a'ai'a'aoreraite'avirira'ata'ata;matema'iti-'ore-ato'a-hia'oianani'aitefaufa'a,itepapafanaura'a'aoreranani'aitetahiatuamauhuruti'ara'a.Teieatua,'aore'emā'itira'aeravehianani'aitepapara'aporitita,itemanara'a-ture'aoreranani'aitepapara'airotopūitemauva'a'ai'aotefenua'aoreraotehau-fenuaotehō'ēta'ataa'amau,noaatuteie'efenua'aore'ehau-fenuamanata'a'ē,'efenuafa'aterehia,i'o'oti-pito-'ore'aorera'efenuati'amāra'afa'aitihia.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ata-tupuato'aiteora,iteti'amāra'aeiteorara'apano'ono'o'ore.</p>
+  </li>
+  <li>
+    <p>'Eiaharoateta'ataiamauitefa'aterera'afa'atītīeitefa'afaora'a;e'opani'eta'eta-roa-hiatefa'aterera'a-fa'atītīetetapiho'ora'aitemautītī</p>
+  </li>
+  <li>
+    <p>'Eiaharoateta'ataiaha'avīhiamatetaparahihia,iafa'autu'ahiamateha'amauiuihiaetefa'afaufa'a'orehia'aoreramateha'ave'uve'uhia.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'atatata'itahiitemanara'aotonati'ara'a-mana-tureitemauvāhiato'a.</p>
+  </li>
+  <li>
+    <p>'Eti'ara'a'aifaitototetā'āto'ara'aimuaiteturee'eti'amanara'a,matemā'iti'orehia,itehō'ēparurura'a'aifaitoateture.'Eti'amanara'atotetā'āto'ara'aiapāruru-'aifaito-hiaatuitemaufa'ata'ara'aefa'ahapanaiteieFa'ira'a,eitemauha'afifra'aato'aiteiefa'ata'ara'a.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ataato'aitehō'ēhorora'ati'amauimuaitemaumanaha'avara'aateva'a'ai'aimanaitepāto'iatuitemauha'aefa'ahaparaitonamauti'amanara'atumuiha'amanahiamaietepapaturenui'aoreraeteture.</p>
+  </li>
+  <li>
+    <p>'Eiaharoateta'ataiatape'ahia,iatamauhiaite'auri'aorcraiatuvaruhiamatetumu'ore.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'aloteta'ataato'a,narotoite'aifaitoti'a,itefa'aro'oauti'aara'ahiatanatumu'ohipaetehō'ētomiteha'avāra'ati'amāeteti'a'aifaito,imuaitehuira'atira.Nateietomite'oiaefa'aotiiteti'amāra'aotonamauti'amanara'aetanamaufafaura'a'aoreraitemanara'aotemaufa'ahapara'aato'anani'aitetinofa'autu'ara'a.</p>
+  </li>
+  <li>
+    <p>'Etiamateifa'aoti-mana'o-hianoteta'ataato'aiparihiaitehō'ēharahouoiaafa'ahapa-pāpū-roa-hiaaieteturenarotoitehō'ēha'avāra'aimuaitehuira'atira.'Emaurave'apāpūterave-'ato'a-hianotepāruruiana.</p>
+    <p>'Eiahateta'ataiafa'autu'ahianotemau'ohipa'aoreranotemauravera'aha'apa'ora'a-'oreitupuitetau'efa'ahapa-ture-'oreteiemau'ohipairotoitepapa-tureotonava'a'ai'a'aoreraotetā'āto'ara'aotemauva'a'ai'a.'Eiahaato'aiafa'ateiahahiaa'eteutu'a,iavai'aifaitorāeteitu'uhiaitetauaravehiaaiteiehara.</p>
+  </li>
+  <li>
+    <p>'Eiahateorara'a,tefeti'i,te'utuafareoteta'ataetanaato'amautuatapapara'aparau-papa'iiariro'ei'imira'a-pe'ape'a-ti'amā-'ore,e'eifa'a'inora'aato'aitonatiara'amanaeitonaro'o.'Eti'amanara'atoteta'ataato'aitepārurura'aatetureiteieatumau'imira'a-pe'ape'a'aoreraiteiemaufa'a'inora'a.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ataato'aitearaterehaeremateti'amāeite'imiitehō'ēnohora'anonairotoitehō'ēHau-Fenua.</p>
+    <p>'Eti'amanara'atoteta'ataato'aitefa'aru'eite'ai'a,itonaato'aiho'oia,eiteho'ifa'ahoumaiitona'ai'a.</p>
+  </li>
+  <li>
+    <p>Imuaitefa'afaora'a,'etiamanara'atoteta'ataato'aite'imiitepare-oraeitefa'ari'ihiamaiitetahi'ēatumaufenua.</p>
+    <p>'Eiaharateieti'amanara'aiatata'uhianotemaufa'afaora'aifa'ahapaiteti'amanara'a'amui'aoreraifa'ahapeitemaufa'aotira'aetemaufa'ata'ara'a-tureatemauVa'a'ai'a-'Amuitahia.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ata-tupuato'aitehō'ēti'ara'ava'a'ai'a.</p>
+    <p>'Eiaharoaiateta'ataiafa'a'erehiamateti'amā'oreitonati'ara'ava'a'ai'a,eiteti'amanara'aato'anotetauiitonati'ara'ava'a'ai'a.</p>
+  </li>
+  <li>
+    <p>latae'ahiatematahititi'a,'eti'amanara'atotetānēetotevahine,matehō'ēha'a-fifi-'ore-hianani'aitetaura-ta'ata,nani'aiteti'ara'ava'a'ai'a'aoreranani'aitefa'aro'o,itefa'aipoipoeiteha'atumuitehō'ē'utuafare-feti'i.'Eti'amanara'a'aifaitorauanote'ohipa-e-no-te-'anotau-fa'aipoipora'aenote'anotauta'ara'aato'a.</p>
+    <p>Efa'aoti-ti'a-noa-hiatefa'aipoipora'amatehina'aroti'amāmauetefa'ahepo'orehiaonāta'atafa'aipoipo.</p>
+    <p>'Eihotumu-papate'utuafare-feti'inote'avirira'ata'ataenoreira'eti'amanara'atonaitepārurura'aate'avirira'ata'ataeateHau.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ata,toteivaiato'airotoiteva'amata'eina'a,iteti'ara'afatu.</p>
+    <p>'Eiaharoateta'ataiafa'a'erehiamateti'amā'oreitonati'ara'afatu.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ataato'aiteti'amāra'aoteferurira'a,ote'iteeotefa'aro'o.Teieti'amanara'a,'eti'amāra'aianotetauiitefa'aro'o'aoreraiteti'aturira'a,oiaana'eiho'aoreramate'amui,imuaitehuira'atira'aoreraoiaana'eiho,narotoiteha'api'ira'a,itemaufa'anahonahora'a,itepurera'aeitefa'aotira'aotehaerera'a'oro'a.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ata-tupuato'aiteti'amāra'aotemana'oeoteporora'a-parau;'eti'amanara'aho'iiaiteha'afifi-ra'a-'ore-hianotonamaumana'o,'eti'amanara'anote'imira'a,notefa'ari'ira'aenoteha'apararera'aitemauparau-fa'a'iteeitemaumana'o,narotoitemauhururave'aato'a,ematetāu'a'oreatuitemau'oti'a.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ataato'aiteti'amāra'aote'apo'ora'aeotetā'ātira'ahau.</p>
+    <p>'Eiaharoateta'ataiafa'ahepohianotefa'aoatuirotoitehō'ēpupu-tā'ātira'a.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ataato'aitefa'aōti'aatu,'aoreranani'aatuiteti'ara'aotemaumero-mā'iti-ti'amā-hia,irotoitefa'aterera'a-'ohipaateHauotonafenua.</p>
+    <p>'Eti'amanara'atoteta'ataato'aitefa'aōatu,nani'aitemauti'ara'a'aifaito,irotoitemautoro'a-'ohipaateHauotonafenua.</p>
+    <p>'Otehina'arootehuira'atiratepapaotemanaotefa'aterera'aateIlau.Eha'apararehiateiehina'aronarotoitetahimaumā~'itira'ati'amā,otērave-tamau-hiaitemauarea-fa'aau-hia,narotoiaitehō'ēmā'itira'ahā'āti'aifaitoeitehō'ēmā'itira'apūrarohuna'aoreranarotoiaitehō'ēfa'anahora'a'aifaitomai,otefa'aturaiteti'amāra'aotemā'itira'a.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ataato'a,nani'aitonati'ara'a-mero-'avirira'ata'ata,itepapaturura'a-'avirira'ata'ata.'Eti'ara'atonaitemanuiara'aotemauti'amanara'atepaefaufa'a,tepae'avirira'ata'ataetepaefa'anahora'a-'ohipa-tumu-faufa'anotonaihomanaenotetupura'a-ti'amāotonaihota'ata,matetūtavara'a-va'a'ai'a'oiaeteravera'a-'amuiatetā'āto'ara'aotemauva'a'ai'a,iaauitefa'anahora'aetefaufa'aatefenuatata'itahi.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ataato'aite'ohipa,itemā'iti-ti'amāitan'ohipanani'aithō'ēfa'anahora'a-ohipa'aifaitoeteaut'a,eiteparuruhiaiteo'era'a-'ohipa.</p>
+    <p>'Eti'amanara'atotetā'āto'ara'a,matehō'ēma'iti'orera'a,itehō'ēmoni'ohipa'aifaitoti'aetehō'ēha'ara'a'aifaito.</p>
+    <p>'Eti'amanara'atoteta'ataato'aeravenaite'ohipaitehō'ē'aufaura'a'aifaitoau-ti'anotepapaturuianaeitona'utuafarefeti'itehō'ēorara'aauiteti'amāra'aoteta'ata-tuputeiti'aitepāturuhia,itetaime-fifi,natetahimaurave'a-pārurura'a'avirira'ata'ata.</p>
+    <p>'Eti'amanara'atoteta'ataato'aitefa'atupuetetahiatuiteauparuru-ti'ara'aeitefa'aōato'aatuirotoitemauauparurura'a-ti'ara'anotepāruruitonamau-ti'ara'a-faufa'a.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ataato'aitefa'aeaeara'a-'ohipaeitemaufa'a'ana'anatae-ra'a,itehō'ēihoarāha'apotora'aau-ti'aitetaime-ravera'a-'ohipaeite'aufauhiaitemaufa'afa'aeara'a-'ohipaifa'au-area-hia.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ataato'aitefaito-orara'anava'inotepapaturuitonaorara'a-tinoetonaorara'a-fāna'oeitotonaato'a'utuafare-feti'i,itepaeihoarāotemā'a,ote'ahu,otefare,oteutuutura'a-ma'ieitepaeato'aotemau'atu'atura'a-'avirira'ata'ataititauhia.'Eti'amanara'atonaitetauturuhiaiteo'era'a-'ohipa,itema'ira'a,teha'aparuparura'a,teivira'a,teruhiruhiara'a'aoreraitetahiatuamauo'era'a-rave'a-'imira'a-maita'iihina'aro'orehiaeana.</p>
+    <p>'Eti'amanara'atotevahine-fanau-tamaetotetamari'iitehō'ētauturueitehō'ēutuutura'ata'a'ē.'Eti'ara'atotetā'āto'ara'aotetamari'i,teifanau-ti'ama-hia'aorerateifanau-ti'amā-'ore-hia,itehō'ēātauturura'a-'avirira'ata'ata.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ataato'aiteha'api'ira'a.'Eiha'api'ira'atāmoni'oreeti'aainoteha'api'ira'a'āenoteha'api'ira'a-tumuihoarā.'Efa'auera'anatehauteha'api'ira'a-'ā.Iaha'apararehiateha'api'ira'afa'aravihieteha'api'ira'a-toro'a,eti'aai.'Eti'amanara'a,mate'aifaitoroa,totetā'āto'ara'aiteha'api'ira'atuatorunarotoitoratouihoitoito.</p>
+    <p>Iatitau-ti'ateha'api'ira'aitepū-hinuhinura'aoteihota'ataeitefa'a'eta'etaitefa'aturara'aiteti'amanara'aoteta'ata-tupu,eotemauti'amāra'atumu,eti'aai.Iatauturuhua'oiaitemāramarama,itemaita'ietehereirotopūitemauva'a'ai'apā'āto'etemautaura-ta'ata'aorerairotopūitemaupupu-fa'aro'o,iatauturuhuaato'aiteterera'aotemau'ohipaatemauVa'a'ai'a-Amuitahianotemaupāpūra'aotehau,eti'aai.</p>
+    <p>3-'Eti'amanara'amatameha'itotemetua,itemā'itiitehuruha'api'ira'aehōro'anatorauamautamari'i.</p>
+  </li>
+  <li>
+    <p>Eti'amanara'atoteta'ataato'aitefa'aōatu,mateti'amā,irotoitefa'anahora'a-'ihi-tupuateva'amata'eina'a,itefa'afaufa'aatuitemautata'ura'a-'una,eite'amuiato'aatuitefa'aritora'aotepū'ihieitemaurahura'a-oraeroa'amai.</p>
+    <p>'Eti'amanara'atoteta'atatata'itahiitepāruruhiara'aotemaufaufa'a-tureetemaufaufa'a-tinoevairairotoitemautata'ura'a-'ihi,temautata'ura'a-'aivana'a'aoreratemautata'ura'a-'unatanaihoefatuna.</p>
+  </li>
+  <li>
+    <p>'Eti'amanara'atoteta'ataato'aitemanara'a,itepae'avirira'ata'ataeitepaeva'a'ai'apā'āto'a,otehō'ēfa'aterera'aireiratemauti'amanara'aetemauti'amāra'aiporohiairotoiteieFa'ira'aemanarahiroaai.</p>
+  </li>
+  <li>
+    <p>'Ehopoi'atateta'atatata'itahieamonateva'amata'eina'aireiratetupura'ati'amārahimauotonaihota'ataemanaai.</p>
+    <p>Irotoitefa'a'ohipara'aitonamauti'amanara'aeirotoato'aitefa'afaufa'ara'aitonamauti'amāra'a,'aitaatu'e'ōpanira'atateta'atatata'itahimaorirāotemau'ōpanira'aiaifa'aau-ti'a-hiaeteturenotepapaturuitefa'ari'ira'aeitefa'aturara'aitemauti'amanara'aetemauti'amāra'aotetahiatu,enoteha'afaufa'aato'aitemautitaura'a'aifaitoateture-ha'apa'ora'aeateture-hau,eateorara'a-haumaita'iotetā'āto'ara'airotoitehō'ē'avirira'ata'ata-upo'o-'aifaito.</p>
+    <p>E'oreteiemauti'amanara'aeteiemauti'amāra'aemananoaa'eiteravefa'ahapara'aitemauture-ha'apa'ora'aatemauVa'a'ai'a-'Amuitahia.</p>
+  </li>
+  <li>
+    <p>'Eiaharoatehō'ēnoaa'efa'auera'aateieFa'ira'aia'iritihia'eiti'amanara'aa'enotehō'ēHau-Fenua,notehō'ēaupupu-ta'ata'aoreranotehō'ēta'atahō'ē,noteraveitehō'ē'ohipanotevāvāhiatuitemauti'amanara'aetemauti'amāra'aiporohiairotonei.</p>
+  </li>
+</ol>

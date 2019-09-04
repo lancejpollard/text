@@ -1,0 +1,122 @@
+<h1 align='center'>POWSZECHNA DEKLARACJA PRAW CZŁOWIEKA</h1>
+<h2 align='center'>Preambuła</h2>
+<p align='center'>ZWAŻYWSZY, że uznanie przyrodzonej godności oraz równych i niezbywalnych praw wszystkich członków wspólnoty ludzkiej jest podstawą wolności, sprawiedliwości i pokoju świata,
+ZWAŻYWSZY, że nieposzanowanie i nieprzestrzeganie praw człowieka doprowadziło do aktów barbarzyństwa, które wstrząsnęły sumieniem ludzkości, i że ogłoszono uroczyście jako najwznioślejszy cel ludzkości dążenie do zbudowania takiego świata, w którym ludzie korzystać będą z wolności słowa i przekonań oraz z wolności od strachu i nędzy,
+ZWAŻYWSZY, że konieczne jest zawarowanie praw człowieka przepisami prawa, aby nie musiał - doprowadzony do ostateczności - uciekać się do buntu przeciw tyranii i uciskowi,
+ZWAŻYWSZY, że konieczne jest popieranie rozwoju przyjaznych stosunków między narodami,
+ZWAŻYWSZY, że Narody Zjednoczone przywróciły swą wiarę w podstawowe prawa człowieka, godność i wartość jednostki oraz w równouprawnienie mężczyzn i kobiet, oraz wyraziły swe zdecydowanie popierania postępu społecznego i poprawy warunków życia w większej wolności,
+ZWAŻYWSZY, że Państwa Członkowskie podjęły się we współpracy z Organizacją Narodów Zjednoczonych zapewnić powszechne poszanowanie i przestrzeganie praw człowieka i podstawowych wolności,
+ZWAŻYWSZY, że jednakowe rozumienie tych praw i wolności ma olbrzymie znaczenie dla ich pełnej realizacji,
+PRZETO ZGROMADZENIE OGÓLNE
+Ogłasza Uroczyście niniejszą Powszechną Deklarację Praw Człowieka jako wspólny najwyższy cel wszystkich ludów i wszystkich narodów, aby wszyscy ludzie i wszystkie organy społeczeństwa - mając stale w pamięci niniejszą Deklarację - dążyły w drodze nauczania i wychowywania do rozwijania poszanowania tych praw i wolności i aby zapewniły za pomocą postępowych środków o zasięgu krajowym i międzynarodowym powszechne i skuteczne uznanie i stosowanie tej Deklaracji zarówno wśród narodów Państw Członkowskich, jak i wśród narodów zamieszkujących obszary podległe ich władzy.</p>
+<ol>
+  <li>
+    <p>Wszyscyludzierodząsięwolniirównipodwzględemswejgodnościiswychpraw.Sąoniobdarzenirozumemisumieniemipowinnipostępowaćwobecinnychwduchubraterstwa.</p>
+  </li>
+  <li>
+    <p>KażdyczłowiekposiadawszystkieprawaiwolnościzawartewniniejszejDeklaracjibezwzględunajakiekolwiekróżnicerasy,koloru,płci,języka,wyznania,poglądówpolitycznychiinnych,narodowości,pochodzeniaspołecznego,majątku,urodzenialubjakiegokolwiekinnegostanu.Niewolnoponadtoczynićżadnejróżnicywzależnościodsytuacjipolitycznej,prawnejlubmiędzynarodowejkrajulubobszaru,doktóregodanaosobaprzynależy,bezwzględunato,czydanykrajlubobszarjestniepodległy,czyteżpodlegasystemowipowiernictwa,nierządzisięsamodzielnielubjestwjakikolwieksposóbograniczonywswejniepodległości.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawodożycia,wolnościibezpieczeństwaswejosoby.</p>
+  </li>
+  <li>
+    <p>Niewolnonikogoczynićniewolnikiemaninakładaćnanikogosłużebności;niewolnictwoihandelniewolnikamisązakazanewewszystkichswychpostaciach.</p>
+  </li>
+  <li>
+    <p>Niewolnonikogotorturowaćanikaraćlubtraktowaćwsposóbokrutny,nieludzkilubponiżający.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawodouznawaniawszędziejegoosobowościprawnej.</p>
+  </li>
+  <li>
+    <p>Wszyscysąrówniwobecprawaimająprawo,bezjakiejkolwiekróżnicy,dojednakowejochronyprawnej.Wszyscymająprawodojednakowejochronyprzedjakąkolwiekdyskryminacją,będącąpogwałceniemniniejszejDeklaracji,iprzedjakimkolwieknarażeniemnatakądyskryminację.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawodoskutecznegoodwoływaniasiędokompetentnychsądówkrajowychprzeciwczynomstanowiącympogwałceniepodstawowychprawprzyznanychmuprzezkonstytucjęlubprzezprawo.</p>
+  </li>
+  <li>
+    <p>Nikogoniewolnosamowolniearesztować,zatrzymaćlubwygnaćzkraju.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmanawarunkachcałkowitejrównościprawo,abyprzyrozstrzyganiuojegoprawachizobowiązaniachlubozasadnościwysuwanegoprzeciwniemuoskarżeniaopopełnienieprzestępstwabyćsłuchanymsprawiedliwieipublicznieprzezniezależnyibezstronnysąd.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekoskarżonyopopełnienieprzestępstwamaprawo,abyuznawanogozaniewinnegodopóty,dopókinieudowodnimusięwinyzgodniezprawempodczaspublicznegoprocesu,wktórymzapewnionomuwszystkiekonieczneśrodkiobrony.</p>
+    <p>Niktniemożebyćskazanyzaprzestępstwozpowodudziałanialubzaniechanianiestanowiącegowchwilijegodokonaniaprzestępstwawedługprawakrajowegolubmiędzynarodowego.Niewolnotakżewymierzaćkarywyższejniżta,którabyłaprzewidzianawchwilipopełnieniaprzestępstwa.</p>
+  </li>
+  <li>
+    <p>Niewolnoingerowaćsamowolniewczyjekolwiekżycieprywatne,rodzinne,domowe,aniwjegokorespondencję,aniteżuwłaczaćjegohonorowilubdobremuimieniu.Każdyczłowiekmaprawodoochronyprawnejprzeciwkotakiejingerencjilubuwłaczaniu.</p>
+  </li>
+  <li>
+    <p>KażdyczłowiekmaprawoswobodnegoporuszaniasięiwyborumiejscazamieszkaniawgranicachkażdegoPaństwa.</p>
+    <p>Każdyczłowiekmaprawoopuścićjakikolwiekkraj,włączającwtoswójwłasny,ipowrócićdoswegokraju.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawoubiegaćsięoazylikorzystaćzniegowinnymkrajuwrazieprześladowania.</p>
+    <p>NiemożnapowoływaćsięnatoprawowprzypadkuściganiawszczętegorzeczywiściezpowodupopełnieniaprzestępstwapospolitegolubczynusprzecznegozcelamiizasadamiOrganizacjiNarodówZjednoczonych.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawodoposiadaniaobywatelstwa.</p>
+    <p>Niewolnonikogopozbawiaćsamowolnieobywatelstwaaninikomuodmawiaćprawadozmianyobywatelstwa.</p>
+  </li>
+  <li>
+    <p>Mężczyźniikobietybezwzględunajakiekolwiekróżnicerasy,narodowościlubwyznaniamająprawopoosiągnięciupełnoletnościdozawarciamałżeństwaizałożeniarodziny.Mająonirówneprawawodniesieniudozawieraniamałżeństwa,podczasjegotrwaniaipojegoustaniu.</p>
+    <p>Małżeństwomożebyćzawartejedyniezaswobodniewyrażonąpełnązgodąprzyszłychmałżonków.</p>
+    <p>RodzinajestnaturalnąipodstawowąkomórkąspołeczeństwaimaprawodoochronyzestronyspołeczeństwaiPaństwa.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiek,zarównosamjakiwespółzinnymi,maprawodoposiadaniawłasności.</p>
+    <p>Niewolnonikogosamowolniepozbawiaćjegowłasności.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawowolnościmyśli,sumieniaiwyznania;prawotoobejmujeswobodęzmianywyznanialubwiaryorazswobodęgłoszeniaswegowyznanialubwiarybądźindywidualnie,bądźwespółzinnymiludźmi,publicznieiprywatnie,poprzeznauczanie,praktykowanie,uprawianiekultuiprzestrzeganieobyczajów.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawowolnościopiniiiwyrażaniajej;prawotoobejmujeswobodęposiadanianiezależnejopinii,poszukiwania,otrzymywaniairozpowszechnianiainformacjiipoglądówwszelkimiśrodkami,bezwzględunagranice.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawospokojnegozgromadzaniaistowarzyszaniasię.</p>
+    <p>Nikogoniemożnazmuszaćdonależeniadojakiegośstowarzyszenia.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawodouczestniczeniawrządzeniuswymkrajembezpośredniolubpoprzezswobodniewybranychprzedstawicieli.</p>
+    <p>Każdyczłowiekmapraworównegodostępudosłużbypublicznejwswymkraju.</p>
+    <p>Wolaludujestpodstawąwładzyrządu;wolatawyrażasięwprzeprowadzanychokresoworzetelnychwyborach,opartychnazasadziepowszechności,równościitajności,lubnainnejrównorzędnejprocedurze,zapewniającejwolnośćwyborów.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmajakoczłonekspołeczeństwaprawodoubezpieczeńspołecznych;marównieżprawodourzeczywistniania-poprzezwysiłeknarodowyiwspółpracęmiędzynarodowąorazzgodniezorganizacjąizasobamikażdegoPaństwa-swychprawgospodarczych,społecznychikulturalnych,niezbędnychdlajegogodnościiswobodnegorozwojujegoosobowości.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawodopracy,doswobodnegowyborupracy,doodpowiednichizadowalającychwarunkówpracyorazdoochronyprzedbezrobociem.</p>
+    <p>Każdyczłowiek,bezwzględunajakiekolwiekróżnice,maprawodorównejpłacyzarównąpracę.</p>
+    <p>Każdypracującymaprawodoodpowiedniegoizadowalającegowynagrodzenia,zapewniającegojemuijegorodzinieegzystencjęodpowiadającągodnościludzkiejiuzupełnianegowraziepotrzebyinnymiśrodkamipomocyspołecznej.</p>
+    <p>Każdyczłowiekmaprawodotworzeniazwiązkówzawodowychidoprzystępowaniadozwiązkówzawodowychdlaochronyswychinteresów.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawodourlopuiwypoczynku,włączającwtorozsądneograniczeniegodzinpracyiokresowepłatneurlopy.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawodostopyżyciowejzapewniającejzdrowieidobrobytjegoijegorodziny,włączającwtowyżywienie,odzież,mieszkanie,opiekęlekarskąikonieczneświadczeniasocjalne,orazprawodoubezpieczenianawypadekbezrobocia,choroby,niezdolnościdopracy,wdowieństwa,starościlubutratyśrodkówdożyciawinnysposóbodniegoniezależny.</p>
+    <p>Matkaidzieckomająprawodospecjalnejopiekiipomocy.Wszystkiedzieci,zarównomałżeńskiejakipozamałżeńskie,korzystajązjednakowejochronyspołecznej.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawodonauki.Naukajestbezpłatna,przynajmniejnastopniupodstawowym.Naukapodstawowajestobowiązkowa.Oświatatechnicznaizawodowajestpowszechniedostępna,astudiawyższesądostępnedlawszystkichnazasadzierównościwzależnościodzaletosobistych.</p>
+    <p>Celemnauczaniajestpełnyrozwójosobowościludzkiejiugruntowanieposzanowaniaprawczłowiekaipodstawowychwolności.Krzewionozrozumienie,tolerancjęiprzyjaźńmiędzywszystkiminarodami,grupamirasowymilubreligijnymi;popieradziałalnośćOrganizacjiNarodówZjednoczonychzmierzającądoutrzymaniapokoju.</p>
+    <p>Rodzicemająprawopierwszeństwawwyborzenauczania,któremabyćdaneichdzieciom.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawodoswobodnegouczestniczeniawżyciukulturalnymspołeczeństwa,dokorzystaniazesztuki,douczestniczeniawpostępienaukiikorzystaniazjegodobrodziejstw.</p>
+    <p>Każdyczłowiekmaprawodoochronymoralnychimaterialnychkorzyściwynikającychzjakiejkolwiekjegodziałalnościnaukowej,literackiejlubartystycznej.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaprawodotakiegoporządkuspołecznegoimiędzynarodowego,wktórymprawaiwolnościzawartewniniejszejDeklaracjibyłybywpełnirealizowane.</p>
+  </li>
+  <li>
+    <p>Każdyczłowiekmaobowiązkiwobecspołeczeństwa,bezktóregoniemożliwyjestswobodnyipełnyrozwójjegoosobowości.</p>
+    <p>Wkorzystaniuzeswychprawiwolnościkażdyczłowiekpodlegajedynietakimograniczeniom,któresąustaloneprzezprawowyłączniewceluzapewnieniaodpowiedniegouznaniaiposzanowaniaprawiwolnościinnychiwceluuczynieniazadośćsłusznymwymogommoralności,porządkupublicznegoipowszechnegodobrobytudemokratycznegospołeczeństwa.</p>
+    <p>ZniniejszychprawiwolnościniewolnowżadnymprzypadkukorzystaćwsposóbsprzecznyzcelamiizasadamiOrganizacjiNarodówZjednoczonych.</p>
+  </li>
+  <li>
+    <p>ŻadnegozpostanowieńniniejszejDeklaracjiniemożnarozumiećjakoudzielającegojakiemukolwiekPaństwu,grupielubosobiejakiegokolwiekprawadopodejmowaniadziałalnościlubwydawaniaaktówzmierzającychdoobaleniaktóregokolwiekzprawiwolnościzawartychwniniejszejDeklaracji.</p>
+  </li>
+</ol>

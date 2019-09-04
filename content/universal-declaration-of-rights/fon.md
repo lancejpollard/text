@@ -1,0 +1,121 @@
+<h1 align='center'>GBETA GBƐ Ɔ BI TƆN EE ƉƆ XÓ DÓ ACƐ E GBƐTƆ ƉÓ KPODO SISI E ƉO NA ƉÓ N'I LƐ KPO WU E</h1>
+<h2 align='center'>WEXWLE</h2>
+<p align='center'>Ee nyi ɖɔ hɛnnu ɖokpo mɛ ɔ, mɛ ɖokpoɖokpo ka do susu tɔn, bɔ acɛ ɖokpo ɔ wɛ mɛbi ɖo bo e ma sixu kan fɛn kpon é ɖi mɛɖesusi jijɛ, hwɛjijɔzinzan, kpodo fifa ni tiin nu wɛkɛ ɔ bi e ɔ,
+Ee nyi ɖɔ nukumamɔ jɛ numɛ kpodo wangbɛnu sɛn ɖeɖee na zɔn bɔ gbɛtɔ na do tiin nyi lɛ wɛ nɔ dɔn alannuwiwa ɖee nɔ zɔn bɔ gbɛtɔ nɔ fɔn gu e, lo bɔ nu taji ɖee hudo gbɛtɔ ɔ wɛ nyi ɖɔ gbɛ e mɛ gbɛtɔ lɛ ma na nɔ mɛkannu ɖo xoɖiɖɔ sin alinu kpodo nuɖiɖi lo bo na tɔn sin adohuhu kpodo ya kpo mɛ é ɔ,
+Ee nyi ɖɔ dandanmɛ wɛ e ɖo na jɛ hun do sɛn ɖee na zɔn bɔ gbɛtɔ na do tiin nyi le gbɔn acɛɖiɖo sin alinu se na zɔn bɔ gbɛtɔ ma na lin ɖɔ emi ɖo na ɖe emiɖee sin mɛkannu kpo yadonumɛ kpo e ɔ,
+Ee nyi ɖɔ é ɖo dandanmɛ bɔ e ɖɔ na ɖe alinu wennyinyi ee ɖo na tiin nyi ɖo to ɖokpoɖokpo tɛntin e ɔ,
+Ee nyi ɖɔ, ɖo xwedowema elɔ mɛ o wɛkɛ ɔ bi lɛ vɔ mɔ nu jɛ acɛ kpo do sisi dodo e gbɛtɔ ɖo na ɖo e, ɖo mɛɖesunɔnyinyi kpodo susu e do na xɔ nu gbɛtɔ e ɖo acɛ kpodo sisi sunnu kpodo nyɔnu tɔn kpo na nyi ɖokpo ɔ; lo bɔ ye lɛ yalɔ akɔ́n bonu nukɔnyinyi ni tiin lo bo na sɔ gbɛ ɖagbe zinzan gbɔn mɛɖesunɔsi jijɛ taji ze jijɔn ayi e ɔ,
+Ee nyi ɖɔ to ɖokpoɖokpo yi gbe bo na ɖo sisi nu acɛ e gbɛtɔ lɛ ɖo kpodo mɛɖesusijijɛ taji kpo ɖó alɔ ɖo alɔmɛ xa to lɛ bi sin kplekple é ɔ,
+Ee nyi ɖɔ linlin ɖokpo ɔ ɖuɖo nu acɛ, sisi kpodo mɛdesunɔsi jijɛ gbɛtɔ tɔn le, wɛ nyi nu taji ee na zɔn bɔ mi na nyi sɛn elɔ lɛ e ɔ,
+Gbɛtɔ ɔ sin kplekple ɖe gbeta elɔ tɔn bɔ e na ɖɔ xo do acɛ e gbɛtɔ ɖo na ɖo kpo sisi e ɖo na ɖo n'i é kpo wu. Gbeta elɔ na nyi su ɖokpo tawun bɔ gbɛtɔ lɛ kpo to lɛ bi kpo ɖo na nyi bonu mɛ bi kpodo tuto e nyi gbɛtɔ lɛ tɔn lɛ ɖee gbeta elɔ ɖo tamɛ na nugbo lɛ e ni tɛnkpɔn nu sisi ni tiin nu acɛ kpodo mɛɖesunɔsi jijɛ gbɔn nunywɛyiyi li xo. Mɔ ɖokpo ɔ ye ɖo na tuun sɛn enɛ ɔ lɛ bo na zan ye nugbo tɔn gbɔn tuto e do ayi ɖo to ɖokpoɖokpomɛ kpodo gbɛ ɔ bi mɛ e kpo; acɛ enɛ ɔ kpodo susu enɛ kpan sin zinzan ɔ kpo nukun mɔ jɛ yenɛ kpo ɔ ɖo na nyi nu taji ɖokpo nu tovi ee sin to ɖò gbɛta elɔ mɛ e kpodo tovi ɖée sin to lɛ kpo ɖò acɛkpikpa to enɛ ɔ lɛ tɔn glɔ e.</p>
+<ol>
+  <li>
+    <p>Acɛ,susukposisiɖokpoɔkpowɛgbɛtɔbiɖoɖògbɛwiwatɔnhwenu;yeɖolinkpɔnbɔayiyetɔnmɛkpelobɔyeɖonadoalɔyeɖeeɖinɔvinɔviɖɔhun.</p>
+  </li>
+  <li>
+    <p>Mɛɖokpoɖokposixutuunɖɔacɛ,susukposisiɖeekpoxoeɖɔɖògbetaelɔmɛɔnyieɖesunɔsinnumaɖenuɖekpoɖi:akɔta,sunnu,nyɔnu,gbɛenɔdoe,sinsɛn,nuelindotoxowue,alolinlinɖevoseeb'ɛnyitomɛtɔnlɛalogbɛtɔlɛtɔn,dɔkunjijɛ,leeejimɛgbɔnekpodonuɖevoɖevonɛlɛkpan.Mɔɖokpoɔ,eɖonakpɔndotutoeeezejijɔnayiɖotoemɛegosinewuɖotoxoɖiɖosinalinu,sɛnejitoɔjijɔnekpodosɛngbɛɔtɔnɖeeɖɔnudotoɔnuewɛa,ɖótoenɛɔkojɛɛɖeesialoekpoɖomɛkannu,aloacɛkpikpatɔnmayihaɖéjiwua.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔɖokpoɖokpoɖonamɔgbɛbonɔeɖesusilobonalɛnyieɖee.</p>
+  </li>
+  <li>
+    <p>Esɔɖonahɛnmeɖeɖomɛkannualomɛɖɛǎ;mɛkannuninɔkpodomɛɖekpoɖoalɔlɛbimɛɔsɔɖeǎ.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔwikukɔnaloyadonumɛkpodoadakacomɛwukposɔɖonaɖeǎ.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔɔnusisiwɛɖonanyiɖofibi.</p>
+  </li>
+  <li>
+    <p>Acɛɖokpoɔwɛmɛbinaɖolobonanɔnyisɛnɖokpoɔ;mɔɖokpoɔmɛɖenayigbenuwalɔenaɖemɛkpoaloɖeenyiwuɖozɔnumɛtɔnkpoelobonawagbasɛnedoɖofieǎ.</p>
+  </li>
+  <li>
+    <p>Enyimɛɖemɔɖɔeyiacɛenyietɔnbɔsɛndodoeeɖoɔnudototɔnnuɔn'ɛɔ,ehɛnɔenaylɔhwɛɖototɔnmɛ.</p>
+  </li>
+  <li>
+    <p>Eɖonayamɛɖesintotɔnmɛaloenawliialoenasuidoganmɛɖonuɖekpounwuǎ.</p>
+  </li>
+  <li>
+    <p>Eɖodandanmɛbɔenasenueemɛɖewaéɖohwɛɖɔxɔsaɖotogumɛkpaakwɛɖɔxɔsaenɛɔwɛɖonaɖɔacɛenyietɔnlɛékpodonuèɖenawalɛékpo;mɔɖokpoɔfienɛɔwɛenaɖɔnuewueylɔhwɛɛéɖé.</p>
+  </li>
+  <li>
+    <p>Mɛeevɛnunyanyaɖedoénatoɖoyitɔnyiwɛhwɛbɔenabadonuleenulɛyigbɔnecobonaylɔɛɖohwɛnukɔn;cobonuekanaɖɔhwɛdoeeɔ,eɖonan'ɛmɛenasixuhwlɛnnɛɖɔhwɛnukɔne.</p>
+    <p>Enyinuemɛɖewaɖ'ayiémanyinuenasasɛndomɛɖohweenɛnuɖileesɛnéjitɔɔalogbɛɔjijɔnéɖɔgbɔnéaɔ,éɖonasɛngantɔnǎ.</p>
+  </li>
+  <li>
+    <p>Eɖonabadonumɛɖileejlomɛgbɔnegbɔnxoekunkpla.Gbɛzinzanmɛtɔn,hɛnnumɛtɔn,xɔmɛtɔnalowɛnmɛtɔnlɛéǎ.Moɖokpoɔekaɖɔnadɔwinnyamɛbolɛkɔnwimɛtɔnǎ.Acɛenyigbɛtɔtɔneɖóhwlɛnmɛɖoalienɛɔnu.</p>
+  </li>
+  <li>
+    <p>Fiejlɔmɛɖeɔwenanɔgbɔnbonalɛzenɔtɛnejloeɔɖɔtoɖemɛ.</p>
+    <p>Mɛɖeɖojlotɔnɔésixubɛagbansintoɖebumɛɖitotɔnmɛɖohun.Ejloeɔ,esixulɛlɛkɔwáxwé.</p>
+  </li>
+  <li>
+    <p>Enyiɖoeɖogbɛyadonumɛɖewɛkakabɔkuhwɛnwanɖ'emɛɔ,éhɛnɔénahɔnyitoɖevomɛbɔeɖonayiiɖofienɛ.</p>
+    <p>Amɔenyiemɔɖomɛɔjɛsɛnmɛnugboaloetɛafɔsɛnejigbɛ̌etolɛbikplekplesɔjujɔnayiéjieɔ,ésɔɖoacɛbɔenayiidandanɖotoɖevomɛǎ.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔbiɖoacɛbonanyitoɖèsinvi.</p>
+    <p>Esixuhuganmɛɖebodeesintovikɛnmɛǎ;mɔɖokpoɔéhɛnɔenazéeɖeezéjinutoɖevo.</p>
+  </li>
+  <li>
+    <p>Enyisunnukponyɔnukpoɖówyanwyanxweɔ,yehɛnɔ,yenadayeɖeebodèhɛnnuyetɔn.Akɔtayetɔn,toyetɔn,alosinsɛnyetɔnɖonagbɛnúyeǎ.Acɛɖokpolɛwɛyeɖoɖòyeɖeedidahwenukpɔnunɔyetɔnaloyeɖeejodohwenu.</p>
+    <p>Cobonugbɛtɔɖènádàɖèɔ́,jloyetɔnmɛnuwɛéɖónanyi.</p>
+    <p>Hɛnnuwɛnyisosyɛnnúgbetɔsintogun;lobɔtogunenɛɔkpodoacɛkpikpatoɔtɔnkpankaɖonajɛhundojǐtɔ.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔbì,mɛeɖɔeeɖokponɔéaloééɖogbɛkplekpleɖemɛe,ɖonaɖoacɛdonudeji.</p>
+    <p>Nǔényiétɔnɔmɛɖesixutafuiɖuboyiɖoasitɔnǎ.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔbiɖoacɛbonalɛnnunuéjloekpɔ́nbod'ayimɛlobolɛsɛ̀nnuejloe.Acɛenɛɔwɛzɔnbɔtɔnlɛlɛɖotogunmɛalokwɛnkwɛnmɛgbɔnalɔkpalɛbimɛɖi:nunyɛyiyi,walɔkpoyɛhwɛsinalinukpo.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔbiɖoacɛbonalinnùédonuwubokanaɖɔxo;hǔnmɛɖeɖonavannukundómɛɖeǎ.Mɔdokpoɔ,mɛbiɖoacɛbonasebojlánùéɖojijɛwɛɖotoɔmɛkpotogudolɛékpo.Ehɛnwlɛnwinɖebuɔ,énababodosena.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔbǐɖoacɛbonayìkplé.Lobonalɛdogbɛ̌émanadɔnhunnyahunnyawaǎe.</p>
+    <p>Esixusɔmɛɖedogbɛdemɛgannugannuǎ.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔbǐhɛnɔ,énagɔalɔnutotɔnbonuénadoyinukɔn.Eyeɖesuhɛnɔénanɔnukɔnnunuwiwaenɛaloénaɖemɛbɔénanɔdotɔnmɛ.</p>
+    <p>Acɛɖokpoɔwɛmɛbiɖobonadowaaxɔsuzɔɖototɔnmɛ.</p>
+    <p>Jlotoɔtɔnwɛnyilinlindodoejitoɔsinacɛkpikpajunjɔne.Jloenɛɔ,enazewemanadóxwiji,dosɛnɖéjibɔahizinatɔnɖ'emɛǎ.Mɔɖokpoɔ,nuwiwaenɛɔ,enanɔbloedohwetɔnnu.Wemaenɛɔ,esixunɔyɛmɛbosɔaloelɛsixusɔɖotogunmɛleeenablogbɔnboayinaj'ayinuwemazetɔlɛe.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔbǐɔ,togunɖemɛwɛéɖe.Enɛɔwuo,nuɖenadotagban'iɖoakwɛlinu,lanmɛnanɔganjikkpodonunywɛnaɖokposinalinuǎ;nuenɛɔwɛnazɔnbɔénatɔ́nnyi.Amɔkanevanwɛtoɔɖeekpodonuwaɖokpoeɖotoɖeetoɖeekpansintɛntingbɔntutoezeɖoteékpotoɔsindɔkunlɛkpowɛnazɔnbɔenamɔ.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔbiɖonawaazɔ.Azɔejajloéwɛénawa;sɛnɖokpoɔwɛnaɖonudomɛbinulobɔékadonanɔazɔgbaǎ.</p>
+    <p>Azɔemɛɖewaésinakwɛwɛnaɖu.</p>
+    <p>Mɛɖewanuɖeɔ,énayinuɖeɖ'énudandan.Enɛɔwɛnazɔnbɔenamɔnuenadohɛnhɛnnutɔnnaé.Ehwedoeɔ,gbɛtɔsintogunɔnagɔalɔnuiɖoaliɖevonu.</p>
+    <p>Gbɛtɔbiɖoacɛbonadóazɔjigbɛaloéhɛnɔénanɔgbɛmɔhunɖeenasixuglɔnnyɔnatɔnlɛn'iemɛ.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔbǐɖoacɛbonaɖogbɔjɛhwenukpodoayiɖeɖ'ayisinhwenukpanGanxuxonabiɖewɛéɖónawaazɔna.Eɖonayiazɔgbɔjɛhwɛhwɛbɔgbɔjɛenɛmɛɔ,ekaɖonanɔsunakwɛɛ.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔbǐɖonanaɖónuenazɔnbɔénahwlɛneɖeeganɖoazɔnsie;lobonajlanunɔmɛeɖeetɔnkpodohɛnnutɔnkpanɖó;tajiɔ,ɖonuɖuɖulinu,avɔdudolinuxɔemɛénanɔésinalinu,azɔngblegblelinu.Mɔɖokpoɔ,éɖonamɔalɔdoɖodoazɔmamɔhwenu,asukukualoasikukuxɔmɛnunɔhwenu,kpukpoxɔmɛkpodohweenuemasɔsixuwanǔbomɔnuǎébǐkpan.</p>
+    <p>Vijijikpoyɔkpɔvumɛnunɔkpobǐɖonamɔkpatakiɖe.Alɔwlivikpoɖoviemadaasucobojiǎlɛebiwɛɖoacɛɖokpoɔɖoxɛnyaɖoyejisinalinu.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔbǐɖ'acɛnúwemakplɔnkplɔnbɔwemakplɔnkplɔnkadonabyɔkwɛzinzanǎ;hunnuvɔnnuwɛéɖonanyi.Eɖonaɖokplɔnkleunɖevɔvɔenɛɔdandanmɛwɛéɖè.Alɔlyɛnzɔkpoalɔnunɔkpaakpoɖonavunkankpétoɔmɛ.Wemakplɔnyijinualɔvɔɔ,mɛbinúwɛéɖonanyi,bɔekannaxwedoleeejɛxamɛɖokpoɖokpogbɔne.</p>
+    <p>Wemakplɔnkplɔnɔgbɛtɔsinnukɔnyiyiwɛénaba;bonadɔngbɛtɔsinacɛlɛyinukɔnbojɛhundóyěji.Eɖónázɔnbɔmɔjɛmɛkponuwaɖokpokpohwɛsɔkɛmɛkponátěìnxɔntɔnsinwalɔnatiin,bɔtoeɖobulɛesíngbɛ̌ɔnayinukɔnbɔfifanatiinnúgbɛɔbǐ.</p>
+    <p>Vitɔ,vinɔlɛwɛɖonaɖènyǐkplóneviyetɔnlɛnayié.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔbiɖoacɛbonágɔalɔnutonunywɛlɛbi;mɛbiɖonamɔmɔɖagbeeɖoalɔlyɛnmɛbonazanmɔɖokpoɔ,énasɔsonúnukɔnyiyinunyɛtɔnbonasixumɔnyɔnaeɖ'emɛlɛéɖě.</p>
+    <p>Nuenatɔnsinnuemɛɖegbatamɛbobloéɔ,mɛɔtɔnwɛeɖonanyi;b'ɛnajɛhundonutɔnjiɖonujinjanlinuwɛà,wemawlanwlansinalinuwɛà,aloalɔlyɛnzɔwiwasinalinu.</p>
+  </li>
+  <li>
+    <p>Gbɛtɔbǐɖonabatutogbɔnnukɔnyiyihɛnnuemɛɖeekpodogbɛɔbǐkpansinalinubonuacɛ,sisikpojlokokonunɔexóeɖɔɖɔwemaelɔmɛɔninɔxwiji.</p>
+  </li>
+  <li>
+    <p>Togunemɛgbɛtɔɖeebɔnukɔnyiyitɔnkponyɔnatɔnkponatɔnsinmɛéɔ̀,éɖonaɖonunɔmɛɖèlɛdowǔtɔn.</p>
+    <p>Đoacɛegbɛtɔɖolɛsinzinzankponunɔtɔnkpomɛɔ,mɛɖokpoɖokpoɖonabajlɛnabonanyisɛnenazɔnbɔémanatɛafɔacɛnɔzotɔntɔnlɛkpojlokokonunɔtɔntɔnlɛjikpojiǎéɖileemɛsisisinkplɔnbyɔgbɔné,tutoejitoɔɖekpotogunbikpaagbɛtɔlɛtɔnsinnunɔmɛbyɔgbɔne.</p>
+    <p>Acɛ,sisikpojlokokonunɔenɛlɛɖonaxwedosukpodolinlintoeeɖobulɛtɔn.</p>
+  </li>
+  <li>
+    <p>Yoɖè,kplekpleɖè,gbɛtɔgoɖokponɔɖènayihuzunueɖɔdowemaelɔmɛeɖoalɔtɔnjibonamɔ̀tɛnboɖewalɔɖealoayiɖetɔneenazɔnbɔenamɔtɛnbodokpoacɛ,sisikpodojlokokɔnunɔeexoeɖɔɖofiebohɛngbaǎ.</p>
+  </li>
+</ol>

@@ -1,0 +1,122 @@
+<h1 align='center'>Mɛ tɔnun asaria yen adunia nɔɔsiabu</h1>
+<h2 align='center'>Garin tore</h2>
+<p align='center'>Nde mɛ̀ ba doke mà tɔmbu kpuron bɛɛrɛ ka ben asaria nɛrabu sɔɔra tii mɔru ka gem wɛɛbu ka sere si na ta tasa anduniaɔ,
+Nde mɛ̀ dunia sɔɔ tɔmba ǹ ki bu tɔ nun asaria ka yɛru sariru dooru doke sere ba n ye tusa n dera daa kam ya dabia ma ya duniagibu daakari seeya. Yen sɔna yé tɔnu kanamɔ n kpuro kere yera ù wa u n tii mɔ kpa ù gere yè u bwisika, u tamaa doke kpa ù narùrabu ka yaaru biru ko,
+Nde mɛ̀ yè ya kere yera tem mi ba wooda swii bu tɔnum asaria nɔni doke, n wa tirasi yu ku wii deema ù ka tii yina yen sɔ ba wii yoru diisiamɔ ka ba wii takaasi mɔ̀,
+Nde mɛ̀ yè ya kere yera bu nɔɔsina ka bu bɔrɔnu dam kɛ tem baa,
+Nde mɛ̀ tire te sɔɔ tem tɔm bè ba. Waa ONUN yigbɛru sɔɔ ba tɔnun asarian tii, win girima ka win bɛɛrɛ, tɔn durɔ ka tɔn kurɔn nɛrabu (goo kun goo kere) kpam naanɛ kua. Ma ba yii bu (swaa kpee) ko nɛ tɔmbun waaru ta koo ka sosi, kpa bu waaru gɔsia doonɔɔrugiru mi tii mɔra kon kpa,
+Nde mɛ̀ tem ka tem mɛ̀ mu, yigbɛru duuwa mɛ ka ONU ba mua bu ko mɛ̀ ba koo ko bu ka tɔnun asaria ka win tii mɔrun tii tii girima doke,
+Yè ya kere yera suam tem (tia) mɛ̀ tɔnun asaria ka win tii mɔrun swaa sɔɔ, n wa mɛ̀ ba yii ba nɛ ba koo ko bu yè ko mam mam.
+Mɛnnɔ bɔkɔ ge, ga yɔrasia ga nɛ:
+mɛ tɔnun asaria yen andunia nɔɔsia bi bu saawa, gaa ni bweseru baatere ka tem baamɛre mu kasu mu naa, n wa tɔmbu kpuro, sɔm ko yenu ka yigbɛnu kpuro, bà n tɔnun asaria nɔɔsia bi bwisika bu asaria girima dokebu ka tii mɔru wuu swaa daasia ka keu sɔɔsibu ka sere bwisi sosibu. Kpa bu ko mɛ̀ ba koo ko n wa kpurɛ kpurɛ ba aweren temɔ, bu girima doke bi ka tii mɔɔ te sua, kpa bu ka sɔm buru ko wuu si su waa yigbɛ te sɔɔn tɔmbun tii ka tem mɛ̀ ba mɔ min tɔmbu sɔɔ.</p>
+<ol>
+  <li>
+    <p>Batɔmbukpuromarawabatiimɔ,banɛ,girimakasariasɔɔ.Barabwisiku,badasabumɔ,manweenebanwaasinɛmɛrobisirusɔɔ.</p>
+  </li>
+  <li>
+    <p>Baawerekokpiusariabakatiimɔɔnibakparaminbarukadigookuntuko,bwesera,wasingɔna,durɔwa,kurɔwa,politikinberagia,nkunmɛbwisikunugana.Yenbiru,nǹkoorɔbutemkatemwunanapolitikikawoodaswaasɔɔ.Kàdatemminditɔnuyarima,mutiimɔnumua,muǹmuɛro.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawereuwaarunsariamɔkatiimɔru,kaseremɛbakoowiiyina.</p>
+  </li>
+  <li>
+    <p>Baǹgooyorumuamɔ,buserewiidendi.Bayorudiisiabukayorumuabayina.</p>
+  </li>
+  <li>
+    <p>Baǹgootakaasimɔ̀,baǹmagoonɔniswaarusɔɔsinɔ,buseregoonukukɔsuru,kasananikamasereyènǹweenɛbutɔnwundekonikuaasiimaako.</p>
+  </li>
+  <li>
+    <p>Baawereasariamɔyankpurobuwiituburiùnsiribuntɔnu.</p>
+  </li>
+  <li>
+    <p>Tɔmbukpurobanɛwawoodanbera(swaasɔɔ)nmaaweenɛtiiyinabibakokabeyina,bunsaatiabukugoosuuwuna,ndamabasariayesara,bukawabubetakidikabubenɔɔkuuribekpurowoodayakobeganɛ.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawereusariamɔùwintemsiruyefɛagirufaabakanamabawitoraaswɛɛyisɔɔwoodayawinɔɔka.</p>
+  </li>
+  <li>
+    <p>Nǹkorɔbutɔnuyɔrasia,buwiinuankunmɛbuwiitemyara.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawereusariamɔ,naanɛbuwɔlluyee,ùwinmemgerebunɔɔdeedeesamaannɔni,kpasiriyerutetaǹgɔnnukayaamurenamɔ,tuwunanaùngemmɔ,yènwinbaakawintirasi,toratebamawiwaasitàǹgem,sirikobubuasariako.</p>
+  </li>
+  <li>
+    <p>Tɔnuwibatoraruwaasi,mabaǹginatenseedanɔmatura,yenyɛrokunginagɛɛmɔ.Bànkoowisiriansariamɔugookasuwiukookawiiyina.</p>
+    <p>Nǹweenɛbutɔnutaarɛwɛyènsɔugaanukuankunmɛyènsɔugaanuduarininuǹwaatorarukaasarianswaasɔɔ,sanamɛunikuaYenbiru,nǹweenɛbuyɛrotaarɛwɛyankpaarukerendeyèbakoraawiiwɛsaayeutora.</p>
+  </li>
+  <li>
+    <p>Tɔnunwaarungari,winyɛnuwinnɔɔsinakawinberusebuyaǹgoowa.Mɛnamaanǹweenɛbutɔnubɛɛrɛbiasiakamsɔɔ.Nweenɛasariayukatɔnuyinakakookoosisasiami.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawereusariamɔùdamiuki,kpaùwinyɛnubaniwintemɔ.</p>
+    <p>Tɔnubaawereusariamɔùtemgamndisee,kadawintintem,ukoomakpiùwureùwuraami.</p>
+  </li>
+  <li>
+    <p>Bàntɔnutakaasimɔ̀,usariamɔùwaayerukasutemgamgia,kpaùtemminbarukadi.</p>
+    <p>Baǹkpɛbuasariayegbiisiamabaseedakuabawamàutorawa.NǹmaakoorɔbuasariayegbiisiamawinkookoosukunsaadeedeendemɛyigbɛbakateONUyayii.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawarensariawaunsaatemgamtɔnu.</p>
+    <p>Baǹgooyinarimɔunsaatemgamtɔnu,buserewiiyinariùtemswɛyna.</p>
+  </li>
+  <li>
+    <p>Saatɔnusaagaatura,baǹbweserugaru,temgamtɔndu,gusunɔsaarugarusuuwunɛ,tɔnkurɔkatɔndurɔbasariamɔbusuanakpabubibuma.Bensariayanɛwasuanaanswaasɔɔ.</p>
+    <p>Bebakibusuanaserebuginanɔɔsinankuntirasi.</p>
+    <p>Saseewasatɔnunbweserudeemawatemmi,bweseteratagbiiyanmaweenɛbukatèyina.</p>
+  </li>
+  <li>
+    <p>Baawere,a,witurowaaabedabinaa,ukonwinbaamɔwa.</p>
+    <p>Baǹkpɛbutɔnuwingaanuwɔrarikadam.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawereuayerumɔ:ùbwisikundemɛuki,undasabumɔ,kpaùgusunɔsa;ayetetaderaukookpiùgusunɔsaarugaruderiùgaruswii,ndemɛukookpiùgusunɔsaawituro,nkunmɛsannusannu,samaanwuswaaɔnkunmɛwinberaɔndemɛuki.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawereusariamɔùgeremɛuwa,ukunnande,kpaùgarikadabaaruyèunuatempusimɛukpiakamiuki.</p>
+  </li>
+  <li>
+    <p>Tɔnubaaweresariamɔùmɛnnɔkayigbɛrukótakunnaanaanuganumɔ.</p>
+    <p>2.Baǹgootirasimɔ̀ùyigbɛrugarudu.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawereusariamɔùwintemtɔmbunwunanɔsusɔɔduùnkiwintiitii,nkunmɛùsɔmɔbugabuwubabéukibuwiwunana.</p>
+    <p>Tɔnubaawerekookpiùsamaasɔmburu(baturesɔmburu)ko,ndemɛbayenkpunayii.</p>
+    <p>Mɛsamaayayiimisɔɔratemdammutasa.Swaayesɔɔbakondatɛtɛto,takisari,sanamkasanam,tɔmbukpuronnɔnibirunkunmɛbɔkusaɔ,bukugootirasikoukagootɛtɛtoowa.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawereusariamɔunɔmkɛruwa,miwinbaayawaakpuro.Kawintemkookari,kaminɔɔsinayèyawaakatemtukundam,nwawinwaarutangirimamɔ.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawereusariamɔùsɔmburuko,ùgɔsiteuki,katenyètamɔnkookawinaawakɛruwasɔmburutànrayɔragasɔ.</p>
+    <p>Tɔmbukpuro,bakɔsiateerumɔbumuasaabakasɔmbweseteerumɔ́</p>
+    <p>Wiusɔmburumɔ̀kpurousariamɔùkɔriarumuamɛnweenɛ,seretuwiwinyɛnugibuturimɛbakonkawaarudimɔdeedee,nkookoorabukabeyina.</p>
+    <p>Tɔnubaawereusariamɔwikagabubusɔmkowobunyigbɛtetarakabeyinɛswii,kpabukpanyigbɛmɛrosusɔɔdusisukondakabesunɛ.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawereusariamɔùwɛra,udwee,ùsɔmburukoukusakasarasia,kpaùwɛrarukakɔsiarugirumausanamkasanam.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawereusariamɔùwaarudiisinamɛukookawinbwaadobu,winbwɛ,kawinyenugibugianɔɔri,ndedianunbera,yanuwaayeru,dokotorotim.Winsɔmburutànyɔra,ùnbaraùnyɛmɔkua,kasereyèumɔyànbuerankunkawingɔrukiru,usariamɔnɔmkɛrunyigbɛrutuwiidera.</p>
+    <p>Yɔɔnirukabirutasariamɔbutenɔɔrigemgem.Kurɔwinakakurɔkpaarumɔwinbibu,kawinaǹkakurɔkpaarumɔnbibu,bekpurɔsomiteeterabakobeko.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawereweenɛùkeuko.Keuyaweenɛbuyekonkunkagobi,nǹmankerekeudiipiibinugia.Keidiipiibinunkeuyasaatirasi.Keunɔmansɔmmɛɛribugiakagbankɔkɔsɔmmɛɛeribugianweenɛbunsaatɔmbukpurongia,saabakayensakatura.</p>
+    <p>Yètɔnukasukeusɔɔyerabwɛɛdora,nwatɔnumasariakawintiinmɔrunnɔnidokebubudamsosi.Keuyaweenɛyusomimɛnɔɔsina,suuru,kakirutakonkawaatemkpuro,bwesewuunukpuronkunmɛgusunɔsaarugibunmi.KpayukpamyigbɛbakatebasokaONUsomitenwɔrisɔɔmɛ̀takookasinasɛɛruswiianduniasɔɔ.</p>
+    <p>Biintundokabiinmɛrobaayerumɔbubenbibukeudokeswaayèbakisɔɔ.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawerekookpi,dweebitɔmbamɔ̀ùbidumauki,kpaùbinbarubadi.Tɔnubaawerekookpiùkasoosɔɔdukpaùyenarufaanidi.</p>
+    <p>Nweenɛsukatabuyari,nwawiukasoomɔ̀(gaanungɔsiabunbera,tireyoranberan)ùyenarufaanidi.</p>
+  </li>
+  <li>
+    <p>Tɔnubaawereusariamɔùkomɛukooko,tɔmbusɔɔkatemtukumɔ,baayereyankanɔɔnɛsariakatiimɔɔtèngaribakparamisɔɔkpatɔmbukayèsɔmburuko.</p>
+  </li>
+  <li>
+    <p>Tɔnu,tirasi,sɔmbura,wiyiiyeùsamaakuadomimisɔɔraukowinbaayeresiisiamɛuki.</p>
+    <p>Tɔnuànasariakatiimɔrumɔanmaawinsingiageriti,antiiyɛnwagooùkukagoogiamɛnnakpawuugukasinasɛɛ.Banɛmibetɔnunayerayɔra,mindiagoogirutatorua.</p>
+    <p>Sariabekatiimɔɔte,yekpuro,baǹkayosɔmburumɔ̀bunanam.NdemɛyigbɛbakateONUyayiimɛsumabakoosua.</p>
+  </li>
+  <li>
+    <p>Yèkayèbayiitɔnunasarianberamibaasi,kpunaagaakakookoosugasumaasari,sibakootusianɛnɛm,temgam,bukasariakatiimɔɔtebakparamikpeera-siapai.</p>
+  </li>
+</ol>

@@ -1,0 +1,123 @@
+<h1 align='center'>Pernyataan Umum tentang Hak-Hak Asasi Manusia</h1>
+<h2 align='center'>Mukadimah</h2>
+<p align='center'>Menimbang bahwa pengakuan atas martabat alamiah dan hak-hak yang sama dan mutlak dari semua anggota keluarga manusia adalah dasar kemerdekaan, keadilan dan perdamaian di dunia,
+Menimbang bahwa mengabaikan dan memandang rendah hak-hak asasi manusia telah mengakibatkan perbuatan-perbuatan bengis yang menimbulkan rasa kemarahan hati nurani umat manusia, dan terbentuknya suatu dunia tempat manusia akan mengecap kenikmatan kebebasan berbicara dan beragama serta kebebasan dari ketakutan dan kekurangan telah dinyatakan sebagai cita-cita tertinggi dari rakyat biasa,
+Menimbang bahwa hak-hak asasi manusia perlu dilindungi oleh peraturan hukum supaya orang tidak akan terpaksa memilih pemberontakan sebagai usaha terakhir guna menentang kelaliman dan penindasan,
+Menimbang bahwa pembangunan hubungan persahabatan antara negara-negara perlu digalakkan,
+Menimbang bahwa bangsa-bangsa dari Perserikatan Bangsa-Bangsa sekali lagi telah menyatakan di dalam Piagam Perserikatan Bangsa-Bangsa kepercayaan mereka akan hak-hak dasar dari manusia, akan martabat dan nilai seseorang manusia dan akan hak-hak yang sama dari pria maupun wanita, dan telah bertekad untuk menggalakkan kemajuan sosial dan taraf hidup yang lebih baik di dalam kemerdekaan yang lebih luas,
+Menimbang bahwa Negara-Negara Anggota telah berjanji untuk mencapai kemajuan dalam penghargaan dan penghormatan umum terhadap hak-hak asasi manusia dan kebebasan-kebebasan asasi, dengan bekerjasama dengan Perserikatan Bangsa-Bangsa,
+Menimbang bahwa pengertian umum tentang hak-hak dan kebebasan-kebebasan tersebut sangat penting untuk pelaksanaan yang sungguh-sungguh dari janji ini, maka,
+Majelis Umum dengan ini memproklamasikan
+Pernyataan Umum tentang Hak-Hak Asasi Manusia
+sebagai satu standar umum keberhasilan untuk semua bangsa dan semua negara, dengan tujuan agar setiap orang dan setiap badan dalam masyarakat dengan senantiasa mengingat Pernyataan ini, akan berusaha dengan jalan mengajar dan mendidik untuk menggalakkan penghargaan terhadap hak-hak dan kebebasan-kebebasan tersebut, dan dengan jalan tindakan-tindakan progresif yang bersifat nasional maupun internasional, menjamin pengakuan dan penghormatannya secara universal dan efektif, baik oleh bangsa-bangsa dari Negara-Negara Anggota sendiri maupun oleh bangsa-bangsa dari daerah-daerah yang berada di bawah kekuasaan hukum mereka.</p>
+<ol>
+  <li>
+    <p>Semuaorangdilahirkanmerdekadanmempunyaimartabatdanhak-hakyangsama.Merekadikaruniaiakaldanhatinuranidanhendaknyabergaulsatusamalaindalamsemangatpersaudaraan.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakatassemuahakdankebebasan-kebebasanyangtercantumdidalamPernyataaninitanpaperkecualianapapun,sepertiras,warnakulit,jeniskelamin,bahasa,agama,politikataupendapatyangberlainan,asalmulakebangsaanataukemasyarakatan,hakmilik,kelahiranataupunkedudukanlain.Disampingitu,tidakdiperbolehkanmelakukanperbedaanatasdasarkedudukanpolitik,hukumataukedudukaninternasionaldarinegaraataudaerahdarimanaseseorangberasal,baikdarinegarayangmerdeka,yangberbentukwilayah-wilayahperwalian,jajahanatauyangberadadibawahbatasankedaulatanyanglain.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakataspenghidupan,kebebasandankeselamatanindividu.</p>
+  </li>
+  <li>
+    <p>Tidakseorangpunbolehdiperbudakataudiperhambakan,perbudakandanperdaganganbudakdalambentukapapunmestidilarang.</p>
+  </li>
+  <li>
+    <p>Tidakseorangpunbolehdisiksaataudiperlakukansecarakejam,memperolehperlakuanataudihukumsecaratidakmanusiawiataudirendahkanmartabatnya.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakataspengakuandidepanhukumsebagaipribadidimanasajaiaberada.</p>
+  </li>
+  <li>
+    <p>Semuaorangsamadidepanhukumdanberhakatasperlindunganhukumyangsamatanpadiskriminasi.SemuaberhakatasperlindunganyangsamaterhadapsetiapbentukdiskriminasiyangbertentangandenganPernyataaninidanterhadapsegalahasutanyangmengarahpadadiskriminasisemacamitu.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakatasbantuanyangefektifdaripengadilannasionalyangkompetenuntuktindakanpelanggaranhak-hakdasaryangdiberikankepadanyaolehundang-undangdasaratauhukum.</p>
+  </li>
+  <li>
+    <p>Takseorangpunbolehditangkap,ditahanataudibuangdengansewenang-wenang.</p>
+  </li>
+  <li>
+    <p>Setiaporang,dalampersamaanyangpenuh,berhakataspengadilanyangadildanterbukaolehpengadilanyangbebasdantidakmemihak,dalammenetapkanhakdankewajiban-kewajibannyasertadalamsetiaptuntutanpidanayangdijatuhkankepadanya.</p>
+  </li>
+  <li>
+    <p>Setiaporangyangdituntutkarenadisangkamelakukansuatupelanggaranhukumdianggaptidakbersalah,sampaidibuktikankesalahannyamenuruthukumdalamsuatupengadilanyangterbuka,dimanadiamemperolehsemuajaminanyangdiperlukanuntukpembelaannya.</p>
+    <p>Tidakseorangpunbolehdipersalahkanmelakukanpelanggaranhukumkarenaperbuatanataukelalaianyangtidakmerupakansuatupelanggaranhukummenurutundang-undangnasionalatauinternasional,ketikaperbuatantersebutdilakukan.Jugatidakdiperkenankanmenjatuhkanhukumanlebihberatdaripadahukumanyangseharusnyadikenakanketikapelanggaranhukumitudilakukan.</p>
+  </li>
+  <li>
+    <p>Tidakseorangpundapatdiganggudengansewenang-wenangurusanpribadinya,keluarganya,rumah-tangganyaatauhubungansurat-menyuratnya,jugatakdiperkenankanpelanggaranataskehormatannyadannamabaiknya.Setiaporangberhakmendapatperlindunganhukumterhadapgangguanataupelanggaransepertiitu.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakataskebebasanbergerakdanberdiamdidalambatas-batassetiapnegara.</p>
+    <p>Setiaporangberhakmeninggalkansesuatunegeri,termasuknegerinyasendiri,danberhakkembalikenegerinya.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakmencaridanmenikmatisuakadinegerilainuntukmelindungidiridaripengejaran.</p>
+    <p>Hakinitidakberlakuuntukkasuspengejaranyangbenar-benartimbulkarenakejahatan-kejahatanyangtakberhubungandenganpolitik,ataukarenaperbuatan-perbuatanyangbertentangandengantujuandandasarPerserikatanBangsa-Bangsa.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakatassesuatukewarga-negaraan.</p>
+    <p>Tidakseorangpundengansemena-menadapatdicabutkewarga-negaraannyaatauditolakhaknyauntukmenggantikewarga-negaraan.</p>
+  </li>
+  <li>
+    <p>Priadanwanitayangsudahdewasa,dengantidakdibatasikebangsaan,kewarga-negaraanatauagama,berhakuntuknikahdanuntukmembentukkeluarga.Merekamempunyaihakyangsamadalamsoalperkawinan,didalammasaperkawinandanpadasaatperceraian.</p>
+    <p>Perkawinanhanyadapatdilaksanakanberdasarkanpilihanbebasdanpersetujuanpenuholehkeduamempelai.</p>
+    <p>KeluargaadalahkesatuanalamiahdanfundamentaldarimasyarakatdanberhakmendapatperlindungandarimasyarakatdanNegara.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakmemilikiharta,baiksendirimaupunbersama-samadenganoranglain.</p>
+    <p>Takseorangpunbolehdirampashartanyadengansemena-mena.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakataskebebasanpikiran,hatinuranidanagama;dalamhalinitermasukkebebasanbergantiagamaataukepercayaan,dankebebasanuntukmenyatakanagamaataukepercayaandengancaramengajarkannya,mempraktekkannya,melaksanakanibadahnyadanmentaatinya,baiksendirimaupunbersama-samadenganoranglain,dimukaumummaupunsendiri.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakataskebebasanmempunyaidanmengeluarkanpendapat;dalamhakinitermasukkebebasanmemilikipendapattanpagangguan,danuntukmencari,menerimadanmenyampaikaninformasidanbuahpikiranmelaluimediaapasajadandengantidakmemandangbatas-batas(wilayah).</p>
+  </li>
+  <li>
+    <p>Setiaporangmempunyaihakataskebebasanberkumpuldanberserikatsecaradamai.</p>
+    <p>Tidakseorangpunbolehdipaksauntukmemasukisesuatuperkumpulan.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakturutsertadalampemerintahannegerinya,secaralangsungataumelaluiwakil-wakilyangdipilihdenganbebas.</p>
+    <p>Setiaporangberhakataskesempatanyangsamauntukdiangkatdalamjabatanpemerintahannegerinya.</p>
+    <p>Kehendakrakyatharusmenjadidasarkekuasaanpemerintah;kehendakiniharusdinyatakandalampemilihanumumyangdilaksanakansecaraberkaladanjujurdanyangdilakukanmenuruthakpilihyangbersifatumumdanyangtidakmembeda-bedakan,dandenganpemungutansuarayangrahasiaataupunmenurutcara-caralainyangmenjaminkebebasanmemberikansuara.</p>
+  </li>
+  <li>
+    <p>Setiaporang,sebagaianggotamasyarakat,berhakatasjaminansosialdanberhakmelaksanakandenganperantaraanusaha-usahanasionaldankerjasamainternasional,dansesuaidenganorganisasisertasumber-sumberkekayaandarisetiapNegara,hak-hakekonomi,sosialdankebudayaanyangsangatdiperlukanuntukmartabatdanpertumbuhanbebaspribadinya.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakataspekerjaan,berhakdenganbebasmemilihpekerjaan,berhakatassyarat-syaratperburuhanyangadilsertabaik,danberhakatasperlindungandaripengangguran.</p>
+    <p>Setiaporang,tanpadiskriminasi,berhakataspengupahanyangsamauntukpekerjaanyangsama.</p>
+    <p>Setiaporangyangmelakukanpekerjaanberhakataspengupahanyangadildanbaikyangmenjaminkehidupannyadankeluarganya,suatukehidupanyangpantasuntukmanusiayangbermartabat,danjikaperluditambahdenganperlindungansosiallainnya.</p>
+    <p>Setiaporangberhakmendirikandanmemasukiserikat-serikatpekerjauntukmelindungikepentingannya.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakatasistirahatdanliburan,termasukpembatasan-pembatasanjamkerjayanglayakdanhariliburberkala,denganmenerimaupah.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakatastarafhidupyangmenjaminkesehatandankesejahteraanuntukdirinyadankeluarganya,termasukpangan,pakaian,perumahandanperawatankesehatannyasertapelayanansosialyangdiperlukan,danberhakatasjaminanpadasaatmenganggur,menderitasakit,cacat,menjadijanda,mencapaiusialanjutataumengalamikekuranganmatapencarianyanglainkarenakeadaanyangberadadiluarkekuasaannya.</p>
+    <p>Paraibudananak-anakberhakmendapatperawatandanbantuanistimewa.Semuaanak,baikyangdilahirkandidalammaupundiluarperkawinan,harusmendapatperlindungansosialyangsama.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakmendapatpendidikan.Pendidikanharusgratis,setidak-tidaknyauntuktingkatsekolahrendahdanpendidikandasar.Pendidikanrendahharusdiwajibkan.Pendidikanteknikdanjurusansecaraumumharusterbukabagisemuaorang,danpengajarantinggiharussecaraadildapatdiaksesolehsemuaorang,berdasarkankepantasan.</p>
+    <p>Pendidikanharusditujukankearahperkembanganpribadiyangseluas-luasnyasertamemperkokohrasapenghargaanterhadaphak-hakmanusiadankebebasanasasi.Pendidikanharusmenggalakkansalingpengertian,toleransidanpersahabatandiantarasemuabangsa,kelompokrasmaupunagama,sertaharusmemajukankegiatanPerserikatanBangsa-Bangsadalammemeliharaperdamaian.</p>
+    <p>Orang-tuamempunyaihakutamauntukmemilihjenispendidikanyangakandiberikankepadaanak-anakmereka.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakuntukturutsertadenganbebasdalamkehidupankebudayaanmasyarakat,untukmengecapkenikmatankeseniandanberbagidalamkemajuanilmupengetahuandanmanfaatnya.</p>
+    <p>Setiaporangberhakuntukmemperolehperlindunganataskepentingan-kepentinganmorildanmaterialyangdiperolehsebagaihasildarisesuatuproduksiilmiah,kesusasteraanataukesenianyangdiciptakannya.</p>
+  </li>
+  <li>
+    <p>Setiaporangberhakatassuatutatanansosialdaninternasionaldimanahak-hakdankebebasan-kebebasanyangtermaktubdidalamPernyataaninidapatdilaksanakansepenuhnya.</p>
+  </li>
+  <li>
+    <p>Setiaporangmempunyaikewajibanterhadapmasyarakattempatsatu-satunyadimanaiamemperolehkesempatanuntukmengembangkanpribadinyadenganpenuhdanleluasa.</p>
+    <p>Dalammenjalankanhak-hakdankebebasan-kebebasannya,setiaporangharustundukhanyapadapembatasan-pembatasanyangditetapkanolehundang-undangdenganmaksudsemata-matauntukmenjaminpengakuansertapenghormatanyanglayakterhadaphak-hakdankebebasan-kebebasanoranglain,danuntukmemenuhisyarat-syaratyangadildalamhalkesusilaan,ketertibandankesejahteraanumumdalamsuatumasyarakatyangdemokratis.</p>
+    <p>Hak-hakdankebebasan-kebebasaninidenganjalanbagaimanapunsekali-kalitidakbolehdilaksanakanbertentangandengantujuandandasarPerserikatanBangsa-Bangsa.</p>
+  </li>
+  <li>
+    <p>TidaksatupundidalamPernyataaninibolehditafsirkanmemberikansesuatuNegara,kelompokataupunseseorang,hakuntukterlibatdidalamkegiatanapapunataumelakukanperbuatanyangbertujuanuntukmerusakhak-hakdankebebasan-kebebasanyangmanapunyangtermaktubdidalamPernyataanini.</p>
+  </li>
+</ol>

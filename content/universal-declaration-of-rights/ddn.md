@@ -1,0 +1,121 @@
+<h1 align='center'>ÃDUNIYA KULU BƆRƆ DAAMA BEIYANIYOM</h1>
+<h2 align='center'>SENNI ZIIGO</h2>
+<p align='center'>Ka simma nna buricinitɛrɛ ka n bɔrɔ ŋwɛnɛ iyaali bei nna daama duuri ka bɔrɔ fɔ su hini ka hoŋu n sɛ ya bara bɔŋɔ duuri nna laakari kaniyom ãduniya kuna,
+Ka simma nna ka bɔrɔ daama duuri bara hɛi fɔ ka sariya hima a ma cɛruma ka bɔrɔ mɔrani nna tilaasi guruje nna mɛiyom bɛrɛkɛtɛ nna kwɛnɛ bɔrɔ futu,
+Ka simma nna naanɛ ka ãduniya zamaa sariya nyâ dam daama duuri ga buricinitɛrɛ nna bɔrɔ jirima bɔŋɔ nna kwɛnɛ daama ka a gono weibɔrɔ nna harubɔrɔ ciyom afɔ gonouom kuna,
+Ka simma nna ka binɛ a hima gɔ rɔkasinɛ hɛnnɔ ma gono ganna nna ganna ŋmaaniyo binni n hãnu kulu mɔɔjinɛ kweiyom dirɔu ga,
+Ka simma nna ka ãduniya zamaa diya mariga beeri, tabataniyom mɛɛfo ceejiyom ka n baa ãduniya ganna zamaa kulu ma tɔ daama duuri hini ga nna a zaamani safu ŋwaani ŋwaani ka n damyom nna daama duuri ko ga a jirimani ko beiyom tɔntɔni ceeji a bɔŋɔ,
+Ka simma nna ka ãduniya zamaa marga beeri tutu ka nŋayo ba mɛɛ cinɛyo kulu cii kawa bɔrɔ ŋwɛnɛ ãduniya daama duuri hini ga,
+Ka simma nna ka mɛɛcinɛyo cimaniyo ya ba nam daama duuri gweiyo ma dira dei-dei,
+ãduniya zamaa marigã beiyani bɔrɔ ŋwɛnɛ daama duuri ãdininya kuna gwei cirici ka a hima zaamani an kokari kǎ ci tɛɛntɛ n ŋmaarɛ ba mani za couyom hini kuna beiyom ceejiyom, ga, bɔrɔ kulu ma mɛɛ cinɛ di ci a ŋwɛnɛ ganna zamaayom kulu mɔ ma duwa ka geeri tila cirici wɔ ga. Za ganna ŋmaani ŋmaaniyom kuna hali an to ãduniya zama kulu.</p>
+<ol>
+  <li>
+    <p>Aduniyakunanguibunadamayohɛinɔdei-deinndaamannanburucinitɛrɛfɔ,nlasabunnalaakariyanamnnmɔhurocɛrɛkunanyanzetɛrɛbɔŋɔɔ.</p>
+  </li>
+  <li>
+    <p>Baamɛihimaamagonnadaamannabɔŋɔɔmɛiyomzaŋakadaamabeibeiyaniyommɛɛcinɛnaasiriyanidimifisɔuyomasii.Asiinnanmaciwɔnɔgaakwaarɛwɔnɔgaabiiwɔnɔweibɔrɔwɔnɔharubɔrɔ.Asiinnacinɛfisɔuyom;asiinnaadiinifisɔuyomabinɛsiinnasiyasafisɔuyom.</p>
+  </li>
+  <li>
+    <p>Bɔrɔkulugonnahunayomnnabɔŋɔɔmɛiyomnnabɔŋɔɔnaanɛyomdaama.</p>
+  </li>
+  <li>
+    <p>Bɔrɔfɔnahimaancibɔrɔfɔsɛtamdeebinɛnmamɔɔriyabɛrɛkɛtɛ.Agannanɔnhoŋutamtɛrɛnnamɔɔriyayombɛrɛkɛtɛbahinifɔga.</p>
+  </li>
+  <li>
+    <p>Nsubɔrɔfɔwahalani,nsugacɛɛnaninbinɛsugakamani.</p>
+  </li>
+  <li>
+    <p>Sariyagannabaamanibɔrɔgonoahimaansariaganna.</p>
+  </li>
+  <li>
+    <p>Irikuluafɔsariyamɔjinɛyanɔbinɛsariyadiguirikulucɛruma.</p>
+  </li>
+  <li>
+    <p>Batumɛgonobamɛisɛɖɛɛbɔrɔnasariyadaalinmacɛɛgoosisariyayodimɔjinɛkayiikobeiyom.</p>
+  </li>
+  <li>
+    <p>Hinisiibɔrɔfɔsɛamahacinɛdiikadaabuɔuamagɛi,deebinɛamakaakwaarakanaciitaalifɔbɔŋɔ.</p>
+  </li>
+  <li>
+    <p>Hinigonobamɛisɛangoosicɛ;goosikaabahinikaanɔcimiɔuamatãgaraniadaamannaatilasibɔ̃ŋɔ.</p>
+  </li>
+  <li>
+    <p>Bantaalidamyomngasegoosimaacibanfaabakwɛyomɔjinɛnmadukancitaalikwɛ.</p>
+    <p>Asiinanmabɔrɔnɔtaalidaafɔbɔŋɔkasariyadomnaajisi.Yanɔbinɛhãŋagunguyomkaabisasasariyasii.Sariyazakayahimahãŋagunguyom.</p>
+  </li>
+  <li>
+    <p>Bɔrɔfɔsumɛɛdambɔrɔfuusennikunabɛrɛkɛtɛ.Yanɔbinɛbɔrɔfɔsiinnaamahaŋasinɛjirimazobu.Sariyabamɛicɛrumannaalaamarizaŋayayo.</p>
+  </li>
+  <li>
+    <p>Daamagonobamɛisɛamakweinuŋukaabaakulu.</p>
+    <p>Amagɔrɔkwaarakaasawayomasɛamatunusaakaabinɛbaa.</p>
+  </li>
+  <li>
+    <p>Bamɛikasananinangaarinkwaarakunadaamagononsɛnmaganakwaaraŋwaanikahiniceejinmantayoo.</p>
+    <p>Daamadisugondaabudeeabarannabɔrɔwiiɔubinɛdaabɛrɛkɛtɛfɔyokaãduniyazamaamarigabeerihoŋu.</p>
+  </li>
+  <li>
+    <p>Bamɛikuluhimaamagonnadimi.</p>
+    <p>Nsuhinikahoŋubɔrɔsɛadimitakiibɔŋɔ.</p>
+  </li>
+  <li>
+    <p>Deebɔrɔkǎtɔbalagaasiinnamadiminnaadiinifisɔuweinnaharusɛdomidaamafɔdinɔnkulugonnazanhiijewaatihalinfefeiyomsaa.</p>
+    <p>Nsuhinikahiijehɔukaanacinnanbɔrɔhinkakulubakasinɛ.</p>
+    <p>Iyaaliyabarazaamanisafuciciriciagannanɔgominantigaacɛruma.</p>
+  </li>
+  <li>
+    <p>Bamɛi,nbɔŋɔ̌fɔnɔ,noozamaanɔ,daamagonowɔgonnaduuri.</p>
+    <p>Asiinmabɔrɔgaŋaaduuritakiibɔŋɔ.</p>
+  </li>
+  <li>
+    <p>Bamɛikulugonnadaamalasabu,ga,diayomkunannaadiiniganayomganbinɛbahinikabaarunbɔŋɔfɔɔunoozamaakogaloozaŋakaasawanoosɛ.</p>
+  </li>
+  <li>
+    <p>Bamɛikulugonnalasabunnasennidaama.Asɛgannanɔbɔrɔsubahɛifɔsenniɔulasabukodirigoyomhɛikaabinɛbasennikuluhinikaseibamani.</p>
+  </li>
+  <li>
+    <p>Bamɛikulugonnakummayomnnaigwekunagonoyomdaama.</p>
+    <p>Nsubɔrɔtilasiigwɛfɔkunawuroyom.</p>
+  </li>
+  <li>
+    <p>Bamɛigonnadaamaamawuroakwaarasennikunaabɔŋɔɔuabaranikaafisɔu.</p>
+    <p>Bamɛikuluafɔbɔŋɔgonnadaamaamagweitɛakwaaragominantisɛ.</p>
+    <p>Hɛikazamaazaayabarakwaarayiiko.Zaayomdimobarakannaatɛtɛbiri.</p>
+  </li>
+  <li>
+    <p>Nikakulungonozamaakunahimanɔnmagonnazamaadinaanɛdaama.Amadukǒbaranbukaatamǒbiyayomzaaalmaninnataadayodaamaduurihinigahɛiyowɔkulunnakwaarazaamagaabinnabinɛgɔrɔkasinɛhɛinnɔkwarayoŋwɛnɛalkawalihiniga.Kasimmannazaŋakamɛtɛyaasikwaarafɔfɔnaŋwɛnɛalmanisiriyani.</p>
+  </li>
+  <li>
+    <p>Bamɛigonnadaamaamagweikaǎbaafisɔu.Yanɔbinɛngaacɛrumannagweizaŋɛi.</p>
+    <p>Bamɛimunaafinsibaasigonnagweikantɛbanayomdaama.</p>
+    <p>Nikangweitɛkulugonnabanayomdei-deidaamakaabatɔninmanŋwɛnɛiyaalikɔtɔnnabɛɛrɛbɔŋɔ.</p>
+    <p>Bamɛigonnadaamaamagweiteeriyozogitaayomigwɛsafujisiabinɛbahinikaabɔŋɔdamafɔŋwaanikunaabɔŋɔbukaatafansayomganna.</p>
+  </li>
+  <li>
+    <p>Bamɛigonnagweihinanzobunnahɔɔrɛdaamagweikɛiyaniyomzakannagweihinanzobukunabanayomsaannasaa.</p>
+  </li>
+  <li>
+    <p>Bamɛigonnajisiridaamakaabahinikogaŋwɛnɛalaafiannaaiyaalikulucɛrumanna,zaaŋwaari,taafɛ,fuunnabaabuyom.Deeabarasaritiyaduniɔubinɛgweiyasaramusiibayananzeeri,zeenɛnɔ,deebinɛaroobafɔkaanacinsaabuabaratilasinmaduwatɛɛmakodaama.</p>
+    <p>Weikunukweiyo,kooŋwɛɛrayogonnatɛɛmakonnakulayomdaama.Kookulukannahɛihiijebɔŋɔ,kadukanamnŋakanhɛihiijesibɔŋɔnnkulugonnakulayomdaama.</p>
+  </li>
+  <li>
+    <p>Bamɛigonnacouyomdaama.Couyomdimadukabaratilasifaalabɔŋɔzacoubugucɛɛnɛkakweisasawantɛyokammɛgweidendeniyomcoubugunŋacɛrɛhimanmafeeribamani.Coubugubeerinmanŋafeerinuŋukaahima.</p>
+    <p>Couyomdimabarahɛifɔkaamɔɔfeeriyomnnajirimanufidaamaduurihinigaamacisaabusuurunnakwaasitɛrɛmatɛɛdimiyonnaadiiniyobinnilaakarikaniyomnnawadaatamatɛbamɛisɛ.</p>
+    <p>Nyaannabaabɛgonnadaamanmacouyokanbaafisɔunkõyosɛ.</p>
+  </li>
+  <li>
+    <p>Bɔrɔkulugonnadaamaamawuroadimitaadakunakaahukumsi.</p>
+    <p>Bamɛigonnadaamataadayokunaamaakaayomtaagoliibaŋwaa;tilakaayomnɔ,ɔuhɔɔrɛtaagɔ.</p>
+  </li>
+  <li>
+    <p>Bɔrɔkulugonnadaamaamatɛhɛikakwaarannakwaarabinni,nuŋubirijiyommasi.Laakarikaniyomnnabɔŋɔmɛiyommogonozaŋakannabeiyanibɔrɔãduniyadaamatilakunaamadukabaramɔɔriyantɛ.</p>
+  </li>
+  <li>
+    <p>Bɔrɔgonnatilasiyozamanikakunaagono.Zamanidikakunaafɔlɔnkubɔrɔtɛrɛnnaajirimahinikatɛ.</p>
+    <p>Adaamannaabɔŋɔmɛiyomlooyomkunanɔsariyatikitɛasɛamaduwakobɔrɔcinniyodaamannanbɔŋɔmɛiyombeinsɛ.Macɛrɛsɛmogonobamɛisɛ.</p>
+    <p>Nsubahinikadaamannabɔŋɔmɛiyodilookanaciizaŋakayaasiãduniyakwaaradiyayomarigayomnaajisi.</p>
+  </li>
+  <li>
+    <p>Beiyaniyomwɔlooyomgasiriyafɔsiikaabanamkwaarafɔsusafufɔdeebinɛbɔrɔmatunukakɔɔnɛkoceejigãnnazamaamadaamaduurinnabɔŋɔmɛiyomdikandamtilakunasaabu.</p>
+  </li>
+</ol>

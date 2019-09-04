@@ -1,0 +1,122 @@
+<h1 align='center'>Mtul’katlku Wjit Koqwajo’taqann Mimajulnu’k Wejkuaqml’tlj</h1>
+<h2 align='center'>Preamble</h2>
+<p align='center'>Na Ke’sk kejitastkl wkpmlte’taqn lapjiw lame’k eykl aqq nkute’jklaqq mukislkaswl’kasinukl koqwajo’taqann wejku’laqml’tl mimajulnu’k na nekmewe’l elqanetekewe’l wjit alsumsimk, koqwaja’taqan aqq wantaqo’tl wsitqamu’k.
+Na Ke’sk penoqlte’taqan aqq esatite’tmaqan wjit koqwajo’taqann wejku’iaqmi’titl mimajulnu’k wetapeksi’kl elue’wuti’l ta’n msit wen poqwajite’tikl aqq wejkwite’tmk wsitqamu ta’n tett msit wen alsutk ta’n teluej aqq teli-ktlamsltasij aqq alsutk pmawsin keskmna’q we’kwata’sik kisna kewisinuk, na wla kisi tlapukuemk msit mimajulnu’k tliktantunew mawi espe’k.
+Na Ke’sk nuta’q ta’n tijiw ji’nm mu ketu’ kisa’lawt eliapsin mita kespiagewey, matneken, matnmn kestawite’taqan aqq emekwo’tasimk, na koqwajo’taqann wejku’laqmi’tl mimajulnu’k miamuj etli-ankwo’tasikl tplutaqaniktuk,
+Na Ke’sk nuta’q apoqonmatamn ta’n tela’matultljik eleke’wa’ki’l,
+Na Ke’sk msit mimajuinu’k naspultijik Mawalo’mi Eleke’wa’ki’l kisl wi’kml’tij alsutaqn Wi’katikniktukta’n teli-espite’tmi’tij iapjiw wikaqtekl koqwajo’taqann wejku’aqmi’till mimejuinu’k aqq wkpmite’taqan aqq ta’n teli espite’lmij mimajuinu’k aqq nkutey koqwajo’taqan wjit ji’nmukaqq e’pijik aqq kisite’tml’tij ktmoqjnmnew wejiwula’tekemk wjit mawio’mi aqq ajiklu’tn mimajuaqan wjit msit alsusutl,
+Na Ke’sk mstl eleke’wa’kl’lnastekl Mawio’mi kisi lui’tmasultijik toqlukwtnew Mawalo’mi Eleke’wa’ki’l, kisi-mawjukutinew, ktmoqjenmnew msit tami kepmite’tasiktn aqq klo’tasiktn ta’n koqwajo’taqann wejkul’aqmititl mimajulnu’kaqq asusuti ta’n msit wen ala’toq.
+Na Ke’sk aqq keknue’k msit wen nsitmn aqq nenmin wla koqwajo’taqannaqq alsusuti’l kwalaman kisitla’sitew ta’n tel lui’lmasultimkl,
+Na nike’ Mawio’ml Eleke’wa’ki’l telapukua’tijk:
+Wula Wtul’katikn wjit Koqwajo’taquann Mimajulnu’k Wejkuaqml’tij kisi mawi apoqntimu’k wjit msit mimajuinu’k aqq wjit msit elekewa’ki’l, kulaman msit wen aqq msit mawio’mi’l wsitqamu’k, klite’aq ta’n wjit welek, slawpukeltew mita kinamueten aqq sasa’tutisnu kulaman kepmite’tlsnu wula ta’nl wejku’aqmi’kl aqq ta’n telt alsomsuti’k aqq wejinu’kwalsulti’k ketlewa’tunen, wula kmitkinaq aqq se’k wmitkiwal, ketlewa’tunen ta’n telji’k wsitqamu kulaman nenasital aqq ketlamite’tasitql kilk wjit ta’nik nasupultijik wula mawlo’mi aqq ta’n tett te’s eleke’waki’l we’kwiaq aqq ta’n tett we’kwlaswieket.</p>
+<ol>
+  <li>
+    <p>Msitmimajulnu’kweskwijinu’ltijikalsumsultijikaqqnewte’tettwkpimte’tmutaqqkoqwajo’taqnnwejkul’aqmititl.</p>
+  </li>
+  <li>
+    <p>Msitwenwejku’awamitlmsitkoqwajo’taqannaqqalsusutl’lewikasiklwlaWi’kalikniktuk,ta’npasikwenij,ta’npasiktlamuksij,ta’npasikteli’sij,ta’npasikteliktlamistasij,ta’nketu’tlapukuej,ta’ntettwetapeksijkisnatelialsutekejta’nketu’tliweskwijinuijjisnata’nketu’tle’k.Aqqelt,ma’istutte’lmamentwenwjitta’ntelapukuej,kisnawjitta’ntettetli-ilsumuj,kisnaeleke’wa’kikta’nwejiejtlla’jnewtlpukuik,kisnaanko’tasikkisnanikana’tasik,kisnaetekta’npasikkoqoeyta’nkeltaqanjta’ntelisaqamawutik.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkul’aqmitkoqwajo’taqanwjitta’ntelmimajij,teli-alsumsijaqqtel-sankewe’kwen.</p>
+  </li>
+  <li>
+    <p>Ma’wenkisipisu’-lukwa’mitkisnakeltaqanuksik;keltaqanuksimkeweyaqqpisu’lukalmimkeweylpamaasite’tasinuk.</p>
+  </li>
+  <li>
+    <p>Ma’wenkisiwunmajo’tasikkisnaamaskwipilnuksikkisnaewlo’tasikkisnapenoqo’tasik.</p>
+  </li>
+  <li>
+    <p>Msitwenwejku’aqamitnenulte’tasinta’npasiktamiwjitta’nteliskwijinulttplutaqanikiuk.</p>
+  </li>
+  <li>
+    <p>Msitwennewte’telpukulttplutaqaniktukaqqwejku’awamit,keskma’qpiluite’tasinkisnatepkislte’lmuksin,newte’tli-ikaluksintplutaqaniktuk.Msitwenwejku’aqamitnewte’tli-ikaluksinkwlamanma’penoqo’tasikaqqmawenlistmukwlatelwikasikkisnaassitmukwenllistmlinaqqpenoqite’teikelin.</p>
+  </li>
+  <li>
+    <p>Msitwenwejku’awamitapoqomasutita’ntettetli-ilsutekemkwjitta’nteli-ewla’lujta’ntujiwkemutmujkoqwajo’taqannlapjiwwikaqteki,ta’niknmusntplutaqaniktukkisnaewi’kasikl.</p>
+  </li>
+  <li>
+    <p>Mawenwskimtukkisi-pija’luksik,kisnanaqeyuksikkisnaejikleyuksik.</p>
+  </li>
+  <li>
+    <p>Msitwenwejku’aqamitnewte’tl-nutuksinaqqtlo’tasinta’ntijiwilsumjinujlilsuteklitlta’nalsumsikaqqwelinqanilsutekek,ta’ntujiwilite’tasiklwkoqwajo’taqanmiaqqnatkoqoe’ltepkatiktla’tekenwen-aqqta’npasiktelsmutta’nteli-o’pla’tekej.</p>
+  </li>
+  <li>
+    <p>Ta’npasikwenelsu’tmutkisiopla’takenweskunkkoqwajo’taqantlite’tasinstaqanike’jmna’qteletekekismi’soqokisutasikketloqokisio’platekenaqqetlitlsumutta’ntettmsitwenkejitoqta’ntela’sikaqqta’nteliikalsitewiamujweskunk.</p>
+    <p>Ma’wenkisiilsumuksikopla’taketwjitkoqoeyta’nmutelwikasinuksipopla’tekemkta’ntijiwtela’tekejekkisnamutela’tekekek.Aqqmakisiajieplewi-apankitmukta’nteli-opla’tekejaqqta’nteli-apankitmumkista’ntijiwopla’tekejek.</p>
+  </li>
+  <li>
+    <p>Aqqma’wenkisitala’tuawtta’nteli-sankewe’k,kisnawikmaq,kisnawi’kk,kisnawtui-katikinn,kisnakisimatnmuawtta’ntel-kepmite’lmujkisnatelite’lmuj.Msitwenweskunkkoqwajo’taqanikatluksintplutaqaniktukkwalamanmuwenkisisesepta’sualminikisnaajina’mintwjitwlakoqoe’l.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkul’aqmitkoqwajo’taqanalsumsinta’nteli-ala’sijaqqta’ntettetlqatekejwmitkimk.</p>
+    <p>Msitwenwejkul’aqmitkoqwajo’taqankisi-nqitmneleke’waki’l,we’kawwmitkink,aqqkisiapaja’inwmitkimk.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkui’aqmitkoqwajo’taqannwjitta’ntelilnuij.</p>
+    <p>Wlakoqwajo’taqannmakisi-likasiwunta’ntujiwkisiopla’tekenkisnatela’tekenta’nmuwije’winukta’ntelltasult’tijaqqteliktlamsitasulti’tijMawio’miEleke’wa’kik.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkul’aqmitkoqwajo’taqannwjitta’ntelakutk.</p>
+    <p>Ma’wenkisiapija’tuaqta’ntelakutkkisnakisnaqa’lawtktu’sa’se’wa’toqta’ntelakutk.</p>
+  </li>
+  <li>
+    <p>Ji’nmukaqqE’pijikta’ntepipuna’tijikweskunmi’tijkoqwajo’taqannmalte’wultinewaqqwunijanultinew,ta’npasikketuta’nwenij,kisnatelilnuij,kisnateliktlamsitasij.Wejku’aqamulti’tijnewte’koqwajo’taqanmalie’wutiktuk,ke’skmalie’wijkisnapuna’tekej.</p>
+    <p>Kisi-malte’witaqwenikta’ntijiwkitktelpewatmi’tijaqqmuwenki’kajmalte’wa’lamint.</p>
+    <p>Wenwikmaqnawelikoqwajite’tasikaqqmawi-espite’tasikmawlo’mikaqqwejku’aqamitwenwikmaqikatmuksinmawlo’mikaqqEleke’wa’kik.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkuaqmitkoqwajo’taqannkisialsutminkoqoeynewtuka’lukwetkisnamawalalsuteken.</p>
+    <p>Ma’wenskimtukkisi-wusua’tuajta’nkoqoeyalsutk.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkul’aqmitkoqwajo’taqanalsutminta’ntelita’sij,teltktlamsilasijaqqta’nteli-alasutmaj;wlakoqwajo’taqanwiaqtekwenalsumsitsa’se’wa’tunta’nteli-alasutmajkisnatelikilamsitasij;aqqeltetekkoqwajo’taqannewtuka’lukwetkisnamawukwatsankewimajukatminkisnamestiaknutminta’nteli-alusutmajkisnateli-ketlamsitasijta’ntelkina’muetetlintawa’qatoq,telialasutmajaqqtelimajukatkta’nteli-alasutmatkisnateli-klamsitasij.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkul’aqmitkoqwajo’taqanta’ntelita’sijaqqta’nteluej;wlakoqwajo’taqaniktukwiaqtekwenta’ntelita’sijkesma’qwensespeta’sualmintaqqkisikwilmin,msinmnaqqiknmuetunkinu’tmaqanaqqankita’suaqanta’npasikmataqa’taqanewe’wkaqqta’npasiktett.</p>
+  </li>
+  <li>
+    <p>Msitwenikwejkul’aqmitkoqwajo’taqanalsumsultinewkisisankewi’mawita’newaqqkisi-mawo’ltinew.</p>
+    <p>Ma’wenkisiki’kajinasa’luksikMawio’mita’nmuketu’naspik.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkul’aqmitkoqwajo’taqankisi-ika’lsinta’nteli-nikana’tumkwmitkin,koqwajukisnamkunanta’niknikana’tu’tijta’ntele’kwmitkin.</p>
+    <p>Msitwenwejkut’aqmitkoqwajo’taqannewte’kistllukwenkaplno’lwmitkink.</p>
+    <p>Ta’ntelpewatmi’tijmimajuinu’knana’te’lwjiatewta’ntela’taqatijikta’niknikana’tu’tijeleke’wa’ki,aqqwlanemitasitewta’ntijlwmenaqajmekunujta’niknikana’tu’tijeleke’wa’ki,loqkimlapukwemkkisnanewte’teli-assutmukta’ntelimkunujta’niknikanpukultijik.</p>
+  </li>
+  <li>
+    <p>Msitwen,ta’nnaspitmawio’mi,wejkul’aqmitkoqwajo’taqanwjitotpi’tneweyaqqwejku’aqamit,sapa’siktnte’seleke’wakiatiknenkisnamawuktml’tijeleke’wa’ki’laqqtlawtitewta’ntelmilesikaqqtelpukulkte’seleke’wa’kisulteweykisnamawlo’mleykisnalnueykoqwajo’taqannta’nnuta’tlwjitta’ntelukupmite’lmujaqqta’ntelikwekta’nwentelqamisij.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkul’aqmitkoqwajo’taqankisilukwen,aqqkisimkunmnwktlukwaqan,aqqtetpapo’tasinta’ntettetl-lukwejaqqiknmuksinapoqonmasutikwlamankislukewtew.</p>
+    <p>Msitwen,mukisi,pilute’telmamint,wejkui’aqmitkoqwajo’taqannewtetliapankiluksinwjitnewteta’ntellukutl’tijik.</p>
+    <p>Msitwenta’nelukwetwejkul’aqmitkoqwajo’taqantetpaqiapankituksinkwlamanpkwatewwjitnekmaqqwjitwikmaqmimajuaqanteplaqwjitta’ntelukupmite’lmujaqqankuawtukomuksinaqqapoqnmuksinelamnuta’j.</p>
+    <p>Msitwenwejkul’aqmitkoqwajo’taqankisitunkisnanasa’sinlukewinu’kmawlo’mlwewta’nanklo’tmuatenta’ntele’k.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkul’aqmitkoqwajo’taqanwjitta’nteli-mila’sitaqqteliatlasmit,wlaqtektettkeknue’kta’ntelipkijlukwetaqqna’kwekliknumutlapankitasiklatlasminkisnaala’sin.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkul’aqmitkoqwajo’taqankisi-pkwatunmimajuaqanteplaqwjitta’ntelwele’kaqqtelwelawsitnekmaqqwikmaq,wiaqkitmumkmijipjewey,tapsunn,ta’nwikitaqqta’ntelmaliamutkesnukwajaqqkoqoeypilueyapoqonmasutinuta’j,aqqwejkul’aqmitlkoqwajo’taqannapoqonmuksinmukislukwek,kisnaksnukwaj,kisnaejele’k,kisnasiku’skewij,kisnakisikuljkisnamukisipkwatukwmimajuaqanmmitanatala’teket.</p>
+    <p>E’pitwunijanitkisnamijua’ji’jwejku’aqamitmaltamuksinkisnaapoqonmuksin.Msitmijuajl’jk,weskwijinultijikmalie’wimkkisnamoqo,newte’tli-anko’tasullilaq.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkut’aqmitkoqwajo’taqanwjitekina’masutimaawlinuk,amskweseweyaqqta’nnuta’q.Amskweseweyekina’masutlmsitwenmiamujwessua’toq.Ta’ntelitekemkaqqespikina’mutitettewwijitta’npasikwenketuksua’ten.</p>
+    <p>Ekina’masutitettewkwlamanmsitwenkisitle’tewta’ntelmenuekejaqqmikikna’tunta’ntelkepmite’tmau’klmimajuinu’kkoqwajo’taqnamualaqqalsusuti’ltapjiwki’setekl.Ekina’masutiktmoqjentewnsitatultinenu,tqamutatultinuaqqwela’matutlinumsiteleke’wa’ki’l,telakutimklaqqta’nteli-alasutmakl,aqqstawa’tewlukwaqanpemlukwatmi’tijMawio’miEleke’wa’ki’lwjitwantaqo’tlstawwije’wmnu.</p>
+    <p>Knki’kwinaqwejku’aqmitijwesko’tmi’tijnikantekkoqwajo’taqankisimkunmnewta’ntlkina’muatenwunijanuaq.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkui’aqmitkoqwajo’taqankisi-ika’lsinta’ntelo’lti’tijknutanminal,aqqkisiwekasinlukwaqaneynsituo’qon,aqqkisi-wekasinpileykoqoeykejitumkaqqwulapesin.</p>
+    <p>Msitwenwejkui’aqmitkoqwajo’taqanmaltaptmuksinkoqwaje’kaqqta’nwejikisitasikkoqoeywetapeksikkjijitaqaniktuk,wi’katikniktukkisnakisltasikkoqoeyta’nnekmkisa’toq.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkui’aqmitkoqwajo’taqankwlamantlwl-pmlatewkoqoeyta’nnekmwkoqwajo’taqannaqqwtalsusuti’mlewikasiklwlaWikatikniktukkisitla’sitl.</p>
+  </li>
+  <li>
+    <p>Msitwenwejkui’aqmitlkukwaqannwjitwutanmkwlamankisi’sitewta’ntelqamiksit.</p>
+    <p>Ta’ntelwekasijwenwkoqwajo’taqannaqqwtalsusulti’ml,msitwenmimamujpawije’wkltplutaqannta’nteli-asite’ljkwamanmsitwennenulte’tmuatenaqqkepmite’tmuatenwkoqwojo’taqannaqqwtalsusutl’mlaqqwijetulltalta’ntelnuta’qnsituo’qon,wantaqo’tiaqqkelu’lkwjitmsitwenwlateli-alsumsultijikmimajuinu’keleke’wa’kl’l.</p>
+    <p>Wlakoqwajo’taqannaqqalsusuti’lma’kisiewe’wasinuklpopwajilukwektnaqqta’ntelapukuekaqqtelite’tmumkipnMawio’miEleke’wa’ki’lwtui’katiknuaq.</p>
+  </li>
+  <li>
+    <p>MukoqoeywlakisiwikasikkisitlkitmuminttluekinEleke’wa’ki,mawio’mikisnamimajuinuwejkui’aqmijlkoqwajo’taqankisitla’tekenkisnakisitilukwenkoqoeyta’ntli-ksika’tutalkoqwajo’taqannaqqalsusuti’lta’ntettkisiwikasikl.</p>
+  </li>
+</ol>

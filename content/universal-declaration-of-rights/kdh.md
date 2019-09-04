@@ -1,0 +1,122 @@
+<h1 align='center'>Ɩrʊ́-dɛ́ɛ yíkowá-ɖɔ́ feríi-dɛ́ɛ fatɩma lɩzɩ́ɩ</h1>
+<h2 align='center'>Kabaazɩya</h2>
+<p align='center'>Á ɖɔ́ɔ́gbɔ́ɔ sɩsɩ ɩrʊ́-dɛ́ɛ kezéḿbiídi tɩjaarɛ́ɛ nɛ́ dɛ́ɛ tɩlɩ́ɩ tɩdamáána ɩráa na bɛdɛ́ɛ yíkowá ɖéyi-ɖéyi ńdɩ tɩdɛ́ndɛm nɛ́ kɛ́ɛ́na ɩrʊ́-dɛ́ɛ ɩdɩ yuú, na toovonúm, na fɛɛzɩrɛ ɖʊɖɔ dɛ́ɛ yuú,
+Á ɖɔ́ɔ́gbɔ́ɔ sɩsɩ ɩrʊ́-dɛ́ɛ yíkowá-dɛ́ɛ sɔ́ɔ́náa na kpɛɛnáa weeyéle yóóni wɔɔgɔná ɩráa-dɛ́ɛ laakárɩ kʊsɩ́ bɩka ɖʊɖɔ iiyélé ɩráa-dɛ́ɛ lomaazɛ́ waabɩ́sɩ wenbí bɩtɛ́ bɩlá boyuú ɖúúlinya wenkí kɩdaá ɩráa wónÿuú ɖáámá báŋmátɩ káma balɩ́ɩ fitíína na kadambʊrʊ́tɩ-daá nɛ́,
+Á ɖɔ́ɔ́gbɔ́ɔ sɩsɩ bɩgɛ́ɛ ɖóóle gɛ yíkowá-dɛ́ɛ kʊjʊʊ́ dɩnáa ifére ɩráa-dɛ́ɛ yíkowá káma bɩ́kábɩ́sɩ ɩrʊ́ ɖóóle ɩsɩ ɩkpɔɔná ɖóni iyooná ɩrʊ́-dɛ́ɛ imuuliɖé na ɩdɛ́ɛ yoḿti,
+Á ɖɔ́ɔ́gbɔ́ɔ sɩsɩ bɩmɔɔ́na ɖɩsɩná wenbí bɩtɛ́ bɩlá tɛ́ɛ́dɩwá-dɛ́ɛ ɖɔ́ndɩ́rɛ-tám ɩtásɩ bɩnyɔ́ɔzɩ nɛ́,
+Á ɖɔ́ɔ́gbɔ́ɔ sɩsɩ tɛ́ɛ́dɩwá-dɛ́ɛ mará baaŋmáa tákaraɖá balɩzɩ́ tɩ fatɩma sɩsɩ bánzɩnáa ɩráa-dɛ́ɛ yíkowá tɩjaarɛ́ɛ nɛ́, na ɩrʊ́-dɛ́ɛ kezéńbíídi, na ɩrʊ́-dɛ́ɛ gírímá, na aláa na abaaláa-dɛ́ɛ yíkowá-dɛ́ɛ ɖéyi-ɖéyi lám, bɩka ɖʊɖɔ bazɩŋɛ́ɛ sɩsɩ bánzɩnáa ɩráa-dɛ́ɛ bɩɩzán-daá boɖé na bɔnyɔ́ɔ́zɩ ɩráa-dɛ́ɛ cɔwʊrɛ fɛɛzɩrɛ-daá,
+Á ɖɔ́ɔ́gbɔ́ɔ sɩsɩ tɛ́ɛ́dɩwá tɩɩŋmáa tákaraɖá kɩna ɖɔ́ nɛ́ na tɛ́ɛ́dɩwá-dɛ́ɛ bɔwʊ́ɖɛ bánÿaá ɖɛ sɩsɩ Nations Unies waazɩ́m sɩsɩ bánzɩnáa wenbí bɩtɛ́ bɩlá ɩráa ɖúúlinya rɩ́ŋa-daá ɩfa ɩráa-dɛ́ɛ yíkowá na bɛdɛ́ɛ fɛɛzɩrɛ gírímá,
+Á ɖɔ́ɔ́gbɔ́ɔ sɩsɩ yíkowá tɩḿ na fɛɛzɩrɛ́ tɩḿ tɩdɛ́ɛ bala tɩ kʊ́ɖʊmʊ́ʊ kɛ́ɛ́na wenbí bɩ́tɛbɩlá báa weení ɩkpɔ́ɔ tɩ yíni nɛ́,
+Wenbá rɩ́ŋa bɔɔjɔ́ɔ baŋmáa bɔwʊ́tɩ tɩna nɛ́
+baazɩ́ɩ sɩsɩ: ɖúúlinya rɩ́ŋa bɔwʊ́tɩ tɩna tɩdamáána ɩráa-dɛ́ɛ yíkowá kɛ́ɛna kpɩ́ńɖɛ wenɖé ɩráa rɩ́ŋa na tɛ́ɛ́dɩwá rɩ́ŋa waalá tɩ́lasɩ ɩsɩ bofu nɛ́ káma ɩrʊ́ báa weení na zamɔ́ɔ báa wenkí baanɩ́ɩ bɔwʊ́tɩ tɩna nɛ́ bála konkárɩ́ basɩná balɩzɩ́ fatɩma yíkowá tɩḿ na fɛɛzɩrɛ na wɩlɩ́ɩ yáá bɛdɛ́ɛ bíya ketí-daá, bɩka bɩɩlá tɩ́lasɩ ɖʊɖɔ bacáárɩ badɩ ɖɛfɛɛ-ɖɛfɛɛ bɛdɛ́ɛ tɛ́ɛ́dɩ-daá yáá ɖúúlinya ríŋa-daá beyéle ɩráa ɩtɩlɩ́ bɩka bofu yɛ ɖéyi-ɖéyi-daá báa lénle, tɛ́ɛ́dɩwá wentí tɩɩva bɔwʊ́tɩwá tɩna toovonúm nɛ́ tɩdaá na tɛ́ɛ́dɩwá wentí tɩwɛ tɩdɛɛzɩ́ nɛ́.</p>
+<ol>
+  <li>
+    <p>Bánlʊrʊ́ʊɩrʊ́báaweenínakezéńbíídigɛbɩkabɛdɛ́ɛɖɔɔzɩ́tɩnayíkowákɛgɛ́ɛɖéyí-ɖéyígɛ.Bɔwɛnálaakárɩnaɩrʊ́tɩbɩkabɩɩbɔ́ɔ́zɩbɔcɔɔnáɖamákoobírecɔwʊrɛ.</p>
+  </li>
+  <li>
+    <p>Báaweeníwánbɩɩzíɩɖɛɛzɩnáyíkowánakezéńbííditɩwɛbɔwʊ́tɩtɩnatɩ-daánɛ́,bɩdakɛ́ɛnataazɩ́bɩdamáánatanʊʊ́yááalʊ́yááabaalʊ́yáákʊnʊmyááaɖííniyáákowurodɔ́m-dɛ́ɛlomaazɛ́yáácɔwʊrɛ-daáyááɩrʊ́-dɛ́ɛarizikíyááɩdɛ́ɛlʊrʊ́ʊ-jɔ́yááyáásíbáawenkí-daá.Bɩkaɖʊɖɔ,bɩdalákamaatataazɩ́tɩɩcɔ́ɔtɛ́ɛ́dɩmará-dɛ́ɛcɔwʊrɛ-daá,yáátɔ́mfʊ́ʊ́dɩ-dɛ́ɛcɔwʊrɛyáátɛ́ɛ́dɩnatɛ́ɛ́dɩwá-dɛ́ɛɖamá-daásʊʊ́-dɛ́ɛcɔwʊrɛyáátɛ́ɛ́dɩwentí-daáɩrʊ́waagálɩ́ɩ́nanɛ́.Báabɩɩlásɩsɩtɛ́ɛ́dɩtɩḿtiiyuútɩdɩyáátɩwɛnatɩ́rɩ-dɛɛzɩnɛ́,tɩdayúútatɩdɩyáátɛ́ɛ́dɩnatɩ́rɩwɛ́nbɛɛmɩ́kɔrɔɔzɩ́.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníwɛnayíkoiɖiɩdɛ́ɛɖúúlinya,kezéńbíídinabeféréɩdɛ́ɛalaafɩ́yacɔwʊrɛ.</p>
+  </li>
+  <li>
+    <p>Bádángbáanaárʊyoḿtiyáábɔwʊtálám.Beegízikpataayoḿtinayomáa-dɛ́ɛyám.</p>
+  </li>
+  <li>
+    <p>Badánlámnaárʊɖeciriɖiyáábanáázɩyɩyáábaláyɩwenbíbɩdamɔɔnábaláɩrʊ́nɛ́yáábaŋmɩ́ɩ́zɩyɩ.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníwɛnáyíkobatɩlɩ́ɩdɛ́ɛɩrʊ́tɩnaɩdɛ́ɛtɩlasɩwábáalénle.</p>
+  </li>
+  <li>
+    <p>Ɩráarɩ́ŋakɛ́ɛɖéyí-ɖéyígɛmará-jɔ́bɩdakɛ́ɛnataazɩ́nabɩ́nbɔɔzɩ́bekétiɩráaɖéyí-ɖéyíbɩdakɛ́ɛ́nataazɩ́yáánawenbíbɩyaavóomaráawɛbɔwʊ́tɩtɩnatɩdaánɛ́.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníwɛnayíkoiyélebɔnyɔ́ɔ́zɩbafʊ́ʊɩdɛ́ɛtɔ́mtɛ́ɛ́dɩ-dɛ́ɛtɔ́mvʊʊráa-jɔ́abɩgɛ́ɛsɩboomúúliyɩbɛlɛ́ɛɩdɛ́ɛyíkowáwentímaráwaavayɩ.</p>
+  </li>
+  <li>
+    <p>Bedengbímnaárʊbɔtɔyáábalɩzɩ́yɩtɛ́ɛ́dɩbɩdɛkɛ́ɛnaseríyanakɩ́rɩ.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníwɛnáyíkotɔ́mvʊʊráabɔwɛbadɩnɛ́yáágómínantɩɩnɩ́ɩɩdɛ́ɛtɔ́m.Bɩkabaláwenbíwánjáádɩnɛ́ɖéyí-ɖéyí-daáyáázamɔɔ-daá.Bɩlɛ́bɩnáásɩsɩbabɩ́ɩ́zɩbetísibecéléyɩɩdɛ́ɛyíkowáyááwenbíbɩɩláɩdɛ́ɛtɩ́lasɩnɛ́yááwenbíbɩ́nbɩɩzɩ́bɩlɩzɩ́yɩtɔ́m-daánɛ́.</p>
+  </li>
+  <li>
+    <p>Bɩdɔbɔ́ɔ́zɩbakpaɩrʊ́báaweenígɛboobuunátɔ́mbɩdamáánakideevééniti-dɛ́ɛlámnɛ́,hálɩbafʊʊnáyɩbɩláɖacɩrɩ-cɩrɩsɩsɩwaaláwenbíbómbuunáayɩnɛ́.</p>
+    <p>Bɩdɔbɔ́ɔ́zɩbakpanaárʊsɩsɩwaalábideevébɩkasáátɩwenkíbɩdɛ́ɛlakásɩwaalánɛ́,tɛ́ɛ́dɩyááɖúúlinyayíkodɩnáabɛɛ́nasɩsɩbɩdakɛ́ɛbideevé.Bɩdɔbɔ́ɔ́zɩɖʊɖɔbamɩ́lɩɩnɩgbamʊʊ́bɩcɛzɩ́maráweenábaazɩ́ɩzaamáánɩwenkíwaayɩ́sɩnɛ́.</p>
+  </li>
+  <li>
+    <p>Bɩdɔbɔ́ɔ́zɩnaárʊɩsʊ́ʊɩrɔwʊ́,yááɩlɛ́ɩdɛ́ɛkoobíreyááɩlɛ́ɩdɛ́ɛɖáánayááɩlɛ́ɩdɔndɩnáa-dɛ́ɛtɔ́m-daánaiwenbirésɔɔlɩ́myááɩláwenbíbɩtɛ́bɩfɔrɔ́sɩɩrɔwʊ́yáábitisiɩlɛ́nɛ́.Ɩrʊ́báaweeníwɛnáyíkomaráiféreɩrɔɔzɩ́nabɩdɛ́ɛkɔrɔmɔ́tɔnawenbísɩbɩfɔrɔ́sɩyɩnɛ́.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníwɛnáyíkoikíliyááɩlɩzɩ́lénléɩzɔɔlɛ́ɛsɩɩcɔ́ɔɩdɛ́ɛlaadɔ́ɔ-rɔnɛ́.</p>
+    <p>Ɩrʊ́báaweeníwɛnáyíkoɩlɩ́ɩlaadɔ́ɔbáawenká-daábɩkpɛdɩ́naɩdɛ́ɛlaadɔ́ɔbɩkaɩkábɩsɩkadaáɖʊɖɔ.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníábɩgɛ́ɛsɩbaláyɩdeciriɖi,ɩwɛnáyíkoɩcáabɩkaiyuúyaajɔɔzɩɖɛ́laadásɩsɩɩganáa-daá.</p>
+    <p>Ɩráawenbábaajáabaranáatɔ́myáábadanʊmnábɔwʊ́ɖɛbaayááɖɛsɩsɩNationsUniesnɛ́-dɛ́ɛmaráyááwenbíbánjáádɩnɛ́tɔmɔɔnáboyuúyíkowáwentíɖááŋmátɩnɛ́-dɛ́ɛalɩbáráka.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníwɛnáyíkoiyuúɩdɛ́ɛtɛ́ɛ́dɩbíídi-dɛ́ɛtákaraɖá.</p>
+    <p>Bɩdɔbɔ́ɔ́zɩbekíziɩrʊ́tákaraɖáfáawenbirésɔɔlɩ́mrɔɔzɩ́yáábekízíyisɩsɩɩkɛ́kɛ́ɛtɛ́ɛ́dɩbííditákaraɖá.</p>
+  </li>
+  <li>
+    <p>Alʊ́naabaalʊ́wenbábaadálasáárɛnɛ́wɛnáyíkobɔkpɔ́ɔɖamábɩdakɛ́ɛnataazɩ́tɩdamáanatanʊʊ́yáátɛ́ɛ́dɩyááaɖííni.Alʊ́naabaalʊ́wɛnáyíkowáɖéyí-ɖéyíwenbíbɩdamáanahiiyeyáákɩdɛ́ɛcɔwʊrɛyáákɩdɛ́ɛtarɩ́ɩ-daánɛ́.</p>
+    <p>Bɩgɛ́ɛtɩ́lasɩgɛɩráaɩŋmátɩbanɩ́ɩɖamánaanɩ́nábaláhiiye.</p>
+    <p>Koobírekɛ́ɛ́nazamɔ́ɔ-daá-dɛ́ɛkpɩ́nɖɛwenɖéɖɩjaarɛ́ɛnɛ́,bɩlɛ́bʊrɔɔzɩ́nɛ́,bɩɩlátɩ́lasɩzamɔ́ɔyáátɛ́ɛ́dɩiféreɖɩrɔ.</p>
+  </li>
+  <li>
+    <p>Bɩ́nbɔɔzɩ́ɩrʊ́báaweeníɩjɔɔ́irikénɛ́yáázamɔ́ɔ-daánɛ́iyuúɩcɔ́ɔɖacɩrɩ-cɩrɩ.</p>
+    <p>Bɩdɔbɔ́ɔ́zɩnaárʊɩbɛ́ɩrɔwʊ́-dɛ́ɛɖácɩrɩ-cɩrɩtɩ.</p>
+  </li>
+  <li>
+    <p>Báaweeníwɛnáyíkoɩmáázɩyááɩkunálaakárɩɩdɩɩrɔɔzɩ́yááɩláɩdɛ́ɛaɖííni,bɩlɛ́bɩgɛ́ɛnásɩsɩwánbɩɩzɩ́ɩkɛ́ɛaɖííniáɩzɔɔlɛ́ɛ,yááɩdɛ́ɛwénbiréfúúleyááɩwɩ́lɩsɩsɩmɔ́ɔ́mɛ́dɛ́ɛaɖííninɖɔ́yááiwenbiréfúúle.Wenbíbɩrɩ́ŋaɖáádɩɖɔ́nɛ́,ɩrʊ́wánbɩɩzɩ́ɩlɩzɩ́yɛfátɩmayááɩsɩɩnáyɛɩdɩyáázamɔ́ɔwɩlɩ́ɩ-daáyáálám-daáyáábɔwʊ́tɩ-daáyáásɔ́ɔ́zɩ-dɛ́ɛlám-daá.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníwɛnáyíkoɩlábayáánaɩdɛ́ɛlomaazɛ́yááɩŋmátɩwentítɩváayɩnɛ́,bɩnáasɩsɩbɩdabɔ́ɔ́zɩɩrʊ́ɩnyɛ́sɩɩlɩzɩ́ɩdɛ́ɛlomaazɛ́nɛ́yááɩdɛ́ɛsɩɩcáayááiyuúlaabáárʊyááɩlábayáanabáalénlélaabáárʊkɩḿyáálomaazɛ́nanɩ́báánɩrɩ́ŋakpátáálaabáárʊwánbɩɩzɩ́kɩbanakɩtalaɩrʊ́nɛ́.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníwɛnáyíkoibókediiziyazamɔ́ɔ-daábɩkaɖʊɖɔɩwɛnáyíkoɩcɔ́ɔzamɔ́ɔ-daá.</p>
+    <p>Bɩdɔbɔ́ɔ́zɩbamɩ́lɩnaárʊnʊ́ʊnɩsɩɩ́sʊ́ʊbɔwʊ́ɖɛnaɖéré-daá.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníwɛnáyíkoɩsɩnáɩdɛ́ɛtɛ́ɛ́dɩ-dɛ́ɛketíyááɩbanánɛbɛ́rɛbaalɩzɩ́wɛzamɔɔ-daánɛ́bɩdɛkɛ́ɛnaɖóóle.</p>
+    <p>Bɩmɔɔ́natɛ́ɛ́dɩbúbáaweení,ásɩbɔkpɔ́ɔyɩtɩmɛ́rɛɩdɛ́ɛtɛ́ɛ́dɩ-daá,bofumaráɖéyí-ɖéyíńná.</p>
+    <p>Tɛ́ɛ́dɩbíya-dɛ́ɛwénbiresɔɔlɩ́mkɛ́ɛnabɛdɛ́ɛboyuútɛ́ɛ́dɩ-dɛ́ɛkétí-dɛ́ɛkabaazɩya,tɛ́tɛ́tɔ́ɔɩláɖacɩrɩ-cɩrɩwenkíkɩɩlákamaatabalátɩfatɩmaɖamá-rɔbɩkabɩláɖéyí-ɖéyí-daáyáámʊ́sɩrɛ-daáyáánɩ́báánɩnatɩ́rɩtɩdamáánatɩnanɛ́nawenbíbɩtɛbɩlátɛ́tɛ́ɖéyí-ɖéyí-daáwaalákamaatakɩwɩ́lɩwenbirésɔɔlɩ́mkɩḿ.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníɩwɛɩráa-daánɛ́wɛnáyíkoɩráawenbábadaáɩwɛnɛ́beféreɩrɔɔzɩ́.Bɩɩlátɩ́lasɩɩbɩ́ɩ́zɩiyuúarizikí,zamɔ́ɔnataáɖɛwádɛ́ɛyíkowentítɩdamáanaɩdɛ́ɛɩrʊ́tɩnɛ́naɩdɩtɩŋaɩdɛ́ɛbɩ́ɩ́zán-daábodé;bɩɩlɩɩnátɛ́ɛ́dɩ-daá-dɛ́ɛkookárɩnaɩdɛ́ɛɖúúlinya-dɛ́ɛcɔwʊrɛbɩdamáanatɛ́ɛ́dɩ-dɛ́ɛyíkowánɛ́.</p>
+  </li>
+  <li>
+    <p>Bɩ́nbɔɔzɩ́ɩrʊ́báaweeníɩlátɩmɛ́rɛyááɩdɩtɩŋaɩlɩzɩ́ɩdɛ́ɛtɩmɛ́rɛɖéyí-ɖéyí-daákámabɩ́káláɩcɔ́ɔbɩkatɩmɛ́rɛfɛ́yɩ́.</p>
+    <p>Bɩmɔɔ́nabarɩ́ŋabɔwɛnáfɛrɩ́tɩɖéyí-ɖéyíábɩgɛ́ɛbaalátɩmɛ́rɛbɩdakɛ́ɛnatarɩ́ɩ.</p>
+    <p>Weeníɩrɩŋawánlámtɩmɛ́rɛnɛ́,bɩɩlátɩ́lasɩiyúufɛrɩ́tɩɖéyí-ɖéyíńɖɛwenbíbɩ́tɛbɩláɩbɛ́ɛ́mɩɩdɛ́ɛkoobireɖéyí-ɖéyí-daánɛ́yááwenbírɩ́ŋabɩ́nbɩɩzɩ́biférebɔrɔɔzɩ́nɛ́.</p>
+    <p>Ɩrʊ́báaweeníwɛnáyíkoɩsʊ́ʊbɔwʊ́ɖɛyááɩsɩnábɔwʊ́ɖɛwenbíbɩ́tɛbɩláboyóobeférebadɩbɔrɔɔzɩ́nɛ́.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníwɛnáyíkoiyuúfɛɛzɩrɛyááamʊʊzɛ́yáábɛfɛ́rɛyɩtɩmɛ́rɛ-dɛ́ɛleerí-dɛ́ɛfɛrɩ́tɩɖéyí-ɖéyíńɖɛyáátɩmɛ́rɛ-daá-dɛ́ɛnɩ́baawʊsʊlʊ́ʊ-dɛ́ɛyíko.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníwɛnáyíkoiɖibɩtáláyɩnabiféréɩdɛ́ɛalaafɩ́ya-rɔyááɩdɛ́ɛalaafɩ́yacɔwʊrɛɩnaigoobírewenbíbɩɩlábɩ́kíɖiimyáákúsúúdiyááyaaɖooɖɛ́yááɩdɛ́ɛalaafɩ́yabɛɛmɩ́naɩdɛ́ɛzamɔ́ɔ-daácɔwʊ́ʊ.Bɩ́nbɔɔzɩ́beféréɩrɔɔzɩ́ábɩgɛ́ɛɩdoyuútatɩmɛ́rɛyáákʊdɔḿwáágba-yɩyááɩgɛ́ɛmadafɩ́yayááweeníɩɖɛɛlʊ́yááɩwaalʊ́waazɩ́nɛ́yááweeníwaalákʊ́bɔnɩ́yááweeníwɛɛbɛ́ɖɩɩdɛ́ɛárisikínɛ́bɩdɛkɛ́ɛnaɩzɔɔlɩ́m.</p>
+    <p>Wenbábɛ́wɛlʊrʊ́ʊ-dɛ́ɛsáátɩ-daánɛ́nabíyakúmúwáawɛnáyíkobasɩnáwɛ́.Búbáaweeníbaalʊ́rʊ-yɩhiiye-daáyááhiiyewɔ́rɔ́nɛ́mɔ́ɔ́nabeférebarɩ́ŋabɔrɔ.</p>
+  </li>
+  <li>
+    <p>Bɩ́nbɔɔzɩ́báaweeníɩcáatɩlɩ́ɩ.Tɩlɩ́ɩcáádɩwaalátɩ́lasɩkɩláfaala.Báatɩlɩ́ɩcáádɩrɩ́ŋataláfaala,bɩɩlátɩ́lasɩbíyakúmúwáadɛ́ńgɩɩláfaala.Bíyakúmúwáa-dɛ́ɛwɩlɩ́ɩkɛ́ɛ́dóólegɛ.ɩzámʊ́sɩ-dɛ́ɛtɩlɩ́ɩcáádɩwaalátɩ́lasɩbáaweeníibóɩlákɩ.Bɩ́nbɔɔzɩ́búbáaweeníɩbɩ́ɩ́zɩɩbólɔwʊ-lɔwʊńgɩábɩgɛ́ɛweeɖiiyuúwenbíbínbɔɔzɩ́nɛ́.</p>
+    <p>Tɩlɩ́ɩcáádɩwaalátɩ́lasɩbɩkakiyélebáaweeníɩcɔ́ɔɖúúlinya-daáiyuúɩdɩbɩkakiyéleɩráarɩ́ŋaɩtɩlɩ́ɖamá-dɛ́ɛyíkowá-dɛ́ɛgírímánabɛdɛ́ɛkezénbííditɩjaarɛ́ɛnɛ́.Bɩ́nbɔɔzɩ́kɩsɩnáwenbíbɩdamáánaɩráa-dɛ́ɛbaŋmátɩbanɩ́ɩɖamánɛ́,nabɛdɛ́ɛɖamácɛ́m,nanyɔɔzɩ́tɩbɩdamáánatɛ́ɛ́dɩ,bɔwʊ́ɖɛwánaaɖííniwá-ɖɛ́ɛɖamá-daásʊʊ́naɖʊɖɔkɩsɩnátɛ́ɛ́dɩ-dɛ́ɛbɔwʊ́ɖɛbaayáaɖɛsɩsɩNationsUniesnɛ́-dɛ́ɛtɩmɛ́-dɛ́ɛbɩɩzá-daábode.</p>
+    <p>Caanáawɛnáyíkobaɖubebíyatɩlɩ́ɩcáádɩwenkíbɔzɔɔlɛ́ɛnɛ́.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníwɛnáyíkoifuɩráawenbáɩzɔɔlɛ́ɛnɛ́,iɖibɛdɛ́ɛnʊ́ʊ́zɩtɩmɛ́rɛ-dɛ́ɛanfaanɩ́wá,bɩkaɩsɩná-wɛtɩlɩ́ɩkɩ́fatɩ-dɛ́ɛcáádɩ-daánaiyuúbɩdɛ́ɛanfaanɩ́wá.</p>
+    <p>Báaweeníwɛnáyíkobekétiidɛ́ɛkpɩnánaɩdɛ́ɛɩrʊ́tɩ-dɛ́ɛhákiwábɩdamáánaɩdɛ́ɛkpɩnákɩ́falalám,naɩdɛ́ɛtákaraɖáwáwaaŋmáanɛ́naɩdɛ́ɛnʊ́ʊ́zɩtimɛ́rɛɖʊɖɔ.</p>
+  </li>
+  <li>
+    <p>Ɩrʊ́báaweeníwɛnáyíkoiyélebofumarányazɩyíkowánakezénbííditɩwɛbɔwʊ́tɩtɩnatɩ-daánɛ́bɩdamáánazamɔ́ɔyááɖúúlinyarɩ́ŋanɛ́.</p>
+  </li>
+  <li>
+    <p>ɩrʊ́báaweeníwɛnáwenbíbɩɩbɔ́ɔ́zɩɩlázamɔ́ɔwenkíkɩ-daáɩdɛ́ɛceré-cerékɔwɛnɛ́.</p>
+    <p>Bɩɩlátɩ́lasɩɩdɛ́ɛyíkowá-dɛ́ɛfúúlenaɩdɛ́ɛwánnɩɩ́niíninaɩdɛ́ɛkezénbíídi,ɩ́tɩlɩ́sɩsɩbɩdɔmɔɔnáɩfɛ́lɛtɛ́ɛ́dɩ-dɛ́ɛmarákámabáaweeníiyuúɩtɩlɩ́naɩfaɩráa-dɛ́ɛyíkowánakezénbíídi-dɛ́ɛgírímá.Naɖʊɖɔ,bʊdʊ́ʊɩbɩɩzɩɩfatɛ́ɛ́dɩnaɩrʊ́báaweeni-dɛ́ɛcɔwʊrɛniínigírímábɩdamáánazamɔ́ɔwenkí-daábáaweeníwɛnáɩdɩnɛ́.</p>
+    <p>Bɩdɔmɔɔnáyíkowánakezéńbííditɩḿtɩlɩɩnátɩ́ndɩnawenbílaadásɩ-dɛ́ɛbɔwʊ́ɖɛbaayáaɖɛsɩsɩNationsUnieswaaŋmáabasɩ́ɩɩsɩbánʊmnáatɩrɔnɛ́.</p>
+  </li>
+  <li>
+    <p>Bɩdɔbɔ́ɔ́zɩnaárʊɩkɛ́ɛzɩmaráanaadɛ́ɛnabʊ́rʊnyazɩwenbíbɩdamáánatɛ́ɛ́dɩyáátɛ́ɛ́dɩkʊjʊʊ́dɩnáayááɩláwenbíbɩtɛbunúúdiyíkowáyáákezénbíídi-dɛ́ɛtɔ́mtɩwɛtákaraɖákɩnakɩ-daánɛ́.</p>
+  </li>
+</ol>

@@ -1,0 +1,122 @@
+<h1 align='center'>NSA‘ NGA NJÚ TE PA MFÉÉ KÊT MÚN NYÜTU</h1>
+<h2 align='center'>NJÚE ME SHÚKÉT</h2>
+<p align='center'>Lo’ te ka kúmshe nga wûme, yúe a njit ne gú púen te ngúet púen nyütu pua pa mféé kêr’ap ngúenengúe sebe, pe na yire mbe map(ureyúe’ne) kú ghét ngam pua sappé ne fúeshe te njú na, lo’ te ka fét kwen pua tâne pa mféé kêt mún nyütu kpa’ nkiére gû ngétne nga pâre yúe a mfiébe
+Wupme pa te njú na, pua ka tuo tuo njú mfé ira yúe púen nyütu ntuo pe ne kú shúkét pua kú wûshe te túm túme puô pua ngúe’, shi na mbe pô yi nsa’ me pum yu sha’ múm nyütu na,
+Lo’ te ka a nta’ mi pa mféékêt mún nyütu kpa’ mbe yu shî te nsa’ngu mféékêt me shi’ mi a me yétne yi njit mún nyütu me ndînî ne pi’ tu te nsa’kpen pua yit mún te ngu na,
+Lo’ te ka a ntá suo nshi’ shâne sun ma fâne túm túm ma,
+Lo’ te ka, te mâ kèn, túm túm te nda shut ngu ngu mbône kpa’ mbit nféére pemtú yap te map map mféékêt mún nyütu, lo’te wûme pua nga’két mbe mún nyütu, te ngúenengúe pa mféékêt pemba pua pemgbié mbi pit nsa’ ndîshut te yi ndùere tam kut te wume la’ pua yi mféére fuomkét fuomkét mmanjé wume te ndà lône kú ghét ngam ma.
+Lo’ te ka gû nsa’ ngu ngu kpa’ nsèn te pamme mbuo pua nda nshùt ngumbône, yi mbe ngum nshin pa mféékêt mún nyütu pua map map kú ghét ngam ma,
+Lo’ te ka yi nyéte mbuomshe shire shire pa mféékêt pua pa kú ghékét ngam pe na pô nga ngûre te yi ngûre yire yi gbèt kèn nsebe na,
+Puomshe Mbadem mún
+nâ tupshe yire yi nsa’ nga njú, ti pa mféékêt mún nyütu, po yúe wupme ndi nshur’úe a nta’mi gû túm túm pua ngu ngu yétne yi ngum pô nshin na, me shi’mi gû púen ne gû pe kpúére pûen te la’, yúe pe nshüshü’ yire yi nsa’ ngam me wupme na, pe ne ma’si’ te yu lére puo kúú wupme, a yétne fa pé, lo’te ndi ngam membéte, túm te ngu ngu pua fâne ngu ngu, lo’ te kúmshe pua shétte te ngétne nga mbône mún nsebe ngúe ngúe me rü pa te ngu ngu nda shút puonepuo pua fâne nsié ngu ngu shúe pe nsa’na.</p>
+<ol>
+  <li>
+    <p>Penâmvégúpuennyütupôtembekúghétngampuangúenengúembetewûmensebepuapamféékêt.Penântúmtembekúremngampuafabshengam,anshinjîr’apneyinshânengétnengashappôtewupmepontâ.</p>
+  </li>
+  <li>
+    <p>Nshiémúnyétneyingétkúṅwettegûpamféékêtpuakúghétngamtúmteyireyinsa’nganjú,shimshiénsèntemetúm,mengup,mesù,meshùket,menganyinyi,mendantaṅ,kémo’nshiéwupmetúmlo’tela’kélo’tefânepúen’e,lo’tenkap,lo’tevékélo’temo’nshiémbe.Mo’nkénshiénsèntentapndo’tèr’imo’ngâshitemgbètentaṅ,mgbètekènkémgbètefânetúmtúmngukésângumúmnyütu,payúeyirengukésângumbeneshûtuna,nshinnsa’mo’nguna,shipenekúghétngamkémbepônepâsheshútuna.</p>
+  </li>
+  <li>
+    <p>Nshiémúnnyütughétmféékêtwume,mféékêtkúghétngampuamféékêttènntúúmwumetembemi.</p>
+  </li>
+  <li>
+    <p>Mo’nshiémúnntapndo’pe’imkpènkétembefa’kpènne,mengakâkpènpuantènkpènkakpa’njiékèntegûmbemapmentènna.</p>
+  </li>
+  <li>
+    <p>Mo’nshiémúmnyütuntapndo’pi’kwete’ingúe’menduwan.</p>
+  </li>
+  <li>
+    <p>Nshiémúnghétmféékêtwûmentunténipuenkèntegûli’mentèn.</p>
+  </li>
+  <li>
+    <p>Gûpúenkpa’nambepôngúengúemesùkènmbipitngékétmféékêtshinsèntembetekakènntúe’shewapngúenengúena.Gûyapghékétngúenengúemféékêtntúe’shemeshi’yinkú’ranamiyúeantepensùeneyirensa’ngamma,mo’nkéyétneyinènnshiérôneyúeansüsherane-mina.</p>
+  </li>
+  <li>
+    <p>Nshiémúnpuanemféékêtyimfaṅwer’itugûndasa’nguyúeayétneyimfèr’itemapmappamféékêr’itúmtemâkènkékènngu.</p>
+  </li>
+  <li>
+    <p>Nshiémúnmânjetne’iyimbeyuvétekûtúmo’mún,kéyimshüshü’i,kéyintûme’itengu.</p>
+  </li>
+  <li>
+    <p>Nshiémúnnyütughétmféékêt,ngúenengúensebe,nekapenjetneyinju’mbie’nesa’shimendôngúeretendasa’shûtushingarane-mintúúmṅayùepentuolisa,tupshepamféékêr’ipuakêr’ina,kéyintupshemgbúsa’shiyúeantuosuo’inesa’na.</p>
+  </li>
+  <li>
+    <p>Nshiémún’úepensôme’ina,pumnambendi’pôngâgbúsa’,kúkakènki’renguokwetemgbúsa’shitendasa’,mendôngúere,ṅayúeloyanjétneyimfèr’ipôkérina.</p>
+    <p>Pentapndo’suo’isa’ndunnshiémún,lo’tengékétpuashushighetkéshushirié,fú’yiékaandi’pôfubkèntúmtekènnguke’kennjúmansié.Mo’nkéshipembi’ndo’njapnsuosa’ndunmúnàrétnja’yúeapembitémbeyimgbètetefú’fubkénna.</p>
+  </li>
+  <li>
+    <p>Nshiémúnyiéndi’yúependo’mbembib’ineyilo’nyîtengawumeshiyi’she,panshutnda’i,li’shu’ikélérewashi,shiṅúshentuntémipuangétnengashiyimbôkét.Nshiémúnnyütughétmféékêttúe’shelo’puokénmeshi’yinküyúepembembib’ikéyimbeṅùshe’ine.</p>
+  </li>
+  <li>
+    <p>Nshiémúnnyütughétmféékêtghétkúyinkétneneyinsho’li’shu’i(nka’shi)tenshiéngu.</p>
+    <p>Nshiémúnnyütughétmféékêtyintúmnshiéngu,mbûngu’i,mbitnkùnjétneyimbùtnentúúm.</p>
+  </li>
+  <li>
+    <p>Tekapembenta’vémúnna,mbûighétmféékêtyinta’li’kebkebembit,nkúkweteli’kebkebeteshimo’ngu.</p>
+    <p>Yireyimféékêtndi’yuriétepavévéyúemúnghétpüüngûrena,kétengétnengayúeandi’yùnipuansa’nganjúmansiéna.</p>
+  </li>
+  <li>
+    <p>Nshiémúnnyütughétmféékêtyimbentúmsiéndîla’.</p>
+    <p>Andiyétnineyúepenkuotntúmsiéla’puomún,kéyúepenkuotmféékêtyikupshentúmsiéla’pue’inâ.</p>
+  </li>
+  <li>
+    <p>Lo’telúmli,membâpomemgbiénghétkétmféékêtyindâmembitnjétneyinsènngùetmún,shitiénto’nengatúm,ngala’púenkénganyinyipúenne.Peghétkétnamféékêttelampôngùenengùe,lo’tewumelampuafú’yiékapeṅolamma.</p>
+    <p>Kutlamshunapôtendînshutpuapéémepè’ghâyindâme.</p>
+    <p>Ngúetmúnpuankimapmbademmúnlo’femnshinmo’nkémbighétmféékêtkweteshilo’puombademmúnpuansa’ngu.</p>
+  </li>
+  <li>
+    <p>Nshiémún,yi’shekémerüpùenne,ghétmféékêtghétkûyiyúm.</p>
+    <p>Pemânjétnîyinvémúnnkuotkûyu’i.</p>
+  </li>
+  <li>
+    <p>Nshiémúnnyütughétmféékêtkúremngam,yi,nenganyinyi;yireyintupsheyingétkúkupshenganyinyikéghétkúghétnganyinyiyi’shekétepuomshemendôngúerekémelúemshe,lo’teyulére,gûngéri,fangûrenenyinyipuaghétgûmgbètentuotnganyinyi.</p>
+  </li>
+  <li>
+    <p>Nshiémúnpuanemféékêtghétkúghétwupmeneyinshúkére,yireyintupshemféékêtyimbeshiyétneyikwetenkamkétngammeshi’gûwupmeshinemféékêtyinjétneyinta’yinkwetembitnsamgûpesa’kúepuawupmetenshiémanjéyinsâme.</p>
+  </li>
+  <li>
+    <p>Nshiémúnpuanemféékêtghétkúghétpuomsheneghétndanshútpuomshetefùeshe.</p>
+    <p>Pefapeyiéyîrimúnipemúnndapuomshe.</p>
+  </li>
+  <li>
+    <p>Nshiémúnghétmféékêtyinshâretésùtepesa’kúenpangu’i,kémemúnnténe,kénjempúenpúepesha’shshna.</p>
+    <p>Nshiémúnghétmféékêtyingétntuntétensa’ngu’ilo’tengúenengúembgètekènyikwete.</p>
+    <p>Kûntúpatengupenayirembemeyùe’ne(to’she)nepâwansa’ngu.Yireyikûntúúmpenâyitkéritenshôshîpôlo’teshisho’nzènkéttegûperapfù’,ṅèrenshiémúnsho’yingúengúeyiémomap,melúemkéyúepensho’mo’nzaféénîshiyîtmúnmbena.</p>
+  </li>
+  <li>
+    <p>Nshiémún,merülalapatengu,ghétmféékêtyimbenetènntúúmwumembnemún.Anâtètngâshilo’teyikwetelúúmntúúmpamféékêtshüshü’mbètpam,fânepúentela’nengayintuetpúenyúeankpa’shenjittengawûmeshina,puangalúerepúntentuntémina,lo’tema’si’ngupuashânewumengungu,mbenjùe’netengayinshshenengambètpamnshiéngu.</p>
+  </li>
+  <li>
+    <p>Nshiémúnnyütughétmféékêtfa’,kúsho’fa’shi,lo’temgbétefa’yùeapuayighapshengúengúeneshîrelemtúúmpuayinènmanjénengashundemna.</p>
+    <p>Gúpùenghétkétmféékêtngúenengúepéétengúenengúefa’shiranemimbe.</p>
+    <p>Nshiéngâfa’ghétmféékêtpééapeyétnimbitmbeyishîrentúúmmbenshâre’ipuangùr’itewumeyúeayùnepuawûmendunmúnnyütuna,nzîshîpeyimbenshampamebú’reteshimo’mmanjéyiékaantânena.</p>
+    <p>Nshiémúnghétmféékêtyinjùpndanshùttùe’sheséémbétpampuashimo’pùenmbipitnjétneyinyiteshireshúendashùtmeshi’tùe’shesééshi.</p>
+  </li>
+  <li>
+    <p>Nshiémúnghétmféékêtgbùneṅwetpuapafônefú’ndemntammepékétmgbètefú’fa’nengabngab’úeapuayipééteperapfú’na.</p>
+  </li>
+  <li>
+    <p>Nshiémúnpuanemféékêtkwetentuntéwumenjétneapeyifú’shenjapṅwet,nshumbôkér’ineshingúer’i,ntammemeshi’njùpayù,ma’shùe’,ndanshu,yüreshi,lânepefa’fètpùentela’,yùepeghétshètngashinaIghétmféékêtpuo-ghâmensa’ngumeyúeimbeshifa’nateyana,nekúlúemshena,teküüna,terénenakéteshimo’mbeyúekúwumesiépuo’i,lo’tenkamkétngam’úeandi’tekûntú’ina.</p>
+    <p>Ndavépuaponkpa’shengétmféékêtyinkweteghâmenemfèreyúeapuashéttîna.Gûpon,mbûponnjemnângumnshinngúenengúetúe’shepatela’.</p>
+  </li>
+  <li>
+    <p>Nshiémúnnyütughétmféékêtyulére(kúúwupme).Anânjitmikúúwupmepepôndemndem,nkúeshîyétneyimbeyuléremenjiéshî(pumyulére)yúeapuameyùe’nembitmbenkparé’na.Njiésheyulérepuapôyitkéri.Yulérentumbueneyiyifa’nânjitmipesâm.mbenjityúpndalérewangutngûremensa’nenepúenmemfù’kúngur’ap.</p>
+    <p>Anânjitmiyulérepenshéénerunkétfú’shentuntémúnnyütunesuokùyimfapuôpamféékêtmúnnyütunemkpara’fônekúghétngam.Anânjitlúerenju’ngammümshenesunmefânengungunegúlaplaptúmtúmkénganyinyi,shilânetamkuttengétnengandashútngungumbône,meshi’shüshü’fùeshe.</p>
+    <p>Pamvévé,tefakú,ghétkétmféékêtyinsho’ngayuléreyùepeyétneyimfaneponpapna.</p>
+  </li>
+  <li>
+    <p>Nshiémúnghétmféékêtyingumfúeshîtuwumentuotmbônemún,yinséétepaghérentumbueneyindù’ngawuonkúsúteyiyughérepuangambôkér’i.</p>
+    <p>Nshiémúnghétmféékêtyikwetetùe’shetesééngantuotpuambètpamtùmteyufù’sheyiyiyughére,yiyiyutùetekeyiyiyughérentumbueyúeighétna.</p>
+  </li>
+  <li>
+    <p>Nshiémúnghétmféékèr’ùeambensa’lo’tefânepúenpuangungu,mgbètekènkükapamféékêtpuakúghétkétngamteyireyinsa’nganjúnjetneyimbewumkérintúúmna.</p>
+  </li>
+  <li>
+    <p>múnnyütughétkupkupmfamfendunmbônemúnṅayúealimîfônepuarunkéttamkuttentuntémiyétneyimbena.</p>
+    <p>Terûnepamféékèr’ipualúúmntúúmtekwetekúghétkétngashi,nshiémúnnâmkpemṅwor’itendùtndùtkénmeshi’wûmepuafapuôpamféékêtpuakúghétngamnemontâalo’mfapûnendûngakúúwupmengambôkét,mgbètengansa’ngunenshubôkétmbademmúntengushûtu.</p>
+    <p>Amânjétnimishirepamféékêtpuakúghétngamlo’mbemfa’nepuagûpasha’negûmgbètensa’ngamndashùtngungumbône.</p>
+  </li>
+  <li>
+    <p>Mo’nshiémeyúe’nelo’teyireyinsa’ngammânjetnisuokúnshiénsa’ngu,laplappùenkéndîmúnne,neyingétnshiémféékêtteghétpesa’kúeyúepefaanyé’repamféékêtpuokúghétkétngam’ùepentankentúúmma.</p>
+  </li>
+</ol>

@@ -1,0 +1,121 @@
+<h1 align='center'>Allgemeen Verklaren vun de Minschenrechten</h1>
+<h2 align='center'>PRÄAMBEL</h2>
+<p align='center'>Vunwegen wat dat Anerkennen vun de Wüürd, mit de all Minschen baren sünd, un de Rechten, de all Maten vun de Gemeenschupp vun de Minschen hebbt un de gliek un nich to verköpen sünd, de Grundlaag vun Frieheit un Freden in de Welt is, un wat dat recht und billig togeiht,
+vunwegen wat dat Verkennen un Minnachten vun de Minschen rechten to unminschlich Doon föhrt hett, un dat Geweten vun de Minschen daarvun vull is vun Schann, is dat vör nehmste Wark vun de Minschen dat Buen vun een Welt, wo elk un een seggen un gloven dröff, wat he will un he frie is vun Bang sien un Noot,
+vunwegen wat dat nödig is, de Minschenrechten dörch dat Regeern vun’t Recht Schuul  geven, dat de Minsch nich dwungen  as lest Middel Wedderpart to hollen Tyrannei un Ünnerdrücken,
+vunwegen wat dat nödig is, dat mang de Natschonen föddert ward, wat se fründlich mit eenanner ümgaht,
+vunwegen wat de Völker vun de Vereenten Natschonen mit düsse Charta noch mehr daar up ruut wüllt un dat so besloten hebbt: dat se fastholen an de Minschenrechten vun elk un een, fastholen an de Wüürd un den Weert vun elk un een, un wat Mannslüüd un Fruunslüüd de sülvigen Rechten hebben schüllt, un wat dat Wiederkamen vun de Gemeenschupp un een beter Leven in mehr aFrieheit föddert warrn schall,
+vunwegen wat de Matenlänner toplicht hebbt, tosamen mit de Vereenten Natschonen allns daarför to doon, dat de Minschenrechten  de Frieheit vun elk un een samt un sünners acht un estimeert ward,
+vunwegen wat dat mit düsse Verplichten wat ward, is dat vun gröttste Bedüden, wat  sülvige meent ward, wat düsse Rechten un Frieheiten angeiht,
+un so gifft de Generalversammeln Bott: Düsse Allgemeen Verklaren vun de Minschenrechten is dat, wat för all de Völker  Natschonen as Wiespahl gellen schall. Elk un een un all Inrichten vun de Sellschupp schüllt düsse Verklaren jümmers praat hebben un daarför wat doon. Dörch Ünnerrichten un Uptrecken schall dat Estimeern vun düsse Rechten un Frieheiten föddert warrn. Dörch natschonaal un internatschonaal Doon schall dat mehr warrn mit dat allgemeen un rejell Annerkennen un Ümsetten vun düsse Verklaren bi all de Lüüd in de Matenstaaten, över de düsse Gewalt hebbt.</p>
+<ol>
+  <li>
+    <p>AlldeMinschensündfrieungliekanWüürdunRechtenbaren.SehebbtVernunftuneenGewetenunseschülltsikBrödersien.</p>
+  </li>
+  <li>
+    <p>Dat,watindüsseVerklarenöverdeRechtenunFrieheitensteiht,gelltförelkuneen.DaargifftdatkeenÜnnerscheedvunwegendeRaas,deFarvvundeHuut,datGeslecht,deSpraak,denGloven,deMenenvunwegendePolitikorrerannereenÖvertügen,datnatschonaalorrersoziaalHerkamen,denRiekdoom,GeburtorrersünsteenStand.OkdröffdaarkeenÜnnerscheedmaaktwarrnvunwegendepolitsch,rechtlichorrerinternatschonaalStandvundatLandorrerFlach,woeenMinschtohörendeit.DatdröffkeenÜnnerscheedgeven,watditLandorrerdatFlachünnerVullmachtsteiht,keenSülfstregeernhettorrerannersinsienEgenrechtinschränktis.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRechtupLeven,FrieheitunSekerheitvundePersoon.</p>
+  </li>
+  <li>
+    <p>KeeneendröffSlavereeliedenorrertodatGootvunannerMinschenjeedeenAartunWiesvunSlavereeunSlavenhannelsündverbaden.</p>
+  </li>
+  <li>
+    <p>KeeneendröffünnerdeFolter.Okkeeneengrusig,unminschlichorrerStraafliedenorrerdörchsoeenDoonduuknacktwarrn.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRecht,överallaseenRechtspersoontogellen.</p>
+  </li>
+  <li>
+    <p>AllMinschensündgliekvördatGesett.AhneenÜnnerscheedhebbtsedatupgliekeSchuuldörchdatGesett.AllseAnrechtupsülvigSchuultegenjeedeenMinnachten,detegendüsseVerklarengeiht.DatgelltokfördatUphissenförsoMinnachten.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatAnrechtuprejellHelpbideGerichtenbinnendenStaat,dedatanlangt,wennsienGrundrechten,dehenadeVerfatenorrernadatGesetthett,dörchjichtenseenDooninschränktwarrnschüllt.</p>
+  </li>
+  <li>
+    <p>KeeneendröffahnGrundfastsettorrerutdatLandwiestwarrn.</p>
+  </li>
+  <li>
+    <p>Elkuneenhettbi’tFaststellenvunsienRechtenunPlichtendatgliekeAnrechtupeenVerfahren,datgerechtunapenis,unupeenGericht,datkeennadenWillenisunfrieisin’tEntscheden.DatsülvigegelltföreenBeschulligennadatStraafrecht.</p>
+  </li>
+  <li>
+    <p>Elkuneen,debeschulligtward,watmaakttohebben,watünnerStraafsteiht,hettdatRecht,astruschulligtogellen.Datgellt,bitemineenapenVerfahrensienSchuldnadatGesettnawiestworrnis.BiditVerfahrenmutthealldeGarantienhatthebben,deförsienVerdeffendeernnootwennigsünd.</p>
+    <p>VunwegeneenDoonorrerNichdoon,dattoeenTietschehnis,asdatnadatRechtbinnendenStaatunbutendenStaatnichünnerStraafstahnhett,dröffkeeneenverurdeeltwarrn.LieksterweltdröffkeenStraaffastsettwarrn,desworerisasde,detodeTiethett,asdatHanneln,woStraafupschehnis.</p>
+  </li>
+  <li>
+    <p>Keeneenmuttdatlieden,watahnGrundinsienprivaatLeven,sienFamilie,sienHüsungunsienBreefwesselrinmengeleertward.DatgelltokfördatMinneserenvunsienEhrunsienRoop.ElkuneenhettdatAnrechtupSchuulnadatGesetttegensonIngriepenorrerBehalen.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRecht,datheinStaatgahnkann,wohenhewill.Okkannelkuneenblieven,woneemhewill.</p>
+    <p>ElkuneenhettdatRecht,elkeenoksienegenLand,toverlatenunweddertorüchtokamen.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRecht,inannerLänner,vunwegendatheverfolgtward,Asyltountokriegen.</p>
+    <p>DitRechtgelltnichfördenFallvuneenStraafverfolgen,devunwegeneenwohrhaftigVerbreken,datnichpolitschis,maaktworrnis.Okgelltdatnich,wenndeStraafverfolgenvunwegeneenHannelnmaaktworrnis,dattegendeMalenundeGrundsätzvundeVereentenNatschonengeiht.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRecht,datheeentohört.</p>
+    <p>KeeneendröffdatTohörentoeenStaatahnGrundwegnahmenwarrn.OkdröffkeeneendatRechtafseggtwarrn,sienTohörntoeenStaattowesseln.</p>
+  </li>
+  <li>
+    <p>MannslüüdunFruunslüüd,deheiradenköönt,hebbtdatRecht,dattodoonuneenFamilietogrünnen.DatdröffnichinschränktwarrnvunwegendeRaas,datTohörntoeenStaatorrerdenGloven.SehebbtbideHeiraat,indeTietvundeEhunbi’tUplösenvundeEhgliekeRechten.</p>
+    <p>DeEhdröffblootsslotenwarrn,wennEhlüüdfrieinehrMenenunsikeeniginehrnWillensünd.</p>
+    <p>DeFamilieisvun’nGrundherdenatüürlichunlüttsteDeelvundeSellschuppunhettAnrechtupSchuuldörchdeSellschuppundenStaat.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRechtupEgendoom,försikunokmitannerLüüdtosamen.</p>
+    <p>KeeneendröffahnGrundsienEgendoomwegnahmenwarrn.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRechtupdeFrieheitvundeGedanken,vundatGewetenunvundenGloven.DaartohörtdeFrieheit,sienGlovenunsienÖvertügentowesseln.OkhettelkuneendeFrieheit,sienGlovenorrersienÖvertügenalleenorrermitannertosamentobekennen.DatkannheapentlikdoonförallorrerprivaatdörchLehr,Utöven,GottesdeenstorrerannerDoonindüsseRicht.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRechtupfrieMenenundaarup,sienMenenfrietoseggen.DaartohörtdeFrieheit,sienMenenahnInschränkenkünnigtomaken,okhörtdaarto,överdrägervunelkeenAartöverallSchedenhenInformatschonenunGedankengoottosöken,tobekamenunwiedertogeven.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRecht,siktoversammelnunsikinVerenigentodoon.</p>
+    <p>Keeneenmuttdatlieden,datheeenVerenigentoslaanward,ahndathedatwill.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRecht,andeSaken,deallanlangtin’tLand,mittodoon.Datkannhesülvendoon,orrerdörchVertreders,defriewähltworrnsünd.</p>
+    <p>ElkuneenhettdatRecht,datheinsienLandgliekenToganghettnaapentlikÄmter.</p>
+    <p>DeWillenvun’tVolkisdeGrundlaagfördatAchtenvundeapentlikGewalt.DüsseWillenwiestsikdörchWahlen,destüttigdörchföhrtward,denichverkehrtwardundeallgemeenunglieksündunwoelkuneensienStimmgeheemafgevenkann.DeWahlkannokannersdörchföhrtwarrn,wennsemanfrieunnadüsseGrundsätzis.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettasMaatvundeSellschuppdatRechtupsoziaalSekerheit.ElkuneenhettAnrechtupwirtschaftlich,soziaalunkulturellRechten,dedatbruukt,datsienWüürdbestahnblifftundatEgenvunsienPersoonfrieklaarkamenkann.DaarföördeStaatwatbinnendenStaatdoon,dathedatrekent,watsienOrganisatschonenunsienHannelndaarfördögen.DatgelltokfördeTosamenarbeitvundeStaaten.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRechtupArbeit,dateensikfriesienProfeschoonutsökenkann,watdatbisienArbeitgerechttogeihtunwateentofredenmitdeÜmstännvundeArbeitsienkann.HehettdatRechtupSchuul,wennhesienArbeitquietgeiht.</p>
+    <p>ElkuneenhettdatRechtupdatsülvigeGeldfördesülvigeArbeit.DatgelltahnÜnnerscheed.</p>
+    <p>Elkuneen,dearbeit,hettdatRechtupeenVerdeenst,derechtunbillichis.DeVerdeenstschalllangendaarför,datheunsienFamilieeenLevenföhrenköönt,watdeWüürdförseasMinschensekertis.SünstmuttholpenwarrndörchannerSchuulfördesoziaalSekerheit.</p>
+    <p>ElkuneenhettdatRecht,GillenfördeSchuulvunsienArbeittobillenorrerGillenbitotreden,dateensienInteressenwahrenkann.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRechtdaarup,dateensikverhalenkannunupFrietiet.deArbeitstietmutteenMaathebben,sinnigis,undatbruuktFeern,debetahltwardunstüttigsünd.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRecht,wateenLevenfördenMinschenunsienFamilieföhrtwarrnkann,datSundheitunGootgahngaranteert.DaartohörtEtenunDrinken,Tüüch,Hüsung,BehannelndörchdenDokterunwatannerswatnödigisansoziaalDeensten.OkhörtdaartodatRechtupSekerheit,wenneensienArbeitquietgeiht,krankorrerversehrtward,WittfruorrerWittmannward,oldwardunannerswatmehr,wenneenahnSchuldsienÜnnerhaltsmiddelquietgeiht.</p>
+    <p>ModdersunKinnerhebbtAnrechtupsünnerlichFöddernunHelp.AllKinner,eendoontwatseindeEhorrerbutendeEhbarensünd,hebbtsülvigsoziaalSchuul.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRechtupSik-Billen.Sik-BillendröffkeenGeldkösten,datgellttominstfördenÜnnerrichtindeGrundschoolunfördat,watelkuneenwetenmutt.ElkuneenmuttnadeGrundschoolhen.ÜnnerrichtfördeLehrtietmuttapenförelkuneenmaaktwarrn.DatgelltokförÜnnerrichtandeHogeSchool,wenneendaardatTüügtohett.</p>
+    <p>DatMaalförSik-Billenis,datelkuneendatEgenvunsienPersoonheelundeelupfoldenkann.Okgeihtdatdaarüm,watdatmehrwardmitdatAnsehnvundeMinschenrechtenundeGrundfrieheiten.Sik-Billenmuttdaartobidrägen,datVernimm,ToleranzunFründschuppmangdeNatschonenunmangKoppelsvunLüüdvunverschedenRaasorrerGlovenföddertward.Daartohört,watdatDoonvundeVereentenNatdaarför,datdeFredenbestahnblifft,okföddertward.</p>
+    <p>DeÖllernhebbtallereerstdatRecht,deAartvunSik-Billenuttosöken,deehrKinnerhebbenschüllt.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatRecht,frieandatKultuurlevenvundeGemeenschuppmittodoon,sikandeKünsttohögenundeeltohebbenandatWiederkamenvundeWetenschuppunwatdaarvunmaaktward.</p>
+    <p>ElkuneenhettdatRechtupSchuulandeSaken,deeensikutdachtorrermaakthett,unokandenVerdeenstdaaran.Datgelltförde,deWarkenfördeWetenschupp,deLiteratuurorrerdeKunstmaakthebbt.</p>
+  </li>
+  <li>
+    <p>ElkuneenhettdatAnrechtupeensoziaaluninternatschonaalOrnung,indedeRechtenunFrieheitenutdüsseVerklarenheelundeelanslaan.</p>
+  </li>
+  <li>
+    <p>ElkuneensteihtindePlichttegenöverdeGemeenschuppunblootsindeGemeenschuppisdatUpfoldenvundatfrieEgenvundePersoonheelundeelmöglich.</p>
+    <p>Elkuneenisbi’tUtövenvunsienRechtenunFrieheitenblootsinschränktdörchGesetten,deegensdaarfördaarsünd,datAnerkennenundatAchtenvundeRechtenunFrieheitenvunannerMinschentosekern,watdathenlangtmitdatgerechteMaatvundeMoraal,mitdeapentlikOrnungundatGootgahnförelkuneenineendemokraatschSellschupp.</p>
+    <p>DüsseRechtenunFrieheitendröfftnienichutöövtwarrninInsaagtodeMalenunGrundsätzvundeVereentenNatschonen.</p>
+  </li>
+  <li>
+    <p>KeeneenvundeArtikels,deindüsseVerklarenfastleggtworrnsünd,dröffsoutleggtwarrn,watseföreenStaat,eenKoppelLüüdorrereenPersoonjichtenseenRechtbegrünnt,wattodoonorrerwattomaken,watdaarupruutlööpt,deRechtenunFrieheitenutdüsseVerklarenbikanttosmieten.</p>
+  </li>
+</ol>

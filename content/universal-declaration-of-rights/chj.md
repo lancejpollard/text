@@ -1,0 +1,122 @@
+<h1 align='center'>Delaraciö' Ki' DERECHO H Ki' la' la köö jmu guue kíä guía' su'</h1>
+<h2 align='center'></h2>
+<p align='center'>KUU-DSU-DSA, e ti tíä dsa, ki' dsa tía kö ñi' jmí, nía asía jni siä la kö jmu guu; e sía: derecho ki' dsa, e jä má-já la juu dsa tíä' kö jmu guu.
+KUU-DSU-DSA, e a s'ia dsa ñi ju o é jä' D.H. e jä la dsa nä kíä ta' a sía jmo-dsa e dsi' nía dsa kíä dsa, ma jä kö ju t'a' dsa la kua' jmu guú, a sía má gä nía roö a sïä e li goo' nía jeo dsa tä' e ja na jmo'.
+KUU-DSU-DSA, e na ki D.H. ma jä ko rue jmo dsa tä', kuu juu dso' e sía e jmo dsa esa rue lu jï kä dsa tiä' juu jï na lu' dsa ta'.
+KUU-DSU-DSA, y ná j'mo geé fuu ki' dsa e la juu' tíä' la kua' jmu güu e-jï á nía roö'.
+KUU-DSU-DSA, la juu ñi dsa tiä la kuä' jmu guu dsa na tä gui' ñi mo-yi ki' Naciones unidas, I e' dsa, la-ju e jä e ki' D.H. ña huu ki' I' kä dsa, I kö ñi ki' hie' nía dsa ñi' I jmi jni' dsa e jä e na huu ná jmo'.
+KUU-DSU-DSA, e ka-la ju estado. ti' nía teë' ñi' Naciones Unidas e-jmo – dsa i' derecho ki' tä kö jmu guu' nía.
+KUU-DSU-DSA, e- kö ñi' lu D.H. e ja e na' huu ki huu ja ru to ñi mo-yi la'.
+E. Asamblea General Jmo Jnia'
+Juú' ki Derecho tï' la Kö jmo guu ki' D. H. e tï la júu' ní' dsa huu jä kup dsu-dsa, e é-dsa kï', nía jmo dsa í' dsa sía kö Naciö' la ma nía dsa tíä la kö' jmu guu jmo dsa e no' ti jú la' jmu tía'.</p>
+<ol>
+  <li>
+    <p>Lajuudsalusiä–Dsaköñibadsa,níaköni'banalu'dsaedsatïélijnia'roö'.</p>
+  </li>
+  <li>
+    <p>Lajuu'dsatïjäé,lajuu'erujua'ñile'lá,juáïjuadsajuájníaalïa'jäjnía-a.Juah'ie'odsa-ñi'.Juaejuájuú'gua'dsää-a;oéjuú'-a.efuüsïá-adsa.Tíañi.odsasïakú'ojua.E-jï-esuu'.Nialasuu,asíajeodsaïtá,ejoókipolíticoï-a.oévo'tïa-juatïïtivo'juaïjuajmoI',jïgua'-dsaojuaïta'gua'-guájmoI'.</p>
+  </li>
+  <li>
+    <p>Laju-dsatiisíä-a,easïáelijï-a-iguah'iädsu-a.</p>
+  </li>
+  <li>
+    <p>A,síä-dsajmotäka-laIjni-otá-lájmodsátá',tusalijmaki'-dsa.</p>
+  </li>
+  <li>
+    <p>Jí-juaikä'jmu,u'i',oijmadsalasah'ie'i'.</p>
+  </li>
+  <li>
+    <p>La-juadsah'ie'jú'dso,juá-sï-dsa,a-jï'jäesï'dsá.</p>
+  </li>
+  <li>
+    <p>Kö-ñi'ba.nakï'dsatuñileé'níakö-re'bajmoleéI'laju'dsa</p>
+  </li>
+  <li>
+    <p>La-judsatï'-tuñi'dsatá',ejmáodsaki'dsatu'ñidsa'nalu'tah'uulaunruro'ñilee'.</p>
+  </li>
+  <li>
+    <p>Asíädsá-dsaI'juu'ñi-ñí,tuasíadsoomákatá'dsaniajäidsu-jiédsatuu'o'suu'</p>
+  </li>
+  <li>
+    <p>LajudsasuaDerechoki',Ikö-ni'no'dsatajuú'ki'-dsaniaikä'dsajúudsoóki'dsa,jadsaïta'asía'íjmaäï-jua-ïnajuaasíadsomakajmodsa'.</p>
+  </li>
+  <li>
+    <p>La-judsáh'ie'dso,síajú'dsoó,e-li'juadsa,ea-sia'dsoóraä-'a,tá-lasaluruedsooki'dsa,niaIjma-ódsamajälia'-a.</p>
+    <p>A-síädsadsoñi'ñí,na-juakatädsaksö'dsa,esíadsoómalu'lomakalu'niaasíalíjmodsataña'huuma-dsidsoki'dsa.</p>
+  </li>
+  <li>
+    <p>Asiá'dsalijmadsiädsanalu'tá'-dsujuú'ki'dsa,dsasiä-kíädsa,o-e-isíaki'dsao-mogui'jie'ki'dsao-e,jiesuusiaki-dsa.</p>
+  </li>
+  <li>
+    <p>Laju'dsalina'tä'tää',ajï'jnedsaníaíligua-ajïjäjne'dsa.</p>
+    <p>Lajudsalidsootusu,fuusuu'ogua'vo'suu,níaelijía'dsah'uo'ki'najuajne'dsá.</p>
+  </li>
+  <li>
+    <p>Na-juajadsáuu-a,edsalidsuguau'o'suu,jua-a-uujï.</p>
+    <p>Derecholá-easíaki'na-juadsamakajmodsaoemakajmodsaIsarutöñimo-guíla'.</p>
+  </li>
+  <li>
+    <p>La-ju-dsasíaderechoeli'tïdsakönaciö'.</p>
+    <p>Ji-juaïdsaasïädsaelidsakï'etïdsakönaciöníajä'elijua-dsaesalikï'dsana-juajneelisúunaciö'ki-dsa.</p>
+  </li>
+  <li>
+    <p>Dsa-ni'-níah'ie',na-juamafuu'dsa;edsasíaderecho,ki'lasasíajuúsia,juaevo'fuugoo'dsa,oejugua'dsädsa,e-jí'dsa-guoníaejmodsaniki'.</p>
+    <p>Níaejäbaji'dsaguóna,juaejnebasáji'guo.</p>
+    <p>Köseé'dsa,ejä,baejnia'majäneköfuuníaetidsañitá'e-jmodsailajudsatiajeéfuu'.</p>
+  </li>
+  <li>
+    <p>La-judsaesíäderecho–elisíáki'.</p>
+    <p>Ji-juaidsasalidsuukíesíäki'</p>
+  </li>
+  <li>
+    <p>Lajuudsah,íäáodsakuu',siaderecho,katuníareligiöeï'dsaoejmasuudsareligíökioejäeí'dsa',níaejmajniadsaejäeï'dsa.</p>
+  </li>
+  <li>
+    <p>Ka-lajuudsasïáderechoki'esíäelijmadsiädsu-dsana-juaejäkuudsudsá,na-juaejakuudsudsaée'dsa,ejäkuudsu-dsá.</p>
+  </li>
+  <li>
+    <p>Ka-laju'dsaesíaDerechoki',na-juaetíäkusiä'dsatía'ihïa'dsuu'.</p>
+    <p>Asíatalaijni'jásajnedsadsai'.</p>
+  </li>
+  <li>
+    <p>La-judsaesíaderechoelijmodsa-táo-elikä'dsatä'fuuki'dsa.</p>
+    <p>E-lajuu'dsasíaderecho.Ei'dsaoejmodsatä'nacio'ki-dsa.</p>
+    <p>E-jua'dsafuuejäijmodsatä',niadsafuujua'ejäeli'la-jäna-juäejna'dsa-dsatäñita'.Fuuvotoeasíädsajuenajmodsa.votá'.</p>
+  </li>
+  <li>
+    <p>La-judsatíä'köjefuueti'dsa–ejmaódsanalu'ta'nacíö'ki'dsa,onacíö'suuki'dsaoliädsaniakuú'síanacíoki'dsama-jä'aeli'esa'síajïkä'dsa.</p>
+  </li>
+  <li>
+    <p>La-judsatï'ejno'dsatá'itudsu-aesíaderechoekóruejmo-dsa-tá'</p>
+    <p>La-judsasíaderechoeruelilíä'dsatáejmodsa'.</p>
+    <p>La-judsajmotá'esíáderechoki'dsaelilía'lojá'ljmodsa-ejäeasíanojmo,jíkäFamiliakíadsaníaema,h'iädsañitanajuanajmojï'jïkadsa.</p>
+    <p>Laju'dsasñiajuú'dsaitä'dsasíndicatoelijmaki'dsá.</p>
+  </li>
+  <li>
+    <p>Lajudsasíaderechoejia'dsaköjmu.La-kö'kösu-ma'e–asíajmodsatalajïsamatë'dsaníaetudsavacacíö'</p>
+  </li>
+  <li>
+    <p>La-judsasíáDerechoki'-dsaetä'dsaeasíáena-jmojïkä'dsaLama-níádsasíäkiädsaésadsö'-dsa,esáeliku'dsa,esíao-mu'níala-juena-jmoj'Ikädsaníalajäasíaeli'e-na.jmo',ki'dsana-juaasíatä'síáki'dsa,easíäena-jmo'na-juakaluj'un'dsaoejï'e-su.Eli'jïdsa.</p>
+    <p>Hi'e.Níaguïníalajusimi',edsajmoi'ruemima-jäasíaelijïdsa.;la-Juguïlu-síäna-jï'osa'na-jï'guósë'jmiguïko-ñiiderechosíakïguï.</p>
+  </li>
+  <li>
+    <p>Laju-dsasíaderechoki'dsaelitudsaguí,asíäjmamädsañitujadsajniadsa,elitudsaeeoguíejníadsaLajuguí-mí'.Na-juajneh'uudsadsajníañituasíajua'esalidsajniadsa.</p>
+    <p>E-Jabadsa-jníadsañitumä-jäli-tu-dsa,ma-jajoedsae-jaedsilijmo-dsaníama-jälikuu'dsaE-jäDerecoHumano,ma-jajmaó-dsa,níama-jäundsi'-dsaejï'dsaníadsatíä'naciö'su'níalajudsagoósíägua-uo'ma-jäjïdsáníadsana-kiäreligiösu'.níama-jama-jníadsaejïtäejmoNacíonesUnidás.</p>
+    <p>Sé'-jmi'gui-mi'esíaDerecoejno'dsaejäjne'dsajma-tuguijodsá.</p>
+  </li>
+  <li>
+    <p>La-judsasíadérecho.E-i'dsaniaelikuu'dsaejälutudsa,nia-jmatuníajue,likuu'.lajuedsílí'siä.</p>
+    <p>La-judsasíaDerechoejmodsatai'eti'dsajua'eki'Científico,mo-guí'oejïesu.</p>
+  </li>
+  <li>
+    <p>La-judsasíaDerecho,etitädsañita.Laru-lue'Derechoychitöñideclaracíoma-jäli'ti'larutö.</p>
+  </li>
+  <li>
+    <p>La-judsatï'ma-ti'ejäejmo'dsageé'fuuuujïjäsíädsa.</p>
+    <p>La-judsa,juïjasalijmodsaejaesa-rujua'buleékifuugoo-dsama-jajmodsaki'Derecho,ki'Dsasuu-nia-jäjmatïlö'ejaedsi'easíaesadsidsa-li'geéfudi'dsa.</p>
+    <p>La-juDerechorutöñimo-guila,asíaelijma-suu'ha.juaasíalajäru-tö–o–noluelajajuä'NacíonesUnidas.</p>
+  </li>
+  <li>
+    <p>Ji-jua-eIru-töñiDeclaraciölaajnejua'tuchi-ñi'Na-juaköEstado,okösiä'dsaojädsali-jne'jmo'dsaokï'dsaDerechosarutöñiDeclaracíöla.</p>
+  </li>
+</ol>

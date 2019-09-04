@@ -1,0 +1,122 @@
+<h1 align='center'>DECLARAZION UNIVERSÂL DAI DERITS DAL OM</h1>
+<h2 align='center'>Preambul</h2>
+<p align='center'>Tignût cont che il ricognossi la dignitât di ducj i membris de gjernazie umane, i lôr derits, compagns e inalienabii, e je la fonde de libertât, de justizie e de pâs tal mont;
+Tignût cont che il dineâ e il spreseâ i derits dal om a an puartât a barbaretâts ch’a ufindin la cussience de umanitât e che al è stât proclamât che il divignì di un mont dulà che i oms a gjoldin la libertât di peraule e di fede e la liberazion de pôre e de miserie e je la plui grande braure dal om;
+Tignût cont che i derits dal om bisugne ch’a sein garantîts des leçs, se si intint di fâ in mût che l’om, come ultin ricors, nol scugni voltâsi cu la fuarce cuintri la tiranìe e la sclavitût;
+Tignût cont che bisugne promovi il svilup di bogns rapuarts tra lis Nazions;
+Tignût cont che tal Statût i popui des Nazions Unidis a an tornât a declarâ la lôr fede tai derits fondamentâi dal om, te dignitât e tal valôr de persone umane, te paritât dai derits dal om e de femine, e ch’a an decidût di promovi il progres sociâl e un miôr sistem di vite tune plui grande libertât;
+Tignût cont che i Stâts membris a an cjapât l’impegn di otignî, in cooperazion cu lis Nazions Unidis, il rispiet e l’osservance universâl dai derits dal om e des libertâts fondamentâls;
+Tignût cont che une convinzion gjenerâl sun chescj derits e sun cheste libertât e je de massime impuartance par une complete realizazion di chescj impegns;
+la Samblee Gjenerâl des Nazions Unidis
+e proclame cheste Declarazion Universâl dai Derits dal Om come ideâl comugnâl ch’a an di rivâ a vêlu ducj i popui e dutis lis Nazions par che ogni individui e ogni strument de societât, tignint cont simpri di cheste Declarazion, a cirin di promovi, cu la instruzion e la educazion, il rispiet di chescj derits e di chestis libertâts e di garantîur, midiant proviodiments progressîfs di stamp nazionâl e internazionâl, il ricognossiment universâl e efetîf e il rispiet tant de bande dai popui dai Stâts membris, che de bande dai popui dai teritoris ch’a son sot de lôr jurisdizion.</p>
+<ol>
+  <li>
+    <p>Ducjiomsanassinlibarsecompagnscomedignitâtederits.Aansintimentecussienceebisugnechesitratinunculaltricomefradis.</p>
+  </li>
+  <li>
+    <p>AogniindividuiispietinducjideritsedutislislibertâtsproclamâtsinchesteDeclarazion,cencenissunedistinzionparviedigjernazie,colôr,mascjoofemine,lenghe,religjon,diimpinionpoliticheoalcaltri,dizocnazionâlosociâl,diricjece,dinassiteoaltrecondizion.EnosaràfatenissunedistinzionnancjeparviedalStatûtpolitic,juridicointernazionâldalpaîsodetiarecheunepersoneiparten,tantsechêtiareejeindipendentches’ejesotministrazionfiduciarieonoautonimeosotcualchialtrilimitdisovranitât.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitalavite,alalibertâtealasigurecedesôpersone.</p>
+  </li>
+  <li>
+    <p>Nissunepersoneepòjessitignudeinsclavitûtoservitût;lasclavitûteiltraficdaisclâfsdicualsiseigjenarasonimproibîts.</p>
+  </li>
+  <li>
+    <p>Nosipòtorturânissun,nidoprâparnissunepersonetratamentsopunizionsbarbars,disumansovergognôs.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderit,pardutlàchesicjateasei,cheivegniricognussudelasôpersonalitâtjuridiche.</p>
+  </li>
+  <li>
+    <p>Denantdeleçasonducjcompagnseducjaanderit,cencenissuneparzialitât,alastesseproteziondeleç.AanducjderitdijessivuardâtsdiognidiscriminazioncontrarieachesteDeclarazionch’ejestadefatecuintricualsiseiinstigazionadiscriminazionsdichêsorte.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitaunereâlpossibilitâtdiricoriatribunâicompetentsnazionâicuintridifatsch’avancuintridaideritsfondamentâichelaconstituzionolaleçiricognossin.</p>
+  </li>
+  <li>
+    <p>Nissunepersonenopòjessiarestade,tignudeinpresonomandadeinesilicencejustereson.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitinpleneparitât,aunejusteepublicheudiencedenantdiuntribunâlindipendenteimparziâl,pardecididaisieideritsedovês,eancjeparprovâlapositivitâtdicualsiseiacusepenâlcheivegnifate.</p>
+  </li>
+  <li>
+    <p>Ogniindividuiacusâtdiunemalefatealèpresumûtnocentfintantchelasôcolpenoseistadedimostradeparvielegâltunpublicprocesdulàcheiveindâtognigaranziepardifindisi.</p>
+    <p>Nissunindividuinolpòvignîcondanâtparunerobefateonofate,se,incheltâlmoment,chêrobenojereconsideradeunemalefatesecontilderitlocâlointernazionâl.Comechenosipodaràmaidâuncjasticpluigrantdichelstabilîttalmomentdemalefate.</p>
+  </li>
+  <li>
+    <p>Nissunindividuinolpòjessisogjetainterferencisarbitrariistesôviteprivade,tesôfamee,tesôcjase,tesôcorispuindince,enancjejessiufindûttalsoonôretesôstime.Ogniindividuialàderitdijessivuardâtdeleçcuintriinterferencisoufesisdichestefate.</p>
+  </li>
+  <li>
+    <p>OgniindividuialàderitdistâedimovisidentriiconfinsdiogniStât.</p>
+    <p>Ogniindividuialàderitdilâviedicualsiseipaîs,ancjedalso,editornâ.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderit,cuintrilispersecuzions,dicirîecjatâricetinaltrispaîs.</p>
+    <p>Nolpodaràricoriachestderitunindividuis’alècirûtparmalefatisnopolitichisoparfatscontrarisaifinseaiprincipisdesNazionsUnidis.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitdivêunecitadinance.</p>
+    <p>Anissunindividuinosipòcjolicenceuneresonlasôcitadinanceenancjeilderitdicambiâle.</p>
+  </li>
+  <li>
+    <p>Omsefeminisinetâtadateaanilderitdisposâsiedimetisùfamee,cencenissunelimitaziondigjernazie,citadinanceoreligjon.Aanducjistesderitsarivuartdalmatrimoni,partantch’aldureecuantchesidisfe.</p>
+    <p>Ilmatrimonisipòfâludomecullibareplenconsensdainuviçsdeventants.</p>
+    <p>LafameeejelafondenaturâlefondamentâldesocietâteeàilderitcheladifindinlasocietâteilStât.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitdivêunepropietâtsôpersonâlocomugnâlcunaltris.</p>
+    <p>Anissunindividuinosipòcjolilasôpropietâtcenceunereson.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitalalibertâtdipinsîr,cussienceereligjon;chestderitalvûldîancjelibertâtdigambiâreligjonofede,elibertâtdipandidibessôlocunaltris,tantinpubliccheinprivât,lasôreligjonolasôfedetalinsegnâ,tespratichis,talculteteosservancedesceremoniis.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitalalibertâtdiimpinionediespression,dutunculderitdinojessilambicâtparviedesôideeeilderitdicirî,divêedipropagandâinformazionseideiscunognimieçecencelimitazions.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitalalibertâtdiriunionediassociazionpacjifiche.</p>
+    <p>Nosipòobleânissunafâpartdiuneassociazion.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitdipartecipâalguviêrdalsopaîstantdipersonecheparmieçdirapresentantssielzûtsliberementri.</p>
+    <p>Ogniindividuialàderitdipoderivâ,incondizionsdiparitât,aipuescjdivôrepublicsdalsopaîs.</p>
+    <p>Lavolontâtpopolârejelafondedeautoritâtdaiguviêrs;chestevolontâtsiàdipandiletravierselezionsperiodichiseonestis,asufragjouniversâlecompagn,cunvôtsegretotunaltrimûtch’algarantissilalibertâtdiesprimisi.</p>
+  </li>
+  <li>
+    <p>Ogniindividui,comepartdesocietât,alàderitalasigurecesociâl,eancjedirealizâ,culimpegnnazionâlelacolaborazioninternazionâletignintcontdeorganizazionedespossibilitâtsdiogniStât,ideritseconomics,sociâieculturâiindispensabiialasôdignitâtealalibarecressitedesôpersonalitât.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitallavôr,alalibaresieltedalpuestdivôre,acondizionsjustisebuinisdilavôreajessivuardâtcuintriladisocupazion.</p>
+    <p>Ogniindividui,cenceparzialitât,alàderitdivêlastessepaeparunlavôrcompagn.</p>
+    <p>Ogniindividuich’allavorealàderitaunepaejusteebuinecheigarantissialuiealasôfameeunevitesecontladignitâtumaneestaronzade,s’alcovente,cunaltrismieçsdiprotezionsociâl.</p>
+    <p>Ogniindividuialàderitdimetisùsindacâtsedifâurpartpardifindiisieiinteres.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitdipolsâedidistraisi,intindintcunchestunjustlimitdesorisdilavôrediferiisperiodichispaiadis.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitaunsistemdivitebondigarantîlasalûteilbonstâsoedesôfamee,massimepalnudriment,ilvestiari,unecjase,laassistencemediche,eaiservizissociâinecessaris;alàderitalasigureceincâsdidisocupazion,malatie,invaliditât,veduance,vecjaeoinognialtricâsdipiarditedaimieçsdisussistenceparrobischenodipendindalsovolê.</p>
+    <p>Lamaternitâtelainfanzieeanderitacurisspeciâlseassistence.Ducjifrutsnassûtstalmatrimoniofûr,aandigjoldidestesseprotezionsociâl.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitalainstruzion.Lainstruzioneàdijessiagratisalmanculpesclassiselementârsefondamentâls.Lainstruzionelementâreàdijessiobligatorie.Lainstruziontecnicheeprofessionâleàdijessipossibiladucjecussìlainstruzionsuperiôreàdijessipossibiladucjdaûrdalmerit.</p>
+    <p>Lainstruzioneàdijessiindreçadeaunepleneincressitedepersonalitâtumaneeaunsimpripluigrantrispietdaideritsdalomedeslibertâtsfondamentâls.Lainstruzioneàdifâcressilacomprension,ilboncûr,laamiciziefradutislisNazions,liscomunitâtsetnichisereligjosis,edâunemanalavôredesNazionsUnidisparmantignîlapâs.</p>
+    <p>Igjenitôrsaanprindiducjderitdisielziilgjenardeinstruzionpailôrfîs.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàderitdijessiapartdeviteculturâldecomunitât,digjoldidesartsedidâdivôrealprogresdesienceeusufruîdaisieibeneficis.</p>
+    <p>Ogniindividuialàderitaladifesedalinteresmorâlematereâlch’adivegnindiuneproduzionsientifiche,leterarieeartistichecheluialvedifate.</p>
+  </li>
+  <li>
+    <p>OgniindividuialàderitdicjatâsiavivitunsistemsociâleinternazionâldulàcheideritselislibertâtsproclamadisinchesteDeclarazionaseinmetûtsinpratichedaldut.</p>
+  </li>
+  <li>
+    <p>Ogniindividuialàdovêsvierslacomunitât,làcheluialpòmadressiadimplenecunlibertât.</p>
+    <p>Taldoprâisieideritselissôslibertâts,ognunalàditignîcontdomedailimitsprescritsdeleçparchesiricognossinechesirispietinpardabonideritselislibertâtsdicheialtriseparcontentâlisesigjencisjustisdemorâl,dalordinpublicedalbenjessigjenerâldiunesocietâtdemocratiche.</p>
+    <p>NosipòdoprâmâlchescjderitsechestislibertâtscuintriifinseiprincipisdesNazionsUnidis.</p>
+  </li>
+  <li>
+    <p>NissunStât,gropopersoneapuedincjapâalcdichesteDeclarazionparcampâderitsdimetisùtraficsocombinâvôrisch’acirindidineâcualchideritolibertâtch’ejestademetudeinclârculì.</p>
+  </li>
+</ol>

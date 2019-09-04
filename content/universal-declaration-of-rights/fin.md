@@ -1,0 +1,123 @@
+<h1 align='center'>IHMISOIKEUKSIEN YLEISMAAILMALLINEN JULISTUS</h1>
+<h2 align='center'>JOHDANTO</h2>
+<p align='center'>Kun ihmiskunnan kaikkien jäsenten luonnollisen arvon ja heidän yhtäläisten ja luovuttamattomien oikeuksiensa tunnustaminen on vapauden, oikeudenmukaisuuden ja rauhan perustana maailmassa,
+kun ihmisoikeuksia on väheksytty tai ne on jätetty huomiota vaille, on tapahtunut raakalaistekoja, jotka ovat järkyttäneet ihmiskunnan omaatuntoa, ja kun kansojen korkeimmaksi päämääräksi on julistettu sellaisen maailman luominen, missä ihmiset voivat vapaasti nauttia sanan ja uskon vapautta sekä elää vapaina pelosta ja puutteesta,
+kun on välttämätöntä, että ihmisoikeudet turvataan oikeusjärjestyksellä, jotta ihmisten ei olisi pakko viimeisenä keinona nousta kapinaan pakkovaltaa ja sortoa vastaan,
+kun on tähdellistä edistää ystävällisten suhteiden kehittymistä kansojen välille,
+kun Yhdistyneiden Kansakuntien kansat ovat peruskirjassa vahvistaneet uskonsa ihmisten perusoikeuksiin, ihmisyksilön arvoon ja merkitykseen sekä miesten ja naisten yhtäläisiin oikeuksiin ja kun ne ovat ilmaisseet vakaan tahtonsa edistää sosiaalista kehitystä ja parempien elämisen ehtojen aikaansaamista vapaammissa oloissa,
+kun jäsenvaltiot ovat sitoutuneet edistämään, yhteistoiminnassa Yhdistyneet Kansakunnat -järjestön kanssa, ihmisoikeuksien ja perusvapauksien yleistä kunnioittamista ja noudattamista, ja
+kun yhteinen käsitys näiden oikeuksien ja vapauksien sisällöstä on mitä tärkein tämän sitoumuksen täydelliselle toteuttamiselle,
+Niin sen vuoksi
+YLEISKOKOUS
+antaa TÄMÄN IHMISOIKEUKSIEN YLEISMAAILMALLISEN JULISTUKSEN kaikkien kansojen ja kaikkien kansakuntien tavoiteltavaksi yhteiseksi ohjeeksi, jotta kukin yksilö ja kukin yhteiskuntaelin pyrkisi, pitäen alati mielessään tämän julistuksen, valistamalla ja opettamalla edistämään näiden oikeuksien ja vapauksien kunnioittamista sekä turvaamaan jatkuvin kansallisin ja kansainvälisin toimenpitein niiden yleisen ja tehokkaan tunnustamisen ja noudattamisen sekä itse jäsenvaltioiden kansojen että niiden oikeuspiirissä olevien alueiden kansojen keskuudessa.</p>
+<ol>
+  <li>
+    <p>Kaikkiihmisetsyntyvätvapainajatasavertaisinaarvoltaanjaoikeuksiltaan.Heilleonannettujärkijaomatunto,jaheidänontoimittavatoisiaankohtaanveljeydenhengessä.</p>
+  </li>
+  <li>
+    <p>Jokainenonoikeutettukaikkiintässäjulistuksessaesitettyihinoikeuksiinjavapauksiinilmanminkäänlaistarotuun,väriin,sukupuoleen,kieleen,uskontoon,poliittiseentaimuuhunmielipiteeseen,kansalliseentaiyhteiskunnalliseenalkuperään,omaisuuteen,syntyperääntaimuuhuntekijäänperustuvaaerotusta.Mitäänerotustaeimyöskäänpidätehdäsenmaantaialueenvaltiollisen,hallinnollisentaikansainvälisenasemanperusteella,johonhenkilökuuluu,olipatämäalueitsenäinen,huoltohallinnossa,itsehallintoavaillataitäysivaltaisuudeltaanminkätahansamuunrajoituksenalainen.</p>
+  </li>
+  <li>
+    <p>Kullakinyksilölläonoikeuselämään,vapauteenjahenkilökohtaiseenturvallisuuteen.</p>
+  </li>
+  <li>
+    <p>Ketääneisaapitääorjanataiorjuutettuna,kaikkiorjuudenjaorjakaupanmuodotonkiellettävä.</p>
+  </li>
+  <li>
+    <p>Ketääneisaakiduttaaeikäkohdellatairangaistajulmasti,epäinhimillisestitaialentavasti.</p>
+  </li>
+  <li>
+    <p>Jokaisellaihmiselläonkaikkiallaoikeussiihen,ettähänethenkilönätunnustetaanlainedessä.</p>
+  </li>
+  <li>
+    <p>Kaikkiovattasavertaisialainedessäjaoikeutetuterotuksettayhtäläiseenlainsuojaan.Kaikillaonoikeustasavertaiseensuojaantätäjulistustaloukkaavaasyrjintäävastaansekäkaikkeasellaiseensyrjintääntähtäävääyllytystävastaan.</p>
+  </li>
+  <li>
+    <p>Jokaisellaonoikeustehokkaaseenhyvitykseenasianomaisessakansallisessatuomioistuimessahäneenkohdistuneistateoista,jotkaloukkaavathänellevaltiosäännöllätailaillaturvattujaperusoikeuksia.</p>
+  </li>
+  <li>
+    <p>Ketääneisaamielivaltaisestipidättää,vangitataiajaamaanpakoon.</p>
+  </li>
+  <li>
+    <p>Jokaisellaontäysintasa-arvoisestioikeussiihen,ettähäntäoikeudenmukaisestijajulkisestikuullaanriippumattomassajapuolueettomassatuomioistuimessahänenoikeuksiaanjavelvollisuuksiaanmäärättäessätaihäntävastaannostettuarikossyytettäselvitettäessä.</p>
+  </li>
+  <li>
+    <p>Jokaisenrikollisestateostasyytteessäolevanhenkilönedellytetäänolevansyytönsiihenastikunneshänensyyllisyytensäonlaillisestitodistettujulkisessaoikeudenkäynnissä,jossahänelleturvataankaikkihänenpuolustustaanvartentarpeellisettakeet.</p>
+    <p>Ketääneipidätuomitarangaistavaksiteoistatailaiminlyönneistä,jotkaeivätkansallisentaikansainvälisenoikeudenmukaanolleetrikollisiatekohetkellä.Myöskääneipidätuomitaankarampaanrangaistukseen,kuinmikäolisovellettavissarangaistavanteonsuoritushetkellä.</p>
+  </li>
+  <li>
+    <p>Älköönmielivaltaisestipuututtakokenenkäänyksityiselämään,perheeseen,kotiintaikirjeenvaihtoonälköönkäloukattakokenenkäänkunniaajamainetta.Jokaisellaonoikeuslainsuojaansellaistapuuttumistatailoukkaustavastaan.</p>
+  </li>
+  <li>
+    <p>Jokaisellaonoikeusliikkuavapaastijavalitaasuinpaikkansakunkinvaltionsisällä.</p>
+    <p>Jokaisellaonoikeuslähteämaasta,myösomastamaastaan,japalatamaahansa.</p>
+  </li>
+  <li>
+    <p>Jokaisellavainonkohteeksijoutuneellaonoikeushakeajanauttiaturvapaikkaamuissamaissa.</p>
+    <p>Tähänoikeuteeneivoidavedota,kunonkysymystosiepäpoliittisistarikoksistajohtuvistasyytteistätaiteoista,jotkaovatvastoinYhdistyneidenKansakuntienperiaatteitajapäämääriä.</p>
+  </li>
+  <li>
+    <p>Jokaisellaonoikeuskansalaisuuteen.</p>
+    <p>Keltääneisaamielivaltaisestiriistääkansalaisuuttaeikäevätäoikeuttakansalaisuudenvaihtamiseen.</p>
+  </li>
+  <li>
+    <p>Täysi-ikäisillämiehilläjanaisillaonoikeussolmiaavioliittojaperustaaperheilmanminkäänlaisiarodusta,kansalaisuudestataiuskonnostajohtuviarajoituksia.Heilläonyhtäläisetoikeudetavioliittoon,avioliitonaikanajasenpurkamisenjälkeen.</p>
+    <p>Avioliitonsolmiminentapahtukoonvaintulevienaviopuolisoidenvapaastajatäydestäsuostumuksesta.</p>
+    <p>Perheonyhteiskunnanluonnollinenjaperustavaydinosajasilläonoikeusyhteiskunnanjavaltionsuojaan.</p>
+  </li>
+  <li>
+    <p>Jokaisellaonoikeusomistaaomaisuuttayksintaiyhdessätoistenkanssa.</p>
+    <p>Keltäänälköönmielivaltaisestiriistettäköhänenomaisuuttaan.</p>
+  </li>
+  <li>
+    <p>Jokaisellaihmiselläonajatuksen,omantunnonjauskonnonvapaus;tämäoikeussisältäävapaudenuskonnontaivakaumuksenvaihtamiseensekäuskonnontaivakaumuksenjulistamiseenyksintaiyhdessätoistenkanssa,sekäjulkisestiettäyksityisesti,opettamallasekäharjoittamallahartauttajauskonnollisiamenoja.</p>
+  </li>
+  <li>
+    <p>Jokaisellaonoikeusmielipiteen-jasananvapauteen;tähänsisältyyoikeushäiritsemättäpitäämielipiteensäsekäoikeusrajoistariippumattahankkia,vastaanottaajalevittäätietojakaikkientiedotusvälineidenkautta.</p>
+  </li>
+  <li>
+    <p>Kaikillaonoikeusrauhanomaiseenkokoontumis-jayhdistymisvapauteen.</p>
+    <p>Ketääneisaapakottaaliittymäänmihinkäänyhdistykseen.</p>
+  </li>
+  <li>
+    <p>Jokaisellaonoikeusosallistuamaansahallitsemiseenjokovälittömästitaivapaastivalittujenedustajienvälityksellä.</p>
+    <p>Jokaisellaonyhtäläinenoikeuspäästämaansajulkisiintoimiin.</p>
+    <p>Kansantahtoonhallitusvallanperusta;tämätahtoonilmaistavamääräaikaisillajaaidoillavaaleilla,joissakaikillaonyleinenjayhtäläinenäänioikeusjajoissaäänestysonsalainentaimuutavaalivapaudenturvaavaamenettelyänoudattava.</p>
+  </li>
+  <li>
+    <p>Jokaisellaonyhteiskunnanjäsenenäoikeussosiaaliturvaansekäoikeuskansallistentoimenpiteidenjakansainvälisenyhteistyönkauttakunkinmaanjärjestelmäjavoimavarathuomioonottaen,nauttiahänenihmisarvolleenjahänenyksilöllisenolemuksensavapaallekehittymisellevälttämättömiätaloudellisia,sosiaalisiajasivistyksellisiäoikeuksia.</p>
+  </li>
+  <li>
+    <p>Jokaisellaonoikeustyöhön,työpaikanvapaaseenvalintaan,oikeudenmukaisiinjatyydyttäviintyöehtoihinsekäsuojaantyöttömyyttävastaan.</p>
+    <p>Jokaisellaonoikeusilmanminkäänlaistasyrjintääsamaanpalkkaansamastatyöstä.</p>
+    <p>Jokaisellatyötätekevälläonoikeuskohtuulliseenjariittäväänpalkkaan,jokaturvaahänellejahänenperheelleenihmisarvonmukaisentoimeentulonjajotatarpeenvaatiessatäydentävätmuutsosiaalisensuojelunkeinot.</p>
+    <p>Jokaisellaonoikeusperustaaammattiyhdistyksiäjaliittyäniihinetujensapuolustamiseksi.</p>
+  </li>
+  <li>
+    <p>Jokaisellaonoikeuslepoonjavapaa-aikaan,työajanjärkeväänrajoittamiseensekämääräaikaisiinpalkallisiinlomiin.</p>
+  </li>
+  <li>
+    <p>Jokaisellaonoikeuselintasoon,jokaonriittäväturvaamaanhänenjahänenperheensäterveydenjahyvinvoinninravinnon,vaatetuksen,asunnon,lääkintähuollonjavälttämättömänyhteiskunnallisenhuollonosalta.Jokaisellaonmyösoikeusturvaantyöttömyyden,sairauden,tapaturman,leskeydentaivanhuudensekämuunhänentahdostaanriippumattatapahtuneentoimeentulonmenetyksenvaralta.</p>
+    <p>Äideilläjalapsillaonoikeuserityiseenhuoltoonjaapuun.Kaikkienlasten,riippumattasiitä,ovatkohesyntyneetavioliitossataisenulkopuolella,tuleenauttiasamaayhteiskunnansuojaa.</p>
+  </li>
+  <li>
+    <p>Jokaisellaonoikeussaadaopetusta.Opetuksenonoltavaainakinalkeis-japerusopetuksenosaltamaksutonta.Alkeisopetuksenonoltavapakollinen.Teknistäjaammattiopetustaonoltavayleisestisaatavilla,jakorkeammanopetuksenonoltavaavoinnayhtäläisestikaikilleheidänkykyjensämukaan.</p>
+    <p>Opetuksenonpyrittäväihmisenpersoonallisuudentäyteenkehittämiseensekäihmisoikeuksienjaperusvapauksienkunnioittamisenvahvistamiseen.Sentuleeedistääymmärtämystä,suvaitsevaisuuttajaystävyyttäkaikkienkansakuntienjakaikkienrotu-jauskontoryhmienkeskensekäpyrkiäedistämäänYhdistyneidenKansakuntientoimintaarauhanylläpitämiseksi.</p>
+    <p>Vanhemmillaonensisijainenoikeusvalitaheidänlapsilleenannettavanopetuksenlaatu.</p>
+  </li>
+  <li>
+    <p>Jokaisellaonoikeusvapaastiosallistuayhteiskunnansivistyselämään,nauttiataiteistasekäpäästäosalliseksitieteenedistyksenmukanaantuomistaeduista.</p>
+    <p>Jokaisellaonoikeusniidenhenkistenjaaineellistenetujensuojaamiseen,jotkajohtuvathänenluomastaantieteellisestä,kirjallisestataitaiteellisestatuotannosta.</p>
+  </li>
+  <li>
+    <p>Jokaisellaonoikeussellaiseenyhteiskunnalliseenjakansainväliseenjärjestykseen,jonkapuitteissatässäjulistuksessaesitetytoikeudetjavelvollisuudetvoivattäysintoteutua.</p>
+  </li>
+  <li>
+    <p>Jokaisellaihmiselläonvelvollisuuksiayhteiskuntaakohtaan,koskavainsenpuitteissahänenyksilöllisenolemuksensavapaajatäysikehitysonmahdollinen.</p>
+    <p>Käyttäessäänoikeuksiaanjanauttiessaanvapauksiaankukaaneiolemuidenkuinsellaistenlaillasäädettyjenrajoitustenalainen,joidenyksinomaisenatarkoituksenaonturvatatoistenoikeuksienjavapauksientunnustaminenjakunnioittaminensekämoraalin,julkisenjärjestyksenjayleisenhyvinvoinninoikeutetutvaatimuksetkansanvaltaisessayhteiskunnassa.</p>
+    <p>NäitäoikeuksiajavapauksiaeimissääntapauksessasaakäyttäävastoinYhdistyneidenKansakuntienpäämääriäjaperiaatteita.</p>
+  </li>
+  <li>
+    <p>Mitääntässäjulistuksessaeisaatulkitaniin,ettävaltio,ryhmätaiyksityinenhenkilövoisenperusteellakatsoaoikeudekseentehdäsellaista,mikävoisihävittäätässämääriteltyjäoikeuksiajavapauksia.</p>
+  </li>
+</ol>

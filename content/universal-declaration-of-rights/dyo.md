@@ -1,0 +1,122 @@
+<h1 align='center'>FAJUUMENUMI SIDRUWAAS SATI ANAU</h1>
+<h2 align='center'>WANDOMI :</h2>
+<p align='center'>Yíneni aat mati faŋaaf fati anau di sidruwaas soola, san umaje sirere di saasu ban poop sisofut di uceen soo silakom fujuumaf fati di malegenam, di kairaay di dúniaay búrom ;
+Yíneni jaat anau nasonsoŋ mati kàmanjaataak di eñoosey sidruwaas sati anau soo siŋarulomi màkojiam, ban malegen munkul mujawulojaw di dúniaay man Anoosan muŋooleŋoolen usanken man súumimi nusof man súumimi, nupak di màkooleniam di bugaalab ;
+Yíneni jaat mati sensen man aakemmi mofam apooy sidruwaas sati anau, takumŋarul anau tuuñool eri manakaan wajakut ;
+Yíneni jaat mati kàliŋen bapaalaay bati sísukas jajak;
+Yíneni jaat di kabaatak kati dúniaay búrom, bukanak kulanlaañ kúyiisen mankusofumi sidruwaas sati anau di faŋaaf fati anau di malegenaam mati anan di kare'enak búrom aniine di aseek ban poop kujunjuum burok man mati anau mujaw fáculey;
+Yíneni jaat mati sísukas sàndomi soo di "Organisation des Nations Unies" sijunjuum ejuum yati sidruwaas sati anau di dúniaay búrom sikaani.
+Yíneni jaat mati sidruwaas sati anau kankaan waaf wáamak wáriiŋe ejuum man wasankeniñaa ukaani.
+Asambule Seneraal
+Esosof mati furimaf ufe fujuumenumi sidruwaas sati anau kankaamn waaf wajake máamak bee bukanak búrom di sísukas búrom. Moo kaane jajak man bukanak di síkafaas kujuum mankuliŋenufo di kúyiisenufo kuñiilak ñatimkaraŋ mukaanaam moomu búrom eñesey maapi kaanimi man dúniaay búrom éyinen di ekaan siluwaas soosu nen mansiregumi eeno.</p>
+<ol>
+  <li>
+    <p>Bukanakbúromnankuwolimikurerekerererdiwaafawbúrom.Kubabajpoopbúyejetdikarampenoor.</p>
+  </li>
+  <li>
+    <p>Anoosannababajsidruwaassoosubúrom;bajutaseekbajutániine,bajutanatikansankenkúbúto,bajutanatikapongolkúbuto,bajutpaartiébuto,bajutanabajidimuceenbenenbajutrókápajulkuceenkatipó1itikkatiluwambakatiésuk,yabajefaŋaaffooliyombaebajut.</p>
+  </li>
+  <li>
+    <p>Anoosannababajdruwaebajfuyiifaffoola,ebajkapooykatifaŋaaffooladikaanonenmanamaŋumieeno.</p>
+  </li>
+  <li>
+    <p>Anletalakoamiikeelatiakeen,letarokbeeakeen;banpoopmiikeliyaaydikanoomenkatikumiikeelfírenifiren.</p>
+  </li>
+  <li>
+    <p>Bajutkatoorandiŋan;anlétassuutukeni.</p>
+  </li>
+  <li>
+    <p>Anoosanoomudidruwaayyoolabanoobanbanammi.</p>
+  </li>
+  <li>
+    <p>Luwaayere'enre'enbukanakbúromanoosannababajkapooyakkákonakkatiluwaay.Anoosannababajkapooymbamukaanaaymálusefurimafufe.</p>
+  </li>
+  <li>
+    <p>Anoosannuŋooleŋoolenulamandifurimmbamukaanaaymálusesidruwaassoosuñasanumanjumiluwaayeseneso.</p>
+  </li>
+  <li>
+    <p>Anletuŋoolenulaafanmanusofool,nukuloolmbanukesoorool.</p>
+  </li>
+  <li>
+    <p>Anoosannubabajdruwakáyiisendibantabaaywabajimitiribinaalyanumanjeelaañutdianoosaniyooyueje'embeeefeley.</p>
+  </li>
+  <li>
+    <p>Luwaayyooneananoosankuregeooakaanemátaañiyekulaafoolaafbeefunakaffatikíitiyeyyíisenijaatwakaanumimankooneakilaakaaneoobabajerabkujuumakkoola.</p>
+    <p>Anleekukuloolmatiwaafwanumanjenanukaanumiulakoutwátaañiyediluwaaydipoopanletakaanoolsaariyoŋyawuujeyawarinekaani.</p>
+  </li>
+  <li>
+    <p>Anuwarutunokendimukaanaammatian,síndaayyatian,mbatantatianmbanuyentenfaŋaaffoolambanukajenkajamaakkoola.Luwaayepoopooyanaudiwaafawbúirom.</p>
+  </li>
+  <li>
+    <p>Ananoosannababajdruwaejawbansúumoomidiekinbansúumoomidiésukeyyoola.</p>
+    <p>Anoosannababajdruwaépurmofhaanimooladielaañulnansúumool.</p>
+  </li>
+  <li>
+    <p>Nantáañimianoosannuŋooleneujawúgongotodomofmúbuto.</p>
+    <p>Letuŋoolenubajkágongotokukilalakojaatnububujan.</p>
+  </li>
+  <li>
+    <p>Anoosannubabajdruwaebajmofmiiya.</p>
+    <p>Anletaŋoolenáfirenanméeebajmofmoolambaépurdimoo.</p>
+  </li>
+  <li>
+    <p>AkambaanidiajaŋakáriiŋebúyeboKuŋooleŋoolenkuyaboormankubajkuñiilbápajuloorutsisiiwmbasísukmbabuŋarab.Kureredikayaboorakdibúyebaabdiebaneyyoolibo.</p>
+    <p>Búyebaabmambukaan,kuyabooraakkujamoor.</p>
+    <p>Bukanakkakinumdikaakemmimofamkuwawarkupooyfiilaffalakomifufaaraffatikalakaak.</p>
+  </li>
+  <li>
+    <p>Anoosan,nababajdruwaebajwaafwoolafúko'olmbawankunampooredikupaalool.</p>
+    <p>Anletuŋoolenubotfubajfatiatafodimée.</p>
+  </li>
+  <li>
+    <p>Anoosanwuniwun,manubajkawonoorkiiya,ejukyiiyadibuŋarbiiya,súumijaatnuŋooleneúruuŋmbanúje'etumbuŋarabbiiyatíyaŋaraaynenmanbucceŋumeeno.</p>
+  </li>
+  <li>
+    <p>Anoosannababajdruwa,ebajkawonoorkiiyadikáyiisenkonenmanumaŋumieeno.Yooelakomianawarutajaakaliebajsiwonoorsoola.Naŋooleŋoolenayabkurimmbasiwonoorsanaŋooleneafasikendóoésukoolmbatíyaŋ.</p>
+  </li>
+  <li>
+    <p>Druwaasewuwunanoosanimanajuumenkámitmbakáfayatikásuumaay.</p>
+    <p>Anletuŋoolenunokenandikáfayanamaŋut.</p>
+  </li>
+  <li>
+    <p>Anoosannuŋooleŋoolenulakodifujuumfatimukaanaammatimofammiiyambanubajkanúfojulekaje'ebeetejuumi.</p>
+    <p>Anoosannuŋooleŋoolenubajfujuumdimukaanaammatimofammiiya.</p>
+    <p>Kamaŋakkatibukanakkookukiimisembaayyatikaakemmimofam.Kamaŋakkukilawoteeyéyiisenemiko.Mookaanewoteeyekilaewawarebajwaatidiwaati.</p>
+  </li>
+  <li>
+    <p>Anoosantanukinumisensenmanubajutokayeraayyoola.Kayeraayyooyuñaéjowumulojowumdisidruwaassatifubajafdisatitanakinumidisatimukaanaammoola.Kayeraayyooyuanaŋoolentábajaatiyo;mookaaneésukooésukenampoonampoordisísuksaasumankayeraayyooyuekilaebajo.</p>
+  </li>
+  <li>
+    <p>Anoosannababajdruwaebajburokbásuumoo.</p>
+    <p>Bajutaseekbajutániineanoosanarokeburoknababajdruwamankucaamoolbacaambare'enanburokabbanakaanumi.</p>
+    <p>Anoosanammidiburokkuwawarkucaamoolyajmanaŋoolenacookoorsíndaayyoola,naŋoolenabajkayeredifaŋaaffoola.</p>
+    <p>Anoosannababajdruwakajuumenfujumfatikurokaak,naŋooleŋoolenenpoopánokendomankumakaajaay.</p>
+  </li>
+  <li>
+    <p>Anoosannababajdruwaebajkunakkatikayoolo,katifúraar.Waatayyatiburokabewawarerewoorbandiebajwaatiyatikayoolobanpankucaambukanak.</p>
+  </li>
+  <li>
+    <p>Anoosannababajdruwawákoyumebeeakila,bukanakkoola,furiafwañawditanakinumiwawarjak.Anmásuumaatimubajenenkásumutnenanataoolájimembaaneluupoolefumoe.Bukanakkuwawarkurampenool.</p>
+    <p>Mudeenanaamdikuñiilakkuwawarkubajkákaanumdikarampenkáamak.Kuñiilakbúrom"Kabajidikayaboorembakayaboorut"kure'e.Koobúromkuwawarkubajkacookoorkajake.</p>
+  </li>
+  <li>
+    <p>Anoosannababajdruwakakaraŋanawarutacaamkakaraŋ.Añiilnawawarakaraŋbacaamutwaafowaafkakaraŋkatisiteginikasdikatiburokkuwawarkúkambulidibukanakbúrom.Silekoolassáamakaspoopbajutkáfajul.</p>
+    <p>Nafaayyatikakaraŋakyooeenommajakaammatianaudifaŋaaffoola.Kakaraŋkujunjuumfujuumfatiepooysidruwaassatianau;yooyákoneyebenenbenenbapaalaabdimofmajuupoeditutooraayyatimofmajuupoedisisiiwsajuupoedibukankanaamutdiuŋardiwanoosanwakaanimimankayeraayelakodidúniaay.</p>
+    <p>Kubajaakkatikuñiilakkookootekanokenkuñooliildikakaranŋkankookumanŋumi.</p>
+  </li>
+  <li>
+    <p>Anoosannababajdruwaekaanmukaanaammatibukanool,nañesmammujawfàculmammunafaool.</p>
+    <p>Anoosanajoonenewaafmbanaciikwaaf,luwaayewawareppooyuwo.</p>
+  </li>
+  <li>
+    <p>Anoosannababajdruwamanmajoonemulakodimofooldidúniaaymaje'ebeeekaanmansiluwaassammidikaytakukesiŋoolensirokjak.</p>
+  </li>
+  <li>
+    <p>Anoosannawawaranafakankukinoorumi,bukookebkuŋoolenekurampenoolmanmoolamujawfácul.</p>
+    <p>Mankakinoorakkúsuum,babajluwayajuumenimatimatimanematsidruwaassooladimukaanaammatibukanakananoosanisidruwaassooladimajakaammoolamureloretanmaamumatiaamumutooŋumi.</p>
+    <p>Sidruwaasdisiluwaassanujukulaañasiwarutsípurdiwansísukassati“NationsUnies”sisofumi.</p>
+  </li>
+  <li>
+    <p>Waafúleerodikayitakukewanumanjeanmbabukanmbamofmuŋooleŋoolenmújowumtomammukajensidruwaasdisiluwaassándomikayitakasambuleseneraalyatióniéyinenyinenukoebandiépurenukodiburokabbooliyon°217(III)batifuleeŋafufatidesambuurnanfubajumikunakuñendiemitey1948.</p>
+  </li>
+</ol>

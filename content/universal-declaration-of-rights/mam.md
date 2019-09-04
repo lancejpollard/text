@@ -1,0 +1,122 @@
+<h1 align='center'>AT TU'MALAAL KOPIB'IL TWI'YALAAL KAAWB'IL B'IX NIINB'IL</h1>
+<h2 align='center'></h2>
+<p align='center'>Tuj kyaqiil twitz tx'ot', aj tipamaal tu'n teetzat t-xileen tuj kyaanmi kyaqiil winaq, tu'nj juunx kyokleen b'ix milaay b'aj sla'jat kyxileen kyaqiil xjaal;
+At tumalaal tu'n miti' tu'n took tajlaal b'ix tu'n miti' tb'aj yaajat kyokleen qe kyaqiil winaq kyja'tzan nb'ant tnaachal b'ix at ta'wa tuj kyxiinb'atz xjaal, kyja'tzan n'ook jun twi'yalaal yool ti'j kyxiixb'il b'ix kyajb'il qe xjaal, tu'ntzan miti' tuj kyaqiil twitz tx'otx' tchiyalaal b'ix ta'w wa'iij noqtzan tu'n kyeetzan b'i tu'n kyaachan ti'j kyyool b'ix noq alkyeex kyb'ee tuj okslab'il txi' kyi'n;
+Tuj tumalaal, aj kyokleen xjaal tu'n tkoolan aj twi'xaniil nintnam tu'n mi' kub' kyxi'man xjaal tu'n tjaaw kyjayo'n q'ooj ti'j b'eetx'b'il b'ix tnaachal wi'xan;
+Aax iil ti'j tu'n tteen xtaalb'il kyxool kyaqiil nintnam;
+At tumalaal tu'n txi b'incheet jun aq'uuntl kyxool qe tnam tuj kyaqiil twitz tx'otx' tu'n tjaaw kyiipan xjaal tuj yaaj b'ix tujxax tzalajb'il;
+At tumalaal kyu'n tnam kychimo'n kyiib', b'ix ma' b'aj kychik'b'a'n' tuj tu'jal aj q'uqb'il k'u'j ti'j kyokleen xjaal, aj tiipan kychuwiinqalqe xjaal, qe winaq juunx kyponleen xiinaq xu'j, ma' b'aj chik'b'eet tu'n taq'uneet b'aanb'il kye xjaal tuj tu'malxix b'ix kopib'il;
+At tumalaal aqej tanam kyq'oon kyiib' tuj chimob'il ma' kub' kytzii'yan tu'n kyoonan tu'nxax kyok juunan ti'j xaob'il kye winaq, tu'n telpan twitz tnimaal kyokleen xjaal tuj kopib'il;
+Jun tumalaal tu'n kyeetzan kykyaqiil ti'j kyokleen tuj kopib'il kyaqiilqe xjaal, iilxax ti'j tu'n teel twitz ak tzi'yan maj;
+Ajqe kyaqiil kychimo'n kyiib' b'ix tuj chimob'il nb'aj kynuk'u'n b'ix ma' tz'ex kychik'b'a'n aj kyokleenqe winaq, aatzan xiinb'il kye kyaqiil tnam, tk'u'j tnam, twi' tnam tuj kyaqiil twitz tx'otx', tu'n tok kyipamaan kyiib' tza'nx kyteenkaqe q'inool twitz b'ix teeyalax te juunjan xjaal tu'n tok tnimsa'n, b'ix tu'n t-eetzan ti'j, aax ikyx tu'n txi' t-xnaq'tza'n tuj jun xnaq'tzab'il ti'j aj xob'il ti'j kyokleen xjaal tuj kopib'il, tu'n txi' kylajo'n tu'n tjaaw nimseet tuj qtaanma b'ix twi' kytaanma aamaq', tu'n telpan twitz tuj kyaqiil twitz tx'otx', tuj kytaanma qe tajawiil twi' yool b'ixqe xjaal, qe tnam kynaqa'yal tuj kyaqiil twitz anq'ib'il.</p>
+<ol>
+  <li>
+    <p>Kyaqiilqewinaqnchiitz'ajtujkopib'il,juunxkychuwiinqalb'ixkyokleen,kyja'tzantujtb'aanalxiinv'iltu'nkyanq'iintujb'ank'u'jkyxool.</p>
+  </li>
+  <li>
+    <p>Kyaqiilqexjaalatkyokleentujkopib'ilmiti'xmaayb'ilb'ixiik'b'ilti'jchikiinqexu'j,qexiinaq,chiyoolan,kyokslab'ilb'ixkyxiimb'ilti'jkyanq'ib'il,noqti'yaxtqaljuuntlajmaitz'ajkyxoolxjaaltujkytaanmaaaxikyxmiya'tu'njatnimtpuwaaqjunxjaalkyja'tzanmatiijtxileenb'ixnoqti'yaxjuunxkyokleenkyaqiilxjaal.Ikyxmiti'q'ib'ajniiky'kyi'jxjaalkyna'nti'jtwi'xaniilkytaanmab'ixtwitzajkaawilqati'jxakytaanmab'ixqatujxnoqja'yaxnajlaxjaal,qatujjuntanamteetzantiib'b'ixikyxjotujtanamqatlak'oontiib'ti'jtkaawb'iljuuntltnam.</p>
+  </li>
+  <li>
+    <p>Kyaqiilqexjaalatkyokleenti'janq'ib'il,kopib'ilb'ixq'uqb'ilk'u'jti'jkyxmilaal.</p>
+  </li>
+  <li>
+    <p>Mijuuntu'ntooktjaq'yaajb'il,tujmooyb'il,qaatmooyb'ilb'ixyaajb'ilnoqtza'nyaxtu'malkb'anteeltu'ntkub'q'uuchaj.Milaayche'xk'aayatxjaaltekyaq'unaalxjaalq'iinan.</p>
+  </li>
+  <li>
+    <p>Mijuuntu'ntooktujxpitz'b'ilb'ixta'wmilaaytz'ookjunxjaaltujxhiipib'ilkyiwikytza'njunti'yaxmiya'winaq.</p>
+  </li>
+  <li>
+    <p>Kyaqiilqexjaalatkyokleentujkyaqiilplajtwitztx'otx'okkyiky'tujtumalaalkyu'nwi'xin.</p>
+  </li>
+  <li>
+    <p>Kyaqiilqexjaaljuunxkyponleentwitztz'iyasab'ilanq'ib'ilkyu'najm'unal,milaaytxi'q'ib'ajniiky'ti'jtokleenb'ixjuunxkolob'iltu'ntz'iyasab'il.Kyaqiilqexjaaljuunxkyokleentujkoolb'iltu'niik'b'ilqaatmiti'sooktujtwi'ajchik'b'ab'iljulu'b'ixqaatmajawjayoonteiik'b'il.</p>
+  </li>
+  <li>
+    <p>Kyaqiilqexjaalatkyokleenti'jjunkoolb'iltwitzkyjaaxtiisb'il,ajqamiya'b'a'nnxi'b'incha'nti'jtokleenxjaaltujtanq'ib'il.</p>
+  </li>
+  <li>
+    <p>Mixjuunxjaaltujxmaayb'iltu'ntxi'txetze'tza'nxtu'nteexlajeetti'jxatanam.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaalatkyokleenb'ixmiti'juunkub'anab'ixmiti'jawana,tu'nkyokb'i'ntujxtiisteetzantiib'b'ixmiya'tujeewaj.Qaattiiljunxjaal,iilti'jtu'ntb'ajki'nxaxtu'ntzanmiya'junsla'j.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaalqamatz'okq'o'njuniilti'jb'ixmiti'xkyekajtujxhk'aatan,b'a'ntu'ntkub'te'wannoqtza'ntteentu'nxtiis.Iilti'jtu'ntxi'chik'b'a'nkywitzxjaaltu'ntokxo'nb'ixtkoloomtiib'.</p>
+    <p>Mijuuntu'ntkub'qiitz'annoqtu'njmiib'antkoloomtiib',ajootaqb'anttu'nxjaalmiya'tujiilxax,kyja'tzanntq'ama'najtokleentujtnamb'ixti'jxatnam.Aaxmilaaykub'xaxta'wti'jjunajiiloktb'antkajunti'yaxtu'n.</p>
+  </li>
+  <li>
+    <p>Miti'junxjaaltu'ntokseky'peettujtanq'ib'il,tujtjaakyxooltk'uwa'lb'ixqatujtmaajanjaa.Kyaqiilxjaaltu'ntkoleettu'nkawb'ilqamatz'okseky'pu'nb'ixqamatz'okb'iyo'n.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaaltu'ntb'eetnoqja'yaxtu'malb'ixtu'ntaanq'annoqja'yaxtu'maltujjuntnam.</p>
+    <p>Kyaqiilxjaaljakutz'eextujkyaqiiltnam,tujteexttaanmab'ixtu'ntaajtzmaqtz'aj.</p>
+  </li>
+  <li>
+    <p>Qajunxjaalnjayeettu'ntlaajjuniiljakuqaananxtaalb'iltujalkyeextnamb'ixtu'ntteentujtb'aanal.</p>
+    <p>Ajtponleenjalu'milaaytz'ookti'jjunb'inchb'eenkyu'njaxtiisqanoqjuniilmiya'nimb'ixti'jtaaq'unb'ixkylok'tnamkychimoonkyiib'.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaalattokleentetk'u'jtnam.</p>
+    <p>Miti'junxjaaltu'ntkub'xk'aayattokleentujttaanmatza'nxqatajtu'ntb'ajtch'expu'n,tu'ntaanq'antujjuuntltnam.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxiinaqb'ixxu'joktpoonkyab'q'iiyaltu'nkymoje',noqtza'nyaxchikiinqaxhnuulqaquuk'al,miti'kyiiltokti'jb'ixmi'aaljakatz'okteenmayoolkyee.Qatejuuntltnamqe,qatejuuntlokslab'il,b'a'ntu'ntb'antkyteentujkyanq'ib'iltujkyjaaokkymoje'tujmojeb'ilb'ixqamachi'eelpaaxaaxtxileenkyanq'ib'il.</p>
+    <p>Noqtujkyexaxkyxiinb'is,tujkopib'ilqeku'xanjakatz'eetzkymojeb'iltwitzleyb'ixtujkyokslab'il.</p>
+    <p>Ajnajle'naatzantb'anq'ab'b'ixtiipankyanq'ib'ilkyaqiilxjaaltujjuntnam,kyja'tzantu'nkykoleetkyu'ntnamb'ixtu'ntwi'xaniiltnamtujtii'yaxtnaachal.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaalatkyokleeneetzaljunti'yaxqakyjunaalb'ixqaila'kyb'eettajawiil.</p>
+    <p>Mi'aaljunxjaaljakatz'elq'iitajteextaq'umb'een.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaaltzoqpi'ntu'ntkub't-xii'mannoqti'yaxtqal,tujteext-xiinb'iltujtokslab'il;ikyxajalu'qatajb'iltu'ntkub'tch'expu'ntokslab'ilb'ixqaajtb'eetujtanq'ib'il.Miti'tiiltu'ntb'eettujjunokslab'iltjunaalb'ixqila'kyb'eet,qatujxnaq'tzb'il,qakyxooltxqantlxjaal.</p>
+  </li>
+  <li>
+    <p>Kyaqiilqexjaaltzoqpi'nqeti'jkyxinb'ilb'ixkyyooltu'nti'kyq'ama'n,ajtokleenlu'milaaychiookmayeettu'ntlaajkyyool,tu'ntjayeetjunxinb'il,tu'ntkaanantpakb'aalb'ixyoolnoqalkyeextu'mal,tujpuqb'ilyool,tuju'jmiti'maqob'iltee.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaalmiti'tiilti'jtu'ntookjunchenb'ilb'ixtu'ntooktujchimob'iltujaachib'il.</p>
+    <p>Milaaytz'okchq'eetjunxjaaltu'ntooktujjunchenb'il.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaaljakachiooktewi'xantujkytaanmaqateetzanxtiib'b'ixqajunt-xeelnoqchitookkyu'nxjaalokkyelsik'o'n.</p>
+    <p>Kyaqiilxjaaljuunxkyokleenti'jkyiiqatzkyxooltnamtujkytaanma.</p>
+    <p>Tu'ntb'ank'u'jtnamtu'nteeltsik'o'njunwi'xanb'ixaatzantipamaalkyxoolxjaal,oktooksik'ob'iltujtuu'malxixtujjuunjanel.Teeyalaxtejuunjanxjaaltujeewajtu'ntoktq'o'ntiipanalkyeexjaaltajb'iltu'ntooktewi'xan;kyja'tzantu'nteeltwitzajtspiky'amaal.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaalatxob'alkyeetujkytaanma,b'ixatkyokleenti'jtza'nxtteenkatq'inamab'iltnam,tu'ntzanb'a'ntu'nkyteenxjaal.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaalb'a'ntu'ntaq'unaanb'ixb'a'ntu'ntjaawtjayo'ntaaq'untu'ntanq'iin.</p>
+    <p>Kyaqiilxjaalmiti'iik'b'ilteti'jtwi'tk'u'jti'jaq'uuntlootaqb'anttu'n.</p>
+    <p>Kyaqiilxjaalaq'unaal,iilti'jtu'nt-eetzanti'jjunxtaalb'ilkyuk'utk'uwa'l,tu'ntzankyteenb'a'nxix.</p>
+    <p></p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaalaq'unaalattokleenti'jjunujlab'ilb'ixiilti'jtu'ntchojeettujlab'ilxjaal.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaalattokleenti'janq'ib'iltujtu'malxixtu'ntkoleettujyaab'il,tu'ntwa'n,tu'nt-xb'alamaan,qajuna'waxmatooqajaaxattokleenti'janq'ib'ilb'antzalakoox.</p>
+    <p>Kyaqiilqek'uwaalatkytuxu'b'ixqamiti'juunxtjapanpoonkyokleenti'janq'ib'il.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaalatkyokleenti'jxnaq'tzab'iltujtneejalab'q'iimiti'chojob'ilteeb'ixkyaqiilxjaaltu'nkyxnaq'tzaanti'jaaxatkyokleenxjaalti'jjuuntlkolxnaq'tzab'il.</p>
+    <p>Kyanqiilxjaaliilti'jtu'ntjaawkyii'nkyiipantujxnaq'tzab'ilb'ixiilti'jtu'nteelkyniiky'ti'jxob'iltujanq'ib'iltu'ntzantkub'teentb'aanalkyxoolb'ixkyxoolnintnam.</p>
+    <p>Kyaqiilxjaalb'a'ntu'ntjaawkyjayo'nalkyeexnaq'tzab'ilkyajb'iltu'ntxi'q'ootkyeqek'uwaal.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaalmiti'tiiltu'ntanq'iintujtkojb'il,attokleenti'jtb'aanalnaab'iltekojb'il.</p>
+    <p>Kyaqiilxjaalatniinb'ilteeti'jniky'akaxtb'aanalt-xiinb'iltujtkojb'il.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaalatxob'alteeb'ixattokleenti'jjunkaawb'iltujttaanmab'ixti'jxatnam,ikytzantokyoolb'anantu'nchimob'ilkyenintnam.</p>
+  </li>
+  <li>
+    <p>Kyaqiilxjaaliilti'jtu'ntkub'teenb'a'ntujtkojb'iltu'ntzanjuunxtu'ntxitii'ntiipanaq'uuntlb'ixxiinb'il.</p>
+    <p>Kyaqiilxjaalo'kaxmayeettu'nyoolb'anantujtwi'yalaalkaawb'iltetnam,tu'ntzantkub'xe'tjuntb'aanilanq'ib'iltujtnam.</p>
+    <p>Ajkaawb'iltkub'kyoolxjaal,o'kaxtxi'ch'ik'eetikytza'nb'anantu'nchimob'ilkyenintnam.</p>
+  </li>
+  <li>
+    <p>Kyaqiilyoolb'anantujtwi'yalaalkawb'iltu'nchimob'ilkyenintnam,milaaykub'tq'uuchanjunk'olojxjaalb'ixqajuunxnintnam.Tzi'yanmajtu'nchimob'ilkyenintnam.</p>
+  </li>
+</ol>

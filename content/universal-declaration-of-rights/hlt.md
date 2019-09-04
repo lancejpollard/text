@@ -1,0 +1,123 @@
+<h1 align='center'>DIKLAI PUM THLANGHING HAMHMOEL OL HOE NA CAYOL</h1>
+<h2 align='center'>Ol rhoek nah</h2>
+<p align='center'>Thlang boeihkah thlangphun rimomna thlangtom vanpitna hamhmoel boeih pompuina tah thlangboeih kah zalpo nah, duengtlangna, roepremna roek kah a kungpui la a om dong ah khaw ti saeh:
+Thlanghing hamhmoel cina bangla nawtsap napawt he thlangtom boeih kah singyoe te aka phaekung ka thae koek khoboe rhamlang la acoeng sak thai dong ah khaw ti saeh, alangya la thuikhan thaina, alangya la bawkthaina, rhalrih na neh khodaeng patang khang na khui lam ka loh loeih tih khosak omthenna diklai phueng na thai ham la, thlangtom boeih loh mah kah ngaihna asang koek la aphong coeng dong ah khaw ti saeh;
+Thlangtom boeih loh atuengta mueh la hnaemtaekna, ukkna, thaekhana na neh ahnukhit ah acoeng thai pawt dong ah lungpok haica neh caemthohna a om na pawt ham, thlanghing hamhmoel na te upadi neh dawndah paham la angoe dong akhaw tisaeh;
+Ramtung khat neh khat roeprem cala tukkai na u thae, pomsangna ham la bisai ham a om dong ah khaw tisaeh;
+UN roihui boeih loh mahkah hamhmoel boeih te khaw, thlanghing rimom na khaw saeh huta tungpa hamhmoel vanpitna khaw saeh, ka hinyah na ni tila koekthoek ah apom phoei bal ah thlanghing khosak aroeng na neh a aomthen na atang aroeng na ham ol akam coeng dong khaw ti saeh;
+UN roihui boeih loh UN neh bongyong u tih thlanghing hamhmoel cina khaw saeh, akungsut yalpona hamhmoel khaw tisaeh, diklai pum ah avaina thai ham tha ka paek ni ti la ol akam coeng dong ah khaw tisaeh:
+Te dongah
+UNO ngoltun na loh
+Ramtom thlanghing hamhmoel cayol he thlangboeih neh buping boeih loh thinkolungbuei ah akhoem doe ah tekah hamhmoel neh yalpona he ahinyah na u hamla ringtuk doe ah tha kahuel uhni tina khaw tiseh; UN roihui cana neh tikah ramtung khui kah khoram kah pilnam boeih loh, tikah hamhmoel na te acoeng thai khui ah bit bit avai thai na hamla ramkhui ramvoel ah tha kahuel uhni tilam khaw tiseh, amaengtaeng tih ramtom thlanghing hamhmoel olhoena cayol te ramtom boeih, thlangtom boeih, vanpit cala abi na u thai ham la, hoe la om.
+Caboelna</p>
+<ol>
+  <li>
+    <p>Thlangboeihherhimomna,vanpitna,yalponahamhmoelkatawnthlanglacuunlang’omu.Thlanghingheathae-thenpaekboethainanehyakmingthainamoeiboekatawnthlanglan’omudongahkhatnehkhatlungvatnanehthloehlanvoekhlakuthaehamom.</p>
+  </li>
+  <li>
+    <p>Thlangboeihlohthlanghinghamhoelcayoldongkahhnosaithainanehyalponahamhmoelboeihheapanghamom.Thlangphun,vuenyong,huta-tungpa,ol,nainganyaepoekna,atloetloepoekna,ramtungnehtukkaina,khosaknanehthawtnakong,khuehtawnkoeva,khuilambennehatloetloedongahpaekboenaomboelsaeh.Tecoengah,thlangkhatkhoasaknahramtungtptkhoramkhatkahnainganyaedongahmaia,uknahmuendongmaia,ramtungkhatnehkhattukkainadongmaia,thlangkhatkhosaknahmuendongahmaia,ramtungkhatteamahngaihloeiahaukramlaaommaia,tptUNOlohadawndahramtunglaaommaia,tptamahpoekahrakthuemkaukuramtunglaaommaia,tlamteamahpoekahboeihkaukupawhramlakaommaiakhatnehkhatlakloahpaekboenaomboelsaeh.</p>
+  </li>
+  <li>
+    <p>Thlanghingboeihucakhawsasuengcalangaihloeiahhingthainahamhmoelatawn.</p>
+  </li>
+  <li>
+    <p>Ucakhawsallatptsalbanglatuihhnotuihbahamompawh.Upadikahvoelahsalnatehnopaibanglayoihnanehlainakhangpani.</p>
+  </li>
+  <li>
+    <p>Mebangthlangkhawathlanghingcoengnayahnapamuehlakhohtihhnaemtaekthaekhanamahpawh.</p>
+  </li>
+  <li>
+    <p></p>
+  </li>
+  <li>
+    <p>Mebangthlangkhaw,meroekakhawupadihmaiahthlanghingcoengnahamhmoeltepompahamom.</p>
+  </li>
+  <li>
+    <p>Thlangboeihupadihmaiahpaekboemuehlavanpitcaladawndahhamom.Hekaholhoenakahangaihnaheaektihpaekboenasainaneh,tlamtesaihamcahoehnalamkalohaloeihnahamdawndahnakhawvanpitcalaapangni.</p>
+  </li>
+  <li>
+    <p>Mebangthlangkhawupadiningmuehlatukna,khohnanehramvoellahaeknaommahpawh.</p>
+  </li>
+  <li>
+    <p>Ucakhawhamhmoelcananehtahampaeknasoaholtloekvaengahmaia,tholhnasoahlaitloekvaengahmaia,thlangboeihlaithuiyunglohkhatbenkhatbanghaaroimuehlarangpuihmaiahduengtlangcalalaithuitihlaitloeknatevanpitcalaapanghamom.</p>
+  </li>
+  <li>
+    <p>Rangpuihmaiaupadininglalaithuivaengahtholhpaelnatetholhtangtangtilalaiatloekhlankhuitahtholhpaelthlangtetholhpawhtilapoekthainahamhmoelatawn.Tebanglaithuivaengahtholhpaelthlangte,tekahlaithuinaahoeltaihthainahamhmoelpaektangtaelaom.</p>
+    <p>Thlangkhatteramtungupadininglammaia,ramtomupadininglammaia,lailakacoengpawhbibinatptbibinapawtninglatholhpaelpawtham.Tecoengahsaitholhlivaengkahpaektuengdantatnalakahalenbetdanpaekpawtham.</p>
+  </li>
+  <li>
+    <p>Mebangthlangkhawmahngaihahdingsueklakhosaknaahkhawtisaeh,mahimkhuiko,mahimlo,caapatcanasoahupadiningmuehlarolrakthaipawh.Tecoengahmahkahrimomnatekhawasobenkahbanglathuithetmahpawh.Thlangtomtebangrolraknanehthuithetnakuilamkalohupadiningladawndahthainahamhmoelatawn.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihramtungramrikhuiahngaihloeiahpuenuthai,khoasakthaihamhmoelatawn.</p>
+    <p>Thlangtomboeihmahkhosaknaramtunglamkaloh,ramtungtloelamkalohpuenthainahamhmoelatawncoengahmahramlamaelthainahamhmoelatawn.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihhnaemtaeknalamkalohloeihnahamramtungtloeahdingsuekcalaraehbathainahamhmoelatawn.</p>
+    <p>Nainganyaenehtukkaimuehsaitholhkhuilongmaia,UNOkahmengtengna,poeknanehkalhsaitholhkhuilongmaia,akacoengtholhcanadongahakasoengtholhpaelnasoahasokahhamhmoeltehnonathaipawh.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihramtungkhatkahkhosacalacoengthai.</p>
+    <p>Upadiningmuehlaucakhawamahramtungkahkhosacalacoengnatebawtpasakthaipawh.Ramtungtloekahkhosacatloelacoengnatekhawhnoelpathaipawh.</p>
+  </li>
+  <li>
+    <p>Kumkacueptangtaehutatungparoektethlangphundongmaia,khosacacoengnadongmaia,bawknadongmaiapaengnaeltihpinyenmuehlayuvasaknanehimkhuikopaithainahamhmoelatawn.Tikahhutanehtungpaayuvaroivaengamaia,apaekuroivaengamaia,kuttukna,yulohvasaknanehkavanuhamhmoelteadangtuengni.</p>
+    <p>Cadongnehhulateamahmihkongaihnabanglangaihloeiahyulohvaasakthai.</p>
+    <p>Imkhuikokhathethlanghingkhuipingkhatkahakungsutlaom.Tikahimkhuikotethlanghingkhuipingnehbarankahdawndahnaadanghamom.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihamahbuengmaia,thlangtloenenmaiabokutihhnopaicinateatawnthainahamhmoelatawn.Upadiningmuehlamebangthlanglongkhawhnopaitawnthainahamhmoelbawtpasakthaipawh.</p>
+    <p></p>
+  </li>
+  <li>
+    <p>Thlangtomboeihngaihloeiahkhopoekthainanehphuengthaina,ngaihloeiahpomtihpaithainanehngaihloeiahbawkthainaom.Tikahhamhmoeltemahkahbawknatptoengnatengaihloeiahpuentakthaibuengmuehlaamahbuengmaia,thlangtloenabbokutihmaia,rangpuiboeihkahhmaiahmaia,ahueplammaia,mahkahbawknatetptoengnatengaihloeiahcangpuithai,bawkthainateahnothainahamhmoelthum.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihngaihloeiahkhopoektihngaihloeiahphongthainahamhmoelatawn.Tekahhamhmoeldongahrolraknaommuehlangaihloeiahkhopoekthainathumbuengmuehlaramricinalohkanghalhmuehlaolthangkalinehkhopoeknatecangthaina,pomthainanehraekrathainahilahthum.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihngaihloeiahsuepsueptingtunthainanehbupingphuengthainahamhmoelatawn.</p>
+    <p>Mebangthlangkhawbupingkhuiahathamalakunsakphungpawh.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihmahkahramtunguknakhuiahmahroemaia,langyalaatueklaipailongmaiapatoengthumtihbithainahamhmoelatawn.</p>
+    <p>Thlangtomboeihmahramtungkahbaranbibiiahkunthainahamhmoelvanpitlaadanguni.</p>
+    <p>Pilnamkahngaihnaheuknaanaakahakungsutlaomni.Tengaihnatetuetangboelvetihtueknanehtuengsakni.Tueknaahthlangtomboeihmekpaekthaini.Tetueknaahahueplamekpaeknanenmaia,tebangnekavanumekpaekphungnenmaiasaihamom.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihthlanghingkhuipingkahroihuikhatlaaomdongahathaethenahsasuengnahamhmoelatawnbuengmuehlanainganyaetangnanenmaia,ramtomkahbongyongnanenmaia,ramtungtakuemkahconstitutionnenmaia,diklaikhuikahphutingkoevanenmaia,tikahthlangkahrimomnanehmoeiboearoengnahamangoeeconomic,socialnehsingyoehamhmoelboeiahnonathai.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihbibinahammaia,mahkahbungkhutnabingaihloeiahtuekvaengahmaia,tuengtacalabibinahmuenahbithainahammaia,bibikhuehpawtthlanglacoengnalamkalohdawndahnadangthainahamhmoelom.</p>
+    <p>Thlangtomboeihbipakhatsoahaphukhawavanpitlaadanghamom.</p>
+    <p>Bikabithlangboeihheamahnehaimkhuikorimomcalakhosakthaihamtuengtacanehngaaikhuekcalabitihthapangkhawadanghamom.Angoeatah,atloelongkhawbomcemnanateadangthainaom.</p>
+    <p>Thlangtomboeihamahhoikhangnadawndahnahamlabibithlangbupingcinaphuengtihthumthainahamhmoelatawn.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihatingtawklaboelraitangtaebibitue,thapangnehangoengaihbanglaahmoeltangtaeduemtue,bihoeptueapangthai.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihamahnehaimkhuikhotaksanehlungbuithinkosadingcalakhon’sakthainahamcaakooh,pueinaak,imlo,tuisibomnanehthlanghingkangoekoibomnaboeihn’dangthailaomni.Tebuengmuehlabiaompawtvaengakhawtisaeh,saadingpawtvaengakhawtisaeh,kutkhoasoeppatvaengakhawtisaeh,nuhmailaaomvaengakhawtisaeh,patonghamcavaengakhawtisaeh,mahkutkholohcawipawttihbungkhutnalongimm’mingpawtvaengakhawtisaeh,ngaimongsasuengcalakhosakthainahamhmoelatawn.</p>
+    <p>Cakacuunmanucananehcamoecanaheathencalasawtletdawndahtihbomcennaadangthai.Upadininglayuvasaknanenmaia,atloelongimnenmaiacuunlakaomcamoeboeihtevanpitcalasawtletdawndahnadangthailaomni.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihcacangthainahamhmoelatawnu.Ayolbiktanglihilahayoelacangthai.Tanglihiltecangsakroeroehamom.Sehbennehbungkhutnabencuithoemnacangnahethlangboeihlohacangthai.</p>
+    <p>Cuihthoemnacangvaengahthlanghingmoeiboeathenlaaroengnahambenneh,thlanghinghamhmoelnehyalpona(fundamentalfreedom)benhinyahnathaihamcangpuini.Ramboeih,thlangphunboeihtptbawknabupingboeihlakloahkodonanehyakminguthaedoeahpawlnaengthainapomsangpahambuengmuehlaUnitedNationslohralmongnakhoembaelnaahcolhtatthainahamhilahacangpuini.</p>
+    <p>Cunkungmanunapaboeihlohacanalohacanghamkoicuihthoemnateatuekpahamomni.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihmahkhuipingkahsingyoemoeiboenehkhosaknaahthumthaina,artsahomthenbawnthaina,sciencebenahhnothaiphuengthainanehahoeikhangnapangthainaahngaihloeiahthumthai.</p>
+    <p>Thlangtomboeihhesciencebenkahhnosainadongkah,artsbensainadongkahadangkoihoeikhangnatedawndahthainahamhmoelatawn.</p>
+  </li>
+  <li>
+    <p>Thlangtomboeihhekaholhoenanakhuikahkathumhamhmoelnehyalponatekhatnehkhattukkaina-sawtletna,ramtomahhnonathai.</p>
+  </li>
+  <li>
+    <p>Mahkahmoeiboeasoepcala,ngaihloeiaharoengthainakhuipingpakhathamthlangboeihlohtahamn’tawn.</p>
+    <p>ThlangboeihlohMahkahyalponahamhmoeltehnonavaengah,thlangtloekahhamhmoelnehyalponatehinyahdoeahyakmingpuithainahammaia,democracykahnonathlanghingkhuipingahmoeiboebuengmuehla,khoramralmongnahamnehpilnamhoeikhangnaham,duengtlangcalakhosakthainahammaia,upadinenbuengniariamongn’suempathai.</p>
+    <p>Tekahhamhmoelnehyalponatemebanghnohamkhaw,UNkahmaengtaengnanehmaia,kungsutolninglam(principle)nenmaiaakalhlahnonamahpawh.</p>
+  </li>
+  <li>
+    <p>Hekahhoenacayolkhuikahhamhmoelnehyalponatepocinahamtaengtihramtungkhathammaia,thlangroiathammaia,thlangkhatbuenghammaiabithainahamhmoelomtilammaia,mahroeroelohbihamhamhmoelomtilammaiaatloelathloephnonamahpawh.</p>
+  </li>
+</ol>

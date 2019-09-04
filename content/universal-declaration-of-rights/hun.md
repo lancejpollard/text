@@ -1,0 +1,122 @@
+<h1 align='center'>Az Emberi Jogok Egyetemes Nyilatkozata</h1>
+<h2 align='center'>Bevezető</h2>
+<p align='center'>Tekintettel arra, hogy az emberiség családja minden egyes tagja méltóságának, valamint egyenlő és elidegeníthetetlen jogainak elismerése alkotja a szabadság, az igazság és a béke alapját a világon,
+Tekintettel arra, hogy az emberi jogok el nem ismerése és semmibevevése az emberiség lelkiismeretét fellázító barbár cselekményekhez vezetett, és hogy az ember legfőbb vágya egy olyan világ eljövetele, amelyben az elnyomástól, valamint a nyomortól megszabadult emberi lények szava és meggyőződése szabad lesz,
+Tekintettel annak fontosságára, hogy az emberi jogokat a jog uralma védelmezze, nehogy az ember végső szükségében a zsarnokság és az elnyomás elleni lázadásra kényszerüljön,
+Tekintettel arra, hogy igen lényeges a nemzetek közötti baráti kapcsolatok kifejeződésének előmozdítása,
+Tekintettel arra, hogy az Alapokmányban az Egyesült Nemzetek népei újból hitet tettek az alapvető emberi jogok, az emberi személyiség méltósága és értéke, a férfiak és nők egyenjogúsága mellett, valamint kinyilvánították azt az elhatározásukat, hogy elősegítik a szociális haladást és nagyobb szabadság mellett jobb életfeltételeket valósítanak meg,
+Tekintettel arra, hogy a tagállamok kötelezték magukat arra, hogy az Egyesült Nemzetek Szervezetével együttműködve biztosítják az emberi jogok és alapvető szabadságok általános és tényleges tiszteletbentartását,
+Tekintettel arra, hogy a jogok és szabadságok mibenléte tekintetében közös felfogás kialakításának a legnagyobb jelentősége van az említett kötelezettség maradéktalan teljesítésének szempontjából
+a közgyűlés kinyilvánítja az emberi jogok egyetemleges nyilatkozatát
+mint azt a közös eszményt, amelynek elérésére minden népnek és minden nemzetnek törekednie kell abból a célból, hogy minden személy és a társadalom minden szerve, állandóan szem előtt tartva a jelen Nyilatkozatot, oktatás és nevelés útján előmozdítsa e jogok és szabadságok tiszteletbentartásának kifejlesztését, valamint azoknak fokozatosan megvalósuló hazai és nemzetközi jogszabályok útján történő általános és tényleges alkalmazását és elismerését mind a tagállamok népei között, mind pedig a joghatóságuk alatt álló területek népei között.</p>
+<ol>
+  <li>
+    <p>Minden.emberilényszabadonszületikésegyenlőméltóságaésjogavan.Azemberek,ésszeléslelkiismerettelbírván,egymássalszembentestvériszellembenkellhogyviseltessenek.</p>
+  </li>
+  <li>
+    <p>Mindenki,bármelymegkülönböztetésre,nevezetesenfajra,színre,nemre,nyelvre,vallásra,politikaivagybármelymásvéleményre,nemzetivagytársadalmieredetre,vagyonra,születésre,vagybármelymáskörülményrevalótekintetnélkülhivatkozhatajelenNyilatkozatbankinyilvánítottösszesjogokraésszabadságokra.Ezenfelülnemlehetsemmifélemegkülönböztetésttenniannakazországnak,vagyterületnekpolitikai,jogivagynemzetközihelyzetealapjánsem,amelynekaszemélyállampolgára,aszerint,hogyazilletőországvagyterületfüggetlen,gyámságalattáll,nemautonómvagyszuverenitásabármelyvonatkozásbankorlátozott.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavanazélethez,aszabadsághozésaszemélyibiztonsághoz.</p>
+  </li>
+  <li>
+    <p>Senkitsemlehetrabszolgaságban,vagyszolgaságbantartani,arabszolgaságésarabszolgakereskedésmindenalakjatilos.</p>
+  </li>
+  <li>
+    <p>Senkitsemlehetkínvallatásnak,avagykegyetlen,embertelenvagylealacsonyítóbüntetésnekvagybánásmódnakalávetni.</p>
+  </li>
+  <li>
+    <p>Mindenkinekjogavanahhoz,hogyjogalanyiságátbárholelismerjék.</p>
+  </li>
+  <li>
+    <p>Atörvényelőttmindenkiegyenlőésmindenmegkülönböztetésnélküljogavanatőrvényegyenlővédelméhez.MindenkinekjogavanegyenlővédelemhezajelenNyilatkozatotsértőmindenmegkülönböztetésselésmindenilyenmegkülönböztetésreirányulófelbujtássalszemben.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavanazalkotmánybanvagyatörvénybenrészérebiztosítottalapvetőjogokatsértőeljárásokellenahazaibíróságokhozténylegesjogorvoslatértfolyamodni.</p>
+  </li>
+  <li>
+    <p>Senkitsemlehetönkényesenletartóztatni,őrizetbevennivagyszáműzni.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekteljesenegyenlőjogavanarra,hogyügyétfüggetlenéspártatlanbíróságméltányosanésnyilvánosantárgyalja,sezhatározzonegyrésztjogaiéskőtelezettségeifelől,másrésztmindenelleneemeltbűnügyivádmegalapozottságafelől.</p>
+  </li>
+  <li>
+    <p>Mindenbüntetendőcselekménnyelvádoltszemélytártatlannakkellvélelmeznimindaddig,amígbűnősségétnyilvánosanlefolytatottperben,avédelméhezszükségesvalamennyibiztosítékmellett,törvényesenmegállapítják.</p>
+    <p>Senkitsemszabadelítélniolycselekményértvagymulasztásért,amelyelkövetésepillanatábanahazaijogvagyanemzetközijogszerintnemvoltbüntetendőcselekmény.Ugyancsaknemszabadsúlyosabbbüntetéstkiszabni,mintamelyabüntetendőcselekményelkövetésepillanatábanvoltalkalmazható.</p>
+  </li>
+  <li>
+    <p>Senkinekmagánéletébe,családiügyeibe,lakóhelyemegválasztásábavagylevelezésébenemszabadönkényesenbeavatkozni,sempedigbecsületébenvagyjóhírnevébenmegsérteni.Mindenszemélynekjogavanazilyenbeavatkozásokkalvagysértésekkelszembenatörvényvédelméhez.</p>
+  </li>
+  <li>
+    <p>Azállamonbelülmindenszemélynekjogavanszabadonmozogniéslakóhelyétszabadonmegválasztani.</p>
+    <p>Mindenszemélynekjogavanmindenországot,ideértvesajáthazájátis,elhagyni,valamintsajáthazájábavisszatérni.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavanazüldözéselőlmásországbanmenedéketkeresniésamásországnyújtottamenedéketélvezni.</p>
+    <p>Erreajogranemlehethivatkozniközönségesbűncselekménymiatti.kellőképpenmegalapozottüldözés,sempedigazEgyesültNemzetekcéljaivaléselveivelellentétestevékenységesetében.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavanvalamelyállampolgársághoz.</p>
+    <p>Senkitsemlehetsemállampolgárságától,semállampolgárságamegváltoztatásánakjogátólönkényesenmegfosztani.</p>
+  </li>
+  <li>
+    <p>Mindaférfinak,mindanőnekaházasságraérettkorelérésétőlkezdvejogavanfajon,nemzetiségenvagyvallásonalapulókorlátozásnélkülházasságotkötniéscsaládotalapítani.Aházasságtekintetébenaférfinakésanőnekmindaházasságtartamaalatt,mindaházasságfelbontásatekintetébenegyenlőjogaivannak.</p>
+    <p>Házasságotcsakajövendőházastársakszabadésteljesbeleegyezésévellehetkötni.</p>
+    <p>Acsaládatársadalomtermészetesésalapvetőalkotóelemeésjogavanatársadalom,valamintazállamvédelmére.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynek,mindegyénileg,mindmásokkalegyüttesenjogavanatulajdonhoz.</p>
+    <p>Senkitsemlehettulajdonátólönkényesenmegfosztani.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavanagondolat,alelkiismeretésavallásszabadságához,ezajogmagábanfoglaljaavallásésameggyőződésmegváltoztatásánakszabadságát,valamintavallásnakvagyameggyőződésnekmindegyénileg,mindegyüttesen,mindanyilvánosságelőtt,mindamagánéletbenoktatás,gyakorlásésszertartásokvégzéseútjánvalókifejezésrejuttatásánakjogát.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavanavéleményésakifejezésszabadságához,amelymagábanfoglaljaaztajogot,hogyvéleményemiattneszenvedjenzaklatástéshogyhatárokravalótekintetnélkülkutathasson,átvihessenésterjeszthessenhíreketéseszméketbármilyenkifejezésimódon.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavanbékéscélúgyülekezésiésegyesülésiszabadsághoz.</p>
+    <p>Senkitsemlehetvalamelyegyesületbevalóbelépésrekőtelezni.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavanahazájaközügyeinekigazgatásábanakárközvetlenül,akárszabadonválasztottképviselőiútjánvalórészvételhez.</p>
+    <p>Mindenszemélynekegyenlőfeltételekmellettjogavansajáthazájábanközszolgálatiállásokravalóalkalmazásához.</p>
+    <p>Aközhatalomtekintélyénekalapjaanépakarata;ezazakarategyenlőszavazatijogéstitkosszavazásvagyaszavazásszabadságátezzelegyenértékűenbiztosítóeljárásalapjánidőszakonkénttartandótisztességesválasztásonkellhogykifejezésrejusson.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekmintatársadalomtagjánakjogavanaszociálisbiztonsághoz;mindenszemélynekugyancsakigényevanarra,hogy-azállamokerőfeszítéseiésanemzetköziegyüttműködéseredményeképpenésszámotvetveazegyesországokszervezetévelésgazdaságierőforrásaival-améltóságáhozésszemélyiségénekszabadonvalókifejlődéséhezszükségesgazdasági,szociáliséskulturálisjogaitkielégíthesse.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavanamunkához,amunkaszabadmegválasztásához,améltányoséskielégítőmunkafeltételekhezésamunkanélküliségellenivédelemhez.</p>
+    <p>Azegyenlőmunkáértmindenkinek,bármilyenmegkülönböztetésnélkülegyenlőbérhezvanjoga.</p>
+    <p>Mindenkinek,akidolgozik,olyanméltányoséskielégítőfizetéshezvanjoga,amelyszámáraéscsaládjaszámáraazemberiméltóságnakmegfelelőlétetbiztosítésamelyetmegfelelőesetbenaszociálisvédelemösszesegyébeszközeiegészítenekki.</p>
+    <p>Mindenszemélynekjogavanapihenéshez,aszabadidőhöz,nevezetesenamunkaidőtartamánakésszerűkorlátozásához,valamintazidőszakonkéntifizetettszabadsághoz.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavanapihenésreésszabadidőre,beleértveamunkaidőésszerűkorlátozásátésazidőszakosfizetettszabadságot.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavansajátmagaéscsaládjaegészségénekésjóléténekbiztosításáraalkalmaséletszínvonalhoz,nevezetesenélelemhez,ruházathoz,lakáshoz,orvosigondozáshoz,valamintaszükségesszociálisszolgáltatásokhoz,jogavanamunkanélküliség,betegség,rokkantság,özvegység,öregségesetéreszóló,valamintmindazonmásesetekreszólóbiztosításhoz,amikorlétfenntartásieszközeitakaratátólfüggetlenkörülményekmiattelveszíti.</p>
+    <p>Azanyaságésagyermekkorkülönlegessegítséghezéstámogatáshozadnakjogot.Mindengyermek,akárházasságból,akárházasságonkívülszületett,ugyanabbanaszociálisvédelembenrészesül.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavananeveléshez.Anevelésnek,legalábbisazelemiésalapvetőoktatástilletően,ingyenesnekkelllennie.Azelemioktatáskötelező.Atechnikaiésszakoktatástáltalánossákelltenni;afelsőbbtanulmányokravalófelvételnekmindenkielőtt-érdeméhezképest-egyenlőfeltételekmellettnyitvakellállnia.</p>
+    <p>Anevelésnekazemberiszemélyiségteljeskibontakoztatására,valamintazemberijogokésalapvetőszabadságoktiszteletbentartásánakmegerősítésérekellirányulnia.Anevelésnekelőkellsegítenieanemzetek,valamintazösszesfajiésvallásicsoportokközöttimegértést,türelmetésbarátságot,valamintazEgyesültNemzetekáltalabékefenntartásánakérdekébenkifejtetttevékenységkifejlődését.</p>
+    <p>Aszülőketelsőbbségijogilletimegagyermekeiknekadandónevelésmegválasztásában.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavanaközösségkulturáliséletébenvalószabadrészvételhez,aművészetekélvezéséhez,valamintatudományhaladásábanésazabbólszármazójótéteményekbenvalórészvételhez.</p>
+    <p>Mindenkinekjogavanmindenáltalaalkototttudományos,irodalmiésművészetitermékkelkapcsolatoserkölcsiésanyagiérdekeinekvédelméhez.</p>
+  </li>
+  <li>
+    <p>Mindenszemélynekjogavanahhoz,hogymindatársadalmi,mindanemzetköziviszonyoktekintetébenolyanrendszeruralkodjék,amelybenajelenNyilatkozatbankinyilvánítottjogokésszabadságokteljeshatállyalérvényesülhessenek.</p>
+  </li>
+  <li>
+    <p>Aszemélynekkőtelességeivannakaközösséggelszemben,amelynekkeretébenegyedüllehetségesaszemélyiségszabadésteljeskifejlődése.</p>
+    <p>Jogainakgyakorlásaésszabadságainakélvezetetekintetébensenkisincsalávetvemáskorlátozásnak,mintamelyetatőrvénykizárólagmásokjogaiésszabadságaielismerésénekéstiszteletbentartásánakbiztosításaérdekében,valamintademokratikustársadalomerkölcse,közrendjeésáltalánosjólétejogoskövetelményeinekkielégítéseérdekébenmegállapít.</p>
+    <p>EzeketajogokatésszabadságokatsemmiesetresemlehetazEgyesültNemzetekcéljaivaléselveivelellentétesengyakorolni.</p>
+  </li>
+  <li>
+    <p>AjelenNyilatkozategyetlenrendelkezésesemértelmezhetőúgy,hogyazvalamelyállam,valamelycsoport,vagyvalamelyegyénrészérebármilyenjogotadnaarra,hogyazittkinyilvánítottjogokésszabadságokmegsemmisítéséreirányulótevékenységetfejtsenki,vagyilyencselekménytelkövessen.</p>
+  </li>
+</ol>

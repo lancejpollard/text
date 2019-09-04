@@ -1,0 +1,122 @@
+<h1 align='center'>COPIRNORO'SA' NAPORINSOPITA YA'IPI PIYAPI NOYA YA'HUËCAISO MARË'</h1>
+<h2 align='center'>SHA'HUICHINQUËMA'</h2>
+<p align='center'>Ya'ipi piyapi'sa' noya ya'huëina'. Ama incari tëranta' topinan quëran ana'inchinasohuë'. Ina quëran ya'ipi parti noya nini'tëhua' ya'huërëhua huachi.
+A 'naquën piyapi 'sa' co nosorohuachinahuë', chiniquen aparësitopi. A'na tahuëri tëpapi. Inaso' pa'pi co noyahuë' tënëhua'. Nonpiso marë', yonquipiso marë' Co ana'intacaso' ya'huërinhuë'. Naporahuaton, ya'ipi piyapi ma'sha ya'huëchina' Co nohuantërëhuahuë' a nayanquënpoatëranta' pahuantinpoaso.
+Ya'ipi Copirnoro'sa' noya hua'anëntinpoaso' ya 'huërin. Ama topinan quëran ana'inchinpoasohuë'. Topinan quëran aparësitohuachinpoara, a'naquën chiniquën no'huihuachina yaahuëtopi. Ina quëran a'na copirno acopi huachi.
+Ya'ipi Copirnoro'sa' noya nini'tona' ya'huëina'. Ama nino'huiatonahuë', ama quira niinasohuë', tënëhua'. Ya'nan niyontonëhuaso' ninshitërëhua'. -Ya'ipi piyapi 'sa' noya ya'huëina', tënëhua'. Quëmapi'sa', sanapiro'santa' napopianachin Copirnoro'sari noya niina'. Ya'ipi piyapi'sa' catahua'hua' noya noya ya'huëcaiso marë', tënëhua'.
+Ya'ipinpoa' nani chinotërëhua' piyapi'sa' catahuahuaso'. Ya'ipinpoa' noya nini 'tëhua', ya'huëa'hua', ta'tëhua', nanan a'pa'hua' piyapi'sa' noya ya'huëcaiso marë'.
+Napoaton iso quirica ninshitërëhua' ya'ipi piyapi'sa' nitotacaiso marë'.
+HUA'ANO'SACOI NIYONTONPATOIRA
+sha'huitërai
+YA'IPI PIYAPI'SA' NOYA YA'HUËINA' TËNËHUA'. Ya'ipi opirnoro'sa' inapochachi yonquiina'. Ya 'ipi escuelaro'saquë a 'chinchina'. Mashoro'santa' anitotacaiso' ya'huërin. Ina quëran ya'ipinpoa' nitotohuatëhua', nicatahua'hua' noya noya nini'tëhua' ya'huëcaiso marë</p>
+<ol>
+  <li>
+    <p>Ya'ipipiyapinpoa'capininoyaninosorocaso'ya'huërin.Ya'ipinpoa'yonquirëhua'.Noyanicacaso'nitotërëhua'.Napoatoniyanpoapochinninosorocaso'ya'huërin.</p>
+  </li>
+  <li>
+    <p>Ya'ipipiyapinapopianachinnoyaninia'hua'.Nishanishanirihuarahuënta'ninosorocaso'ya'huërin.Nishanishanananquënonëhua'.Nishanishaimarëhua'.A'naquënpoa'yaraton,a'naquënpoa'huiriton,a'naquënpoa'quëmapinpoa',a'naquënpoa'sanapinpoa'.A'naquënpoa'ma'huano'sanpoa',a'naquënpoa'Cona'ama'shaya'huëtërinpoahuë'.Nishanishanirihuarahuënta'ninosorocaso'ya'huërin.Nishanishahua'anëntërinquëya'huëpirëhuahuë',napopianachinnini'tëhua',ya'huëa'hua'.</p>
+  </li>
+  <li>
+    <p>Cotopinanquërantëpacaso'ya'huërinhuë'.Cotopinanquërantashinanpëiquëpo'mocaso'ya'huërinhuë'.</p>
+  </li>
+  <li>
+    <p>Copiyapinpoa'nipa'anacaso'ya'huërinhuë'.Cotopinanquëranasacatacasoya'huërinhuë'.Piyapiinaoranohuantonsacachina'.Cosacatacaiso'nohuantohuachinahuë',amasacachinasohuë'.</p>
+  </li>
+  <li>
+    <p>Amatopinanquëranana'inchinsohuë'.Amatopinanquëranchiniquënaparësichinsohuë'.</p>
+  </li>
+  <li>
+    <p>Ya'ipicopirnoro'sa'no'tëquënsha'huitacaso'ya'huërin.Nishanishapiyapinipirinhuë'napopianachinninosorocaso'ya'huërin,tënëhua'.</p>
+  </li>
+  <li>
+    <p>Copirnoro'sa'no'tëquënhua'anënchina'.Ya'ipipiyapinapopianachinnoyani'ina'.Napopianachina'paiina'.Amatopinanquëranana'inchinsohuë'.</p>
+  </li>
+  <li>
+    <p>A'napitaritopinanquëranaparësitohuachinpoa',coisëquësha'huitacaso'ya'huërin.No'tëquënana'inchin.</p>
+  </li>
+  <li>
+    <p>Cotopinanquërantashinanpëiquëpo'mocasoya'huërinhuë'.Cotopinanquërana'napartia'pacasoya'huërinhue.</p>
+  </li>
+  <li>
+    <p>A'napitasha'huirapihuachinpoa',Cotopinanquëranana'intacaso'ya'huërinhuë'.Coisënoyanatanchin.Inaquëranno'tëquënsha'huichin.Ya'ipinpoa'napopianachinnicatonpoa',no'tëquënsha'huitinpoaso'ya'huërin.</p>
+  </li>
+  <li>
+    <p>A'napiyapisha'huirapihuachinpoa',Coa'naroachinana'intinpoaso'ya'huërinhuë'.Conimaranaporinhuë',ta'ton,coisënóyanatainpoa'.Inaquëranoshaquëranyonquiina'.Tëhuënchachinitotaquëhuarë'ana'intacaso'ya'huërin.Cotëhuënchachinitotohuachinhuë',amaana'inchinsohuë'.</p>
+    <p>Copirnonanipënënpachinpoa',no'tëquënana'intërinpoa'.Copënënpachinpoahuë',Coana'intinpoaso'ya'huërinhuë'.Nashapënënpachinpoa',natëcaso'ya'huërin.IracaCopënënpachinpoarahuë',Conatëpatëhuahuë',Coinaarë'ana'intinpoaso'ya'huërinhuë'.Nanisha'huitohuachinpoa',Coaquëtëana'intinpoaso'ya'huërinhuë'.</p>
+  </li>
+  <li>
+    <p>Coma'shanënpoa'niihuacaso'ya'huërinhuë'.Coninshitërëhuaso'nisë'huatacaso'ya'huërinhuë'.Copinoinpoaso'ya'huërinhuë'.Inapo'tohuachinpoa',coisëriana'inchin.</p>
+  </li>
+  <li>
+    <p>Ya'huërëhuaquëraninsëquësonayapapatëra,noyapaacaso'ya'huërin.</p>
+    <p>A'nahua'anquëranyapipihuatëra,noyapipicaso'.Ya'huërëhuasopartiyahuënantohuatëra,noyahuëantacaso.</p>
+  </li>
+  <li>
+    <p>Copirnotopinanquëranno'huihuachinpoa',yata'ahuatëhua',noyata'acaso'ya'huërina'napartiya'huëcasomarë'.</p>
+    <p>Nipirinhuë'Conoyahuë'nipatëhua',no'tëquënana'intacaso'ya'huërin,Cota'acaso'ya'huërinhuë'.</p>
+  </li>
+  <li>
+    <p>Ya'ipinpoa'nishanishaCopirnoya'huëtërinpoa'.Inacatahuainpoaso'ya'huërin.</p>
+    <p>Cotopinanquërana'painpoaso'ya'huërinhuë'.Nipirinhuë'a'nahua'anquëyaya'conpachina,tananpichinpa'in.</p>
+  </li>
+  <li>
+    <p>Quëmapimashotohuachina,noyasa'acaso'.Nishasanapiyamapachinainanta'noyatënëhua'.Nishareligionimarinso'mapachina,Coinamarë'copirnorinanitërinhuë'ana'intacaso'.sanapinta'payatohuachina,noyaso'yacaso'.Nishapiyapiniponahuë',noyamacacaso'.Quëmapi'sa',sanapi'santa'ma'sonanohuantohuachina,napoina.</p>
+    <p>SanapiConohuantohuachinhuë',Coso'yatacaso'yahuërinhuë'.Quëmapinta'Conohuantohuachinhuë',Coma'caso'ya'huërinhuë'.</p>
+    <p>A'naquëmapi,sa'in,hui'ninpitarëchachia'nahuëntonaca'ninin.Noyaya'huëina'.Noyaya'huëcaso'Copirnoricatahuain.</p>
+  </li>
+  <li>
+    <p>No'pa',ma'sha,inapitahua'anëntacasoya'huërin.A'naqueninaorano'pa'hua'anëntërin.A'nanta'ya'ipihuëntonnopanënhua'anëntopi.Catochachínoya.</p>
+    <p>No'panënhua'anëntohuachina',Coincaritërantananitënnhuë'ocoicaso.</p>
+  </li>
+  <li>
+    <p>Yonquirëhuasomarë'CoCopirnono'huiinpoasoya'huërinhuë'.Religionimarëhuasomarënta'CoCopirnono'huiinpoaso'ya'huërinhuë'.Nishayaimapatëhua,,Coinamarë'aparësitinpoaso'ya'huërinhuë'.Yosëchinotacasomarë'niyontonpatëhua',Coinamarë'Copirnoana'intinpoaso'ya'huërinhuë'.</p>
+  </li>
+  <li>
+    <p>Ma'sonatëranta'yonquihuatëhua',a'napitayaa'chintohuatëhua',Coinamarë'Copirnoana'intinpoaso'ya'huërinhuë'.Nanana'parësomarënta'noya,quiricaquëhuënipon,natioquëhuënipon,noyaa'parë',natanë'.Ya'ipipartiinapotërë'noyanatanacaisomarë'.</p>
+  </li>
+  <li>
+    <p>Piyapiyaniyontonpachina,niyontoina'.Noyaniyontonacaiso'nipirinhuë'Coniahuëcaisomarëhuë'niyontoina'.</p>
+    <p>-Quiyapochinnatëco'ana'intochinquëma',itohuachinpoa',Conohuantohuatëhuahuë',Coimacasoya'huërinhue.</p>
+  </li>
+  <li>
+    <p>Ya'ipipiyapihua'ano'sa'huayonacaso'ya'huërin.Nishanishaninanoquëranhuayonin.Inapitahua'anëntërinpoa'.</p>
+    <p>Ya'ipipiyapinanitërinma'shapa'anacaso'.Pahuërëtohuachina,ya'ipipiyapinanitërinma'shaquëpacacaso.Camionquë,avionquë,nanchaquë,inapitaquënanitopipacacaiso'.NapopianachinCopirnosirihuirinpoa'.</p>
+    <p>Ya'ipipiyapiCopirnohuayoina'.Hua'ano'santahuayoina'.Catapinipi'ipicatapinípiipiquëranpochinhuayoina'.Ya'ipipiyapiinahuaraninshitapihuayonacaisomare.</p>
+  </li>
+  <li>
+    <p>Piyapisacatohuachina,no'tëquënpahuërëtacaso'ya'huërin.Cosacatacaso'nanitohuachinhuë',pi'pianpi'piancatahuacaso'ya'huërin.Copirnonanitohuachina,coriqui,ma'shainapitaquëtacaso'ya'huërin.Coinsonta'pahuantacaso'nohuantërëhuahuë'.</p>
+  </li>
+  <li>
+    <p>Piyapiyasacatohuachina,sacachina'.Masacatosonayanipachina,inaquësacachina'.Asacatërinsopitapiyapinënpitanosoroina'.Amachinichiniquënasacachinsohuë'.8acatoya'huëhuachina,asacachina.</p>
+    <p>No'tëquënpahuërëtacaso'ya'huërin.Inachachisacatohuachina,inachachipahuërëtërë'.Nishanishapiyapinipirinhuë',inachachipahuërëcaso'ya'huërin.</p>
+    <p>No'tëquënpahuërëtacaso'ya'huërin.Noyananpicaisomarë'pahuërëchina'.Pahuantohuachina,a'napitacatahuacaso'ya'huërin.</p>
+    <p>Conoyahuë'pahuërëhuachina',sacatorosa'nanitërinniyontonacaiso.Ninontohuachina',a'na'acorinhua'annontacasomare.-Noyanosorocoi,no'tëquënpahuërëcoi,itohuachina,nataina',no'tëquënpahuërëchina'.</p>
+  </li>
+  <li>
+    <p>Conanitahuëriasacatacaso'ya'huërinhuë'.Chinotacasonta'ya'huërin.PitatahuëriCosacatopirinahuë',pahuërëcaso'ya'huërin.</p>
+  </li>
+  <li>
+    <p>Noyasacatohuachina,noyapahuërëcaso'ya'huërin.Ya'ipipiyapicosharo',pei,nimirio,cotoninapitanohuantopi.Conohuantërëhuahuë'piyapi'sa'pahuantacaiso'.Caniohuachina,Conanitërinhuë'sacatacaso'.Mashoro'sa',quëyorono'sa'inapitaConanitopihuë'aquëtë'canacaiso'.Napoatoninapitacatahuacaso'ya'huërin.</p>
+    <p>Sanapihua'huanpachina,hua'huinëchachia'napitaricatahuaina'.Hua'huama'patërinsonta'catahuaina'.Hua'huaro'sa'pahuantohuachina,Copirnopi'pianpi'piancatahuaina'.</p>
+  </li>
+  <li>
+    <p>Copirnoriescuelaro'sa'ya'ipipartiacoina'.Ya'ipihua'huaro'sa'escuelaimacaiso'ya'huërin.Primariaimacaisomarë'amapahuërëchinasohuë'.Secundaria,escuelaocupacionalinapitaacocaso'ya'huërin.Inapitayaya'conpachinaexamennoyapipihuachina,noyaya'coina.</p>
+    <p>Ya'ipimaistororo'sa'noyaa'chinchina'hua'huaro'sa'noyanoyayonquicaisomarë'.InaquëranCoaquëtënino'huipihuë'.Noyanoyaninosorohuachina,Coa'napitanocanapihuë'.Naporahuaton,ya'ipinpoa'noyanini'tëhua'yahuëa'huahuachi.Inana'connohuantërëhua'.</p>
+    <p>Pa'pin,a'shinnohuanton,hui'ninpitaescuelaquëyacoina'.Amaa'napiyapirinishaescuelaquëpomoinsohuë'.</p>
+  </li>
+  <li>
+    <p>Ninanoquëniyontonpima'shanitotacaisomarë'.A'naquënquiricaninshitërin,a'naquënmusicapi'nirarin,a'naquënnonanpiso'pashitarin.Inapitanitotacasomarë'niyontonpachina,a'napitanohuantohuachina,pa'ina',noyanataina</p>
+    <p>Niproninshitohuatëhua',hua'anëntërëhua'.Inapochachinonanpiso',nitëratainapitapochinnipatëhua',hua'anëntërëhua'.Coinapitamarë'a'napitaricanacasoya'huërinhuë'.</p>
+  </li>
+  <li>
+    <p>Ya'ipipartinoyanini'tëhua',ya'huëa'hua'.Ya'ipiCopirnoro'sa'piyapinënpitacatahuaina'noyaya'huëcaisomare</p>
+  </li>
+  <li>
+    <p>Coinsonta'inaoraya'huërinhuë'.Ya'ipipiyapinpoa'noyaya'huëcaiso'nohuantohuatëhua',noyaninosorocaso'ya'huërin.Nicatahuacaso'ya'huërin.</p>
+    <p>Copirnoro'sa'pënëninpoa'Conino'huicasomarëhuë',Coniahuëcasomarëhuë'.Noyanicatahuacasomarë'pënëninpoa'.Inapochinnipatëhua',Cotopinanquëranana'intinpoaso'ya'huërinhuë'.</p>
+    <p>Na'conyonquiraiya'ipipiyapi'sa'noyaya'huëcaisomarë'.Nishayonquicaiso',nishaa'chinta¿aiso'Conohuantëraihuë'.Ya'ipinoyanini'tëhua',noyanoyaya'huëa'hua,tenehua'.</p>
+  </li>
+  <li>
+    <p>Naniya'ipihua'ano'sacoi,Copirnoacorincoisopitapënënainquëma'.Amanishayonquicosohuë'.No'tëquënnatëcoi,ya'ipinpoa'noyanini'tëhua',noyaya'huëa'hua'.</p>
+  </li>
+</ol>

@@ -1,0 +1,120 @@
+<h1 align='center'>DUNUƝA BƐNMAKAN KA A BƐN</h1>
+<h2 align='center'>KALAMA DANTƐƐLI</h2>
+<p align='center'>Bani fabadenɲa tɔmasere le ye, hɔrɔya ni telen ani jususuma di dunuɲa dɔ,
+Bani adamaya lasabati lɔnbaliya ni a la gboyaɲɛ le nanin benkanni di mɛn ka mɔɔlu lamuriti, ka kɛ sababu di fana ka mɔɔlu kunna fulen, ka alu lɔ hɔrɔya ɲinina ka alu bɔ misikinaya dɔ,
+Bani adamaya lakanda ye wajibi le di, fo jamana ye kɛ jamana dafani le di sariya bolo ma, wole ye a kɛla mɔɔlu tɛ muriti ka don jɛdɛ makadan waa la,
+Bani jamanalu la tɛɛbɛn ni alu la kaninteya ye fen ne di mɛn kakan ka sɛnbɛnteya,
+Bani jamana mɛnnu ye "ONU" dɛkuruba kɔnɔ, wolu bara alu kan di ko alu di adamaden nakadan, ka a lawuriki ka ban ka cɛ ni muno lakaɲa ko bɛɛ dɔ,
+Bani alu bara alu kan di fana, ko alu di adamaya lafasa, ka adamaden la hɔrɔya dafa sila bɛɛ kan,
+Bani, bɛɛ bɛnni miriya kelen ma, ka a lɔ adamaya lasabati ma, wo ye wajibi le di bɛɛ ɲɛ, walako miriya wo ye se lataamala sila bɛɛ kan, "ONU" gbaraba bara a kandi: ko adamaden lakanda sariya ɲin bara kɛ dunuɲa bɛɛ ye wajibi di, sa bɛɛ ye a to i hankili la, ka i tɛsidi, ka mɔɔlu karan a la, ka alu jodon a la, ka a latinma jamanala tɛ.</p>
+<ol>
+  <li>
+    <p>Adamadennubɛɛsɔdɔnɲakakan,hɔrɔyadɔ,fabadenɲadɔanisariyatafandɔ.Hankilinisɔnɔmɛyealubɛɛma,akakanwodɔaluyebakelenɲasilalataamanaluɲɔɔntɛ.</p>
+  </li>
+  <li>
+    <p>Mɔɔkelenkelennabɛɛniadamadenlakadansariyakakan,ikɛdamɔɔsuusudi,isiitɛmafɛnɛnna,ifadikolotɛmafɛnɛnna,ikantɛmafɛnɛnna,iladinatɛmafɛnɛnna,ilajamanamarahankilitɛmafɛnɛnna,isɔdɔndiyatɛmafɛnɛnna.Anifanajamanalusuuyatɛdanbɔlakaabɛnsariyawoluma,alumarahankilikɛdaasuusudi,alumakɛjamanaluhɔrɔyanidi,alukɛdamarasuusukɔnɔ.</p>
+  </li>
+  <li>
+    <p>Adamadenkelenkelennabɛɛniikakankalakanda,kaalahɔrɔyalakanda,kaakunnakanda.</p>
+  </li>
+  <li>
+    <p>Mɔɔsimakankakɛjɔndi,kakɛbolokɔnɔmɔɔdi,jɔnɲanijɔnsansilabɛɛbaralatɔn.</p>
+  </li>
+  <li>
+    <p>Jankankatasuusumakankasiimɔɔlamindisefɛsiilaalaadamadenɲala,kaakunnajii.</p>
+  </li>
+  <li>
+    <p>Adamadenkelenkelennabɛɛlamɔɔyakakankalɔnaɲɛsariyakundabɛɛla,akɛdafanfandi.</p>
+  </li>
+  <li>
+    <p>Mɔɔbɛɛkakansariyaɲakɔdɔ,akakanfananbɛɛyemabɛnɲakelenmasariyabolo.Mɔɔmakankalafisayamɔɔdikabɛnsariyaɲinlataamanɲama.</p>
+  </li>
+  <li>
+    <p>Mɔɔbɛɛdiseimakasilailajamanasariyabonnulanibilakɛdailatɔɲɛlisilama,niwotɛsariyasilama.</p>
+  </li>
+  <li>
+    <p>Mɔɔsitɛseminalaten,kaadonkasolahamantɛkagbɛnalajamanakɔnɔnikuntɛala.</p>
+  </li>
+  <li>
+    <p>Awajibiyani,adamadennakoyekɛkohakikadi,kaalankɛnɛmayakitibonnatelenkɔnɔma,kaajoniajalakidanfaranbɔ.</p>
+  </li>
+  <li>
+    <p>Mɔɔmɔɔnaamidadasikalasariyaboloma,akakannekajatefɔlɔkoasɔntɛadɔ,hankitiyeajalakilankɛnɛmaya.</p>
+    <p>Mɔɔmɔɔnaamidadasariyakɔdɔboloma,sariyakudasilamakankalɔama.Anifanaalamidalifankamakankatanbisariyakɔdɔjatela.</p>
+  </li>
+  <li>
+    <p>Mɔɔmakankaabilaamɔɔɲɔɔlakoludɔten;kabɔaladenbayakoluma,alagbundusɛbɛlu,kawasiialalukɔnɔkolula.Amakankaadantiɲɛn,amakankaasumagboya.Sariyakakankabɛɛlakandakosuuwoluma.</p>
+  </li>
+  <li>
+    <p>Taaniseyidahanibɛɛyejamanakɔnɔ.Jamanayɔrɔyɔrɔfanakaidiya,idiseisiilayen.</p>
+    <p>Mɔɔkɛɛdisekabɔjamanakɔnɔ,akɛdaafabadadi,akɛdajamanagbɛdɛdi,kabankaakɔsɛyi.</p>
+  </li>
+  <li>
+    <p>Dannatanbikolukɔdɔ,bɛɛdiseikunkarifadiyaɲininajamanagbɛdɛdɔ,idonmakankajɛnala.</p>
+    <p>Nisariyalɔnintɛmɔɔma,mɔɔmɛnnaalajamanasariyatiɲɛnnakaabori.</p>
+  </li>
+  <li>
+    <p>Mɔɔbɛɛkakankakɛjamanadɔjamanadendi.</p>
+    <p>Mɔɔsitɛsehajɛnalajamanadenɲala,idondisefananjamanagbɛdɛdenɲasɔdɔnna.</p>
+  </li>
+  <li>
+    <p>Nialusiisedaama,kamarennunidenmusoludisefudulaɲɔɔnma,siɲɔɔyatɛadɔ,dinakotɛadɔ.Alubɛɛkakansariyaɲakɔdɔkobɛɛdɔ,fuduboloma.</p>
+    <p>Fudutɛsidialutɛfoalufilabɛɛbabɛnama.</p>
+    <p>Denbayaleyejamatɛfɛdendi.Wodɔ,akakankalakandajamanabolo.</p>
+  </li>
+  <li>
+    <p>Mɔɔmɔɔ,akɛdaakelenna,akɛdajamadɔ,adisekaatasɔdɔn.</p>
+    <p>Mɔɔsibolofenmakankaminaalafankaboloma.</p>
+  </li>
+  <li>
+    <p>Hankililamiri,sɔnɔmɛlamirianidinalawasaninbɛɛye.Idisekaidiyanantatadinaludɔ,kaasilalulataama.</p>
+  </li>
+  <li>
+    <p>Alawasaninbɛɛyekaamiriyajida,fɔlidɔ,sɛbɛlidɔ,kahankiliɲininfanbɛɛ,silabɛɛfɛ.Kosimakankakɛmɔɔlawosidɔ.</p>
+  </li>
+  <li>
+    <p>Alawasanibɛɛyebaɲɔɔnnadɛɛ,kunadɔ,kɛwɛlidɔmɛnnijanfasilatɛkelendi.</p>
+    <p>Mɔɔtɛsekarabalakaladondɛɛdɔ,dɛɛminmandiaɲɛ.</p>
+  </li>
+  <li>
+    <p>Jamanadenbɛɛdisekɛlajamanakantiidi,ayɛdɛkaniwalalalamɔɔsuwandini.</p>
+    <p>Jamanadenbɛɛkakanjamanabaarakundaludɔbolokelenma.</p>
+    <p>Jamanakantiilufankasiinijamanadennalannayalema;jamanadennuyealusawoyidalawoteniwotele,kaalalannayamɔɔlusuwanditelennisariyadɔ.</p>
+  </li>
+  <li>
+    <p>Jamanabɛɛkakankajamanadennulakandaɲakelenma.Sɔdɔnsilafɛ,dariyasilafɛ,lɔnnisilafɛ,lakandaliwoyebɔlajamanabolokoledɔaniayeminsɔdɔnnaanijamanagbɛdɛlulabaaraɲɔɔyadɔ.</p>
+  </li>
+  <li>
+    <p>Bɛɛkakankabaarasɔdɔn,kabaarakɛsɔnɔyadɔ,baaramɛndumaniɲɛ;bɛɛkakankalatankabaaratanɲamajamanakɔnɔ.</p>
+    <p>Baaramɛnnujatekakan,wolukakankasaraɲakelennemaakɛbaaluye.</p>
+    <p>Baarakakankasarasɔdɔn,saramɛndibaaralanialadenbayabalohaliamadɛsɛ.</p>
+    <p>Baaralalulaɲɔɔnnakafodahanialuye,alulamunanfanmakadansilafɛ.</p>
+  </li>
+  <li>
+    <p>Ɲɔɔɲɔnniniɲanatɛwajibiyanibaaralabɛɛye,mɛnnisaratɛɛtɛkelendi.</p>
+  </li>
+  <li>
+    <p>Sewajibiyanibɛɛye,semɛndianialadenbayadaha,kaalukisikɔnkɔnma,kaaludafiyabɔ,kalaujiya,kaaludandananikaalumusakaluɲa.Nijankaronibaaratanɲaanimisikinayalatɛɛsuususedaima,ikakankamakadan.</p>
+    <p>Denbatiiniadenkakankamadɛmɛn;densɔdɔndafududɔ,amasɔdɔnfududɔ,abɛɛkakan.</p>
+  </li>
+  <li>
+    <p>Kakanwajibiyanibɛɛye,adonmakankasarakatɛrɛkaransaarafɔlɔniafilananma.Karansaarafɔlɔyewajibiledibɛɛye.Baaramakarankakankaaalawanka.Bɛɛkakankakaransaaranaaninanmasɔdɔntɛɛsidibololema.</p>
+    <p>Karankakankamɔɔllawanka,haalamɔɔyalasabati,kaalahɔrɔyalawasa.Akakankakɛsababudikaɲɔɔnnagboyaɲɛboloka,kahinaniteriɲɔɔyaladondunuɲadɔ,siyalutɛ,dinalutɛ,ka"ONU"dɛɛkurubamadɛmɛnbɛnnadonnadunuɲakɔnɔ.</p>
+    <p>Adahanidenbatiiluyekaaludenbilakaranna,karanmɛndumanaluye.</p>
+  </li>
+  <li>
+    <p>Awajibiyanibɛɛyekatɛrɛilajamanalɔnnikobɛɛdɔhankaatɔnɔsɔdɔn.</p>
+    <p>Bɛɛlabaaratɔnɔkakankalakanda,akɛdasɛbɛdi,akɛdalɔnnisuusudi.</p>
+  </li>
+  <li>
+    <p>Adahanijamanabɛɛyekabɔsiladi,silamɛndisariyaɲinnulakandakakɛkunnafulendiadamadennuma.</p>
+  </li>
+  <li>
+    <p>Bolokɔyininkelentɛbɛrɛta,wodɔ,bɛɛkakankakoloilajama.</p>
+    <p>Jamanadafanidɔ,ɛbɛɛkakankatosariyalekɔwalakoikanabiladolutɔɲɛdɔ.</p>
+    <p>Sariyaɲinnukakankalataaman"ONU"dɛɛkurubalamiriyalekan.Amakankallataamanmiriyagbɛdɛkan.</p>
+  </li>
+  <li>
+    <p>Dalilusitɛmɔɔbolo,atɛjamanabolo,kabɔsiladi,silamɛndisariyabaɲinnutiɲɛn.</p>
+  </li>
+</ol>

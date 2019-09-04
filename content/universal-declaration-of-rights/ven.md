@@ -1,0 +1,121 @@
+<h1 align='center'>Mulevhoguṱe wa Pfanelo dza Vhuthu</h1>
+<h2 align='center'>MVULATSWINGA</h2>
+<p align='center'>Vhunga u ḓivhea ha u dzhiela nṱha lwa mvele ya tshirunzi tsha muthu na ndingano na pfanelo dza vhathu vhoṱhe zwi murango wa mbofholowo, vhulamukanyi na mulalo ḽifhasini,
+Vhunga u dzhielwa fhasi na u tsikeledzwa ha pfanelo dza vhathu ho bveledza zwiito zwa vhuveveru vhu fhandulaho luvalo lwa muthu, na u ḓa ha shango ḽine khaḽo vhathu vha ḓo ḓiphina nga mbofholowo ya u amba na u tenda kha zwine vha funa, na u vhofholowa kha nyofho na zwinyagwa ḽo ḓivhadzwaho sa dzangalelo ḽihulwane ḽa vhathu zwavho,
+Vhunga zwi zwa ndeme, arali muthu a sa faneli u kombetshedzwa nga u shaya iṅwe nḓila, u vutshela vhutambudzi na vhutsikeledzi, uri pfanelo dza vhuthu dzi tsireledzwe nga tshumiso ya mulayo,
+Vhunga zwi zwa vhuṱhogwa u ṱuṱuwedza mvelaphanḓa ya vhukonani havhuḓi vhukati ha dzitshaka,
+Vhunga vhathu vha Mbumbano ya Dzitshaka vho khwaṱhisedza kha Tshata lutendo lwavho kha pfanelo dza vhuthu dza ndeme, kha tshirunzi na ndeme ya vhuvha ha muthu na kha ndingano ya pfanelo dza vhanna na vhafumakadzi na uri vho ḓiimisela u ṱuṱuwedza mvelaphanḓa ya u tshilisana na tshiimo tsha khwine tsha vhutshilo kha mbofholowo khulwane,
+Vhunga Mashango ane a vha Miraḓo o ḓivhofha u swikelela u bveledza ṱhuṱhuwedzo ya ṱhonifho na u tevhedzwa ha pfanelo dza vhathu na mbofholowo dza vhuṱhogwa a tshi shumisana na Dzangano ḽa Mbumbano ya Dzitshaka,
+Vhunga u pfeseswa ha pfanelo idzi na mbofholowo zwi zwa ndeme khulwane kha uri mbofho iyi i bveledzwe nga vhuḓalo,
+Zwino-ha, Zworalo, Buthanonyangaredzi ḽi khou rwela ṱari Mulevhoguṱe wa Pfanelo dza Vhuthu uyu sa tshone tshikalo tshine tsha nga shumiswa nga nnyi na nnyi tshine tsha tea u swikelelwa nga vhathu vhoṱhe na tshaka dzoṱhe, kha u vhona uri muthu muṅwe na muṅwe na muraḓo muṅwe na muṅwe wa tshitshavha, e na Mulevho uyu ngelekanyoni yawe, u ḓo lusa nga u tou funza na u shumisa pfunzo u bveledza phanḓa ṱhonifho ya pfanelo idzi na mbofholowo a tshi shumisa maga o bvelaho phanḓa, kha vhuimo ha lushaka na ha tshaka-tshaka, u vhona uri izwi zwi dzhielwa nṱha na u tevhedzwa vhukati ha vhathu vha Mashango ane a vha Miraḓo na vhathu vhane vha vha kha vhupo vhu re fhasi ha ndaulo ya mashango ayo.</p>
+<ol>
+  <li>
+    <p>Vhathuvhoṱhevhabebwavhenambofholowonahonevhatshilinganasianiḽatshirunzinapfanelo.Vhathuvhoṱhevhoṋewamihumbulonamvalongauralovhateaukonoufaranasavhathuvhathihi.</p>
+  </li>
+  <li>
+    <p>MuthumuṅwenamuṅweunapfanelonambofholowodzobulwahokhaMulevhouyu,husinaukhethululwahufhiokanahufhio,hoḓisendekahokhamurafho,muvhala,mbeu,luambo,vhurereli,polotikikanamuhumbulomuṅwe-vho,vhubvohatshitshavhakanautshilisana,ndaka,mabebokanatshiimotshiṅwe-vho.Nganṱhahaizwi,ahunakhethululoineyaḓoitelwamuthuhutshitevhelwatshiimotshazwapolotiki,mulayokanatshiimotshashangokhadzitshakatshakakanavhupovhunemuthuabvakhaho,hungavhahurenavhuḓilangi,huhaṱhirasithi,husaḓivhusikanahuhurekhavhuimohopimiwahongavhuḓivhusi.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyavhutshilo,mbofholowonatsireledzoyamuthu.</p>
+  </li>
+  <li>
+    <p>Ahunamuthuaneaḓodzheniswakhazwavhupulikanavhushumeli;zwavhupulinambambadzoyadziphulizwiḓoiledzwanganḓiladzoṱhe.</p>
+  </li>
+  <li>
+    <p>Ahunamuthuaneaḓotambudzwakanaufarwanganḓilayatshiṱuhu,isongoteahomuthukanaufarwakanauṱarafiwanganḓilaitsitsahotshirunzi.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfanelodzaudzhiiwasamuthufhethuhuṅwenahuṅwephanḓahamulayo.</p>
+  </li>
+  <li>
+    <p>Vhathuvhoṱhevhaalinganaphanḓahamulayonahonevhotewangatsireledzoyamulayoieḓanaho,husinakhethululo.VhathuvhoṱhevhanapfaneloyatsireledzoieḓanahokhakhethululwoipfukahoMulevhouyunakhaṱhuṱhuwedzoiṅwenaiṅwemalugananakhethululoyoraloho.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyandamuleloyakhorodzalushakadzirenavhukonikhavhukandovhupfukahopfanelodzeaṋewangandayotewakanamulayo.</p>
+  </li>
+  <li>
+    <p>Ahunamuthuaneaḓofarwa,uvalelwakanaushakuliswahusinatshiitisi.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweofanelwa,ngaueḓanahofhelelaho,uthetsheleswalwoteahongadzuloḽannyinannyinahoneḽoḓiimisahongaḽoṱheḽisadzhiihosia,musihutshikhoutiwapfanelodzawenambofhodzawenamulandumuṅwenamuṅwewavhugevhengauneahweswa.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweohweswahomulanduwavhugevhengaunapfaneloyaudzhiwaasinamulanduuswikazwenezwoonowanwamulanduzwitshiyangamulayotsengoniyatshitshavha,heawanaṱhoḓeadzoṱhedzauḓipilelamalugananamulanduwonoyo.</p>
+    <p>Ahunamuthuaneaḓowanwamulandunganṱhanihanyitokanausaitanyito,zwezwavhazwisimulandungafhasihamulayowalushakakanawadzitshakhatshakangatshifhingatshemulanduwaiteangatsho.Hangotewanaulaṱiswalwokalulahoufhirisandaṱisoyeyavhayotiwangatshifhingatshemulanduwaiteangatsho.</p>
+  </li>
+  <li>
+    <p>Ahunamuthuaneaḓodzhenelelwakhazwaenemuṋe,muṱawawe,hayakanavhudavhidzani,kanauṱaselwahaṱhomphonatshirunzitshawe,zwosokouitwakanahusinatshiitisitshinopfesesea.Muthumuṅwenamuṅweunapfaneloyatsireledzoyamulayomalugananaudzhenelelwahonohokanauṱaselwa.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyambofholowoyautshimbilanavhudzulapongangomumikanoniyashangoḽiṅwenaḽiṅwe.</p>
+    <p>Muthumuṅwenamuṅweunapfaneloyaubvashangoniḽiṅwenaḽiṅwe,hokatelwanaḽawe,nauhumelakhashangoḽawe.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyauṱoḓanauḓiphinangapfanelodzavhafhalalikhamaṅwemashangomalugananautsireledzwakhautovholwa.</p>
+    <p>Pfaneloiyiingasishumiswehuneuhweswamulanduhavhahusihavhugevhengahapolitiki,kanazwiitozwifhambanahonandivhonamirandoyaDzanganoḽaMbumbanoyaDzitshaka.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyauvhanalushakaluneawelakhalwo.</p>
+    <p>Ahunamuthuaneaḓothivhelwauvhawalushakaluneawelakhalwokanaahanelwapfaneloyaushandukisalushakaluneawelakhalwo.</p>
+  </li>
+  <li>
+    <p>Vhannanavhafumakadzivhamiṅwahayovhinahovhanapfaneloyaudzhenakhazwambinganonauvhanamuṱahusinauthivhelwangazwamurafho,lushakakanavhurereli.Vhoṱhevhanapfanelodzilinganahosianiḽambingano,vhakhambinganonamusiitshifhela.</p>
+    <p>Mbinganoiḓodzhenelwafhedzingavhathuvhanevhakhoumalanavhovhofholowanahonehunathendelanoyofhelelaho.</p>
+    <p>MuṱanditshipiḓatshatsikonahonetshandemekhatshitshavhangauralowoteautsireledzwangatshitshavhanaMuvhuso.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyauvhanandakaoḓiimisangaeṱhekanaoṱangananavhaṅwe.</p>
+    <p>Ahunamuthuaneaḓodzhielwandakahusinatshiitisitshinopfesesea.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyambofholowoyamuhumbulo,luvalonavhurereli;pfaneloheyiikatelambofholowoyaushandulavhurerelihawekanazwineatendakhazwo,nambofholowoaeṱhekanaenavhaṅwenamusiekhagalakanafhethuhodzumbamaho,usumbedzisavhurerelihawekanazwineatendangaufunza,nyito,urerelanautevhedza.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyauvhanamihumbuloyawenauamba;pfaneloheyiikatelambofholowoyauvhanamihumbulohusinaudzhenelelwa,naukonauṱoḓakanauwanamafhungonauphaḓaladzamafhungonamihumbulohutshishumiswanyanḓadzamafhungohusasedzwimikano.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyambofholowoyaukuvhanganangamulalonanyanḓano.</p>
+    <p>Ahunaaneaḓokombetshedzwauvhamuraḓowanyanḓano.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyaushelamulenzhekhamuvhusowashangoḽawe,ngaenemuṋekanangavhaimelelivheaḓikhethelaovhofholowa.</p>
+    <p>Muthumuṅwenamuṅweunapfaneloyaukonauwanatshumeloyavhathuinolinganakhashangoḽawe.</p>
+    <p>Lufunolwavhathuluḓovhalwonemurangowamaanḓalangaamuvhuso,hezwizwiḓobveledzwangakhethodzavhukumadzinedzaḓovhahonengazwifhingazwotiwaho,nahonekhethoidzidziḓovhadzavhathuvhoṱhengaulingananahoneukhethahuḓovhahatshidzumbekanahashumiswamaṅwemagaaukhethangambofholowo.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅwe,samuradowatshitshavha,unapfaneloyauwanatshumeloyatsireledzoyazwautshilisana,nahoneunapfaneloyaukonouswikelelapfanelodzaikonomi,utshilisananamvelelezwinezwaṱoḓeakhatshirunzitshawenaubveledzavhuvhahaweatshitikedzwanganungodzalushakanatshumisanoyadzitshakatshakazwitshiyanganzudzanyonazwikozwaMuvhusomuṅwenamuṅwe.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyaushuma,mbofholowoyaukhethamushumo,nyimeleyamushumoyoteahonahoneiṱanganedzeahokhathihinautsireledzwakhavhushayamushumo.</p>
+    <p>Muthumuṅwenamuṅweunapfanelo,husinakhethululo,yauwanamalambaanealingananaavhaṅwekhamushumounewafana.</p>
+    <p>Muthumuṅwenamuṅweaneashumaunapfaneloyauwanamalambaoteahonahoneaneaṱanganedzeauitelaurienenamuṱawawevhakonoutshilavhutshilovhurenatshirunzi,naudovhauḓadziswa,aralizwotea,ngadziṅwetsireledzodzazwautshilisana.</p>
+    <p>Muthumunwenamunweunapfaneloyauvhumbakanauvhamuradowamadzanganoavhashumihuuitelatsireledzoyamadzangaleloawe.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyauawelanauḓigeda,hutshikatelwaawaradzopimiwahodzaushumanadziholodenidzotiwahodzirenamuholo.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyavhuimohavhutshilohoteahomutakalonautshilazwavhuḓihawenamuṱawawe,hutshikatelwanazwiḽiwa,zwiambaro,vhudzulonambavhaleloyadzilafhonatshumelodzautshilisana,khathihinapfaneloyatsireledzomusihunavhushayamushumo,vhulwadze,vhuholefhali,vhutshilikadzi,vhualuwakanaiṅwenyimeleyavhutshiloinemuthuasakoneuilanga.</p>
+    <p>Vhommenavhanavhateauwanandondolonathusozwatshipentshela.Vhanavhoṱhe,husasedzwiurivhobebwambinganonikanannḓahambingano,vhaḓowanatsireledzoyazwautshilisanainofananayavhaṅwe.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyapfunzo.Pfunzoiḓoṋekedzwahusinambadelokhamiroleyafhasikanayaurangaineyavhayavhuṱhogwa.Pfunzoyamiroleyafhasiiḓovhakhombe-khombe.Pfunzoyazwathekheninikhinazwaphurofesheniiḓoitwauriiwanalenapfunzodzanṱhadziḓoswikeleleanganḓilailinganahohosedzwavhukoni.</p>
+    <p>Pfunzoiḓovhailivhiswahokhaubveledzisavhuvhahamuthuwoṱhenaukhwaṱhisedzaṱhonifhoyapfanelodzavhuthunambofholowodzandeme.Iḓoṱuṱuwedzaupfesesa,ukonḓelelananavhukonanivhukatihadzitshaka,mirafhokanazwigwadazwavhurereli,nahoneiḓobviselaphanḓamishumoyaDzanganoḽaMbumbanoyaDzitshakayauitelaurihuvhenamulalo.</p>
+    <p>Vhabebivhanapfanelothangwayaunangapfunzoineyaḓoṋekedzwavhanavhavho.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyaushelamulenzhekhakutshilelekwamveleleyatshitshavhaovhofholowa,uḓiphinangavhutsilanauvhanamukovhekhazwamveledzisoyasaintsinambueloyazwo.</p>
+    <p>Muthumuṅwenamuṅweunapfaneloyatsireledzokhamikhwanadzangaleloḽandakazwibvahokhazwibveledzwazwasaintsi,maṅwalokanavhutsilazwineavhamuṅwaliwazwo.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunapfaneloyanzudzanyoyautshilisananayazwamashangoadzitshakatshakazwinepfanelonambofholowozwosumbedzwahokhauyumulevhozwingabveledzwangavhuḓalo.</p>
+  </li>
+  <li>
+    <p>Muthumuṅwenamuṅweunamishumokhatshitshavhaineyaitaurivhuvhahawevhukoneubvelelangavhuḓalonahonengambofholowo.</p>
+    <p>Musimuthumuṅwenamuṅweatshikhoushumisapfanelonambofholowodzawe,uteauitaizwiatshidzhielanṱhandangoyamulayowoitelwahofhedziutsireledzapfanelonambofholowodzavhaṅwevhathunauvhonaurihuvhenaudzhielwanṱhahamikhwayakutshilele,vhudzikinakutshilelekwavhuḓikwoteahotshitshavhatshademokirasi.</p>
+    <p>PfanelonambofholowoidziadziteiushumiswanganḓilayofhambanahonandivhonamirandoyaDzanganoḽaMbumbanoyaDzitshaka.</p>
+  </li>
+  <li>
+    <p>AhunanatshithihitshirekhaMulevhouyutshinetshangadzhiwatshitshiambapfaneloiṅwenaiṅweineingashumiswakhazwiṅwenazwiṅwekanauitaiṅwenyitoyolivhiswahokhauthuthaiṅwenaiṅweyapfanelonambofholowozwobulwahoafhamalugananaMuvhuso,tshigwadakanamuthu.</p>
+  </li>
+</ol>

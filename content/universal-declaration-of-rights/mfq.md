@@ -1,0 +1,121 @@
+<h1 align='center'>Nifosaal yiko-nba nba g ŋanduna muand</h1>
+<h2 align='center'>Laalaal nba be kadaaɔg ne ninŋ</h2>
+<p align='center'>L gii tie k t bann g nifosaal yen u yikod n tie nil, t gii bann g lann ńtie nil yal n kua, yen u mɔni yen u mɔtaaɔg laafiɛ fiɛgl.
+L gii tie k t bann g nifosaal yikod kan cɔln, yen l tudm n te g niib suan tuonbiid g benŋ lieb pala, g biɛ tuo g dulinya kul doi taan g suol k b kpaan yen b pal kul, g nifosaal kul mɔg yiko yen wan maad u yam n, g i mɔg dindann, cicagm n ninŋ.
+L gii tie k l mɔn g doug yikoddanm ń gi guu nifosaal yiko, k tan da tie mabl nil po, k wan fiil g kɔn u kua po, g dugn b dalg u yikod. L gii tie k l mɔn, k tin tod g dingbanbudi-budi n suol dɔnnu, g tien mɔtaaɔg.
+L gii tie k kadaaɔg ne ninŋ, dingbanbudi-budi niib kul taan g ŋɔn nifosaal yikod n pugd yudand nba, g ŋɔn g jua yen puo kul mɔg yikoyenn i, g biɛ tuo k b bu taan mɔb g tod g sua kul n yal u kua, g la yanŋaal yen fuon.
+L gii tie g doi kul nba be mɔtacagl ne ninŋ juab yenjagl g ban sɔn yenfidNU) doi kul tintaan cagl g baal yen
+Cɔln yen mɔni nifosaali yikod ne yen b yal n kua po.
+L gi tie g l doi fid g suol l yikod n b yen l yal n kua n b yen mɔ yem g buu taan g som yen mɔtaaɔg ln fid g l yenjagl n baal gbienu.
+Dulnya munn tintaan ciɔnŋ muand mɔlapo dulnya kul nifosaal yikod, lann tie mɔtaaɔg maalm nba bu tod doi kul yen b niib, yen tuonn sɔn caga l g i sua g b juab ya mɔmaam ne g tien b pala ninŋ, g kɔn jad, g tɔgn tunda yen cegli po g l mɔmaam n gaal yiɛl niib yam ninŋ, g sɔn tuonn, g yen mɔni sua kul n yal u kua lan tie u doug n lann i kaa dingbanfann ninŋ kul, lan n tie doi n ba taan lieb tintaan ciɔnŋ ne ninŋ yen digban bid bid n ba be digbangbenŋa yikod ninŋ.</p>
+<ol>
+  <li>
+    <p>Nifoikulmaalyendubuampoi,kbyudandyenbyiko-nbabiɛja.Bmɔgmaalmgbanyalgŋan,gbiɛbaabuyenliebnaataannnninŋi.</p>
+  </li>
+  <li>
+    <p>Suakulmɔguyiko-nba,gbiɛyalukuanyankadaaɔgnenmuandnandnyanmuandiubaglugdsua,nyangbannandninnaɔg,puolannikoajualglugdmabuolu,jaandbuolu,poltiikcagl,lglugdsiɛl,lgmɔgkamiɛnmeyaadoug,lgmɔgkamɔgŋalnan,lgmɔgkamalneyenyal’lbekul.Gpugnsiɛlyaalugdmkansiibekltiekgtaapoltikcagllannikakltaadouglgsuabenibɔna,gsuabebitɔadougllugdmkangiibeklmaadougnlnyendougnelannikaagdougmaanuudougnepoi.Lbiɛkangiinyuansiɛnyougbiinnpo.</p>
+  </li>
+  <li>
+    <p>Nilkulmɔgyikomanfuolpo,yalnkuayenwangiibeyenpapaalgsiɛlyaaJanmikanbaal’o.</p>
+  </li>
+  <li>
+    <p>Suakansuoluluayonmd,kdugnyonmdgiibepalb.</p>
+  </li>
+  <li>
+    <p>Bkansuolnilgkuan’ocicagmnninŋ,lannikagtien’oyalgbualkbantiennifosaal.Lgcabgbantiennifosaalsiɛlnyanutiebonkobugnyan,bkantiennillnbajiindofamm.</p>
+  </li>
+  <li>
+    <p>Lbualgbancɔlnnifosaalkulnaanbuolkulkubgdugnumɔnisɔnupo.</p>
+  </li>
+  <li>
+    <p>Niibkuljaiyikodnuunŋninŋ,yikodguunilkulguanyalnbakulbutienggtuagyamɔmaamnɛsɔnupo.</p>
+  </li>
+  <li>
+    <p>Nilkulmɔgyikoyenwansaanbuuddanmbuollgisuakbgcɔlnuyiko,nyanbandiɛnyaldougyikodkadaɔgn.</p>
+  </li>
+  <li>
+    <p>Suagmɔgyikoyenwansuoluluakugbiilbasiɛl,gluonodansalglanikagbelognyanodougninŋ.</p>
+  </li>
+  <li>
+    <p>Nilkulmɔgyikokbancenŋ’ogbiejiɛlubuudsalafamninŋ.Buuddanmnbatuagmamɔnisanjɔgbuoliklbuudbujiɛl.Banmkuanmɔgyikoyenbanmaadwanbiilyenwangbiilyalnbapokbjalgd’ogjiinumɔni,uyikoyendougyikomɔmaampo.</p>
+  </li>
+  <li>
+    <p>Nilnbagsuud-nbasuol’omajalijalisiɛlpo,yikodnɛmaadkudaagmɔgsiɛlyaamaamsaasaayenyougnbagsuud-nbabujiɛlubuudasalasiign,banmkuanbumaadubiidyenumɔni.Buuddaalyikodcab’okwanjuabafɔkanbabubuupo.</p>
+    <p>Bkanbusuabuudgdug’nubiilsiɛlsiɛnyouglgiisuagyikodbogmaadsiɛllpoudougninŋyendigbanfannninŋ.Bkanjiɛlsuabuudlangiicieyalkbbobujiɛlyougnbakubobiilbiilu.</p>
+  </li>
+  <li>
+    <p>Nilkankuanumɔbuluamaamninŋ,lannikaauluaŋaagmaamnninŋ,lannikaauluadɔnntaanunninŋ,gbualwanmaadgbiiluluasannyenunimɔnd.Yikodguunilkulbonanekulpo.</p>
+  </li>
+  <li>
+    <p>Yikodcabnilkulyenwangiiwaanaanbuolkulkubuaudougninŋgbiɛmaauŋaagnaanbuolkulkubua.</p>
+    <p>Nilkulmɔgyikoyenwannyaudougnninŋlannikaadoufannnninŋgbiɛguangkuayaayougkubua.</p>
+  </li>
+  <li>
+    <p>Lgiisuakbmabnniludougnninŋ,yikodcabkwansangkpaanlinlaanbuoldingbonfann.</p>
+    <p>Yaayikodnegmɔgpaalunbabukɔngguulsualgiisuakukpikuumlannikaagbiilbiilunbagtuagdoikulmɔtaaɔgnemɔnisɔnu.</p>
+  </li>
+  <li>
+    <p>Nifosaalkulmɔgyikoyenwangiimɔgmaasiɔmaalite.</p>
+    <p>Nilkulmɔgyikoyenwangimɔgmaasiɔmaalite,bkanbelsuayenwantienumaasiɔmaalite.</p>
+  </li>
+  <li>
+    <p>Yaltiepuokuandyenjakundmaampo,yikodmaadgsuakanbelnaasengbualsipaannnbadagdyen’ngdugnuluadoug,ubuoluyenujaandipo.Juayenpuoyikodjaiyougnbakbtaangbeyenliebyenyougnbakbbuyadlieb.</p>
+    <p>Puokuandyenjakundbogdabutienyaayougnbagjuayenpuokulŋɔnkbbuabliebyenmɔnii.</p>
+    <p>Ŋaagtieyendutagmigbiɛtiebonmɔnjaldougn.Lpo,lbualgdougyudanmyenuniibkulngiiguu’ugu.</p>
+  </li>
+  <li>
+    <p>Nilkulmɔgyikoyenwangimɔguyend.Lbufidgitieuyulpoyallannikatintaanyal.</p>
+    <p>Lpobkanfielsuayendfamfamgsiɛlyaamɔnimaamgmaadglpo.</p>
+  </li>
+  <li>
+    <p>Nilkulmɔgyikoyenwanŋɔnumaalmnsaanaanpo.Nilkulmɔgyikogguanujaandipo.Yikodmaadgsuakulbufidglebdjaandi,umaalmnsaanaanpo,gbenyanumaalmgwansalafamninŋwanokuakoyenlieb.Lantietundlninŋbijaandibogdatienuninŋ.</p>
+  </li>
+  <li>
+    <p>Yalnkuayikodcabgnilkulnŋɔnumaalm,gnilkulnmaadwanmɔgyalupaln.Yaayikodneŋɔnkbjikanmabnnilgdugnumalmyenumaampo,bkanmabnsuagdugnukpaanlannikaaugaalgbiɛsiɛlyaaboutiliedlannikaabɔgdsiɛl.</p>
+  </li>
+  <li>
+    <p>Nilkulmɔgyikoyenwankuatintaannnbakulninŋkubualgiisuaklgtiekunkɔnnyal.</p>
+    <p>Bkanniinsuagkuan’otintaansiɛlnninŋ.</p>
+  </li>
+  <li>
+    <p>Nilkulmɔgyikoyenwankuaudougmaamnninŋ,lgisuakbyiin’olannikaadougyaabtaangkpientilanglugd’o.</p>
+    <p>Suagmɔgyikogcieuluayalnyuandouggobnatuonapo.</p>
+    <p>Dougniibkulbuamnbatiegobnandpaalufiɛgl;bbaŋɔnŋbbuamtilkpieenninŋi,lbamɔgyougnbakyikodsenigbbakpieendtilai.Ltilkpieenbatuagmɔnisɔnu,naanbuolgsuabuamgyabgcieluayal.Nilkulbuŋɔnubuamamagyendagdukuabuoli.</p>
+  </li>
+  <li>
+    <p>Daannbakulbedougnninŋ,bualkwangiibegdaamɔgjijeii,gbiɛdaatiesiɛlklbaadyenjijeiliebpo.Lkulnebunyadougnyabbonttiednnigguancincannunanyelpodɔnntaanu,dougkulnŋmagdukuanand,umɔgmn,ubogdan,uyikodn.Lkulnemɔnklmaalannnbutoduyudaandyenukuakpaadu.</p>
+  </li>
+  <li>
+    <p>Suakulmɔgyikoyenwansuntuonn,yenwanlugdtuonnnbakubua,suakulmɔgyikokutuonnn’giituagyenyikodsɔnu,gyikodnkɔnupolgiisuakbbel’otuonnnninŋ.</p>
+    <p>Suakulmɔgyikokwangaaltuonnnbakugaanŋmaapaaɔggsiɛlyaalugdmndaabe.</p>
+    <p>Daannbakulsuantuonnmɔgyikokwangiigaanŋmaapaaɔgnbabudagdwanoyenuŋaagyabbanfomanfuolnbadagdyennifosaalmanfuol,gbiɛpugnuŋmaapaaɔgpo,lgiibufiid,utuonncanbanbabuguul’ogjiinbonfanapo.</p>
+    <p>Nilkulmɔgyikoyenwankuakpinkpendatintaangfiidgguulumɔgmlndaabuod.Ubiɛgiimɔgfidu,yikodcab’oyenwankaantintaannkpinpkeonŋsɔnuninŋ.</p>
+  </li>
+  <li>
+    <p>Yikodcabgnilkultuonnngiitienofeim,gpugndananbagnilkulbankltiefeimdanapo.Amagbiɛyenpaldanatuonnŋmaapaaɔg.</p>
+  </li>
+  <li>
+    <p>Yikodmaadkldagdgnilkulmanfuolngiimɔgŋandgjiinulaafia,ubinbenŋyenuŋaagyab,gpugnjied,tiɛd,ŋaagyendɔgda,yenlnbakulbualumanfuolnninŋ.Yikobeggobnandnkɔnupoutuonnigiibiil,uyiɛluninŋ,utaladmyoug,upekuadmninŋ,uciɛndugnninŋyenlnbakulcieupaalupo.</p>
+    <p>Binaanbayenbidkulpolbualtodl.Bidkulmɔgyikoyenidougnninŋ,lantiekubeunaabuolibiiwaungbeudanmnuunninŋ.</p>
+  </li>
+  <li>
+    <p>Nilkulmɔgyikoyenwangadkalaatu.Binyidikalaatukulbaatiefaalai.Ltiemabligtenilkulkwangadcilgkalaatu.Bonttagdyentuonbanŋlkalaatubaabegtenilkulidougninŋ,suakulmɔgyikoyenwangadkalaatuciɛɔnŋninŋggaaltundalgiisuakubanmdagdyenn.</p>
+    <p>Kalaatubatieyalbuciɛnnilwankpaadibanmninŋgbiɛpugnpanŋucɔlungyaljiindnilyikoyenuyalnkuapo.Ltieyalbumuandliebgbadu,juabcabuyendɔnntaanuniibkulninŋ,buoliyenjaandicaga,yenlnbapugngtiedigbananetintaannbabubaalyenlaafiatuonapo.</p>
+    <p>Biddanmntieyabmɔgcincinnyikoyenbanlugdyaatundlnbakbbuabantebbid.</p>
+  </li>
+  <li>
+    <p>Nilkulmɔgyikoyenwantaanyenliebbdanmjaanmtuonanninŋ.Glapanannyaljiinbanmyenyanfuombontitagd,yenlkpaaduyenlnyuadlanupo.</p>
+    <p>Nilkulmɔgyikoyenwanguulunuuyenubanmtuonn,lantiediɛnilantiebontitagdnninŋ.</p>
+  </li>
+  <li>
+    <p>Lbualgnilkulncɔlnyaayikodnekuli</p>
+  </li>
+  <li>
+    <p>Nilkulbualkwansungkpaaddougnbaninŋkugaalutundlyenutuonnbanmyenwanomɔnokpaadui.</p>
+    <p>Yennilyikoyenuyalnkuabinbenunninŋ,suakulncɔlnyenmnbagyikodse’ngdugnliebcɔlunŋyenniibninŋbinbempo.Gfidtkulntaangibelangiiman.</p>
+    <p>Lyikodnba,yenlyalnkuanbakangitiebonfanngkanddigbanakulntaanliebgsenyikodnba.</p>
+  </li>
+  <li>
+    <p>Nilgbe,dingbanngbe,tintanngbegbunyanyikod,lannikaagtiensiɛlgbuawanbiilyaayikodnbakuldiɛnkadaɔgneninŋ.</p>
+  </li>
+</ol>

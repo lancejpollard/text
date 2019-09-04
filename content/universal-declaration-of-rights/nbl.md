@@ -1,0 +1,122 @@
+<h1 align='center'>AMALUNGELO OMUNTU WONKE EMHLABENI WONKE JIKELELE</h1>
+<h2 align='center'></h2>
+<p align='center'>Loba isimilo lenhlonipho lamalungelo agcweleyo oluntu kuyisisekelo senkululeko, lesokulunga lokuthula emhlabeni,
+Loba ukunganaki lokungahloniphi amalungelo abantu kubangele izenzo zocuku oludabula inhliziyo lenembeza, kwadala umhlaba lapha abantu abangathola khona injabulo lenkululeko yokuthi bakhulume bekhululekile bengesabi njalo kungekho ubuyanga, konke lokhu kuphakanyiswa njengento eqakathekileyo ngabantu bonke,
+Loba ukuze umuntu angavuki umphenyana ngenxa yokucindezelwa, kufanele ukuthi amalungelo abantu asekelwe ngumthetho,
+Loba kufanele ukukhulisa ubudlelwano phakathi kwezizwe,
+Loba abantu baMazwe aManyaneyo betshengise ukholo lwabo kumalungelo oluntu lokuhlonipha lokuqakathekisa umuntu emalungelweni alingeneyo lamalungelo alinganayo phakathi kwamadoda labafazi, lokuzimisela ukuthuthukisa ingqubelaphambili lokuhlala kuhle kwabantu,
+Loba amazwe ami wodwa ezimisela uKumanyana laMazwe aManyaneyo ukuze aqakathekise ukuhlonitshwa kwamalungelo abantu,
+Lobanje ulwazi lwamalungelo blwenkululeko kuyinto eqakathekileyo, ukuze amalungelo lenkululeko kwaziwe,
+INKUNDLA YEZIZWE ITHI
+Lesisivumelwano samalungelo oluntu silotshiwe ukuze umuntu lezigaba zabantu jikelele zigcine lesi sivumelwano engqondweni, yizizwe zonke lamazwe asabuswa ngamanye.</p>
+<ol>
+  <li>
+    <p>Abantubonkebazalwabekhululekilenjalobelinganakumalungeloabo.Balesiphosikanembeza,ngakhobamelebaphathanengomoyaotshengisaubuhlobolobunye.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuulelungelolokutholainkululekolamalungeloalotshwekulesisivumelwanohngokupheleleyokunganakwaubuhlobo,umbala,ukuthiuyindodakumbengumfazi,ulimi,ukholo,ezimayelanalombangazwe,lenothokanyelasipilasiphiisimophakathikwabantu.Njalokakusozekubelomahlukoekuphathwenikwabantuemthethwenilobangowaliphiilizwelobayisiphilesimoselizwelaphoumuntuavelakhona-lanxalelolizwelizibusakumbelibuswangelinye.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuulelungelolempilo,lelenkululekolelenhlalakahle.</p>
+  </li>
+  <li>
+    <p>Kakhoumuntuozakwenziwaisigqili,kumbeisithunjwa;ubugqililokuthengisaizichakakuzanqatshelwangazozonkeindlela.</p>
+  </li>
+  <li>
+    <p>Akulamuntuozahlutshwaahlukuluzwelobaaphathwengesihlukulangendlelaeyangisayokumbeelocuku.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuulelungeloemthethwenilokuphathwanjengomuntu.</p>
+  </li>
+  <li>
+    <p>Bonkeabantubayalinganaphambikomthetho,kungekhobandlululo.Abantubonkebayavikelwaekubandlululweni.Ubandlululoluvunyelwayisivumelwanolesinjaloakuvunyelwaukubaselaubandlululo.</p>
+  </li>
+  <li>
+    <p>Omunyelomunyeumuntuulelungelolokuvikelwangababusilomthethwandabaumakulezenzoezephulaamalungeloakheasemthethweni.</p>
+  </li>
+  <li>
+    <p>Akumelangaukuthiumuntuabotshweokungekhoemthethweni,lobaabotshwemahlayana,lobaaxotshweelizwenilakubo.</p>
+  </li>
+  <li>
+    <p>Omunyelomunyeumuntuulelungelolokuthiathoniselweicalaphambikwenkundlaezimeleyokumbeagwetshweyinkundlaengabandlululiyoekuthetheniamacala.</p>
+  </li>
+  <li>
+    <p>Omunyelomunyeumuntuowethesweicalaulelungelolokuthiaphathwenjengomuntuongelacalaazeadliwelicalaemthethwandaba.Kumelenjaloaphiweithubalokutholaumeli.</p>
+    <p>Kakhoumuntuongajeziswaemthethweningenxayecalaalenzayoumaicalalelilenziwaumthethoowenzalokhoakwenzayokubelicalawawungekhongalesosikhathi.Isijezisosalelocalaakumelangasedluleisijesisoesasifaneleicalaleloumthethoomutshaungakabekwa.</p>
+  </li>
+  <li>
+    <p>Omunyelomunyeumuntuulelungelolokuhlonitshwa-ubuntubakhe,imuliyakhe,umuziwakhelezincwadizakhe.Omunyelomunyeumuntukumeleavikelwengumthethoezintweniezinje.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuulelungelolokuhambalokuhlalakuwowonkeamazwe.</p>
+    <p>Wonkeumuntuulelungelolokuthuthalobakuliphiilizwe,ngitsholaselizwenilakhe,lelokubuyelaelizwenilakhe.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuulelungelolokubalekelakwelinyeilizweukuzeabeyisiphephelikhonanxaehlutshwaelizwenilakubo.</p>
+    <p>LelilungeloalikhululiumuntuobotshiweyongaphandlekokubaebotshelweizindabazombangazwekumbeokungavunyelwangaMazweaManyaneyo.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuulelungelolokubayisakhamuziezwenilakhe.</p>
+    <p>Kakhoongathathelwailungelolelilobaalelweukubayisakhumuziselinyeilizwe.</p>
+  </li>
+  <li>
+    <p>Amadodalabafaziasebekhulilwe,balelungelolokuthathalokuthathwababelemiziyabo,kungenaniukuthiukhololomuntuyiluphilokuthiungumhlobobani.Balamalungeloalinganayoekuthathanenikwabolasekwehlukaneniekenikwaho.</p>
+    <p>Umendokumeleubotshwengukuvumelanakwabathathanayo.</p>
+    <p>Imuliyisisekelosezizwe,ngakhokumeleisekelweyizakhamizilanguHulumende.</p>
+  </li>
+  <li>
+    <p>Omunyelomunyeulelungelolokubalezimphalazakheyedwalokubalezimpahlandawonyelabanye.</p>
+    <p>Kakhoumuntuongahluthunelwaindawokanyelempahlaengeyakhe.</p>
+  </li>
+  <li>
+    <p>Omunyelomunyeulelungelolokucabanganjengokuthandakwakhe,lelokukhonzangentandoyakhe,ekhokhelwangunembazawakhe.Lelilungeloliphaumuntuimvumoyokutshintshaukhololwakhe,lemvumoyokuthiyenayedwakumbeelabanyeatshengiseukhololwakhekumphakathingezenzo,ngokukhonza,ngokufundisakunyeTokuziphathakwakhekunyelokufundisaukhololwakhe.</p>
+  </li>
+  <li>
+    <p>Omunyelomunyeulelungelolokukhulumaizifisozakhelokusengqondweniyakhe.Lelilungeloliphaumuntuinkululekoyokudingalokwamukelalokwazisaakwaziyolokusengqondweniyakhengayiphilayiphiindlelalakwamanyeamazwe.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuulelungelolokumanyanakanyelokuhlanganalabanye.</p>
+    <p>Akulamuntuozabanjwangamandlaukuthiabelilungalenhlanganisoiphilayiphi.</p>
+  </li>
+  <li>
+    <p>Omunyelomunyeulelungelolokuphathisanalohulumendewakheyenangokwakhekumbeamelwengabakhethiweyo.</p>
+    <p>Omunyelomunyeulelungeloloncedolwelizwelakhe.</p>
+    <p>Izifisozabantuyizookumelezipheuhulumendeamandlaokubusa.Lezizifisozizatshengiswalukhethooluzakwenziwangezikhathiezifaneleyo,oluzavumelanjalowonkeumuntuukukhethangendlelaengasozeitshengiseabanyeukuthiukhethebani.</p>
+  </li>
+  <li>
+    <p>Omunyelomunyeumuntu,njengesakhamuzi,ulelungelolokusekelwayilizwelakhelelokusuthiseka.Lokhukuzavelaezenzwenizesizwesakhelasencedwenioluvelakwamanyeamazwe,ukuzekuthuthukisweamalungeloakheempilwenilasemasikweniakheukuzekumletheleinhonipholentuthukoyobuntubakhe.</p>
+  </li>
+  <li>
+    <p>Omunyelomunyeulelungelolokusebenzalelokukhethaumsebenziawufunayo,lelokuphathwakuhleemsebenzini,lelokuncedwanxaumsebenziudingakala</p>
+    <p>Omunyelomunyeulelungelolokwamukelaimbandaloelingenelomsebenziwakhe.</p>
+    <p>Wonkeumuntuosebenzayoulelungelolokutholaimbadaloefaneleyoezokwenzaukuthiyenalabantwanabakhebatholeimpilolenhalakahleehloniphekayonjengabantu,lelokusekelwangezinyeizindlela.</p>
+    <p>Omunyelomunyeulelungelolokubalilungalomhlanganowezisebenziukuzeasekeleizifisozakhe.</p>
+  </li>
+  <li>
+    <p>Omunyelomunyeulelungelolokuthathaikhefuengephulelwaimbadaloyakhe,njaloulelungelolokusebenzaamahoraangamanengikakhulukazi.</p>
+  </li>
+  <li>
+    <p>Omunyelomunyeulelungelolempilolenhlalakahleyakhelabantwanabakhe.Lokhukuhlanganisaukudla,izembatho,indawoyokuhlalakanyelempiloenhle,ukugcinwakuhleumaengasebenzi.Lokhukuhlanganisaabafelwaokazi,abadala,abalimeleyolabehlulekayoukuzonga.</p>
+    <p>Ababelethileyolabantwanakumelebagcinwenjalobancediswe.Abantwanabonkeabazalelweemendwenikumbengaphandlekwawo,kumelebasekelwengokufanayo.</p>
+  </li>
+  <li>
+    <p>Omunyelomunyeulelungelolemfundo.Imfundoayizukubalembadalo,kusukelaphansikuzekufikeesigabeniesithethuthu.Imfundoephansi(elementary)ngeyomuntuwonke,ngakhoomunyelomunyeuzabanjwangamandlaukuthiayithole.Imfundoephezuluyezandla(technical)lenyenjaloeyolwaziolwehlukeneyoolwezigabaezehlukeneyokumeleibekhona,lemfundoephakemeyokumeleitholweyilaboabayifaneleyongolwaziabalalo.</p>
+    <p>Imfundokuzamelaithuthukiseubuntulokuhloniphaamalungeloobuntulenkululekoengcweleyo.Kufaneleikhuliseukuzwelana,ukuzwisisalobudlelwanophakathikwezizwezonke,kwemihloboyonkelakwabenkonzoezehlukeneyo,isekelenjaloimisebenziyeZizweeziManyeneyo(UN)yokulethaukuthulaemhlabeni.</p>
+    <p>Abazalibalelungelolokukhethaimfundoyabantwanababo.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuulelungelolokumanyanalabanyelokukhululekaekuphathisanenilabanyekwezemvelolakwezamasikolelokuvunakukhokonkeokuvezwayizifundozemvelo.</p>
+    <p>Omunyelomunyeulelungelolokusekelwaempilweniyakhelelokuqiniswaebuntwinibakhemayelanalokwemvelolokwezombukiso.</p>
+  </li>
+  <li>
+    <p>Umuntumunyelamunyeulelungelolokutholaindawolaphaokuhlonitshwalokugcinwakhonaizimisozezivumelwanolezi.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuulemisebenziokumeleayenzenjengesakhamuziokuyiyoezagcwalisaubuntubakhe.</p>
+    <p>Kukhokonkeakwenzayo,uzakhokhelwayikuhloniphalokwethulaingowaneyakhekumalungeloabanye,ananzeleleukuqakathekakombusowabanengi(UN).</p>
+    <p>LaamalungelolenkululekoakumelangakuphambanelezimisozeZizweeziManyaneyo.</p>
+  </li>
+  <li>
+    <p>AkukhokuleziZivumelwanookungavumelaumuntulobaabantuukubhidlizaamalungelolenkululekoezilotshwelapha.</p>
+  </li>
+</ol>

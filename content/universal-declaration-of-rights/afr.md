@@ -1,0 +1,123 @@
+<h1 align='center'></h1>
+<h2 align='center'>Aanhef</h2>
+<p align='center'>AANGESIEN erkenning vir die inherente waardigheid en die gelyke en onvervreembare reg van alle lede van die menslike ras die basis vir vryheid, geregtigheid en vrede in die wereld is;
+AANGESIEN minagting vir menseregte barbaarse dade wat die gewete van die mens aangetas het en die aanvang van ’n wereld waarin mense vryheid van spraak, geloof, vrees en behoefte het, gesien word as die hoogste aspirasie van die gemiddelde mens;
+AANGESIEN dit noodsaaklik is dat menseregte deur die wet beskerm word ten einde te voorkom dat mense nie gedwing gaan word om in opstand teen tirannie en onderdrukking te kom nie;
+AANGESIEN dit noodsaaklik is om die ontwikkeling van vriendelike bande tussen nasies aan te moedig;
+AANGESIEN die volke wat lid van die Verenigde Volke Organisasie is, hul geloof in fundamentele menseregte in die Handves beklemtoon, in die waardigheid en waarde van die menslike persoon, in die gelyke regte van mans en vrouens en dit ten doel het om sosiale vooruitgang en ’n beter lewenspeil in groter vryheid te bevorder;
+AANGESIEN Lidstate hulle voorgeneem het om in samewerking met die Verenigde Volke universele respek en agting vir menseregte en fundamentele vryheid te verwesenlik; en
+AANGESIEN ’n algemene begrip van hierdie regte en vryhede van groot belang vir die bereiking van hierdie voorneme is,
+Verklaar die ALGEMENE VERGADERING
+Hierdie Universele Verklaring van Menseregte as ’n algemene standaard vir die verwesenliking deur alle mense en nasies, om te verseker dat elke individu en elke
+deel van die gemeenskap hierdie Verklaring in ag sal neem en deur opvoeding, respek vir hierdie regte en vryhede te bevorder, op nasionale en internasionale vlak, daarna sal strewe om die universele en effektiewe erkenning en agting van hierdie regte te verseker, nie net vir die mense van die Lidstate nie, maar ook vir die mense in die gebiede onder hul jurisdiksie.</p>
+<ol>
+  <li>
+    <p>Allemenslikewesenswordvry,metgelykewaardigheidenregte,gebore.Hullehetredeengeweteenbehoortindiegeesvanbroederskapteenoormekaaroptetree.</p>
+  </li>
+  <li>
+    <p>ElkepersoonhetdieregtotaldieregteenvryhedesoosindieVerklaringvervatis,sonderuitsonderingvanenigeaardsoosopgrondvanras,geslag,kleur,taal,godsdiens,geboorteofenigeanderstatus.Daarbenewenssalgeenonderskeidopgrondvanpolitieke,geregtelikeofinternasionalestatusvandielandofgebiedwaartoe’npersoonbehoortgemaakwordnie,hetsydit’nonafhankliketrust,nie‐selfregerendofonderenigeanderbeperkingvansoewereiniteitis.</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregtotlewe,vryheidensekuriteitvanpersoon.</p>
+  </li>
+  <li>
+    <p>Niemandsalinslawernyofknegskapgehouwordnie;allevormsvanslawernyenhandelinslawesalverbiedword.</p>
+  </li>
+  <li>
+    <p>Niemandsalgemartelwordofaanwrede,onmenslikeofvernederendebehandelingofstrafblootgestelwordnie.</p>
+  </li>
+  <li>
+    <p>Elkeenhetoraldieregtoterkenningas’npersoonvoordiereg.</p>
+  </li>
+  <li>
+    <p>Almalisgelykvoordieregenhetdieregtotgelykebeskermingvandiewet.AlmalhetdieregtotgelykebeskermingteenenigediskriminasieterskendingvanhierdieVerklaringenteenenigeaanmoedigingtotsulkediskriminasie.</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregtoteffektiewekompensasiedeurbevoegdenasionaletribunalevirdadewathulfundamenteleregskaadwatdeurdiewetofgrondwetaanhullegegeeis.</p>
+  </li>
+  <li>
+    <p>Niemandsalaanarbitrêrearrestasie,aanhoudingofbannelingskaponderworpeweesnie.</p>
+  </li>
+  <li>
+    <p>Elkeenhet,invollegelykheid,dieregtot’nregverdigeenopenbareverhoordeur’nonafhanklikeenobjektiewetribunaal,indiebepalingvansyregteenverpligtingeendieondersoekvanenigekriminelesaakteenhom.</p>
+  </li>
+  <li>
+    <p>Elkeenbeskuldigvan’nstrafbareoortredinghetdieregomasonskuldigbeskoutewordtotskuldigbevindvolgensdiewet,in’nopenbaresaakwaarinhyversekerisvandienodigeverdediging.</p>
+    <p>Niemandsalbeskuldigwordvan’nstrafbareoortredingasgevolgvanenigedaadofnalatigheidwatvolgensnasionaleofinternasionalewetnie’nmisdaadtentyevandiepleegdaarvanwasnie.’nSwaarderstrafsalooknieopgelwordasdiestrafwattoepaslikwastentyevandieoortredingnie.</p>
+  </li>
+  <li>
+    <p>Niemandsalonderworpeweesaanarbitrêreinmengingmetsyprivaatheid,familie,woningofkorrespondensienie,ofaanaanvalleopsyeerenreputasienie.Elkeenhetdieregtotbeskermingdeurdiewetteensulkeinmengingofaanvalle.</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregtotvryheidvanbewegingenverblyfbinnediegrensevanelkestaat.</p>
+    <p>Elkeenhetdieregomenigelandteverlaat,insluitendesyeie,ennasylandterugtekeer.</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregtotasielinanderlande.</p>
+    <p>Daarmagnieophierdieregaanspraakgemaakwordtydensvervolgingvirnie‐politiekeoortredingsofdadewatstrydigismetdiedoelwitteenbeginselsvandieVerenigdeVolkenie.</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregtotburgerskap.</p>
+    <p>Niemandseburgerskapsalarbitrêrafgeneemwordnieenniemandsalvandieregontneemwordomafstandtedoenvanburgerskapnie.</p>
+  </li>
+  <li>
+    <p>Volwassemansenvrouens,sonderenigebeperkingasgevolgvanras,nasionaliteitofgodsdiens,hetdieregomtetrouenmet’nfamilietebegin.Hullekanaanspraakmaakopgelykeregtetenopsigtevandiehuwelik,tydensdiehuwelikentydensontbindingvandiehuwelik.</p>
+    <p>Diehuweliksalplaasvindslegsmetdievrywilligeenvolletoestemmingvandievoornemendehuweliksmaats.</p>
+    <p>DiefamilieisdienatuurlikeenfundamentelegroepseenheidvandiegemeenskapenkanaanspraakmaakopbeskermingdeurdiegemeenskapendieStaat.</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregomindividueeleninassosiasiemetandereiendomtebesit.</p>
+    <p>Niemandseeiendomsalarbitrêrafgeneemwordnie.</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregtotvryheidvandenke,geweteengodsdiens;hierdieregsluitindieregomvangodsdiensofgeloofteveranderendievryheidom,hetsyalleenofin’ngemeenskap,hierdiegodsdiensofgelooftebeoefendeurverkondiging,aanbiddingofheiliging.</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregtotvryheidvanopinieenuitdrukking;hierdieregsluitdievryheidinomopiniessonderinmengingtelugenominligtingenideestevra,teontvangentedeeldeurmiddelvanenigemediumtenspytevangrense.</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregtotvryheidvanvreedsamevergaderingenassosiasie.</p>
+    <p>Niemandsalgedwingwordomaan’nassosiasietebehoortnie.</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregomaandieregeringvansylanddeelteneem,hetsydirekofdeurvrylikverkoseverteenwoordigers.</p>
+    <p>Elkeenhetdieregtotgelyketoegangtotdieopenbarediensteinsyland.</p>
+    <p>Diewilvandiemensesaldiebasisvormvandieowerheidofregering,enhierdiewilsaluitgedrukworddeurmiddelvanegtetussenverkiesings.</p>
+  </li>
+  <li>
+    <p>Elkeen,as’nlidvandiegemeenskap,hetdieregtotbestaan‐sekerheidenkanaanspraakmaakopdieverwesenlikingvandieekonomiese,sosialeenkultureleregtewatnoodsaaklikisvirsywaardigheidendievryeontwikkelingvansypersoonlikheid,deurmiddelvannasionalepogingseninternasionalesamewerkingenvolgensdieorganisasieenhulpbronnevanelkestaat.</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregomtewerk,totdievryekeusevanarbeid,totregverdigeengunstigewerksomstandighedeentotbeskermingteenwerkloosheid.</p>
+    <p>Elkeen,sonderdiskriminasie,hetdieregtotgelykebetalingvirgelykewerk.</p>
+    <p>Elkeenwatwerkkanaanspraakmaakopregverdigevergoedingwataanhomensyfamilie’nmenswaardigebestaanversekerenwataangevulkanworddeurandervormsvansosialesekerheid,indiennodig.</p>
+    <p>Elkeenhetdiereg,terbeskermingvansybelange,omvakbondetestigendaarbyaantesluit</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregtotrusenvryetyd,insluitendredelikebeperkingsopwerksureenperiodiekebetaaldeverlof.</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregtot’nlewenspeilwatvoldoendeisvirgesondheid,welsynvirhomselfensyfamilie,insluitendekos,klere,behuising,mediesesorgennoodsaaklikebestaansekerheid,endieregtotvoordeleofonderstandsgeldtydenswerkloosheid,siekte,ongeskiktheid,weduweeskap,ouderdomof’ntekortaanlewens‐middeletydensomstandighedebuitesybeheer.</p>
+    <p>Moedersenkinderskanaanspraakmaakopspesialesorgenhulp.Allekinders,hetsybinne‐ofbuite‐egtelik,saldieselfdesosialebeskerminggeniet.</p>
+  </li>
+  <li>
+    <p>Elkeenhetdieregtotopvoeding.Opvoedingsalgratiswees,tenminsteindieelementêreenfundamentelestadiums.Elementêreopvoedingsalverpligtendwees.Tegnieseenprofessioneleopvoedingsalgeredelikbeskikbaarweesenho’ropvoedingsalnetsogeredelikopmerietebeskikbaarwees.</p>
+    <p>Opvoedingsalgemikweesopdievolleontwikkelingvandiemenslikepersoonlikheidenopdiebevorderingvanrespekvirmenseregteenfundamentelevryheid.Ditsalbegrip,verdraag‐saamheidenvriendskaptussenallenasies,rasseofetniesegroepebevorder,asookdieaktiwiteitevandieVerenigdeVolkeindiehandhawingvanvrede.</p>
+    <p>Ouershetdieregomtekieswattertipeopvoedinghullekindersontvang.</p>
+  </li>
+  <li>
+    <p>Almalhetdieregomvrylikaandiekulturelelewevanhulgemeenskapdeelteneem,omdiekunstetegenieteninwetenskaplikevooruitgangenvoordeletedeel.</p>
+    <p>Elkeenhetdieregtotdiebeskermingvandiemoreleenmateri’lebelangewatspruituitenigewetenskaplike,letterkundigeofkunswerkdeurhomgeproduseer.</p>
+  </li>
+  <li>
+    <p>Elkeenisgeregtigop’nsosialeeninternasionaleordewaarindieregteenvryhedebeskryfinhierdieVerklaringtenvolleverwesenlikkanword.</p>
+  </li>
+  <li>
+    <p>Elkeenhetverpligtingeteenoordiegemeenskapwaaralleenlikdievryeenvolleontwikkelingvansypersoonlikheidmoontlikis.</p>
+    <p>Indieuitoefeningvanregteenvryhede,salelkemensslegsonderworpeweesaandiewetlikebeperkingeingestelomdeeglikeerkenningenrespekvirdieregteenvryhedevananderteversekerenomdieredelikevereistesnatekomvirsedelikheid,openbareordeendiealgemenewelsynvan’ndemokratiesegemeenskap.</p>
+    <p>HierdieregteenvryhedemagingeengevalstrydigmetdiedoelwitteenbeginselsvandieVerenigdeVolkeuitgeoefenwordnie.</p>
+  </li>
+  <li>
+    <p>NiksinhierdieVerklaringmaginterpreteerwordasimpliserenddatenigeStaat,groepofpersoondiereghetomdeelteneemaanenigeaktiwiteitofenigedaadwatgerigisopdiebeskadigingvanenigeregteenvryhedehierinbeskryfnie.</p>
+  </li>
+</ol>

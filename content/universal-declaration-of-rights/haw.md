@@ -1,0 +1,121 @@
+<h1 align='center'>Universal Declaration of Human Rights</h1>
+<h2 align='center'>ŌLELO MUA</h2>
+<p align='center'>‘Oiai, ‘o ka ho’omaopop ‘ana i ka hanohano, a me nā pono kīvila i kau like ma luna o nā pua apau loa o ka ‘ohana kanaka ke kumu kahua o ke kū’oko’a, ke kaulike, a me ka maluhia o ka honua, a
+‘Oiai, ‘o ka hehikū a me ka ho’owahāwahā i ka pono kīvila o ke kanaka ke kumu o ka hana loko’ino, ka mea ho’i i pi’i ai ka inaina o ka luna’ikehala o kānaka, a ua kūkala ‘ia ho’i ka wehena o ke ao e noo ia nā maka ‘āinana apau me ke kū’oko’a o ka ōlelo a me ka mana’o, me ka maka’u ‘ole, a
+‘Oiai, he mea nui ka ho’opakele ‘ana o ke kānāwai i nā pono kīvila o kānaka, inā ho pono nō e ‘imi i ke ala o ke kipi ‘ana i ka hainā a me ka ho’oluhi hewa wale, a
+‘Oiai, he mea nui ka ho’okō ‘ana i ka pili aloha ma waena o nā aupuni, a
+‘Oiai, ua hō’oia ka po’e o Nā Aupuni Hui Pū la ma o ka Palapala Ho’ohui lā, i ka hilina’i i ke kumu kahua o nā pono kīvila o kānaka, i ka hanohano a me ka waiwai o kānaka, a me ke kau like ‘ana o nā pono kīvila ma luna o ke kāne a me ka wahine, a i ho’oholo ho’i e alu like i ka ho’opi’i ‘ana i ke kūlana o ka nohona kanaka o ke ao noa a,
+‘Oiai, ua ho’ohiki Nā Aupuni Lālā i kā lākou ‘ōlelo e ho’okō, ma ke alu like ‘ana me Nā Aupuni Hui Pū ‘Ia, ka paipai ‘ana i ke ao kanaka e mahalo i ke kumu kahua pa’a o nā pono kīvila kanaka,
+‘Oiai, ‘o ka ho’omaopopo like ‘ana i kēia mau pono kīvila ka mea nui e kō ai kēia ‘ōlelo ho’ohiki,
+No laila, ke KUAHAUA nei KA ‘AHA ‘ŌLELO, ‘o ka HŌ’IKE I NĀ PONO KĪVILA O KE AO NEI ka pae ho’ohālikelike, kahi e pi’i like ai nā lāhui a me nā aupuni apau loa, i kū kēlā kanaka, kēia kanaka, a me kēlā hui, kēia hui, me ka ho’omaopopo mau i kēia Hō’ike, ma o ka ho’ona’auao ‘ana, i hō’ihi’ihi ‘ia nā pono kīvila ma ke ala e holumua ai ke aupuni, a i waena ho’i o nā aupuni, a pa’a pono ka ‘ike a i ho’okō ‘ia ho’i e nā Aupuni Lālā a me ka po’e o nā panalā’au e noho ana i ka malu o lākou.</p>
+<ol>
+  <li>
+    <p>Hānaukū’oko’a‘ianākānakaapauloa,auakaulikekahanohanoamenāponokīvilamalunaokākoupākahi.Uaku’umaikano’ono’oponoameka‘ikeponomalunaokākou,nolaila,ealohakākoukekahiikekahi.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapauloanāponokīvilaihelu‘iamakēiaHō’ike,mekaho’okae‘oleikalāhui,ikawaiho’olu’uoka‘ili,ikekāneai‘olekawahineka‘ōlelo,kaho’omana,kamana’opolitikaamenāmana’o‘ēa’e,ka‘āinaapilinapahaihānau‘iaai,kawaiwai,kekūlanahanaunaamenākūlana‘ēa’e.Eiaho’i,‘a’oleeho’okae‘iakekanakamamuliokekūlanapolitikaamekekuleanakūlokoakūwahoho’iokonaaupuninonamai‘oia,ināpahaheaupunikū’oko’ahe‘āinanohokahu‘ia,ai‘oleho’ihe‘āinaikaupalena‘iakonakū’oko’a‘ana.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukeola,kamōhalu,amekamaluhia.</p>
+  </li>
+  <li>
+    <p>‘A’oleenohokauākaupa’akekanaka;uapāpā‘iakanohokauākuapa’a,amekaho’okuapa’a‘anamanā‘anoapauloa.</p>
+  </li>
+  <li>
+    <p>‘A’oleeho’omāinoino‘iakekanaka,‘a’oleho’ieho’opa’i‘ino‘iakekanakaikūlike‘oleikekūlanakanaka.</p>
+  </li>
+  <li>
+    <p>E‘ike‘ianākānakamanāwahiapau,hekanakaikamaluokekānāwai.</p>
+  </li>
+  <li>
+    <p>Uakaulikekekānāwaimalunaonākānakaapau,aepalekana‘iaekekānāwaimekaho’okae‘ole.Uapalekana‘ianākānakaikaho’okae‘ole‘ia,ipāpā‘iaekēiaHō’ike,auapalekana‘iaho’iikameaehō’eu’euanaikaho’okae.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukaho’oponopono‘ia‘anaeka‘ahalunakānāwaimākaukauokeaupuni,onāhanaa‘a’eanaikonaponokīvilaihō’ike‘iamakekumukānāwai.</p>
+  </li>
+  <li>
+    <p>‘A’oleehopu,ho’opa’ahao,aho’okuewawale‘iakekanakamekekumu‘ole.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaueho’okolokolopono‘iaimuaokalehulehueka‘ahalunakānāwaikū’oko’aakaulikeho’i,nokaho’oholo‘anaikaponokīvilaamekekuleana,amenāmeaiho’opi’i‘iaiāia.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapauiho’opa’i‘ianokekalaima,kano’ono’o‘anaikonahewa‘ole,ahō’oiapono‘iakona‘a’eikekānāwai,makaho’okolokolo‘anaimuaokalehulehu,aimālama‘iaho’ināmeaapaueponoaikona‘ao’aokūplae.</p>
+    <p>‘A’oleeho’opa’ikalaima‘iakekanakaihelu‘ole‘iakānahanahekalaimamakekānāwaiaupuniai‘olemakekānāwaimawaenaonāaupuniikawāihana‘iaai.‘A’oleho’iehō’oi‘iaakukaho’opa’imalunaokaho’opa’iekūanaikawāihana‘iaaikekalaima.</p>
+  </li>
+  <li>
+    <p>‘A‘olee‘āke’ake’akumu‘ole‘ianāmeapilikino,ka‘ohana,kahome,amekaho’olaha‘ikeokekanaka,‘a’oleho’ieho’āhewawale‘iakonahanohanoamekonakūlana.Uanoainākānakaapaukapalekanaokekānāwaiike‘āke’ake’aamekaho’āhewawale‘ia.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukaponokīvilaokaheleanoho‘anamalokookapalenaokeaupuni.</p>
+    <p>Uanoainākānakaapaukaha’alele‘anaikēlāaupuni,kēiaaupuni,amekonaaupuniiho,auanoakaho’i‘anaikonaaupuni.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapauka‘imi‘anaināaupunipu’uhonua,kahienohomaluhiaai.</p>
+    <p>E’au’a‘iakēiaponokīvilaokekanakaiho’opa’i‘ianokahewaipili‘oleikapolitika,amekahewaikū’ē‘ēikapahuhopuamenāloinaoNāAupuniHuiPū‘Ia.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukanoho‘anamaka’āinanaokeaupuni.</p>
+    <p>‘A’olee‘au’awale‘iakanoho‘anamaka’āinanaokekanaka,a‘a’oleho’ie‘au’a‘iakanoho‘anahemaka’āinanaokekahiaupuni‘ēaku.</p>
+  </li>
+  <li>
+    <p>Uanoainākāneamenāwāhineilawaaināmakahiki,kamale‘anaamekaho’okumu‘anai‘ohana,mekekaupalena‘ole‘iamamuliokolāualāhui,keaupuni,ai‘olekolāuaho’omana.Uakaulikenāponokīvilamaleikanohomale‘ana,amekawāepauaikanohomale‘ana.</p>
+    <p>Emalenākānakawalenōikohola’ela’eenohomale.</p>
+    <p>‘Oka‘ohanakekumupa’aokekaiāulukanaka,auanoaika‘ohanakapalekanaokekaiāuluamekeaupuni.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapauka‘onaho’okahi‘anaikawaiwai,ameka‘onapū‘anaho’imenākānaka‘ēa’e.</p>
+    <p>‘A‘olee‘au’akumu‘ole‘iakawaiwailewaawaiwaipa’apahaokekanaka.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukekū’oko’aokamana’o,kaluna’ikehala,amekaho’omana;uanoanōho’ikaho’ololi‘anaikonaho’omanaai‘olekonamana’o,auanoaho’iikekanakaho’okahi,ai‘olenākānakahenuikahō’ike‘anaikapauleleikaho’omana,imuaokalehulehuai‘olemakahika’awale,maokea’oamekahaipule‘anaikonaakua.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukekū’oko’aokamana’oamekahō’ike‘anaikamana’o;‘a’oleho’ieho’opilikia‘ia,auanoaho’ika‘imi,kaloa’a,amekaho’olaha‘anaakuika‘ikemanā‘anoapau,ai‘ōakuho’ionāpalena‘āinaapau.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukahuimaluhia‘anamenākānaka‘ēa’e.</p>
+    <p>‘A’oleekoi‘iakekanakaekomoikahui.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukekomo‘anaikahanaakonaaupunimaonalā,ai‘olemaoka‘eleleikohola’ela’e‘ia.</p>
+    <p>Uanoainākānakaapaukekōkuaokeaupuniiho’okumu‘ianonāmaka’āinana.</p>
+    <p>‘Okekauohaakalehulehukekumuokamanaaupuni;ekauoha‘iaka‘i’iniokalehulehumaokekohopāloka‘anaimālamamaoli‘iaikēlāwā,kēiawā;uanoainākānakaapauloakekohomalū‘anai‘olemakeka’inahanaikūlikeakū’oko’a.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapau,nālālāho’iokekaiāulu,kaponookalawelawemālamaolaiho’okō‘iaaiho’i,makekāko’o‘anaokeaupuni,amekekāko’o‘anaonāaupuni‘ēa’e,aikūlikemekawaiwaiokeaupuni,amenāponoamenāloinapa’amauokekaiāulu,nokahanohanookekanakaamekonaulula’ela’e‘ana.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukaponokīvilaokahana,ke‘anokūponookahana,amekapalekanaikaneleikahana‘ole.</p>
+    <p>Uanoainākānakaapau,mekaho’okae‘ole,kaukuho’okahiikūlikeikahanaho’okahi.</p>
+    <p>Uanoainākānakahanaapaukaukukaulikeeponoaikanoho‘anaonaamekona‘ohanaikūikahanohanokanaka,aināhepono,ekūpale‘iaekalawelawekaiāulu.</p>
+    <p>Uanoainākānakaapaukaho’okumuamekekomo‘anaināunionakālepaipalekanaaikonapono.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukaho’omahaamekaluana‘ana,amenāholahanaikaupalenapono‘ia,aeuku‘iaoianokekahimaulānuiokamakahiki.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukekūlananohonaeponoaikeolaonaamekona‘ohana,‘oiaho’i,‘okamea‘ai,kalole,kahale,kalawelaweolakino,amenālawelawekaiāulueponoai,aemālama‘iaho’iikawāpō’inookaneleikahana‘olekama’i,kekīnā,kanohonakānemakeonāwāhine,kawā‘elemakule,amenāpō’ino‘ēa’eekaumaianaihiki‘oleke‘aloa’e.</p>
+    <p>Uanoaikanoho‘anamakuahineamekanoho‘anakamali’ikekōkuakūikawā.Epalekana‘ianākeikiapauloaihānau‘iamaienāmākaumaleamale‘olepaha.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukaho’ona’auao‘ana.Emanuahikaho’ona’auao‘ana,makali’ili’iloa,makekulaha’aha’aamenāpaepaekahuaokaho’ona’auao.Hekoinapa’akaho’ona’auao‘anamakekulaha’aha’a.Enoakaho’ona’auao‘anaināoihanaloealike‘ole,aenoanōho’ikekulanuiinākānakaapauimākaukau.</p>
+    <p>Ekālelekaho’ona’auao‘anaikaulukūpono‘anaokekanaka,amekaho’oikaika‘anaikamahaloikaponokīvilaapauokānaka.Epaipai‘iakaho’omaopopole’a,keahonui,amekapilialohaiwaenaonāaupuni,nāhuipilikokoamenāhuiho’omana,aeho’oholumuaikahanaoNāAupuniHuiPū‘Ianokamālama‘anaikamaluhia.</p>
+    <p>Uanoaināmākuakekohomua‘anaike‘anookaho’ona’auao‘anaikālāuamaukeiki.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukekomo‘anaikanohonaku’unaokekaiāulu,kaluana‘anaināmeano’eau,amekeka’analike‘anaikaloa’amaiokaholumua‘epekema.</p>
+    <p>Uanoainākānakaapaukapalekana‘anainaponoeloa’amaianamaikahana‘epekema,kapalapala,ai‘olekameano’eauānaihakuai.</p>
+  </li>
+  <li>
+    <p>Uanoainākānakaapaukanohonaiho’onohonoho‘iamakonaaupuniamenāaupuniapau,kahiekōaināponoihelu‘iamakēiaHō’ike.</p>
+  </li>
+  <li>
+    <p>Hekuleanakonākānakaapauikonakaiāulu,kahieuluaikekanakamekekū’oko’a.</p>
+    <p>Ikaho’okō‘anaināponokīvila,e‘aenākānakaapauināpalenawalenōiho’okau‘iaekekānāwainokamālama‘anaikaho’omaopopoponoamekamahaloakuināponokīvilaoha’i,ikūikaponoamekamaluhiaokeaupuniokalehulehu.</p>
+    <p>‘A‘oleloaelilokēiamauponokīvilaimeaekū’ē’ēanaikapahuhopuamenāloinaoNāAupuniHuiPū‘Ia.</p>
+  </li>
+  <li>
+    <p>‘A’oleloaekuhikuhi‘ianāmeaokēiaHō’ikehemaumeakōkuaikeAupuni,kahui,ai‘olekekanaka,makekomo‘anaai‘olemakaho’okō‘anaikahananonakamana’oelukuwaleināponokīvilaihelu‘iamaimalunaa’enei.</p>
+  </li>
+</ol>

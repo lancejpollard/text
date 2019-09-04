@@ -1,0 +1,121 @@
+<h1 align='center'>Mannréttindayfirlýsing Sameinuðo Þjóðanna.</h1>
+<h2 align='center'>Inngangsorð</h2>
+<p align='center'>Það ber að viðurkenna, að hver maður sé jafnborinn til virðingar og réttinda, er eigi verði af honum tekin, og er þetta undirstaða frelsis, réttlætis og friðar i heiminum.
+Hafi mannréttindi verið fyrir borð borin og lítilsvirt, hefur slíkt haft í för með sér siðlausar athafnir, er ofboðið hafa samvizku mannkynsins, enda hefur því verið yfir lýst, að æðsta markmið almennings um heim allan sé að skapa veröld, þar sem menn fái notið málfrelsis , trúfrelsis og óttaleysis um einkalíf afkomu.
+Mannréttindi á að vernda með lögum. Að öðrum kosti hljóta menn að grípa til þess örþrifaráðs að rísa upp gegn kúgun og ofbeldi.
+Það er mikilsvert að efla vinsamleg samskipti þjóða í milli.
+Í stofnskrá sinni hafa Sameinuðu þjóðdirnar lýst yfir trú sinni á grundvallaratriði mannréttinda, á göfgi og gildi mannsins og jafnrétti karla og kvernna, enda munu þær beita sér fyrir félagslegum framförum og betri lífsafkomu með auknu frelsi manna.
+Aðildarríkin hafa bundizt samtökum um að efla almenna virðingu fyrir og gæzlu hinna mikilsverðustu mannréttinda í samráði við Sameinuðu þjóðirnar.
+Til þess að slík samtök megi sem best takast, er það ákaflega mikilvægt, að almennur skilningur verði vakinn á eðli slíkra réttinda og frjálsræðis.
+Fyrir því hefur allsherjarþing Sameinuðu þjóðanna fallizt á mannréttindayfirlýsingu þá, sem hér með er birt öllum þjóðum og ríkjum til fyrirmyndar. Skulu einstaklingar og yfirvöld jafnan hafa yfirlýsingu þessa í huga og kappkosta með fræðslu og uppeldi að efla virðingu fyrir réttindum Þeim og frjálstræÞi, sem hér er að stefnt. Ber og hverjum einum að stuðla Þeim framförum, innan ríkis og ríkja í milli, er að markmiðum yfirlýsingarinnar stefna, tryggja almenna og virka viðurkenningu á grundvallaratriðum hennar og sjá um, að Þau verði í heiðri höfó, bæði meðal Þjóða aðildarríkjanna sjálfra og meðal Þjóða á landsvæðum Þeim, er hlita lögsögu aðildarríkja.</p>
+<ol>
+  <li>
+    <p>Hvermaðurerborinnfrjálsogjafnöðrumaðvirðinguogréttindum.Mennerugæddirvitsmunumogsamvizku,ogberþeimaðbreytabróðurlegahverjumviðannan.</p>
+  </li>
+  <li>
+    <p>Hvermaðurskaleigakröfuáréttindumþeimogþvífrjálsræði,semfólgineruíyfirlýsinguþessari,ogskalþarengangreinarmungeravegnakynþáttar,litarháttar,kynferðis,tungu,trúar,stjórnmálaskoðanaeðaannarraskoðana,þjóðernis,uppruna,eigna,ætterniseðaannarraaðstæðna.Eigimáheldurgeragreinarmunámönnumfyrirsakirstjórnskipulagslandsþeirraeðalandsvæðis,þjóðréttarstöðuþesseðalögsöguyfirþví,hvortsemlandiðersjálfstættríki,umráðasvæði,sjálfstjórnarlausteðaáannanháttháðtakmörkunumáfullveldisínu.</p>
+  </li>
+  <li>
+    <p>Allirmenneigarétttillífs,frelsisogmannhelgi.</p>
+  </li>
+  <li>
+    <p>Enganmannskalhneppaíþrældómnénauðungarvinnu.Þrælahaldogþrælaverzlun,hverjunafnisemnefnist,skulubönnuð.</p>
+  </li>
+  <li>
+    <p>Enginnmaðurskalsætapyndingum,grimmilegri,ómannlegrieðavanvirðandimeðferðeðarefsingu.</p>
+  </li>
+  <li>
+    <p>Allirmennskulu,hvaríheimisemer,eigakröfuáaðveraviðurkenndiraðilaraðlögum.</p>
+  </li>
+  <li>
+    <p>Allirmennskulujafnirfyrirlögunumogeigaréttájafnriverndþeirra,ánmanngreinarálits.Beröllummönnumrétturtilverndargegnhverskonarmisrétti,semíbágabrýturviðyfirlýsinguþessa,svooggagnvarthverskonaráróðritilþessaðskapaslíktmisrétti.</p>
+  </li>
+  <li>
+    <p>Núsætireinhvermaðurmeðferð,erbrýturíbágaviðgrundvallarréttindiþau,semtryggðeruístjórnarskráoglögum,ogskalhannþáeigaathvarfhjádómstólumlandsinstilþessaðfahlutsinnréttan.</p>
+  </li>
+  <li>
+    <p>Ekkimáeftirgeðþóttatakamennfasta,hneppaþáifangelsieðavarðhaldnégeraútlæga.</p>
+  </li>
+  <li>
+    <p>Núleikurvafiáumréttindiþegnsogskyldur,eðahannerborinnsökumumglæpsamlegtathæfi,ogskalhannþánjótafullsjafnréttisviðaðramennumréttlátaopinberarannsóknfÞriróháðumogóhlutdrægumdómstóli.</p>
+  </li>
+  <li>
+    <p>Hvernþannmann,semborinnersökumfyrirrefsivertathæfi,skalteljasaklausan,unzsökhanshersönnuðlögfullrisönnunfÞriropinberumdómstóli,endahafitryggilegaveriðbúiðumvörnsakbornings.</p>
+    <p>Enganskalteljasekantilrefsingar,nemaverknaðursáeðaaðgerðaleysi,semhannerborinn,varðirefsinguaðlandslögumeðaþjóðaréttiáþeimtíma,ermáliskiptir.Eigimáheldurdæmahanntilþyngrirefsingarenþeirrar,semaðlögumvarleyfð,þegarverknaðurinnvarframinn.</p>
+  </li>
+  <li>
+    <p>Eigimáeftirgeðþóttaraskaheimilisfriðinokkursmanns,hnýsastíeinkamálhanseðabréf,vanvirðahanneðaspillamannorðihans.Berhverjummannilagaverndgagnvartslíkumafskiptumeðaárásum.</p>
+  </li>
+  <li>
+    <p>Frjálsirskulumennveraferðasinnaogdvalarinnanlandamærahversríkis.</p>
+    <p>Réttskalmönnumveraaðfaraaflandiburt,hvortsemerafsínulandieðaöðru,ogeigaafturkvæmttilheimalandssíns.</p>
+  </li>
+  <li>
+    <p>Réttskalmönnumveraaðleitaognjótagriðlandserlendisgegnofsóknum.</p>
+    <p>Enginnmáþóskírskotatilslíkraréttinda,semlögsótturermeðréttufyrirópólitískafbroteðaatferli,erbrýturíbágaviðmarkmiðoggrundvallarreglurSameinuðuþjóðanna.</p>
+  </li>
+  <li>
+    <p>Allirmennhafarétttilríkisfangs.</p>
+    <p>Enganmannmáeftirgeðþóttasviptaríkisfanginéréttitilþessaðskiptaumríkisfang.</p>
+  </li>
+  <li>
+    <p>Konumogkörlum,semhafaaldurtilþessaðlögum,skalheimiltaðstofnatilhjúskaparogfjölskyldu,ántillitstilkynþáttar,þjóðerniseðatrúarbragða.Þauskulunjótajafnréttisumstofnunogslithjúskapar,svoogíhjónabandinu.</p>
+    <p>Eigimáhjúskapbinda,nemabæðihjónæfnisamþykkifúsumvilja.</p>
+    <p>Fjölskyldaneríeðlisínufrumeiningþjóðfélagsins,ogberþjóðfélagiogríkiaðverndahana.</p>
+  </li>
+  <li>
+    <p>Hverjummanniskalheimiltaðeigaeignir,einumséreðaífélagiviðaðra.</p>
+    <p>Enganmáeftirgeðþóttasviptaeignsinni.</p>
+  </li>
+  <li>
+    <p>Allirmennskulufrjálsirhugsanasinna,sanfæringarogtrúar.Íþessufelstfrjálsræðitilaðskiptaumtrúeðajátninguogennfremurtilaðlátaíljóstrúsínaeðajátningu,einirséreðaífélagiviðaðra,opinberlegaeðaeinslega,meðkennslu,tilbeiðslu,guðsþjónustumoghelgihaldi.</p>
+  </li>
+  <li>
+    <p>Hvermaðurskalfrjálsskoðanasinnaogaðþvíaðlátaþæríljós.Felurslíktfrjálsræðiísérréttinditilþessaðleita,takaviðogdreifavitneskjuoghugmyndummeðhverjumhættisemveraskalogántillitstillandamæra.</p>
+  </li>
+  <li>
+    <p>Hverjummanniskalfrjálstaðeigaþáttífriðsamlegumfundahöldumogfélagsskap.</p>
+    <p>Enganmannmáneyðatilaðveraífélagi.</p>
+  </li>
+  <li>
+    <p>Hverjummannierheimiltaðtakaþáttístjórnlandssíns,beinlíniseðameðþvíaðkjósatilþessfulltrúafrjálsumkosningum.</p>
+    <p>Hvermaðurájafnanrétttilþessaðgegnaopinberumstörfumílandisínu.</p>
+    <p>Viljiþjóðarinnarskalveragrundvölluraðvaldiríkisstjórnar.Skalhannlátinníljósmeðreglubundnum,óháðumogalmennumkosningum,endasékosningarrétturjafnogleynilegatkvæðagreiðslaviðhöfðeðajafngildihennaraðfrjálsræði.</p>
+  </li>
+  <li>
+    <p>Hverþjóðfélagsþegnskalfyriratbeinahinsopinberaeðaalþjóðasamtakaogísamræmiviðskipulagogefnahaghversríkiseigakröfuáfélagsleguöryggiogþeimefnahagslegum,félagslegumogmenningarlegumréttindum,semhonumerunauðsynlegtilþessaðvirðinghansogþroskifáinotiðsin.</p>
+  </li>
+  <li>
+    <p>Hvermaðuráréttáatvinnuaðfrjálsuvali,áréttlátumoghagkvænumvinnuskilyrðumogáverndgegnatvinnuleysi.</p>
+    <p>Hverjummannibersamagreiðslafyrirsamaverk,ánmanngreinarálits.</p>
+    <p>Allirmenn,semvinnustunda,skuluberaúrbýtumréttláttoghagstættendurgjald,ertryggiþeimogfjölskyldumþeirramannsæmlífskjör.Þeimberogönnurfélagslegvernd,efþörfkrefur.</p>
+    <p>Hvermaðurmástofnatilstéttarsamtakaoggangaíþautilverndarhagsmunumsínum.</p>
+  </li>
+  <li>
+    <p>Hverjummanniberrétturtilhvíldarogtómstunda,ogtelstþartilhæfilegtakmörkunvinnutímaogreglubundiðorlofaðóskertumlaunum.</p>
+  </li>
+  <li>
+    <p>Hvermaðurákröfutillífskjara,semnauðsynlegerutilverndarheilsuogvellíðanhanssjálfsogfjölskylduhans.Telstþartilmatur,klæðnaður,húsnæði,læknishjálpognauðsynlegfélagshjálp,svoogréttinditilöryggisgegnatvinnuleysi,veikindum,örorku,fyrirvinnumissi,ellieðaöðrumáföllum,semskortivaldaoghanngeturekkiviðgert.</p>
+    <p>Mæðrumogbörnumbersérstökverndogaðstoð.Öllbörn,skilgetinsemóskilgetin,skulunjótasömufélagsverndar.</p>
+  </li>
+  <li>
+    <p>Hvermaðurárétttilmenntunar.Skalhúnveittókeypis,aðminnstakostibarnafræðslaogundirstöðummentu.Börnskuluveraskólaskyld.Iðnaðar-ogverknámskalöllumstandatilboðaogæðrimenntuveraöllumjafnfrjáls,þeimerhæfileikahafatilaðnjótahennar.</p>
+    <p>Menntunskalbeinaíþááttaðþroskapersónuleikaeinstaklingannaoginnrætaþeimvirðingufyrirmannréttindumogmannhelgi.Húnskalmiðaaðþvíaðeflaskilning,umburðarlyndiogvináttumeðalallraþjóða,kynþáttaogtrúarflokkaogaðeflastarfSameinuðuþjóðannaíþágufriðarins.</p>
+    <p>Foreldrarskulufremuröðrumráða,hverrarmenntunarbörnþeirraskulinjóta.</p>
+  </li>
+  <li>
+    <p>Hverjummanniberrétturtilþessaðtakafrjálsanþáttímenningarlífiþjóðfélagsins,njótalista,eigaþáttíframförumásviðivísindaogverðaaðnjótandiþeirragæða,erafþeimleiðir.</p>
+    <p>Hvermaðurskalnjótalögverndarþeirrahagsmuna,íandlegumogefnalegumskilningi,erleiðirafvísindaverki,ritverkieðalistaverki,semhannerhöfundurað,hverjunafnisemnefnist.</p>
+  </li>
+  <li>
+    <p>Hverjummanniberrétturtilþessþjóðfélags-ogmilliþjóðaskipulags,ervirðiogframkvæmiaðfullumannréttindiþau,semíyfirlýsinguþessarieruupptalin.</p>
+  </li>
+  <li>
+    <p>Hvermaðurhefurskyldurviðþióðfélagið,endageturþaðeitttryggtfullanogfrjálsanpersónuþroskaeinstaklingsins.</p>
+    <p>Þjóðfélagsþegnarskuluumréttindiogfrjálsræðiháðirþeimtakmörkunumeinum,semsettarerumeðlögumiþvískyniaðtryggjaviðurkenninguáogvirðingufyrirfrelsiogréttindumannarraogtilþessaðfullnægjaréttlátumkröfumumsiðgæði,regluogvelferðalmenningsílýðfrjálsuþjóðfélagi.</p>
+    <p>Þessimannréttindimáaldreiframkvæmasvo,aðíbágafariviðmarkmiðoggrundvallarreglurSameinuðuþjóðanna.</p>
+  </li>
+  <li>
+    <p>Ekkertatriðiþessararyfirlýsingarmátúlkaáþannveg,aðnokkruríki,flokkimannaeðaeinstaklingiséheimiltaðaðhafastnokkuðþað,erstefniaðþvíaðgeraaðengunokkurþeirramannréttinda,semhérhafaveriðupptalin.</p>
+  </li>
+</ol>

@@ -1,0 +1,127 @@
+<h1 align='center'>E'E JNA JAU LA KIO LE KÖ MUKUU KIO NIA NE KIO TSA RÜJNIA</h1>
+<h2 align='center'>NEBA LILIO</h2>
+<p align='center'>Kö.
+Ejmo' chu e kio tsa makaloo̱ ne sia majmo'juis†̱̍kio mukuu sia maours e kio kalaküs ï sia juyi' tinei' kio jusó kia' kure ï tasia li ko' sasiá' kio lej†̍ tsa rü jnia tsa tio̱ jila suo.
+Tü.
+Ejmo' e sasno sia kalaküs ne sia i kï̱ ekio jusó e kio sou e kani male̷ ï mugu†̍ sia nioa e kio michii̱ kio mukuu ne e kio jua'ts ale kal†̱̍ jue'ga jmoo sañü' e ma kua kö mukuu e tiou jnia re lej†̍ tsa rüjnia, maka k†̍ y kö ne ekio tinï; Lii majï jau kiö ne jna l†̍ jäa soul li lijmo' jnia le nio jnia kio juise̷ kio.
+Ne̱.
+Ejmo' kio jna juso̱ kio̱jnia i jmo i tsa l†̱̎ ta jue'; mojoo tsa ñü' li lijmos ii jusó ijmoo tsa juë' ini e kio tsa ni kï jo̱ kaäs mugu†̍ ne ekio sia kues ijmonia lej†̍ ijnio jnia.
+Kiü.
+Ejmo' chu kio lej†̎ jnia jmo' tio̱ ilii ta ne ele' kiö ameï jö' kio le kö mukuu.
+Ñaa.
+Ejmo'kio lej†̎ tsa juu ne ekio le kö mukuu e makajmos tso̱ ni lii jmo' ï jau juso̱ kio sañü' jï roo juyi' ne ikï nü sou ne kuré jmo' jusó le sañü' ne tsam†̎ y makale̷s' makal†̍ ijmo̱s sou re kio lej†̎ lene soo ti sa†̍' kio tsa siä gï li jmos jue'ga kio lej†̎ tsaloo̱.
+Jni.
+Ejmo' re kio lej†̎ tsou tsa kua e'e jmos ilii re kio lej†̎ sou le kö mukuu, ne mako̱ mukuu ijmos kusoo̱ juso̱ kio tsa loo kati nei†̍ kio tsa ñu'; Ejmo' kö kio lej†̎ ilaa juso̱ ne saloo̱ i jue' ijmo̱' i kio ilii imakajua's.
+Kió.
+Jau kio lej†̎ ikajuats jï kalets kio mukuu kuo juso̱ kio tsou ijmos re kió lej†̎ juu ne mukuu jmo' kió, ne jmo rée kio tsou ne tsa kua nita tsos†̎ kio sane, jmos i li t†̎ e'e jau la̱ mako' yo̱ jusó i le' le no̱', ne iso̱ tös ta mojoo̱ lii re ni jmä̱ ne kio le kö mukuu, kalakü ne makachas kio mukuu ne jmo' isóo, kio leji juu leta̱ ue̱ mukuu kua tsa jmoo ai'.</p>
+<ol>
+  <li>
+    <p>Lej†̎nisoutsalisia̱ija̱asiaikou'nekojo̱jïnejuso̱nejmo'rejuis†̍'jmo'nösala̱nesasno.</p>
+  </li>
+  <li>
+    <p>Lej†̍tsousiajuso̱onetsamakaloojua'tsneilale'siaisialej†̎tsarüniaköinilejniasam†̎nesañü'jumeïjaukiokua'nesale'jaukiotsasooininelej†̎tsouetajmo',lekönijmä̱,leköjisiakau'nejlisiatsatiñii.Tasialigeesja̱echitoonimixiiikajmostsasootiiníneichitoö̱nimixiijïle'jïjmo'ílekömukuunelekönijmä̱neleköjuukioniakiolej†̎tsou,könileköjuukiotsarüjnianetasialiilekömukuu;tasialijmoslej†̎inióniaguukaäsmugu†̍tasialikuesiniosjmostasiamakaloo.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsoulisiaamukuuet†̎tsamakaloonelijmositsou.</p>
+  </li>
+  <li>
+    <p>Jijaa̱tsousialijmostalejäja'netasialijmosta̱sam†̎kus†̍leja̱lajü;lej†̎tsoukaamugu†̍laj†̍gïjmosta̱tasiarela†̍lenelekömukuu.</p>
+  </li>
+  <li>
+    <p>Ijaä̱tasialijmosikaäsmugu†̍tasialipaa̱stsou;tasialijmosla†̍letsapaja'nemuguune.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsoulit†̎lekömukuumojoo̱likïta̱lej†̎jauchitoonimixii.</p>
+  </li>
+  <li>
+    <p>Lej†̎jnialikuréetinítsajuunesia;kuréelit†̎jmo'íleköjuu.Lej†̎sialit†̎kuréeijmosísiarela†̍lej†̎tsakaamugu†̍netasialijmoojnanatakajua'juunetasiarela†̍tasialijmo'leneitï'gu†̍jnatsakaamugu†̍.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsouesialit†̎mojoomixiikios,tinítsanitanijmätsakïmojoomaoursekiosiarela†̍mojooliireemixiikiosgu†̍tasialijmo'tsouiti'sekiotsoueréelati'smakalaku†̎sechitoonimixiilit†̎.</p>
+  </li>
+  <li>
+    <p>Jijaa̱tsoutasialisä'smojoosoonei'ñi,tasialisoostijosia'.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsousiat†̎kureekiolej†̎,eneïsiilej†̎tsousiajuso̱ogïsi†̍tsalïtatsamakalootasiajmoskiógaäs,mojoolikï'et†ejmosekionasoo̱ekiosoo̱kiosleji'chitoonimixiikio.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsousiat†̎lilijmostasiasi†̍so̱tasiamalaki†so̱lejua'nimixiijïlijmosjïsii'lej†tsouimakajmosisómojoomajijokios.</p>
+    <p>Jijaasialiki'so̱oikajmo'stasiaiso̱olekönijmänelekömukuu.Tasialijmo'siniostso̱ojue'ikajmosalekal†̍.</p>
+  </li>
+  <li>
+    <p>Jijaasialijmola†kiotsoujïkua,neit'kiostasialile'julekiotsou.Lej†̎tsout†̎ijmosílej†'chitoonimixii,tasialikaäsmugu†.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsout†̎leköoju†̍tsamakaloonelijmosneit'kiosgïnios.</p>
+    <p>Lej†̎tsout†̎likui†̎'lekömukuuliikui†juukia'neliiligï'juukiosnalenejua'michiikios.</p>
+  </li>
+  <li>
+    <p>Tïmaniossaäsnü,laj†̍tsout†̎'lisoostijoxia'jolimaour'srüslekömukuu.</p>
+    <p>Lej†̎ilat†̎tsoutasialijmosixia'ïjua'tsakiamixiigïle'isiäsnü,ela†̍ikajmo'netasiakajmo'gïkösialisaäsnülekömukuu.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsout†̎köjuuikua.</p>
+    <p>Jijaä̱tsoutasialijmosla†̍kiorü'leköjuukionia,jijaatsoutasialiidichïkunatsoukiojuukionianelekönijmä.</p>
+  </li>
+  <li>
+    <p>Tsañu'netsam†̎timamaj†̍ngskiajñaañiilej†niaemat†̎,lej†̍niatsaliänetsatio̱lekönijmäkiotsaso̱kua',tsamaligïkuonemalijmonei'kioslekönijmosíkagiikuos,tí'makagï'kuos,natasianiosrerü'legigoöslitoösrü's.</p>
+    <p>Timanioslegigoösliiligiikuos.</p>
+    <p>Netasiatsoutasiajuunet†̎tsoujuuejmosíkiotsou.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsoutikiongäsnekiolej†̎.</p>
+    <p>Jijaa̱sialikï'wuekiotsou.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsouliit†̎ijua's†̍'stsaso̱kua'.Net†̎jnatsakam†̎gïkuaatsakuejupiinüge'tigïkuo'liilijmo'chijo̱juuonijmäolekömukuumojooe'esami'netsakänekiolejitsarü'jnia.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsout†̎ilile'neliijmo'xiiilat†nümojoosialijmo'snütsou.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsout†̎lijmosijua's†̍'s,neliijmoosoukalej†̍smojootsatäsleköjuumojoojmostalejï.</p>
+    <p>Jijaa̱tsoutasialisoonasianios,soosnanios.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsout†̎le'tinítsajuuotinítsanitalekönijmä,elile'ku'tsotsasï'tinítsajuu.</p>
+    <p>Lej†̎tsout†̎le'eg†̍skönílej†̎talekönijmä.</p>
+    <p>Eyoüs†̎juulej†tsoutsas†̎itinínitatsako'mixiichimatsamakaloolej†̎tsoulekömukuu.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsoutsachitooje̱juu,tijmosílekönijmälekömukuulej†̎tsoutsatö'könít†̎kau',makou'snetsamakalooekiotsouliijmo'rekiojuu.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsout†̎ta,tsamakalootakiosköremojoomayoüs†̎lej†̎tsouin†köjuulej†̎tsousiamakat†ta.</p>
+    <p>Lej†̎tsout†̎jmostaneemamäskurélej†̎rüsnejmosíta̱kios.</p>
+    <p>Lej†̎tsoutsadijmotat†̎kau'kurémojooku'stsarüs,mojoolisiälej†̎tsoutsakuamukuu,mojooemayaäsejua'nio̱tsou.</p>
+    <p>Lej†̎tsout†̎jupiíjnatiösköjaulej†̎tsoumojookörejmosíkios.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsout†̎jupiímojoojñaasköwuamojooñaastakiosnamakaloös.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsout†̎könímojookuasrelej†̎tsarüs,mojoojmosínis†̍'skiosnemojookuasre,nemojooku're,mojoot†̎muküs,nemojoot†̎nei'kios,mojoot†̎m†̎,nemojoolit†̎lej†̎ijmoü'nei'kios,mojoot†̎kömixiiekueejupiíkia'mojookuesm†̎nakalasö,nakajüñikuo'emamäskia'nü,nakuasnamasadösialiijmo'taemamäskianü.</p>
+    <p>Tïmani'jo̱nst†̎ejmo'íne̱s†̎.Lej†̎daüpítsalisiäekiotsadigïkuot†̎kurejmo'í.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsout†̎e'esmixii.Tasiamamäskiot†̎katikut†̍sxiikios,katikuisxiijue'nasiakau'isia'xiiko's.</p>
+    <p>Lej†̎tsoulit†̎xiitsañi̱t†̎netsamakalooeñisalet†̍lekömukuunelej†̎tsale'jumeï,nejmoslaj†̍tasialekömukuumojoosiatïtsou.</p>
+    <p>Jmeïst†̎iniosexiinioskiojös.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsout†̎ejmostsamakalo̱önejmosleiniosjuukiosmojooli†̍stamajaumojoochälej†̎it†̍sjuukios.</p>
+    <p>Lej†̎tsout†̎nekuesjupiít†̎netsamakaloö,lej†̍tsoulijmosxiikiojmeïkios.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsout†̎jmosköjaulekömukuunet†̎tsamakaloolej†̎chitoonimixiimojoojmoojnaisoota.</p>
+  </li>
+  <li>
+    <p>Lej†̎tsouesiaaejmostatiníjuukiosliijmostatsamakalooneelijmoskiolej†̎tsou.</p>
+    <p>Et†̎tsoutsamakaloo̱nelej†̎tsouesi†̎ja̱lechitoonimixiimojoot†̎jupiínet†̎tsamakaloo,lej†̎tsouímojooretiötsou.</p>
+    <p>Let†̎tsamakalootasialijmosisia'lechitoonimixiilekömukuu.</p>
+  </li>
+  <li>
+    <p>Tasiachitoonimixiitasialijmosjnaisia'ijoojmo'jnalachitooilaamojookueejupiínet†̎lekönijmäköcha̱tsou,elijmostamojoolijmoskötsó̱lej†̎t†̎nemakalooleichitoonimixiila.</p>
+  </li>
+</ol>

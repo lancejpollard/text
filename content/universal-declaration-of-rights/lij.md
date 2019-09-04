@@ -1,0 +1,121 @@
+<h1 align='center'>DICIARAÇION UNIVERSALE DI DRITI DE PERSONN-E</h1>
+<h2 align='center'>Preanbolo</h2>
+<p align='center'>Conscideròu che o riconoscimento da pròpia dignitæ e di driti pægi e inalienabili de tutti i menbri da famiggia umann-a o l’é o fondamento da libertæ, da giustiçia e da paxe into mondo,
+Conscideròu che a negaçion e o desprexo di driti de personn-e an acaxonòu di atti de barbaritæ che an ofeizo a coscensa de l’umanitæ; e che l’é stæto proclamòu comme ciù erta aspiraçion de l’òmmo l’arivo de ’n mondo into quæ tutti, liberæ da-a poia e da-a mizeia, gödian da libertæ de paròlla e de creddo,
+Conscideròu che l’é esensiale che i driti de personn-e segian protezui da de lezze giuridiche perché l’òmmo o no s’atreuve costreito, in urtima istansa, a-a rebelion contra a tirania e l’òprescion,
+Conscideròu che l’é esensiale promeuve o sviluppo de de relaçioin da amixi fra e naçioin,
+Conscideròu che i pòpoli de Naçioin Unie an afermòu into seu Statuto a seu fede inti driti fondamentali de personn-e, inta dignitæ e into valô da personn-a umann-a e inti driti pægi d’òmmi e dònne, e an determinòu a promoçion do progresso sociale e de ’n megio livello de vitta inte ’n ciù erto graddo de libertæ,
+Conscideròu che i Stati Menbri se son conpromissi a aseguâ, in cooperaçion co-e Naçioin Unie, a promoçion do rispetto universale e l’òservansa di driti de l’òmmo e de libertæ fondamentali,
+Conscideròu che ’na conceçion comun de questi driti e libertæ a l’é da ciù grande inportansa pe l’intrega realizaçion de questi conpromissi, l’asenblea generale, aloa,
+a proclamma a prezente Diciaraçion Universale di Driti de Personn-e, comme ideale comun pe-o quæ tutte e gente e e naçioin gh’an da sforsase, de mòddo che ògni individoo e ògni istituçion, into tegnila de longo a memöia, promeuvan, atraverso l’insegnamento e l’educaçion, o rispetto pe questi driti e libertæ, e con de mezue progrescive naçionali e internaçionali n’aseguen o riconoscimento e l’aplicaçion universali e efetivi, segge fra i pòpoli di Stati Menbri che fra quelli di teritöi sotta a seu giurisdiçion.</p>
+<ol>
+  <li>
+    <p>Tutteepersonn-enascianlibereepægeindignitæedriti.Sondotæderaxonecoscensaegh’andaagîl’unn-aversol’atrainte’nspiritodefradelansa.</p>
+  </li>
+  <li>
+    <p>Ògnipersonn-aagh’àtuttiidritieelibertæproclamæintequestaDiciaraçion,sensanisciunn-adistinçionderazza,cô,sesso,lengoa,religion,òpinionpoliticaòd’atrotipo,òriginenaçionaleòsociale,poxiçioneconòmica,nascimento,òquæseseggeatracondiçion.Pedeciù,nosefaiânisciunn-adiferensafondâinsciâcondiçionpolitica,giuridicaòinternaçionaledoPaizeòdoteritöioa-oquæepersonn-eapartegnan,seggepe-iPaixiindipendentichepe-iteritöisott’aministraçionfiduciaia,sens’outonomia,òsotomissiaògniatralimitaçiondesovranitæ.</p>
+  </li>
+  <li>
+    <p>Tuttigh’andritoa-avitta,a-alibertæea-aseguessapersonale.</p>
+  </li>
+  <li>
+    <p>Nisciunosaiâsotomissoascciavitùniaservitù;ascciavitùeatrætadescciavisonproibieintutteeforme.</p>
+  </li>
+  <li>
+    <p>Nisciunosaiâsotomissoatortueniapenn-eòpuniçioincrudeli,inumann-eòdegradanti.</p>
+  </li>
+  <li>
+    <p>Tuttigh’andrito,inògnipòsto,a-oriconoscimentodaseupersonalitægiuridica.</p>
+  </li>
+  <li>
+    <p>Tutteepersonn-esonpægedavantia-alezzeegh’andrito,sensadistinçioin,aegoaleproteçiondapartedequella.Tuttigh’andritoa-amæximaproteçioncontraògnidiscriminaçionch’aseggeinviolaçiondaprezenteDiciaraçion,commecontratuttoquellochepòsseaçimentâatâdiscriminaçion.</p>
+  </li>
+  <li>
+    <p>Ògnipersonn-aagh’àdritoal’efetivaposcibilitædericorsoaditribunalinaçionaliconpetenti,pedifendisecontraiattichesegianinviolaçiondidritifondamentalialêriconosciuida-acostituçionòda-alezze.</p>
+  </li>
+  <li>
+    <p>Nisciunoporiâesearbitraiamentearestòu,detegnuoòeziliòu.</p>
+  </li>
+  <li>
+    <p>Ògniindividooogh’àodrito,incondiçiondeconpletaegoaliansa,d’esesentiopublicamenteecongiustiçiada’ntribunaleindipendenteeinparçiale,pe-adeterminaçiondiseudritiedeseuòbligaçioinòdeacuzepenalicontralê.</p>
+  </li>
+  <li>
+    <p>Tutteepersonn-eacuzæde’ndelittogh’anodritod’eseprezunteinocentimentreanoseggeprovâaseucorpa,inmòddolegaleeingiudiçiopublico,intoquæagenavuotutteegaransienecesaiepe-aseudifeiza.</p>
+    <p>Nisciunosaiâcondanòupediattiòdeòmiscioinchea-omomentod’esecomissinofoisandelittisegondoodritointernoòinternaçionale.Nos’inponiâmancodepenn-eciùgravichequelleaplicæa-omomentointoquæodelittool’éstætocomisso.</p>
+  </li>
+  <li>
+    <p>Nisciunosaiâsotomissoadeinterferensearbitraieintaseuvittaprivâ,intaseufamiggia,abitaçionòcorispondensa,niadiatacchicontraoseuönôereputaçion.Ògnipersonn-aagh’àdritoa-aproteçiondalezzecontratæinterferenseòlexoin.</p>
+  </li>
+  <li>
+    <p>Tuttigh’andritoa-alibertædemovimentoerescidensadrentoa-oteritöiode’nStato.</p>
+    <p>Tuttigh’andritoasciortîda’nPaize,incluzoopròpio,ederitornâa-oseuPaize.</p>
+  </li>
+  <li>
+    <p>Incaxodepersecuçion,ògnipersonn-aagh’àodritodeçercâedegödîd’aziloinatriPaixi.</p>
+    <p>Questodritoonoporiâeseinvocòucontradeaçioingiudiçialicouzædadidelittinopolitichiòdadeaçioincontraiea-ipropòxitieprinçippideNaçioinUnie.</p>
+  </li>
+  <li>
+    <p>Tuttigh’andritoa’naçitadinansa.</p>
+    <p>Anisciunsegheporiâlevâaseuçitadinansaòodritodecangiâçitadinansa.</p>
+  </li>
+  <li>
+    <p>Iòmmieedònne,apartîdal’etæadegoâ,gh’anodritodespozaseedeformâ’nafamiggia,sensanisciunn-arestriçionderazza,çitadinansaòreligion.Gh’ananchepægidritirigoardoa-omaiezzo,duranteomaiezzoeintocaxoch’oseggedesfæto.</p>
+    <p>Ospozaliçiooporiâesecontrætosoloco-oconsensopineliberodifuturispozoei.</p>
+    <p>Afamiggiaal’él’elementonaturaleefondamentaledasocjêtæeagh’àdritoa-aproteçiondasocjêtæedoStato.</p>
+  </li>
+  <li>
+    <p>Ògnipersonn-aagh’àdritoa-apropiêtæ,seggepersonaleòincomunconatri.</p>
+    <p>Nisciunosaiâarbitraiamenteprivòudaseupropiêtæ.</p>
+  </li>
+  <li>
+    <p>Ògnipersonn-aagh’àdritoa-alibertædepensceo,decoscensaedereligion;quellodritool’includdealibertædecangiâreligionòcreddo,ealibertædemanifestali,individoalmenteòinsemmeadiatri,seggeinpublicocheinprivòu,atraversol’insegnamento,apratica,ocultoel’òservansa.</p>
+  </li>
+  <li>
+    <p>Tutteepersonn-egh’andritoa-alibertæd’òpinioned’esprescion;quellodritool’includdealibertædesostegnîdeòpinioinsensainterferenseedeçercâ,riçeiveeinpartîinformaçioineideeatraversoògnimezzoesensalimitaçioindeconfin.</p>
+  </li>
+  <li>
+    <p>Tuttigh’andritoa-alibertæderiunioned’asociaçionpaxifica.</p>
+    <p>Nisciunoporiâesecostreitoaapartegnîa’n’asociaçion.</p>
+  </li>
+  <li>
+    <p>Ògnipersonn-aagh’àodritodeparteçipâintogovernodoseuPaize,diretamenteòpeviadediraprezentantiliberamenteçernui.</p>
+    <p>Ògnipersonn-aagh’àdritod’acesso,incondiçioind’egoaliansa,a-efonçioinpublichedoseuPaize.</p>
+    <p>Avoentædopòpoloal’éabazedel’outoritædopoeipublico;questavoentæasaiâespressaintedeeleçioinoutenticheches’aviandategnîinmòddoperiòdico,pevotouniversaleeegoale,ch’osaiâanchesegrettoòsegondodeproceduepegarantîalibertædovoto.</p>
+  </li>
+  <li>
+    <p>Ògniindividoo,commemenbrodasocjêtæ,ogh’àdritoa-aseguessasocialee,atraversoosfòrsonaçionaleeacooperaçioninternaçionale,einrelaçionconl’òrganizaçioneerisorsed’ògniStato,a-arealizaçiondidritieconòmichi,socialiecolturaliindispensabilipe-aseudignitæepe-oliberosviluppodaseupersonalitæ.</p>
+  </li>
+  <li>
+    <p>Ògnipersonn-aagh’àdritoatravagiâ,açerneconlibertæoseuinpiego,agödîdedecondiçioindetravaggiogiusteesodifaxentiea-aproteçioncontraadizòcupaçion.</p>
+    <p>Ògnipersonn-a,sensadiscriminaçioin,agh’àdritoaegoaleretribuçionpeegoaletravaggio.</p>
+    <p>Ògnipersonn-ach’atravaggiaagh’àdritoa-aretribuçiongiustaesodisfaxentech’aghepòsseaseguâalêea-aseufamiggial’existensaconformea-adignitæumann-a,aquæasaiâconplementâ,incaxonecesaio,daatrimezzideproteçionsociale.</p>
+    <p>Ògnipersonn-aagh’àodritodefondâdiscindacatied’aderighepe-adifeizadipròppiinteresci.</p>
+  </li>
+  <li>
+    <p>Tutteepersonn-egh’andritoa-oripözoea-ademoa,oquæol’includdealimitaçionraxonevoledeoedetravaggioeeferieperiòdichepagæ.</p>
+  </li>
+  <li>
+    <p>Ògnidunogh’àdritoa’nlivellodevittaadegoòuch’opòsseaseguaghe,alêmæximoea-aseufamiggia,asanitæeoben,esorvetuttol’alimentaçion,ovestî,l’abitaçion,l’ascistensamedicaeiserviççisocialinecesai;a-omæximomòddo,ogh’àdritoa-easeguaçioinincaxodedizinpiego,moutia,invaliditæ,vidoansa,vegiaiaeatricaxideperdiadimezzidesostentaçionpedecircostanseindipendentida-aseuvoentæ.</p>
+    <p>Amaternitæel’infansagh’andritoa-acuaeal’ascistensaspeciale.Tuttiifigeu,seggenasciuiintomaiezzochefeuadelê,gh’animæximidritia-aproteçionsociale.</p>
+  </li>
+  <li>
+    <p>Ògnipersonn-aagh’àdritoal’educaçion.L’educaçionagh’àdaesegratoia,a-omenoquanterigoardal’istruçionfondamentaleedebaze.Questaasaiâd’òbligo.S’aviâdageneralizâadisponibilitæd’istruçiontecnicaeprofescionale;el’acessoa-istuddidegraddosuperiôosaiâpægiopetuttiinbazea-omerito.</p>
+    <p>L’educaçionagh’aviâcommemetaosviluppopindapersonalitæumann-aeorinforsamentodorispettoversoidritidepersonn-eeelibertæfondamentali;afavoriâaconprenscion,atoleransael’amiciçiafratutteenaçioin,erazzeeereligioin,eapromoviâosviluppodeativitædeNaçioinUniepe-omantegnimentodapaxe.</p>
+    <p>Ipoæeemoægh’avianodritopreferentedeçerneotipod’educaçionches’aviâdadâa-iseufiggi.</p>
+  </li>
+  <li>
+    <p>Tutteepersonn-egh’andritoaparteçipâconlibertæintavittacolturaledacomunitæ,agödîdearteeaparteçipâintoprogressoscentificoeintiseubenefiççi.</p>
+    <p>Ògnidunogh’àdritoa-aproteçiondiinterescimoraliematerialichecorispondana-eproduçioinscentifiche,leteraieòartistichedequæofoisel’outô.</p>
+  </li>
+  <li>
+    <p>Ògnipersonn-aagh’àdritoa’nordinesocialeeinternaçionaleintoquæidritieelibertæproclamæintequestaDiciaraçionvegnanconpletamenteefetivi.</p>
+  </li>
+  <li>
+    <p>Ògnidunogh’àdidoveiversoacomunitæ,perchésolointelêopeusvilupâaseupersonalitæconpletamenteeconlibertæ.</p>
+    <p>Intel’ezerciçiodiseudoveielibertæ,tuttisaiansotomissiunicamentea-elimitaçioinstabilieda-alezzeco-osolopropòxitod’aseguâoriconoscimentoeorispettodidritieelibertædiatri,edeconpîco-egiusteezigensedamorale,del’ordinepublicoedobengeneraleinte’nasocjêtædemocratica.</p>
+    <p>Questidritielibertænopeuaneseezercitæ,intenisciuncaxo,inòpoxiçiona-ipropòxitieprinçippideNaçioinUnie.</p>
+  </li>
+  <li>
+    <p>Ninteintequestadiciaraçionoporiâeseinterpretòucommeinplicantedodrito,pequæseseggeStato,gruppoòpersonn-a,aezercitâdeativitæòaportâavantidiattipe-adistruçiondidritiòdelibertæintelêproclamæ.</p>
+  </li>
+</ol>

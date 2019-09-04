@@ -1,0 +1,122 @@
+<h1 align='center'>LATA' TU KAMININI LAKCHIXKUWIN XLITILANKA KAKILHTAMAKU TUKU XWANA</h1>
+<h2 align='center'></h2>
+<p align='center'>K'atsikan xlakata latapulikan ka'unin, ni kgatayakan ti tlakatnan cha tlan latamakan nak k'alihtamaku tamaklakask'ini nak ixlatamatkan lakch'ixkawin na chuna tu kaminini wakg ti tawilana nak akgxtakga chu xatalakgapasni.
+K'atsikan xlakata ni wakg lakgapaskan chu matlanikan lata' tu kaminini lakchi'ixkuwin, wa ama' kalilak tayamikanit ixtalatamatkan lakch'ixkuwin; ama talakapastakni nema matlani ixlatamat lakch'ixkuwin, wa ama tokgokg'emaka xlakata tlan nalatamakan nak k'akilhtamaku chu lakgmakgankan tu nitlan la tajikuati, ta'akgxtakgajnat, nema makgalipuwanankan chu tlan nalakanajlinikan, nachuna tlan nalakgach'ixkunikan tu ch'atum ch'atum makanajli.
+K'atsikan xlakata snun makuan ama' tukaminini lakch'ixkuwin wa chi tlan limakgchiwinankan xlakata tlan namakgantuxtikan, chu ch'ali t'uxama ni nalalakatak'ikan nema ta'akgch'a panankgomona chu talaktayaminamana.
+K'atsikan xlakata ntlan putsakan katalapaxk'ilh pulataman.
+K'atsikan xlakata pulataman nema tapakgtanumana nak Naciones Unidas tamast'anit ixtachiwinkan, xlakata tamatl'iwekglha talakask'init nema kaminini lakch'ixkuwin xlakata tlan natalatama chu ch'ixku nakatlawakan nachunalitum akxtum ixlitl'iwekgekan ch'atum ch'ixku, la ch'atum puskat xlakata tlan natalatama, ni natatakglhuwi chu lipaxau nalatawilakan niti la'akgch'apawali.
+K'atsikan xlakata pulataman nema natamakgk'atsi, talitayanit xlakata nata'amana tamakgtayanan akxni natamakaskuja xamakgapitsi nema tatap'akgsi nak Naciones Unidas, xlakata ch'ixku nakatlawakan wakg titalamana nak k'akilhtamaku chu tu kaminini lakch'ixkuwin; chu.
+K'atsikan xlakata pala wakg lakgapaskan tu kaminini lakchixkuwin xlakata tlan natalatama nachuna xlakata tlan ka'unin talatapuli, tlan namakgantuxtikan tak'atsin nema lichiwinamaka;
+PUTUM TAMAKXTUMIKAN LITAYAKAN LATA' TU KAMININI LAKCH'IXKUWIN XLITILANKA KAKILHTAMAKU
+Lipokgtum tapuwan nema takg'alhi lakalhuwa pulataman limatliwekglhat xlakata ch'atunu ch'atunu lakch'ixtuwin nachuna pumap'akgsin katamakgp'untumilh nak pukgaltawakga chu nak akgxtakga kakamatlanica ama tu kaminini lakch'ixkuwin nachuna kamakatsininanka nak lakatunu pulataman chu nak k'akilhtamaku ama tlan tapuwan chu kamaklakask'inka nak ixlitilanka k'akilhtamaku, xlakata wakg pulataman nema tatamakxtuminit nak Naciones Unidas nachuna xamakgapitsin nema na'ana takilhwak'ana natamaklakask'in ama tapuwan nema kaminini lakch'ixkuwin xlakata tlan natalatama.</p>
+<ol>
+  <li>
+    <p>Wakglakch'ixkuwintalakgawannakka'uninnitika'akgch'apawalinitnachunawakgtakg'alhiixtamaxanatkanchutukaminini,je'ewanp'utunxlakatawakgtalakpuwanan,talalakgk'atsanliwakg,talakask'inixlakatawakgnatalamakgtaya.</p>
+  </li>
+  <li>
+    <p>Wankglakch'ixkuwinixkalilakgchattukamininichuixlatamatk'anxalakka'uninnematalhkalhakxniputumtamakxtumikanilalakats'alakanakxtumkalakgchanlakch'ixkuwin,nilata'aninikanlatata'sipalalakgsmumokgo,laksmalala,nachunapalatsumatchukg'awasa,ixtalakapastakni,nachunapalatlanwi,nitlanwi,palakg'alhitumin,wakgkamininilakch'ixkuwinkakalakgch'alhtuxlakatatkanxlakatatlannatalatama.Nachunalitumnilaka'akgts'akswakanlakch'ixkuwinnematalamanaalakatunupulatamannemaniixakstutap'akgsi,chunikg'alhiixlamp'akgsit,wakglakch'ixkuwinnakalakgchantukaminini,nilata'aninikanpalaixpulatamantatapawatawalinitalakatununachunapalatunupulatamannemalikilhwaka'.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinminininalatama,nalatapulinakka'uninnachunanamakgtakg'alhkanixlatamat.</p>
+  </li>
+  <li>
+    <p>Nilatiakgch'apawalikannipalachuta'maskujukan;nakk'akilhtamakulakgkuanitlimap'akgsitnemaixli'akgch'apawalinankannachunanemachuta'ixlimaskujunankanmaskixakalalawa.</p>
+  </li>
+  <li>
+    <p>Nilatimakgxtakgakgnikan,lachika'akgkg'aximikachukatamaknukanakpulach'in,katlawakalakitistanka,lanikakg'alhilhixlistakni.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkamininikakach'ixkutlawakanakixlatamat,kanikalatamalh.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkamininikakamakgtakgalhka,kakalikuentajalimap'akgsinnemawalikanit,nachunanilamaklakask'inkanlimap'akgsinwata'tikalaksakkanit.Wakglakch'ixkuwinkamininikakakxilhkataxlakataninakamamaxanikanchunakalakgmakgankanlawanje'etalakapastanilata'tukamininilakch'ixkuwin.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkamininitawalixatachokgotlimap'akgsitakxnikalaktayaminakatuxlalakgcha,lawanlimap'akgsinlakatunupulataman.</p>
+  </li>
+  <li>
+    <p>Nilatimachokgokannaktijya,tamaknukannakpulach'in,chutantlakgaxtukannakixpulataman.</p>
+  </li>
+  <li>
+    <p>Akxnikamalakapukanitlakchi'ixkuwinkamininikakakgaxmatkak'akapulhuwa,nalaxamakgapitsi,xlakatatlannatawantuxlakankalilhkuyuyawamakapalakana,nikana,chuamamap'akgsinaninnitita'amanatatataya,xlak'ant'anksta'amanatamap'akgsinanchunatawantikutlawanitixtalakgalhinpalamininikalikgatayakachupalamininikakaxtlawalhixtalakgalhin.</p>
+  </li>
+  <li>
+    <p>Lata'tiliyawakanittalakgalhintlanwankanxlakataxlakanitutlawan,palanimakgalulokgkanittulilhkuyuyawamaka,lawanlimap'akgsinnachunakakapulhuwanakgaxmatkanxlakalatimalakgsikanittlannawantuxlak'atsi.</p>
+    <p>Nilalitamaknukannakpulach'inch'atumch'ixkuama'talakgalhinnemaninajixtalhkannaklimap'akgsinxalakpulatamanchuxtilinkak'akilhtamaku,akxnichulalh.Nachunalitumnilalimawakakanixlitliwekgelimap'akgsinakxnitakgalulokgatipatumtalakgalhin,nawalikanlimap'akgsinlamininiakxnichulalhtalakgalhin.</p>
+  </li>
+  <li>
+    <p>Nilatitalakgslakgkannakixlatamat,nakixchik,nakixpakganatchunakixtamaklakask'init,nipalatlanmamaxanikan,talaslakgkan.Wakglakch'ixkuwinkamininikakalikgatayakaxlakataninakatalaslakgkan.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkamininikatalatapulilhxanita'ta'amp'utunnachunakatalatamalhnitalakgati,katayawalhixch'ikkannakixpulatamankan.</p>
+    <p>Wakglakch'ixkuwinkamininita'anlata'xlak'annitalatapulip'utun,tlantataxtunakixpulatamankanchunatlantataxtunakixpulatamankanchunatlantatasp'itaxnixlak'anchutalakpuwan.</p>
+  </li>
+  <li>
+    <p>Palatitataxtukanmininianlatamaalakatunupulataman,lata'ninamakgamakglhtinankan.</p>
+    <p>Je'etlantalakapastakninilamaklakask'inkanakxnitlawakantalakgalhinnemanimatlanilata'tukamininilakch'ixkuwinchuixtapuwanNacionesUnidas.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkamininikakalilakgapaskaixpulatamankan.</p>
+    <p>Nilatilakgmakganikanixtukuwiniixpulatamannematatap'akgsinachunapalatilakgxtapalip'utuntlantlawanilatiliwani.</p>
+  </li>
+  <li>
+    <p>Lakch'ixkuwinchulakchajanakxnitalakstakgonittlantatamakgaxtokga,nilatikaliwani,chutlantalatatamakxtumixalaalakatunupulataman,maskitunulat'aniixmaknikan,maskitunutulipawanch'atumch'atum;chukamininikakamaxk'ikatukalakgchan,aknitamakgaxtokganachunapalatalamakgxtakga.</p>
+    <p>Tlantamakgaxtokgkanakxniixch'atuykanch'ixkuchupuskattlantawalinitixtapuwankan.</p>
+    <p>Tamakgaxtokgatwaamamatliwekglhatach'ixkuwit,wachiamamap'akgsinanchuxamakgapitsilakch'ixkuwinnatamakgtayaxlakatanitumalini.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkamininitakg'alhiixmaklakask'initkanpalatlanli'akstuchuliputum.</p>
+    <p>Nilatichuta'makglhtikanixmaklakask'init.</p>
+  </li>
+  <li>
+    <p>Katiwatlanwanixtalakapastakninachunatlanlaksakatuamalipawannilatikaliwani;je'etalakask'innamatlanipalach'atumlakgxtapalip'utuntulipawantlantlawa,nachunapalamak'atsinanp'utunakxniputumwalaka,palanikakapulhuwatlawap'utunnatlanlitumnachunapalakamasinixamakgapatsinituwanp'utun.</p>
+  </li>
+  <li>
+    <p>Katiwatlanwantulakpuwanchumak'atsininanixtalakapastakni,nilatiwanixlakatanikatlawalhnipalanalitalaslakgkan,tlanputsanannachunatlankatuwanamak'atsinikanchuxlatlanmakgp'untumixanitalakpuwan,nachunatlanlaksakatulimakgp'utumip'utun.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkamininitatamakxtumichumakxtumtala,palaniamalaslakgkan.</p>
+    <p>Nilatimaklakatikanxlakatanakatamakxtumilhpalanilintapuwan.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkamininitlanpakgtanuxlakatanatlannanamap'akgsinannakixpulataman,tlanwatlanlitayaxamap'akgsinachutlantalhkayawaixlakgapuxokgokan.</p>
+    <p>Wakglakch'ixkuwinkamininikakamakgamakgtayakaxlakatatlannatamap'akgsinanlaxamakgapitsinchutlannatataskujatach'ixkuwitnakixpulataman.</p>
+    <p>Ixtalakapastaknikantach'ixkuwitxalakpulataman,waamakatiyakantapuwannemanalimapakgsinankannakpulataman;je'etapuwanamakamat'anksakanakxninakalakalhkayawakantita'amanatamap'akgsinan;akxninalakalhkayawanankankak'apulhuwanatlawakanxlakatawakgnak'atsikan,nachunach'atunuch'atununawantilakask'inkamap'akgsinalhchunitiixlik'atsittikutatayalh,natlanlitumlakputsapalakannikulatlanlakalhkayawanenkanchunikatawiixtakglhuwittach'ixkuwitxlakatatlannawantilakask'inkamap'akgsinalh.</p>
+  </li>
+  <li>
+    <p>Tach'ixkuwitnematap'akgsinakixpulatamanmininich'ixkukatlawakanikamalakgawanikata'akglhuwat,wachiamamap'akgsinaninlakatunupulatamanchuxlitilankakakilhtamakunata'akxilhaxlakatatlanka'aninilhnakixlitlajakantumin,tlanch'ixkukatlawaka,katatliwekglhiixlatamatkanxlakatatlannatalatamach'atunulakch'ixkuwin.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkaminininataskuja,tlannatalaksakatutaliskujp'utunnachunanikalimawak'akantaskujut,makxtumnach'alhkatnankannititlakgmaskujukan,nachunana'akxilhkanxlakatanitikatamakgxtakglhinipalataskujutwakgkach'alhkatnanka.</p>
+    <p>Wakglakch'ixkuwinkamininiakxtumkakaxokgonikapalapiwataskujuttatlawamana.</p>
+    <p>Wakglakch'ixkuwinnemataskujakamininiakxtumkakaxokgonikakaka'akchanilhxlakatatlannat'atalatamaixkamanchuixpuskannachunatlankatuwakalimakgamakgtayakanxlakatanitunakats'angani.</p>
+    <p>Wakglakch'ixkuwinmininitamalakatsukutamakxtumitxach'alhkatnaninnachunatlantap'akgtanuniwijaxlakatatlannalikgatayakanchut'amakglhtinankantulakgchan.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkamininikatajaxlhi,kakamaxkikakilhtamakuxlakatanatajaxa,pulhkakankilhtamakulanaskujkan,nachunanapalhkawalikanakgtumkilhtamakuakxninatamakjaxachunakamaskgawikan.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkamininixlakatatlankatat'alatamalhixkamankan,ixchatkan,ixkgolokanchuixtalakgapasnikannemamakxtumtatawilana,laksululukatalatamalh,kat'anilhixliwaykan,ixtalahkgankan,ixchikan,kakak'uch'ikanachunakakamalakgastanikaxlakatalipaxawnatalatama,nachunalitumkakamakgamakgtayakapalanitakgalhiixpuch'alhkatnikan,palatat'atalha,palapuwinitawan,palatatalakgalhi,palatalakgkgolonnachunapalawitunikamaxkikilhtamakunataskuja.</p>
+    <p>Timakgastaknanchulakgskgat'ankamininikakakuentajkachukakamakgamakgtayaka.Wakglaktsukamankalikuentajattlanpalaixtikukantatamakgaxtokgnit,palanitatamakgxtokgnit,akxtumkalimakgtakg'alhat.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkamininikakamakgalhtawakgeka.Amatakgalhtawakgachuta'mast'akanniamakaxokgokannemasnuntamaklakask'ini,chuwakglakch'ixkuwinkalimakgalhtawakget.Xalaklankatakg'alhtawakgawakgnakamaxk'ikankilhtamatukatamakgamakglhtinalhxlakatatlannataskgalahanxalalita'akgjuixtakg'alhtawakga.</p>
+    <p>Namatakgalhtawakganakamakgtayalakch'ixltuwinxlakatatlannataskgalalannachunanatamatlawekglhalatatukamininilakch'ixkuwinxlakatatlannatalatamalaka'unin,nitinaka'akgch'apawali,nachunanamatakgaltawakganalakputsanikulatlanlapatinikanxlakatawakgtlannalatalalinlipulatamanchuputunulakchi'ixkuwin,nachunanikatalamakg'asitsilhch'atumch'atumkalipawatuxlamakanajlhi,nachunalitumnalamak'atsinikanixtapuwanNacionesUnidasxlakatalipaxawnalatamaya.</p>
+    <p>Xanatikunkaminininatalaksakatukutalakask'inkakamasinikaixkamankan.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkamininikatap'akgtanulhxanitalakgatinemalimalakgastaninankan,chutlawakannemalikaxyawanankan,wakglata'tumatliwekglhatlanlatamat,nachunatlantapakgtanuakxnimatlanikanlatamatxalakpulatamchupalatlanskgalalanp'utukan.</p>
+    <p>Wakglakch'ixkuwinkamininikakuentajnikaixtaskujutkannematatlawnitpalatats'okgni,takaxtlawanlata'tutamalakgnunitxlakatanitinakalakgamakglhtiixtapuwankanlata'xlak'antutamalakatsukinit.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkamininixlakatakamakgantaxtikalata'tukamininilakch'ixkuwinnematlahkaninakixtachiwinNacionesUnidas,chut'ankskamaklakask'inka.</p>
+  </li>
+  <li>
+    <p>Wakglakch'ixkuwinkaminininanatap'akgtanunaktaskujutxalakpulatamanxlakatatlannatatach'ixkuwali.</p>
+    <p>Akxnimaklakask'inkanlata'tukamininilakch'ixkuwinchunilatila'akgch'apawali,je'etalakask'initamatokgokge'lawanlimap'akgsitnemamintilhakanitkilhwantilhamaka,xlakatatlannamakgantaxtikanlata'tukamininilakch'ixkuwinchutlannalatamakannakk'akilhtamakunitilixkajnittunalamasini,nalamakgtakgalhkannakpulatamanchuwakgtlannalamakgtayanlata'lakatunupulatamannemawakgch'ixkutalatlawakgo'.</p>
+    <p>Lata'tutalhka'nitnemakamininilakch'ixkuwinnilalimakgakgamanankanpalawitekgmaklakask'inkanchunitlan,nichulakask'inNacionesUnidas.</p>
+  </li>
+  <li>
+    <p>Lata'tutalhkanitnakje'etapuwannilalakgmakgankannipalamap'akgsinaninixakstunatak'atsi,niwanp'utunxlakatamaxk'imamalitliwekgelakatumpulatam,putumlakch'ixkuwinxlakatanatatlawalata'tutalakaskinnachunalitumnilakgaxmatmakgankantukamininilakch'ixkuwinchunanilaka'akgch'apawalikan,lawanje'etalakapastaknitukamininilakch'ixkuwin.</p>
+  </li>
+</ol>

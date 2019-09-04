@@ -1,0 +1,122 @@
+<h1 align='center'>Deklarasaun kona ba Ema tomak nia Direitu, iha mundu raiklaran</h1>
+<h2 align='center'>Lia habadak</h2>
+<p align='center'>- atu bele moris ho liberdade, ho justisa, ho damen iha mundu, ema sei hatene hodi halo tuir katak hotu hanesan, iha direitu hanesan.
+- tan lakohi simu, tan heuuai ema nia direitu maka ema balu halo aat, halo susar ema seluk; fo sai lia hirak ne’e atu ema tomak bele moris hakmatek, bele hateten e fiar tuir nia hakarak.
+- atu tahan ema tomak nia direitu tuir ukun ho justisa, nune’e ema lalika foti liman hodi funu hasoru ema aat, hahalok aat.
+- atu buka hametin damen iha nasaun tomak.
+- iha Surat Deklarasaun ne’e, Nasaun tomak fo sai katak ema tomak iha direitu, iha otak, iha folin, ema hotu hanesan feto ka mane; nasaun tomak sei buka tulun malu atu ema bele moris di’ak, ema hotu bele moris ho liberdade iha dalan los.
+- Nasaun tomak iha O.N.U. tau lia ba malu atu hamutuk tulun ema moris ho direitu ho mos liberdade.
+- atu ema tomak halo tuir lia hirak ne’e be foin hateten, hodi tau metin ba laran.
+Asembleia Boot
+Fo tada iha Deklarasaun kona ba Ema tomak nia Direitu atu hatudu dalan los ba povu tomak, ba nasaun tomak, nune’e ema tomak, klibur tomak, ukun tomak, ho neon metin, buka hanorin, hanorin lisan los, hodi habelar ema nia direitu ho liberdade; halo ema tomak tuir lia ne’e be fo sai iha nasaun ida laran, iha nasaun seluk laran, hodi moris tuir dalan ne’e be Nasaun tomak foin fo tada iha Deklarasaun ne’e.</p>
+<ol>
+  <li>
+    <p>Ematomakmorishanesan,ematomakhanesan,ihadireituhanesan.Ematomakihaotakhoneon,hotu-hotuseibukamorishanesanmaunhoalin.</p>
+  </li>
+  <li>
+    <p>Labelehaketakemaidatannoinpolitik,tanukunraiidanian,iharaine’eduni,iharaine’ebeukunonaan,eiharaine’ebeseidaukukun-án.</p>
+  </li>
+  <li>
+    <p>Emaida-idakihadireituatumoris,morisholiberdade,hodihetanmostulunbaniaanrasik.</p>
+  </li>
+  <li>
+    <p>Emaidalabelemorishanesanata;seihalakonhosiraiklaranhahalokne’ebeloriemaselukmorishanesanata.</p>
+  </li>
+  <li>
+    <p>Labelehaloaatbaemaida,labelehaloematerusnarande’it.</p>
+  </li>
+  <li>
+    <p>Ematomakihadireitu,naranihafatinida,atuemaseluksimuniahodihatenekatakniamosema.</p>
+  </li>
+  <li>
+    <p>Ematomakhanesanihaukun,tanukunseitahanematomak.Emahotuihadireituatuhetantulunuaihiramonubasusarebelehetansusartanniniadireitu,tuirDeklarasaunne’e.</p>
+  </li>
+  <li>
+    <p>Ematomakihadireituatubukatulunhosiukunsira,ihaniarainrasik,uaihirahetansusartanemaseluklakohihateneniadireitu.</p>
+  </li>
+  <li>
+    <p>Labeledadurlet,labelekairedunisainaranemaidahosiniarain.</p>
+  </li>
+  <li>
+    <p>Ematomakihadireituatuhetanjustisa,uaihiramonubasala;niasalanseihetanjustisatuirdalanloshodifokastiguki’ikeboot,tuirhahalokne’ebeniahalo.</p>
+  </li>
+  <li>
+    <p>Uaihirafotiliarumahasoruemaida,molokseidaukhalojustisa,emane’eseihatánnu’usalalaek;afoinseifomosfatinatuniahetantulunhoditahan-ánihajustisalaran.</p>
+    <p>Labeledaduremaida,tande’itniahahalokeniakluhak,uaihirabuatne’ebeniahalolamonuhasoruukunnasaunnianeraiseluknian.Nune’emos,labelefokastigutodanliuhahalokne’ebeniahaloduni.</p>
+  </li>
+  <li>
+    <p>Labelehalonaranbuatidahasoruemaniamoris,niaumalaran,ihaniaumakain,labelelokeletemaniasurat,labelemosfotiliahasorunianarandi’ak.Hasoruliahirakne’e,seihetantulunhosiraiidaniaukun.</p>
+  </li>
+  <li>
+    <p>Emahotubelela’obamaituirniahakarak,turiharaine’ebehakarak,ihaNasaunidalaran.</p>
+    <p>Naranemaidabelehusikniarain,nianasaun;belefilahikasbarain,tuirniahakarak.</p>
+  </li>
+  <li>
+    <p>Uaihiraemarumahetansusaratumorishakmatek,belebukafatinselukeraiseluk.</p>
+    <p>Labeletuirdalanidane’e,uaihiraniahetansusartanhahalokaatne’ebeniahalo,etanhahalokniahalohasoruemaselukniadireitu.</p>
+  </li>
+  <li>
+    <p>Naranemaidaseiiharainida,nasaunida.</p>
+    <p>Labelehasainarande’itemaidahosiniarain;labelemostakadalanuaihiraemaidahakarakbahamutukhonasaunseluk.</p>
+  </li>
+  <li>
+    <p>To’oonaotas,fetokamanebelekaben,turihaumakainida,hodilahetansusartanniaemaseluk,emaraiselukeihafiarseluk.Hanesankabena’in,uaihirafahemalukarik,sirana’inruaihadireituhanesan.</p>
+    <p>Emana’inrualabelekabenuaihirasiralakohimorishamutuknu’ukabena’in.</p>
+    <p>Umakainidahanesanknuaerainiarin,tanne’e,seihetantulunhosireinuehosinasaun.</p>
+  </li>
+  <li>
+    <p>Naranemaida,mesakehamutukhoseluk,ihadireituatuihasasánrasik.</p>
+    <p>Labelehasailetemaidaniasasán.</p>
+  </li>
+  <li>
+    <p>Emahotu-hotuihadireituatuhanointuirniahakarak,moristuirnianeon,tuirniafiar;ne’ekatakniabelehusikfiaridahodibaseluk,hodimoshaklakenniafiar,haklakenmesakehamutuk,ihafatinklesefatinksumik,hodihanorinehodihaloestilutuirniaukur.</p>
+  </li>
+  <li>
+    <p>Emaida-idakbelehateten,belehalotuirniahanoin,tanne’eemaseluklabelebandu;emaida-idakbelesimu,belefotadaniahanoin,ihanaranfatinida.</p>
+  </li>
+  <li>
+    <p>Emaida-idakbelehalibur,haríkliburihadamenlaran.</p>
+    <p>Emaidalabeleharukaemaselukatutamaihakliburidalaran.</p>
+  </li>
+  <li>
+    <p>Naranemaidabelehaknaukihanasaunniaserbisu,hodiserbisurasiketauemaselukihaniafatin.</p>
+    <p>Ematomakihadireituatuserbisuihanasaunidaniaknar.</p>
+    <p>Povuniahakarakhanesannasaunidaniarin;povutomakseihatudu,tuirniahakarak,ihauainbauain,hotu-hotuhanesan,idalalet,hodihiliemane’ebeniahakarakatuukunniarain.</p>
+  </li>
+  <li>
+    <p>Emahotu,hanesanrainiaoan,seimorismetinihaniarain;beleterhosiukunsiraatuemahotumorisdi’ak,morishakmatek,hetanmatenek,tannasaunniahahalokrasik,ehamutukhonasaunseluk,hodihaloraiidaburas.</p>
+  </li>
+  <li>
+    <p>Ematomakseihetanserbisuida,serbisutuirniahakarak,hetandi’akhanesanemaseluk,hodihetantulunatulamonubasusartanlaserbisu.</p>
+    <p>Seiseluemaidaniakolentuirniaserbisu.</p>
+    <p>Emane’ebeserbisuseisimutusanlostuirniakolen,atuniaumalaran,niaumakainbelemorisdi’akhanesanema,seihetanmostulunhosiserbisuseluk.</p>
+    <p>Ematomakbeleharíkliburhanesansindikatu,beletamabasindikatuhodihetantulunbaniaserbisu,tuirniahakarak.</p>
+  </li>
+  <li>
+    <p>Ematomakihadireituatuhakmá,atuhadiuk,ihauainserbisunialaran,tuirloronserbisu,ihatinanlaran.</p>
+  </li>
+  <li>
+    <p>Ematomakihadireituatuhetanbuatne’ebekuranhodihetandi’akbaisin,di’akbaumalaran,liu-liuihahahán,ihahatais,ihaumaida,hetantulunhosiospitál,etulunselukhosinasaun;seihetantulunuaihiralaserbisu,ihamoraslaran,falukkarikekbahenona,euaihirahetansusarbamorismaskilahakarak.</p>
+    <p>Fetofoinhahorishooankosokseihetantulunoi-oin.Labarikne’ebemoris,ihaumakainelaihaumakainidalaran,seihetanmostuluntomakne’ebekuran.</p>
+  </li>
+  <li>
+    <p>Naranemaidaihadireituatuhetanmatenek.Seihetanmatenekhodilaselubuatida,ihatinanhirakne’ebehahúeskola.Tanemahotuseitamaihaeskolane’ebenasaunharuka.Nasaunidaseibukahabelarmoseskolateknikhoeskolababadaen;seilokeeskolane’ebefomatenekboot,emahotu-hotubeletamaihaeskolane’e,tuiridakánniaotak.</p>
+    <p>Naraneskolaidaseihaloemasaidi’akliuhotu,habiitliuemaniadireitu,emanialiberdade,seiloriemasimumaluholaran,hateneperduamalu,damemaluihanasaunidalaran,ihamunduraiklaran,tuirida-idakniafiar,tuirmoshahaloktomakne’ebeNasaunsiraihaO.N.U.haloatumundumorisihadamenlaran.</p>
+    <p>Amansiramakaseihilimatenekne’ebehakarakfobaoan.</p>
+  </li>
+  <li>
+    <p>Naranemaidaihadireituatutama,tuirniahakarak,ihamorismatenekihaknualaran,atubelehamutukhomatenekselukhalodi’akbaniarain.</p>
+    <p>Naranemaidaihadireituatuhetantulunkonabadalanlosatumoris,hetantulunatuhomatenekselukhaloraiidabeleburas.</p>
+  </li>
+  <li>
+    <p>Naranemaidaihadireitu,ihafatinne’ebeniamoriseiharaiseluk,atuhetantuluntuirukunatubelemorishodireituholiberdade,tuirliatomakne’ebefotadaihaDeklarasaunne’e.</p>
+  </li>
+  <li>
+    <p>Naranemaidaseihalobuatrumabaniarain,tanlaekariknialabelemorisholiberdade,labelemorisdi’ak.</p>
+    <p>Atumorishodireitu,atubelehetanliberdadeemaida-idakseituirlolósukunne’ebefoinfosai,nune’e,emaselukmosbeletuirdalandi’ak,dalanlos,emahotubelemoristuirniafiar,emahotubelemorisdi’akhanesanmaunhoalin,ihadamenlaran.</p>
+    <p>Hotu-hotuseituirlolósdireituholiberdadene’ebeNasauntomakhamutukfotadaona,emaidalabeletuirdalanseluk,hodiheuuaiDeklarasaunne’e.</p>
+  </li>
+  <li>
+    <p>NaranNasaunida,kliburrumaenaranemaida,labeleholaliahirakfoinfotadaihaDeklarasaunne’eatuhodihalakonemaselukniadireitu,nialiberdade.</p>
+  </li>
+</ol>

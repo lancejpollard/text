@@ -1,0 +1,122 @@
+<h1 align='center'>DICHJARAZIONI UNIVIRSALI DI I DIRITTI DI L’OMU</h1>
+<h2 align='center'>Introitu</h2>
+<p align='center'>Cunsidarendu ch’ellu ci voli à ricunnoscia a dignità propria di tutti i membri di a famiglia umana è i so diritti pari ed inalienabili par ch’elli sianu fundati a libertà, a ghjustizia è a paci ind’u mondu,
+Cunsidarendu chì, ùn cunniscendu o sprizzendu i diritti di l’omu, si hè ghjuntu à atti barbari chì a cuscenza umana ni hè rivultata, è ch’ella hè stata chjamata a spiranza più alta di l’omu quilla di fà nascia un mondu duva elli saranu libari l’omi di parlà è di creda, libarati da u tarrori è da e miseria,
+Cunsidarendu ch’ella hè una primura maiò ch’elli sianu prutetti i diritti di l’omu da un guvernu di dirittu, da ch’ellu ùn sia custrettu l’omu, ghjuntu à i punti stremi, à rivultà si contru à a tirannia è l’upprissioni,
+Cunsidarendu ch’ella hè una primura maiò di fà ch’elli si sviloppinu i leii amichevuli trà i nazioni,
+Cunsidarendu ch’elli anu dittu in lu so Statutu i populi di i Nazioni Uniti ch’elli credinu in li diritti fundamintali di l’omu, in la dignità è u valori di a parsona umana, in la parità di i diritti di l’omi è di i donni, è ch’elli anu dittu d’essa dicisi à sviluppà u prugressu suciali è à fà nascia un modu di campà più bonu ind’una libertà più maiò,
+Cunsidarendu ch’elli anu prumissu i Stati Membri di fà, cù l’aiutu di l’Urganisazioni di i Nazioni Uniti, ch’elli sianu rispittati da veru in lu mondu sanu i diritti di l’omu è i libertà fundamintali,
+Cunsidarendu chì par rializà isssa prumessa, hè di primura d’avè una idea cumuna d’issi diritti è libertà,
+Sta Dichjarazioni Univirsali di i Diritti di l’Omu
+cum’è fini cumunu da ricircà da tutti i populi è tutti i nazioni, par ch’elli provinu tutti l’individui è tutti l’urganisazioni di a sucità, cù u insignamentu è l’educazioni, à sviluppà u rispettu d’issi diritti, è, pigliendu à pocu à pocu i misuri naziunali è internaziunali, à impona ni ignalocu a ricunniscenza è a prattica vera, sia ind’è i populi di i Stati membri stesi, sia ind’è quilli di i tarritorii ad elli cunfidati.</p>
+<ol>
+  <li>
+    <p>Nascinututtil’omilibarièparididignitàèdidiritti.Pussedinuaraghjonièacuscenzaèlitoccaadagisciatràellidimodufraternu.</p>
+  </li>
+  <li>
+    <p>Dituttiidirittièilibertàscrittiinissadichjarazioni,sinipòghjuvàugnunu,senzasfarenzavarunadirazza,diculori,disessu,dilingua,dirilighjoni,d’upinioni,puliticaoaltrach’ellasia,d’urighjininaziunaliosuciali,diricchezza,dinascitaodiqualunquaaltrasituazioni.Mancusifarànisunasfarenzapartendudaustatutupuliticu,ghjuridicuointernaziunalidiupaesioutarritoriuduvaellacampaaparsona,ch’ellusiaindipindentiissupaesiotarritoriu,opuricunfidatuadunaantranazioni,privud’autunumiaocùunputerilimitatuincalchìmodu.</p>
+  </li>
+  <li>
+    <p>Hàdirittuognipersonaàavita,àalibertàèàasicurezza.</p>
+  </li>
+  <li>
+    <p>Inlaschiavitùoinlasirvitùùnsaràtinutunimu;sòpruibitiaschiavitùèucumerciudiischiaviinqualunquaforma.</p>
+  </li>
+  <li>
+    <p>Un’saràturmintatunimu,nèsottumissuàcastichioazzionicrudeli,inumaniovili.</p>
+  </li>
+  <li>
+    <p>Asoparsunalitàghjuridica,ugnunuhàdirittuàfàlaricunnosciaignalocu.</p>
+  </li>
+  <li>
+    <p>Pàaleggituttisòpari,ètuttianudirittuàessaprutettidaellasenzasfarenzavaruna.Anudirittututtiàunaprutizzioniparacontruàqualunquadiscriminazionichìùnrispittariaissadichjarazioniècontruàqualunquachjamaàfàunadiscriminazionisimula.</p>
+  </li>
+  <li>
+    <p>Hàdirittuogniparsonaàchjamànidimodueffettivuàitribunalinaziunalicumpitenticontruàl’attichìùnrispittarianuidirittifundamintalich’elliliricunnoscinuacustituzionioaleggi.</p>
+  </li>
+  <li>
+    <p>Un’pòessanimuarristatu,incarciaratuoesiliatudimodutirannicu.</p>
+  </li>
+  <li>
+    <p>Hàdirittuogniparsona,dimoduparu,ch’ellasiaintesaasocausadimodughjustuèpublicudauntribunaliindipindentiedimparziali,chìdicidarà,siadiisodirittièoblighi,siadiarialitàdil’accusapinalifattacontruadella.</p>
+  </li>
+  <li>
+    <p>Ogniparsonaincausataparundilittusicunsidareghjach’ellahènucentifinch’ellaùnhèstatapurtataaprovach’ellahèculpevuli,sicondualeggièind’unprucessupublicu,duvaellaavaràavutututtiiguaranziichìcivolipardifendasi.</p>
+    <p>Un’saracundannatunimuparazzionioumissionichì,quand’ellisisòfatti,ùneranuundilittusiconduudirittunaziunaliointernaziunali.Un’sidaràmancuuncasticupiùmaiòcàquilluchìeraprivistuquanduelluhèstatufattuundilittu.</p>
+  </li>
+  <li>
+    <p>Un’sipudaràintarvenadimodutirannicuinlavitaparsunalidinimu,nèinlasofamiglia,nèincasasoia,nèinlisolettari,nècontruàusounorioasonomina.Hàdirittuogniparsonaàessaprutettadaaleggicontruàintarvinzioniocolpisimuli.</p>
+  </li>
+  <li>
+    <p>PòogniparsonaviaghjàdimodulibaruèscegliaduvaellavolicampàindrentuàunuStatu.</p>
+    <p>Pòogniparsonalasciàognipaesi,puruusoiu,èvultàinlusopaesi.</p>
+  </li>
+  <li>
+    <p>S’ellahèparsiguitata,ogniparsonahàudirittudidumandàl’asigliuèdiricevaluinl’altripaesi.</p>
+    <p>Un’sipòdumandàissudirittus’ellahèricircataparviadiundilittudidirittucumunu,odiunaazzionichìandariacontruàifinièiprincipiidiiNazioniUniti.</p>
+  </li>
+  <li>
+    <p>Ugnunuhàdirittuàunanaziunalità.</p>
+    <p>Diasonaziunalitàùnnipòessaprivunimu,nèmancudiudirittudicambiàni.</p>
+  </li>
+  <li>
+    <p>A’partasidal’etàd’avèifiglioli,anuudirittul’omuèadonna,senzavarunalimitazioniparciòchìtoccaàarazza,anaziunalitàoarilighjoni,dimaritàsièdicustituìunafamiglia.Sòpariisodirittiinlumatrimoniu,finch’elluduraès’ellusiscioglii.</p>
+    <p>Un’pòessadicisuumatrimoniucàcùl’accunsentulibaruèpienudiisposi.</p>
+    <p>Afamigliahèl’elementunaturalièfundamintalidiasucitàèàasucitàèàuStatulitoccaàpruteghjala.</p>
+  </li>
+  <li>
+    <p>Hàdirittuàaprupiitàogniparsona,dasolaoincumunità.</p>
+    <p>Diasoprupiitàùnnipòessaprivunimudimodutirannicu.</p>
+  </li>
+  <li>
+    <p>Hàdirittuogniparsonaàalibertàdipinsamentu,dicuscenzaèdirilighjoni;valiàdìch’ellahèlibaradicambiàasorilighjonioisoidei,solaoincumunità,dimodusiapublicusiaprivatu,cùuinsignamentu,iprattichi,ucultuoiriti.</p>
+  </li>
+  <li>
+    <p>Hàdirittuogniindividuuàalibertàd’upinionièdisprissioni;valiàdìch’elluùndeviessaturmintatupàisoupinionièch’ellupòcircà,ricevaèsparghja,senzaprimuradiifruntieri,iinfurmazionièl’ideicùtuttiimodidisprissioni.</p>
+  </li>
+  <li>
+    <p>Ogniparsonahàdirittuàalibertàdiriunionièd’associupacificu.</p>
+    <p>Unassociunimupòessacustrettuàdivintànimembru.</p>
+  </li>
+  <li>
+    <p>Hàdirittuogniparsonaàparticipààadirizzionidil’affaripublichidiusopaesi,siadaparella,siacùisoriprisintantisceltidimodulibaru.</p>
+    <p>Hàdirittuogniparsonaàghjugna,incundizioniparicùl’altriàifunzionipublichidiusopaesi.</p>
+    <p>Daavulintàdiupopulunascil’auturitàdiiputeripublichi;issavulintàcivolich’ellasisprimiinalizzioniunestichìsidevinufààtempipricisi,chìtutticidevinuvutàdimoduparu,cùuvotusicretuodiqualunquaaltrumodusimulichìassicuressialibertàdiuvotu.</p>
+  </li>
+  <li>
+    <p>Hàdirittuàasicuritàsucialiogniparsona,cum’èmembrudiasucità;hèghjustach’ellapossirializàisodirittiecunomichi,sucialièculturalinicissariiàasodignitàèàusviloppulibarudiasoparsunalità,cùusforzunaziunalièacuuparazioniinternaziunali,sicondul’urganisazionièimezid’ognipaesi.</p>
+  </li>
+  <li>
+    <p>Hàdirittuogniparsonaàusotravagliu,àsceglialudimodulibaru,àfàluincundizionighjustiècurretti,èàessaprutettacontruàadisuccupazioni.</p>
+    <p>Anudirittututti,senzasfarenzavaruna,àlistessapacaparlistessutravagliu.</p>
+    <p>A’chìtravaglialicivoliunpacamentughjustuècurrettudach’ellupossicampàcùasofamigliacum’ellusidevipàadignitàcumuna,cùl’aiutu,s’ellul’accorri,d’ognimezudiprutizzionisuciali.</p>
+    <p>Hàdirittuogniparsonaàcustituìcùl’altriisindicati,àscrivasiind’isindicatipardifendaisointaressi.</p>
+  </li>
+  <li>
+    <p>Hàdirittuogniparsonaàuriposuèàutempulibaru,valiàdìch’elluùndeviessatroppuusotempuditravagliu,èch’elladeviavèivacanziàtempifissi.</p>
+  </li>
+  <li>
+    <p>Hàdirittuogniparsonaàunlivelludivitachìbastessiparprucuràadellustessuèàasofamigliaasalutaèubenistà,pàupiùpàumangnà,avistitura,l’alloghju,icurimidicalièisirviziisucialinicissarii;hàdirittuàasicuritàs’ellaùnhàtravagliu,s’ellahèmalata,inferma,veduvaoanzianaoinl’altricasich’ellapòperdaisomezidicampàparraghjonich’ellaùncihèparnulla.</p>
+    <p>A’imammièàizitellilicivoliunaiutuèunaassistenzaparticulari.Izitelli,natiinlumatrimoniuofordimatrimoniu,ricevinulistessaprutizzionisuciali.</p>
+  </li>
+  <li>
+    <p>Ogniparsonahàdirittuàl’educazioni.Deviessadigratisil’educazioni,almenuparciòchìtoccaàuninsignamentuelementarièfundamintali.Uinsignamentuelementarihèublicatu.Uinsignamentutecnicuèprufissiunalicivoliàginiralizàlu;àl’altistudiicidevinupudèghjugnatuttiàparu,siconduumeritu.</p>
+    <p>Ufinidil’educazionideviessach’ellasispanniaparsunalitàumanadaveruèch’ellupigliiforzaurispettudiidirittidil’omuèdiilibertàfundamintali.Devifàch’ellisicapischinu,ch’ellis’accettinuèch’ellisianuamichituttiinazioniètuttiigruppirazialiorilighjosi,ch’ellisisviloppinul’attivitàdiiNazioniUnitiparmantenaapaci.</p>
+    <p>A’iparentitoccaprimaàscegliaaformad’educazionidadààifiglioli.</p>
+  </li>
+  <li>
+    <p>Ogniparsonahàdirittuàparticipàdimodulibaruàavitaculturalidiacumunità,àgodasil’artièàparticipààuprugressuscentificuèàl’avantaghjich’elluporta.</p>
+    <p>Ugnunuhàudirittuch’ellisianuprutettiiintaressimuralièmatirialichìnascinudaognipruduzzioniscentifica,literariaoartisticach’ellunihèellul’autori.</p>
+  </li>
+  <li>
+    <p>Ogniparsonahàdirittuch’elluregni,inlasucitàètràiStati,unordinichìdessituttuusopesuàidirittièlibertàch’ellasprimiissadichjarazioni.</p>
+  </li>
+  <li>
+    <p>Hàiduveril’individuuverdiasocumunitàchìinellasolasipòfàusviloppulibaruèpienudiasoparsunalità.</p>
+    <p>Esercitenduisodirittiègudenduisolibertà,ùnhèsottumissuugnunucààilimitazionidaaleggistabiliti,soludaassicuràch’ellisianuricunnisciutièrispittatiidirittièilibertàdil’altri,èdidàsudesfuàidumandighjustidiamurali,dil’ordinipublicuèdiubinistàdituttiind’unasucitàdimucratica.</p>
+    <p>IssidirittièissilibertàinnisuncasusipudaranuutilizàcontruàifinièiprincipiidiiNazioniUniti.</p>
+  </li>
+  <li>
+    <p>Nisunadispusizionid’issadichjarazionipòessacapitacum’ès’elladessiadunuStatu,adungruppuoaduindividuuundirittuqualunquad’avèunaattivitàod’agisciacùuscopudifàsparisciaidirittièilibertàchìcisitrovanuscritti.</p>
+  </li>
+</ol>

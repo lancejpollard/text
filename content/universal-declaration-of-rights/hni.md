@@ -1,0 +1,122 @@
+<h1 align='center'>DAVQTAV COLPYUQ EILDOQ</h1>
+<h2 align='center'>BEI DOQ</h2>
+<p align='center'>Byulssaq aqnaol yoqhhovq yoqhaol e colssaq jav wuq bo e colpyuq, meeqduq, aqsol liq qiq kov bi dei e xil mol laoq,davqtav byulcol jol sal bi duv e daoqpeiq nga.
+Colpyuq yaol maq hu dav ssolnei hu nil zaq e taoqgao gaomiaoq xil mavq, byulssaq aqnaol e neemeeq zaolcavq lal alnei, col aqsol liq doq taol yal, aqsol liq aqsol sol e aqpyuq saolpyuq qivq ya slq, laol ngaoq aqya maq bi naqguv, maq bi saolsaq laqmeil e huvqlavq bi hev lal e xil mol laoq aolzaq ssaq laol hal pyuqzeiq e neenyuq nga leil bi eil loq.
+Byulssaq aqnaol yoqhha meeqduq haoqleev movq bal nei, ssyuqbeil cei lal e salcol naogo wuqhol jil lal e maq nyuq meil tuv kavq lei e miaoqdyul maq bi duv movq bal nei,col e colpyuq yo’liq nei haoqleev qivq laq meil e laolkaol kaol movq.
+Goqjal kalla gaqqo hhyulqoq meiqzaq zeqlal leil bo alnei, Lieiqhoqgoq goqjal e ssaqlaol lielqhoqgoq xieifzal hholqei nei yoqduhhaq e zaoma nei colpyuq,meeqyaovq ssolnei hhaqpyuq eilloq pal, miqyo qiq kov bi dei e doqcaol liq bi zil lal,xil mol lo'qo meil coljol aqzeiq bi sal e huvqlavq bi duv lal movq.
+Lielqhoqgoq tao'li laq e goqjal hal mol liq lieiqhoqgoq naogo bao alnei,colpyuq ssolnei zaoma nei yoqjol yoqpyuq hal yil milnia bi hupyuq ssolnei saolpyuq movq bal nei.
+Colpyuq ssolnei yoqpyuq xil mavq dyu nei hu loq nia alngaoq,dalja neenyuq lo'qo miqnieiq aol meeq qivq gaoq.
+Xilmeil nei niaoq'aol,
+Doq zil,
+Davqtav coljol pyuq e eildoq xil mol eil gaq,haljol e ssaqlaol ssolnei haljav e goqjal hhaqhav tivq meil aol hev miaoqma bi gee, col hal qiq col ssolnei seiqhyuf jilgef hal qiq mol meil cev cev nei eildoq xil kaoq bi zol nyuq, yohav meil meiqnyuq miq ssolnei meiqgaol miq alnei colpyuq ssolnei yoqpyuq yaol bi hu dav, goqjal ssolnei goqjif lulsul dalqeiv yaol dal alnei, col e colpyuq ssolnei yoqpyuq xil mavq, hyufyeiqgoq yolsaol alka, eildoq xil kaoq dyu nei bi qeq movq dyu neibi nalhaq movq:</p>
+<ol>
+  <li>
+    <p>Aqsolliqyoqdeivqyoqpyuqbo,meeqyaovqssolneicolpyuqqiqkovdei.Davqtavcolssaqneenyuqbelneemameeqyasiq,laongaoqmeilnaolnadulmeilegaqssolhhyulhhabavqduvnia.</p>
+  </li>
+  <li>
+    <p>Aqsolliqeildoqxilkaoqbuvqdavlaqecolpyuqssolneiyoqpyuqsaqneihhalalqaol,colqa,malsaq,miqyo,doqsii,zaoljaof,zeiqziifssolneiaqnuaqnialeilqiqjivqmaqbil,goqjalhalmoljolssaq,huvqlavqhalqabossaq,zeiqssolzalmiaqssolneinaoq,deivqduqmeeqmaqmeeqleilxilmavqqiqjivqmaqbil,aqsolliqqiqqahhabiqa.Laolngaoqcolqiqhhaqbazaqegoqjal,maqnaaqmilcaezeiqziifssolneisiqzeifmaqpaoqyaleilnei,maqqiqqameilmaqhhabil,goqjifjolduqjolhhalmaqpaoqyaleilneimaqqiqqameilmaqhhabil,noqyamilhaoqngaqyamilhaoqhameilleilpaoqmovpaoqmaqpaoqmovqtaq.</p>
+  </li>
+  <li>
+    <p>Aqsolliqwuqhol,yoqpyuqssolneiyoqjolsalecolpyuqbo.</p>
+  </li>
+  <li>
+    <p>Jeilmassolneissaqhavqiqhhaqliqmaqgee;ColyaolJeilmassolneissaqhavbigeemiqnieiq,ssaqhavhhelpalpalemiqnieiqsev'levneialciivliqmaqbiduv.</p>
+  </li>
+  <li>
+    <p>Colqiqhhaqyaolliqsaqjaltaqjaimiq,qiqhhaqyaolliqlavqmoqtaqsaoqmiq,maqgeehaoqedoqhavtaqgeemiq.</p>
+  </li>
+  <li>
+    <p>Halgeimilcajoleliqfaqliqmeiqsiecolpyuqaqsolliqhhabissiil.</p>
+  </li>
+  <li>
+    <p>Faqliqmeiqsiaqsolliqqiqkovdel,faqliqneihaoqleevlaqemeeqduqaqsolliqqiqkovdei,qiqqaliqmaqbihunil.Haoqleevmeeqduqaqsolliqqiqkovdeineihha,xilmeilengaoq,eildoqxilkaoqlo'qomaqngeelmeilhunillalemiqnieniqneizaolkyuqlalzelqyaleilmaqguvsso.</p>
+  </li>
+  <li>
+    <p>Xieiffaqssolneifaqliqlo'qobivqlaqezaomaneicolpyuqmaqjavmeilzaolkyuqlaltyultaq,aqsolliqhoqhhyuzaqqivqegoqjalfaqtiqyaoldalalnei,zaolkyuqlaqeqiqpyuyaolmeeqzavneihaoqleevqivq.</p>
+  </li>
+  <li>
+    <p>Qiqhhaqliqqiqmeilleilmaqbinieivqteiq,maqbinieivqtao,maqbileiqzei.</p>
+  </li>
+  <li>
+    <p>Miavpyuqheqnilmaqceillal,aqnuhhaqhavmaqlavsivlaqmeilefaqltiqyaoldalalnei,aqsolliqsaqneiqiqkovdeilaqmeilmeiqzaqbu'loqnei,loqleilneiceilsoqqivq,xilmeilengaoq,aqyoqemeeqduqssolneimeeqhhaqlo'qo,aqyoqhultaveilduvlaqemiaoqzyulmeiqzaqceilsoqqivq.</p>
+  </li>
+  <li>
+    <p>Siqsiifmiaoqzyulzuvngalellellcuvqssoecol,alkaqpilehholqelguqwuqboeyildywmaqluvssolneifaqliqlo'qomeilzyulzuvngaleilmaqcelloqemiqteil,zyulmaqzuvleilecolpyuqbo.</p>
+    <p>Colhalqiqcolmiqnieiqhalqiqqaduvmalmaqduvliq,miaoqgalceilloqeyiltaq,goqjalyo'liqssolneigoqjifyo'liqlo'qosiqsiifzyulmaqcaecol,siqsiifzyulcangaleilmaqbisolhhaq.Siqfaqzaolezyulzuvtyultaqhhaguqefaqliqhultavmaqbikyuqzeiq.</p>
+  </li>
+  <li>
+    <p>Colhalqiqcoleyoqhhovqyoqzaol,laqhyuljolduqssolneiyilssollalesoqhhaqtaoldoqxilmavq,halngeelmovqmeilmaqbilavsiv,aqyomiavhhaqssolneipyuqmiaolkyuqlilaqmeilmaqhhazaol.Aqsolliqfaqliqbihaoqleevecolpyuqbo,xilmeilngaoqlavsivlalzaolkyuqlalyamaqqil.</p>
+  </li>
+  <li>
+    <p>Yoqhhagoqjalmilhaoqhholqei,aqsolliqjolhhalpalssolneijolduqqoecolpyuqbo.</p>
+    <p>Yoqhhagoqjalkevqmeilgoqjalhalmolyaolliqssuqhhoqsso,yoqhhagoqjalhaltaqliqhhuvqdaolpuvlalqivq.</p>
+  </li>
+  <li>
+    <p>Maqbihhalhhuvqmovqbalnei,aqsolliqaqnugoqjalaxieivhhovqduqqoyilsso,xieivliqxeivhhovqsso.</p>
+    <p>Zeiqziifpyuzyulgolmaqngeelmeilaqnuzyulngeeljilmeilzuv,maqnasiqlieiqhoqgoqeeildoqmaqnalhaqmeilzaolzyulalneinieivqlaltaq,aqnugoqjalamaqxieivhhovqqivq.</p>
+  </li>
+  <li>
+    <p>Aqsolliqyoqhhaqegoqjiqjavnga.</p>
+    <p>Aqsolsolegoqjiqhalngeelaqmeilmaqsuqzeiqivq,aqnuaqyagoqjiqpalmaleilmaqbipalmeilliqmaqkaq.</p>
+  </li>
+  <li>
+    <p>Colhavaqsolliqmiqssaqseq,sulmilyilleilbo,colqa,goqjiqssolneizaoljaofyulmavqyaolmaqnyuqssonga.</p>
+    <p>Ssaqmiqssaqyoniqpyumeilxulalneinaolngaoq,yovqhhovqmaqcuvqivq.</p>
+    <p>Yovqhhovqaqaoqmilhaoqhuvqlavqhholqeiluvcuvqiqslq,baoqgeelqiqgeelnga,tyulmeilneigoqjallaoqngalduyovqhhovqyaolhaoqleevnianga.</p>
+  </li>
+  <li>
+    <p>Aqsolliqyoqzeiqssolneitavqhoqlaqesulzeiqleiljav.</p>
+    <p>ColhalcolezeIqzalhalngeelaqmeIlmaqkoqhaoq.</p>
+  </li>
+  <li>
+    <p>Aqsolliqyoqhhaqeneenyuqleilbo,neegaolleilbo,zaoljaofhalmeilhheimovqleilbonga;Xilkaoqlaoqyoqhhaqezaoljaofhalmeipalmovqhalmeilqeqmovqleilliqkevq,aqnuyoqhhaqqalsolmeillaq,maqnasiqaqzaoqgaomeillaq,bilduvmeillaq,xieivhhovqmeillaqleilyoqhhaqnadovq.</p>
+  </li>
+  <li>
+    <p>Aqsolliqyoqhhaqhalmeilnyuq,halmeilzaolmaleiledoqmeedoqzaqeilduvsso:Xilkaoqlaoqhalnyuqedyulaqnucolmaqbilavkavqleileqeiqlifkevqnga,aqnualkacolyaoldalalnei,yoqhhaqeneenyuqdyulgoqjalmaqpaoqcolmavbihevmabiqeqmaleileqieiqlifliqkevq.</p>
+  </li>
+  <li>
+    <p>Aqsolliqlaolzavneissaoqssolneijoleqieiqlifjav.</p>
+    <p>Aqsolliqaqyamaqxulmeilxilmeilbazaqyulmeilbazaqkalleilmaqbigul.</p>
+  </li>
+  <li>
+    <p>Aqsolliqyoqhhaqbuiduqmeilliqhhaq,xullaqmeilcolceitceilduvalneiliqhhaqlaqmeil,yoqhhagoqjalemiqnieiqaolhaoleqieiqlifjav.</p>
+    <p>Aqsolliqslqheldeineiyoqhhaqegoqjalemiqnieiqaoleqieiqlifjav.</p>
+    <p>Ngaldussaqlaoleneenyuqlaoqzeiffumiqnieiqaolhhaqbiboedaoqpeiq,daoqpeiqxilpeiqlaoqnaomeeqceillaqmeildaljagulssaoqtaoqngaoqbipeiq,daljaneemadeineiteqpiaofteqalneihhagee.</p>
+  </li>
+  <li>
+    <p>Ngalduaqsolliqaoqmilhaoqhuvqlaqalkacolqiqcolngeel,aqsolliqseifhyufbaozafhhajav,aqsolliqyoqhhabalneiziljifseiqhyufssolneiweiqhuafmeeniapyumeilhalguqeqieiqlifhhabiduvlal.Duvlalexildyullaoqgoqjalssolneigoqjifhholqeizaoqgaomeilhhaqhavtivqalneipieivqlallaqenga.</p>
+  </li>
+  <li>
+    <p>Aqsolliqmiqnieiqaol,xullaqmeilmiqnieiqqo,loqleilneissolza'loqhevneimiqmieiqaolecolpyuqbo,miqnieiqaolnieiqmaqbiceivleilelaolkaolliqhhabihhyuqsiq.</p>
+    <p>Aqsolliqmiqnieiqhalmiavneiaolngaoqzeiqhalmiavneihha,qaqliqmaqbihunilhhaq.</p>
+    <p>Miqnieiqaolssaqaqsolliqsaqbaoldeineileevzavneizeiqssolzalhha,eilceivalneiyoqbhaqssolneiyoqhhaqlaqhyulcoleaolzaqhovqdolegalquvqiqkaolhhabidaol,daovguqngaoqaqnugalquveseiqhyufbaozafhhabivq.</p>
+    <p>Aqsolliqyoqhhamoeqduqbalnei,gaolhyufseqtosso,aolzaqsso.</p>
+  </li>
+  <li>
+    <p>Aqsolliqhhaqnaqnaqleilbo,lovhaqhaqleilbo,hhaqkyuqhhaqmasivneimiqnieiqyulnameilmaqaolleilliqeilduvsso,pyuqbolaqmeilhhaqnaqcevcevneinaqmaleilliqeilduvsso.</p>
+  </li>
+  <li>
+    <p>Miqnieiqaolnieiqhede'leneiceiv,nalgolnalleeq,keellavqyuvqseilmaqdol,miqcyuqcyuq,byuldaoqdaoq,alhuvqlaqhuvqlalssolneimiqnieiqmaqaolzaqniameilduvalngaoq,aqsolliqwuqdeiqqiqsiqmaqmeivqssolaqmeilloldalduqjav,zaqdujolduq,peilhaoqdaoduq,nalgolhuduqssolneiguqwuqboebaollaolxilmavqsaqneiaolqivq.</p>
+    <p>Ssaqboaqmassolneissaqguqyaolaqzeiqmeilhhahumeeqmiq.Ssaqguqleilhalngeele,sulmilyillaqmeildeivqlaqehaomaqyilmeildeivqlaqehao,saqneiqiqkovdeineihhahumeeqmiq.</p>
+  </li>
+  <li>
+    <p>Aqsolliqsoqhhaqzolleiltaq,zolpyuqmaqduvwuqbo,zolbeiqiqtaq,ssolneizaomaneizolpieivhholqeizoleyiltaq,zolpyuqtaqsalmiq.Aolzaqhovqdolssolneimiaoq'aolyo'liqzolduqdyuneizaoltaqmovq.Zaomaneizolpieivhultavdav,lizolduq,zoldavniaecolqiqkovdeineihhabizol.</p>
+    <p>Soqhhaqmeiqengaoqcoleneemabigaollalmovqbalneimeiqenga,goqjalkalla,colqakallassolneiaqpyuqbavqhelecolbakalla,gaqssolhhyulbimeeqlalmovq,colssolneicolalkamaqbideiqzaq,maqbieilzzaqmovqbalneisoqhhaqmeiq</p>
+    <p>Miqyosoqhhaqhalqabizolleildamanadovq.</p>
+  </li>
+  <li>
+    <p>Aqsolliqhuvqlavqhholqeiesoqdoyo'liqmiqnieiqbazaqsso,hhyuqjivqceilqaezaqlulzaqqultaollisso,soqdoyolkolssolneiyolkolneiaolduvlaqesaqhelliqtovzavqsso.</p>
+    <p>Yoqduhhaqneiaolduvlaqezeiqssolzal,aqyamaqbikoqmeilhaoqleevsso.</p>
+  </li>
+  <li>
+    <p>Huvqlavqssolneiaoqmilhaoqealciivqallogalquvqiqqalo'qomeil,eildoqxilkaoqadavecolpyuqssolneiyoqjolyoqpyuqpyuqqivq.</p>
+  </li>
+  <li>
+    <p>Aqsolliqhuvqlavqbalneihhaqduvmovq,huvqlavqyaolmaqdalmeilyoqhhajivjolmaqaolqiv,qhuvqlavqyaolmaqdalmeil,colecolpyuqqiqgalneimaqpyuqlalqivq.</p>
+    <p>Yoqhhaqecolpyuqssolneiyoqjolyoqpyuqbipyuqlaletaq,faqliqgalmaloqolaolkaolhhalaol,xilmeillaolengaoqaqnucolepyuqlulliqbijavmovqbalneilaolenga,yoqpyuqngaoqsulpyuq,sulpyuqngaoqyoqpyuq,halpyuliqsaqmalbideilalmovqtaoqngaoq,colpyuqbaollaolxilmeilaolenga.</p>
+    <p>Colpyuqssolneiyoqpyuqaole,halmeilleileqiqquvhevliq,lieiqhoqgoqeeildoqyaolnaqleiqmaqleiqhaoq,lieiqhoqgoqeeildoqlo'qohhaaol.</p>
+  </li>
+  <li>
+    <p>Eildoqxilkaoqmeeqzavzol,goljal,colbassolneicolhhaq,halqaleilmaqbil,eildoqxilkaoqedoqkaolqiqkaolliqmaqbilavsiv.</p>
+  </li>
+</ol>

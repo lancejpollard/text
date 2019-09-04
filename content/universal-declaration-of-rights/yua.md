@@ -1,0 +1,122 @@
+<h1 align='center'>U DZAʼABAL KʼAJÓOLTBIL U NOJ AʼALMAJ TʼAANIL U NAJMAL WÍINIKOʼOB</h1>
+<h2 align='center'></h2>
+<p align='center'>Tumeen u kuxtal wíinik x‐maʼa palitzilil, u chíimpoltaʼal yetel u chaʼabal u kuxtal yóokʼol kaab ich jedz óolal, tiʼ ku taal tu chíimpoltaʼal u noʼojaʼanil kuxtal sijnal yetel wíinik bey jeʼex xan sijnal u najmalmajil keet kuxtal, mixmáak unaj u luʼsik tiʼ tuláakal u wíinikil yóokʼol kaabeʼ,
+Tumeen yóoʼlal maʼ ojeltaʼan ku beetik u mixbaʼalkuunsaʼal u najmalil u kuxtal wíinik, dzoʼok u beetik u yúuchul seen kʼaakʼas baʼaloʼob tu táan u noʼajaʼanil u tuukul wíinik; yetel tumeen dzoʼok u yaʼalaʼal u jach nojochil baʼax ku dzíiboltik wíinikeʼ, u kajtal yóokʼol kaab tuʼux kaʼa kuxlak lukʼaʼan u sajakil yetel x‐maʼa óotzilil, kaʼa béeyak u yaʼalik baʼax ku tukultik yetel u kiliʼichkuunsik jeʼe máakalmáak Yumtzilil u kʼáateʼ,
+Tumeen tun le najmal sijnal yetel wíinik jach kʼaʼabet u boʼoybesaʼal tu yáanal jumpʼéel Noj Aʼalmaj Tʼaan, u tiʼal maʼ u beetaʼal u líikʼil wíinik baʼateʼel tumeen u talamil kuxtal yetel u nuunsaʼal,
+Tumeen ku tukultaʼal xan jach kʼaʼabet u kaxantaʼal bix uchak u bisikuba maʼalob tuláakal u kaajiloʼob yóokʼol kaab,
+Tumeen k‐kʼaʼajsik tuláakal u kaajiloʼob Naciones Unidas, dzoʼok u dzíibtikoʼob u moktʼaanil u chíimpoltikoʼob le Najmal sijnal yetel wíinik, ichil u noʼojaʼanil yetel u beelal bey wíinikeʼ, beytun wa koʼolel wa xiib; yetel tumeen dzoʼok yaʼalikoʼob yaan u chúukpajal yóoloʼob u kaxantoʼob u maʼalobtal u kuxtal wíinik yetel u jóokʼsoʼob ichil óotzilil kaʼalikil u chíimpoltikoʼob u kuxtal,
+Tumeen le kaajoʼob táakaʼan dzoʼok u beetikoʼon u Mok Tʼaanil yetel Organización tiʼ Naciones Unidas, tiʼal u cíimpolaʼal bey jeʼe unaj tuláakal yóokʼol kaab le Najmal Sijnal yetel wíinikoʼ, bey jeʼex u kuxtal x‐maʼa palitzilil, yetel
+Tumeen u kʼajóoltaʼal le Najmal Sijnal yetel wíinik yetel bix uchak u kuxtal x‐maʼa palitzilil jach táanil yaan tiʼal kaʼa béeyak u dzoʼokbesaʼal le Mok Tʼaanaʼ,
+Le NOJ MOLAʼAYAʼ ku yaʼalik
+LE U NOJ AʼALMAJ TʼAANIL le Najmal Sijnal yetel wíinikaʼ, jumpʼéel baʼal jach kʼaʼabet u yilaʼal u dzoʼokbesaʼal tumeen tuláakal u kaajiloʼob yóokʼol kaab, tuʼux kaʼa táaakpajak wíinik yetle u molaʼayiloʼob, tiʼal u chʼaʼak tiʼ letiʼ u noj tuukulil yetel u kaʼansikoʼob u chíimpoltaʼal u kuxtal wíinik x‐maʼa palitzilil yetel xan u beetikoʼob tuláakal baʼax kaʼabéet tu kaajaloʼob yetel tuláakal yóokʼol kaab tuʼux kaʼa ilaʼak u chíimpoltaʼal yetel u dzoʼokbesaʼal ichil le kaajoʼob beetmajil u Moktʼaaniloʼ yetel xan ichil u méekʼtan kaajiloʼob.</p>
+<ol>
+  <li>
+    <p>TuláakalwíinikkusíijiljáalkʼabyetelkeetutsiikulyetelNajmalSijnalil,beytunxannaʼataʼansijnalilyetelnoʼojaʼanilutuukuloʼ,kʼaʼabetubisikubabeyláaktzililyeteltuláakalubaatzileʼ.</p>
+  </li>
+  <li>
+    <p>TuláakalwíinikeʼsijnalyetelleNajmaloʼobaʼbeeyxanyetelusiibalilukuxtalx‐maʼapalitzililbeyjeʼexuchʼaʼachiʼitaʼaltiʼleAʼalmajTʼaanaʼ,kextumeenjelaʼanuchʼiʼibal,uboonliluyootʼel,xiibwakoʼolel,wajelaʼanutʼaan,ukiliʼichkuunaj,utuukulwauláakʼjeʼebaʼalakeʼ,tuʼuxutaal,ukaajalwamáaxyetelkumuchʼikubáa,beykaʼajuayikʼalil,tuʼuxsíijnalwajeʼebaʼalakuláakʼbaʼalileʼ.Yeteleʼ,maʼatanupáaykuntaʼalwíinikchentumeenjelaʼanutuukul,uNajmalSijnalilwauAʼalmajTʼaanilukaajal,wauMéekʼtankaajiltuʼuxutaal,mixtumeentáanxeliltuʼuxyaanukaajal,wayaanujalaʼachoʼobwatáakaʼanichiluláakʼkaaj.</p>
+  </li>
+  <li>
+    <p>TuláakalwíinikeʼSijnaluNajmalmajilukuxtal,maʼupalitziltaʼalbeeyxanmaʼuloʼoboluwíinklalyetelukaalantaʼalukuxtal.</p>
+  </li>
+  <li>
+    <p>Mimáakunajupalitziltaʼalmixumeyajtikubaʼaluláakʼmáak;palitzililyetelukoʼonolwíiniktiʼalmeyajeʼtiʼuláakʼmáakx‐maʼaboʼolileʼwetʼaʼan.</p>
+  </li>
+  <li>
+    <p>Mixmáaktiʼunajubeetaʼalloob,mixunuumsaʼal,ukʼoʼolol,waubeetaʼaluboʼotikusiʼipilbeybaʼalcheʼemixutʼonkiintaʼal.</p>
+  </li>
+  <li>
+    <p>TuláakalmáansijnalunajmalmajiluchíimpoltaʼalukuxtalyeteludzoʼzkbesaʼalleNajmalSijnalyaniltiʼkuyaʼalaʼalteʼejNojAʼalmajTʼaanoʼoboʼ.</p>
+  </li>
+  <li>
+    <p>MixmáakjelaʼanwanojbaʼaltutáanleAʼalmajTʼaanoʼboʼ,beytunoʼtuláakalmáakuchakuboʼoybesjubatuyáanal.TuláakalmáakunajmalmajutokbesaʼaltutáanjeʼebaʼalaknuumsajilkaʼasiʼipiktutáanleTzolTʼaanaʼ,watiʼjeʼemáaxakkaʼalíikʼikyóolubeetlenuumsajoʼ.</p>
+  </li>
+  <li>
+    <p>Tuláakalmáaksijnalunajmalmajilutokbesaʼaltukúuchiltiʼibilkunahtukaajal,tuʼuxkaʼailaʼakuchíimpoltaʼalleNajmalSijnalyeteloʼyeteludzoʼokbesaʼallebaʼaxkuyaʼalaʼalteʼejAʼalmajTʼaanoʼoboʼ.</p>
+  </li>
+  <li>
+    <p>Mixmáakunajukʼaʼalalwamaʼaukáantyetelukʼamusiʼipiliʼ,mixutojolchʼintaʼaltukaajal.</p>
+  </li>
+  <li>
+    <p>Tuláakalmáakunajmalmaj,keetyeteljeʼemáaxakeʼ,uyuʼubalʼalutʼaantumeentuláakalmáak,waichtiʼibilileʼmaʼumakikuxikinmáaxjoʼolbesiktiʼbaʼaxkuyaʼalik,tiʼalkaʼajeʼedzekyetelutzunajmalmáakyetelbaʼaxkʼaʼabetubeetik,beeytunxantiʼaluchʼóochʼaʼaljeʼebaʼalaktakpoolilyaantuyóokʼoleʼ.</p>
+  </li>
+  <li>
+    <p>Tuláákalmáakkutaʼakalupooleʼunajuyáaxtukultaʼalminaʼanusiʼipilkaʼalikilmaʼaeʼesaʼakyetelwamaʼukáant,beyjeʼexuyaʼalaʼalteʼejAʼalamajTʼaanoʼoboʼ,yetelunajuxaʼakʼaltaʼalutzikbeʼeniltutáankaajtiʼalyilaʼalwayaanusiʼipilyetelxanuyilaʼalutokbesaʼaltumeenmáaxoʼobletiʼumeyaj.</p>
+    <p>Mixmáakunajudzaʼabalukuuchyetelukʼaʼalaltuyóoʼlalbaʼaxkubeetik,wabaʼamaʼatanubeetik,watukʼiinilubeetikwaupʼatikubeetikeʼmaʼawetʼaʼanwadzaʼanbeyyaanusiʼipililtumeenuAʼalmajTʼaanilukaajalwajeʼebaʼalakkaajileʼ.</p>
+  </li>
+  <li>
+    <p>Mixmáakyaanupáajtaliltiʼuyokbesikubatukuxtalmix,áak,yeteluchʼiʼibaloʼob,ichilyotochwauwachʼikjuʼunkutúuxtaʼaltiʼ,mixunuumsikukʼaabaʼyeteltsikbeʼenil.TuláakalmáaksijnalunajmatmajiluboʼoybesaʼaltumeenAʼalmajTʼaantiʼalmaʼyokbesikubámixmáaktukuxtalyetelmaʼunuumsaʼal.</p>
+  </li>
+  <li>
+    <p>Tuláakalmáakyaantiʼupáajtalilubinjeʼetuʼuxakukʼáateʼ,beeyxanujéedzelkajtaljeʼetuʼuxakkaajilichilubojméekʼtankaajaleʼ.</p>
+    <p>Tuláakalmáakyaantiʼupáajtalilujóokʼoltukaajaltiʼalubinjeʼebaʼalakkaajileʼ,beeyanusuuttukaajal.</p>
+  </li>
+  <li>
+    <p>Watáanuchʼaʼapachtaʼalwaumáanuchuʼukileʼ,tuláakalmáaksijnalunajmatmajilukʼaʼamaljeʼetuʼuxakuláakʼkaajileʼyetelmaʼaujóokʼsaʼaliʼ.</p>
+    <p>Baʼaleʼmaʼatanubéeytaluboʼoybesikmáakwatumeenjachtujaajilyaanusiʼipiltukaajal,beeyxanwawetʼaʼantumeenuAʼalmajTʼaanNacionesUnidas.</p>
+  </li>
+  <li>
+    <p>Tuláakalmáaksijnalunajmatmajilukajtaltiʼjumpʼéelkaaj.</p>
+    <p>Tiʼmixmáakuchakulukʼsaʼalukaajal,mixulukʼsaʼaltiʼupáajtalilukʼexikukaajal.</p>
+  </li>
+  <li>
+    <p>Xiiboʼobyetelkoʼoleloʼob,lekenuchukujaʼabiludzoʼokolubeeloʼobeʼ,unajmatmajoʼob,jeʼebaʼalakuchʼiʼibaloʼobeʼ,jeʼetuʼuxakukaajaloʼobeʼ,jeʼemáakalmáakkʼujilkukiliʼichkuunsikoʼobeʼ,udzoʼokolubeeloʼobtiʼalkaʼayanakukúuchkabaloʼob;yetelkeetunajmaloʼobtuyóoʼlaludzoʼokolubeeloʼob,kaʼalikildzokaʼanubeeloʼobwalekenupʼatubaʼob.</p>
+    <p>Chenyetelkaʼaudzáautʼaantukaʼatúulallemáaxukʼáatdzoʼokolubeeloʼ,uchakuyúuchulledzoʼokolbeeloʼ.</p>
+    <p>Kúuchkabaleʼletiʼuchuunyetelyáaxbixumuchʼikubawíinikkajtalbeytunoʼkʼaʼanaʼanukalaantaʼaltumeentuláakalkaajyeteltumeenjalaʼachoʼob.</p>
+  </li>
+  <li>
+    <p>Tuláakalmáaksijnalunajmatmajiluyantalbaʼalutiʼalinte,tujuunalwamúuchʼkab.</p>
+    <p>Mixmáakuchakulukʼsikbaʼalutiʼalmáak.</p>
+  </li>
+  <li>
+    <p>Tuláakalmáakyaanupáajtalilutukultikjeʼebaʼalakukʼáateʼ,jeʼebixakukʼáateʼyetelukiliʼichkuunsikjeʼemáakaláakKʼujilukʼáateʼ;beyxanukʼexikukiliʼichkuunajwautuukuljeʼebaʼalakkʼiinukʼáateʼ,beytunxanudzáakojeltbilukiliʼichkuunajyetelbaʼaxkutukultik,tujuunalwamúuchʼkab,beytuntutáankaajwatujuunal,tiʼalukanik,utáakpajalwaudzoʼokbesik.</p>
+  </li>
+  <li>
+    <p>Tuláakalmáakyaantiʼupáajtalilutukultikyeteluyaʼaliklebaʼaxukʼáateʼ;lenajmalaʼkuyaʼalikmaʼuchiʼichnak‐kuunsaʼalmáakchentuyóoʼlalbixutuukul,beytunuxakʼalkaxantikbaʼaxkʼaʼabetuyojeltik,ukʼamiknuʼuktajyeteludzáakkʼajóoltbiltiʼtuláakalyóokʼolkaabyeteljeʼebaʼalakwajeʼebixakkupáajtaleʼ.</p>
+  </li>
+  <li>
+    <p>Tuláakalmáaksijnalyetelupáajtalilumuchʼikubayetelunupikubayeteljeʼemáaxakkaʼalikilmaʼatanubeetikkʼaastiʼmixmáakyeteleʼ.</p>
+    <p>Mixmáakunajubeetaʼalutáakpajaltiʼmixbaʼalyetelunuchʼikubayetelmixmáakwamaʼukʼáatiʼ.</p>
+  </li>
+  <li>
+    <p>Tiʼtuláakalmáakyaanupáajtalilutáakpajalichilujalaʼachilukaajal,waletiʼkaʼaubeetujalaʼachilwakaʼatáakpajaktiʼalpáaykunsaʼalujalaʼchil.</p>
+    <p>Tuláakalmáaksijnalunajmatmajilutáakpajal,beyjeʼemáaxak,ichilumayejjalaʼach.</p>
+    <p>Unijjalaʼachiljumpʼéelkaajeʼukajnáaliloʼob;beytunoʼletiʼobkʼaʼabetupáaybesikujalaʼachoʼoblekenkʼuchuktukʼiinil,tuʼuxtuláakalmáakunajutukultiktujuunalmáaxukʼáatudzáajalaʼachil.</p>
+  </li>
+  <li>
+    <p>Tuláakalmáak,tumeentáakaʼanichiljumpʼéelkaajeʼ,sijnalunajmatmajilukaalantaʼal,yeteludzaʼabaʼaltiʼ,tumeenukaajalyeteluyáantiajuláakʼkaajoʼobtuyóokʼolkaabeʼ,lebaʼaxkʼaʼabettiʼtiʼalukuxtaleʼ,tiʼalubéeytalukuxtaltiʼjumpʼéelkkajyeteluyeʼesikuchíikulukuxtal,beyjeʼexkukʼaʼabetkuunsikutsikbeʼenilyetelunoʼojaʼanilukuxtaleʼ.</p>
+  </li>
+  <li>
+    <p>tuláakalmáaksijnalunajmatmajiludzaʼabalmeyajtiʼ,utéetikbaʼameyajilukʼáatubeetbeyjeʼemáaxakeʼ,kaʼakuxlakyetelumeyajmyetelukaalaantaʼalmaʼulukʼsaʼalmeyajitiʼ.</p>
+    <p>Tuláakalmáaksijnalunajmatmajilunáajalbeyjeʼexunáajaljeʼemáaxakkubeetikjumpʼéelmeyajbeyjeʼexlekubeetikoʼ.</p>
+    <p>Tuláakalmáakkuneyajeʼsijnalunajmatmajiluboʼotaʼallebeykaʼajkuboʼotaʼaluláakʼmáaxoʼobbeetiklemayajkubeetikoʼ,uchakunáajaltiknonojutiʼalukuxtalmaʼalobyetelkúuchkabal,kaʼadzaʼabaktiʼlebeykaʼajkʼaʼabettiʼalumaʼalobkuxtalbeyjeʼexkʼaʼanaʼantiʼutzikbeʼenilwíinikeʼ,yetelwamaʼatanunáajaltiktupʼiiseʼ,unajuchúukbesaʼaltiʼtumeenjalaʼach.</p>
+    <p>Tiʼtuláakalmáakyaanupáajtalilumuchʼikubáawautáakpajalichilmúuchʼkabaloʼobtiʼalutokbesaʼalunajmal.</p>
+  </li>
+  <li>
+    <p>Tuláakalmáakunajmatmajiluchaʼabalujeʼelel,maʼumeyajwajaypʼéelkʼiin,maʼumáantiʼbulkʼiinumeyajyeteluboʼotaʼalujeʼelelwajaypʼéelkʼiinkexmaʼatanumeyaj.</p>
+  </li>
+  <li>
+    <p>Tuláakalmáaksijnalunajmatmajilukuxtalmaʼalobpaʼteʼyetelukúuchkabal,beeyxankaʼanyanakutojóolal,kaʼakuxlakoʼobtuʼuxkaʼatáanilkuunsaʼakuyantalujanaloʼob,unookʼoʼob,uyotochoʼob,dzáakyeteltuláakalbaʼaxkʼaʼabettiʼaljumpʼéelmaʼalobkuxtal;sijnalxanunajmatmilwakupʼáatalminaʼanmeyajtiʼ,wakukʼojaʼantal,kuyúuchulloobtiʼ,kukíimilyíicham,kuchʼíijilwajeʼebaʼalakláakkaʼalukʼestiʼkexmaʼukáatbaʼaxtuʼuxkukaxtikukuxtaleʼ.</p>
+    <p>X‐yoʼomkoʼolelyetelmejenpaalaleʼsijnalunajmatmajilukalaantaʼaloʼobmaʼalob.Tuláakalmejenpaalalsíijiltiʼkoʼoleldzokaʼanwamaʼdzokaʼanubeeleʼ,unajmalamjukalaantaʼaltumeenkaajyeteluyáantaʼallíikʼilmaʼalobtumeenjalaʼach.</p>
+  </li>
+  <li>
+    <p>Tuláalakmáaksijnalunajmatmajilukaambal.Leyáaxkaambaloʼoboʼkʼanaʼanmaʼutojoltik.Leyáaxkaambaloʼoboʼtuláakalmáaktzaajukʼamik.Ukaambaliljumpʼéelmeyajeʼtuláakalmáakxanunajukʼamik;baʼaleʼteʼelaʼuchakutáakpajallemáaxyaanumuukʼileʼ.</p>
+    <p>Lekaambaloʼuchakukaxtikumuʼukʼaʼankuunsikutsikbeʼenilmáakyetelubeetikuchíimpoltaʼaltumeentuláakalmáaklenajmalsijnalyetelwíinikoʼbeyjeʼexleaʼalmajtʼaanoʼoboʼ;unajuyáantajtiʼalunaʼatikubawíinik,ubisikubamaʼalobméekʼtankaajoʼob,kaajoʼob,múuchʼkiliʼichkuunsajoʼob;yetelunajuyáantajtiʼumeyajNacionesUnidastiʼalukuxtalkaajoʼobyeteljedzóolal.</p>
+    <p>Táatatziloʼobeʼuchakutéetikoʼobbaʼaxukʼáatoʼobkaukanupaaloʼob.</p>
+  </li>
+  <li>
+    <p>Tuláakalmáaksijnalunajmatmajilutáakpajaltutʼaanyóolajichiluchíikulukuxtalukaajal,unáaysikyóolyeteljadzutzmeyajoʼob,utáakpajalyetelukʼamikyutzillexakʼalnaʼatoʼoboʼ.</p>
+    <p>Tuláakalmáaksijnalunajmatmajiluboʼoybesaʼalunoʼojaʼanilukuxtal,baʼalutiʼal,umeyajtiʼxakʼalnaʼat,uikʼildzíibwajeʼebaʼalakkaʼaumeyajteʼ.</p>
+  </li>
+  <li>
+    <p>TuláakalmáaksijnalunajmatmajiluyantalunuʼukbesajiltukaajalwatuláakalyóokʼolkaabtiʼaludzaʼabalkʼajóoltbilyeteludzoʼokbesaʼalleNuʼuktajtʼaanaʼ.</p>
+  </li>
+  <li>
+    <p>Tuláakalmáakyaanukuchuchilukaajaltumeenchenjaʼaliichilukaajaluchakubéeytaludzoʼokbesikutsikbeʼenileʼ.</p>
+    <p>Ikiludzoʼokbesikunajmalyetelukuxtalichillenuʼuktajoʼobaʼ,tuláakalmáakeʼchenuchakuchíimpoltikyetelmaʼuxaakʼabtikuxuulutʼaanleAʼalmajTʼaanoʼobtuyóoʼlaluláakʼmáakoʼoboʼ,yeteludzoʼokbesaʼalunoʼojaʼanilkuxtal,uchíimpoltaʼalwíinikyetelukeetyantalutojóolalkaaj.</p>
+    <p>LeNajmaloʼobyetelunoʼojaʼanilkuxtalaʼmaʼatanubéeytaludzoʼokbesaʼalwamaʼatanuchíimpoltaʼaluNuʼuktajyeteluAʼalmajTʼaanNacionesUnidas.</p>
+  </li>
+  <li>
+    <p>MixbaíaltiʼleNuʼuktajuchakuchʼaʼabaltumeenjalaʼach,junmúuchʼmáakwajuntúulmáaktiʼalubeetikmixbaʼaltiʼaluweʼetʼelwamaʼudzoʼokbesaʼalleNuʼuktajoʼobyetelAʼalmajTʼaannoʼobkudzaʼabalkʼajóoltbiltiʼleNuʼuktajaʼ.</p>
+  </li>
+</ol>

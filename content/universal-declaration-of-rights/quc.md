@@ -1,0 +1,121 @@
+<h1 align='center'>UQ'ALAJISAXIK PA RONOJEL UWACHULEW RI YA'TALIK KAB'AN PA RI K'ASLEMAL</h1>
+<h2 align='center'></h2>
+<p align='center'>Rumal che ri uchokonsab'exik ri ya'talik kab'anik, ri uq'atoj tzij q'atb'altzij, xuqe ri ja'maril pa ronojel we uwachulew, ruk'am uq'ab'ib'al, kuq'alajisaj ronojel uwach ri ya'talik chi pa junamam kaqab'an pa ri qak'aslemal qonojel.
+Rumal che ri man qas ta eta'matalik, etzelam uwach xuq man k'amo'wan ta we kuq'alajisaj chqawach ronojel ri ya'talik kab'an pa we k'aslemal; xuqe' are wa' we no'jib'al b'anownaq k'ax chqech xuq oj tzaqownaq pa ri qak'aslemal, oj uxinom are chi na qonojel taj kaqechab'ej we utzil kariqitaj pa we uwachulew.
+Rumal che ri sib'alaj rajawaxik chi ronojel wa' we ruk'a'm we kaya uch'ob'ik, kuk'a'xik, kachajix rumal jun q'atb'altzij, are chi na kojtzaq ta pa taq ri k'axk'olil.
+Rumal che ri xuqe' nimalaj rajawaxik chi kak'oji' ch'ab'en ib' chkixo'l konojel taq ri tinamit ri keriqitaj pa we uwachulew.
+Rumal che ri e tinamit pa we uwachulew kik'amo'wan kiq'alajisam pa ri nim raqanib'al wuj, ronojel uwach ri ya'talik kab'anik, xuqe ri ub'anatajik ucholajik uk'a'naq jun winaq. Chila' k'ut q'alajisam wi, chi junam ub'antajik junam reqele'n ri achi ruk' ri ixoq, xuqe' chila' q'alajisam wi, chi utz we kachomax pa junamam jas kab'anik xuqe' are chi pa junamam kawa'lij qawach, xuq kaqariq qa'utzwachil.
+Rumal che ri e tinamit e tob'anelab' ruk' le e jumalaj nimalaj tinamit e nuk'maninaq pa we uwachulew, kib'im, kiq'alajisam chi kakichajij, kakilawachij, are chi ronojel we ya'talik kab'anik, utz we kak'amo'waxik, kaya uq'ij pa ronojel uwachulew, ma are k'u wa' katikowik chi man kakaetzelaj ta kib' ri winaq pa ri kik'aslemal.
+Rumal che ri ronojel uwach we utzil y'atal chqech, nimalaj rajawaxik kaq'alajisaxik, xuq kab'an uchokonsab'exik jasa je ri kataqan wi.
+Rumal k'u wa' ri uk'iyal winaq e chatal kumal taq ri kitinamit pa junaman, pa ri nimalaj riqoj ib' xb'antajik, xkitikirisaj, xkinawalijsaj, xkiq'alajisaj la ri jun nimalaj wuj ub'ina'am "Uqalajisaxik pa ronojel uwachulew ri ya'talik kab'an pa ri k'aslemal". Chupam we wuj kariqitaj wi ronojel uwachi ri utzil, rumal k'u ne lo ri' konojel ri nimaq taq tinamit, alaj taq tinamit xa ta apawije' keriqitaj wi, rajawaxik kakiya ri kitob'anik che uq'alajisaxik jachke ri ub'e'lal ucholajil we taqanik ri', are chi konojel ri winaq we kimulajim kib'; we ne' xaq chkijujunal kaketa'maj wa'; are k'u chi' utz kaq'alajisax we ne' pa taq ri tijob'al, nimaq taq tijob'al, xa apawije' kab'an wi ri uk'utunsaxik, kaya uch'ob'ik ri nima'q ch'uti'n ruk'a'm we wuj xa jeri' we utzwachil kaya'taj chqech chi nimalaj qonojel pa we uwachulew, ma ta k'o jun ri ma ta chreta'maj we ucholajil we xtikirsaxik; are k'u taq ub'elal, ucholajil:</p>
+<ol>
+  <li>
+    <p>Konojelriwinaqaretaqke'alaxikpajunamanya'talchkechkakechab'ejronojelriutzil;utzkakib'ano,kakichomaj,kakib'ijjasaje'rik'opakanima,rumalcherijunamkib'antajik.Rajawaxikxuqe'kakimulijkib'cheutzukuxukriloq'ob'alpaweuwachulew.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchechkuk'amo'waj,karechab'ejkuchokonsab'ejronojelweq'alajisampawetaqanik;pinetanejaskaka'yik,kachomanik,kano'jinik,xataapawije'utinamit,weq'inom,wemeb'a',qonojelxaqjunamriqab'antajikpaweuwachulew.Xataapawike'utinamitriachi,riixoq,xaqjunamkiwachjachakub'ijwetaqanik,janerumalri'utzwekakitoq'alakib'ruk'rikinimal,kik'amalb'echeutzukuxikcheuchokonsab'exikriya'talpaqawi'.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqaretaqkalaxpaweuwachulew,ya'talchechkuriqutzwachilparonojeluk'aslemal,ya'talchechkub'anojachketaqriutzkab'anik;xuquje'ya'talchechkachajixik,ka'ilixpariuk'aslemalrumaltaqriq'atb'altzij.</p>
+  </li>
+  <li>
+    <p>Majjunwinaqya'taltachechkab'ank'axchech,xuqkupatanijtanejunchikwinaqwemankayatatojb'alrech.</p>
+  </li>
+  <li>
+    <p>Majjunwinaqya'taltachechkoksaxchwarinimaqtaqch'ay,cherimanrechtawinaq,jachane'wekarapaxik.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqxataneapawije'kariqitajwi,ya'talchechchikaya'ikxuqketa'maxriunimaluq'ijya'omchechrumalriq'atb'altzij.</p>
+  </li>
+  <li>
+    <p>Ronojelkiwachriewinaqxaqejunamchwariq'atb'altzij,mank'otajunarekayanimuq'ij;xajeri'junamrichajinik,tob'anik,kayapakiwi'rumalriq'atb'altzij;xuqmanutztajwexatajunketzelaxuwach.</p>
+  </li>
+  <li>
+    <p>Ronojelchiwinaqya'talchechkuto'rib'wekab'ank'axchechkumalnik'ajchik,arek'uuchakriq'atb'altzijkatob'anikaretaqkab'antzujunemchwachjachatz'ib'atalpariwujretaqanikrechriamaq'siwantinamit.</p>
+  </li>
+  <li>
+    <p>Majjunwinaqya'taltachechxaqk'ate'kachapatajik,xuqkokisaxpache'wemajumakub'anom;xuqekelesaxik,xuqkoqataxb'ichupampariutinamit.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchechkatatab'exikjasaje'rikarajkuyauch'ob'ik;xuqekatob'anriq'atb'altzijruk'xajeri'junamriq'atojtzijkaq'atpakiwi'.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqaretaqya'ompuq'ab'q'atb'altzij,utzkuto'rib'wekuna'ochimanaretajajmak,xuqeriq'atb'altzijutzkuyariutob'anikchechriwinaqwemankaq'alajintajchiqasareajmak.</p>
+    <p>Majjunwinaqkaqasatajtapak'axwemanqasruk'uchomanikxub'anrimakaj,xuqewemankab'antauq'alajsaxikchiqasareb'analrech.</p>
+  </li>
+  <li>
+    <p>Majjunwinaqya'taltachechkab'anjalumtzij,q'ab'amtzijpariuk'aslemal,parirachoch;xuqkajelk'atixtanerijastaqrech.Xuqe'manya'taltajkakichik,kayoq'ik;arek'uwejewa'kuk'ulmajrajawaxikkuyautob'anikriq'atb'altzijchech.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchechapawije'kab'ewi,xuqe'kutzukujjawikuyawirirachochuk'olib'alparulewalriutinamit.</p>
+    <p>Ronojelwinaqya'talchechkelb'iparirulewalutinamit,xataneapawije'petinaqwi,xuqekopanchipariutinamitaretaqwekaq'i'tajikxuqwejeri'kapepariuchomanik.</p>
+  </li>
+  <li>
+    <p>Aretaqwejunwinaqkaterne'xik,katzukuxikaretaqmajumak,ya'talchechke'uto'orib',ke'uto'oriuk'aslemalpajunchiktinamitjawinak'urikak'ulaxwi.</p>
+    <p>Wa'wejuntob'anikkayachechnakuq'attatzijpwi'wexaalajriumakjachatz'ib'atalparijunwujchikkib'anom,kiwokomrinik'ajmulajtaqtinamit.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchech,kub'anriuk'aslemalparulewalriutinamit,xuqarekab'i'naxchechab'iritinamitjawirialaxinaqwi.</p>
+    <p>Majjunwinaqya'taltachechkelesaxb'ikxuqkamajriuk'olib'alutikirsam,xuqe'xaqtamek'ate'kab'anchechchikuk'exriutinamit,wenak'otapariub'e'lalucholajil.</p>
+  </li>
+  <li>
+    <p>Riachijab',riixoqib'aretaqke'opanparikijunab'il,ya'talchkechkakichomajkek'uli'kwearejeri'kapeparikichomanik;arek'uweejuk'ulajwinaqchik,ya'talchkechpajunamanke'ilik,pajunamankechakunikxuqpajunamamkakilij,kakitzukujrikimeb'a'il.Lejachojib'karajne'ya'talikwejeri'ke'ek'ulmatajoq.</p>
+    <p>Aretaqkakichomajuloqrik'ulanem,rajawaxikpajunamanxuqruk'ronojelkik'u'xkakik'amkib'.</p>
+    <p>Rijunupajachiwinaqarewa'enuk'maninaqariwokaj,chi'lritinamit;xajeri'rajawaxikketo'kumalrienik'ajchikwinaqek'opariwokaj,chi'lritinamit.</p>
+  </li>
+  <li>
+    <p>Ronojelchiwinaqya'talchechkub'ano,kutzukujriumeb'a'ilputukelamxuqepajunamam.</p>
+    <p>Majjunya'taltachechcherikelesaxikxuqkamajtariumeb'a'ilutikirsamruk'uchoq'ab'.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchechkub'anronojeluwachjachkenak'urikumajab'ejchwach;utzkub'ij,kuq'alajisajjachkerik'opariuchomanik,xuqe'kutzukuj,kucha'ojachkeriukojonikkumajab'ejchwach.Ya'talxuqchechkuchokonsab'ej,kuk'utunsajjachkeri'riukojb'al.Kuq'alajisajchkiwachnik'ajwinaqchikwejeri'kapepariuchomanikxataapawije'kariqitajwi.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchechkub'ij,kuq'alajisajjasajek'opariuchomanik,ronojeljasajerikuto,karilo;xuqmanya'taltak'utchiketzelaxrumalriuchomanikkuya'o;ya'talxuqchechkusoluxe',kareta'majjachkerikarajjeri'kub'anchech,lajek'utpinetanek'ate'riaretaqwa'kuyachinaub'ixik,uq'alajisaxikxataapawije'karajkub'anwi.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchechkak'oji'kuk'riwinaqkakimulijkib'wekub'anjunamrikichomanik,wepajunamamkakib'anoxuqkakichomajrijunto'b'alkech.</p>
+    <p>Majjunwinaqya'taltachechkataqchi'xikkuk'amuq'ab'kak'oji'pajunriqojib'wemankumajab'ejtachwach.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchechkachapik,kak'aqrijcheuq'axexikjuneqele'npaleq'atb'altzijpariutinamitwekakowinchechka'ilitajik,xuqkutzukujjachinrikuk'aqrijchechwa'weeqele'n.</p>
+    <p>Ronojelwinaqaretaqkopanparijachkeeqele'n,ya'talchechjunamke'ilruk'leenik'ajchikeq'ataltzij.</p>
+    <p>Areriurayib'alkik'u'xriwinaqkakiya'o,rumalri'ke'opanriwinaqpataqriq'atb'altzijmakakicharuk'ronojelkanimajachinrikakajke'ilowik,kechomanik.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqjachanak'utchijuncheunuk'mayixikriwokaj,tinamit,parik'olb'alk'owi;ya'talchechkachajixikkumalriechajinelab'rechq'atb'altzij,xuqya'talchechkawa'lijuwachruk'riutob'anikriq'atb'altzij,chwirijachkerajawaxikpariuk'aslemal.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchechkachakunik,xuqutzkucha'nariuchakkrajkub'ano;xuqe'k'utxaqjunamka'ilchwachlemajuchak.</p>
+    <p>Ronojelwinaqya'talchechjunamleutojb'alilkaya'ik,chwachjunchikcherixaqjunamuwachkakichakuj.</p>
+    <p>Ronojelwinaqrikachakunikya'talchechcheriutojb'alilkaya'ik,kakowinikkukajmajriurajawaxikparirachochuk'olib'al;wek'umankatojtaneruk'pwaqutzkayaujastaqrikachoxonchech,cherikajunamatajruk'leutojb'alil.</p>
+    <p>Ronojelwinaqya'talchechkak'oji'parimolojib'kab'anik,rumaluchomaxik,uchajixikjachketaqriutzilrajawaxikparikik'aslemal.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talriuxlanemchech,ronojeluwachtaqriuxlanemya'talcheriajchakkarajne'utojb'alilriuchoq'ab'usachomrumalutzukuxikrirajawaxikpariuk'aslemal.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchechkak'oji'junelikutzalajk'aslemalruk',xuqechkechkonojelrieuparo'ch;ya'talikkak'oji'utzwachilchkixo'l,chwirikutijo,karatz'yaqib'ej;kak'oji'parirachoch,rajawaxikka'ilixikkakunaxkumaltaqlekunanelab',kato'ikwenatz'aqattacheriuchomanik,kato'ikpwiriyab'ilal,ri'job'ik,xuqwemajuchak.Xuqlaje'wene'kuriqjunnimalajk'eyowalcherimajchinab'exkil.</p>
+    <p>Rieyawab'taqixoqib',rieak'alab'ya'talchkechke'ilixik,kekajmaxikkumalriekunanelab'rechq'atb'altzij.Ronojelriak'alch'ob'oluk'olikpaweuwachulewya'talchechjunamrilikukajmaxikkab'anruk'lemanch'ob'oltauk'olikpaweuwachulew.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchechkayarik'utb'aleta'mab'alchwach;rieta'mab'alkuyariq'atab'altzijmantojtaltajrumalk'uri'sib'alajrajawaxikchkechriwinaq.Xaqxewtojomrijuneta'manikriqaskuk'iysajuwachrik'aslemal.Konojelesik'italcheuk'amaniktaqrieta'manik,k'onik'ajnimaqeta'manikpataqrinimaqtaqtijob'al,xuqe'wa'ua'talikkak'amo'waxik.</p>
+    <p>Rik'utb'aleta'mab'alketa'maxikkujaqriub'e'alarechikariqitajjunutzalajk'aslemalxuqeunimarsaxikuwa'lijsaxikriya'talikkab'anik,ronojelk'uwa'kayo'wriloq'ob'alib'chkixo'lriwinaqpataqronojeltinamit,xataneapawije'petinaqwijun,xataneapachikeri'jalil,ukojb'al,arek'uwa'kayo'wrijamarilparonojeluwachulew.</p>
+    <p>Ya'talchkechrietatnan,kakitzukuj,kakicha'jachkerik'utb'aleta'mab'alkakjkayachkechriekalk'u'al.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchechkub'ano,kuq'alajisajriuno'jib'alpariuwokajjachkenak'ureta'mamuloqpariunich'al,xuqe'k'utya'talchechkatob'ancheuwa'lijsaxikuwachriuwokajarechikariqitajriutzwachilpajunamam.</p>
+    <p>Ronojelwinaqya'talchechkachajixikxuqkayauq'ijjachkenak'utaqriuno'jib'alutikirsamuloq,jachariuchakxuqriumeb'a'il,reta'mab'al,ronojelwa'nimupatancheuwa'lijsaxikuwachpariuwokajxuqepariutinamit.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchechkub'anutayikkuch'o'jijchipariutinamitkab'antaqrichomanikarechironojelwetz'ib'atalwarlchb'antab'auchakub'exikjasajerikataqanwi,matab'ak'ojunkeb'rikak'exowriub'e'lal,ucholajil.</p>
+  </li>
+  <li>
+    <p>Ronojelwinaqya'talchechkuyariuchuq'ab',katob'anikkachakuncheuwa'lijsaxikuwachriuwokaj,utinamitmachla'nak'utriya'talwikuk'utunsaj,kusipajronojeluwachrireta'mab'alarechixajeri'katob'ancheuyakikkiwachriuwinaqil.</p>
+    <p>Ronojelk'uwa'weya'talikkab'anik,ya'talwa'kab'anikwexuqk'opariub'e'lal,ucholajil,usuk'malchwariq'atb'altzij,arechimantzeltaka'ilitajkumalenik'ajchikwinaq,tinamitne';mawenaqastaarekab'anritaqanikkarajnek'ouch'ojilchwariwokaj,chwariq'atb'altzij;xajeri'kayakatajuch'o'jixik.</p>
+    <p>Ronojelwa'weutzilya'talikkab'anikxuqmankuyatajkak'exriub'elal,ucholajil,utzijob'eliljachkenak'utaqriuchomab'altzib'atalik.</p>
+  </li>
+  <li>
+    <p>Matab'ak'ojupajkapajtzijq'alajsamwaral,cherichuq'ab'ajtarib'riq'atb'altzijchrij,xuqjumulajwinaqtane',xuqjunwinaqtane'putukelam,cheub'anikjunjasachchkiwachnik'ajwinaqchik,xanearekab'anik,kachakuxikjasajeriq'alajsamya'omuch'ob'ikpaweloq'olajtaqanikarechiqonojelkaqariqjunutzalajk'aslemalparonojelweuwachulew.</p>
+  </li>
+</ol>

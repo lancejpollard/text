@@ -1,0 +1,121 @@
+<h1 align='center'>Danezana gerdûnî ya mafên mirov</h1>
+<h2 align='center'>Dîbaçe</h2>
+<p align='center'>Herwekî nasîna weqara pêgirê hemû endamên malbata mirovî û mafên wan ên wekhev û (jênager) bingehe azadî, dad û aşitiya cihanê pêk tîne,
+Herwekî nenasîn û piçûkdîtina mafên mirov rê dan barbar ku wijdana mirovhiyê didin isyanê û avakirina cihaneke ku tê de ewê heyinên mirovî di peyivîn û bawerkirinê de serbest bin, ji xof û belengaziyê rizgar bin wek xweziya bilindtirîn a mirov hate îlan kirin,
+Herweki bingehî ye ku mafên mirov ji alî rejîmeke hiqûqî bên parastin ji bo ku mirov mecbûr nemîne, wek çara dawîn, li dijî zorkarî û zulmê rabe,
+Herkekî teşwîqa pêşvebirina peywendiyên dostaniyê di navbera neteweyan de bingehî ye,
+Herwekî gelên Neteweyen Yekbûyî di Destûrê de ji nû ve baweriya xwe ya bi mafên bingehî yên mirov, di nav weqar û rûmeta kesê mirovî de û di wekheviya mafên mêr û jinan de, dane zanîn û diyar kirin ku ew biryardar in ku arîkarî bidin pêşveçûna çivakî û bicihkirina mecalên çêtir ên jiyanê di nav serbestiyeke mestir de,
+Herwekî dewletên endam qewl dane, ku bi hevkariya Teşkîlata Neteweyên Yekbûyî, riayeta gerdûnî û fiîlî ya mafên mirovî û azadiyên bingehî ewle bikin,
+Herwekî têgihiştineke hevbeş a van maf û azadiyan ji bo bi temamî bicîhanîna vê teahudê ji giringiya bilindtirîn e, Civîna Gelemperî vê Danezana Gerdûnî ya Mafên Mirovî
+wekî îdeala hevbeş a ku hemû gel û hemû netewe dixwazin bighênê ji bo ku hemû kes û hemû organên civakê, ev Danezan timî di bîr de, bi hînkirin û hêvotinê bixebitin ku riayeta van maf û azadiyan pêşve bibin û bi tedbîrên berebereyî yên neteweyî û navneteweyî, nasîn û bicihanîna gerdûnî û fiîlî yên wan him di nav gelên dewletên endam bi xwe him di nav yên erdên ku li jêr hukmê wan de ne ewle bikin.</p>
+<ol>
+  <li>
+    <p>Hemûmirovazadûdiweqarûmafandewekhevtêndinyayê.Ewxwedîhişûşuûrinûdivêlihemberhevbizihniyetekebratiyêbilivin.</p>
+  </li>
+  <li>
+    <p>Heryek,bêtucihêyî,nemazeyanijad,reng,zayend(cisn),ziman,ol,ramanasiyasîanherramanadin,eslêneteweyîancivakî,serwet,zayînanherrewşekedin,xwediyêhemûmafûhemûazadiyênkudivêDanezanêdehatinedaxuyankirîye.Biserde,ewêtucihêyîneyêkirinjiberstatuyasiyasî,hiqûqîannavneteweyîyawelatanerdêkukesekjêtê,hekeevwelatanerdserbixwe,lijêrdest,nexweser(otonom)anlijêrhertahdîdadinaserweriyêbeanna.</p>
+  </li>
+  <li>
+    <p>Herkesxwedîmafêjiyan,azadîûewleyiyaşexsêxweye.</p>
+  </li>
+  <li>
+    <p>Ewêtukesdikoletîanbindestiyêdeneyêgirtin;koletîûbazirganiyakoleyanbihemûteşeyênxweveqedexene.</p>
+  </li>
+  <li>
+    <p>Ewêtukesnebetabiêşkenceancezaûmuameleyênhov,namirovîanxirabker.</p>
+  </li>
+  <li>
+    <p>Herkesxwediyêmafênasînalihemûciyanaşexsiyetaxweyahiqûyîye.</p>
+  </li>
+  <li>
+    <p>Hemûmirovliberqanûnanwekhevinûbêciheyîxwediyêmafêparastinekewekhevaqanûnin.HemûmirovlihemberîhercihêtiyakuvêDanezanêihlaldikeûlihemberîhernavtêdanacihêtiyekewiloxwediyêmafêparastinekewekhevin.</p>
+  </li>
+  <li>
+    <p>Herkesmafheyekulihemberîkirinênkumafênbingehîyênkuqanûnabingehîanqanûnjêredinasinihlaldikin,serîlimehkemeyênneteweyîyênselahiyetdarbixe.</p>
+  </li>
+  <li>
+    <p>Tukesnikarebiawayekîkêfîbêgirtin,hebsansirgûnkirin.</p>
+  </li>
+  <li>
+    <p>Herkes,diwekheviyeketemamîde,mafheyekudozawîlibermehkemeyekeserbixweûbêalîbiawayekîadilûeşkerebêbihîstinjibodiyarkirinamafûwacibênwîûyahertawanacurmîlidijîwî.</p>
+  </li>
+  <li>
+    <p>Herkesêkubikirinekecurmîtêtawanbarkirinbêrîtêhesibîntakusûcêwîdimehkemeyekeşkere,kuhemûgarantiyênjiboparastinawîpêwistewlekiribe,biawayekîqanûnîwereîsbatkirin.</p>
+    <p>Tukesnayêcezakirinjiberkirinannekirinênkudigavapêkhatinaxwedeligoraqanûnaneteweyîannavneteweyînesûcbûne.</p>
+  </li>
+  <li>
+    <p>Nabekutukesbibeamancatêkilbûnênkêfîyênnavjiyanawîyaarizî,malbatawî,malawîannameyênwî,anziyangihandinaşerefûşanawî.Herkesxwediyêmafêparastinaqanûnelihemberîtêkilbûnûziyangihanênwilo.</p>
+  </li>
+  <li>
+    <p>Mafêherkesîheyekudinavtixûbêndewletekêdebiserbestîhatûçûnêbikeûcihêmayînaxwebibijêre.</p>
+    <p>Herkesmafheyekujiherwelatî,yêwîbixwejîtêde,derkeveûvegerewelatêxwe.</p>
+  </li>
+  <li>
+    <p>Herkesmafheyejiberzordestiyêliwelatêndindaxwazapenahêbikeûbibepenabêr.</p>
+    <p>EvmafnikarebêxwastinjibotaqîbatênbirastîjibersûcekeadîanjiberkirinêndijîamancûbingehênNeteweyênYekbûyî.</p>
+  </li>
+  <li>
+    <p>Herkesmafheyebibexwediyênetewahiyekê(miliyetekê).</p>
+    <p>Tukesnikarebiawayekîkêfînejinetewahiyaxwenejîjimafênetewahîguhartinêbêtebêparkirin.</p>
+  </li>
+  <li>
+    <p>Jitemenê(emrê)balixiyêpêve,mêrûjin,bêtutahdîdênjibernijad,netewahîanolê,mafhenekuhevmehrbikinûmalbatekdeynin.Lihemberîzewacê,didomahiyêzewacêûdidemaberdanêdeewxwedîmafênwekhevin.</p>
+    <p>Mehrtenêbierêkirinaserbestûtemamîyajinûmêrdikarebêtebirrîn.</p>
+    <p>Malbathêmanaxwezayîûbingehîyacivakêyeûxwedîmafekujialîcivakûdewletêvebêteparastin.</p>
+  </li>
+  <li>
+    <p>Herkesmafheyekubiserêxweantevîkesêndinbibexwedîmulk.</p>
+    <p>Tukesnikarebiawayekîkêfîjimulkêxwebêtebêparkirin.</p>
+  </li>
+  <li>
+    <p>Herkesmafêazadiyafikr,wijdanûolêheye;azadiyaolanbawerîguhartinûazadiyaolûbaweriyaxwebitenêanbihevrehimeşkerehimarizî,bihînkirin,emel,îbadetûbicihanînaayînannîşandanêjîdinavvîmafîdene.</p>
+  </li>
+  <li>
+    <p>Herkesmafêazadiyafikrûîfadeheye;mafêjiberramanênxwenehatinêşandinûherwehamafêbêînasînatusînoranûbihercurenavgînanliagahdariyanûfikrangerîn,wanbidestxistinûîfadeûbelavkirindikevinnavvîmafî.</p>
+  </li>
+  <li>
+    <p>Herkesmafêazadiyaaramanecivînûkomelêdanînêheye.</p>
+    <p>Tukesnikarebêtemecbûrkirinkubibeendamêkomeleyekê.</p>
+  </li>
+  <li>
+    <p>Mafêherkesîheyekurasterastanjîbiriyanemînendeyênxweyênbiserbestîhelbijartîdihukûmetawelatêxwedebeşdarbibe.</p>
+    <p>Herkesmafheyekudimercênwekheviyêdejixizmetêngiştîyênwelatêxwekelk(istifade)bigire.</p>
+    <p>Viyana(îradeya)gelbingehêotorîteyahukûmetêye;divêkuevviyanxwedihelbijartinêndurustênkudidemêndewrîde,birayagerdûnî,wekhevûdengdanadizîanligoraawayekehevrûmetakuazadiyadengdanêewlebike,xwediyarke.</p>
+  </li>
+  <li>
+    <p>Herkes,wekîendamêcivakî,mafêewleyiyasosyalheye;Ewmafdarekubiriyaxebataneteweyîûhevkariyanavneteweyîûligoratenzîmûhatiniyênherdewletê,dozabidestxistinamafênaborî,civakîûçandîyênkujoboweqarawîûgeşbûnaserbestaşexsiyetawîferzin,bike.</p>
+  </li>
+  <li>
+    <p>Herkesmafêxebatê,serbestbijartinaxebataxwe,şertênadilûmusaîdênxebatêûparastinalidijîbêkariyêheye.</p>
+    <p>Herkes,bêîtucihêyî,mafheyekujiboxebatekewekhevheqekwekhevbistîne.</p>
+    <p>Herkesêkudixebitemafêmeaşekadilûtêrkerêkudikaribejiwîûjimalbatawîrejiyanekeşayanêweqaramirovîewlebikeûhekepêwîstbebiîmkanêndinênparastinasosyalbêtemamkirin,heye.</p>
+    <p>Herkesmafheyekujiboparastinamenfaetênxwesendîkadeyneûbikevenavsendîkan.</p>
+  </li>
+  <li>
+    <p>Herkesmafêbihndan(istirahet)ûdemênserbestûnemazetahdîdekemaqûlademaxebatêûtatîlêndewrîyênbimeaşheye.</p>
+  </li>
+  <li>
+    <p>Herkesmafêsewiyekejiyanêkutêraewlekirinasaxîûrehetiyawîûyamalbatawîbikeheye,nemazejiboxwarin,lixwekirin,mal,lênerînatibbî,wisajîjiboxizmetênsosyalênpêwîstûmafêewleyiyêdirewşabêkarî,nexweşî,seqetî,bîtî,pîrîandirewşêndinênwindakirinaîmkanênxweyênjiyanêjibersedemêndervavîviyanawî.</p>
+    <p>Dêyîtîûzarotîmafênarîkarîûlênêrîneketaybetîhene.Hemûzaro,çiyêndizewacêdebûyiçiyêndervayîzewacê,xwediyêneynîparastinekecivakîne.</p>
+  </li>
+  <li>
+    <p>Herkesmafêhînbûnêheye.Divêkuhînbûnbelaşbe,qetnebehînbûnadestpêkîûbingehî.Divêkuhînbûnateknîkûmeslekîbifirehîbelavbeûxwendinabilindbiwekheviyeketemamîjihemûkesanre,ligoraşehrezayiyawan,vekirîbe.</p>
+    <p>Divêkuhînkiringeşkirinatemamîyaşexsiyetamirovîûxurtkirinasiyasetamafênmirovîûazadiyênbingehîamancbigre.Divêkuewarîkarîbidetêgihîştin,musamehaûdostaniyanavhemûneteweûhemûkomênnijadîanolî,wisajîpêşveçûnaçalakiyênNeteweyênYekbûyîjiboxwedîkirinaaşîtiyê.</p>
+    <p>Dêûbavxwediyêmafêpêşîkîêbijartinacureyêhînbûnazarokênxwene.</p>
+  </li>
+  <li>
+    <p>Herkesmafêbiserbestîbeşdarbûnajiyanaçandîyacivakê,jihunerankelkgirtinêûbeşdarbûnapêşveçûnazanistîûencamênwêheye.</p>
+    <p>Herkesmafêparastinamenfaetênmanewîûmaddîyênkujiberberhemazanistî,edebîûhunerîyakuewbixweçêkerêwêyeheye.</p>
+  </li>
+  <li>
+    <p>MafêherkesîyêjibonîzamekecivakîûnavneteweyîyawisanheyekumafûazadiyêndivêDanezanêdeberpêşkirîbikaribintêdebitemamîbênecih.</p>
+  </li>
+  <li>
+    <p>Herkeserk(wezîfe)henelihembercivakê,yakutenêtêdegeşbûnaserbestûtemamîyaşexsiyetawîmimkine.</p>
+    <p>Dibikaranînamafûazadiyênxwedeheryektenêbihukmênkuqanûntenêjiboewlekirinanasînûqedrêmafûazadiyênkesêndinûjibobicihanînaxwastiniyênrastênexlaq,pergalagiştîûrefehagelemperdicivakekedemokratîkdedaniye,têtahdîdkirin.</p>
+    <p>Evmafûazadî,diturewşêde,nikarinlidijîamancûbingehênNeteweyênYekbûyîbênbikaranîn.</p>
+  </li>
+  <li>
+    <p>TuhukmekîvêDanezanênikarebêtefsîrkirinwekîkutumafdidedewletekê,komekêûkesekîjibokirinakarekîanpêkanînakirinekîkurakirinamafûazadiyênkutêdehatineberpêşkirinamancbigre.</p>
+  </li>
+</ol>

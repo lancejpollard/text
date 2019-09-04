@@ -1,0 +1,122 @@
+<h1 align='center'>Die Allgemeine Erklärung der Menschenrechte</h1>
+<h2 align='center'>Präambel</h2>
+<p align='center'>Da die Anerkennung der angeborenen Würde und der gleichen und unveräußerlichen Rechte aller Mitglieder der Gemeinschaft der Menschen die Grundlage von Freiheit, Gerechtigkeit und Frieden in der Welt bildet,
+da die Nichtanerkennung und Verachtung der Menschenrechte zu Akten der Barbarei geführt haben, die das Gewissen der Menschheit mit Empörung erfüllen, und da verkündet worden ist, dass einer Welt, in der die Menschen Rede- und Glaubensfreiheit und Freiheit von Furcht und Not genießen, das höchste Streben des Menschen gilt,
+da es notwendig ist, die Menschenrechte durch die Herrschaft des Rechtes zu schützen, damit der Mensch nicht gezwungen wird, als letztes Mittel zum Aufstand gegen Tyrannei und Unterdrückung zu greifen,
+da es notwendig ist, die Entwicklung freundschaftlicher Beziehungen zwischen den Nationen zu fördern,
+da die Völker der Vereinten Nationen in der Charta ihren Glauben an die grundlegenden Menschenrechte, an die Würde und den Wert der menschlichen Person und an die Gleichberechtigung von Mann und Frau erneut bekräftigt und beschlossen haben, den sozialen Fortschritt und bessere Lebensbedingungen in größerer Freiheit zu fördern,
+da die Mitgliedstaaten sich verpflichtet haben, in Zusammenarbeit mit den Vereinten Nationen auf die allgemeine Achtung und Einhaltung der Menschenrechte und Grundfreiheiten hinzuwirken,
+da ein gemeinsames Verständnis dieser Rechte und Freiheiten von größter Wichtigkeit für die volle Erfüllung dieser Verpflichtung ist,
+verkündet die Generalversammlung
+diese Allgemeine Erklärung der Menschenrechte als das von allen Völkern und Nationen zu erreichende gemeinsame Ideal, damit jeder einzelne und alle Organe der Gesellschaft sich diese Erklärung stets gegenwärtig halten und sich bemühen, durch Unterricht und Erziehung die Achtung vor diesen Rechten und Freiheiten zu fördern und durch fortschreitende nationale und internationale Maßnahmen ihre allgemeine und tatsächliche Anerkennung und Einhaltung durch die Bevölkerung der Mitgliedstaaten selbst wie auch durch die Bevölkerung der ihrer Hoheitsgewalt unterstehenden Gebiete zu gewährleisten.</p>
+<ol>
+  <li>
+    <p>AlleMenschensindfreiundgleichanWürdeundRechtengeboren.SiesindmitVernunftundGewissenbegabtundsolleneinanderimGeistderBrüderlichkeitbegegnen.</p>
+  </li>
+  <li>
+    <p>JederhatAnspruchaufdieindieserErklärungverkündetenRechteundFreiheitenohneirgendeinenUnterschied,etwanachRasse,Hautfarbe,Geschlecht,Sprache,Religion,politischerodersonstigerÜberzeugung,nationalerodersozialerHerkunft,Vermögen,GeburtodersonstigemStand.DesWeiterendarfkeinUnterschiedgemachtwerdenaufGrundderpolitischen,rechtlichenoderinternationalenStellungdesLandesoderGebiets,demeinePersonangehört,gleichgültigobdiesesunabhängigist,unterTreuhandschaftsteht,keineSelbstregierungbesitztodersonstinseinerSouveränitäteingeschränktist.</p>
+  </li>
+  <li>
+    <p>JederhatdasRechtaufLeben,FreiheitundSicherheitderPerson.</p>
+  </li>
+  <li>
+    <p>NiemanddarfinSklavereioderLeibeigenschaftgehaltenwerden;SklavereiundSklavenhandelsindinallenihrenFormenverboten.</p>
+  </li>
+  <li>
+    <p>NiemanddarfderFolterodergrausamer,unmenschlicherodererniedrigenderBehandlungoderStrafeunterworfenwerden.</p>
+  </li>
+  <li>
+    <p>JederhatdasRecht,überallalsrechtsfähiganerkanntzuwerden.</p>
+  </li>
+  <li>
+    <p>AlleMenschensindvordemGesetzgleichundhabenohneUnterschiedAnspruchaufgleichenSchutzdurchdasGesetz.AllehabenAnspruchaufgleichenSchutzgegenjedeDiskriminierung,diegegendieseErklärungverstößt,undgegenjedeAufhetzungzueinerderartigenDiskriminierung.</p>
+  </li>
+  <li>
+    <p>JederhatAnspruchaufeinenwirksamenRechtsbehelfbeidenzuständigeninnerstaatlichenGerichtengegenHandlungen,durchdieseineihmnachderVerfassungodernachdemGesetzzustehendenGrundrechteverletztwerden.</p>
+  </li>
+  <li>
+    <p>Niemanddarfwillkürlichfestgenommen,inHaftgehaltenoderdesLandesverwiesenwerden.</p>
+  </li>
+  <li>
+    <p>JederhatbeiderFeststellungseinerRechteundPflichtensowiebeieinergegenihnerhobenenstrafrechtlichenBeschuldigunginvollerGleichheitAnspruchaufeingerechtesundöffentlichesVerfahrenvoreinemunabhängigenundunparteiischenGericht.</p>
+  </li>
+  <li>
+    <p>Jeder,derwegeneinerstrafbarenHandlungbeschuldigtwird,hatdasRecht,alsunschuldigzugelten,solangeseineSchuldnichtineinemöffentlichenVerfahren,indemerallefürseineVerteidigungnotwendigenGarantiengehabthat,gemäßdemGesetznachgewiesenist.</p>
+    <p>NiemanddarfwegeneinerHandlungoderUnterlassungverurteiltwerden,diezurZeitihrerBegehungnachinnerstaatlichemoderinternationalemRechtnichtstrafbarwar.EbensodarfkeineschwerereStrafealsdiezumZeitpunktderBegehungderstrafbarenHandlungangedrohteStrafeverhängtwerden.</p>
+  </li>
+  <li>
+    <p>NiemanddarfwillkürlichenEingriffeninseinPrivatleben,seineFamilie,seineWohnungundseinenSchriftverkehroderBeeinträchtigungenseinerEhreundseinesRufesausgesetztwerden.JederhatAnspruchaufrechtlichenSchutzgegensolcheEingriffeoderBeeinträchtigungen.</p>
+  </li>
+  <li>
+    <p>JederhatdasRecht,sichinnerhalbeinesStaatesfreizubewegenundseinenAufenthaltsortfreizuwählen.</p>
+    <p>JederhatdasRecht,jedesLand,einschließlichseineseigenen,zuverlassenundinseinLandzurückzukehren.</p>
+  </li>
+  <li>
+    <p>JederhatdasRecht,inanderenLändernvorVerfolgungAsylzusuchenundzugenießen.</p>
+    <p>DiesesRechtkannnichtinAnspruchgenommenwerdenimFalleeinerStrafverfolgung,dietatsächlichaufGrundvonVerbrechennichtpolitischerArtoderaufGrundvonHandlungenerfolgt,diegegendieZieleundGrundsätzederVereintenNationenverstoßen.</p>
+  </li>
+  <li>
+    <p>JederhatdasRechtaufeineStaatsangehörigkeit.</p>
+    <p>NiemandemdarfseineStaatsangehörigkeitwillkürlichentzogennochdasRechtversagtwerden,seineStaatsangehörigkeitzuwechseln.</p>
+  </li>
+  <li>
+    <p>HeiratsfähigeFrauenundMännerhabenohneBeschränkungaufGrundderRasse,derStaatsangehörigkeitoderderReligiondasRecht,zuheiratenundeineFamiliezugründen.SiehabenbeiderEheschließung,währendderEheundbeiderenAuflösunggleicheRechte.</p>
+    <p>EineEhedarfnurbeifreierunduneingeschränkterWillenseinigungderkünftigenEhegattengeschlossenwerden.</p>
+    <p>DieFamilieistdienatürlicheGrundeinheitderGesellschaftundhatAnspruchaufSchutzdurchGesellschaftundStaat.</p>
+  </li>
+  <li>
+    <p>JederhatdasRecht,sowohlalleinalsauchinGemeinschaftmitanderenEigentuminnezuhaben.</p>
+    <p>NiemanddarfwillkürlichseinesEigentumsberaubtwerden.</p>
+  </li>
+  <li>
+    <p>JederhatdasRechtaufGedanken-,Gewissens-undReligionsfreiheit;diesesRechtschließtdieFreiheitein,seineReligionoderÜberzeugungzuwechseln,sowiedieFreiheit,seineReligionoderWeltanschauungalleinoderinGemeinschaftmitanderen,öffentlichoderprivatdurchLehre,Ausübung,GottesdienstundKulthandlungenzubekennen.</p>
+  </li>
+  <li>
+    <p>JederhatdasRechtaufMeinungsfreiheitundfreieMeinungsäußerung;diesesRechtschließtdieFreiheitein,MeinungenungehindertanzuhängensowieüberMedienjederArtundohneRücksichtaufGrenzenInformationenundGedankengutzusuchen,zuempfangenundzuverbreiten.</p>
+  </li>
+  <li>
+    <p>AlleMenschenhabendasRecht,sichfriedlichzuversammelnundzuVereinigungenzusammenzuschließen.</p>
+    <p>Niemanddarfgezwungenwerden,einerVereinigunganzugehören.</p>
+  </li>
+  <li>
+    <p>JederhatdasRecht,anderGestaltungderöffentlichenAngelegenheitenseinesLandesunmittelbaroderdurchfreigewählteVertretermitzuwirken.</p>
+    <p>JederhatdasRechtaufgleichenZugangzuöffentlichenÄmterninseinemLande.</p>
+    <p>DerWilledesVolkesbildetdieGrundlagefürdieAutoritätderöffentlichenGewalt;dieserWillemussdurchregelmäßige,unverfälschte,allgemeineundgleicheWahlenmitgeheimerStimmabgabeoderineinemgleichwertigenfreienWahlverfahrenzumAusdruckkommen.</p>
+  </li>
+  <li>
+    <p>JederhatalsMitgliedderGesellschaftdasRechtaufsozialeSicherheitundAnspruchdarauf,durchinnerstaatlicheMaßnahmenundinternationaleZusammenarbeitsowieunterBerücksichtigungderOrganisationundderMitteljedesStaatesindenGenussderwirtschaftlichen,sozialenundkulturellenRechtezugelangen,diefürseineWürdeunddiefreieEntwicklungseinerPersönlichkeitunentbehrlichsind.</p>
+  </li>
+  <li>
+    <p>JederhatdasRechtaufArbeit,auffreieBerufswahl,aufgerechteundbefriedigendeArbeitsbedingungensowieaufSchutzvorArbeitslosigkeit.</p>
+    <p>Jeder,ohneUnterschied,hatdasRechtaufgleichenLohnfürgleicheArbeit.</p>
+    <p>Jeder,derarbeitet,hatdasRechtaufgerechteundbefriedigendeEntlohnung,dieihmundseinerFamilieeinedermenschlichenWürdeentsprechendeExistenzsichert,gegebenenfallsergänztdurchanderesozialeSchutzmaßnahmen.</p>
+    <p>JederhatdasRecht,zumSchutzseinerInteressenGewerkschaftenzubildenundsolchenbeizutreten.</p>
+  </li>
+  <li>
+    <p>JederhatdasRechtaufErholungundFreizeitundinsbesondereaufeinevernünftigeBegrenzungderArbeitszeitundregelmäßigenbezahltenUrlaub.</p>
+  </li>
+  <li>
+    <p>JederhatdasRechtaufeinenLebensstandard,derseineundseinerFamilieGesundheitundWohlgewährleistet,einschließlichNahrung,Kleidung,Wohnung,ärztlicherVersorgungundnotwendigersozialerLeistungen,sowiedasRechtaufSicherheitimFallevonArbeitslosigkeit,Krankheit,InvaliditätoderVerwitwung,imAltersowiebeianderweitigemVerlustseinerUnterhaltsmitteldurchunverschuldeteUmstände.</p>
+    <p>MütterundKinderhabenAnspruchaufbesondereFürsorgeundUnterstützung.AlleKinder,ehelichewieaußereheliche,genießendengleichensozialenSchutz.</p>
+  </li>
+  <li>
+    <p>JederhatdasRechtaufBildung.DieBildungistunentgeltlich,zummindestenderGrundschulunterrichtunddiegrundlegendeBildung.DerGrundschulunterrichtistobligatorisch.Fach-undBerufsschulunterrichtmüssenallgemeinverfügbargemachtwerdenundderHochschulunterrichtmussallengleichermaßenentsprechendihrenFähigkeitenoffenstehen.</p>
+    <p>DieBildungmussaufdievolleEntfaltungdermenschlichenPersönlichkeitundaufdieStärkungderAchtungvordenMenschenrechtenundGrundfreiheitengerichtetsein.SiemusszuVerständnis,ToleranzundFreundschaftzwischenallenNationenundallenrassischenoderreligiösenGruppenbeitragenundderTätigkeitderVereintenNationenfürdieWahrungdesFriedensförderlichsein.</p>
+    <p>DieElternhabeneinvorrangigesRecht,dieArtderBildungzuwählen,dieihrenKindernzuteilwerdensoll.</p>
+  </li>
+  <li>
+    <p>JederhatdasRecht,amkulturellenLebenderGemeinschaftfreiteilzunehmen,sichandenKünstenzuerfreuenundamwissenschaftlichenFortschrittunddessenErrungenschaftenteilzuhaben.</p>
+    <p>JederhatdasRechtaufSchutzdergeistigenundmateriellenInteressen,dieihmalsUrhebervonWerkenderWissenschaft,LiteraturoderKunsterwachsen.</p>
+  </li>
+  <li>
+    <p>JederhatAnspruchaufeinesozialeundinternationaleOrdnung,inderdieindieserErklärungverkündetenRechteundFreiheitenvollverwirklichtwerdenkönnen.</p>
+  </li>
+  <li>
+    <p>JederhatPflichtengegenüberderGemeinschaft,inderalleindiefreieundvolleEntfaltungseinerPersönlichkeitmöglichist.</p>
+    <p>JederistbeiderAusübungseinerRechteundFreiheitennurdenBeschränkungenunterworfen,diedasGesetzausschließlichzudemZweckvorsieht,dieAnerkennungundAchtungderRechteundFreiheitenandererzusichernunddengerechtenAnforderungenderMoral,deröffentlichenOrdnungunddesallgemeinenWohlesineinerdemokratischenGesellschaftzugenügen.</p>
+    <p>DieseRechteundFreiheitendürfeninkeinemFallimWiderspruchzudenZielenundGrundsätzenderVereintenNationenausgeübtwerden.</p>
+  </li>
+  <li>
+    <p>KeineBestimmungdieserErklärungdarfdahinausgelegtwerden,dasssiefüreinenStaat,eineGruppeodereinePersonirgendeinRechtbegründet,eineTätigkeitauszuübenodereineHandlungzubegehen,welchedieBeseitigungderindieserErklärungverkündetenRechteundFreiheitenzumZielhat.</p>
+  </li>
+</ol>

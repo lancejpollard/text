@@ -1,0 +1,123 @@
+<h1 align='center'>VŠOBECNÁ DEKLARÁCIA LUDSKÝCH PRÁV</h1>
+<h2 align='center'>Úvod</h2>
+<p align='center'>Vo vedomí že uznanie prirodzenej dôstojnosti a rovnych a neodcudzite ľných práv členov ľudskej rodiny je základom slobody, spravodlivosti a mieru na svete,
+že zneuznanie ľudských práv a pohrdanie nimi viedlo k barbarským činom, ktoré urážajú svedomie ľudstva, a že vybudovanie sveta, v ktorom ľudia, zbavení strachu a núdze, budú sa tešiť slobode prejavu a presvedčenia, bolo vyhlásené za najvyšší cieľ ľudu,
+že je nutné, aby sa ľudsk práva chránily zákonom, ak nemá byť človek donúteý uchýliť sa, keď všetko ostatné zlyhalo, k odboju proti tyranii a útlaku,
+že je nutné podporovať rozvoj priateľských vzťahov medzi národmi,
+že ľud Spojených národov zdoraznil v Charte znovu svoju vieru v základné ľudské práva, v dostojnosť a hodnotu ľudskej osobnosti, v rovnaké práva mužov a žien a že sa rozhodol podporovať sociálny pokrok a vytvoriť lepšie životné podmienky za vačšej slobody,
+že členské štáty prevzaly závazok zaistiť v spolupráci s Organizáciou Spojeých národov všeobecné uznávanie a zachovávanie ľudských práv a základýých slobod a
+že rovnaké chápanie týchto práv a slobod má nesmierny význam pre dokonalé splnenie tohto závazku,
+vyhlasuje
+VALNÉ SHROMAŽDENIE
+túto všeobecnú deklaráciu ľudských práv ako spoločný cieľ pre všetky národy a všetky štáty, aby sa každý jednotlivec a každý orgán spoločnosti, majúc túto deklaráciu stále na mysli, snažil vyučovaním a výchovou rozšíriť úctu k týmto právam a slobodám a zaistiť postupnými opatreniami vnútroštátnými i medzinárodnými ich všeobecné a účinné uznávanie a zachovávanie ako medzi ľudom členských štátov samých, tak medzi ľudom území , ktoré sú pod ich právomocou.</p>
+<ol>
+  <li>
+    <p>Všetciľudiasarodiaslobodníaseberovní,čosatýkaichdostojnostiapráv.Súobdarenírozumomamajúnavzájomjednaťvbratskomduchu.</p>
+  </li>
+  <li>
+    <p>Každýmávšetkyprávaavšetkyslobody,vyhlášenévtejtodeklarácii,bezhociakéhorozlišovanianajmapodľarasy,farby,pohlavia,jazyka,náboženstva,politickéhoaleboinéhosmýšľania,národnostnéhoalebosociálnéhopovodu,majetku,rodualeboinéhopostaveniaŽiadenrozdielsanebuderobiťnapodkladepolitického,právnéhoalebonedzinárodnéhopostaveniakrajinyaleboúzemia,kuktorémuosobaprísluší,čijetokrajinaaleboúzemienezávisléalebopodporučenstvom,nesamosprávnealebopodrobenéhociakémuinémuobmedzeniusuverenity.</p>
+  </li>
+  <li>
+    <p>Každýmáprávonaživot,sloboduaosobnúbezpečnosť.</p>
+  </li>
+  <li>
+    <p>Niktosanesmiedržaťvotroctvealebovnevoľníctve:všetkyformyotroctvaaobchodusotrokmisúzakázané.</p>
+  </li>
+  <li>
+    <p>Niktonesmiebyťmučenýalebopodrobenýkrutému,neľudskémualeboponižujúcemuzaobchádzaniualebotrestu.</p>
+  </li>
+  <li>
+    <p>Každýmáprávo,abybolavšadeuznávanájehoprávnaosobnosť.</p>
+  </li>
+  <li>
+    <p>Všetcisúsipredzákonomrovníamajúprávonarovnakúochranuzákonabezhociakéhorozlišovania.Všetcimajúprávonarovnakúochranuprotihociakejdiskriminácii,ktoráporušujetútodeklaráciu,aprotikaždémupodnűcovaniuktakejdiskriminácii.</p>
+  </li>
+  <li>
+    <p>Každýmáprávo,abymupríslušnévnútroštátnesúdyposkytlyúčinnúochranuprotičinomporušujúcimzčkladnépráva,ktorésúmupriznávanéústavoualebozákonom.</p>
+  </li>
+  <li>
+    <p>Niktonesmiebyťsvojvoľnezatknutý,držanývovazbealebovyhnanýdovyhnanstva.</p>
+  </li>
+  <li>
+    <p>Každýmáúplnerovnaképrávo,abybolspravodliveaverejnevypočutýnezávislýmanestrannýmsúdom,ktorýrozhodujeojehoprávachapovinnostiachaokaždomtrestnomobvinení,vznesenomprotinemu.</p>
+  </li>
+  <li>
+    <p>Každý,ktojeobvinenýztrestnéhočinu,považujesezanevinného,dokiaľniejezákonnýmpostupomdokázanájehovinavoverejnompokračovaní,priktorommalzaistenévšetkymožnostiobhajoby.</p>
+    <p>Niktonesmiebyťodsúdenýprečinaleboopomenutia,ktorévčase,ked'bolyspáchané,nebolytrestnépodľaštátnéhoalebomedzinárodnéhopráva.Rovnakonesmiebyťuloženýťažšítrestnežtrest,ktorýmoholbyťuloženývčase,ketrestnýčinbolspáchaný.</p>
+  </li>
+  <li>
+    <p>Niktonesmiebyťvystavenýsvojvoľnémuzasahovaniudosúkromnéhoživota,rodiny,domovaalebokorešpondencie,aniútokomnasvojučesťapovesť.Každýmáprávonazákonnúochranuprotitakýmtozásahomaleboútokom.</p>
+  </li>
+  <li>
+    <p>(1)Každýmáprávovoľnesapohybovaťaslobodnesizvoliťbydliskovtom-ktoromštáte.</p>
+    <p>(2)Každýmáprávoopustiťhociktorúkrajinu,isvojuvlastnú,avrátiťsadosvojejkrajiny.</p>
+  </li>
+  <li>
+    <p>Každýmáprávovyhľadaťsipredprenasledovanímútočištevinýchkrajináchapožívaťtamazyl.</p>
+    <p>Totoprávonemožnouplatňovaťvprípadestíhanianaozajodôvodnenéhonepolitickýmizločinmialebočinmi,ktorésúvrozporescieľamiazásadamiSpojenýchnárodov.</p>
+  </li>
+  <li>
+    <p>Každýmáprávonaštátnupríslušnosť.</p>
+    <p>Niktonesmiebyťsvojvoľnezbavenýsvojejštátnejpríslušnosti,aniprávasvojuštátnupríslušnosťzmieniť.</p>
+  </li>
+  <li>
+    <p>Mužiaženy,akdosiahliplnoletosť,majúprávobezhociakéhoobmedzeniazdôvodovrasovej,národnosteialebonáboženskejpríslušnostiuzavrieťmanželstvoazaložiťrodinu.Čosamanželstvatýka,majúpočasjehotrvaniaiprijehorozlúčenírovnaképráva.</p>
+    <p>Manželstvámôžubyťuzavrenélensoslobodnýmaplnýmsúhlasomnastávajúcichmanželov.</p>
+    <p>Rodinajeprirodzenouazákladnoujednotkouspoločnostiamánároknaochranusostranyspoločnostištátu.</p>
+  </li>
+  <li>
+    <p>Každýmáprávovlastniťmajetokakosám,takspolusinými.</p>
+    <p>Niktonesmiebyťsvojvoľnezbavenýsvojhomajetku.</p>
+  </li>
+  <li>
+    <p>Každýmáprávonaslobodumyslenia,svedomiaanáboženstva;totoprávoobsahujeajvoľnosťzmeniťnáboženstvoalebovieru,akoisloboduprejavovaťsvojenáboženstvoalebovieru,sámalebospolečnesinými,čiužverejnealebosúkromne,vyučovaním,vykonávanímnáboženskýchúkonov,bohoslužbouazachovávanímobradov.</p>
+  </li>
+  <li>
+    <p>Každýmáprávonaslobodupresvedčeniaaprejavu:totoprávonepripúšťa,abyniektotrpelujmupresvojepresvedčenieazahrňujeprávovyhľadávať,prijímaťarozširovaťinformácieamyšlienkyhociakýmiprostriedkamiabezohľadunahranice.</p>
+  </li>
+  <li>
+    <p>Každémujezaručenáslobodapokojnéhoshromažďovaniaasdružovaniasa.</p>
+    <p>Niktonesmiebyťnútený,abybolčlenomnejakéhosdruženia.</p>
+  </li>
+  <li>
+    <p>Každýmáprávo,abysaúčastnilnavládesvojejkrajinybuďpriamo,aleboprostredníctvomslobodnevolenýchzástupcov.</p>
+    <p>Každýmáprávovstúpiťzarovnakýchpodmienokdoverejnýchslužiebsvojejkrajiny.</p>
+    <p>Vôľaľudumábyťzákladomvládnejmoci:tátovôľamusíbyťvyjadrenásprávneprevádzanýmivoľbami,ktorésamajúkonaťvpravidelnýchobdobiachnazákladevšeobecnéhoarovnéhohlasovaciehoprávatajnýmhlasovanímaleborovnocennýmpostupom,ktorýzabezpečujesloboduhlasovania.</p>
+  </li>
+  <li>
+    <p>Každýčlovekmáakočlenspoločnostiprávonasociálnezabezpečenieanárok,abymubolynárodnýmúsilímimedzinárodnousúčinnosťouavsúladesorganizáciouaprostriedkamipríslušnéhoštátuzaistenéhospodárske,sociálneakultúrnepráva,potrebnékjehodôstojnostiakslobodnémurozvojujehoosobnosti.</p>
+  </li>
+  <li>
+    <p>Každýmáprávonaprácu,naslobodnúvoľbuzamestnania,naspravodlivéauspokojivépracovnépodmienkyanaochranuprotinezamestnanosti.</p>
+    <p>Každý,bezhociakéhorozlišovania,mánároknarovnakýplatzarovnakúprácu.</p>
+    <p>Každýpracujúcimáprávonaspravodlivúadostačujúcuodmenu,ktorábyzaisťovalajemusamémuajehorodineživobytieodpovedajúceľudskejdôstojnosti,aktorábyboladoplnená,kebytohobolotreba,inýmiprostriedkamisociálnejochrany.</p>
+    <p>Každýmáprávonaochranusvojichzáujmovzakladaťsinýmiodborovéorganizácieapristupovaťkním.</p>
+  </li>
+  <li>
+    <p>Každýmáprávonaodpočinokanazotavenie,zvlášťajnarozumnévymedzeniepracovnýchhodínanapravidelnúplatenúdovolenku.</p>
+  </li>
+  <li>
+    <p>Každýmáprávonatakúživotnúúroveň,ktorámôžezaistiťjehozdravieablahobytazdraviejehorodiny,počítajúcvtomenovitevýživu,šatenie,bývaniealekárskeošetrovanie,akoajpotrebnésociálneopatrenia:máprávonazabezpečenievnezamestnanosti,vnemoci,prineschopnostikpráci,priovdovení,vstarobealebovinýchprípadochstratyzárobkovýchmožností,ktorénastanúzaokolnostínezávislýchnejehovôli.</p>
+    <p>Materstvoadetstvomajúnároknazvláštnustrarostlivosťapomoc.Všetkydeti,čimanželskéalebonemanželské,požívajúrovnakúsociálnuochranu.</p>
+  </li>
+  <li>
+    <p>Každýmáprávonavzdelanie.Vzdelanienechjebezplatnéaspoňvzačiatočnýchazákladnýchstupňoch.Základnévzdelaniejepovinné.Technickéaodbornévzdelanienechjevšeobecneprístupnéavyššievzdelaniemábyťrovnakoprístupnékaždémupodľajehoschopností.</p>
+    <p>Vzdelaniemásmerovaťkplnémurozvojuľudskejosobnostiakposilneniuúctykľudskýmprávamazákladnýmslobodám.Mánapomáhaťkvzájomnémuporozumeniu,snášanlivostiapriateľstvumedzivšetkýminárodmiavšetkýmirasovýmiináboženskýmiskupinami,akoajkrozvojučinnostiSpojenýchnárodovprezachovaniemieru.</p>
+    <p>Rodičiamajúprednostnéprávovoliťdruhvzdelaniapresvojedeti.</p>
+  </li>
+  <li>
+    <p>Každýmáprávoslobodnesaúčastniťnakultúrnomživotespoločnosti,užívaťplodovumeniaaúčastniťsanavedeckompokrokuajehovýťažkoch.</p>
+    <p>Každýmáprávonaochranumorálnychamateriálnychzáujmov,ktorévyplývajúzjehovedeckej,literárnejaleboumeleckejtvorby.</p>
+  </li>
+  <li>
+    <p>Každýmáprávonato,abyvládoltakýsociálnyamedzinárodnýporiadok,vktorombyprávaaslobodyvyhlásenévtejtodeklaráciibolyplneuplatnené.</p>
+  </li>
+  <li>
+    <p>Každýmápovinnosťvočispoločnosti:jedinevnejmôžeslobodneaplnerozvinúťsvojuosobnosť.</p>
+    <p>Vovýkonesvojichprávavužívanísvojichslobôdjekaždýpodrobenýibatakýmobmedzeniam,ktoréstanovízákonaktoréslúžiavýhradnekzabezpečeniunáležitého,uznávaniaazachovávaniaprávaslobôdiných,akoajkuspokojeniuspravodlivýchpožiadaviekmravnosti,verejnéhoporiadkuaobecnéhoblahavdemokratiskejspoločnosti.</p>
+    <p>VýkontýchtoprávaslobodnesmiebyťvžiadnomprípadevrozporescieľamiazásadamiSpojenýchnárodov.</p>
+  </li>
+  <li>
+    <p>Vtejtodeklaráciiničsanesmievykladaťtak,abyoprávňovaloktorýkoľvekštát,skupinu,aleboosobuvyvíjaťčinnosťalebodopúšťaťsačinov,ktorébysmerovalykpotlačeniuniektoréhozprávaleboslobôdvtejtodeklaráciivyhlásených.</p>
+  </li>
+</ol>

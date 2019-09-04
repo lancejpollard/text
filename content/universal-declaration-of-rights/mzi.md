@@ -1,0 +1,131 @@
+<h1 align='center'>En Xi Tikon Ngasandie Xi Fijendajo Xuta</h1>
+<h2 align='center'></h2>
+<p align='center'>Xi ijniá ko katsenda kui naxinánda xikamatikoxtin kiania ijniá xki jo ocham tjionjo,ngojo jan.nga tiesa nga kjafet’a no ngomi nijam ocham yichan jin.
+Nixitjon Tjindo
+Ngo.-
+Ngaxkotse, tsiee nga ndakuindo ngandindie xuta xitjindo ngasandie,tjinkjua nga ngandindie xuta ngondsejen xikotse xchandikon.
+Jo.-
+Xkotse nganianjin xki,kui en xi fijendajo xuta tikuini ni xitsja ngandie ngatatseen kotseen xuta,ko kuikjua nga kisijknia kui en,tsieenga kama kondakjua ko kama sian nixi mejena sian,ngojin xitjinkjua nga kuinchan dicona.
+Jan.-
+Xkotse tjinkjua nga kuindo xi skotsijen niximatsen xuta,tsiee nga ngojin xi tsjanie tsjafe.
+Nijun.-
+Ko titjinkjua nga siangañojo tsiee nda kua ko ndaskue xkjín ngandidie naxinánda xi tjindo ngasandie.
+Un.-
+Ngadindie nangi xi,xkotse ndsexa xtín xi it’a en ngiyá kui xujun,xkotse bakitso nga ngo ndsejen xo sian xki xi chjon ngojo xi xi’in;kobaxotsen nga xkotse xtjo nik’ani yijo tsiee nga nda kuindo.
+Jun.-
+Ko baxokitsó nga skue ndikon ngandindie naxinánda ko ngatjatason nixi tsjatsó kui xujun.
+Yito.-
+Ko xkotse,tse kjuatason ndindie xo,nixi kjit’a kui xujun kjiaxo nga ndakue ko xchanga tjinia chjíní kui en.
+Jin.-
+Kui xuta xi kamatikokoxtin askoya ko ijniá kui kuak jintokon tsiee nga ngayijexo naxinánda xi seengaño, ngojotse jáxaa kiaxo skibeni nga xkotse skuendikon ngandindie nixindsen xuta xi ijniá kui en,ngojo nanji xi y’ajandi kui naxinánda xi inda kuini.</p>
+<ol>
+  <li>
+    <p>Ngandindiexutangatsende’ekongondsejenngatjin-kjuangaxchandinkonnt’angondsejenngatjinkokjin-tokon,kotjinkjuangatakieengajanskuendinkonxkjin.</p>
+  </li>
+  <li>
+    <p>-Ngandindiexutaxifijendajokuinixikjit’akuixujunkobatjitsóngasianxoxkitay’axutani,jminda-sentajmiisienixichay’a,tsexi’inngojotsechjon-ndatsetajmíneniximaa,tsebenenangojotsebejin,tsekiechjiangojotsekiejinchjia,tsetjintonngojotsejmijin,tsekiekatsenngojotsekiejinkatsentikuixibasikojotay’anikuienxikjit’akuixujun.-Kotikamajintsesianjinxkingoxutaxibatixumangonangixibesobáajinyijongojotsek’aanangikjiñóo,xkotsekuijinbatixumasobáayijo,nt’akiomi’atontsexkojominiximachjeen.</p>
+  </li>
+  <li>
+    <p>Ngadindiexutatjinrikjuangakueeisieennixtinngakuiitsamandéengojojmikjuajinngatjienkamangakuindo,xkotsetsakjonkamangakuindo.</p>
+  </li>
+  <li>
+    <p>Nojinxitaxkiyasianxajoxkotsengocho,ngojotse-taxkiyaseenkjiena,nt’atanisietjichjarikuini.</p>
+  </li>
+  <li>
+    <p>Ngojinxitasianjokosianjo,tsetaxkiyakueeríngojee,ngojotsengonixitanisiechjokjingasenixisianjo.</p>
+  </li>
+  <li>
+    <p>Tay’anitjinrikjuangaxchandikon,tajniangidieni.</p>
+  </li>
+  <li>
+    <p>Ngandindiexutangafijendajokjuakiti,nt’angondsejenngatibakit’onia.kongandindieniaxkotsetsakotsijenakofijendajotsieengangojinxitaseenjokoseenjona.kotsenjerikjuakititsetjinxifaatjonkuien.</p>
+  </li>
+  <li>
+    <p>Ngandindiexutatjinkjuangakuijniangonditontjitsjie,tsieengakosikojoyijokojminijinndatseskuetay’ajaxani,nt’atasakuikosikojotsexkojo-ngonixindajinkjiikjamateen.</p>
+  </li>
+  <li>
+    <p>Tay’ajinxitaxkiyakondaba,koseekonangisieenndobaya,ngojotsetaxkiyakuiyotjingirí,majinniankuini.</p>
+  </li>
+  <li>
+    <p>Ngayijexutatjinkjuangangondsejenkuintieetsengondaxaa,tsiengakotsayakokjiiniximatseenngojotsiengaskuekokjiijexikasakotsengonikatsen.</p>
+  </li>
+  <li>
+    <p>-Ngadindiexutaxikjifiniengojetjinkjuangatjenymasianjee,tjiengakjiyachichankokjiinínixikatsen,nt’abatsentsaya’akjuakitingamajinmataxkiyamajeringoxuta.</p>
+    <p>-Majintaxkiyamajetay;axutanitsejmijéjinmakotimajintsetsietonjekoengijekaskongoje.</p>
+  </li>
+  <li>
+    <p>Tay’ajinxitaxkiyakamach’okatsonatsengiyangichonangojotsengoxujunnchinangiyaxingikamajintsetjinxitaxkiyaskixa’akuixujunngojotsetaxkiyandajijixutatsekatsona.jminkjuajinngatjinxitaxkiyaseenxtinant’angandindindiexutaxifijendajokjuakiti.</p>
+  </li>
+  <li>
+    <p>-Ngandindiexutatjinrijuangakuitsamachichanngiyananginiachjia,kotimab’atsieengojotsetsendandiy’a,tajniangamejenríkuijnia.</p>
+    <p>-Tay’axutanimafatjónangi,kotimafaenganitsexkojomejenngak’osiennganinangi.</p>
+  </li>
+  <li>
+    <p>-Tsexkojotjinxitjinmatjinjina,mamindisekongindietsiengajmmiijinxitsabana,jmindasenjintajnianangini.</p>
+    <p>-Kokuikjuakixixitsay’akuikjuakiti,kamajintsekuitjatjonnt’abatseijniángayijenaxinándaxikatsendakuixujun.</p>
+  </li>
+  <li>
+    <p>-Ngayijexutatjinrikjuangakueengonangi.</p>
+    <p>-Tay’ajinximamiyotjingingindie,kotimajintsexint’enkinchentsekuinngoxuta.</p>
+  </li>
+  <li>
+    <p>-Kuijaxi’inngojoinchjín,ngejefachono’otjinkjuangakamakuixankokamakueendi,taxikaskoringakuindojomijinibejinkjuakuinikongondsejenngachjenngandakuindo,kotsexikojokuiindoxkjinndajonga,sianxki.</p>
+    <p>-Kjiamatsitsebakjiixixichjonngojoxi’inkjiatsingamanianngokjuabixan.</p>
+    <p>-Kuixutaxibindangongindie,kokuikjuangachjengandaxchon,kotjinkjuangaskonxtitjón.</p>
+  </li>
+  <li>
+    <p>-Ngadindiexutachjengakueengongandie,tsekijniángojotajminini,tsetsieesobáangojotseseenxaxtín.</p>
+    <p>-Ngojinxitaxkiyakamakjuaaxinngonixitikonngoxuta.</p>
+  </li>
+  <li>
+    <p>Ngayijexutatjinkjuangakoxieekokjintokonngamatsenniximejenseen,tseskuenjinnena,kotibaerikjuangatsekosikjókokjintokontaxkotsenmejenringaskuendikonnen.tsekjotsobaasobáangojotsexutakjotsobajin,taxkotsenmejenríseenmatsenniximakjiin.</p>
+  </li>
+  <li>
+    <p>Tjinkjuangaseenkjókokuichjáangayijexutakotikienitsatsangatay’ajinximatsenxtinatangat’atsekondakjuaniximakjinangojotsengoxáaxikiniaankomanaxieekuinitsieengangatomabetay’anaxidándani,kotajniangatjachóo.</p>
+  </li>
+  <li>
+    <p>-Ngandindiexutatjinriiiikjuakixingaskoyakokuiitikoxkjinngatangajminkjuaxtikuejin.</p>
+    <p>-Ngojinximaniankjuañootsekietintjejinetsekuin.</p>
+  </li>
+  <li>
+    <p>-Tay’axutanitjinkjuangaseentajminxánixichjiaxtitión.</p>
+    <p>-Ngayijexutatjinkjuangakosienjinyijexamasienxitjíinxtitjónxichjianangíi.</p>
+    <p>-Kuinanxinándaxibatixumaaxutaxitjinxáakongatsiengatsietjinkjuangakosikjóongayijexutaxáa.</p>
+  </li>
+  <li>
+    <p>Ngayijexuta,xkotsengakiabatixumangayangonangitjikjuangakosienijónxtitjónngatsaatsemindiniximachjen,xkotsendiki,naxkiya,ngojotajmininiximachjenangatinchontsiengamaxutanayijona.</p>
+  </li>
+  <li>
+    <p>-Ngayijexutachjengakueengoxa’axiseenkokuixibemixáaximejenseen.</p>
+    <p>-Tjinkjuangondsejenkamachjiixutatsetangotokoyaxa’xindsen,jmijinxink’akongindiekamachíi.</p>
+    <p>-Chjengandakamachjíingayijexutaxindsenxá,tsieengakamaxchaxutatsieekotseminixikjamaatjinkjuangakosikojo.</p>
+    <p>-Tjinrikuangayijexutangakuiitikoxkjintsieengaskantjejoxtinyijotseminixindajinkjiikjamateen.</p>
+  </li>
+  <li>
+    <p>Tjinkjuangaseenkjay’axutangakuitsamatsabenga’akochibangatjabeengaseenxákoxkingakoengaseenkjay’angatamachjíi.</p>
+  </li>
+  <li>
+    <p>-Ngayijexutachjenngandakuindo,ngandangaskochinixiskinie,ngatjaabejniunxikojaa,ngatjaabendiy’a,ngatamandikíi.Kotitjinkjuangasianndikii,tsexikojojmixájin,ngojotsekamanima,tsekamaxian,tsekamaxchangojotsengindimajintsenxkisoba’ayijo.</p>
+    <p>-Ngadindieinchjínxinaangojakjandí,chjengandasianxki,tikuiniitsekiakatsent’ana’miingojonaa,ngojotsekatsensobáa,chjengangondsensianxki.</p>
+  </li>
+  <li>
+    <p>-Ngandindiexutachjengakuitsamanaxkiyakojmikjuajinngakamachjitjeekuinaxkiyaxitjonmintjaa.kotanisietjinrikjuañongakojekuinaxkiyangayijexutangayijeximafínaxkiyaxink’atangamachjitjee.</p>
+    <p>-Kuinixikjiingatjinkjuangakojeenaxkiyatsieengakosikojoyijoxuta,ngojotsieengakamakjinyijexuta,tsieengandakuindokongojinkjuaxtikuengayijenanxinánda.</p>
+    <p>-Kuina’mijakjandíxibeminaxkiyaxiseenkjíndii.</p>
+  </li>
+  <li>
+    <p>-Matsenngandindiexutanixindsennaxinándakianiatjindo,kotseskochinditonkjuañotjinngangayijexisiangasonkuitonngojotseminixiskotangat’axáxindseen.</p>
+    <p>-Ngayijexutaxidsendani,xkotseentsatsóngojotsesóongojotsekjaani,tjinkjuangandaxchitsijenndakamateenkuixuta.</p>
+  </li>
+  <li>
+    <p>Tjinkjuangangayijexkotseseengañotsieengakjuatasonkongatamakixikuienxikjit’akuixujun.</p>
+  </li>
+  <li>
+    <p>-Ngandindiexutaxitjindongongayanangitjinkjuangaseekatjosonngayijenixikjamant’akiekjamaxchayijo.</p>
+    <p>-Ngejetsetsenkjatjoson,ngandat’sabakongajminkuaxtijin,jejendakjiingabakjii,kotakuitsinixiskonyijo,ngatsaniétsafejinkuindiyakjuakiti.tsieengandakuijniákuixuta.</p>
+    <p></p>
+  </li>
+  <li>
+    <p>Kamajintsebatsensiankjintokon,tsetsarangañóongoxuta,ngojotsengonangi,tsieengataskitjeekuientsekuinnt’achjenxongakjotjasonyijenixikjit’akuixujun.</p>
+  </li>
+</ol>

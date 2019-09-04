@@ -1,0 +1,121 @@
+<h1 align='center'>SATIIN CAA CHAURUATANE QUE NENACAAURU CACHAAURU RAl RAUHI</h1>
+<h2 align='center'>Nunue</h2>
+<p align='center'>Satiin, cachaauru raite ne rauhi. Nii jaun, nainihei chaque ereein nihacane jaannu, jiniiquiin, raotojoeein, ita cailichanaa coauquelanaala, rauhij iriin nenaa j erichaache ne. Nitohanai coitucuhin neniha cachaauruna jaunte, ita cailichairiin nihane, ichaoore cachaauru. Nii jaunna, neruujiha saain, itolere cachauru ne jerichaanu; itolere raotojoeein ichaohin aúiihaneein, niicha esenetai esenetaain, niicha coacui que ereerejeein, naojoaain niha cachaauru ne jerichaanu.
+Saain acaauru cachaauru coroatajanemii, saain itolere gobiernooru, nabana aiha nejerateein, naojoaain niha rai cachaauru ne coataa.
+Caohachaain ita coaraain, naaojoaain neeuruhine leeocha gobierno aina itolere caa chauruatane sacutaain nenacaauru gobiernooru.
+"Caohatoha naain jeriha laurilaurichuru nenacaauru gobierno, caa canaacaanu aitoojoan que na jaun, uain caohachaain cachaauru coroataj anecurumii te, caoachaain neruujueein neeuruhine.
+"Caohatoha carai," naain ereeuri gobiernooru, esiahen rauhijiriin, caa aitocoaanu ne rijijieein tonoraain ichacurumiite raotojoeein jianacoo nenaa nainecurumii, saain rai cachaauru.
+Nii jaun te, caohachae saain itolere neein coitucuuruha saain cachaauru ne caohachae, rauhij iriin ichacuruhane coina.
+CARITIIN TE AlTUCURE LAURILAURICHURU CAJE UNACAURU CURAANAACURU ITA TAOJIAIN
+Nii jaun, itolere sacutaain cachaauru relauruhinete, coitucuhin, "Naojoaain te chuisi ne cana rai rauhi," naain coticuuruhine cachaauru laurilaurichuru nenacaauru. Nitohaneeinte, jeraaen cuujuein nitohaniha cureein.</p>
+<ol>
+  <li>
+    <p>Itarijiichaitolerecacha.Aihanajaun,itabelaain,naojoainneuruhinelaurilaurichurunenacaauruainaitolerecachaauru.</p>
+  </li>
+  <li>
+    <p>Satiincachaururaitene,jerichanejeeinacaaururairauhi,itajelooncuhin.Niijaun,niheichatohaneein,jichojoai,bacauha,ijiaen,jorio,batirichuru,coriquineba,cailichaicacha,cocoamo,shipibo,acoarona,saainniichurutejerichanejeeinne,acaururairauhi.</p>
+  </li>
+  <li>
+    <p>Aihanajauntene,satiincachaaururairahui,raotojoeeinrerohecaeraelanaala,jerihanetocohaneeinichaohacachanecoina.</p>
+  </li>
+  <li>
+    <p>Aihanajaun,nijiaonrihaatebihaenraichaqueerenaarijitiin,namutecachaletoainnihacachaaurune.</p>
+  </li>
+  <li>
+    <p>Jiaonrihachuneicachacunaitain,naojoainneeuruhacocoainanacaihurine.</p>
+  </li>
+  <li>
+    <p>Charijijieinteeintineseeunenacaauruquesuujuaacateeincaohachaainraaure.Niirijijieinchujoaenreeinnirljlelnnenacaaurucachaauru-nunacocoaichanaojoainquesuujuaacateeincaohachaaincoaraainnaojoainneeuruhinecocoainanacaihuri.</p>
+  </li>
+  <li>
+    <p>Joaenreeincacha,nihaacaaururaichatohanaiine,cocoainanacaihuriraiereeuruhinete,acaaurucoroatajanemiicocoainanacaihuriteaitohacaarauhineriJlJlelnneinecachaaururairauhi.</p>
+  </li>
+  <li>
+    <p>Rauhijiriincaaerenaatonoraainichacurenihacocoainanacaihurineacaarucuraanaaraibeeuruhinecachaaurute,rucuecuruhineacaauruainaacaaurucuraanaa.</p>
+  </li>
+  <li>
+    <p>Jiaonriha,atiinjoaenreeinleeracolanecachamucuhincareserocuhaneteein,naojoainneeuruhacocoainanacaihurine.Chaenchu,coaniinatanecajesitaaln,leeochaataneuletoauruhacocoainanacaihuri,joaenreeinleeracolane.</p>
+  </li>
+  <li>
+    <p>Satiincachaururaitenerauhi,casetecaacocoainanacaihurineajiinihaereeinnaojoaunruhaencoina.Baasoichaain,chatohaneeincachabasijiauhinnaojoaainneeuruhacocoainanacaihurineleeochacocoainanacai,niicocoainanacaiarainihei,querucuerateeuruhinecachaauru.Chaenchuchatohaneeincocoainanacaihuriraichatohaneeinichaainasijiauhin,naojoaainnihacachane,jerichanejeeinleeochacocoainanacai,niicachaarainiheicocoainanacaiquerucuerateeuruhine.Chaenniineruujuebana,aonaanecoinaturuhacachane,jiaonrihasitaain,naojoaainnihacocoainanacaiteneruujihaniiineaonaain,neeuruhinecachaauru.</p>
+  </li>
+  <li>
+    <p>Caohachaai,rucujuelanaalacachacasetecaainnihacocoainanacaiine.Caohachaaincoitucuhin,"Esihaentechuhisi,baasoichae,"naaincaohachaaincoitucueralanaalajoaenreeincachacasetecaainnihacocoainanacainecaohachaai.</p>
+    <p>Jiaonrihajaiticocoaaeraenihanejanachatohanaiichaacachanemucuhinneeuruhacocoainanacaihurine.</p>
+  </li>
+  <li>
+    <p>Satiincachaurucoaramiicocoainanacaihuri.Nabanaleijiiincachanenajauturuhinreroecanaacoacuhinninahuene.Acatenaojoaain,nechuaansaaineeinne,"naainjoaenreeinqueereeinitareroecanaacoacuhinnaojoaainneeuruhane,nabanacocoainanacaihurinetonainiiesenetaain,cachareroecanaacoaucuruhanecoataa.Jiaonrihachuchaen,leijiincacharai,letonoquiricharaain,coaraainnaojoaunruhanejelaaurune.</p>
+  </li>
+  <li>
+    <p>Niharauhi,satiincacharai,chunijiuichaonaajerihanajaunichaohanecoina.</p>
+    <p>Chaentechune,satiincachaaururairauhi,chunijiuatanecuhinichaonaajerihaneichaohacuuruhanecoina.Chaentechune,acaaururairauhi,jelihanatanecaunaajerecuruhane,caauruhanecoina.</p>
+  </li>
+  <li>
+    <p>Niharauhi,nihareroecaeranatanene,chunijiunejelauatanecuinraotojoeeinichaaouruhacachaaurunejaannu.</p>
+    <p>Jana,chatohaneeinsoserenaneein,asijiautoneein,naojoaainnihacachane,niheirairauhi,nejelauatanecuhinsorohanecoina.</p>
+  </li>
+  <li>
+    <p>Satiincacharaitenerauhi,nataneu-nenacaaurulaurijiranihanebaihanejelauatanenenacaaurulaurijiranihacuhacachane.</p>
+    <p>Niichurujerichanejeeinnataneucaoachaaincoaracuruhanaraichurunerijijieincaoachaaincoaracurumiinejelauatanenenacaauru.</p>
+  </li>
+  <li>
+    <p>Niharauhi,itarijijieinichauhenaneeuruhane,eneainaitaraainnaaojoaunruhacachaaurunejaannu.Jerichanejeeintequicharainiharauhinerijijiein,ne,enecururairauhi.Coachuchaen,chatohaneeinbacauha,cocoamo,ijiaen,naaojoaainejeeinranaajerihajoaenreein,ene,quicha,naaojoaaine,coacaóhateeuruha.</p>
+    <p>Acajerianejana,jerenihaniienenejana,raacachane,caohachaai.</p>
+    <p>Eneraainnihaquichane,coaracurumiincocoainanacaihuri;nabanacharijieinejeeinitaquenererojoecaainitajianecuruhanecoataa.</p>
+  </li>
+  <li>
+    <p>Satiincachaururaitenerauhi,rairucuheleeuru,raiatane,naaojoaaineroraneeinnihanecoina.</p>
+    <p>Chaenchu,joaenreeincoreniharairucuheíeeuru,raiatane,naaojoaaincajesitaanaanainiheicacha,niheicocoainanacaihurinihanatiin.</p>
+  </li>
+  <li>
+    <p>Nihasatiincachaururairauhi,CanaCoauneraereesenetaaintonoranajerihane,tonoraauruhajianacooneeinchaquetonajelanaalanecoina.</p>
+  </li>
+  <li>
+    <p>Nihachuchaenrauhicachaaururai,niichacoacui,cachaururaibeein,naaojoaunruhanecoina.Nainiheiniicoreniaaacaaurumucuhinnihacocoainanacaihurine.</p>
+  </li>
+  <li>
+    <p>Nihachuchaen,cachaaururairauniitataojiaainchaelaiqueereereenajerecuruhane,ichacuruhachaelaiquetonajelanaalanecoina.</p>
+    <p>Nihachuchaen,cachaaururairauhi,itataojieraauruainanenaajerenihane,cuhenihanecoina.</p>
+  </li>
+  <li>
+    <p>Nihachuchaen,cachaaururairauhi,necorihacocoainanacainejerecuruhane,"Acaacanemii",naainleijiincoaraainacajerihacachaauruneacacocoainanacaineinneme.</p>
+    <p>Nihacachaaururairauhi,"Acaacanemii,"naainereeuruhasaaincachaaurunecoina.</p>
+    <p></p>
+  </li>
+  <li>
+    <p>Nihasatiincachaaururairauhi,reroecaeraelanaala,raotojoeeinneeuruhacachaaurunecoina.Nihaacaaurureroecaerane,acaaurucoroatajaneineacaaurugobierno.</p>
+  </li>
+  <li>
+    <p>Nihachurauhiamihanihacachaaurunecoina.Niicharautaaiamihanenaacoaraainqueamihaneeuruhacachaaurunecoina.Niicharautaaiamihanenaacoaraainqueamihaneeuruhacachaaurunecoma.</p>
+    <p>Chaenchu,itarijijieinamianiacachane,itarijijieeincoreraauruhanete,caohachae.</p>
+    <p>Raujiaaincaohachajeeincanaauruhineamihanenacaaurute,raotojoeeinsinijieraainajiniiquiiin,bereecuruainaraotojoeeinichaooruhinechacaauru.</p>
+    <p>Nihachucachaaururairauhi,nihachatohanai,ne,itataojiaainjiniiquiinfatoroonainarucuhecuruhanecoina.</p>
+  </li>
+  <li>
+    <p>Nihachurauhi,lejanonaacuhanenesuruhinbasiijiinnebetacaainnaaojoaainneeuruhacachaauruenjaannu.Nihachucachaaururairauhicarajaainamihaneeuruhane,acaaururainebetacanaatihafatorooncoreainanecoina.</p>
+  </li>
+  <li>
+    <p>Nihachuchaenrauhi,biinaa,camotojoe,canaanaihuru,cunaitenacaauru,naaojoaihunricoroatajanihagobiernonecoina.Nabanaescoelaquelanaain,nabanaitolerequelanaainneeuruhaitolerecachaaurunecoataa.</p>
+    <p>Chaenchu,leeochaaurucoroatajanihaneamuritoheriin,jelaineeincanaanaisiirichaauruenecurucoroatajaneeine,niibereeainacuruaecaaingobierno.Chaenchuujuatejerijijiein,nenacaaurucanaanaihurucoroatajaneeinegobierno.</p>
+  </li>
+  <li>
+    <p>Nihasatiincachaaururairauhi,corecolanenirijieinnerelaainnaaojoaain,quirichainainnaaojoaainnihacachanecoina.</p>
+    <p>Chaenescoelacuhanenerelaauruhineitolereque,raotojoeeinjiniiquiiin,ichaonaanijianaique,nerelaauruhinete,joaenreeinbacauhaainanianatiin,raotojoeeinichaooruhine.</p>
+    <p>Niharauhi,bereecururai,niicharautaiescoelacoaraain,cuubereecuruteeinnaaojoaainnihainacaaurunejaannu.</p>
+  </li>
+  <li>
+    <p>Nihachuchaen,cachaururairauhi,nihabestane,nihachatohanaine,itataojiaain,naaojoaainneeuruhacachaurune,cunaajereicuhin,naaojoaannecoina.</p>
+    <p>Niharauhi,cachaaururai,chatohanainiichacoitucuiichaainquenecoreteeincoreraacachaaurunecoma.</p>
+  </li>
+  <li>
+    <p>Satiincachaaururaitenerauhi,esihaenrauijiriincaarauhicuhaneaitohanerijijiein.</p>
+  </li>
+  <li>
+    <p>Chaenchu,itacoroatajaneeuruhinecachaauru,itaacatihatacaain.</p>
+    <p>Nihei,chuneicacharairauhi,leeochacacharairauhiquenererojoecaainnihacachanejaannu.</p>
+    <p>Chaenchu,nainiheicaaicharaauruainanererojoecaainnihacachaaurunejaannu.</p>
+  </li>
+  <li>
+    <p>Nainiheichu,chuneigobierno,atanecuruanaa,naaojoaainnihanatiin,caarauhiicharanichaanuneainanererojoecaainneeuruhanejaannu.</p>
+  </li>
+</ol>

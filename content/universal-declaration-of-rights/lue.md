@@ -1,0 +1,121 @@
+<h1 align='center'>KUZANGA CHA KAYE HALUSESA LWA MUTU</h1>
+<h2 align='center'>KUPUTUKA</h2>
+<p align='center'>Chakutamo hakwitavila wulemu wa Lusesa lwa Mutu wosena mu chiyoyelo chenyi, Nakupwa nakuliyoyela chakuhona kupwa nawoma, kaha atela kupwa nachiyoyelo chakuwunda mu Kaye.
+Chapwa chakutamo kuhasa kukanyisa jijila jize jakuyanjisilamo Mutu, kaha makuwana nawa jijila jeka Mutu nahase kuyoyelamo muno mu Kaye mwahasa kupwa na Lusesa lwakuhasa kulihanjikila, kupwa nachinyingi chakutanga mazu akalunga mwazanga chakuhona kupwa nawoma.
+Chapwa chakutamo Mutu kuhona kumushinjila kulinga vyuma vyavipi navihasa kumuwanyisa kukaluhwa mu chiyoyelo chenyi kupwa nge jila yakukumishilako, Lushimbi lwakufwana ngana lwatela kupwako.
+Chapwa chakutamo kuneha chivwashano nawusepa mukachi kamafuchi.
+Chapwa nawa chakutamo Vatu vamu Liwuka lya United Nations kweseka nakuzanga chavo kumona nge kuli kweseka hamwe muchiyoyelo chavo chamalunga na mapwevo mangana vahase kupwa vakweseka hamwe muchiyoyelo chavo.
+Chakutamo nawa mafuchi amuchikungulwilo kana chazango ya Lushimbi yakulivwashana vanalishiki mukachi kavo kuhasa kulivwashana na Mafuchi amu United Nations kuhasa kutwala kulutwe chivwashano kana kaha nakukavangiza nawa jingolo ja Lusesa lwa Mutu jakupwa wakulizachila nakulitambukila mukuyoya chenyi.
+Chapwa nawa chakutamo nakumona nge kuli chivwashano cha jishimbi ja Lusesa kana ja Mutu kwesekesa nalushiko lwa chivwashano echi.
+Chivwashano kana echi cha Lusesa lwajingolo ja Mutu chatela kuchitachikiza nakuchikavangiza kuvatu vosena vamu vamuchivulu muchiyoyelo chavo, nakulama nawa lushiko lwa chivwashano kana mukachi ka Vatu vosena hamwe na Mafuchi atwama mu Chikungulwilo kana chazango eyi ya Chivwashano.</p>
+<ol>
+  <li>
+    <p>Vatuvosenavasemukayapwahohamwenakwesekamukuyoyachavo.Vatwamanachiyoyelochalusesachajingolochakuzangakulivwashanamuchiyoyelochavo.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaatwamanalusesalwajingolojosenaejivetavilamukayejakuhonakulihandununachakufwanangekulitalahavikova,miyachi,kulihandununachavatuvamukayemukusemukachavohamwenamukutwamachavohanohakaye.Kakwechikupwakukalihandununamwomwowajishimbi,jizangochipwekulihandununachamafuchimujishimbinamuchiyulochipwelifuchikuzeafumamutu,chipwelifuchilyakulimanyina,lyalifwelelamuchiyulochalyo,kalyaliyulaliveneko,chipwelyapwakandalilimanyinemuchiyulo.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaanalusesalwachiyoyelochenyi,kupwawakusokokakahamutuvanahasekukinga.</p>
+  </li>
+  <li>
+    <p>Kakwechikukapwamutumwakapwamuwundungoko,kuzatamilimoyakushinjilayawana,nawundungowakukwatavatunavakawukanyisamujijilajosena.</p>
+  </li>
+  <li>
+    <p>Kakwechikukapwamutunavakayanjisamujijilajosenajajipikochipwekumuhombwanyisanumbakumuzangamisako.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaatelakupwanalusesalwajingolojakulisololakwosenakupwangemutushimbukandajishimbi.</p>
+  </li>
+  <li>
+    <p>Vatuvosenavanesekahamweshimbukandajijishimbikahavanalusesalwakuvakingakujishimbi.Vosenavanesekahamwekahakakwechikupwawumwemwahambakanamukwavokokokwesekesanalushikokuhonakuyanjisachipwekumuhandununakuvakwavo.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaanalusesalwakumukingakuvikungulwilovyosenanavipwangakovyakutalahakuyanjisachamutuhalushimbivahanamutulwakupwawakulimanyinamuchiyoyelachenyikwesekesanalushimbi.</p>
+  </li>
+  <li>
+    <p>Kakwechikukakpwakulikwachilachamutuko,kumutumbikamutolongochipwekuchinyinakweka.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaanalusesalwakwivwililachihandechenyikuzangoyayineneyakayeyakulimanyina,ngevanawanemutukanaanamulongawunapandamakuchiyoyelochenyi.</p>
+  </li>
+  <li>
+    <p>Wosenanavawananamulongawawuneneanajingolojakuvangilakumuwanangeanamulongashimbukandavamusopese,kahaatelakulihakwilayavene.</p>
+    <p>Kakwechikukapwakuwanyinamulongamutukomwomwohakuhonakumuwanyinachihandechamulongawawunene,kwesekesanajishimbijamuzemulifuchichipwekaye,halwolakanaalvulumwinewuzemulonga.Chipwekakwechikukahanamulongawawunenewuzemutukokuhambakanawuzemulongaavuluminehalwolakanalwakavanga.</p>
+  </li>
+  <li>
+    <p>Kakwechikukapwakuyanjisamutukwasekesanamukutwamachenyiko,tangayenyi,limbolyenyi,chipwemukusonejekachipwekumusawula.Mutuwosenaanalusesalwajingololwakumukingalwalushimbilwakuhonakumwivwisawoma.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaanalusesalwakulitambukilanakutwamakalakungalilamukachikalifuchilyenyi.</p>
+    <p>Mutuanalusesalwakufumamulifuchilyosenanazangechipwemulifuchilyenyinakukindulukachekamuzemulifuchilyenyiatwama.</p>
+  </li>
+  <li>
+    <p>Kalamutuanalusesalwakuzangakuwahililamuchiyoyelochenyimumafuchiekakuchinakuhonakumusopesa.</p>
+    <p>LusesakanakalwechikupwangemujilayizenayijilakwesekesanajijilajajipijavihandevyamafuchichipwekavetavilakwesekesanavishinganyekavyakavaUnitedNations.</p>
+  </li>
+  <li>
+    <p>Kalamutuanalusesalwakupwamutuwamulifuchikana.</p>
+    <p>Kakwechikupwakukafumisamutuwuzenalisonekesanakupwamutuwamulifuchikanachipwekumukanyisakwalumunamutukanakupwawamulifuchinazange.</p>
+  </li>
+  <li>
+    <p>Malunganamapwevovanamyakayakutumoyakusemuka,chakuhonakuvakanyisamwomwowamiyachinavikova,mazuakalungachipwenumbakavafumamulifuchikanako,vanalusesalwakulimbatanakupwanajitanga.Vanalusesalwakulimbata,mukutwamachavochosenahakulimbatakahanomunawafwaazemalwavo.</p>
+    <p>Kulimbatachosenanavakachitavisakwesekesanakwitavilachavisemijalunganapwevovazevanakuzangakulimbata.</p>
+    <p>Tangakananavakayikingakuvyumavyosenamanganavapwengavatuvakuliyoyelamuchiyoyelokanachalifuchi.</p>
+  </li>
+  <li>
+    <p>Kalamutuanalusesalwakupitawupitewukawenyikahanumbanakulifutulanavakwavo.</p>
+    <p>Kakwechikukapwakunyangawupitewamutuko.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaanalusesalwakulitambukilanakushinganyeka,mukutwamachenyinamumazuakalunga,lusesakanaelulwakwitavisawuzemutukufumakalamuchikungulwilochamazuakalungaekanakwingilakweka,chipwenumbawukawenyinumbanavakwavomuzemungalila,kuhasakutwalahonamazukananakutangisanamuvilombelovyenyi.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaanalusesalwavishinganyekanakuhajika,lusesakanalunapulwakushinganyekavishinganyekavyenyichakuhonakupwanawomakahanakuzangakutambulanakunangulamazunavishinganyekakuhichilamukalamazuamijimbuchakuhonavekakumukinga.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaanajingolojakuhasakulikungululachakuhonawomakahanamumawuka.</p>
+    <p>Kakwechikupwakushinjilamutukwingilamuchikungulwiloko.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaanalusesalwakuhanjikavihandemufulumendeyalifuchilyenyi,yikiyechipwekuhichilamulivatuvasakulanavamwimanyinako.</p>
+    <p>Kalamutuanalusesalwakupwahamwekutachikizavyumamumilimoyamulifuchilyenyi.</p>
+    <p>Kuzangachavatuchikikonachihasakunehajingolojafulumendejalifuchilyosenanachipwachakuswekahakuvwota,chipwekukavangizajijilajikwavojakuvwotelamo.</p>
+  </li>
+  <li>
+    <p>Mutuwosenahakupwawamuchiyoyeloanalusesalwakupwanajijilajimwejakuhasakupwawakilikinga,kupwanalisesalwakupwanawupitemujilayatelalifuchichipwekayeyetavilamuluheto,mukutwamachavatuhamwenachisemwakahahawulemunalusesalwakulizachilalwakutwalamilimokanakulutwekuliwuzemutu.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaalinalusesalwakuzatamilimokwosenanazange,kukavangizajijilajamwazajakuzachilamoyizemilimokahanakumukingawuzemutukuchinamwahonakuwanamilimo.</p>
+    <p>Kalamutuchakuhonakulihandununaatelakutambulafwetoyakutamo.</p>
+    <p>Wosenaanakuzataanalusesalwakutambulafwetoyakutamokwesekesnamilimoanakuzatamwahasakulikafwanawonatangayenyikwesekesanachiyoyelochenyi,chipwekuwanajijilajikwavomwahasakuwanyinamomaliakulikafwanawo.</p>
+    <p>Mutuwosenaanalusesalwakuputukachipwekwingilamuchikungulwilonachihasakumuhanjikilakonakumukingamukuyoyachenyi.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaanalusesalwakupwanalwolalwakunokalwaviseke,kupwanalwolalwamwesekelwakuzachilamomilimokahanajilwolanawajakunokavatelawuzemutukumuhanafweto.</p>
+  </li>
+  <li>
+    <p>Mutuwoselaanalusesalwakupwanachiyoyelochakutamokupwamutuwamulemuhamwenatangayenyimukulya,mukuvwalanakulikangulakumijimbahamwenavyumavyazangiwakukuyoyachamutu,lusesalwakumukafwahalwolamwapwatuliwe,kashinakajichipwemwahonavyumavyatelakupwavyakumukafwamukuyoyachenyi.</p>
+    <p>Mapwevonavanyikevavandendevatelakupwanalusesalwakuvatalakanawa,kahamwanawuzenasemukilakwekakechiwamuzemuzuvokovatelakumulamakanawaapwenganachiyoyelochamwaza.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaanalusesalwakutanga.Kutangachosenachatelakupwachawana,kufumakukuputukanakuhetakwakamwihinakukukumachakutanga.Kutangachakuputukishilakochetalakupwachawana.KutangachakulinangulaMilimonachipwakokahakutangachizechakuhambakanyisanachipwalikakuvatvosenakwesekesanamanganaavovalinawo.</p>
+    <p>Kutangachosenanachipwakokwesekesanamanganaamutumanganaapwengawakulimanyinamuchiyoyelochenyichajingolojamutu.Nachinehesamutukuhasakumutwalakulutwe,kumuwanyisawusepamukachikamafuchi,vatuvekanavekamawukaekaavakakwitava,kahanachitwalamilimoyavakaUnitedNationskulutwemukunehakuwunda.</p>
+    <p>Visemivanalisesalwakusakulashikolamukachipwekutangamukaanakuzangachawuzemwanenyi.</p>
+  </li>
+  <li>
+    <p>Kalamutuanalisesalwakuhasakutwalachisemwakulutwechangalilakana,kuwahililachavyumavyachisemwakahanakutambasanachisemwakananakuwanakuwahachacho.</p>
+    <p>Mutuwosenaanalusesalwakukingachisemwachenyi,kwesekesanomunavahasavekakuhasakuchalumunachipwenumbakuchisonekakwesekesanomunachisonekayavene.</p>
+  </li>
+  <li>
+    <p>Mutuwosenawukwechilusesamuvyumavyachiyoyelocheyiomumukwechijingolojajishimbivanavulukakwesekesanalushikoeluvanafwelela.</p>
+  </li>
+  <li>
+    <p>Mutuwosenaanamulimomungalilayizeanakuyoyelayinakuyakulutwe.</p>
+    <p>Mulusesakanalwachiyulo,mutuwosenamwakapwanalusesalwakukavangizalushimbukwesekesanajishimbijizenavaketavilanakulilemesavatuvavenenakupwanakavumbimuchiyoyelochavo.</p>
+    <p>LusesalwajingolokanaejijakwitavilajachiyulokandakalalwolakujisachisanakuzombokakwesekesanajishimbijavakaUnitedNations.</p>
+  </li>
+  <li>
+    <p>Kandakuchifwelelangeechikulikasakanachalufwelelochinapandamakulifuchilimwekahako,liwukachipwemutukalalisesalwajingolomwahasakulilingilavyumachipwechumaechinachihasakupihisajishimbikanajalusesavanasonekako.</p>
+  </li>
+</ol>

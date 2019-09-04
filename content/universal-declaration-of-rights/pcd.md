@@ -1,0 +1,122 @@
+<h1 align='center'>Dèclaråcion dès dreûts d' l'ome po tos lès payîs dè monde</h1>
+<h2 align='center'></h2>
+<p align='center'>Considèrant qui l' rèspèt dèl dignité, qu'apartint sorlon l' nateûre a tos lès-omes so l' tére, èt d' leûs dreûts égåls, qu'on n' såreût 'lzî mèskeûre, c'èst l' fondemint dèl lîberté, dèl djustice èt dèl påye è monde ètîr ;
+considèrant qu' fåte dè k'nohe èt d' rèspècter lès dreûts d' l'ome, ènn' a dès cis qu' s'ont avili å pont d' brutålizer l' s-ôtes d'ine manîre scandaleûse po l' consyince di l'ûmånité qui l's-omes adon èspèrèt dè viker d'tot leû coûr èn-on monde wice qu'i sèrît turtos lîbes dè parler èt d' creûre, dilîbèrés qu'i sont dèl tèreûr èt dèl mizére, insi qu'il a stu prôclamé ;
+considèrant qu' s'on louke dè fwèrci l'ome a s'chèrvi dèl rèvole come dièrin mwèyin disconte di l'abus dèl pouhance èt d' l'assèrvih'mint, i fåt-st-apreume qu'on rèdjime di dreût garantih lès dreûts d' l'ome ;
+considèrant qu' lès peûpes dès Nåcions-Unèyes ont, è leû Lwè d' fondåcion, prôclamé 'ne fèye di pus' leû fwè d'vins lès dreûts naturéls di l'ome, d'vins l'dignité èt l' valeûr dès-omes èt dès feumes, qu'il ont rézoû d' favorizer l' progrès sociål èt d' mète è plèce dès mèyeûsès condicions po viker avou 'ne pus grande lîbèrté ;
+considèrant qu' lès-Etats mambes s'ont ègadjî po-z-assûrer vre°ymint tot costé, avou l'e°de di l'Organizåcion, li rèspèt dès dreûts d' l'ome èt d'sès naturélès lîbèrtés ;
+considèrant qu'i s' fåt turtos mète d'acwérd so l' significåcion d' cès dreûts èt d' ces lîbèrtés-la s'on vout rèyålizer on tél ègadjemint ;
+considèrant qu'il è-st-important d'ècorèdjî totes lès nåcions a s'aconter todi mîs eune l'ôte,
+li jènèrale Assimble°ye
+prôclame cisse Dèclaråcion dès dreûts d' l'ome come riprézintant lès comeunès valeûrs di l'ûmånité qui tos lès peûpes èt totes lès nåcions d'vront sayî d' tote leû fwèce dè mète èn-oûve afîs' qui totes lèes djins èt totes lès sôciètés, tot-z-avant tofér cisse Dèclaråcion èl tièsse si fwèrcihesse, avou lès mwèyins d' l'ansègnemint èt d' l'éducåcion, dè fèé crèhe li rèspèt d' cès dreûts èt lîbèrtés èt d'ènn' assûrer, gråce a dès-adjincenèdjes todi pus nèts å lève° nacionål èt internacionål, li rik'nohance èt l'aplicåcion è monde ètîr èt d'ine rèyéle manîre, ot'tant è-mé lès populåcions dès-Etats mambes qu' è-mé lès cisses dès tères qui sont d'zos leû k'dûhance.</p>
+<ol>
+  <li>
+    <p>Toslès-omesvinètåmondelîbesètégålspoçouqu'èstd'leûdignitéètd'leûsdreûts.Leûre°zonètleûconsyinceelzîfe°tond'vwérdis'kidûreintedizèlecomedèsfrès</p>
+  </li>
+  <li>
+    <p>Chaskeun'poutprétindeatoslèsdreûtsètatoteslèslîbèrtésquisontchalprôclamés,sinsqu'onprinseastème,parègzimpe,as'race,as'coleûr,as'nateûred'omeoud'feume,as'lingadje,asèscrwèyinces,asès-îdèyessol'politiqueousototl'minmecwè,alcontre°yeoualfamilediwicequ'iprovint,as'fôrtune,as'lignèdje,brèfacwèquiç'seûye.Ed'pus',nouknideûtpåtid'çouqu'onpoutpinserdègouvèrnémintdis'patrèye,disi-administråcion,dis'condicionrapôrtas-ôtespayis,qu'èleseûyesouvèrinneousoumîsed'inemanîreoud'l'ôte.</p>
+  </li>
+  <li>
+    <p>Totl'mondeadreûtalvèye,allîbèrté,alsûreté.</p>
+  </li>
+  <li>
+    <p>In-omen'amåylidreûtd'assèrviin-ôteome,d'ènnèféin-èsclåveèt'nemartchandèyequ'onpoutvindeouatch'ter.</p>
+  </li>
+  <li>
+    <p>Nouknipout-èssemètoualtorteûre,savadjmintmaltre°tîètavili,swè-dîzantdèlpûni.</p>
+  </li>
+  <li>
+    <p>Chaskeun'deût-èsselîbedèr'cwèrisèsdreûtsd'vantl'djustice,totwicequiç'seûye.</p>
+  </li>
+  <li>
+    <p>Toslès-omessontégåalsdivantlilwè,qu'èlzèsdeûtprotéjer,sinsnolepréfèrincepoonkoupol'ôte,çouqu'sèreûtcontre°realprézinteDéclaråcionParèlièmint,lilwè'lzèsdeûtprotéjercontelèscisqu'vôrîtric'mander'netélesôrdipréfèrince.</p>
+  </li>
+  <li>
+    <p>Chaskeun'deût-èssevrèyemintlîbed'atre°redivantlèsdjudjesdis'payistotlèscisqu'adjihètcontelèsme°ssesdreûtsrik'nohousd'vinsl'constitucionoud'vinslilwè.</p>
+  </li>
+  <li>
+    <p>Nouknipout,sinsnolebonere°zon,èssearèsté,rèssèré,oubintchèssîfoûdis'payis.</p>
+  </li>
+  <li>
+    <p>Totl'mondeaparèlièmintl'dreûtd'ple°tîs'cåsedivantontribunålquiseûyelîbeètsinsparti-pris.Etlid'vwèrdètribunål,cisèrèd'décîdersolèsdreûtsètsolèsobligåcionsdèsple°tieûsoubind'djudjîsil'acuzéèstcoupåbeouènocintdiçouqu'onl'amète.</p>
+  </li>
+  <li>
+    <p>Totquîè-st-acuzéd'ondèlitdeût-èssesupôzéènocintdisqu'atantqu'ilåyesitupubliquemintdjudjîètrik'nohoucoupåbed'aprèslilwèètsocondicionqu'ilåyesitutot-afe°tlîbedis'disfinde.</p>
+    <p>Nouknipout-èssecondannépodèsfe°tsoupodèsmåquemintsqu'n'alîtnincontelidreûtnacionålouinternacionålåmoumintqu'ontstucomètous.Ettotfîparèynipout-ièssecondannépusdeûremintqu'il'åreûtstuåminmemoumint,d'aprèslilwè.</p>
+  </li>
+  <li>
+    <p>Ilèstdisfindoud's'intrimètesinsre°zond'vinslès-afe°resd'inesaquîoudis'famile,dibrokîès'mohone,dinahîd'vinslèslètesqu'ir'çûtouqu'ilèvôye.Ilèstdisfindoud'l'ac'sûredivinssi-oneûroud'vinss'réputåcion.Ad'fåtd'çoula,chaskeun'al'dreûtd'rèclamerl'pretècsiondèslwès.</p>
+  </li>
+  <li>
+    <p>Chaskeun'al'dreûtd'cotîavås'payiscomeilîple°tètd's'adjîstrertotwicequ'ilaîdèye.</p>
+    <p>Chaskeun'aossil'dreûtd'cwitertotl'minmequépayîs,minmelisonk,ètd'îrintrerqwand-ilîple°t.</p>
+  </li>
+  <li>
+    <p>Siancasqu'i-åreût'nepèrsécussion,onatodil'dreûtd'cwèrias'ahouterètdis'se°weral'ètrindjîr,s'ilatomeinsi.</p>
+    <p>Onn'sipoutprévaleûrd'ontèldreûts'on-èstporsuvoupodesfe°tescléremintprovésquivontcontelèslwèsoucontelès-îdèyesdèsNåciones-Unèyes.</p>
+  </li>
+  <li>
+    <p>Chaskeun'adreûta'nenacionålité.</p>
+    <p>Nouknipout-èsse,sinsnolebonere°zon,spanidis'nacionåliténidis'dreûtd'ènnècandjî.</p>
+  </li>
+  <li>
+    <p>Sivitequ'ilontl'adje,l'omeètl'feumeditotl'minmequèlenacionålitéour'lidjonsontlîbesdis'marierètd'fonder'nefamile.Onkcomel'ôte,ilontlèsminmesdreûtsåmoumintèttotl'tinsd'leûmarièdjecomepol'divôrce.</p>
+    <p>Onn'poutmarierin-omeèt'nefeumes'in'sèrîtnind'acwèrd.</p>
+    <p>Linateûreafe°tdèlfamilelifondemintdèlsôciètéètl'sociètéossibinqu'l'Etatontl'dvwérdèlprotéjer.</p>
+  </li>
+  <li>
+    <p>Chaskeun'èstlîbed'aveûrdèbin,seûye-t-id'asonktotseû,seûye-t-iècomunôté.</p>
+    <p>Nouknipout-èsse,sinsnolebonere°zon,dispouyîdis'bin.</p>
+  </li>
+  <li>
+    <p>Chaskeun'èstme°ssedisès-îdèyes,dis'consyinca,dis'rilidjon.Coulavoutdîrequ'ilèstlîbedèréglers'vèyesosèsprôpés-îdèyesètsos'rilidjon,totseûoubinavoudès-ôtes,ès'mohonecomeåd'foû,avoul'ansègnemint,lèspratiques,lès-ûzancesètlèscèrèmon'rèyesquil'agrèyèt.</p>
+  </li>
+  <li>
+    <p>Chaskeun'èstlîbedèwårdersèsîdèyesètd'èlzèsprôclamer.Ossin'a-t-onnoudreûtd'èltoûrmètercåsedisès-îdèyesèt'lèstlîbed'alercwèri,dèr'çûreètd'publiyîdès-informåcionsdiquélemanîrequis'seûye.</p>
+  </li>
+  <li>
+    <p>Totl'mondeal'dreûtdis'rapoûlerètd's'assôciyertantquiç'n'èstninpofémargaye.</p>
+    <p>Nouknipout-èssefwèrcidèr'djondeineassociåcion.</p>
+  </li>
+  <li>
+    <p>Chaskeun'al'dreûtdèprindepartalpolitiquedis'payîs,seûye-t-idirèctèmint,seûye-t-iavoul'intrèmîsed'onr'prézintant,lîbrèminttchûzi.</p>
+    <p>Chaskeun'åsminmèscondiciones,poutprétindeaonpossedivinslès-administråcions.</p>
+    <p>Lèsme°ssesdèlnåcionnid'vètleûpouvwèrqu'alvol'tédèpeûpe,télequ'èlesidoneak'noheås-élècsions,qu'ifåtèmantchîd'vinsl'dreûtdèdjeû,åmoumintvolou,avoul'sufrajeûnivèrsélètlèsminmesdreûtspoturtos.Ets'fåt-icoqu'chaskeun'sipôyerètrôk'lerpovôtersècrètemint,amonsqu'on-imådjineineôtemanîredèrèspècterparèlièmintl'lîbèrtédèvôtant.</p>
+  </li>
+  <li>
+    <p>Dèmoumintqu'inesaquîèstrik'nohowecomemambedèlsôcièté,èlepoutprétindealsécuritésociåle.Elleal'dreûtd'rèclamertotçouqu'elleamèzåhepovikerconv'nåblèmint,pot'nis'rang,pos'cultiver,dimanîreawårdertotesidignitéd'omeètafélîbrèmintfrudjîsèsprôpèscapåcités.Etpoçoula,èledeûtpoleûrcontersol'èhowedèpayîstot-ètîrcomesol'assistincedès-ôtespayîs,chaskeun'sorlonsi-organizåcionètsèsmwèyins.</p>
+  </li>
+  <li>
+    <p>Chaskeun'al'dreûtd'ovrerètd'fél'mestîqu'lîple°t.Ets'èldeût-onadègnîsol'ovrèdjetotlîmètantdèscondicionsqu'sèyèssedjussesétdûhåves.Elfåtossiassûrercontelichômèdje.</p>
+    <p>Pol'minmepayèle,tosl's-ovrîsontdreûtalminmepåye,sinsnoleprèfèrince.</p>
+    <p>Totquîqu'oûveûredeûtlèverl'sale°requilîr'vintètqu'deûtlîpèrmète,luèts'famile,dèminerl'vicåaèyed'ineone°tedjint.Ets'ilatomeinsi,c'è-st-alsôciètéd'mèteçouqu'pôreûtmåquer.</p>
+    <p>Onatodil'dreûtdèr'djondeonsindicatoudis'mèteasaqwant'po'nn'èmantchîonk.</p>
+  </li>
+  <li>
+    <p>Totl'mondesideûtpoleûrripwèzerètprindedèslwèzîrs.C'è-st-insiqu'onn'poutfwèrciin-ovrîatrîmerfoûmèzeûreètqu'onlîdeûtpayîdèsvacancesåboutd'ontins.</p>
+  </li>
+  <li>
+    <p>Totl'mondeadreûta'nevicårèyequilîpèrmètedèsognîs'santéèts'confôrtcomelèscisdis'famile,parègzimpeôpoçouqu'èstd'magnî,dis'moussî,d's'adjîstrerndis'fémédîètd'saqwantschèrvicesdisôciètéqu'onn's'èpoutpasser.Lèschômeurs,lèsmalådes,lèsmèsbrudjîs,lèsvèfsètlèsvèves,lèsveyèsdjints,lèscisqu'onpièrdouleûgangnèdjemågrézèlsontdreûtalsécurité.</p>
+    <p>Lèsméresdifamileètl's-ènfantsont-st-apreumelidreûtd'èssee°dîsètassistés.Tosl's-éfants,qu'isèyèssevinouamondedivinsl'marièdjeoufoû,ontl'minmedreûtalsécuritésociaåle.</p>
+  </li>
+  <li>
+    <p>Totl'mondedeûtpoleûrfédès-ètudes,ètçoulagråtis',dèmonspoçouqu'èstdèsbassèsscoles.Ifåt-st-èmantchîonpôtotcostédèsscolestèchniquesètprofèssionéles.Tantqu'åshôtèsscoles,èlzèsfåtdroviparèlièmintaturtosd'aprèslèsmèrites.</p>
+    <p>Lid'vwèrdèsme°ssesdiscole,c'èstd'féfrudjîlèscapåcitésd'chaskeun'ètd'mîférèspècterlèsdreûtsd'l'omeètlèsprumîrèslîbèrtés.C'è-st-ossid'aminerlèsdjintsd'toteslèsnåcions,ditoteslèsraces,ditoteslèsr'lidjonsas'mîcomprinde,as'mîsupwèrter,as'mîinmer.C'è-stanfind'e°dîlèsNåcions-Unèyesatodimîovrerpoquil'mondewådelipåye.</p>
+    <p>C'è-stèapreumeåsparintsd'tchûzil'mèyeûsesicolepoleûs-èfants.</p>
+  </li>
+  <li>
+    <p>Rapôrtalcultûre,chaquemambedèlcomunôtédeûtpoleûrprofiterd'totçouqui'is'passe,an'mirerlès-oûvesdès-årtisses,prindepårtås-invancionsdèssavantsètaleûsbinfe°ts.</p>
+    <p>Lèssavants,lèsscriyeûs,lès-årtissesontl'dreûtd'èssedisfindouss'onvôreûtfétwertaleûgangnèdjeoubinaleûdignité.</p>
+  </li>
+  <li>
+    <p>D'ineclasseal'ôtedèlsôcièté,d'onpayîsal'ôte,ons'deûtarindjîd'manîreaç'quilèsdreûtsètlèslîbèrtéschaldivantprôclaméssèyèssebinrèspèctés.</p>
+  </li>
+  <li>
+    <p>Chaskeun'n'adès-obligåcionsqu'avoul'comunôtéqu'èlle°ttot-afe°tlîbedèmèteèn-oûvesèscapåcités.</p>
+    <p>Lilwèaseûlelipouwèrdèrastrindelèsdreûtsètlèslîbèrtésd'chaskeun',dèmoumintqu'c'èstpoférik'noheètrèspècterlèsdreûtsètlèslîbèrtésdès-ôtes,poprézèrverl'moråalité,l'tranquilitédèsdhinsètl'binåhisted'turtosd'vins'nesôciètéd'dèmocråtes.</p>
+    <p>Ditotemanîre,in'såreût-èssesquèstiond'profiterd'cèsdreûtsètd'cèslîbertéspo-z-alerdiscontelès-îdèyesètlesgrandèsréguesdèsNåciones-Unèyes.</p>
+  </li>
+  <li>
+    <p>On-åreûttwértdis'voleûrrabatesototl'minmequelårtikedèlprézinteDèclaracion,quiç'seûyeinenåcionoubin'neseûledjint,podjustumintsayîdèdistrûrelèsdreûtsètlèslîbertésqu's'îtrovètprôclamés.</p>
+  </li>
+</ol>

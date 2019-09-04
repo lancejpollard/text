@@ -1,0 +1,122 @@
+<h1 align='center'>DHÉY TSALAP ABAL PATAL AN INIK ANI AN UXUM AXI K'WAJÍL TI AL AN TSABÁL</h1>
+<h2 align='center'></h2>
+<p align='center'>Kom i exiál abal in tujtal an walkadhtaláb, an chubaxtaláb ani an koyataláb ti al an tsabál k'wajat ti al an exlomtaláb k'al patal wawá' tu k'wajíi, in tomnál ki bats'uw jununúl an alwa'taláb.
+Kom i exlál abal tam jún yab in exlál jawa' xi pél in uchbíl ani an k'e'atnaxtaláb in t'ajámal ka wa'tsin yani kidháb t'anél ani yan jita' axi odhnámej, ani kom uluwamej abal i ayál juni ít tsalap junti ka wa'tsin juni k'ay'lál juntij an k'wajílchik yabáts ka xe'tsin k'al i jík'ib mani ka k'wajiy al an ts'ejwantaltaiáb ani ka k'wajiy walkadh abal kin uluw ani kin bela'jawa'its jún kin le'na'.
+Kom i exlál abal an éyalchik in tomnál kin beletna' ani kin k'aniy an chubaxtaiáb abal an inikchik yab kin yéjenchij kin dhay'k'a'an k'ak'adh pextaláb abal ka ats'anchat in káwintal.
+Kom i exlál abal in tomnál ki beldha' juni tekedh tsalap abal ka k'ánidháxinchik an kwenchal.
+Kom i exlál abal an bichówlom ti al an "Naciones Unidas" in wichk'ómalchik kin uluw abal in kwa'al in alwa' ichích abal kin k'ak'nanchij in éy ani in jalbíl tin putát an inik ani an uxum, ani in ulúmalchik abal ne'etschik kin t'aja' an tsápláb abal ka nixk'in an ts'ejwantaláb ti al juni walkadhtalá axi lej púlik tin tomnál ki ejtiy.
+Kom i exlál abal an kwenchaláb axi k'wajat junkudh in binámal in káwintal abal neéts kin tolmiy an ONU abal kin k'ak'nanchij jawa' in kwa'al tin uchbíl kin bats'uwchik patal an k'wajíl tejé' al an tsabál, ani
+kom i exlál abal axe'chik xi uchbidhtaláb in kwa'al lej yan in jalbíl bala ka putuwat jawa' xi tejé' k'wajat uludh:
+AN PULIK TAMKUNTALÁB IN ULAL:
+Axé' xi tsalap tin k'ánél an inikchik tin putát an tsabál, in lé' abal an kwenchal ani an bichowchik kin t'aja' an tsápláb abal ti al an exóbintalab ka k'ák'náj ani ka putuwat tin puwél an bichow axi k'wajat junkudh ti al an "Naciones Unidas", patal jawa' tejé' jilk'onal uludh.</p>
+<ol>
+  <li>
+    <p>Patalaninikanianuxumuwa'tsinalwalkadhabaljununúlkinbats'uwanalwa'talábanikapidhaninéyjant'ini'intomnál;inkwa'alintsalpádhaniink'ayá'abalkink'anidha'injuntal.</p>
+  </li>
+  <li>
+    <p>Patalank'wajílintomnálkinbats'uwanuchbílábjawa'tejé'bijidh,yabint'ajálmaxpilchikinkáwintal,pilchikinwa'tsintal,pilchikinéyaniinbelkaxtal,pilchikintsalap,maxts'alatanimaxpilchikinwalinot'ól.Jayetsejyabintomnálkak'e'atnájmaxpilchiktsalapaniinéy;maxk'wajílaljunikwenchalaxik'wajatabatnadhk'alpilikwenchal.</p>
+  </li>
+  <li>
+    <p>Patalank'wajílintomnálkak'ak'nanchatinejatal,ininiktal,inéyanianjolatalábabalkinejtowkaxe'tsinalwa'.</p>
+  </li>
+  <li>
+    <p>Manijita'yabpidhachik'ijabalkint'ójondha'júnjita'aniyabkinjalbíy,maniintomnálkaxe'tsindhájtinujnéljant'ini't'ajchinalchikanko'nél.</p>
+  </li>
+  <li>
+    <p>Yabwalkadhabaljita'katsa'uwat,kats'ojbédhájmanikat'ajchinintidhéjaljunits'ejeltaiáb.</p>
+  </li>
+  <li>
+    <p>Patalank'wajílinuchbíltinkwa'alabalkapidhanjuniexlomtalábk'alanéyaltialankwenchaljuntijk'wjíl.</p>
+  </li>
+  <li>
+    <p>Jununúlijaibílikwa'altialanabatnaxtaláb,jaxtámitsintomnáljunatkuk'ániyatmaju'támakitskuk'wajiy;aniintomnálkujek'ondhájtamjita'kinle'na'tukutákchikiy,tukuk'e'atna'anijayejmaxjita'kinle'na'tuodhna'k'alikáw.</p>
+  </li>
+  <li>
+    <p>Tamkujolbiyatk'aljunikáw,intomnálabaljilchinijolátabalkik'ániytibá'.</p>
+  </li>
+  <li>
+    <p>Manijita'yabintomnálkaalk'idh'wik'anmanikakedhmayattinkwenchál.</p>
+  </li>
+  <li>
+    <p>Patalintomnálkaats'ank'alanéyalabalkaexóbnanchatintsalapanikaexiájmaxchubaxjolbidhanimaxibáj.Anéyalyabintomnálkinbaliyinkáwintalabalkinok'xidhwalbiyjunijolbinél.</p>
+  </li>
+  <li>
+    <p>Pataljita'kane'dhájaljuniéyaltalábyabintomnáldhubatitskako'oyattipojkax,maxyabayejelchinenekinjolbíl;anijayejabalintomnálkapidhanijolátkink'ániytinbá'.</p>
+    <p>Yabjita'kajolbiyatk'aljunit'ajnélaxitamtiwat'ey,yabayejakexladhmaxpélijolbintalábtinaltálílmanitieiébankwenchaljuntijk'wajíl.Jayétsek'ijyabintomnálkapunchinjunijolbintalábaxiyabjá'inbajuwalant'ajnél.</p>
+  </li>
+  <li>
+    <p>Yabjita'intomnálkatakchikattininiktal,tink'álábil,tink'imá',tinúwil,tinxe'étsmanikaxe'tsindhájk'alialk'idhkáwmaníkat'ajchinintídhéj.Patalintomnálkak'ániyattamkale'nájkat'ajábchink'aljitákits.</p>
+  </li>
+  <li>
+    <p>Jitákitsk'ijne'etskinepowkaxe'tsintinkwenchálanikinpunuwink'imá'ju'támakitsk'ijkinle'na'.</p>
+    <p>Jitákitsk'ijinejtowalkakalejanikawichiytinkwenchálanijayejaba'ani'pílikwenchaltik'wajíl.</p>
+  </li>
+  <li>
+    <p>Tamjúnxe'etstialiyábabalkaodhnáj,majawákitstambichowintomnálkapidhanik'ijabalkatsink'on.</p>
+    <p>Axé'xitsalapyabne'etskaéyantamchubaxwa'atsjunipulikjolbintalábaniwa'atsjunik'idhábt'ajnélaxian"NacionesUnidas"inlé'abalkataley.</p>
+  </li>
+  <li>
+    <p>Patalank'wajílintomnálkawalkanchatkinko'oyjúninkwenchál.</p>
+    <p>Manijita'yabintomnálkak'ánchinabalkinjalk'uyinkwenchál,maxanítstinlé'.</p>
+  </li>
+  <li>
+    <p>Tamkinbajuwitsintamúb,anuxumanianinikchik,k'wajatjolatabalkatomkinanikininkiychikjunik'imádh,kak'wajiychiktik'imadhanimaxkinbajuwchikkajíláxin,intomnálchikkak'ák'náchikanikapidhanjununúlinuchbíl.</p>
+    <p>Yabjita'intomnálkatomkiyatk'alitsápláb,komaljunitomkintalábintomálkak'wajiychikkulbéljant'ini'anuxumanianinik.</p>
+    <p>Ank'imádhjatsintujtalanxe'tsintaláb,jaxtámanéyalinkwa'altinuchbílkink'ak'na',kinbeletna'anikink'ániyabalyabkabuk'lun.</p>
+  </li>
+  <li>
+    <p>Patalank'wajílinkwa'alinuchbílkinko'oyik'áiábtinkwetémtalanijayejaxidhéy,maxanítstinlé'.</p>
+    <p>Manijita'yabintomnálkaaik'idhtakchikinchatink'álábil.</p>
+  </li>
+  <li>
+    <p>Patalk'wajatjolatabalkinkwetémko'oyintsalápilaniinbelkaxtal,aniabalkint'aja'anikintejwamédha'tink'imá'aniju'támitskinle'na',nixé'xibelkaxtaláb,tinkwetémtalanitimudhél;jayetsejabalkinjalk'uyinbelkaxtaltamkinle'na'.</p>
+  </li>
+  <li>
+    <p>Pataljolatabalkintejwamédha'intsalapaniinkáwintal;axé'xiuchbidhtalábjayetsejinulalabalyabintomnálkak'e'atnájtinébálintsalápil;jayetsejabalkinaliyanikinbats'uwpílitsalapaniabalkinbuk'uwmaju'támakitskinle'na'anik'aijawákitstameyixtaláb.</p>
+  </li>
+  <li>
+    <p>Pataljolatabalkats'at'eyk'aljawákitstamjunkudhtalábabalkadhéyt'ójonanikink'ániychiktinbá'.</p>
+    <p>Yabjitaintomnálkat'ajchinitsáplábabalexpidhkats'at'eyaljunidhéyt'ojlábmaxyabinlé'.</p>
+  </li>
+  <li>
+    <p>Patalank'wajílinkwa'altinuchbíltit'aja'tiéyalanikinbijiyjita'inkulbétnáltiéyaltinkwenchál.</p>
+    <p>Patalinkwa'aitinuchbílkatolmiyatabalkinbajuwkaulitsalanpulikéyaltai{abtinkwenchál.</p>
+    <p>Tinkáwintalanbichowtaja'itstik'wajatintujtalanéyaltaláb.Anbichowintomnálkinbijiyinéyalilanianéyalkwa'alkint'aja'jawa'kinuluwanbichow.</p>
+  </li>
+  <li>
+    <p>Patalank'wajílinkwa'altinuchbílkinbats'uwanalwa'talábjawa'kawa'tsintinkwenchálanikinko'oyjawa'inyéjenchalabalkak'apúts,abalkinpuwedha'inxe'étsaniabalkinyanedha'inexóbintalaníkinpuwedha'inéyaniintsalap.</p>
+  </li>
+  <li>
+    <p>Patalinuchbíltinkwa'alabalkinko'oyjunit'ojlábaniabalkinkwetémtakuyint'ojlábiljawa'itsinkulbétnálaniintomnálkatolmiyattamyabinkwa'alju'tájtikat'ójon.</p>
+    <p>Jununúlinkwa'alinuchbílkaalwa'jalbinchatint'ojlábilaniabalyabkak'e'atnáj.</p>
+    <p>Patalant'ojnalintomnálkapidhanjunialwa'jalbixtalábaxikinbajuwabalkinbela'inyanétalanikinejtowkinpidha'pataljawa'itsintomnálabalkaalwa'k'wajiyjunik'imádh.</p>
+    <p>Tinyanélank'wajíljolatabalkinjunkuwtinbá'abalkat'ójonaniabalkink'ániychikint'ojlábil.</p>
+  </li>
+  <li>
+    <p>Patalinkwa'altinuchbílabalkakoyótsjunwe'tit'ojnalaniabalkajalbinchatankoytaláb.</p>
+  </li>
+  <li>
+    <p>Patalinkwa'alinuchbílkinko'oyanalwa'talábabalkinejtowkinpijchiyinyanétal,kiniláliy,kinkó'onchijink'imá',anikinpidha'jawa'itskinyéjenchij;jayetsejintomnálkapidhanitolmixtalábtamyabkinko'oyit'ojláb,tamkayaw'láts,tamkajilk'ontsemchidh,tamk'wátitsalanyejtsetalábanimaxkinwat'a'juniyajchiktalábaxikint'aja'abalyabatskinejtowtit'ojnal.</p>
+    <p>Tamt'elé'lidhjunimímláb,intomnálkaalwa'beletnáj,jajá'aniintsakámil.Patalantsakamaxikawa'tsintialjunitomkidhk'imádhaniaxiibáj,jayetsejintomnáljununúlkak'anidháj.</p>
+  </li>
+  <li>
+    <p>Patalintomnálintomnálkapidhanjuniexóbintalábaik'idh.Ank'a'álexóbintalábintomnálkabínájabalpatal.Anexóbintalábtinkwéntajant'ojláb,inyéjenchalkayanedháj;aniyk'ijtintomnálkabínájanexóbintaiábaxiebálitsinalwá'.</p>
+    <p>Anexóbintalábintomnálkint'aja'abaljúnkayaneyintsalapanikinpuwedha'inéyjita'axiexóbal;kink'anidha'injuntálanikink'ák'nanchijintsalápilaniinéy.Jayétsejintomnálabalkint'aja'abalkinbeldha'ant'ojlábaxint'ajálanONUabalets'eykawa'tsinankoyataiábtialantsabái.</p>
+    <p>Antátalábchikinkw'alinejétabalkintakuyanexóbintalábaxinle'nanchalabalintsakámil.</p>
+  </li>
+  <li>
+    <p>Patalinkwa'aiinuchbílkinbats'uwanalwa'talábaxikawa'tsintialanexóbintaláb,kink'anidha'anikinbeletna'anexóbintaláb.</p>
+    <p>Patalinkwa'altinuchbílabalkink'ániyantsalapaxialwa'anipataljawa'inwa'tsindhálanexóbintaláb.</p>
+  </li>
+  <li>
+    <p>Patalintomnálkinko'oyjunixe'tsintalábjuntijkaejtowatkaputuwatjawa'axitejé'jilk'onaluludhalaxé'xidheytsalap.</p>
+  </li>
+  <li>
+    <p>Patalinkwa'altinuchbílkat'ójonabalkinpuwedha'inkwenchál,kom,taja'itstintomnálkuyejeyanikipuwedha'tibá'.</p>
+    <p>Pataljawa'kile'na',ne'etskiejtowkit'aja';expidhyabwalkadhabalkiodhna'ijuntal,abalkiuk'pinchijintsalapaniabalkit'ajchijitsáplábabalkijalk'unchijintsalápil,kommaxkit'aja'ani',yabátsijalpiyalitsankáw.</p>
+    <p>Axé'chikxiuchbíláb,yabintomnálnijayk'i'kintomólna'jawa'intsalpayalanit'ajálan"NacionesUnidas".</p>
+  </li>
+  <li>
+    <p>Manijita'kintsalpayabalaxé'xidhéytsalapinbínálik'ijabalkat'ajanjunipojkaxtaláb,juntijkat'apiyatabalkaéyananuchbílábjawa'tejé'bijidhalaxe'xidheytsalap.</p>
+  </li>
+</ol>

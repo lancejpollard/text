@@ -1,0 +1,122 @@
+<h1 align='center'>Beehazą́ą Ił Chʼétʼaah</h1>
+<h2 align='center'></h2>
+<p align='center'>Kótʼéego Hazʼaah: Baá akohwiindzingo éí ílį́go adaanisįikéesgo nihiisílá. Áadóó aheełtʼéego dóó bee niháʼahootʼiʼígíí doo handitʼáago. Bílaʼ ashdlaʼii éí tʼááʼ áłtsoni bée hółdziłgo beehwiidooʼaał tʼáá nííkʼeh dóó aheełtʼéego bee ahaanitsáhakeesgo éí bee ahihodíneʼenah nahasdzaan bikáagí.
+Kótʼéego Hazʼaah: Diné doo ílį́įgo baa nitsahakeesgo adeesdeeʼ éí biniinaa tʼáá naʼníleʼdii ábiʼdilʼí. Biniinaa diné biniʼ dazlį́į́ʼ dóó nahasdzáán tʼáá níítʼéé bílaʼ bee hideeznáá ashdlaʼii tʼáá bíniikʼeh hadeesdzih nízingo bee bá hazʼą́ą́ doo dóó yoodlą́nígíí dóó doo yináldzidgo dóó doo biniʼ siʼą́ągo tʼáá ałtsoní niʼhookááʼ dineʼé aláahdi bee baʼakohwiidzin doo.
+Kótʼéego Hazʼaah: Tsíʼdó doo tʼáágéédda bílaʼ ashdlaʼiiʼ áchʼaaʼ hadeesdzih nizingo tʼáadoo leʼé bee bidiljishgo biniinaa éí bilaʼ ashdlaʼii tʼáá ałtsoní bee baahoochįʼgo beehazáanii bá alyaa.
+Kótʼéego Hazʼaah: Tsída aláahdi achʼįholʼį́ kʼé wolyé hígíí dine ałąą atʼéhígíí kéyah yee daʼahootą doo biniiyé.
+Kótʼéego Hazʼaah: Bílaʼ ashdlaʼii kéyah dahnidahaazʼą́ągo yee daʼahótą́ʼígíí yikʼéhgo deiyíłnííshígíí yee háádaashzííh bílaʼ ashdlaʼii bee baa ákohwiiniidzinígíí binahjįʼ bilaʼ ashdlaʼii ílį́įgo baanitsínáhoodeeskééz. Diné dóó sáanii tʼáá łaʼí nízínígo aheełtéego bá adahazłʼį éé bina;hjįʼ diné beeiinaʼ náás noosééł dóó iiná yáʼátʼéehii néididooléełgo bá bichąʼ hwíidóoneʼ.
+Kótʼéego Hazʼaah: Kéyah yá nídaazínígíí yee ádáhadaasdzííh kodóó nídidoolyééł ahił nideiilnishgo kéyah nidahazʼą́ągo yee doʼahóótąʼígíí bił náhásdzáán tʼáá níítʼéé bidineʼé yee hodísin doo. Bílaʼ ashdlaʼii bee baa hóchʼįʼígíí doo tʼáá bí bíniʼ kʼehgo hiinánánígíí.
+Kótʼéego Hazʼaah: Tʼáá ałtsoní yaa akonídzin díí bee baa hóchįʼígíí dóó tʼáá yíníkʼeh iináago áláah áníłtsohgo baa nitsáʼhákeesgo binahjjįʼ baa ákohwiinidzinígíí bee haʼoodzííh.
+Kʼad Kótʼe Áłahʼ Azlį́į́ʼígíí Yee Ákʼihadaasdzíí
+Díí nahasdzáán bee bá haʼadziih bílaʼ ashdlaʼii bee baa hóchįʼígíí bikʼehgo óʼoolʼííłdoo biniiyé, bílaʼ ashdlaaʼii tʼáá ałtso bá áté dóó kéyah tʼáá átʼé sinilígíí báʼatʼé, tʼaałáʼíjinízínígo dóó bíla ashdlaʼii ninánílʼą́ąjįʼ ádííyóltąʼ dooleeł díí haʼoodziiʼígíí. Bilaʼ ashdlaaʼii áłahjįʼ biniʼnilíidoo dóó yee náásgóó anootįįłdoo. Áádóó bee óʼhooʼąąhdoo neeʼniʼjįʼ bee hodílzindoo díí beeʼaahóchįʼígíí dóó yíníkʼehgo bee náás ʼiiná yidiłdoo díí kéyah hazʼą́ądoo dóó tówónanígóó be hołdzildoo tʼáá ałtsohjigo dóó bikʼeh ʼééhozin doo dóó dilyindoo naatʼą́ąnii kéyah yándaazínígíí bitahgo aadóó diné yił kééhatʼį́į́nii yásizínígíí bił hazʼą́ąji.</p>
+<ol>
+  <li>
+    <p>Bilaʼashdaʼiitʼááałtsohyiníkʼehgobidizhchįhdóóaheełtʼeegoílį́į́gobeebaahóchįʼ.Eííháníʼdóóhánítshakeeshwiihdaasyaʼeííbinahjį́ʼahidiníłnáhgoálíleekʼehgokʼébeeahiłniidlį́.</p>
+  </li>
+  <li>
+    <p>Tsídítʼááájítʼébeeháhazʼąʼhaahóchįʼgodóóyiníkʼehgonijigháokodóóbeehooʼaʼígííbikʼehgotʼáadoobeeʼałʼą́ąʼátʼéhégóó.Jódíídóoneʼéidlínígíí,hakágíanoolninígíí,asdzánídóódinéídlį́hígíídóónihizaadáádóóniheʼoodlaʼáádóónihiwááshindoonbaanitsiikeesígííáádóóbeendahsiidzinígíí,dóónihikéyahdóónihiʼdizhchį́įhjį́ʼbeenihaahóchiʼ.Kodóónasgóódoohaadeetʼéégodahbeeahantsiikeesdadoolééłnihiwááshindoonátʼéhą́gíídóónihiłhazʼánígíídoodaiiʼtówánáanígóókéyahadahootʼéhígíídoodaiiʼkéyahnijigháádę́ę́ʼazaáshį́į́tʼáásahdiibiłhazą́ąndi,áádóónanáłaʼbígóbikááʼkéhojitʼį́įgoazhą́shį́į́dootʼáábiadahnahatʼáadandidoodaiíʼtʼááhóádahnahwiijitʼáhígíítʼáábiʼohndi.</p>
+  </li>
+  <li>
+    <p>Tsídítʼááájítʼébeeháhazʼą́iináʼázhdoolííłgoáádóóʼałdótʼááyiníkʼehgohołdzilgohołhazʼą́ądoo.</p>
+  </li>
+  <li>
+    <p>Łaʼdahéídoonaalteehʼédooleełdadóódooháidayánaalaʼídooleełdadóódoonaaltehʼéadoolniiłgodoobeehazʼą́ąda.</p>
+  </li>
+  <li>
+    <p>Tʼááheíídaéídooatídoolníiłdaáádóóʼałdóʼdootʼáánaʼníleʼdiidinédooídlį́į́gobaatsehodidookosda.</p>
+  </li>
+  <li>
+    <p>TsiʼdíTʼááájítʼehábeehaazʼą́haaʼakowhiindzingotʼááałtsohjįʼbílaʼashdlaʼiijílį́įgobeehazʼáániiyeehasʼą́.</p>
+  </li>
+  <li>
+    <p>Tsíʼdítʼááájítʼeahejíłtʼébeehazʼaaniibinahjį́ʼdóódoohoʼdoolchʼį́į́hdadooleełaheełtʼéegohaahóchįʼbeehazʼáaniibinahjįʼtʼááajiłtsohéíhakʼéstiʼhaahóchįʼgobinahjį́doohodoolchʼį́į́dadíídoobiładodzihda.Kweʼébeehaʼoodzíhígíídoooochʼį́į́dhabizhdiyoołłaałda.</p>
+  </li>
+  <li>
+    <p>Tsíʼdítʼááájíłtsohbeeháhazʼą́tʼáadooleʼéháhashtʼedoolníiłgowááshindoonáájíyáʼééhósinígííákótʼéegobeehazʼáaniibeeháʼahootʼíʼyę́ębiłaszihgo.</p>
+  </li>
+  <li>
+    <p>Tʼááháidaéíbiniinaaniiádingodoobiʼdidooltsoołdadóódooyahʼadooltʼeełdadóódoochʼidinóolcheełda.</p>
+  </li>
+  <li>
+    <p>Tʼááájíłtsohbeeháʼahóótʼíʼtʼááaheełtʼéegodinébinááłhábaahwinitʼį́įgodooháájídaachʼíhjínilíígííbinááłéíháyaanídáastʼįįdgoyeenidahodooʼááłbeeháahootʼígíídóóbeehóholnígíídóóhaʼátʼííshį́į́awáalyahjíbeehakʼehástʼahígíí.</p>
+  </li>
+  <li>
+    <p>Tsídítʼááʼajiłtsohhakʼihodiitʼánígíídooajitʼį́į́gohanitsáhákeesnléíbeehasáaniibeehahwinistʼiindooindahtʼááʼaanííʼaájítʼį́į́gobeehwééhozingobeeachʼaahhazhdoodzihígííáłtsoájíílaago.</p>
+    <p>Tʼááháiidahdootʼááʼanííájítʼį́įgobeehakʼihodootʼahdadooájítʼį́į́go.Tʼáádooajiitʼį́į́gobeehakʼéhestʼahgokéyahtʼáánahwiizʼáandę́ę́ʼdóótówonanidíbibeehazáaniikʼizhnítiʼhoʼdiʼníigoáhoodzaayę́ędą́ą́ʼ.Áádóóałdóʼbeehazʼáaniiyeenihodooʼáałígíídoobiláahgoyeehániʼhodooʼááłda.</p>
+  </li>
+  <li>
+    <p>Tʼááhéiidabiłhazʼánígííbáʼáłchíníínídahbighandahdooháiitʼáaodahéííbaatį́į́ʼdoodáałdah.Tʼááajiłtsohbeehazʼą́ąniibikʼehgobeeháhóchį́.</p>
+  </li>
+  <li>
+    <p>Tʼááajiłtohéítʼááhozhnizingóónijigháagodóóhaghanazhoolííłgobeeháhazą́.</p>
+    <p>Tʼááajiłtsohéíkéyahbiiʼhájinéehgobeeháhazą́áádóótʼááhohakéyahbííʼyahʼaníjíneehgoałdóʼbeeháhazą́.</p>
+  </li>
+  <li>
+    <p>Tʼááajiłtsohnáánałahjį́kéyahbiishdínóochéełgodooatihodooníiłgobeeháhazą́.</p>
+    <p>Ákondidííbéehazą́ąnígííéídoochoidooʼį́į́łdaawáalyahjinaaztʼiʼígííbikʼeezhoochééłgo.Áádóóáłdoʼkéyahtʼaasiʼą́ą́ndę́ę́beheehazą́ąniibiłiisihgoéídoochoiiʼdooʼį́į́łda.</p>
+  </li>
+  <li>
+    <p>Tʼááajiłtsǫhdooneʼéjílínígííbeeháhazʼą́.</p>
+    <p>Héíídahéíídóoneʼénilínígíídoobąąhdootʼį́į́łdah.</p>
+  </li>
+  <li>
+    <p>Dinédóósáaniineeyánígííádóoneʼénilígíídóóbeʼoodląʼęíídoobichʼą́ąhgoadooyehgobáhazą́.Ałtsʼą́ą́jíaheełtʼéegoáhéʼeskehbeehazʼą́ą́niibikʼéstiʼáádóóbaʼáłchiníhoodoołeelgobeebáhazą́áádóóáłtsʼáʼítʼaashgobeebáahootʼįʼʼ.</p>
+    <p>Ahidiiʼaashígííáłtsʼąąjitʼáábiniikʼehgoáłhaadootʼash.</p>
+    <p>Hooghanhazą́ą́dooéíiináhadahaaztʼiʼdinétahjį́dóóbeehazą́ąniibaanchįʼ.</p>
+  </li>
+  <li>
+    <p>Tʼááájíłtsohkéyahtʼááadiighahágóhweehodooleełgobeeháhazʼą́doodaiiʼdíkwíjíltʼéegodahkéyahdajótąʼgobeeháhazʼą́.</p>
+    <p>Hę́íídahéítʼáadoobiniinaanígókéyahdoobighahdootʼááłdah.</p>
+  </li>
+  <li>
+    <p>Tʼááájíłtsohbeebaʼahóótʼiʼtʼááhóadahnahojitʼáagodóónitsijikeesgodóóhweʼoodląʼhólóogodííbeeháʼahootʼiʼígíínaanáłahjį́ʼhweʼoodląʼígííbeeʼizhdidooʼgáałgobeehazʼą́.Dinétahjį́hweʼoodląʼígííbeehwééhozíndooáádóóbeenazhnitindoo.Áádóóałdóʼáájį́báhozhdísindoo.</p>
+  </li>
+  <li>
+    <p>Tʼááájíłtsohtʼáadooleʼébaantsíjíkeesgobeehazdoodzihgobeeháhazʼą́.Dííbaantsíjíkeesígííéíhéídahdoohániʼiidoolííłda.Áádóóbikahnazhnitáagodóónízhdiiláagobeehadeesdzihjinizingobééshhalneʼé,naalkidídahdoodaiiʼnaaltsoosbiyiʼjį́ʼbeehazdoodzihgobeeháhazʼą́.</p>
+  </li>
+  <li>
+    <p>Tʼááájíłtsohałahnijídleehgodóóáłhiłdajidlį́į́gobeeháhazʼą́.</p>
+    <p>Tʼááhéídahéídooíínízingodooatahdooltʼeełdah.</p>
+  </li>
+  <li>
+    <p>Tʼááajiłtsohbeeháʼahóótʼį́ʼhakéyahbiwááshindoonatahjílį́į́godoodaiiʼnaatʼáaniininádajiʼniłgo.</p>
+    <p>Tʼááajiłtsohaheełtʼéegoháʼahóótʼiʼhakáhanaʼáwʼoʼdooleełhakéyahbiʼyiʼdi.</p>
+    <p>Dinéáyisį́beebóholnííhbiwááshindoonyeeyáhwiidoolʼaałígíí.Dííbeehoʼaʼígííbeehadoodzihdóótʼáábánáhooʼaagóneʼéíanáʼáʼahdooleeł.Áádóótʼááałtsohaheełtʼéegoánídaʼjiʼahdooleełtʼaadoołaʼbiłííshjánáájósinį́áádóótʼaahójinízingoánájiʼahdoo.</p>
+  </li>
+  <li>
+    <p>Tʼááajiłtsohdinébitahjílínígííbeeháahóótʼíʼbeehaaʼahayą́ądooleełígíídíítʼááátʼékéyahdahsiʼánígíídoonahasdzáányeeáłkáhánájahígííbábóhoneedzánígííháʼatʼííshį́į́beehólonígííyeeadoolwołbéesodah,áádóóbeeaʼdooníłígííbinahjį́ʼyeeílį́į́goádaantsíkeesdooleełtʼáábisizínígííyeehádidooʼnííł.</p>
+  </li>
+  <li>
+    <p>Tʼááajiłtsohndazhdoolnishgobeehahazʼą́,tʼááhónaanishjinízínígíí,tʼááhónaanishhołyáʼátʼę́ehéígíídíínaanishadinígííbitsʼąąáhátʼį́.</p>
+    <p>Tʼááajiłtshotʼáadoohoʼdoolchiʼį́dį́aheełtʼéegohachʼįʼníʼiilyéedoonaanishígííbííghahgo.</p>
+    <p>Tʼááajiłtsohndajilnishígííbeeháahootʼibeełtʼeegohachʼįʼniʼiilyʼéegobinahjiʼtʼááhódóóhááłchiniyeehináadoobiláʼashdlaʼiibąąhilinígíʼátʼáoáádóóbiʼóhjinéelánígííhábiidootʼááłáhótʼéédąąʼdinébeebíkáhanáʼáwoʼadę́ę́ʼ.</p>
+    <p>Tʼááajiłtsohéíbeeháahóótʼiʼnaanishyeedaʼahótąʼígííatahhazhdidooliiłgodóóbeeatahjidooghááłgotʼááhójizinígííbeeadaaʼáhojilyą́ądoobiniyé.</p>
+  </li>
+  <li>
+    <p>Tʼááajiłtsohbeeháahóótʼiʼhaazhdoolyįhgodóónííkʼehnjigháadooáádóónaanishaheeʼiikeedígííbeehaʼhazáánígííátʼáonijiłnishdoodóółaʼajį́dahdoonaʼanishgobeehooʼaahgotʼáábiniyéhachʼį́ʼazláadooleeł.</p>
+  </li>
+  <li>
+    <p>Tʼááájiłtsohbeeháahóotʼiʼbikʼehgoʼiináazhdoołííłígíítʼááhóhatsʼíísyineelą́nígíídóóhaʼáłchinį́tʼááhooltąʼgo.Jóéíchʼiyáánlá,ééʼlá,hooghanlá,dóóazeeʼálʼį́į́jíbeeaaʼáháyánígííládóódinébeebíkaʼánawoʼdę́ę́áádóóbeeháahootʼiʼháadidahnaanishásdiingonátʼą́ą́beeaaʼáháyánígíítʼááhólóodoo,azhą́shį́į́dajitsaahndidóóhachʼįʼanáhootʼiʼndi,biłhijiináaniihąąʼádinsilį́į́godaáádóósą́jizhlįįgodoodaiiʼhweʼiinaʼbiʼohsilį́į́gotʼáadooleʼébitsʼą́ą́dootʼááhóhweʼiinaʼdoobeehóhólnįįhdasilįįgodah.</p>
+    <p>Amájilį́į́godóóáłchíníjilį́į́gobeeháahootʼiʼhaaʼahayą́ą́dooáádóóhákáanaʼáwoʼdoo.Áłchínítʼááajiłtsohbimádóóbizhéʼéaheeskéegobiʼdizhchínígíídoodaibimádóóbizhéʼédooaheeskéegobiʼdzhchínígíídatʼááajiłtsohéídinétahgíhaahastihgobeeákʼihozhdoodlį́į́ł.</p>
+  </li>
+  <li>
+    <p>Tʼááajiłtsohíízhdoołtahgobeehaʼahootʼiʼ.Ałchínítʼóóhaʼałtáádootʼáájiikʼeʼíidoołtah.Ałchíníyázhíéítʼááíyisítʼááíídoołtah.Naanishbóhooʼaahbaadaʼóltaʼdahólǫǫdooáádóóhódahgodaʼołtaʼígíídahólǫǫdootʼááałtsoníbááádóóhodahgoóltaígííałdoʼbizhneelą́nígiátʼáoiizhdoołtah.</p>
+    <p>Oltaʼéíhólǫ́ǫ́doobilaʼasdlaʼiiyeehadidooníłíjiʼáádóóyeebidziildoobinahjíʼbeeháadahaztʼíʼígííyáhodisindoo.Dííéíyeeakʼiʼdiitą́ą́doobeehaʼjólníídootʼaaáłtsojíʼkʼehbijiníídoonáánáłaʼdóoneʼédóóóodlánídanilinígíí.Dííbinahjį́tʼéíyákéyaháłhiiʼsinilígíítʼáadooiitsʼáʼíałyiłdandlį́į́doo.</p>
+    <p>Ámádóóázhéʼééíáłtséalą́ą́jį́ʼbeebáahootʼiʼbáʼáłchíníyaaiidoołtahígííyeeyáhhadoozih.</p>
+  </li>
+  <li>
+    <p>Tʼááajiłtsohbeeháʼáhootʼiʼtʼááhózhnizinjį́ʼatahbiłkeehojitʼį́inígííbiłiináazhdoolííł,binaʼachʼąąhdóółahdóóbeeázhdoolwołbeenaasbeeidahwiidooʼáłígííbeeákʼihwiizhdoodlííł</p>
+    <p>Tʼááajiłtsohbeehááhootʼiʼdooálį́į́niidóóáʼłʼinígííbeeaaʼáhyąągoéíheishííiłííshjáníííyiilaaígííbizhiʼbikáadoo.</p>
+  </li>
+  <li>
+    <p>Tʼááajiłtsohbeehááhootʼiʼdinéáłą́ą́átʼégodóónahasdzáántʼáásiʼáándéébibeehazą́dííkwéʼébeehaʼoodzíʼígíítʼááátʼébeebaaʼákohoniidzíídoo.</p>
+  </li>
+  <li>
+    <p>Tʼááajiłtsohbiłkééhojitʼínígííéíłahdóónaanishbeeʼakáazhdoolwołtʼááhwozhnízíngo.Dííbinahjį́tʼááʼhójizínígíbeehazhdidooniił.</p>
+    <p>Dííbeeháahóótʼiʼígíídóótʼááhwozhnizinjį́beendooʼnishgoéítʼááłaʼíjínítínígobeehóholnííhbeehaząąniiyeehasáníjíʼátʼehígíí,éíbinahjįʼbaaʼákóhwiindzindóódilzin,náánáłaʼbeebááhootʼiʼígíídóótʼáábinizinjįʼátʼéhígíí,éíbikʼehgoádaʼadaʼalį́nígíítʼáaałtsonídinébáátʼé.</p>
+    <p>Dííadahaztʼiʼígíídóótʼáániikʼehnaʼadáhígííéídííkéyahałhiiʼsiníłígííbinyéályaaéíbibehazą́ą́niidoobeeałʼąąʼáʼtéedahdooleeł.</p>
+  </li>
+  <li>
+    <p>Dííkweʼéhaʼoodziʼígííéíheitʼáodahnáánáłaʼkéyahdasiʼą́níígíídoodaííʼdahjookahígíídoodaiiʼłaʼjizį́éídooheitʼáodahhaʼoodzígííjidoołchǫǫłda.</p>
+  </li>
+</ol>

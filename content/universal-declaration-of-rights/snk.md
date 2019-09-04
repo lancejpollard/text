@@ -1,0 +1,122 @@
+<h1 align='center'>HAADAMA RENMUM TAQUN DORONDEN DANTAQIYE DUNA NOXO (1948)</h1>
+<h2 align='center'>JOPPAADI</h2>
+<p align='center'>O ga na a faayi nan ti saran xabiilanun doronde do I taqu tinamto ya na du-kiteye, teleŋontaaxun do jamun gondoman ŋa duna noxo.
+O ga na a faayi nan ti soron taqun turvinbalaaxun do i roxomaxantaaxun yan ña sababu xonintan gollu ñanŋen dunasu maxa. Ken ya ni haadama renmum su ga natene do kiyi kurunba be i ga digaamunu, i ga batiini ti i sago, i xannun laabanto kannu do kori su da.
+O ga na a taayi nan ti haadama tenmun taqun nan siri tangeene ti tanka teleŋonte kuudo a nan maxa fiite katta gollu burn ñanŋen do marandi moxo bure.
+O ga na a faayi nan ti mejanŋaaxun nan siri ñaana jamaanun naxa.
+O ga na a faayi nan ti Duna feddi xooren da sigira xerexerente kini haadama renmum taqu i sigindi kayitin noxo, a doronden do seren xanuye, xawancaaxu yugun do yaxarun naxa.
+O ga na a faayi ti jamaanu ku ga kafim i ga da laayidun raga nan ti i wa sikki do haadama renmun taqun koroosinden batte.
+O ga na a faayi nan ti a su nan siri me-mukku taqun do du kiteyen ga ni ke be.
+Batu xooren
+da haadama renmum taqum doronden dantaqiye duna noxon bagandi kuudo saran xabiibanun su, jamaanun su na ña, ken dinman ŋa, sere su ma kafo na ke danteqiye toqo i kiilu kuudo ti xaranŋunden do arayinde jamaanu na katta soron taqun tangana.</p>
+<ol>
+  <li>
+    <p>Haadamarenmesusaareyenŋaannadu-kittenña,anntaserekomaaxu,andosoronsuyanyekkadorontaaxudotaqu.Haqilen,waseresu,adosorokuttunansiriterenedoomekappalengaaxukanma.</p>
+  </li>
+  <li>
+    <p>Haadamarenmesuraawaitaqunsuwuttuxokedanaqiyikayitigadaakomoxobe.Xabiila,fate,yugomayaxare,xanne,diina,politikinkaara,mawariyutanaagagiriajamaane,adingira,akiteyu,asaareyemasigiratana,kusurantaakabanaitaqunwuttu.Porantabakkaseretaqunaasaxuagagirijamaanebe,dingirabetikenjamaanenimarandenya,maantaiyinmekitte.</p>
+  </li>
+  <li>
+    <p>Bireye,du-kiteyedoanyinmetangarjenwakappahaadamarenmentaqu.</p>
+  </li>
+  <li>
+    <p>Seresurantañaanakome,komaaxundokomogaagandendanbesukabantonyani.</p>
+  </li>
+  <li>
+    <p>Sererantahaadamarenmesutoorana,naamamandikuudonaaroxondi.</p>
+  </li>
+  <li>
+    <p>Seresu,noqusuraawaiseraaxunbagandinixokillengadaaritimoxobe.</p>
+  </li>
+  <li>
+    <p>Killenkaaranŋa,asunanyekka,killennaasutanganamoxobaanekeya.Fowofosudokedantaqiyegabogumewure,soronsunanbaanaigaitangana.Kattakenŋamoxobe.</p>
+  </li>
+  <li>
+    <p>Killenmasariyanunsaaxamangadataqubeenukiniserenŋa,igañiamullainafobaguiya,seresoraawadeemandemuurunukiitiraanu.</p>
+  </li>
+  <li>
+    <p>rantaseresuragana,natexikasomanaabagandijamaanenŋaxafukanma.</p>
+  </li>
+  <li>
+    <p>Iganafotiifisereya,anansiriixibaarendantaqinikiitirabegantasaafandini,soronsujonŋa,kiitirakenaataqundoawaajibinunkoyimaanakoagaboxunoqube.</p>
+  </li>
+  <li>
+    <p>Golliburesugatiifihaadamarenmeya,insiriaraganaxoagamafodabarimaIganaakiitibirebejamanŋa,fogamaboguataqunŋa.</p>
+    <p>Toŋenrantaxennehaadamarenmesukanmaselligollukudabaridinmajamaanemajamanfallesariyangamagolliburewariayi.Forantakappakillengadatoŋebeko.</p>
+  </li>
+  <li>
+    <p>Seresurantaroono,fokoonoanfunenbiremoxo,akore,akanxibaaremanaabataaxunxaraselliagamaanñamari,arantaaroxondinixadi.Sariyannansiriseresutanganakattakunbaqe,kenxawakappaseresutaqu.</p>
+  </li>
+  <li>
+    <p>Seresuraawaterenemoxobeganliŋoadanŋajamaanennoxonŋa,araawaikansigindininoqubeigaamulla.</p>
+    <p>Seresuraawabakkajamaane,xariayinmejamaane,araawayillenekattaijamaane.</p>
+  </li>
+  <li>
+    <p>Igadaseresubitta,araawatellemoolejamaanetana.</p>
+    <p>Ketaqerantaakisiniselliagadagolliburenyaña,selliagadagolledabariadoDunaFeddixoorensariyangabogumewure.</p>
+  </li>
+  <li>
+    <p>Seresunansirikappajamaanesoronŋa.</p>
+    <p>Irantaseresubakkajamaanensoronŋaagamasoxufowofosukanma,irantakabanadubakkajamaanesoronŋakattajamaanetana.</p>
+  </li>
+  <li>
+    <p>Yugodoyaxareganayexubaga,iraawayexinimeya,nakasigindi.Igantaxabiila,jamaanemadiinabaanerantakenkabana.Yugokedoyaxarekeyanbaanataquyexukenoxonŋamaganabogu.</p>
+    <p>Yexunñaanayugondoyaxarenñaamariyenkanma.</p>
+    <p>Kanyanijamaarensorongondomanŋafankannansiriatangana.</p>
+  </li>
+  <li>
+    <p>Sereraawanaaburekitta,agañakafonŋamadurannaabure.</p>
+    <p>Irantaserenaaburebuusunuayixafukanma.</p>
+  </li>
+  <li>
+    <p>Seresuraawasinmenemoxobeganliŋoandanŋa,narodiina.Kentaqeyansigi,agaraawagillikediinakattabaanetana.Araawaidiinabagandisellanŋa,abaanemaadosorotanani,maakannoxo,araawaaxaraŋundini,nanbati.</p>
+  </li>
+  <li>
+    <p>Seresuraawaxibaarewallamoxobeganliŋoadanŋa,nakunwariyubagandisellanŋa.Kenwureniyaseresuraawawariyukitta,naamuuru,manaasanqinoqusu,moxosu,igantaantanpindini.</p>
+  </li>
+  <li>
+    <p>Seresuraawasorokappamemannafeddetaaxundi.</p>
+    <p>Irantaseresurondinifeddeyaagantaaliŋunŋa.</p>
+  </li>
+  <li>
+    <p>Seresuyinmeraawakappajamaanenxibaarungakubeenumaxa,maafaaritaaxabeagaasuga.</p>
+    <p>Jamaanensaarerenmunsunanbaanataqukuudonangollifankanda.</p>
+    <p>Jamaanensorongakebemullayanifankangondomanŋ.Igakebemulla,Inansiriabangandinitisugandindilaabante.</p>
+  </li>
+  <li>
+    <p>Seresugakappajamaanensoro,anansiridaxakitta.Agansirifoonubeenukittakattakuureye,kuudofonanmaxabonoasaraaxunŋa,tijamaanemajamanfalledeemandekunkappaataqunya.</p>
+  </li>
+  <li>
+    <p>Nagollekita,naangollensuga,naadabarixanneliŋe,naantangagollinbalaaxukunsuwakappaseresutaqu.</p>
+    <p>Soroganañigollibaanedabarini,Intafuŋoonomeyatugaadi.</p>
+    <p>Seresugagolliñaŋaana,anansiritugaadikittayaadoikorengakattabireenetiayisuturanoxo.</p>
+    <p>Seresudosorotananiraawakafiininagolliñanfeddesigindi,mananrogolliñanfeddekuudonaitaquntanga.</p>
+  </li>
+  <li>
+    <p>Nantuuma,naanfetenbogumewakappaserentaqu,naxenpakitagolliñandotuumawaxitinuagantakaarasutoorono.</p>
+  </li>
+  <li>
+    <p>Nafeerekitakuudoandoankorenabiremoxosirekita,yonkisaha,yigande,feetufatande,hirenoqu,jaarenoquadokoroosindubeenukangansiriikitta.Naadeemaselliagantagollini,kaagumengana-bonomaselliagarantaxadubirandiasagogafe.</p>
+    <p>Saareyedolemiñaaxunansirikoroosindidaritantekittaleminesuagasaarekaccemaagamasaarekacce,isunsiritangenemoxobaaneya.</p>
+  </li>
+  <li>
+    <p>Seresunansirixaranŋa,xaranŋundekejonkontaayixarankonpolenmuki.Haadamarenmesunanfatantaxarankonpolenmuku..Inangollentuwaaxunxaranŋenntalanwuñinikattahaadamanŋa.Seresutuwaaxunyanaanrondinimeyisixooroku.</p>
+    <p>Xaranŋundekenansiriseraaxunyawundununahaadamarenmentaqundoidorondentuwindi.Anansirime-faamunde,yanpandenmenjanŋaaxunyaroonojamaanunnaxadosaranxabiilanu,diinankafonu.AnansiriDunafeddixoorengollukattajamukuurandini.</p>
+    <p>Saaraanonfinayansugandinilemunundanŋaxaranŋenkille.</p>
+  </li>
+  <li>
+    <p>Seresutaawakappataaxenlaadanxibaarunkuurande,nantaaweibogudinmasunankafiikuurandimunnafa.</p>
+    <p>Seresuraawaigollenmunnafantangana,agañasafande,laadanxibaaremafotana.</p>
+  </li>
+  <li>
+    <p>Seresuwawullajamunanñaijamannoxodojamanfaleekuudotaqundodu-kiteyubeenugakoŋikedantanqirjikayitinoxonansabati.</p>
+  </li>
+  <li>
+    <p>Waajibinunwaserendakattajamanŋa,kennoxonŋa,adu-kiteyendoaseraaxunkuureyenbaaneyankattañaana.</p>
+    <p>Sariyandaxenpañakuudoseresunanmaxadangiitaqundoidu-kiteyu.</p>
+    <p>Kutaqudokudu-kiteyufantañaanaselliidoDunFeddixoorenanniyungantatelledoome.</p>
+  </li>
+  <li>
+    <p>Kedantaqiyikayititontokurantañaanajamaane,kafomaseresudanŋakillekuudonaserontaqundoIdu-kiteyunbonondi.</p>
+  </li>
+</ol>

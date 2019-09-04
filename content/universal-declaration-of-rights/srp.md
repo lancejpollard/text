@@ -1,0 +1,122 @@
+<h1 align='center'>OPŠTA DEKLARACIJA O PRAVIMA ČOVEKA</h1>
+<h2 align='center'>UVOD</h2>
+<p align='center'>Pošto je priznavanje urođenog dostojanstva i jednakih i neotuđivih prava svih članova ljudske porodice temelj slobode, pravde i mira u svetu;
+pošto je nepoštovanje i preziranje prava čoveka vodilo varvarskim postupcima, koji su vređali savest čovečanstva, i pošto je stvaranje sveta u kojem će ljudska bića uživati slobodu govora i verovanja i biti slobodna od straha i nemaštine proglašeno kao najviša težnja svakog čoveka;
+pošto je bitno da prava čoveka budu zaštićena pravnim sistemom kako čovek ne bi bio primoran da kao krajnjem izlazu pribegne pobuni protiv tiranije i ugnjetavanja;
+pošto je bitno da se podstiče razvoj prijateljskih odnosa među narodima;
+pošto su narodi Ujedinjenih nacija u Povelji ponovo proglasili svoju veru u osnovna prava čoveka, u dostojanstvo i vrednost čovekove ličnosti i ravnopravnost muškaraca i žena i pošto su odlučili da podstiču društveni napredak i poboljšaju životni standard u većoj slobodi;
+pošto su se države članice obavezale da u saradnji s Ujedinjenim nacijama obezbede opšte poštovanje i primenu ljudskih prava i osnovnih sloboda;
+pošto je opšte shvatanje ovih prava i sloboda od najveće važnosti za puno ostvarenje ove obaveze,
+GENERALNA SKUPŠTINA PROGLAŠAVA
+OVU OPŠTU DEKLARACIJU O PRAVIMA ČOVEKA kao zajednički domet koji treba da postignu svi narodi i sve nacije da bi svaki pojedinac i svaki organ društva, imajući ovu Deklaraciju stalno na umu, težio da učenjem i vaspitavanjem doprinese poštovanju ovih prava i sloboda da bi se postupnim unutrašnjim i međunarodnim merama obezbedilo njihovo opšte i stvarno priznanje i poštovanje kako među narodima samih država članica, tako i među narodima onih teritorija koje su pod njihovom upravom.</p>
+<ol>
+  <li>
+    <p>Svaljudskabićarađajuseslobodnaijednakaudostojanstvuipravima.Onasuobdarenarazumomisvešćuitrebajednipremadrugimadapostupajuuduhubratstva.</p>
+  </li>
+  <li>
+    <p>SvakompripadajusvapravaislobodeproglašeneuovojDeklaracijibezikakvihrazlikaupogledurase,boje,pola,jezika,veroispovesti,političkogilidrugogmišljenja,nacionalnogilidruštvenogporekla,imovine,rođenjailidrugihokolnosti.Dalje,nećesepravitinikakvarazlikanaosnovupolitičkog,pravnogilimeđunarodnogstatusazemljeiliteritorijekojojnekolicepripada,bilodajeonanezavisna,podstarateljstvom,nesamoupravna,ilidajojjesuverenostnamakojidruginačinograničena.</p>
+  </li>
+  <li>
+    <p>Svakoimapravonaživot,sloboduibezbednostličnosti.</p>
+  </li>
+  <li>
+    <p>Nikosenesmedržatiuropstvuilipotčinjenosti:ropstvoitrgovinarobljemzabranjenisuusvimoblicima.</p>
+  </li>
+  <li>
+    <p>Nikonesmebitipodvrgnutmučenjuilisvirepom,nečovečnomiliponižavajućempostupkuilikazni.</p>
+  </li>
+  <li>
+    <p>Svakoimapravodasvudabudepriznatkaopravnisubjekt.</p>
+  </li>
+  <li>
+    <p>Svisupredzakonomjednakiiimajupravobezikakverazlikenapodjednakuzakonskuzaštitu.SviimajupravonajednakuzaštituprotivbilokakvediskriminacijekojomsekršiovaDeklaracijaiprotivsvakogpodsticanjanaovakvudiskriminaciju.</p>
+  </li>
+  <li>
+    <p>Svakoimapravodaganadležninacionalnisudoviefikasnoštiteoddelakršenjaosnovnihpravakojasumupriznataustavomilizakonom.</p>
+  </li>
+  <li>
+    <p>Nikonesmebitiproizvoljnouhapšen,pritvoren,nitiproteran.</p>
+  </li>
+  <li>
+    <p>Svakoimapotpunojednakopravonapravičnojavnosuđenjeprednezavisniminepristrasnimsudomkojićeodlučitionjegovimpravimaiobavezama,ioosnovanostisvakekrivičneoptužbeprotivnjega.</p>
+  </li>
+  <li>
+    <p>Svakokojeoptuženzakrivičnodeloimapravodabudesmatrannevinimdoksenaosnovuzakonakrivicanedokaženajavnomsuđenjunakojemsumuobezbeđenesvegarantijepotrebnezanjegovuodbranu.</p>
+    <p>Nikonesmebitiosuđenzadelailipropustekojinisupredstavljalikrivičnodeloponacionalnomilimeđunarodnompravuuvremekadasuizvršeni.Istotakonesmeseizricatitežakaznaodonekojasemoglaprimenitiuvremekadajekrivičnodeloizvršeno.</p>
+  </li>
+  <li>
+    <p>Nikonesmebitiizloženproizvoljnommešanjuuprivatniživot,porodicu,staniliprepisku,nitinapadimanačastiugled.Svakoimapravonazakonskuzaštituprotivovakvogmešanjailinapada.</p>
+  </li>
+  <li>
+    <p>Svakoimapravonaslobodukretanjaiizborastanovanjaugranicamapojedinedržave.</p>
+    <p>Svakoimapravodanapustibilokojuzemlju,uključujućisvojuvlastitu,idasevratiusvojuzemlju.</p>
+  </li>
+  <li>
+    <p>Svakoimapravodatražiiuživaudrugimzemljamautočišteodproganjanja.</p>
+    <p>NaovopravosenikonemožepozvatiuslučajugonjenjazakrivičnadelakojanisupolitičkogkarakterailiprogonazbogdelakojasuusuprotnostisaciljevimainačelimaUjedinjenihnacija.</p>
+  </li>
+  <li>
+    <p>Svakoimapravonadržavljanstvo.</p>
+    <p>Nikonesmesamovoljnobitilišensvogdržavljanstvanitipravadapromenidržavljanstvo.</p>
+  </li>
+  <li>
+    <p>Punoletnimuškarciižene,bezikakvihograničenjaupogledurase,državljanstvailivere,imajupravodasklopebrakidaosnujuporodicu.Onisuravnopravniprilikomsklapanjabraka,zavremenjegovogtrajanjaiprilikomnjegovograzvoda.</p>
+    <p>Braksezaključujesamoslobodnimipotpunimpristankomlicakojastupajuubrak.</p>
+    <p>Porodicajeprirodnaiosnovnaćelijadruštvaiimapravonazaštitudruštvaidržave.</p>
+  </li>
+  <li>
+    <p>Svakoimapravodaposedujeimovinu,samkaoiuzajednicisdrugima.</p>
+    <p>Nikonesmebitisamovoljnolišenimovine.</p>
+  </li>
+  <li>
+    <p>Svakoimapravonaslobodumisli,savestiivere;ovopravouključujeslobodupromenevereiliubeđenjaislobodudačovek,bilosamiliuzajednicisdrugima,javnoiliprivatno,upražnjavasvojuveruiliubeđenjeputemnastave,vršenjakultaiobavljanjaobreda.</p>
+  </li>
+  <li>
+    <p>Svakoimapravonaslobodumišljenjaiizražavanja,štoobuhvataipravodanebudeuznemiravanzbogsvogmišljenja,kaoipravodatraži,primaiširiobaveštenjaiidejebilokojimsredstvimaibezobziranagranice.</p>
+  </li>
+  <li>
+    <p>Svakoimapravonaslobodumirnogokupljanjaiudruživanja.</p>
+    <p>Nikonemožebitiprimorandapripadanekomudruženju.</p>
+  </li>
+  <li>
+    <p>Svakoimapravodaučestvujeuupravljanjusvojomzemljom,neposrednoiliprekoslobodnoizabranihpredstavnika.</p>
+    <p>Svakoimapravodanaravnopravnojosnovistupaujavnuslužbuusvojojzemlji.</p>
+    <p>Voljanarodajeosnovadržavnevlasti:ovavoljatrebadaseizražavanapovremenimislobodnimizborima,kojićesesprovoditiopštimijednakimpravomglasa,tajnimglasanjemiliodgovarajućimpostupkomkojimseobezbeđujeslobodaglasanja.</p>
+  </li>
+  <li>
+    <p>Svako,kaočlandruštva,imapravonasocijalnoosiguranjeipravodaostvarujeprivredna,društvenaikulturnapravaneophodnazasvojedostojanstvoizaslobodanrazvojsvojeličnosti,uzpomoćdržaveimeđunarodnesaradnje,auskladusorganizacijomisredstvimasvakedržave.</p>
+  </li>
+  <li>
+    <p>Svakoimapravonarad,naslobodanizborzaposlenja,napravičneizadovoljavajućeusloveradainazaštituodnezaposlenosti.</p>
+    <p>Svako,bezikakverazlike,imapravonajednakuplatuzajednakirad.</p>
+    <p>Svakokoradiimapravonapravednuizadovoljavajućunaknadukojanjemuinjegovojporodiciobezbeđujeegzistencijukojaodgovaraljudskomdostojanstvuikojaće,akobudepotrebno,bitiupotpunjenadrugimsredstvimasocijalnezaštite.</p>
+    <p>Svakoimapravodaobrazujeidastupiusindikateradizaštitesvojihinteresa.</p>
+  </li>
+  <li>
+    <p>Svakoimapravonaodmorirazonodu,uključujućirazumnoograničenjeradnogvremenaipovremeniplaćeniodmor.</p>
+  </li>
+  <li>
+    <p>Svakoimapravonaživotnistandardkojiobezbeđujezdravljeiblagostanje,njegovoinjegoveporodice,uključujućihranu,odeću,stanilekarskuneguipotrebnesocijalneslužbe,kaoipravonaosiguranjeuslučajunezaposlenosti,bolesti,invalidnosti,udovištva,starosti,ilidrugihslučajevagubljenjasredstavazaizdržavanjeusledokolnostinezavisnihodnjegovevolje.</p>
+    <p>Majkeidecaimajupravonanaročitostaranjeipomoć.Svadeca,rođenaubrakuilivannjega,uživajujednakusocijalnuzaštitu.</p>
+  </li>
+  <li>
+    <p>Svakoimapravonaškolovanje.Školovanjetrebadabudebesplatnobaruosnovniminižimškolama.Osnovnanastavajeobavezna.Tehničkaistručnanastavatrebadabudeopštedostupna,avišanastavatrebadabudesvimapodjednakopristupačnanaosnovuutvrđenihkriterijuma.</p>
+    <p>Školovanjetrebadabudeusmerenopunomrazvojuljudskeličnostiijačanjupoštovanjaljudskihpravaiosnovnihsloboda.Onotrebadaunapređujerazumevanje,trpeljivostiprijateljstvomeđusvimnarodima,rasnimiverskimgrupacijama,kaoidelatnostUjedinjenihnacijazaodržavanjemira.</p>
+    <p>Roditeljiimajuprvenstvenopravodabirajuvrstuškolovanjazasvojudecu.</p>
+  </li>
+  <li>
+    <p>Svakoimapravodaslobodnoučestvujeukulturnomživotuzajednice,dauživauumetnostiidaučestvujeunaučnomnapretkuiudobrobitikojaotudaproističe.</p>
+    <p>Svakoimapravonazaštitumoralnihimaterijalnihinteresakojiproističuizbilokognaučnog,književnogiliumetničkogdelačijijeontvorac.</p>
+  </li>
+  <li>
+    <p>SvakoimapravonadruštveniimeđunarodniporedakukojempravaislobodeobjavljeniuovojDeklaracijimogubitipotpunoostvareni.</p>
+  </li>
+  <li>
+    <p>Svakoimadužnostpremazajednicikojajedinaomogućavaslobodnoipunorazvijanjenjegoveličnosti.</p>
+    <p>Uvršenjusvojihpravaiostvarivanjuslobodasvakomožebitipodvrgnutsamoonimograničenjimakojasupredviđenazakonomuciljuobezbeđenjanužnogpriznanjaipoštovanjapravaislobodadrugihiuciljuzadovoljenjapravičnihzahtevamorala,javnogporetkaiopštegblagostanjaudemokratskomdruštvu.</p>
+    <p>OvapravaislobodeniukomslučajunemoguseizvršavatiprotivnociljevimainačelimaUjedinjenihnacija.</p>
+  </li>
+  <li>
+    <p>NijednaodredbaoveDeklaracijenemožesetumačitikaopravozamakojudržavu,grupuililicedapreduzimabilokojuaktivnostilidavršibilokakvuradnjuusmerenunaponištenjepravaislobodakojisuunjojsadržani.</p>
+  </li>
+</ol>

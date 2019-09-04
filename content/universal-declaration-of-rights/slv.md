@@ -1,0 +1,122 @@
+<h1 align='center'>Splošna deklaracija človekovih pravic</h1>
+<h2 align='center'>Preambula</h2>
+<p align='center'>ker pomeni priznanje prirojenega človeškega dostojanstva vseh članov človeške družbe in njihovih enakih in neodtujljivih pravic temelj svobode, pravičnosti in miru na svetu;
+ker sta zanikanje in teptanje človekovih pravic pripeljala do barbarskih dejanj, žaljivih za človeško vest, in ker je bila stvaritev sveta, v katerem bi imeli vsi ljudje svobodo govora in verovanja in v katerem ne bi živeli v strahu in pomanjkanju, spoznana za najvišje prizadevanje človeštva;
+ker je nujno potrebno, da se človekove pravice zavarujejo z močjo prava, da človek ne bi bil prisiljen zatekati se v skrajni sili k uporu zoper tiranijo in nasilje;
+ker je nujno potrebno pospeševati razvoj prijateljskih odnosov med narodi;
+ker so ljudstva Združenih narodov ponovno potrdila svojo vero v temeljne človekove pravice in dostojanstvo in vrednost človekove osebnosti, v enakopravnost moških in žensk in se odločila, da bodo podpirala družbeni napredek in ustvarjanje boljših življenjskih pogojev v večji svobodi;
+ker so se vse države članice zavezale, da bodo, v sodelovanju z Združenimi narodi, pospeševale splošno in resnično spoštovanje človekovih pravic in temeljnih svoboščin;
+ker je skupno razumevanje teh pravic in svoboščin največjega pomena za popolno uresničitev te zaveze,
+Generalna skupščina razglaša
+To splošno deklaracijo človekovih pravic kot skupen ideal vseh ljudstev in vseh narodov z namenom, da bi vsi organi družbe in vsi posamezniki, vedno v skladu s to Deklaracijo, pri pouku in vzgoji razvijali spoštovanje teh pravic in svoboščin ter s postopnimi državnimi in mednarodnimi ukrepi zagotovili in zavarovali njihovo splošno in resnično priznanje in spoštovanje, tako med narodi držav članic samih, kakor tudi med ljudstvi ozemelj pod njihovo oblastjo.</p>
+<ol>
+  <li>
+    <p>Vsiljudjeserodijosvobodniinimajoenakodostojanstvoinenakepravice.Obdarjenisozrazumominvestjoinbimoraliravnatidrugzdrugimkakorbratje.</p>
+  </li>
+  <li>
+    <p>Vsakdojeupravičendouživanjavsehpravicinsvoboščin,kisorazglašenestoDeklaracijo,negledenaraso,barvokože,spol,jezik,vero,političnoalidrugoprepričanje,narodnoalisocialnopripadnost,premoženje,rojstvoalikakršnokolidrugookoliščino.Nadaljenidopustnonikakršnorazlikovanjegledenapolitičnoalipravnoureditevalimednarodnipoložajdeželealiozemlja,kimukdopripada,panajbotoozemljeneodvisno,podskrbništvom,nesamoupravnoalikakorkoliomejenovsvojisuverenosti.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicodoživljenja,doprostostiindoosebnevarnosti.</p>
+  </li>
+  <li>
+    <p>Nihčenesmebitidržannevsuženjstvunevtlačanskiodvisnosti;suženjstvointrgovinassužnjivkakršnikolioblikistaprepovedana.</p>
+  </li>
+  <li>
+    <p>Nihčenesmebitipodvrženmučenjualiokrutnemu,nečloveškemualiponižujočemuravnanjualikaznovanju.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapovsodpravicodopriznanjapravnesposobnosti.</p>
+  </li>
+  <li>
+    <p>Vsisoenakipredzakonom,vsi,brezdiskriminacije,imajopravicodoenakegapravnegavarstva.Vsiimajopravicodoenakegavarstvapredslehernodiskriminacijo,kibikršilatoDeklaracijo,kakortudipredvsakimščuvanjemktakšnidiskriminaciji.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicodoučinkovitegapravnegasredstvapripristojnihdržavnihsodnihoblastehprotidejanjem,kikršijotemeljnepravice,priznanemupoustavializakonu.</p>
+  </li>
+  <li>
+    <p>Nihčenesmebitisamovoljnozaprt,pridržanaliizgnan.</p>
+  </li>
+  <li>
+    <p>Vsakdojepriodločanjuonjegovihpravicahindolžnostihinvprimerukakršnekolikazenskeobtožbezopernjegaupravičenobpolnienakostidopravičnegainjavnegaobravnavanjapredneodvisniminnepristranskimsodiščem.</p>
+  </li>
+  <li>
+    <p>Vsakdo,kijeobtoženkaznivegadejanja,imapravico,daveljazanedolžnega,doklernispoznanzakrivegavskladuzzakonom,vjavnempostopku,vkateremsomudanevsemožnosti,potrebnezanjegovoobrambo.</p>
+    <p>Nihčenesmebitispoznanzakrivegakateregakolikaznivegadejanjazaradikakršnegakoliravnanjaaliopustitve,kivčasustoritvenibilokaznivodejanjeponotranjemalimednarodnempravu.Pravtakosenesmeizrečistrožjakazenodtiste,kijebilapredpisanavčasustoritvekaznivegadejanja.</p>
+  </li>
+  <li>
+    <p>Nikogarsenesmenadlegovatissamovoljnimvmešavanjemvnjegovozasebnoživljenje,vnjegovodružino,vnjegovostanovanjealinjegovodopisovanjeintudineznapadinanjegovočastinugled.Vsakdoimapravicodozakonskegavarstvapredtakšnimvmešavanjemalitakšniminapadi.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicodosvobodnegagibanjainizbireprebivališčaznotrajmejadoločenedržave.</p>
+    <p>Vsakdoimapravicozapustitikaterokolidržavo,vključnossvojolastno,invrnitisevsvojodržavo.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicovdrugihdržavahiskatiinuživatipribežališčepredpreganjanjem.</p>
+    <p>Natopravicosenimogočesklicevativprimerupregona,kidejanskotemeljinanepolitičnihkaznivihdejanjih,kisovnasprotjusciljiinnačeliZdruženihnarodov.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicododržavljanstva.</p>
+    <p>Nikomursenesmesamovoljnovzetidržavljanstvoalizakonitapravicadospremembedržavljanstva.</p>
+  </li>
+  <li>
+    <p>Polnoletnimoškiinženskeimajobrezkakršnihkoliomejitevgledenaraso,državljanstvoalivero,pravicosklenitizakonskozvezoinustanovitidružino.Upravičenisodoenakihpravicvzvezizzakonskozvezo,takomedzakonskozvezo,kottudi,kotapreneha.</p>
+    <p>Zakonskazvezasesmesklenitisamossvobodnoinpolnoprivolitvijoobehbodočihzakoncev.</p>
+    <p>Družinajenaravnaintemeljnacelicadružbeinimapravicododružbenegaindržavnegavarstva.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicodopremoženja,takosam,kakortudiskupnozdrugimi.</p>
+    <p>Nikomurnesmebitipremoženjesamovoljnovzeto.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicodosvobodemisli,vestiinveroizpovedi;tapravicavključujesvobodospreminjatiprepričanjealivero,kakortudinjunosvobodno,javnoalizasebnoizražanje,bodisiposameznoalivskupnostizdrugimi,spoučevanjem,zizpolnjevanjemverskihdolžnosti,zbogoslužjeminopravljanjemobredov.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicodosvobodemišljenjainizražanja,vštevšipravico,danihčenesmebitinadlegovanzaradisvojegamišljenja,inpravico,dalahkovsakišče,sprejemainširiinformacijeinidejeskakršnimikolisredstviinnegledenameje.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicodosvobodnegainmirnegazbiranjainzdruževanja.</p>
+    <p>Nikogarsenesmeprisilitikčlanstvuvkaterokolidruštvo.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicosodelovatipriopravljanjujavnihzadevsvojedržavebodisineposrednoalipaposvobodnoizbranihpredstavnikih.</p>
+    <p>Vsakdoimapodenakimipogojipravicodojavnihslužbvsvojidržavi.</p>
+    <p>Voljaljudstvajetemeljjavneoblasti;tavoljasemoraizražativobčasnihinpoštenihvolitvah,kimorajobitisplošne,obnačeluenakostiintajnegaglasovanjaalipokakšnemdrugemenakovrednempostopku,kizagotavljasvobodoglasovanja.</p>
+  </li>
+  <li>
+    <p>Vsakdoimakotčlandružbepravicodosocialnevarnostiinpravicodouživanja,spomočjoprizadevanjasvojihskupnostiinmednarodnegasodelovanjainvskladuzureditvijoinsredstvinekedržave,ekonomskih,socialnihinkulturnihpravic,nepogrešljivihzanjegovodostojanstvoinsvobodenrazvojnjegoveosebnosti.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicododelainprosteizbirezaposlitve,dopravičnihinzadovoljivihdelovnihpogojevindovarstvapredbrezposelnostjo.</p>
+    <p>Vsakdoima,brezkakršnekolidiskriminacije,pravicodoenakegaplačilazaenakodelo.</p>
+    <p>Vsakdo,kdordela,imapravicodopravičneinzadovoljivenagrade,kizagotavljanjemuinnjegovidružiničlovekavredenobstojinkinajsepopotrebidopolnizdrugimisredstvisocialnegavarstva.</p>
+    <p>Vsakdoimapravicosodelovatipriustanavljanjusindikataalipridružitisesindikatuzazavarovanjesvojihinteresov.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicodopočitkainprostegačasa,vključnozrazumnoomejitvijodelovnihur,inpravicodoobčasnegaplačanegadopusta.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicodotakšneživljenjskeravni,kizagotavljanjemuinnjegovidružinizdravjeinblaginjo,vključnoshrano,obleko,stanovanjem,zdravniškooskrboinpotrebnimisocialnimistoritvami;pravicodovarstvavprimerubrezposelnosti,bolezni,delovnenezmožnosti,vdovstvaterstarostialidrugenezmožnostipridobivanjaživljenjskihsredstevzaradiokoliščin,neodvisnihodnjegovevolje.</p>
+    <p>Materinstvoinotroštvostaupravičenadoposebneskrbiinpomoči.Vsiotroci,bodisidasorojenikotzakonskializunajzakonskeskupnosti,uživajoenakosocialnovarstvo.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicodoizobraževanja.Izobraževanjemorabitibrezplačnovsajnazačetnistopnji.Šolanjenazačetnistopnjimorabitiobvezno.Tehničnoinpoklicnošolanjemorabitisplošnodostopno.Višješolanjemorabitinaosnovidoseženihuspehovvsemenakodostopno.</p>
+    <p>Izobraževanjemorabitiusmerjenokpolnemurazvojučlovekoveosebnostiinutrjevanjuspoštovanjačlovekovihpravicintemeljnihsvoboščin.Pospeševatimorarazumevanje,strpnostinprijateljstvomedvseminarodiinmedrasamiinverskimiskupinamiterpospeševatidejavnostZdruženihnarodovinohranitevmiru.</p>
+    <p>Staršiimajoprednostnopravicopriizbirivrsteizobraževanjasvojihotrok.</p>
+  </li>
+  <li>
+    <p>Vsakdoimapravicoprostoseudeleževatikulturnegaživljenjasvojeskupnosti,uživatiumetnostinsodelovatiprinapredkuznanostiinbitideleženkoristi,kiiztegaizhajajo.</p>
+    <p>Vsakdoimapravicodovarstvamoralnihinpremoženjskihkoristi,kiizhajajoizkateregakoliznanstvenega,književnegaaliumetniškegadela,kateregaavtorje.</p>
+  </li>
+  <li>
+    <p>Vsakdojeupravičendodružbenegainmednarodnegareda,vkateremselahkovpolnimeriuresničujejopraviceinsvoboščine,določenevtejDeklaraciji.</p>
+  </li>
+  <li>
+    <p>Vsakdoimadolžnostidoskupnosti,vkaterijeedinomogočsvobodeninpopolnrazvojnjegoveosebnosti.</p>
+    <p>Priizvajanjusvojihpravicinsvoboščinjevsakdopodvržensamotakšnimomejitvam,kisodoločenezzakonom,katerihizključninamenjezavarovatiobveznopriznanjeinspoštovanjepravicinsvoboščindrugihterizpolnjevanjepravičnihzahtevmorale,javnegaredainsplošneblaginjevdemokratičnidružbi.</p>
+    <p>TepraviceinsvoboščinesevnobenemprimerunesmejoizvajativnasprotjusciljiinnačeliZdruženihnarodov.</p>
+  </li>
+  <li>
+    <p>NobenedoločbeteDeklaracijesenesmerazlagatitako,kotdaiznjeizhajazadržavo,skupinoaliposameznikakakršnakolipravicadokakršnegakolidelovanjaalidejanja,kibihotelouničitivnjejdoločenepraviceinsvoboščine.</p>
+  </li>
+</ol>

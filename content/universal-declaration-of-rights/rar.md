@@ -1,0 +1,121 @@
+<h1 align='center'>AKAKITEANGA KI TE KATOATOA I TE AU TIKAANGA TANGATA</h1>
+<h2 align='center'>Akatomoanga Tuatua</h2>
+<p align='center'>I te mea oki e, ko te maramaanga e te arikianga i te tu turanga ngateitei tiratiratu tumu tikai, e te tikaanga aiteite e te mutukore o te tangata katoatoa o teianei ao, ko te tango ia o te oraanga tamanamanata kore ia, te oraanga tiratiratu e te ‘au, i roto i teianei ao,
+E i te mea oki e, ko te akangaropoinaanga e te akava’ava’aanga i te au tikaanga tangata, i tupu ei te au angaanga rikarika tikai tei akatupu i te riri otooto ki te akavangakau o te tangata tini ravarai, e ko te riro anga mai o tetai ao te ka rauka i te taangaanga i to ratou tikaanga i te tuatua e te irinakianga ma te tamanamanata kore, e te oraanga mataku kore e te ngere kore, tei akakite atea ia e ko te akakoroanga puapinga maata rava atu ia o te tangata ravarai,
+E, i te mea oki e, e mea puapinga rava atu kia paruru ia te tikaanga tangata e te mana o te ture kia kore tetai tangata kia akakeu ia ki tetai mataara ei ravenga openga kia akatupu i te orureau i te tamaki atu i te takinokino anga e te akatuika’a anga,
+E,i te mea oki e, e mea puapinga rava atu kia akamatutu ia te tupuanga o te pirianga taeake i rotopu i te au Basileia,
+E, i te mea oki e, kua akamou te au iti tangata o te Taokotaianga o te au Basileia, na roto i ta ratou papa ture tumu i to ratou irinakianga ki roto i te au tikaanga tumu o te tangata tatakitai, e ki roto i te turanga ngateitei tiratiratu, e te puapinga o te tangata; e pera katoa te au tikaanga aiteite o te tane e te vaine, e kua akakoro katoa ia e ratou, kia tauturu ia te tereanga ki mua o te au peu oraanga e te au turanga meitaki atu o te tu rangatira maata atu,
+E, i te mea oki e, kua tia te au mema Basileia ia ratou uaorai, kapiti ki te Taokotaianga o te au Basileia kia rauka i te akatupu i te akangateiteianga e te arikianga a te katoatoa, e i te akono i te au tikaanga tangata e te au tu rangatira tumu,
+E, i te mea oki e, e ko te mea puapinga maata rava atu, no te akatupuanga katoa o teia tikaanga, kia marama te katoatoa i teia au tikaanga tangata e te au tu rangatira,
+E no reira, te akakite atea nei te Uipaanga Maata o te taokotaianga o te au Basileia, e ko teia “Akakiteanga ki te Katoatoa i te au Tikaanga Tangata”, kia riro teia ei mea tau tikai kia umuumu ia no te iti tangata katoatoa e te au Basileia ravarai, kia tauta te tangata e te taokotaianga tatakitai i roto i te oraanga tangata kapipiti na roto i te apiianga e te kimianga i te kite kia akamaata atu i te akangateitei i teia au tikaanga e te au tu rangatira ma te akamaara tamou tikai i teia Akakiteanga, e kia akapapu ia, na roto i te au ravenga akameitaki atu, i roto i te au Basileia, e pera katoa i rotopu i te au Basileia, kia marama ia e kia ariki ia e kia akono tamou ia e te katoatoa, i rotopu i te au iti tangata tukeke o te au mema Basileia e pera katoa i roto i te au iti tangata tukeke o te au pa enua i raro ake i ta ratou akatereanga.</p>
+<ol>
+  <li>
+    <p>Kuaanaurangatiraiatetangatakatoatoamateaiteiteiteautikaangaetetungateiteitiratiratu.Kuakiiaratouetemerokimiravengaeteakavangakauekiaakonotetaiitetai,irotoitevaeruapiriangataeake.</p>
+  </li>
+  <li>
+    <p>EtikaangatotetangatatatakitaikiteautikaangakatoatoaeteoraangatamanamanatakoreiateiakanooiakirotoiteiaAkakiteanga,matekoreravatetaiakonoangapapakitai,notetuititangata,tepakiritangata,taneetevaine,tereo,akamorianga,manakoakatereangamekoretetaiuaatumanakoke,Basileiaanauangamekoreteaupeuoraanga,apinganui,tuanauangamekoretetaiturangakeatu.Eperakatoa,aurakatetaiakatukeangakiaraveianorungaitetuakatereanga,mana,mekoreturangairotopuiteBasileiaoteianeiao,mekoretuanganoreiramaitetaitangata,noatuenatereiraBasileiaeakaaereiaiauaorai,teakaaeretiakiangaateauBasileia,akatereiameivaomai,mekoreiraroakeitetaiakakotingaangamanake.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetangatatatakitaiiteora,tetikaangatamanamanatakoreiaeteoraangaparuruia.</p>
+  </li>
+  <li>
+    <p>Aurakatetaiuatutangatakiaakatuikaaiamekorerakiaakanooiakirotoiteoraangatavinitaukore;ekiaaraiiateautuakatuikaaangaeteautuokookoangatangata.</p>
+  </li>
+  <li>
+    <p>Aurakatetaiuatutangatakiatamamaekinoia,mekorera,kiatakinokinoia,mekorera,kiaakautungaiaitetukinokinorava,itetutaukoreitetangata,mekorera,itetutaakamaia.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaiuatutangataimuaiteturekiaarikiiatonatutangataiteaungairavarai.</p>
+  </li>
+  <li>
+    <p>Eaiteitetekatoatoaimuaiteture,e,etikaangatoratoukiaparuruaiteiteiaeteturematekoreravatetaipiriangapapakitai.EtikaangatotekatoatoakiteparuruangaaiteitemeitetaiuatupiriangapapakitaiteiaatiiteiaAkakiteangaekitetaiuatuakanauruangaotauapiriangapapakitaira.</p>
+  </li>
+  <li>
+    <p>EtikaangatotetaiuatutangatakitetaiparuruangatautikaiatetaiakavaangaakamanaiairotoiteBasileianotetaiauangaangateiaatiitetikaangatumuteiorongaiakiaratouetepapaturemekoreratetaiture.</p>
+  </li>
+  <li>
+    <p>Aurakatetaiuatutangatakiaakaapataukoreiairaroakeiteture,kiatapekaiamekoreraakata’aia.</p>
+  </li>
+  <li>
+    <p>Etikaangaaiteitetotekatotoakitetaiakavaangatauimuaitearoarootekatoatoanatetaiakavaangaakatakakeiamatekoreravaepiriangapapakitai,iteuriuriangaakapapuitonaautikaangaetanaauangaanga,etetaiuatuakaapaangaaatitureiaia.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaiuatutangatakitonatuapakorenotetaiuatuakaapaangaaatitureetaeuatukitetuataueakapapuia’iekuaapaaiakiataukitetureirotoitetaiakavaangaimuaitearoarootekatoatoateiakapapuiteauravengaparuruiaia.</p>
+    <p>Aurakatetaiuatutangatakiaakaapaianotetaiaatiangaturenotetaiuatuangaangairaveia,mekorerakareiraveia,teikoreiriroeiaatiangatureBasileia,mekorera,tureirotopuiteauBasileia,itetuatauiraveia’i.Aurakakatoatetaiakautungateima’aatukiatukuiaiteiotiiteakanooiaitetuatauiraveia’iteaatiangature.</p>
+  </li>
+  <li>
+    <p>Aurakaravatetaiuatutangatakiatamanamanatataukoreiatemunaotonaoraanga,tonakoputangata,tonangutuaremekoreratanaautataangatuatua,aurakakatoatetaiakakinoangaitonatungateiteimatonarongomeitaki.Etikaangatotekatoatoakiteparuruangaateturemeitauaautamanamanataangamekoreratauaauakakinoanga.</p>
+  </li>
+  <li>
+    <p>EtikaangatotetaiuatutangataiteaaereetenootamanamanatakoreiairotoiteaukenaotetaiuatuBasileia.</p>
+    <p>Etikaangatotetaiuatutangataiteakarukeitetaiuatuenua,matonauaorai,eteokikitonaenua.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaiuatutangatakiakimi,ekiatikaia,irotoitetaiauBasileia,teparuruangameitetaitakinokinoanga.</p>
+    <p>AurakarateiatikaangakiataangaangaianotetaiakaapaangateituputikamainotetaiakaapaangaaatitureivaoakeiteakatereangakavamanimekoreranotetaiuatuangaangateipatoiiteauakakoroangaeteauvaeruaoteTaokotaiangaoteauBasileia.</p>
+  </li>
+  <li>
+    <p>EtikaangatotetaiuatutangatakiteturangatangatanotetaiBasileia.</p>
+    <p>AurakaravatetaiuatutangatakiaakakoretaukoreiatonaturangatangataBasileiaeaurakakatoakiaakakoreiatonatikaangakiatauiitonaturangatangataBasileia.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaneetevaineteitaetoratoumataitiiraroakeiteture,kiaakaipoipoekiaakatupuitetaipunamatekoreravaeakakotingaangaititangata,turangatangataBasileiamekorerairinakiangaakamori.Kiaaiteitetoratoutikaanganoteakaipoipoanga,itetuataunooangaakaipoipo,eitetuatautataraanga.</p>
+    <p>Kaakatikauaiatetaiakaipoipoangakitetikapapuetetamanamanatakoreiaangatangatateianoanoiteakaipoipo.</p>
+    <p>Kotepuna,tetangonaturaoteititangata,e,etikaangatonakiteparuruangaatekatoatoaeateBasileia.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaiuatutangatakiariroei‘atuapingakoiaanakeuamekorerakoiaetetaiuaatu.</p>
+    <p>Aurakaravatetaiuatutangatakiaakangeretaukoreiaitanaauapinga.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaiuatutangatakia‘angamanako,akavangakau,eteirinakiakamorimatetamanamanatakoreia;teirotoiteiatikaangatemanakiatauiitonairinakiangamekoreraakamorianga,e,emanatamanamanatakoreiatonakiaakaariitonairinakiangamekoreraakamorianganarotoiteapiianga,akonoanga,pureangaetearikianga,koiaanakeuamekorerakapitikitetaiatuitengaiotekatoatoa,mekoreratengaikarenotekatoatoa.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaiuatutangatakitonauaoraimanakoeteakaarimanako;teirotoiteiatikaangakaraukaiaiaitemouitetaiuatumanakomatekoreetamanamanataiaetekimi,arikieteakakiteiteautukiteetemanakonakoanganarotoiteravengaakakiteangatuatuamatekoreravaeakakenaia.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaiuatutangatakiaraveitetaiuipaangaetetaokotaianga‘aumatekoreetamanamanataia.</p>
+    <p>Aurakatetaiuatutangatakiamaroiakiapirikitetaitaokotaianga.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaiuatutangatakiapirikirotoitekavamaniotonaenua,narotoiaiauaoraimekoreranarotoitonaaumatateiikitamanamanatakoreia.</p>
+    <p>Etikaangaaiteitetotetaiuatutangatakiapiriaiakiteangaanganatekatoatoairotoitonaenua.</p>
+    <p>Koteanoanooteititangatatetangoiaotemanaotekavamani;koteiaanoanokiaakaariianarotoiteauikiangatauiteautuatauiakatakaia,ekoteiaauikiangakiaraveiairaroakeiteikiangaaiteitenatekatoatoa,etekaraveianarotoiteikiangamunamekoretetaiuatutuakatereangaikiangatamanamanatakoreiameiteireira.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaiuatutangata,itemeae,ememaaianotetaiititangata,kiteparuruangaitonaoraangaekiteakatupuanga,narotoitetautaangaatonaBasileiaeteTaokotaiangaoteauBasileiaekiataukiteauakanoonooangaeteaupuapingaotereiraBasileia,notekimiangapuapinga,nooangamateaupeuoraangateianoanopakariianotonaturangatiraeteakatupuangatamanamanatakoreiaitonatutangata.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaiuatutangatakiaangaanga,ekiaikiitanaangaanga,kiteauturangatauetemeitakinoteangaangaekiteparuruangaitetuatauangaangakore.</p>
+    <p>Etikaangatotetaiuatutangatakiatutakiakaaiteiteianoteangaangaaiteite,matekoreravatetaiakaraangapapakitai.</p>
+    <p>Etikaangatotetaiuatutangatateiraveitetaiangaangakitetaitutakiangatauetemeitakieiakapapunonaenotonapunatetaioraangateitaukiteturangangateiteiotetangata,ekiaakaravaiatereira,meanoanoia,narotoitetaiauravengakenoteparuruangaoraangameitaki.</p>
+    <p>Etikaangatotetaiuatutangatakiaakatupuekiapirikirotoitetaiuatuputuputuanganoteparuruangaitanakimikimiangapuapinga.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaiuatutangatakitetaituatauakangaroiangaetetamataoraanga,kapitiiakitetaiauakakotingaangatauoteoraangaangaetetaiautuatauorotetutakiia.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaiuatutangatakitetaiturangaoraangataumatemeitakinonaenotonapuna,kapitiiatekai,kakau,ngutuareeteparuruangamakimatetaiauangaangatauteianoanoianoteoraangameitaki;etetikaangakitetaiparuruangaitetuatauangaangakore,maki,paruparukopapa,takaua,ruainemekoreratetaiuatutungereivaoakeitonamanaakaaere.</p>
+    <p>Etikaangatoteaumetuavaineutuututamarikie,toteautamariki,kitetaitiakiangatakakeetetauturu.Kotetamarikikatoatoanoatuekuaanauiakirotomekorekivaoakeitenooangaakaipoipoongametua,kiaorongaiakiaratoutetaiparuruangaaiteite.</p>
+  </li>
+  <li>
+    <p>Etikaangatotekatoatoakitetaiapiianga.Kiatutakikoreiateapiiitetuatauakamataangaeteakatumuanga.Kiatureiatekatoatoakiteapiiangaakamataanga.Kiaraukangoieuakitekatoatoateapiiangakimiraveraveoonueteapiiangakimikiteoonu,ekiaakatueraaiteiteiateapiiangateiteiatukiataukitetumarama.</p>
+    <p>Kiaakatanoiateapiiangakiteakatupuangakiteopengaotetutangataekiteakamatutuangaiteakangateiteianganotetikaangatangataeteturangatiratumu.Kiaakatuputereiraitemarama,teakakoromakietepiriangataeakeirotopuiteauBasileia,ititangatamekorerateauputuputuangaakamori,ekiaakamaataatuiteauangaangaateTaokotaiangaoteBasileianoteakamouangaite‘au.</p>
+    <p>Teitemetuatetikaangamuaiteikiitetuapiiangatekaorongaiakitaratoutamariki.</p>
+  </li>
+  <li>
+    <p>Etikaangatotetaiuatutangatakiapiritamanamanatakoreiakirotoiteaupeuoraangaotetaiititangata,kiamataoraiteaupeukarapeekiapirikiteaukitemaramaoueteaumeitakiotereira.</p>
+    <p>Etikaangatotetaiuatutangatakiteparuruangaateaupuapingakopapaetetauteiraukameirotoitetaiuatukiteou,tataangatuatuamekoretetaipeutanauaoraiianga.</p>
+  </li>
+  <li>
+    <p>EtikaangatotetaiuatutangatakianookirotoitetaituoraangaititangataeteoraangairotopuiteauBasileiateiakatupukiteopenga,teaututikaangaeteturangatiraitataiairotoiteiaAkakiteanga.</p>
+  </li>
+  <li>
+    <p>Eatingatatetaiuatukitenooangatangatateirotoanakeuaireirateraukaangatamanamanatakoreiaeteakatupuangakiteopengaotonatutangata.</p>
+    <p>Itetaangaangaangaiaitonaautikaangaeteoraangatamanamanatakoreiateiraroaketetangatatatakitaiiteauakakotingaangauaiakatakaiaeteturenoteakakoroangaokotainoteakapapuangaitearikianganoteakangateiteiangaiteautikaangaeteoraangatamanamanatakoreiaeteraukaangaoteauumuumuangataunoteoraangameitakieteoraanga‘auetetuoraangapuapinganotekatoatoairotoitenooangaititangataitaratouuaoraiaka’aereanga.</p>
+    <p>AurakaravakiarirotetaangaangaangaiteiaautikaangaeteoraangatamanamanatakoreiaeipatoiangaiteauakakoroangaeteauturangairinakiangaateTaokotaiangaoteauBasileia.</p>
+  </li>
+  <li>
+    <p>AurakaravatetaiuriuriangaaiteanganoteiaAkakiteangakiaakaanaumainotetaiuaatuBasileia,taokotaiangatangatamekore,tetaiuaatutangata,itetaitikaangakiaraveitetaiuaatuangaangamekorekiaakatupuitetaiangaanganoteakakoroangakiatakoreiatetaiuaatuoteautikaangatangataeteoraangatamanamanatakoreiaiakamouiairotoiteiaAkakiteanganei.</p>
+  </li>
+</ol>

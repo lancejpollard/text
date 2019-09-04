@@ -1,0 +1,122 @@
+<h1 align='center'>UNIVERSAL - DEKLARATIOUN VUN DE MËNSCHERECHTER</h1>
+<h2 align='center'>PRÄAMBEL</h2>
+<p align='center'>Well d'Unerkennong vun der Dignitéit, déi all Mêmber vun der Mënschefamill gebuer as, a vu sénge gläichen an onersetzleche Rechter de Fëllement vun der Fräiheet, der Gerechtegkeet an dem Fridden an der Welt as,
+Well et do, wou d'Mënscherechter nët unerkannt an nët respektéiert gin, zu barbareschen Akte koum, déi d'Gewësse vun der ganzer Mënschheet revoltéieren a well d'Schafe vun enger Welt, an deer d'Mënschen d'Fräiheet vum Wuert a vum Glaf hun, an deer se fräi si vu Fuurcht an Nout, als dem Mënsch säin héchst Striewe proklaméiert gouf,
+Well et haaptsächlech drëm geet fir duerch e Rechtssystem Hand iwwer d'Mënscherechter ze halen an datt de Mënsch doduerch nët forcéiert gët fir säi leschten Auswee an der Revolt géint d'Tyrannei an d'Ënnerdrécktgin ze sichen,
+Well et haaptsächlech drëm geet fir d'Entwécklong vun de frëndschaaftleche Relatiounen tëscht den Natiounen z'encouragéieren,
+Well an der Charta d'Vëlleker vun de Vereenten Natiounen op en Neits hire Glaf an d'Grondrechter vum Mënsch, an d'Dignitéit an an de Wäert vun der mënschlecher Persoun, an d'Gläichheet vun de Rechter vu Mann a Fra proklaméiert a sech dofir entscheed hu fir dem zoziale Fortschrëtt de Virzock ze gin a besser Lieweskonditiounen a méi enger grousser Fräiheet ze schafen,
+Well d'Mëmberstate sech verflicht hu fir an Zesummenaarbecht mat der Organisatioun vun de Vereenten Natiounen dofir ze suergen, datt d'Mënscherechter an d'Grondfräiheten allgemeng respektéiert a realiséiert gin,
+Well eng an déi selwecht Opfaassong iwwer dës Rechter a Fräiheten aus der Mooss wichteg as fir dëst Engagement voll a ganz kënnen duerchzeféieren,
+PROKLAMÉIERT D'GENEROLVERSAMMLONG:
+Dës UNIVERSAL-DEKLARATIOUN VUN DE MËNSCHERECHTER, déi als en allgemengt Ideal vun all Vollek an all Natioun soll ugestrieft gin aus deem Grond, datt all eenzele Mënsch an all Organ vun der Gesellschaft, ëmmer am Geescht vun dëser Deklaratioun, sech ustrenge fir duerch den Unterrécht an d'Erzéiong de Respekt vun dëse Rechter a Fräiheten z'entwécklen an no an no duerch Mesüren um nationalen an internationale Plang hir Unerkennong ze sécheren, datt d'Populatiounen aus de Mêmberstate selwer an déi aus Gebitter, déi ënner hirer Geriichtsbarkeet stin, en allgemengen a gudde Gebrauch dervu kënnen maachen.</p>
+<ol>
+  <li>
+    <p>AllMënschkënntfräiamatdeerselwechterDignitéitandeneselwechteRechteropd'Welt.JiddereenhuetsäiVerstandasäiGewëssekrutansollanengemGeeschtvuBridderlechkeetdenenaneregéintiwwerhandelen.</p>
+  </li>
+  <li>
+    <p>JiddereekannalldéiRechteranalldéiFräiheten,déiandëserDeklaratiounproklaméiertsin,firsechverlaangenandatouniËnnerscheedsiefetvuRass,Hautfaarf,Geschlecht,Sprooch,Relioun,politescheodderanererIwwerzegong,nationalemodderzozialemUrspronk,Verméigen,GebuurtoddersossengerSituatioun.EtduerfdodernieftochkeenEnnerscheedgematgin,deemampoliteschen,rechtlechenodderinternationalestatutvundeemLandodderdeemGebittbegrënntgët,ausdeemengPersounhierstaamt,egalobdëstLandodderdëstGebittonofhängeg,ënnerengemMandat,nëtautonomodderséngSouveränitéitanirgendengerFormbegrenztas.</p>
+  </li>
+  <li>
+    <p>AllMëschhuetRechtopd'Liewen,opd'Fräiheetanopd'SecherheetvuséngerPersoun.</p>
+  </li>
+  <li>
+    <p>KeeMënschdaarfaSklavereiodderaKniechtschaaftgehalgin;d'SklavereiandeSklavenhandelsinanallhireFormeverbueden.</p>
+  </li>
+  <li>
+    <p>Keenduerfgefoltertanochkeegrausam,onmënschlech,onwiirdegbestrooftabehandeltgin.</p>
+  </li>
+  <li>
+    <p>Jiddereenhuetiwweralld'RechtopUnerkennongvuséngerjuristescherPerséinlechkeet.</p>
+  </li>
+  <li>
+    <p>D'MënschesinalleguergläichvirumGesetzasihunouniËnnerscheedRechtopdeeselwechteSchutzvumGesetz.AlleguerhuseRechtopdeeselwechteSchutzgéintallDiskriminatioun,déidësDeklaratioungéingverletzenagéintallProvokatiounzuesouengerDiskriminatioun.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'RechtfirbeidenenzoustännegennationaleGeriichtereneffektiveRecoursgéintdéiAktenzeman,déid'fundamentalRechter,déihimduerchd'Konstitutiounodderduerchd'Gesetzzoustin,verletzen.</p>
+  </li>
+  <li>
+    <p>KeeMënschduerfarbiträrverhaft,agesatodderausgewisegin.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'Recht,avollerGläichheet,dattséngSaach,säinUleiesgerechtanöffentlechvirunengemonofhängegenanonparteiescheGeriichtzurSproochkënnt,datiwwerséngRechteraFlichtenaniwwerd'BerechtegongvunallUklo,déiaStrofsaachegéintegefouertgët,entscheet.</p>
+  </li>
+  <li>
+    <p>AllMënsch,deewéinstengemstrofbarenAktugeklotgëtasesoulaangalsonschëllegunzegesinn,bisséngScholdgesetzlechanamVerlafvunengemöffentlecheProzessnogewisenas,andeemematSécherheetopallnéidegGarantiëfirséngVerdedegongkonntrechnen.</p>
+    <p>KeenduerfveruurteltgifirSaachen,déiegematodderënnerloosshuet,déiandeemAment,woudatgeschittas,nonationalemaninternationalemRechtkengstrofbarAkteworen.OchduerfkeeméienghéichStrofkréiewidéi,déiandeemAmentapplizéiertgouf,andeemdestrofbarenAktgeschittas.</p>
+  </li>
+  <li>
+    <p>AnengerPersounhiirtPrivatliewen,hirFamill,hirWunnéngodderhirKorrespondenzduerfsechnëtarbiträragemëscht,anhirÉieranhireguddeRuffochnëtugetaaschtgin.AllMënschhuetd'RechtopdeSchutzvumGesetzgéintesouenAmëschenanUntaaschten.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'RechtfirfräibannentdeGrenzevunallStatzezirkuléierenaséngResidenzzewielen.</p>
+    <p>AllMënschhuetd'RechtfirallLandzeverloossen,ochsäinegent,anneesasäiLandheemzekommen.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'Rechtfir,wanneverfollegtgët,AsylananereLännerzesichenaGebrauchdovunnerzemaachen.</p>
+    <p>OpdëstRechtkasechnëtberuffginamFallvunUkloen,déireellopengemVerbriechevumallgemengeRechtanopHandlongefundéieren,déigéintd'Zilerand'GrondsätzvundeVereentenNatiouneverstoussen.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'RechtopengNationalitéit.</p>
+    <p>SéngNationalitéitduerfkengemMënscharbiträrentzugin,ochnëtdatRechtfirséngNationalitéitzechangéieren.</p>
+  </li>
+  <li>
+    <p>WaMannaFraamAltersifirsechzebestueden,hused'RechtfirdatzemaachenanengFamillzegrënnenouniiirgendengRestriktiounwatd'Rass,d'Nationalitéitodderd'Reliounugeet.SihubeimBestiednes,amBestiednesabeiséngerOpléisongdéiselwechtRechter.</p>
+    <p>D'BestiednesduerfnëmmematderfräieravollerAwëllegongvumBrautpuergeschlossgin.</p>
+    <p>D'FamillasdatnatiirlechtafundamentaaltElementvunderGesellschaftasihuetd'RechtopdeSchutzvuGesellschaftaStat.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'Recht,elenganochmatanerenzesummen,opEgentom.</p>
+    <p>SäinEgentomduerfkengemMënscharbiträrentzugin.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'RechtopGedanke-,Gewëssens-aReliounsfräiheet;andësemRechtmatdranasd'FräiheetfirséngReliounodderséngIwwerzegongzeänneren,gradesouwéid'FräiheetfirséngReliounasénglwwerzegongelengoddermatanerenzemanifestéieren,siefetanderÖffentlechkeetodderprivat,duerchdenUnterrécht,d'Praktizéieren,deKultusand'FeierevuRiten.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'RechtopengfräiMenongafirsefräiauszedrécken,andeemochd'RechtmatdranasopengMenongfräivuFuurchtandatRechtfirInformatiounenanIddiënzesichen,zekréienanzeverbredematalldeneMëttelefirsechauszedrécken,déietgëtanounisechmussenuGrenzevuLännerzehalen.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'RechtopVersammlungs-aVerenegongsfräiheetamfriddlecheSënn.</p>
+    <p>KeenduerfanengVerenegonggezwonggin.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'RechtfirundenöffentlechenUgeleënhetevuséngemLandmatzewiirken,siefetdirektodderduerchfräigewieltVertrieder.</p>
+    <p>AllMënschhuetd'RechtfirënnergläicheKonditiounenand'öffentlechFonktiounevuséngemLanderanzekommen.</p>
+    <p>DeVollekswëllenasd'GrondlagvunderÖffentlecherGewalthirerAutoritéit;deeWëllemusssechanéierlecheWalen,déiperiodeschofzehalesinnoengemgläichenanallgemengeWalrecht,ageheimeWalenodderanengergläichwäertegerProzedur,déifräiWalegarantéiert,auszedrécken.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetalsMêmbervunderGesellschaftd'RechtopzozialSécherheet;enasberechtegtfirandeGenossvundewirtschaftlechen,zozialenakulturelleRechterzekommen,déifirséngDignitéitand'fräiEntwécklongvuséngerPerséinlechkeetnéidegsin,datallesduerchennationalenEffortanenginternationalZesummenaarbechtananengemMooss,wéid'Organisatiounand'RessourcevunallLandetausweisen.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'RechtopAarbecht,opd'fräiWielvuséngerAarbecht,opAarbechtskonditiounen,déigerechtsinanzefriddestellenanopdeSchutzgéintdeChômage.</p>
+    <p>JiddereenhuetouniDiskriminatiound'RechtopdeselwechteLounfirdéiselwechtAarbecht.</p>
+    <p>Jiddereen,deeschafft,huetd'RechtopegerechtenanordentlecheLoun,deenhimselweraséngerFamillengExistenzopderBasisvundermënschlëcherDignitéitséchertandeen,wannnéideg,duerchallanerzozialMesüregestäiptgët.</p>
+    <p>AllMënschhuetd'RechtfirmatanereLeitBeruffsorganisatiounenzegrënnenafirséngIntressenzeverdedegendranzegoen.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'RechtopRouaFräizäitabesonneschopengräsonnabelbegrenztenDauervunderAarbechtszäitanopperiodeschenabezuelteCongé.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'RechtopeLiewesniveau,deenduergeetfirhimselweraséngerFamilld'Gesondheetand'Gutt-Ergoen,besonneschd'Narong,d'Kleder,d'Wunneng,d'medezineschFlegandéinéidegzozialDéngschterzegarantéieren;enhuetd'RechtopSécherheetamFallvuChômage,Krankheet,Invaliditéit,alsWitfraodderWitmann,amAlteranananereFäll,wouend'MëttelefirsäiLiewesënnerhaltnëtméihuetduerchËmstänn,déionofhängegsivuséngemWëllen.</p>
+    <p>MammaKandhund'RechtopspeziellHëllefaBäistand.D'Kanneralleguer,obseamoddernëtamBestiednesgebuergin,kommenandeGenossvundeemselwechtenzozialeSchutz.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'RechtopBildung.DenUnterréchtmussopd'mannstfird'Elementar-and'Grondschoulegratissin.DenElementarunterréchtasobligatoresch.DentechneschenandeBeruffsunteréchtmusseverallgemengertsin.DenhéiereStudiummussjidderengemmatdeneselwechteRechteranopderBasisvuséngeLeeschtungenopstoen.</p>
+    <p>D'BildungsolldéivollEntwécklongvundermënschlecherPerséinlechkeetaméiegrousseRespektvundeMënscherechterandeGrondfräihetenuviséieren.SisolldeVersteesdemech,d'Toleranzand'FrëndschaafttëschtallenNatiounenanalleGruppevuRassenaReliounegradesoufavoriséierewéid'EntwécklongvundeVereentenNatiounenhirenAktivitéitefird'ErhalevumFridden.</p>
+    <p>D'Elterenhuvirewechd'RechtfirdeGenrevundeKannerhirerBildungzewielen.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'RechtfirfräiunderKommunotéithiremkulturelleLiewendeelzehuelen,andeGenossvunderKonschtzekommenavumwësseschaaftlecheFortschrëttavunallem,watsechdorausuGuddemergët,zeprofitéieren.</p>
+    <p>Jiddereenhuetd'RechtopdeSchutzvundemoraleschenamateriellenIntressen,déiausjidferwësseschaaftlecher,literarescherodderartistescherProduktiounentstin,vundeerhiendenAuteuras.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetd'RechtopengzozialaninternationalUerdnong,andeersechdéiRechteraFräiheten,déiandëserDeklaratiounopgezieltgin,vollkënnenauswiirken.</p>
+  </li>
+  <li>
+    <p>AllMënschhuetFlichtevis-à-visvunderKommunotéit,andeerelengdéifräiavollEntwécklongvuséngerPerséinlechkeetméiglechas.</p>
+    <p>AmGebrauchvuséngeRechteranamGenossvuséngeFräihetenasjiddereennëmmendeneLimitenënnerworf,déid'Gesetzeenzeganelengdofirvirgesäit,dattd'UnerkennongandeRespektvunanerenhireRechteraFräihetegesechertsinafirengemgerechtenUsprochopMoral,opöffentlechUerdnonganopenallgemengtWuelanengerdemokratescherGesellschaftz'entspriechen.</p>
+    <p>DësRechteraFräihetenduerfenakengemFallamWiddersprochmatdeVereentenNatiounenhirenZileraPrinzippiestoen.</p>
+  </li>
+  <li>
+    <p>KengBestëmmongvundëserDeklaratiounduerfesouausgeluegtgin,datteRechtfireStat,engGruppoddereneenzeleMënschdrawärfirsechunAktivitéitenzeginodderAktenduerchzeféieren,déidroperauslafefird'Rechterand'Fräiheten,déidragenanntsin,ëmzestoussen.</p>
+  </li>
+</ol>

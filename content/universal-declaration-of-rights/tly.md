@@ -1,0 +1,122 @@
+<h1 align='center'>İNSONI HƏXON BARƏDƏ UMUMİYƏ BƏYONNOMƏ</h1>
+<h2 align='center'>Preambula</h2>
+<p align='center'>Bə insoni avlodon həmməy xasbıə ləyoğətə fikfamon iyən çəvon bərobərbıə, yəndıku conıbə həxon zıne - ozodəti, ədoləti iyən sulhbeyəti əsosinə şərtbe bə nəzə seədə;
+Bə insoni həxon beitonəti iyən nifrət kardeəti bəşəriyyəti bə dəhşətvardə barbarizmi səbəb be, həmçının bə sıxankarde, etiqadbaste ozodəti malikbıə, tarsiku, ehtijociku ozodbıə dınyo ofəyemonəti çı bəşəriyyəti ən ali piyəybe bə nəzə seədə;
+İnsoni bə zılmi-istibdodi vəynə bənə oxonə vasitə bə ğıyom eşte məcbur nıbe təmin kayro insoni həxon de ğanuni hukuməti dasti mıdafiə karde zəruribe bə nəzə seədə;
+Xəlğon arədə mehribanə munasibəton oko dastək doy vacibəti bə nəzə seədə;
+İbıə Milləton xalqon İbıə Milləton Təşkilati (İMT) Nizomnomədə bə əsosinə insoni həxon, bə insoni şəxsiyyəti ləyoğəti iyən ğıyməti, merdon-jenon həxon bərobərəti bovə kay təsdığ karde, həmçinin həniyən hevujə ozodəti şəraitədə bə sosialə tərəğği nailbe iyən bo jimoni şəraiti çokbeyo koməq karde bə qətm doə be bə nəzə seədə;
+Uzvbıə devləton de İMT həmkoəti şəraitədə bə insoni həxon iyən əsosinə ozodətiyon bəməl vardero koməqəti karde bəştə ehdə peqəteəti bə nəzə seədə;
+İn həxon iyən ozodətiyon tam dərk kardeyo həmonə ehdəpeqətəyon bə vırə rosniye yolə əhəmiyyət kəsb kardeəti bə nəzə seədəy;
+İMT Penə Məclis
+bəyon kardedə İnsoni Həxon barədə Umumiyə Bəyonnomə qələy vəzifə təki, əçəyən bə vırə rəse qorə bəpe həmmə milləton iyən dəvləton joğo cəhd bıkən ki, har kəs iyən cəmiyyəti har qılə orqan ın Bəyonnomə ıştə dastədə rəhbər qəte əsosdə maarifvonəti ya de tədrisə roy bə ın həxon iyən ozodətiyon hurmətkarde iyən əvoni təmin kayro dastək be bızno, milli iyən beynəlxalqə səviyyədə de tərəqqipərvərə tədbiron roy həm İMT uzvbıə xəlğon, həmən çəvon yuristiksiyə jiyobıə əraziyonədə jiyə xəlğon arədə həmməyəvo iyən effektiv zınə bıbu.</p>
+<ol>
+  <li>
+    <p>Həmməinsononbəştələyoğətiiyənhəxonroozodiyənbərobərmovardəbedən.Çəvonşuuriyənvicdonhese,əveki,deyəndımınasibətədəbənəbıvərəftorkardəninin.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsıştəirqi,pustiranqi,cinsi,zıvoni,diniiyəncoəğıdə,milliyasosialsəvoni,əmlakə,sosialəmovqeiyəncovəziyyətikubəşıkrənıbəınBəyonnomədəelonkardəbıəhəmməhəxoniyənozodətiyonmalikbənine.Çımikuziodə,çıhəminəşəxsimənsubbıəməmləkətiyaərazi,çıərazimıstəğıləti,ğəyyumətijiyobe,ıştənidarənıbəbeyasuverenətiharcurəşiklədəməhdudbekubəşıkrənıbə,siyasiyə,huğuğiyəiyənbeynəlxalğəstatusikubənavoməco-səçınətiyonbardeəbıni.</p>
+  </li>
+  <li>
+    <p>Harşəxsibojiye,boozodətiiyənşəxsidastnıjənətihəxışhese.</p>
+  </li>
+  <li>
+    <p>Hiçkəsbənəkolə(nokə)yaşıkrəvəziyyətədəoğəteəbıni;ğuldorətiiyənğuləhıriyemonhəmməyformondəğədəğənkardəbedə.</p>
+  </li>
+  <li>
+    <p>Hiçkəsbəəzobi,yağəddorə,çəyləyoğətibəjivardəğeyri-insonəmınəsıbəton,bəcəzoonməruznibənine.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxskoncobedəbıbuıştəhəxesubyektətizıneyətihəxışheste.</p>
+  </li>
+  <li>
+    <p>Həmməinsononğanunivədəbərobəriniyənqanunitərəfikubərobərşiklədəıştənimıdafiəhəxjonhestışone.HəmməinsononınBəyonnomədəcvoniyəharcurəco-vıjniyətionku,bəjələvonəco-vıjniyətionharcurəcəhdikubərobərşiklədəmıdafiəhəxjonhestışone.</p>
+  </li>
+  <li>
+    <p>HarqıləşəxsiKonstitusiyəyağanunibəydoəhəxondəcvoniyəvaxtədəsəlohiyətinəmilliyəməhkəmontərəfikuıştəhəxonmıdafıəkardehəxışheste.</p>
+  </li>
+  <li>
+    <p>Hiçkəsıştənbəsəbəhəbs,boqəteyabəkuçovnəməruzmandeəzıni.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsiçəyhəxiyənvəzlfontəyinkardeyoiyənbəyohandəbıəcinoyətəittihomonəsosinbemıəyyənkardeyo,bəçəykoymıstəğılə,bitərəfəməhkəmədətambərobərətiəsasədə,deoşkoətiiyənçıədolətihəmməytələbonçəşkardeşəraitədədiyəkayhəxışheste.</p>
+  </li>
+  <li>
+    <p>Cinayətkardeədəittihombıəharqıləşəxstovəçəyqınobəçəymıdafıəyohəmməimkonontəminbıəojəməhkəməistintağədədeğanuniyərosıbutbe,beqınohisobbehəxışheste.</p>
+    <p>Hiçqıləşəxsdemilliyəğanundoətiiyəndebeynəlxalğəhəxonəsosibinobevaxtcinoyəthisobnıbəhərəkətiyənbehərəkətonqorəcinoyətədəittihombeəzıni.Həmçininbəycinoyətikardəvaxtədətətbiğbeyzınəcəzokuqonəcəzotətbiğbeyəzıni.</p>
+  </li>
+  <li>
+    <p>Hiçqıləşəxsbəşəxsiyə,xeyzonəmıdaxilə,kə-bəənəqıniyəti,bəyəndıməktubnıvıştenunəkıliyəti,bəştəşərəfiiyənnufuziıştənbəsəğəsdiməruzbeəzıni.Harkəsibəjoğomıdaxiləiyənğəsdiçığanunitərəfikumıdafiəbeyhəxışheste.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsiharqıləməmləkətihududədəsərbəsthərəkətkardeiyənjimonəvırəsəçıniyehəxışheste.</p>
+    <p>Harkəsiıştənolkəndaxilbeşərtiharqıləməmləkəttərkkardeiyənbəştəolkəoqardehəxışheste.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsitəqibikucoməmləkətədəboştənopənohqonəve,həmçininçıpənohqoədəistifadəkardehəxışheste.</p>
+    <p>Çıhəxədəhəğığətənbəğeyri-siyasiyəcinayətonrodoədə,yabəİMT-iməğsədoniyənprinsiponziddhərəkətonkubənavomətəğibonvaxtiistifadəkardeəbıni.</p>
+  </li>
+  <li>
+    <p>Harqələşəxsivətəndoşətihəxışheste.</p>
+    <p>Hiçkəsıştənbəsəvətəndoşətiku,iyənvətəndoşətidəqışkardehəxekuməhrumkardeəbıni.</p>
+  </li>
+  <li>
+    <p>Bəperəsemonəsinirəsəmerdoniyənjenonirqiyə,milliyə,diniyəəlomətonqorəhiçqıləməhdudiyyətnıbəybənikahdaxılbeiyənkəxıvandbehəxhısteşone.Əvonbənikahdaxılbeədə,nikahimıddətədəyaçəydəcvonəvaxtədəçıeynihəxonkuistifodəkardedən.</p>
+    <p>Nikahbənikahidaxılbıəhardıqlətərəfozodəiyəntamrozibeədədəbastəbedə.</p>
+    <p>Xeyzonçıcəmiyyətitəbiiəiyənsərqrupəvahide,çəyçıcəmiyyətiiyəndevlətitərəfikumıdafıəbeyhəxışheste.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsihəmcolinə,həməndecokəsonbəicomılkiyətxıvandbeyhəxışheste.</p>
+    <p>Hiçkəsiıştənbəsəçımılkiyətoməhrumkardeəbıni.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsifikir,vicdoniyəndinozodətihəxışheste.Bıhəxeıştədiniiyənetiğatidəqışkardeozodəti,bəştədiniiyənbovəkardəyontəhsil,dıvokay,diniiyənritualəayinonicrokayvaxticolinə,yadecokəsonbəico,oşkoyafərdişikilədəetiğadkaydaxile.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsiəğıdəiyənəysərbəstifadəkardeozodətişheste;bıhəxebemaneəbəəğıdəmalikbeiyəninformasiyonyaideyaondevlətisərhədikubəşıkrənıbədedılipiyəvasitəonnəve,yabədastvarde,pevılokayozodətidaxile.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsibədincyığıncağoniyənassosasiyonozodətihəxışheste.</p>
+    <p>Hiçkəsibəkonsəqıləassosiasiyauzvətiməcburkardeəbıni.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsidevlətiidarəkardeədəyabilavasitə,yaozodəşikilədəvıjniyəbıənumayəndonvasitəiştirakkayhəxışheste.</p>
+    <p>Harqıləşəxsiıştəolkədədevlətiidaronədəxıdmətkardeyobəbərobərimkonihəxışheste.</p>
+    <p>Xəlğıiradəçıiqtidarəhakimiyətiəsasbənine;Iniradəıştənidenunəkıləsədodoymonəroy,umumiyəiyənbərobərəvıjoniyəhəxe,yasədodoymonəozodətitəminbıkədecoeynimənəynəforməyondəvoniyəbıəmıtəmadiiyənsoxtənıkardemonəvıjınonnişodoənine.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsiçıcəmiyətiuzvtəkisosialəmıdafiəşbənineiyəndemilliyəyabeynəlxəlğəhəmkoətiroon,hardevlətisoxtemoniiyənpesursondairədəçəyləyoğətimidafiəiyənşəxsiyətiozodəovciyoiqtisadiyə,sosialəiyənmədəniyəsahonədəhəxonışheste.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsidezəhmətidastkobey,sərbəstəkoyvırəsəçınkarde,ədolətinəiyənçokəkoşəraitibey,iyənbekoətikumıdafiəbeyhəxışheste.</p>
+    <p>Harqıləşəxsihiçqıləco-vıjniyətinıbıəboicurəkoyicurəzəhməthəxsəyhəxışheste.</p>
+    <p>Harkobıkəşəxsibəştəkoyqorəlozimbeədədecososialəmıdafiəvasitontəmombıə,çəyıştəniiyənxeyzoniloyiğinəquzoronitəminbıkəədalətinəiyənqənoətbəxşəmaaşsəyhəxışheste.</p>
+    <p>Harqıləşəxsihəmkaronittifoğsoxteiyənıştəsosialəmarağonmıdafiəkardeyobəhəmkaronittifağiuzvbeyhəxışheste.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsiistirohət,iyənasudəvaxt,həmçininkoyərujibəağılnıştəhudud,iyənmaaşdoəbıəmıtəmadiyəməzuniyətihəxışheste.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsiıştəniiyənxeyzonisəhhətiiyənrifahitəminkardeyolozimbıəhardemon,takanemon,tibbiyəxıdmət,iyənlozimisosialətəminatəndaxilbıəjimonəsəviyyəiyənbekorəti,noxəşəti,əliləti,vevəmandeəti,pibeyəti,iyənçışəxsiıştənikubəşıkrənıbəsəbəbonkujimonəvasitəonqinkardeədəbətəminatihəxışheste.</p>
+    <p>Moətiiyənhırdənətibəməxsusiyəğeydiiyənkoməqsəyhəxışheste.Nikohisəkıştədə,yanikohikubəkənomovardəbıəhırdənonicurəsosialəmıdafiəkuistifadəkardəninin.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsitəhsilsəyhəxışheste.Kamiibtidaiiyənumumiyətəhsilbepulbənine.İbtidaiyətəhsilicbaribənine.Harkəsibotexnikiyəiyənpişətəhsilisəyoimkanışbənine.Alitəhsiləndeharkəsiğabiliyyətibəhəmməyicurədərəcədəmıyəssərbənine.</p>
+    <p>Təhsil-boinsonişəxsiyətitaminkişafiyoiyənbəinsonihəxoniyənbəəsasinəozodətionhurmətizyodkardeyosəbərokardəbənine.Təhsilxəlğonirqiiyəndiniyəqruponarədə,iyəndıdərəsemon,duruminətiiyəndustətimehkəmkardeyoiyənİbıəMillətonsulhioğətesahədəfəaliyətnişodoyokoməqkardənine.</p>
+    <p>Valideynonboştəhırdəsininəəğılontəhsilinovisəçınkardeədəsərbəstin.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsicəmiyətimədəniyəjimonədəiştirokkarde,hınəsənətikuhəzzsəy,elmiyətərəğğiyədəiştirakkardeiyənçəyfoydəkuistifadəkardehəxışheste.</p>
+    <p>Harqıləşəxsimıəllifbəelmiyə,ədəbiyəiyənhınəsənətəəsəronsəkıştədəbəməydonbeşəmaddiyəiyənmənəviyəmənafeyonnoğodoyhəxışheste.</p>
+  </li>
+  <li>
+    <p>HarqıləşəxsibınBəyonnomədəəksbıəhəxiyənozodətiontamtəminbıəsosialəiyənbeynəlxəlğəreçinihəxışheste.</p>
+  </li>
+  <li>
+    <p>Harqıləşəxsiəncəxçəyozodiyəntaminkişafişmımkunbıəcəmiyətivədəvəzifonışheste.</p>
+    <p>Iştəhəxiyənozodətionbəəməlvardeədəharqıləşəxsancəxbəjələvonəməhdudiyətonməruzmandebəzıneki,əvonçığanunitərəfikuçıcokəsonhəxiyənozodətionzıneiyənbəvonhurmətbetəminatıku,iyəndemokratikəcəmiyətiəxlaqiyə,ictimaiyə,asayişəiyənumumiyərifahətələbonbəvırərosneməğsəditəminkardəykubənavbo.</p>
+    <p>InhəxiyənozodətionbəəməlvardebəİMTməğsədiyənprinsiponziddnibənine.</p>
+  </li>
+  <li>
+    <p>InBəyonnomədəhiççibəkonsəqılədevləti,bəşəxsonqrupi,iyənbəco-coşəxsonBəyonnomədəelanbıəhəxiyənozodətionməhvkardeyosəbərobıədeharqıləfəaliyyətidastkobe,yakonsəqıləjoğohərəkətibəəməlvardehəxdoytəkinətəfsirkardeəbıni.</p>
+  </li>
+</ol>

@@ -1,0 +1,121 @@
+<h1 align='center'>LLAJTANCHEJNINTINPAJ QHELQESQA TUKUY RUNAJPA ATIYNINKUTA SUT'INCHASPA</h1>
+<h2 align='center'></h2>
+<p align='center'>Kaytaqa jatun tantakuypi, tukuynin llajtasmanta ujllachasqa runa qhelqerqanku, imakunachus kay pachapi atiyninghej kasqanta yachananchejpaj. Kay qhelqesqanku qhalichakurqa iskay chunka ujniyoj p'unchayllaña kasajtin waranqa jisq'on pachaj tawa chunka pusajniyoj wata tukukunanpaj.
+Manaraj runaj atiynin imachus kasqanta rimayta qallarisasparaj, qhepallanpi qhelqesunchej imakunatachus runa masikuna qhatinanku kasqanta, tukuynejpi allin kay kawsayllapuni kananpaj.
+Munaspa tukuypaj walej kawsay kananpaj.
+Munaspa tukuy ujllachasqallapuni kawsakunankuta.
+Munaspa qheshpi kay tukuypaj kananta.
+Munaspa tukuypaj khuskamanta uj munaylla junt'akunanta.
+Munaspa tukuy mana ujniyoj, uj llajtayojllapis kankuman jina, ayñillapipuni yanaparikuspa kawsakunankuta.
+Munaspa cheqan kay tukuynejpi kananta, ama kawsaqe masikuna millay pejtuspi rikhurinankupajtaj, kay jinata riman, runaj allin kayninpaj atiyninkunaqa.</p>
+<ol>
+  <li>
+    <p>Tukuykaypachamanpaqarimujkunalibresnasekuntutukuypunitajkikinobligacionesniycjllataj,jinakamallahonorniyojtajatiyniyojtaj,chantaqarazonwantajconcienciawantajdotasqakasqankurayku,kawsaqemasipurajina,tukuyujmunakuyllapikawsakunankutian.</p>
+  </li>
+  <li>
+    <p>Kaypachapikajchhika,tukuymanaujniyojpataatiyninkutiankayDeclaracionespiqhaparikusqanman;yanaqarayojpis,yurajqarayojpis,pukakunkapiskachunchayriwarmipisqharipiskachun,qheshwasimiyojpis,aymarasimiyojpis,yurajparalyniyojpis,mayqenreligionllamantapiskaytaatin,chayrimayqenpolìticayuyayllapipisatisqakaytaatinmanchayriwajlayarunaqollumanpis.Kaytaatinmaynejllamantapisimarijch'ajllawartapissirk'asninpiapaykachaspa,qhapajkachun,wajchakachun,manachijllasqachukanantian.Chantapis,imarijch'ajpolìticaqotumanchusujrunaatisqakasqanraykupis,chayjawaqamanaqhawapayasqachukanqa,jinaujqhapajllajtamantakachun,paykikillanmantatajpurikujllajtayojkachun,manakayrimaykunamantachijllasqachupillapiskanqa.</p>
+  </li>
+  <li>
+    <p>Pillapiskaykawsaymanatiyniyoj,manaujllapatachu;tukuyrunaspataatiynintianqheshpisqataj,manawalejpaypajkaymantatajkaruncharikuspapuririyta,sumjkawsaypikananpajjina.</p>
+  </li>
+  <li>
+    <p>Manapipisujpajkamachisqallanmanchuwatasqakanantianmunarisqallantapuniqhatispa,manapipisesclavitudnisqamansujituchukanqanitajservidumbreman.</p>
+  </li>
+  <li>
+    <p>Manapipismayqenlayamuchuykunamannitajllakiykunamanñak'arinanpajjinatanqasqachukanqa,manapitapisusuchinqankuchuchayrik'umuykachachinqankuchusuaalqotajinaqa.</p>
+  </li>
+  <li>
+    <p>Tukuykajchhikaatiyniyoj,maycheqanejllapipis,chayatiyninsumajqhawarisqatajmaynejllapipisyupaychasqatajkananpaj.</p>
+  </li>
+  <li>
+    <p>Mayqenrunamasillapisleypañawpaqenpikikinderechosniyojllapuni,chayraykutajtukuykhuskamantaatinkukaykamachisqaleyespiatikuyta,kayleyesmanaallinkajmantajark'arinanpaj.Tukuyatiyniyojkankukikinamaprollamantajpillapismanakaydeclaracionestauyarispa,munasqanmanjinaapaykachaytamunanmanchayqa,munankumantajchayqawajchakunataqhapajkunamanta,llank'ajkunataatiyniyojqolqesapakunamanta,ñawiyojkunamanañawiyojkunamantat'aqarayta,pillapismunaspa,kayDeclaracionestamanauyarispa,munasqanmanjinaapaykachariyta.</p>
+  </li>
+  <li>
+    <p>Pillapisatiyniyojjusticiatapurichijkunañawpaqenkupirimarinanpaj,imajuchapipispejtusqarikhurinmanchayqa;jinamantaamparasqallajtamasisninwankhuskasumajkawsaypitiakunanpaj,kamachisqaleyesrimasqanmanjina.</p>
+  </li>
+  <li>
+    <p>Manapipismanakajllamantapresuchasqakanqachu,nitajwisq'asqamanatajllajtanmantawajnejmanqharqorparisqa.</p>
+  </li>
+  <li>
+    <p>Pillapisatin,mashkhaukhuqayllankupipiskachuntukuyjusticiawanrimasqantauyarichikuyta,chijllasqaleyespiyachayniyojkajkunacheqanjusticiataruanankupaj;imachusderechusninobligacionesnintajsut'inchakunanpaj,chayriimatachustumpasasqankutaunanchanankupaj,leypenalrimasqanmanjinalla.</p>
+  </li>
+  <li>
+    <p>Mayqenjuchawanatiykusqarunallapis,manarajjuchayojpunikasqantayachakusaspa,maynejllapipisatiyniyojtukuyuyarinankupajjinatapuykachakunanpajimajuchasninmantachustumpasasqankumanta,tukuylayagarantiastatajwaqaychapunankutian,manamanchikuyniyojtatukuyimacheqankasqantaparlananpajjina.</p>
+    <p>Manapipisjuchamantanqasqachukanqa,ruasqasninmanta,chayriruanankasajtinmanaruasqanmanta,manachayruasajtinpachaDerechoNacionalchayriInternacionalrimasqanmanjinajuchakarqachayqa,manatajjuchankasqanmanjinaasllawanllakiytayapakunqachu.</p>
+  </li>
+  <li>
+    <p>Manapipiskawsayninukhupit'ojpisqachukanqa,nitajllawarmasisninukhupi,manpunitajwasinpisat'ikusqankuraykuabusustapillapismuchunanchutian;chayrimasisninwanjinapurasqanwanichushonrantat'akariytamunasqankumanta.Tukuylayarunaatiyniyojleyeswanqhawachikunapaj,chaymanakajmillay,runajkawsakuyninpichajrukuytamunasqankumantajark'asqakananpaj.</p>
+  </li>
+  <li>
+    <p>Pillapisatiyniyojmanamanchikuyniyojmayllapipispurikunanpaj,kikillantajwasichakuytamayqenrijch'ajllajtallapipis.</p>
+    <p>Pillapisatinmayqenllajtallamantapisllojsipuyta,kikinllajtanmantapiskachun,munasparillajtanmantajkutimpuyta.</p>
+  </li>
+  <li>
+    <p>Pitapisayqeykachachisankuchayqa,tukuyrunakajchhikajpataatiynintianmayqenwasillamanpiswajyarichikunanpaj,kikinllajtanpipiskachunwajnejpipis,chaywasipipakasqakarikunanpaj.</p>
+    <p>Kaytukuynisqaqamanaminrunawañuchirunaspajjinachurimasqakasan,manatajpipajchusimajuchanraykupisjusticiaayqeykachachisan,nitajimatachusNacionesUnidasallinkananpajrimayninkunacontranpijuchachakujkunapajchu.</p>
+  </li>
+  <li>
+    <p>Pillapisatiyniyojujllajtatalegitimunllajtantajinarejsikapunanpaj.</p>
+    <p>Manapitapissajramantakallpaykuspallajtantawajnojtachinankuchutian,nillatajoponekunankuchutianwajllajtatallajtantajinarejsikapuytamunanqachayqa.</p>
+  </li>
+  <li>
+    <p>Manariparaspallaimarijch'ajrunakasqantanitajimalayareligiontachuspaypajrejsikapusqanta,chayriimallajtayojchuskasqanta,qharispiswarmispiskallpañojñakaspaqaatiyniyojkankuyananchakunankupaj,casamientomantaparlasparikhuskamantakikinderechosniyojllatajkanqanku,tantallapunikawsakusaspapis,t'aqakunqankuchaypis.</p>
+    <p></p>
+    <p>Aylluqallajtaspajsapinkaqanrayku,atiynintianyanapachikunanpajtukuyllajtayojrunakunawanEstadovanima.</p>
+  </li>
+  <li>
+    <p>Pillapisatiyniyojtukuyimakapuyllamanpis,ujpallatapiskachunashkhakunajpatapis.</p>
+    <p>Sajramantaqamanapijkapuyninpist'ojpisqakanqachu.</p>
+  </li>
+  <li>
+    <p>Pijpallatapisatiynintianyuyasqantawanconcienciantawanreligionnintawansut'inchananpajtajqhatinanpajtaj;kayatiyqakhuskachanimareligionpiscreenciapiswajjinareligionmanpiscreenciamanpistukuykunanpaj,chantapiskayreligiontawancreenciatawanqamayllapipisqhapariytaatikusqanta,pipisyachananpajchayyuyasqanwanpis,chayconcienciawanpischayreligionwanpiskhuskallapunipurisqanta.</p>
+  </li>
+  <li>
+    <p>Tukuyrunakajchhikajpataatiynintianyuyasqantamayllapipisqhaparinanpaj,kayatiykamachillantajamapipisrimarisqanraykut'ojpisqakananpaj,kamachillantajminpuriytaatisqantatapuykachaspatajunancharispatajujkunawaillasqankuta,chayrichaytukuyrimasqatamaykamallapisninrimantaninripurichiyta.</p>
+  </li>
+  <li>
+    <p>Pillapisatiyniyojrunamasisninwankhuskatantakuypikananpaj,paykunawantajri,sumajkawsaypajkanqachayqa,ujllachakuyta.</p>
+    <p>Manapipiskallparparisqachukanqa,mayqenrunaqollumantapisujninkajkananpajqa.</p>
+  </li>
+  <li>
+    <p>Mayqenllajtayojllapisatiyniyojllajtantacheqayannintapuriysichinanpaj,paykikinkamachispachayrimunayninmantachijllasqallajtamasisninnejta.</p>
+    <p>Pillapisatiyniyoj,kikinderechosllawantaj,llajtanpallajtakamachisqotumanyaykunanpaj.</p>
+    <p>Llajtamasikunajmunayninkuqa,tukuyninaylluspatasapinkasqanrayku,chaymunayqamanaimaynapikallpasqachunitajjark'asqachukanqa,llajtamasikunamanamanchikuyniyojta,walejkasqallantaqhawaspatajapusnintachijllanankupaj,chaychijllasqarunallajtankuukhupi,leyesrimasqanmanjinakamachinankupaj.Kayeleccionessutiyojqa,sapallajtakamachistachijllarinamit'achayamujtillanruakunantian.</p>
+  </li>
+  <li>
+    <p>Pillapis,llajtamasisninqotumantaujninkasqanrayku,atiynintialllajtanpiqhawaykachaytatukuyimawalejkananpajjina,puriytatajyacharinankamaimawanchus,imaynatachus,payllamantachuschayriwajlaajtaswanyanapachikuspachusllajtankawsasqanta,chaykunataunanchaspa,allinkaytaruaspatajtukuyimapikikinllajtamasiastawanastawanrunayaytaatinanpaj.</p>
+  </li>
+  <li>
+    <p>Tukuyrunaspataatiynintianmunasqanmanjinallank'ananpaj,maynejllapipisllank'aspakaswaynintamask'ananpaj,llank'aspallapunitajkawsakuyman;chayllank'asqanmantatajriyupachikuyta,llank'aypatapitajwasinpitajrunajinakawsakuytaatinanpaj.</p>
+    <p>Ujkunawankhuskallank'aypatapiruasqanmantaqa,pillapisatiyniyojkikinlllank'asqanmatna,ujkunajap'isqankumanjinakikillantatajyupachikunanpaj.</p>
+    <p>Mayqenllank'ajrunallapisllank'asqanmantawalejsonqochasqakanantian,paytajyawarmasisnintajp'unchaymantap'unchayrunayaspallapunikawsakunankupajjina.</p>
+    <p>Pillapisatiyniyoj,imasajrakaymantapisjark'arikunanpaj,ujsindicatupiapuntachikuspachaysindicatumantaujninkananpaj,chayrimunaspapaykikinujsindicatutarikhurichispa.</p>
+  </li>
+  <li>
+    <p>Manaujllachu,tukuyatiyniyojkankusamarinkunankupajsamarikusaspatajmunaynillankuruasqakunanpaj,ñaruanasnintajunt'aykuspaqapillapisatiyniyojmanamunanpaj,ruasqanpatapiasllawanunaytallank'anallantapunimunanqankuchayqa.Watapiujkutisamarikuymit'akanqapuni,chaysamarikuymit'amantapisllank'ajrunaqolqetajap'inapuritian,samarikuymit'atintalllank'anmanpiskarqajina.</p>
+  </li>
+  <li>
+    <p>Pillapisatiyniyoj,allinkaykawsaypatapitiakuytamunananpajllawarmasisninwankhuska,manaimamantausurispallarunajinakawsakuytaatinanpaj,manamikhunamanta,manapìachamantanillatajjampichikuymanta;kikinatiyniyojllatajllajtanpaSeguroSocialnisqawanyanapachikunanpaj,manapaypajimaruanapiskasqanraykuchus,onqorparisqanraykuchus,manañallank'ananpajjinaqheparparikusqanraykuchus,imantak'irikusqanraykuchus,warmimanaqosayojqharichusmanawarmiyojqhepakusqankurayku,ichamachuyarparisqanraykuchaychusmanapaymantapunikapuynintarunajinakawsakunanpajjinachinkachisqanraykuchusmanañallank'aytaatinqachayqa.</p>
+    <p>Onqojwarmikunawan,wawatañauywasankuwarmikunawan,tukuywawaswanimaqa,atiyniyojkankumaychhikasumajqhawasqakanankupaj,tukuyimarijch'ajmillaysajrakunamantatajjark'asqakanankupaj.Wawaspistukuyatiyniyojkanku,k'ipawawasnintinrejsisqatatasniyojwawasnintin,tukuypuniatiyniyojkankullajtankuukhupitiakujkunawanyanapachikunankupaj.</p>
+  </li>
+  <li>
+    <p>Tukuypataatiynintianujyachaywasipikasparunayanankamayachakunanpaj.Pillapisqhasilla,manaujphatatamañarispallayachachinankuleeytawanqhelqeytawanyupaytawanyachakunankukamallapis.Kaynisqataqamanaujniyojqhatinankutian.Instruccióntécnicayprofesionalcastellanisimipisutiyojqatukuytaripanankupajjinakanantian.Aswanyachayniyojkaytamunajkunapajqajatunyachaywasispapunkusninkicharisqakanantian.</p>
+    <p>Educaciónsutiyojyannintukuyrunamasista,ujmunakuyllapiujllachasqakawsakunankupajjina,pusanantajyanapanantajtianp'unchaymantap'unchayallintarunayanpaj.Educaciónnisqaqayanapanantiantukuyrunaujllachakunankupaj,manapipischijllaspallamayllajtayojchusrunamasinkasqanta,imareligiontachusapasqantachayriimaayllumantachuskasqanta,jinakaspatukuyujllajtayojllapiskankumanjinaujmunakuyllapikawsakunankupajUjllachasqaLlajtasparuanasnintakallpachaspa,tukuyallinkayllapipunitiakunankupaj.</p>
+    <p>Tataswanmamaswanqaaswanatiyniyoj,ujkunamantanisqakanqanku,chijllanankupajmayqenyachaywasillatapiswawasninkumunayninkumanjinayachakunakupaj.</p>
+  </li>
+  <li>
+    <p>Pillapisatiyniyoj,kikinmunayninmanta,khuskachakunanpajpejtukunanpajtajllajtanpayachasqasninwan,yuyasqasninwanimachusllajtanpik'achakasqanwanima,llajtanpataujninkajkasqanraykuriatiyniyojllataj,kawsaqemasisninwankhuska,llajtanmantasumajkaynintajap'ikuyta,pìunchaymantap'unchayastawanastawanjatunyachiytataj.</p>
+    <p>Pillapisimatajinasqanmanta,ruasqanmanta,imataqhelqesqanmantachayriparlaspayuyaytaqosqnmantakikinpaychaynisqataruajjina,ruasqasninmantajinaqasmantapistukuyatiyniyojqhawakapunanpajjayk'ajllapispoqoynintapallananpaj.</p>
+  </li>
+  <li>
+    <p>Pillapisatiyniyoj,kayDeclaracionesamanisqallajinaqhepaykukunanpaj,sayachiytaimarijch'ajrunaqotusllatapiskayDeclaracionestukuyrunakunajkawsaynintaallinchananpajpuni.</p>
+  </li>
+  <li>
+    <p>Tukujrunakajchhika,comunidadmantaujninkasqanrayku,ashkhaobligacionesniyojcomunidadukhupi:runamasisnillanwankhuskakawsakuspapillapissumajkaynintatariparqoytatajrunayaytatajatisqanrayku.</p>
+    <p>Democraciayojllajtaukhupiqapillapisleyesrimasqallanmanpurinqa,waqaychanapajrunajderechosnintamamapejtuskananpaj,tukuyllajtamasikunacheqanyannillantapunipurisqankuraykutajllajtamasikunapajmanawalejkaychinkapunanpaj.</p>
+    <p>Tukuykayderechostawanlibertadestawanqa,manaimaraykupipisapaykachanqachuUjllachasqaLlajtasrimasqantawajninchaytamunaspa.</p>
+  </li>
+  <li>
+    <p>ManamayqenkayDeclaracionpirimasqakasqanunanchakunanchutianyuyaspaEstadowan,imaqotullamanpis,chayripillamanpisatiytaqosqanta,mayqenrimasqaderechosnillanpismanayupasqakananpajqa.</p>
+  </li>
+</ol>

@@ -1,0 +1,123 @@
+<h1 align='center'>VERDENSERKLÆRINGEN OM MENNESKERETTIGHETENE</h1>
+<h2 align='center'>INNLEDNING</h2>
+<p align='center'>Da anerkjennelsen av menneskeverd og like og umistelige rettigheter for alle medlemmer av menneskeslekten er grunnlaget for frihet, rettferdighet og fred i verden,
+da tilsidesettelse av og forakt for menneskerettighetene har ført til barbariske handlinger som har rystet menneskehetens samvittighet, og da framveksten av en verden hvor menneskene har tale- og trosfrihet og frihet fra frykt og nød, er blitt kunngjort som folkenes høyeste mål,
+da det er nødvendig at menneskerettighetene blir beskyttet av loven for at menneskene ikke skal tvinges til som siste utvei å gjøre opprør mot tyranni og undertrykkelse,
+da det er viktig å fremme utviklingen av vennskapelige forhold mellom nasjonene,
+da De Forente Nasjoners folk i Pakten på ny har bekreftet sin tro på grunnleggende menneskerettigheter, på menneskeverd og på like rett for menn og kvinner og har besluttet å arbeide for sosialt framskritt og bedre levevilkår under større Frihet,
+da medlemsstatene har forpliktet seg til i samarbeid med De Forente Nasjoner å sikre at menneskerettighetene og de grunnleggende friheter blir alminnelig respektert og overholdt,
+da en allmenn forståelse av disse rettigheter og friheter er av den største betydning for å virkeliggjøre denne forpliktelse,
+kunngjør
+GENERALFORSAMLINGEN
+nå denne VERDENSERKLÆRING OM MENNESKERETTIGHETENE som et felles mål for alle folk og alle nasjoner, for at hvert individ og hver samfunnsmyndighet, med denne erklæring stadig i tankene, skal søke gjennom undervisning og oppdragelse å fremme respekt for disse rettigheter og friheter, og ved nasjonale og internasjonale tiltak å sikre at de blir allment og effektivt anerkjent og overholdt både blant folkene i medlemsstatene selv og blant folkene i de områder som står under deres overhøyhet.</p>
+<ol>
+  <li>
+    <p>Allemenneskererfødtfrieogmedsammemenneskeverdogmenneskerettigheter.Deerutstyrtmedfornuftogsamvittighetogbørhandlemothverandreibrorskapetsånd.</p>
+  </li>
+  <li>
+    <p>Enhverharkravpåallederettigheterogfrihetersomernevntidenneerklæring,utenforskjellavnoenart,f.eks.pågrunnavrase,farge,kjønn,språk,religion,politiskellerannenoppfatning,nasjonalellersosialopprinnelseeiendom,fødselellerannetforhold.Detskalhellerikkegjøresnoenforskjellpågrunnavdenpolitiske,rettsligeellerinternasjonalestillingsominnehasavdetlandellerdetområdeenpersonhørertil,entenlandeteruavhengig,stårundertilsyn,erikke-selvstyrende,ellerpåannenmåteharbegrensetsuverenitet.</p>
+  </li>
+  <li>
+    <p>Enhverharretttilliv,frihetogpersonligsikkerhet.</p>
+  </li>
+  <li>
+    <p>Ingenmåholdesislaveriellertrelldom.Slaveriogslavehandelialleformererforbudt.</p>
+  </li>
+  <li>
+    <p>Ingenmåutsettesfortorturellergrusom,umenneskeligellernedverdigendebehandlingellerstraff.</p>
+  </li>
+  <li>
+    <p>Ethvertmenneskeharkravpåoveraltåblianerkjentsomrettssubjekt.</p>
+  </li>
+  <li>
+    <p>Alleerlikeforlovenogharutendiskrimineringretttilsammebeskyttelseavloven.Alleharkravpåsammebeskyttelsemotdiskrimineringistridmeddenneerklæringogmotenhveroppfordringtilslikdiskriminering.</p>
+  </li>
+  <li>
+    <p>Enhverharretttileffektivhjelpavdekompetentenasjonaledomstolermothandlingersomkrenkerdegrunnleggenderettigheterhanergittiforfatningellerlov.</p>
+  </li>
+  <li>
+    <p>Ingenmåutsettesforvilkårligarrest,fengslingellerlandsforvisning.</p>
+  </li>
+  <li>
+    <p>Enhverharkravpåunderfulllikestillingåfåsinsakrettferdigogoffentligbehandletavenuavhengigogupartiskdomstolnårhansrettigheterogplikterskalfastsettes,ognårenstraffeanklagemothamskalavgjøres.</p>
+  </li>
+  <li>
+    <p>Enhversomeranklagetforenstraffbarhandlingharretttilåbliansettsomuskyldigtildeterbevistvedoffentligdomstolsbehandling,hvorhanharhattalledegarantiersomernødvendigforhansforsvar,athanerskyldigetterloven.</p>
+    <p>Ingenmådømmesforenhandlingellerunnlatelsesomihenholdtilnasjonallovellerfolkerettenikkevarstraffbarpådentiddadenblebegått.Hellerikkeskaldetkunneidømmesstrengerestraffenndensomdetvarhjemmelforpådentiddadenstraffbarehandlingblebegått.</p>
+  </li>
+  <li>
+    <p>Ingenmåutsettesforvilkårliginnblandingiprivatliv,familie,hjemogkorrespondanse,ellerforangreppåæreoganseelse.Enhverharretttillovensbeskyttelsemotslikinnblandingellerslikeangrep.</p>
+  </li>
+  <li>
+    <p>Enhverharretttilåbevegesegfrittogtilfrittåvelgeoppholdsstedinnenforenstatsgrenser.</p>
+    <p>Enhverharretttilåforlateethvilketsomhelstlandinnbefattetsittegetogtilåvendetilbaketilsittland.</p>
+  </li>
+  <li>
+    <p>Enhverharretttiliandrelandåsøkeogtaimotasylmotforfølgelse.</p>
+    <p>DennerettkanikkepåberopesvedrettsforfølgelsesomharreeltgrunnlagiupolitiskeforbrytelserellerhandlingersomstridermotDeForenteNasjonersformålogprinsipper.</p>
+  </li>
+  <li>
+    <p>Enhverharretttiletstatsborgerskap.</p>
+    <p>Ingenskalvilkårligberøvessittstatsborgerskapellernektesrettentilåforandredet.</p>
+  </li>
+  <li>
+    <p>Voksnemennogkvinnerharretttilågiftesegogstiftefamilieutennoenbegrensningsomskyldesrase,nasjonalitetellerreligion.Deharkravpålikerettighetervedinngåelseavekteskapet,underekteskapetogveddetsoppløsning.</p>
+    <p>Ekteskapmåbareinngåsetterfrittogfulltsamtykkeavdevordendeektefeller.</p>
+    <p>Familienerdennaturligeoggrunnleggendeenhetisamfunnetogharkravpåsamfunnetsogstatensbeskyttelse.</p>
+  </li>
+  <li>
+    <p>Enhverharretttilåeieeiendomaleneellersammenmedandre.</p>
+    <p>Ingenmåvilkårligfratassineiendom.</p>
+  </li>
+  <li>
+    <p>Enhverharretttiltanke-,samvittighets-ogreligionsfrihet.Dennerettomfatterfrihettilåskiftereligionellertro,ogfrihettilentenaleneellersammenmedandre,ogoffentligellerprivat,ågiuttrykkforsinreligionellertrogjennomundervisning,utøvelse,tilbedelseogritualer.</p>
+  </li>
+  <li>
+    <p>Enhverharretttilmenings-ogytringsfrihet.Dennerettomfatterfrihettilåhevdemeningeruteninnblandingogtilåsøke,mottaogmeddeleopplysningerogideergjennomethvertmeddelelsesmiddelogutenhensyntillandegrenser.</p>
+  </li>
+  <li>
+    <p>Enhverharretttilfrittådeltaifredeligemøterogorganisasjoner.</p>
+    <p>Ingenmåtvingestilåtilhøreenorganisasjon.</p>
+  </li>
+  <li>
+    <p>Enhverharretttilåtadelisittlandsstyre,direkteellergjennomfrittvalgterepresentanter.</p>
+    <p>Enhverharretttillikadgangtiloffentligtjenesteisittland.</p>
+    <p>Folketsviljeskalværegrunnlagetforoffentligmyndighet.Denneviljeskalkommetiluttrykkgjennomperiodiskeogreellevalgmedallmennoglikstemmerettogmedhemmeligavstemningellerlikeverdigfristemmemåte.</p>
+  </li>
+  <li>
+    <p>Enhverharsommedlemavsamfunnetretttilsosialtrygghetogharkravpåatdeøkonomiske,sosialeogkulturellegodersomeruunnværligeforhansverdighetogdenfrieutviklingavhanspersonlighet,blirskaffettilveiegjennomnasjonaletiltakoginternasjonaltsamarbeidisamsvarmedhverenkeltstatsorganisasjonogressurser.</p>
+  </li>
+  <li>
+    <p>Enhverharretttilarbeid,tilfrittvalgavyrke,tilrettferdigeoggodearbeidsforholdogtilbeskyttelsemotarbeidsløshet.</p>
+    <p>Enhverharutendiskrimineringretttillikbetalingforliktarbeid.</p>
+    <p>Enhversomarbeiderharretttilenrettferdigoggodbetalingsomsikrerhansfamilieoghamselvenmenneskeverdigtilværelse,ogsomomnødvendigblirutfyltvedannensosialbeskyttelse.</p>
+    <p>Enhverharretttilådanneoggåinnifagforeningerforåbeskyttesineinteresser.</p>
+  </li>
+  <li>
+    <p>Enhverharretttilhvileogfritid,herunderrimeligbegrensningavarbeidstidenogregelmessigeferiermedlønn.</p>
+  </li>
+  <li>
+    <p>Enhverharretttilenlevestandardsomertilstrekkeligforhansoghansfamilieshelseogvelvære,ogsomomfattermat,klær,boligoghelseomsorgognødvendigesosialeytelser,ogretttiltrygghetitilfelleavarbeidsløshet,sykdom,arbeidsuførhet,enkestand,alderdomellerannenmangelpåeksistensmulighetersomskyldesforholdhanikkeerherreover.</p>
+    <p>Mødreogbarnharretttilspesiellomsorgoghjelp.Allebarnskalhasammesosialebeskyttelseentendeerfødtiellerutenforekteskap.</p>
+  </li>
+  <li>
+    <p>Enhverharretttilundervisning.Undervisningenskalværegratis,idetminstepådeelementæreoggrunnleggendetrinn.Elementærundervisningskalværeobligatorisk.Alleskalhaadgangtilyrkesopplæring,ogdetskalværelikadgangforalletilhøyereundervisningpågrunnlagavkvalifikasjoner.</p>
+    <p>Undervisningenskaltasiktepååutvikledenmenneskeligepersonlighetogstyrkerespektenformenneskerettigheteneogdegrunnleggendefriheter.Denskalfremmeforståelse,toleranseogvennskapmellomallenasjonerograsegrupperellerreligiøsegrupperogskalstøtteDeForenteNasjonersarbeidforåopprettholdefred.</p>
+    <p>Foreldreharfortrinnsretttilåbestemmehvaslagsundervisningderesbarnskalfå.</p>
+  </li>
+  <li>
+    <p>Enhverharretttilfrittådeltaisamfunnetskulturelleliv,tilånytekunstogtilåfådelidenvitenskapeligeframgangogdensgoder.</p>
+    <p>Enhverharretttilbeskyttelseavdeåndeligeogmaterielleinteressersomeretresultatavethvertvitenskapelig,litterærtellerkunstneriskverksomhanharskapt.</p>
+  </li>
+  <li>
+    <p>Enhverharkravpåensosialoginternasjonalordensomfulltutkanvirkeliggjørederettigheterogfrihetersomernevntidenneerklæring.</p>
+  </li>
+  <li>
+    <p>Enhverharplikteroverforsamfunnetsomalenegjørdenfrieogfulleutviklingavhanspersonlighetmulig.</p>
+    <p>Underutøvelsenavsinerettigheterogfriheterskalenhverbareværeundergittslikebegrensningersomerfastsattilovutelukkendemeddetformålåsikredennødvendigeanerkjennelseavogrespektforandresrettigheterogfriheter,ogdekravsommoralen,denoffentligeordenogdenalminneligevelferdietdemokratisksamfunnmedrettestiller.</p>
+    <p>DisserettigheterogfrihetermåikkeinoetilfelleutøvesistridmedDeForenteNasjonersformålogprinsipper.</p>
+  </li>
+  <li>
+    <p>Intetidenneerklæringskaltolkesslikatdetgirnoenstat,gruppeellerpersonretttilåtadelinoenvirksomhetellerforetanoenhandlingsomtarsiktepååødeleggenoenavderettigheterogfrihetersomernevntiErklæringen.</p>
+  </li>
+</ol>

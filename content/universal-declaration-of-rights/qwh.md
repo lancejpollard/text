@@ -1,0 +1,122 @@
+<h1 align='center'>KAQ KEYMI LLAPAN PATSACHOW IMANA KAQ NUNAKUNAPAPIS DERECHUNKUNA</h1>
+<h2 align='center'>QALLANAN KAQ</h2>
+<p align='center'>Musyantsikmi keynow kashqan ta: Imana kaq nunaku napis nunam kayan. Llapantsik tseynowlla kashqaqa tseynowllam derëchuñtsikkuna kapamantsik. I tseynow kaptinmi kushi, shumaq, allilla kawashun derëchuntsikkunawan (kikintsikpa kaqwan).
+I derëchukunata mana wiyakurninpis mana alli nunakunam allápa allqotsayarqan wakin nunakunata. I tseynow allqotsanqanta musyar llapan patsachow nunakuna llakikur ajayarqan. I yapey mana tseynow kananpaqmi munantsik key patsa keynow kananta:
+Parleyta munashqaqa yarpanqantsikmannowmi parlashwan llapantsik nunakuna. Kreyinqantsikmannowmi imamanpis kreyikurnin kashwan llapantsik nunakuna. Ama ni pipis mantsakutsuntsu ni imapitapis. I manam ni pipis pishupukoq kanmantsu.
+Allápa mana alli allqotsaq awtoridakuna kaptenqa mana meymanpis tsatakiyta, pwedirninmi awtorida wajaq sharkuyanman. I tseynow mana kananpaqmi alli kanman llapan nunakunapa derëchunkuna leykunachow alli qellqashqa kanman, llapantsik reqinapaq.
+Imey kutipis mas shumaq kawakiychow llapan nasyonkuna jukninwan jukninwan kayánanmi kanan.
+Nasyonkuna purwakarkur; kanan Naciones Unidas jutiyoq, eyllukayashqanchow nasyonkunam konstitusyonchow áninakuyarqan, keynow nunakunapa derëchunkuna kananpaq. Llapan imana kaq nunapapis derëchunkuna kanman. Pi nunapis nuna kanqannowmi ima nunatapis kikintanow rikanman. I nuna karninmi: Oliqopis, warmipis derëchunkunachowqa mana meyqanpis jukláyatsu kayanman. Llapan nasyonkunam ániyashqa Naciones Unidas yanapeyta, markakunachow key konstitusyonta mana qonqarishpa llapan nunakunata reqitsiyanqa shumaq kawakuyánanpaq.
+Naciones Unidas eyllukayanqan kaq nasyonkunam yachatsinakuyashqa tsey kamatsiyanqanchow keynow rurananpaq. Nasyonkunachowmi llapan nunakunata yachatsikuyanman nunakunapa derëchunkúnata wiyakurnin kayananpaq.
+Tsey intutsinakuyanqanchow keynow kananpaq nasyonkunam key derëchukunata llapan nunakunata káyitsiyanman.
+I tseynow kaptinmi nasyonkuna purwakayanqanchow (asamblea generalchow) kanan willakayámushqa Llapan Nunakunapa Derëchun (Los Derechos Humanos). Key willakayámunqanchowmi, llapan patsachow imana kaq nunakunapapis derëchunkuna keykan. I mey markachowpis llapan nunakunam kawayanman key derëchukuna keykanqanmannow. I pi nunapis o gobiyernupis key derëchukunata yawarninmi imanowpapis nunakunata yachatsikuyanman ániyánanpaq. I mey nasyonchowpis llapan nunakuna key derëchukunata káyiyánanpaqmi kikin nasyonninchow i jinantin nasyonkunachowpis tukiy láyapa willakuyanman. I Naciones Unidaschow kaq nasyonkunachowpis i tsey nasyonkunapa kallpan kaq nasyonkunachowpis tseynow rurayanman.</p>
+<ol>
+  <li>
+    <p>Meyqannunapismanampipasirweqninnunakananpaqtsuyurikushqa.Inunakarninmimeyqannunapisjukláyatsukayanmanderëchunkunachowpis.Iyarpachakiytayacharninmiiallitamanaallitashonqonkunachowmákurninminunakunajuknintawiyanakurkayanman.</p>
+  </li>
+  <li>
+    <p>Keyniyashqanmunqanchowderëchukunaqallapannunakunapaqmikanqaimanakaqláyanunakunapaqpis,imarikoqnunakunapis,warmikunapaqpis,ollqokunapaqpis,imanakaqidiyomataparlaqnunakunapaqpis,imarelijyonninchowkaqnunakunapaqpis,imapolitikumankreyeqnunakunapaqpis,imamankreyikoqnunakunapaqpis,meylomarkayoqnunakunapaqpis,waktsanunakunapaqpiskapoqyoqnunakunapaqpis,iimanakaqyurishqanunakunapaqpis.Llapannunakunapaderëchunkunapismeyqannasyonkunachowpisimanowgobyernukaptinpis,nasyonkuna,ichiknasyonkunatanitirarpis,keyderëchukunataqaniyamanqonqayanmantsu.</p>
+  </li>
+  <li>
+    <p>Juknunapaderëchunmikanmankawananpaq,imanapipisjarqarishqapurikunanpaqimanapipispeytaallqotsananpaq.</p>
+  </li>
+  <li>
+    <p>Manammeyqannunapispipasirweqninnunakanmantsu.Manammeyqannunatapissirweqninkananpaqniimanowparantikushqakanmantsu.</p>
+  </li>
+  <li>
+    <p>Manamnimeyqannunataimeykáashnutanowrutatarnin,manaankuparninmaqarninrurayanmantsunipikunapis.</p>
+  </li>
+  <li>
+    <p>Llapannunakunapaderëchunkunamkanmanmeymarkachowpisleykunakanqanmannowkananpaq.</p>
+  </li>
+  <li>
+    <p>Justisyankunachowmillapannunakunatamjustisyankunataqaratatsiyanman.Meyqannunakaptinpisllapanpaqmikeyleykunaqa.Itsanqajukawtoridaninqameyqannunatapiskeynownishpa:-Qampaqqamanamderëchiykikantsujustisyachow,okeynownishpaninqa:-Keynunapaqqamanamjustisyakanqatsu-nishpa.Tseynowniptinpisllapannunakunapaqmikeyderë'chunkuna.Itseynownirninqakeydeklarasyonchowninqantamanamwiyakuyantsu.</p>
+  </li>
+  <li>
+    <p>Meynasyonchowpiskonstitusyonkaqleykunataomeyqanleykunatanianawiyakurriinjuknunaallqotsakunqanunamayinta.Tseyallqotsashqanunaqatsatakunmanmiallikaqawtoridamanitseyawtoridamanamjaqerinmantsukeynowkananpaqleyninwan.</p>
+  </li>
+  <li>
+    <p>Manamnipiawtoridakunamuneynintarurarninjuknunapamanajutsankeykaptinqatseynunatanipwestumannikarselmanllawitsiyanmantsunikuyeymarkanpitaqarqoyanmantsu.</p>
+  </li>
+  <li>
+    <p>Llapannunakunapaderëchunkunamkanmantsatashqakayanqantaallikaqjweschowllapannunakunapanowpanchowaltsananpaq.Ijuknunajutsayoqtatarirqamanaallirurashqanpita!eykunakanqanmannowmiqochiyanmanderëchunkunata.</p>
+  </li>
+  <li>
+    <p>Tsatashqakarninqajuknunaqamanamjutsayoqranjwesjutsantarinqanyaq.Nunakunapanowpanchow,justisyatajwesrurashqanchowmi,tseynunapaderëchunkanmanjukwashaqninpeypaqparlakunanpaq.</p>
+    <p>Juknunaimatapisruranqa;itseynowruranqatamananarurananpaqqajukmushoqleykikinpanasyonninchowollapanpatsachowkarinqa.Tseynunaqarurashqanpitamanamjutsayoqtsukanman.Pinunapisimataruranqanchowmanaallikashqanta,nipimusyarqantsu,manamjutsatsukanman,ninasyonninchownillapanpatsachow;manamjukjutsapaqkantsuishkeylayajustisya.</p>
+  </li>
+  <li>
+    <p>Manaimapiskeykaptenqanunamayinpakaweykininman,niyarwarmayinman(familyanman),nipinunamanamjakakanmantsu,niqellqakuyanqantapaqilapaleyikunmantsu,niwayinmanmanaallirurakoqyeykunmantsu.Iulikurkurnenqanunakunapajananchownunapawasanmanamrimanmantsu.Tseynowmanaallinunakunapaqllapannasyonkunachowmileykunakanmi.</p>
+  </li>
+  <li>
+    <p>Meynasyonchowkeykarninmimeyqannunapapisderëchunkanmanmunanqanpapurikunanpaq,munanqanmarkachowtákunanpaq.</p>
+    <p>Meynasyonpitaokikinpanasyonninpitayarqushqakarninpis,meyqannunapaderëchunmikanmannasyonninmankutikunanpaq.</p>
+  </li>
+  <li>
+    <p>Pinunapismanaalliawtoridaqatikachaptenqa,tseynunaderë'chunchowmiashinman,meyqannasyonchowpistákunanpaq.</p>
+    <p>Llutajutsakunaruraq,NacionesUnidaskunanishqantamanaruraqkunaqa,manamkeyderëchuyoqtsukayan.</p>
+  </li>
+  <li>
+    <p>Meyqannunapapisderëchunmikanmannasyonninpanunankananpaq.</p>
+    <p>Manapitapisawtoridamuneyniytarurarwaqanmantsunasyonninpita,pinunapismunarqaeywukunmanmijuknasyonkunachowtäraq.</p>
+  </li>
+  <li>
+    <p>Meyqanlaya,meynasyon,meyqanrelijyonchowkarninpisoliqopis,warmipis,llapannunakunamallwayarqaderëchunkunamkanmankasakurninyarwarmayinkunakayäpunanpaq.Warmipaqpis,ollqopaqpistseynowllamderëchunkunakanmankasakuyänanpaq.Ikasadukeykäyanqanchowrakikayaptinpisderëchunkunamkeykanman.</p>
+    <p>Ishkankunawarmioliqomunanakurninmikasakuyanman.Manamnipipispushanmantsumanamunanqanwankasakunanpaq.</p>
+    <p>Yarwarmayikunawanmiqal]ayanmarkakunanasyonkunamrikapäyanmaniyanapäyanmanallikawayänanpaq.</p>
+  </li>
+  <li>
+    <p>Llapannunamkapoqyoqkanman;munarqajapallanopiwanpisshuntukur.</p>
+    <p>Manapitapisqochiyanmantsukapoqninta.</p>
+  </li>
+  <li>
+    <p>Llapannunapamderëchumkan,munanqannowyarpachakunanpaq,irurananpaq,relijyonninakrananpaqojuktaashinanpaq;tseynowkashqanchowderëchunchowmininmanjapallankashqanchowonunakunapanowpanchow.</p>
+  </li>
+  <li>
+    <p>Llapannunamderëchunchowmunanqantaninanpaqoruranapaq;tseypaqreykurnunapipispiñapanmantsuniqatikachanmantsu.Kikinrurashqantaqashuntukiywanpismunarqamusyatsikunmanmikikinpanasyonninchowojuknasyonkunachowpis.</p>
+  </li>
+  <li>
+    <p>Meyqannunakunapapisderëchunmikanmanimapaqeyllukayänanpaqiimapurwakayanqanchowshuntukayänanpaq.Itseypurwakayanqanqakanmanmanampitapispiñapäyananpaq.</p>
+    <p>Manammunaqtaqa,manampipispurwakankanmanqayanmantsu.</p>
+  </li>
+  <li>
+    <p>Llapannunapamderëchunkanmannasyonninchowkamatsinanpaq;kikinomarkamayintaakrarkurkamatsikoqpushananpaq.</p>
+    <p>Meyqannunakunapisderëchunkanman,nasyonkunapaofisinanchowuryayänanpaq.</p>
+    <p>Pipisawtoridamanchanmarkamayinkunamunaptinmi;keymuneyninkunatarurayanmanpatsatsikoqkunapawatanushkäriptinallikaqmarkamayinkunataakrar.Keyakrakiykanmanmanapipisrikareykämashqam.</p>
+  </li>
+  <li>
+    <p>Llapannunakunakeypatsachowkawarninkayaptinmiderëchunkanmansegurusosyalninkunakananpaq.Itseynowkananpaqmimaskapoqyoqnasyonkunayanapäyanmanwaktsanasyonkunata;peykunanmanrurayanmankanqanmannow.Itseynowgobiyernururaptinmillapannunakunaimeypisshumaqallikawayanman,imunayanqanmannowmiwinakuyanman.</p>
+  </li>
+  <li>
+    <p>Llapannunakunapaderëchunmikanmanuryayoqkayänanpaq.Imunanqanuryeytamakrayanman.Iuryayanqanchowmanarureytayacharqaoqeshyamarqamanamruranmantsu.Illapannasyonchowmileykunakanmanmanauryayoqnunakunatayanapäyananpaq.</p>
+    <p>Tseynowllauryeychowkeykäyaptenqatseynowllamushkankanmanmeyqannunakunapapis.</p>
+    <p>Llapanuryakoqmunatamushkanqoyanmanmanasuwapashpayawarmayikunawanallikawananpaq;manatseynowkaptenqakamatsiyoqkunamleykunataqorqoyanmanyanapakuyänanpaq.</p>
+    <p>Llapannunapamderëchunkanpurwakarkursindikatunishqantaruraya'nanpaq;keytarurayanmanwallkinakushqakayänanpaq.</p>
+  </li>
+  <li>
+    <p>Llapannunapamderëchumkanmanuryarirqajamakurinanpaq;uryeykunaqamanamjunareqnowtsukanman;kamatsikoqkunaleychowmikeytaqeliqayanman.Jamakiyninchämuptinqallapanuryakoqmijamakuyanmanmanaushkantaoqrashpa.</p>
+  </li>
+  <li>
+    <p>Meyqannunapapisushkäninmiatskamkanmanallikawakiychowkikin,warmin,itsurinkunakawayänanpaq.Iushkanmitinkunmanmikiyninkunapaqpis,ratashninkunapaqpis,wayinpaqpis,qeshyarninqajampikuyänanpaqwaniestädutapägananpaqllapanmarkamayinkunapaqruranqanta.Iuryeymanakaptenqa,oqeshyakiykaptenqa,osoqrutikrakuriptenqa,opajukaptenqa,oowkisyaptenqa,oimanowpapismanauryeytapwediptenqa,meyqannunapapisderëchunmikanmansegurusosyalnintsarananpaq.</p>
+    <p>Wawayoqpajuwarmikunapaqiwaktsawamrakunapaqnasyonkunachowleyninkunakanmanmunayanqanmannowyanapayänanpaq.Keyleyllapantsurikunapaqmiderëchunkunataratatsin.</p>
+  </li>
+  <li>
+    <p>Meyqannunakunapapisderëchunmikanmanyachakuyänanpaq.Iyachakiymanarantiyoqmikanmanprimariyataushanqanyaq.Illapanwamrakunaprimariyachowyachakuyänanman.Keynowyachakiychowqanunakunaderëchunchowmikanmanimaprofesyontapisakrananpaq.</p>
+    <p>Yachakuyaqakanmanllapannunakunawinayänanpaq;nunamayinkunawanmanapiñapänakur,wallkinakurkawayänanpaq;manamchikinakushpa,manajorqapänakushpa,kuyanäkurnunapurapis,nasyonpurapis;imaläyanunakunapis,imanowrelijyonkaqpis,NacionesUnidastayanapäkurallikawakunapaq.</p>
+    <p>Teytakunapaderëchunmikanmantsurinkunapaqyachatsikiynintaakrananpaq.</p>
+  </li>
+  <li>
+    <p>Pinunapisderëchunchowmikanmanqotsukur,qatswakur,shumaqqotsukuwantawiyakiyta,markanpakaweyninqellqeyta,imarkamayinkunaruranqantameyqanpistsarinmanmikushikurinanpaq,yarpachakunanpaq.</p>
+    <p>Manampipisderëchuyoqtsujukrurashqantanoqamrurarqäninanpaq;keynowmanakanapaqimatapisruraqkunawillakuyanmanmikamatsikoqkunaman.</p>
+  </li>
+  <li>
+    <p>Llapannunakunaderëchunkankeychowqellqashqakaqta,tseynowkananpaq.</p>
+  </li>
+  <li>
+    <p>Llapannunamrurananmarkannishqanta,tseychowyurishqanpita,täranwinanpismarkamayikunawan.Tseynowkawarninallinunakeytayachakun.</p>
+    <p>Keydeklarasyonchowderëchukunanishqanmannowkaweykarninmillapannunakunawiyachakuyanmannasyonchowleykunakashqanta.Iwakinnunakunapaderëchunkunatamanajalupashpa,shumaqkakushwannunakunakawayänanpaqmi,manapiñapänakurpipaqpismanaallimmunarislipa,tseynownunakunakawakunapaqmitseyleykunatagobiyernururashqa.</p>
+    <p>KeyderëchukunataimuneykunatamanampipisrurayanmantsumanaNacionesUnidasmunanqannowqa.</p>
+  </li>
+  <li>
+    <p>Keydeklarasyonchowqamanamniimapiskantsumeyqannasyonpis,meyqanläyanunakunapisnimeyqannunapis,nunarnayinkunapaderëchunkunatamicharninkayänanpaq.</p>
+  </li>
+</ol>

@@ -1,0 +1,122 @@
+<h1 align='center'>ILAKA LYA MAHANGA LYA SEKGE YA BAMUNHU</h1>
+<h2 align='center'>MIHAYO YA GUNHONGA</h2>
+<p align='center'>GUNGUNO yimanyikile giki ikujo lya ng’wa munhu na sekge ya banhu muwelelo hu shili jandije ja wiyabi, sekge na mhola ya welelo,
+GUNGUNO ubudalahi bo sekge ya banhu hi jile jandije ja shitwa ja bubi ha welelo, na giki yigubiho welelo iyo banhu bakwiyagalula na wiyabi bo guhaya na guzunya na gubiza badi na boba bosebose hangi, hu wisagiji bo ng’hana.
+GUNGUNO idakililwe sekge ya banhu ilang’hanwe na butongeji bo jilagilo ja nsi huna buluhiwa na wibonelwa butizubizaho na gwenheleja banhu kulema na kubagalukila batongeji ba nsi.
+GUNGUNO idakililwe kubeja bunwani bo nsi na nsi.
+GUNGUNO L’Ibilinga lya Mahanga lyamala gubitya ng’w ihane lyalyo buzunya bo sekge, ngw’ikujo na nsolobo ya banhu ba buli mbika bakima na bagosha na lyalamula gwenha mhandika nhale ya budula bo kigasije ka banhu mu wiyabi butale.
+GUNGUNO nsi ja mahanga jizunilija jihamo na ng’wibilingo gwa Mahanga gwenha ikujo, sekge ya banhu na wiyabi mu welelo.
+GUNGUNO ukujimana sekge nu wiyabi bo banhu shili shinhu sha solobo nhale gete, ya buli ng’wene kujita umo jidakililwe ung’w’ Ihane lya l’Ibilingo lya Mahanga.
+HUNA LULU GIKI,
+Il’Ibilinga lya Mahanga lyayomba giki, buli munhu alimane, alikuje na kulondeleja bulamuji bolyo, na kubalanga abo batalimanile abanansi pye bagusola buli kinhu ijidakilile bulondeja na gubona buli munhu ung’wihanga alilondeje Ilaka lyenilo lya Mahanga.</p>
+<ol>
+  <li>
+    <p>Banhubosebakabyalagwanawiyabinabakabizaganamakujonasekgejabojilenganilile.Banhubosebakabizaganamasalanabuhabuji;hukuyombabalidakilwagubinawitogwagidibanabamyajiumo.</p>
+  </li>
+  <li>
+    <p>Bulimunhuadakililwekupandikasekgeijihayiwengw’Ilakalyenilinanduhubululung’hanyanuluwikomanyagitiwikoba,kabyalilwe,ndimi,dinhi,lugandalobuyombejimihayoyansi,mhandikanuluwikomanyabungibosebose.Hangigiki,butadakililwegubizahowikomanyabowiganikimunfumo,kajilekansinuluIhangalyoselyoseilomunhualiingila,ibilitaliugwitema,liitemilwenululiitemile.</p>
+  </li>
+  <li>
+    <p>Bulimunhualinasekgeyabupanganawiyagalujibogwigashamumhola.</p>
+  </li>
+  <li>
+    <p>Nduhumunhuadakilililwekusolwabusese;ubusesenuBusulujabobasesebombikajosebulemegijegeteumumahangaagose.</p>
+  </li>
+  <li>
+    <p>Nduhumunhuadakililweguluhiwabomakalanakwichiwaikujolyakwe.</p>
+  </li>
+  <li>
+    <p>Bulimunhuadakililweapandikeikujolyajimunhugitiumoihayilileungw’Ilagilolyansi.</p>
+  </li>
+  <li>
+    <p>Banhubosebalenganilileumushilagiloshansinabalidakilwagulang’hanwanishilagiloshenishonayayagwitilwabusolanhyiwa.</p>
+  </li>
+  <li>
+    <p>Bulimunhuadakililwegwambilijiwamukajilek‘Ilagilolihangalyakwemushitojosejoseishoshiling’wimamhangilojakweijifumilengw’IhanenaJilagilojansi.</p>
+  </li>
+  <li>
+    <p>Nduhumunhuuyoadugijegutung’wa(gutulwamkandulumu)kunzilayoseyosehanzeyaJilagilojansi.</p>
+  </li>
+  <li>
+    <p>Bulimunhuadakililwegudegelekwamumhangilonabulenganilahabutongiyakajilekansiakatinabusolonhyaumukajilekabonuluumumihayoyaminala.</p>
+  </li>
+  <li>
+    <p>MunhuoseoseuyoalishidakilwakuyaminalaakubalwagitiatinghubimpagaahoJilagilojenekelejilamalekunamlang’wibanzanang’wenekiliabizeodegelekagwamashoshogakwe.</p>
+    <p>Nduhumunhuuyoadugijekulamlwakujaminalauluishowitagashitimomushilagilolikanzaahoalishita.Hangi,munhuoseoseadadakililwekubishiwaihyuitalekukilailolyaliliyombilwemushilagiloshansiahoalikenagula.</p>
+  </li>
+  <li>
+    <p>Nduhumunhuuyoadakililwekwingililwasagalamumbisilayakweyoseyose,budugu,kayayakwenanduhumunhuuyoadugijekwingijiwaikujolyakweiloalinalyo.BulimunhuadakililwegulanghanwanaJilagilojansiatizingililwasheniko.</p>
+  </li>
+  <li>
+    <p>Bulimunhualinawiyabibogujaukoalitogwanaguzengahosehosemunsiyakwe.</p>
+    <p>Bulimunhualinawiyabibogusama,gwinganagujansiyoseyosenulunsiyakwe.Hangi,alinawiyabibogushokahangimunsiyakwe.</p>
+  </li>
+  <li>
+    <p>Bulimunhualinawiyabibogupelelansiyingiatizubulagwa.</p>
+    <p>WiyabiwenububutihokulimunhuuyoolamulwagubulagwamuJijilojansigushitwaijojitijabuyombejibomihayoyansinuluijojitujagasomaninaIhanelyaMahanga.</p>
+  </li>
+  <li>
+    <p>Bulimunhualinawiyabibokubin’Ihangalyakwe.</p>
+    <p>Nduhumunhuadakililwegwing’waBuhangabonsiyakwenuluwiyabibogugaluchabuhangauboabutogilweng’wenekilibomakala.</p>
+  </li>
+  <li>
+    <p>BanhubosebakimanabagoshabalinaSekgeyagutolanagubinakayabulinduhugulonjaihanga,mfumonuludinhimuwitojiwabonulumugulekanagwabo.</p>
+    <p>Witojibugubizabuliwigelweulugikiabitojibizunilijagagumalawingabobo.</p>
+    <p>Budugubulihogwinga–kale,huguhayabudakililwebulang,hanwenans’iyose.</p>
+  </li>
+  <li>
+    <p>BulimunhualinayoSekgeyagubizanabusabibokwenasabojakweyiyenenulun’isanginabanhubangiaboatogilweng’wenekili.</p>
+    <p>Bulimunhuadadakililwegutajiwansabojakwebogwibonelwa.</p>
+  </li>
+  <li>
+    <p>BulimunhualinayoSekgeyagwiganikanagubinakiganikilegamiganikoayoalikolag’wenekilinulumuLuganda.AlinayoSekgeyagugaluchawiganikibokwemunhualinayoSekgeyagulekawiganikinulukahayilekakwenabuzunyabokwe,yayagwingililwa.</p>
+  </li>
+  <li>
+    <p>BulimunhualinayoSekgeyakubinagufunyamiganikogakwenagugayombamiganikogenayonanduhugwingililwa.MunhualinayoSekgeyagwinhwamiganikogabangigubitilamubandikinabahayibamihayo.</p>
+  </li>
+  <li>
+    <p>BulimunhualinayoSekgeyagumanhyanabanhubangimulubango.</p>
+    <p>Munhuadadakililweguhadikijiwagubizanalugandauloatalutogilwe.</p>
+  </li>
+  <li>
+    <p>BulimunhualinayoSekgeyamubutongejibonsiyakwejihamo,nulugubitilamubuchagulwa</p>
+    <p>BulimunhualinaSekgeyagupandikamatwajogajimunhumunsiyakwe.</p>
+    <p>Ihangalyoselyoselidakililwelibizenabudulabolyogubamunhubenekiligwingilamubusolanhyiwaubobugwitiwaung’wikanzailolitulilwemubusolanhyiwawenubumuwiyabinabubibulibowibise.</p>
+  </li>
+  <li>
+    <p>BulimunhumunsialinaSekgeyagubizananzubukanahangialinaSekgeyamhandikagubitilamuwidomanijinabudulabonsinawambilijabonsijingimuwelelo,nansiilinanimogwagubonabanhupyebaligashamumholanaSekgeyamhandikanakajilekamuLugandaijiojidakililwe,ng’wikujonamhandikayanghanayabanhubose.</p>
+  </li>
+  <li>
+    <p>BulimunhualinaSekgeyagutumama,Sekgeyagutung’wa,Sekgeyagusolanhynimouyoagutogilwe,Sekgeyahabutumamilobowizanaadakililwebuling’weneatulwemung’hanagubizananimogwagutumama.</p>
+    <p>Bulimunhuadakililwegupandikainonghogumilimoiyoalita,inongholyenilolibizelitinabusolanhyabomunhunamunhu.</p>
+    <p>BulimunhuadakililwegupandikainonghoboSekgeyagumilimoiyoalitalikomilegwigelelwagulang’hanakayayakwen’ikujolyakwe,naulugikiidulikanile,jongejiwenanzubukayingi-ho.</p>
+    <p>BulimunhualinayoSekgeyagwandyanulugwingilamulugandalobatumanibogwitumanilagulwagulang’hanamatwajogaha-ng’wakwe.</p>
+  </li>
+  <li>
+    <p>Bulimunhuabizenawisunhyamumilimoyakwenamanonghogakweapandikemuwisunhyabokwe.</p>
+  </li>
+  <li>
+    <p>BulimunhualinaSekgeyakikalilekasoga,abimholanabanhubakwe,alyeshiza,azwaleshiza,alalehang’wawiza,naapandikebulagulwanhananamatwajogajimunhuagapandikenaabinaSekgeyabulonjiwauluoganyiwanimo,nulualinsatu,nulugulemaala,buchilwa,bunamhalanuluBugikulunulukikalilekangikabimugigasjegakweakoadadulilegwigunnhang’wenekili.</p>
+    <p>Wisanyebogubinkimamyajinulubuniginijidakililwegwinhwabulonjabutalebokalongeje.Banaabosebabibabyalilwemubukwiwanulumundayabupyeabosebalibanabagulonjiwabulenganile.</p>
+  </li>
+  <li>
+    <p>BulimunhualinaSekgeyagupandikaisoma.Isomalibilitilyagufunyamanong’houguwandijowisomanayibizehahadiyisomauguwandijowenubo.Libizehoisomakul’uyoalinabudulanabutizubizahowisolanhyabosebose.</p>
+    <p>Isomalyoselidakililwegung’winhamatwajomunhunaikujonawiyabibokwenagwenhabunwanibomahanganawezubose,namholayawelelongima.</p>
+    <p>Babyajibabinabudulagusolanhyaisomailobatogilwebanababobalipandike.</p>
+  </li>
+  <li>
+    <p>BulimunhualinaSekgeyagusangilamukajilekagudujamulugandalokwe,kulyawiyabibomalikagose,nagupandikamatwajogamusayansi.</p>
+    <p>BulimunhualinaSekgeyagulang’hanilwashikolojakweijowajibejanulugujibyajang’wenekilimunzilayawiganikimushandikwanulumunzilayasayansi.</p>
+  </li>
+  <li>
+    <p>bulimunhualinyoSekgeyaselemuLugandalokwenamahangaagose.</p>
+  </li>
+  <li>
+    <p>BulimunhuadakililwegwibonagikialiumowaLuganda,wiyabibokwenamatwajoayagadulilegwilonganaaliumoohoumuwelelo.</p>
+    <p>Bulimunhuadakililwe,umugatumamilegaSekgenawiyabiubuyombilwengw’Ilagilolyenili,gwitawidedeng’LanyaubobulimuJilagilogungunoyagulanghanaSekgenawiyabibobanhubangin’Ikujolyakweng’wenekili,naseleyaLugandalokwe.</p>
+    <p>Sekgenawiyabiwenubuitizutumilwamushitwashabubihanzen’IlagilolyaMahanga.</p>
+  </li>
+  <li>
+    <p>NduhunsinuluLugandaloseuloludulilegugemagululunghyanyagubipyakayombelegamhayogwenuyo,wiyabinaSekgeijihayiwengw’IlakalyenililyaMahanga.</p>
+  </li>
+</ol>

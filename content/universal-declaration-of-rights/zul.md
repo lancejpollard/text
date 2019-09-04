@@ -1,0 +1,123 @@
+<h1 align='center'>UMBHALO OGCWELE WOGUNYAZO LWAMALUNGELO OLUNTU JIKELELE</h1>
+<h2 align='center'>Isandulelo</h2>
+<p align='center'>Ngokunjalo ukwamukelwa ngokuzuzwa kwesithunzi samalungelo alinganayo najwayelekile awowonke amalunga omndeni wesintu kuyisisekelo senkululeko, sobulungiswa noxolo emhlabeni,
+Ngokunjalo ukunganakwa nokwedelelwa kwamalungelo esintu kube nomphumela wezenzo zobuqaba eseziqede unembeza kubantu, kanye nomhlaba obhekwe isintu ukuba senamele inkululeko yokukhuluma nokukholwa, inkululeko yokungesabi futhi nokufuna kugunyazwe ugqozi kubobonke abantu,
+Ngokunjalo kudingekile, uma umuntu engenakuphoqwa ukulandela umgudu othize, njengendlela yokugcina, avukele ababusi nabacindezeli, ukuze amalungelo esintu avikelwe ngokubusa ngomthetho,
+Ngokunjalo kudingekile ukuba kwenyuswe ukuthuthukiswa kobungane nobudlelwane phakathi kwezizwe,
+Ngokunjalo abantu beNhlangano yeZizwe bayinqinisile inkolo yabo yengqalasizinda yamalungelo oluntu kuCharter, esithunzini nobuntu emalungelweni alinganayo abesilisa nabesifazane futhi bazimisele ukuqhubela phambili inqubekelaphambili yomphakathi namazinga angcono empilo enkululekweni ethe xaxa,
+Ngokunjalo aMalunga eMibuso azibophezele mathupha ukuthuthukisa, ngokubambisana neNhlangano yeZizwe, ukuthuthukiswa kwenhlonipho emhlabeni wonke nokuqashelwa kwamalungelo oluntu nengqalasizinda yenkululeko,
+Ngokunjalo ukuqondwa kahle ngokufanayo kwalamalungelo nenkululeko kubaluleke kakhulu ukuze lokhu kuzibophezela kuqashelwe,
+MANJE, NGAKHOKE
+UMGWAMANDA
+UNQUMA uGunyazo lwaMalungelo oLuntu Jikelele njengezinga elifanayo lokuthuthukiswa kwabantu nezizwe zonke, ekugcineni okuzokwenza ukuthi umuntu ngamunye kunoma isiphi isigaba somphakathi ngokugcina lolawulo emqondweni baphokophelele ngokufundisa nangemfundo ukuphakamisa inhlonipho yalamalungelo nenkululeko futhi nangenqubekelaphambili, ezweni noma emhlabeni jikelele, baqinisekise ukwamukelwa okuvumelekile nokuqashelwa jikelele ndawozombili phakathi kwabantu baMalunga eMibuso qobo lwabo kanye nabantu abangaphansi kwemibuso yabo.</p>
+<ol>
+  <li>
+    <p>Bonkeabantubazalwabekhululekilebelinganangesithunzinangamalungelo.Bahlanganiswewumcabangonangunembezafuthikufanelebaphathanengomoyawobunye.</p>
+  </li>
+  <li>
+    <p>WonkeumuntukumeleawatholewonkelamalungelonenkululekoebhalwekuloluGunyazo,ngalekokwehlukaniswa,ngokobuhlanga,ngokwebala,ngokobulili,ngokolimi,ngokwenkolo,ezombangazwenomaumbono,ubuzwenomaimvelaphi,umhlaba,ukuzalwanomaisiphi‐kenjeesinyeisimo.Ngaphezukwaloko,akukhokuhlukaniswaokuyokwenziwangenxayezombangazwe,isimosokwenganyelwakwezwenomaimingceleyezweumuntuahlalakulo,nomangabeuzimelegeqe,ubanjelwe,ozibusenomauphansikolawuloolunqunyelwe.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolempilo,lenkululekonelokuphepha.</p>
+  </li>
+  <li>
+    <p>Akekhooyobaisigqilanomaagqilazwe,ukuhwebangezigqilakuyovinjwangezindlelazonke.</p>
+  </li>
+  <li>
+    <p>Akekhooyohlukunyezwanomaaphathwengobulwaneajeziswengokwehliswaisithunzi.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolokwemukelwanomaphinjengomuntuphambikomthetho.</p>
+  </li>
+  <li>
+    <p>Sonkesiyalinganaphambikomthethofuthikufaneleumthethousivikelengokulinganayongalekokubandlulula.Sonkekufanelesivikelwengokulinganayoekubandlululweni,ngokungagcinwakwaloluGunyazofuthinasekukhuthazwenikwanomaluhlobolunilobandlululo.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolokutholausizooluyiloezinkantoloezibekiwengezenzoezephulaisisekelosamalungeloanikezwewonaumthethosisekelonomaumthetho.</p>
+  </li>
+  <li>
+    <p>Akekhooyoboshwa,avelelwenomaadingiswengokungekhoemthethweni.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntukumelealalelweobalangokulinganaokugcwelenangeqiniso,inkantoloengavunifuthiezimele,ekutholwenikwamalungeloakhenezimiselozakhenomangabeiliphiicalaabekwelona.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuobekweicalaelidingaisijezisounelungelolokuthathwanjengomsulwakuzekutholakaleukuthiimpelaunecalangokomthethoenkantoloevulekilelaphoenikweiziqinisekoezidingekilezokuzivikela.</p>
+    <p>Akekhooyotholwaenecalangecalaelidingaisijezisongenxayanomaisiphiisenzonomaiphuthaelalingelonaicalaelidingaisijezisongaphansikomthethowezwenomakazwelonke,ngenkathilenzeka.Nomaanikweisijezisoesinzinyanakunalesoesasifanelengenkathikwenzekalelocala.</p>
+  </li>
+  <li>
+    <p>Akekhookuyogaxekwa,ngokungemthethoezindabenizakhezangasese,emndenini,ekhayanomaezincwadiniazithumelayonazitholayo,nomaukuhlaselwakwesithunzinokuhloniphekakwakhe.Wonkeumuntuunelungelolokuvikelwakulokhokuhlaselwanokugxambukela.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolokuhambangenkululekonokuhlalaphakathikwemingceleezungezeimibusoehlukene.</p>
+    <p>Wonkeumuntuunelungelolokushiyaizwelakhe,futhiabuyeabuyelekulo.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolokucelaukuhlalaakhoselekwamanyeamazweebalekelaukuphathwakabuhlungu.</p>
+    <p>LelilungeloalinakusetshenziselwaukubalekelaukushushiswaokufaneleokuvelangamacalaangahlangenenezombangazwenomangezenzoezingqubuzananezinhlosonemigomoyeNhlanganoyeZizwe.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolobuzwe.</p>
+    <p>Akekhooyokwenqatshelwangokungemthethonomaancishweilungelolokuguqulaubuzwebakhe.</p>
+  </li>
+  <li>
+    <p>Abesilisanabesifazaneasebeneminyakaefaneleyobudalabanelungelolokugananabakheunmdeni,ngalekwezihibezobuhlanga,ubuzwenomainkolo.Kufanelebabenamalungeloalinganayongokomshado,ngenkathibeshadilenomausuhlakazekileumshado.</p>
+    <p>Umshadokuyongenwakuwokuphelangenkululekonangemvumeepheleleyalaboabashadayo.</p>
+    <p>UmndeniuyimvelonesizindasomphakathiokufaneleuvikelweumphakathinoMbuso.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolobunikazibempahlaeyedwanomaehlanganyelenabanye.</p>
+    <p>Akekhooyokwephucwangokungekhoemthethweniimpahlayakhe.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolokucabangangenkululeko,unembezanenkolo,lelilungelolihlanganisainkululekoyokuguqulaukholonomainkolelonomangabeeyedwanomanabanyeemphakathini,obalanomangasese,ukucacisainkolonomaukukholwakwakhengokufundisa,ngokwenza,nokukhonzanangokulandela.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolokuvezaumbonongenkululeko,lelilungelolihlanganisainkululekoyokubekaimibonongaphandlekokuthikanyezwa,futhinokuthungatha,ukwamukelanokukhiphaulwazinemiqondonganomaiyiphiindlelayokusakazangalekwezihibe.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolokuhlanganyelangokukhululekaembuthanweniwoxolo.</p>
+    <p>Akekhooyophoqwaukubayilungalenhlangano.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolokubambaiqhazakuhulumeniwezwelakhe,ngokwakhengqonomangabakhulumeliabakhethwengokukhululekile.</p>
+    <p>Wonkeumuntuunelungeloelilinganayolokutholausizolomphakathiolufanayoezwenilakhe.</p>
+    <p>Intandoyabantuyiyoeyobaisizindasegunyalikahulumeni.Lentandoiyovezwaokhethwenilwempelangezikhathiezithileoluyobaujikelelefuthilufanendawozonke.Luyokwenziwangokhethooluyimfihlonomangenquboyokhethoolukhululekile.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntu,njengelungalomphakathi,unelungelolukuphephaemphakathinifuthikufaneleaziwe,ngemizamoyezwenokubambisanakukazwelonkefuthinangokuhambisananezinhlanganonemithomboyeMibusoehlukene,kwezomnotho,amalungeloamasikonenhlaloangenakulahlwangesithunzisakhenokuthuthukisaubuyenangenkululeko.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolokusebenza,nokuzikhethelangenkululekoumsebenzi,nezimozomsebenziezivunelekilenezilungilefuthinokuvikelwaumaelahlekelweumsebenzi.</p>
+    <p>Wonkeumuntu,ngaphandlekokubandlululwa,unelungelolokuholaimaliefanayongomsebenziofanayo.</p>
+    <p>Wonkeumuntuosebenzayounelungelolomholoofanelenovumelekileukuqinisekisaubukhonabesithunzisobuntubakhenomndeniwakhe,kulekelelwa,umakundingekile,ezinyeizindlelazokuvikelekakomphakathi.</p>
+    <p>Wonkeumuntuunelungelolokubumbanomalokubailungalenyunyanaukuzekuvikelekeizidingozakhe.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolokuphumulanokungcebeleka,kuhlangenenemikhawukoyamahoraokusebenza,namakhefuakhokhelwayoezikhathiniezithize.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolezingalempilonenhlalakahleeyenelisayoyakhenomndeniwakhe,khuhlangenenokudla,okokwembatha,izindlu,ukunakekelwangezokwelashwakanyenemisebenziyomphakathi,nelungelolokuvikelekaumaengasebenzi,egula,ekhubazeka,eshonelwa,eguganoma‐keikuphiukukhubazekaokungamehlelangesimoangenamandlaokusinqanda.</p>
+    <p>Omamanabantwanakumelebanakekelwefuthibalekelelwengokunqalaimpela.Bonkeabantwananomabezalwengaphandlekomshadobayotholaukuvikelwaokufanayoemphakathini.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungelolemfundo.Imfundoiyotholakalangesihle,okungenaniemabangeniaphansiayingqalasizinda.Imfundoeyisingenisoiyobangeyempoqo.Imfundoyobuchwephesheneyenzululwaziiyokwenziwaibekhonangokwejwayelekilebesekuthiimfundoephakemeitholakalekubobonkengobunjalobabo.</p>
+    <p>Imfundoiyoqondaekuthuthukiseniubuntungokugcwelenasekuqiniseniinhloniphoyamalungeloabantunengqalasizindayenkululeko.Iyothuthukisaukuzwana,ukubekezelelananobunganephakathikwezizwe,kwamaqembuezinhlanganezenkolo,futhiiyoqhubelaphambiliimikhankasoyeNhlanganoyeZizweekugcineniuxolo.</p>
+    <p>Abazalibanelungelolokuqalalokukhethauhlobolwemfundoeyonikezwaabantwanababo.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuunelungeloelikhululekilelokuzimbandakanyaempilweniyamasikoomphakathi,athokozeleamakhono,ahlomuleentuthukweniyezesayensinasezinzuzwenizayo.</p>
+    <p>Wonkeumuntuunelungelolokuvikelekakwezifisoezisemqokaezingumphumelawomkhiqizowezobusayensi,wombhalookukanyewekhonoelithizeabengumsunguliwako.</p>
+  </li>
+  <li>
+    <p>WonkeumuntuemphakathininasemhlabenikumeleatholelamalungelonenkululekoechazwekuloluGunyazo.</p>
+  </li>
+  <li>
+    <p>Wonkeumuntuuneqhazaemphakathiniokuwukuphelakwendawolaphoukukhululekanokuthuthukakwakhekungenzekakhona.</p>
+    <p>Ekusebenziseniamalungelonenkululekoyakhe,umuntuuyokwenzalokhookulinganiselwenjengokulawulakomthetho,ngenhlosoeyodwayokuqinisekisaukwamukelwanenhloniphoyamalungelonenkululekoyabanyeabantu,futhinokuhlangabezananezidingoezinobulungiswanobuqotho,ukuqondakomphakathikanyenezenhlalakahlejikeleleemphakathiniwentandoyeningi.</p>
+    <p>LamalungelonenkululekoakunakusetshenziswangokuphambananezinhlosonemigomoyeNhlanganoyeZizwe.</p>
+  </li>
+  <li>
+    <p>AkukholuthookukuloluGunyazookuyohunyushwangokuthikuthiuMbusomumbe,iqembunomaumuntuunelungelolokwenzanomaisiphiisenzosokuthikamezanomaimaphiamalungebonenkululekoechazwengaphezulu.</p>
+  </li>
+</ol>

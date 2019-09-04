@@ -1,0 +1,122 @@
+<h1 align='center'>HUKLLAWASQA NACIONKUNAPA REQSICHISQAN LLAPA RUNAKUNAPA DERECHONKUNA</h1>
+<h2 align='center'>Qallariynin</h2>
+<p align='center'>QAWARISUNYA: Libre kawsakuywan kay pachapi tukuy imapi hawka kawsakuyqa sumaq sapichasqam kachkan kaykunapi: Lliw runakunaqa mamanchikpa wachakuwasqanchikmantapunim mana pipapas usuchisqan allin qawasqa hinaspa igual derechoyoq kananchik.
+QAWARISUNYA: Runakunam tukuy mana allin ruwaykunaman chayarunku, runapa derechonkunata mana sumaqta reqsispanku otaq yachachkaspankupas chaykunata mana kaqpaqpas hapispanku, lliw runakunam munanchik hamuq punchawkunapi allin kawsakuyta; tukuy manchakuykuna hinaspa muchuyllapi wakcha kaykuna chinkaruptinqa lliw runakunam mana manchakuspaña rimarisun imam umanchikpi kaqta, mana manchakuspataqmi chaskisun imam yachay munasqanchiktapas.
+QAWARISUNYA: Kananmi Runakunapa Derechon waqaychaq munayniyoq kamachikuykuna, chay kamachikuykunam mana pimanpas sayapakuspa yanapanan derechon valechiy munaq sarutyasqa hinaspa usuchisqa runakunata.
+QAWARISUNYA: Kay pachapi nacionkuna amistadta armanankupaqmi sonqonchikpi munaypaq-munananchik hinaspam chay munayta cheqechinanchik.
+QAWARISUNYA: Huñunasqaman perteneceq nacionkunam kay qellqapi cheqapyachirqaku Iliw runakunapa derechonpi creesqankuta hinaspam rimanakurqaku runakunaqa qari kaspapas otaq warmi kaspapas igual derechoyoqkama kasqan reqsichiyta. Tukuy chaykunata sumaqta yachaykuspaqa libre kawsakuyninchikpa kallpanchasqanmi aswan sumaqtaraq llamkasunchik llaqtanchik hatunyananpaq.
+QAWARISUNYA: Huñunasqaman perteneceq nacionkunam rimanakurunku lliw runakunapa derechonchikqa hinaspa libre kayninchikqa llapallanpa allin chaskisqan kananpaq.
+QAWARISU NYA: Runakunapa derechonchikwan libre kayninchik allin reqsisqa kaspaqa cheqapmi kanqa.
+HATUN HUÑUNAKUYPI RUNAKUNAPA DERECHON REQSICHISQA KASQANMANTA
+Hatun rimanakuyman lliw nacionkunamanta hamuqkunam kay qellqapi reqsichinku lliw mundontin runakunapa derechonkunata, chaynapi runakuna maypiña yachaspapas kay qeliqata qawaspanku respetayta hinaspa libre kawsakuyta yachanankupaq; atisqankuman hinam wakinkunamanpas reqsichinqaku tukuy kaykuna cheqappuni kananpaq; kaykunataqa ruwanqaku hukllawasqaman perteneceq nacionkunapi kawsaqkunam otaq kay nacionkunapa amparonpi kaqkunam.</p>
+<ol>
+  <li>
+    <p>Lliwrunakunamnacesqanchikmantapachalibrekanchik,lliwderechonchikpipasiguallataqmikanchik.Yuyayniyoqkasqanchikraykumhawkallaaylluntinhinakawsaytadebenchikllaparunakunawan.</p>
+  </li>
+  <li>
+    <p>Kayqellqapitarikuqderechonchikmantayachachikuykunaqalliwchanchikpaqmi,manamimananchuhukrunapaimayrikuqkayninpasnitaqqariwarmikayninpasnitaqimaynarimasqanpasnitaqimadiospicreesqanpas,manamimananchuimaynaformapigobiernokananpaqpiensasqankunapasnitaqmaylawmantakasqanpasnitaqwakcha-apukasqanpasnitaqimaynañakasqanpas.Lliwnacionkunamlibrekaspapasotaqmanalibrekaspapasimaymanarikchaqgobiernoyoqkanchik,wakinñataqmihuknacionkunamanhapipasqakanku,ichaqaimaynañakaspapasmanamhukmanpaqqawasqachukananchik.</p>
+  </li>
+  <li>
+    <p>Lliwrunakunamderechoyoqkanchikkawsananchikpaqlibrekananchikpaqhinaspawaqaychasqakananchikpaq.</p>
+  </li>
+  <li>
+    <p>Manampipasusurpasqasirvienteqakachwanchu,tukuyformapiprohibisqamrunakunatadueñochakuruspasirvichikuyqahinasparunarantinakuyqa.</p>
+  </li>
+  <li>
+    <p>Manampipasimaymanañakariykunamanchurasqaqakachwanchu,manataqmirunakayninchiktapenqaymanchuraykuspacastigasqaqakachwanchu.</p>
+  </li>
+  <li>
+    <p>Lliwrunakunammaypiñatarikuspapasderechoyoqkanchikimajuiciopipasvalechikunanchikpaq.</p>
+  </li>
+  <li>
+    <p>Lliwrunakunamderechoyoqkanchikigualkamaleypapaschaskisqankananchikpaq,leyqamanapimanpassayapakuspanmiamparawananchik.Kantaqmiderechonchikkayyachachikuykunatamanakasukuspacontranchikpisayariymunaqkunamanta.Derechoyoqtaqmikanchikkayyachachikuykunaqonqaytapantaypikaptinleypawaqaychasqankananchikpaqpas.</p>
+  </li>
+  <li>
+    <p>Lliwrunakunamderechoyoqkanchikjusticiapiuyarisqakaspanchikamparachikunanchikpaq,leymanhinaderechonchikpacontranpiruwaqkunamantamwaqaychasqakananchik.</p>
+  </li>
+  <li>
+    <p>Faltantamanasumaqtayachachkaspaqamanampipasdetenesqaqa,presochasqaqanitaqhukláwnacionmanqarqosqaqakanmanchu.</p>
+  </li>
+  <li>
+    <p>Lliwrunakunamigualkasqanchikraykumanasayapakuqjusticiawanuyarichikunanchikpaqderechoyoqkanchik,derechoyoqmikanchikjuiciopiimadeberninchikpasotaqderechonchikpasyachananchikpaq.Imamantatumpasqakaruspapasyachananchikpaqmisumaqtaqawachiwananchik.</p>
+  </li>
+  <li>
+    <p>LIiwrunakunamimahuchamantatumpasqakaspanchikpasinocentekasqanchikvalechikunanchikpaqderechoyoqkanchik,leymanhinajuiciopihuchayoqkasqanchiktatarinankukama.Chayjuiciopipaskanmiderechonchikgarantiatachaskispanchikcheqaptapunidifiendesqakananchikpaq.</p>
+    <p>Hukrunapaimapasruwarusqanmantaqamanamsentenciaruspankucastiganmankuchusichumchayruwasqanpunchawkunapimanaraqleylloqsispadelitokasqantaqawachichkaptinqa.Castigasqaqakanqachayhucharuwasqanpunchawkunapileymanhinacastigokunallawanmi.</p>
+  </li>
+  <li>
+    <p>Manampipasyanqapasyanqaqachaqwanmanchuvidanchiktaqanitaqayllunchikkunapatapas,manamyanqapuniqayaykukuykunmanchuwasinchikmanpas,manataqmicartanchiktapasyanqaqapipasIeekurunmanchu.Lliwmiderechoyoqkanchikkaykunamantaleywanamparachikunanchikpaq.</p>
+  </li>
+  <li>
+    <p>Lliwrunakunammaypipaspurinanchikpaqderechoyoqkanchik,derechoyoqtaqmikanchiknacionninchikpiqamaypiwasichakunapaqpas.</p>
+    <p>Lliwrunakunapamderechokapuwanchikkikinnacionninchikmantaotaqmaylawnacionmantapaslloqsinanchikpaqhinaspakikinnacionninchikmankutimunanchikpaq.</p>
+  </li>
+  <li>
+    <p>Sichumhukrunapersiguisqakanmannacionninpagobiernonhinamanapiensasqanrayku,hinaspaqapayqaderechoyoqmihuklawnacionmanayqekuspaamparasqakananpaq.</p>
+    <p>Nacionninpicheqaphucharurarusqanmantajusticiapaqatikachasqanrunaqamanamrunakunapaderechonmanhapipakunmanchuhuklawnacionmanayqekuspachaypiñalibrekawsakunanpaq.</p>
+  </li>
+  <li>
+    <p>Sapakamarunakunamderechoyoqkanchikhuknacionmanpertenecenanchikpaq.</p>
+    <p>Kayderechonchiktaqamanampipasyanqamantaqaqechuwachwanchu.Kantaqmiderechonchiknacionmantacambiakuytamunaptinchikmanapipasharkakuwananchikpaq.</p>
+  </li>
+  <li>
+    <p>Qaripaswarmipascasarakuytiempomanchayaruptinchikqakanñamderechonchikcasarakuspanchikfamiliayoqkananchikpaq,manamimananchuimacastamantamotaqmaylawmantamkayninchikpas,qaripaswarmipasigualderechoyoqmikanchikcasadokayninchikpiallinkawsakunanchikpaqchaynataqrakinakunanchikpaqpas.</p>
+    <p>Qaripaswarmipasmanamunaspaqamanamcasarakuchwanchu.</p>
+    <p>Tayta-mamamllapafamiliantinestadopawaqaychasqankananchikpaqderechoyoqkanchik,ñoqanchikqarikinaciontawiñachiqhukhatunayllumkanchik.</p>
+  </li>
+  <li>
+    <p>Lliwmiderechoyoqkanchiksapallanchikpasotaqiskaykimsarunakunawankuskapaskapuqniyoqkananchikpaq.</p>
+    <p>Manamkapuqninchiktaqayanqaqapipasqechuwachwanchu.</p>
+  </li>
+  <li>
+    <p>Lliwrunakunamderechoyoqkanchikimaynaformapipaspiensananchikpaq,conciencianchikmanhinakawsakunanchikpaqhinaspaimadiospicreenanchikpaqpas.Kayderechonchikmanhinaqalibremkanchikimareligiontapaschaskinanchikpaqhinaspaimaynaformapipascreesqanchiktaruwananchikpaq.Sapallanchikpipasotaqhukhuñunakuypipasruwachwanmichaycreesqanchiktaqahinaspapasyachachichwanmiwasinchikpiotaqmaypipas.</p>
+  </li>
+  <li>
+    <p>Lliwrunakunamimaynapiensasqanchiktapasrimarinanchikpaqderechoyoqkanchik,erechoyoqtaqmikanchikmanapipaharkakusqanchaykunatawillakunanchikpaqpas,chaskichwantaqmihukkunapapiensasqantapas.</p>
+  </li>
+  <li>
+    <p>Kanmiderechonchikhuñunakunapaqchaynataqimahuñunakuytahawkallahatarichinapaqpas.</p>
+    <p>Manampipasobligasqaqakachwanchuimahuñunakuymanpasmanamunastinpertenecenanchikpaqqa.</p>
+  </li>
+  <li>
+    <p>Lliwrunakunamderechoyoqkanchiknacionninchikpagobiernonpiservikunanchikpaq,chaytaqarurachwanmikikinchikpunipasotaqmunasqanchiktaakllaspapas.</p>
+    <p>Lliwrunakunamigualderechoyoqkanchikgobiernonchikpaatiendenanwasikunamanyaykuspachaypiatiendechikunanchikpaq.</p>
+    <p>Gobiernopaatiyninqakachkanlliwllaqtakunamunaspanchikchayautoridadtaqoptillanchikmi,chaymunasqanchiktamreqsichinchiklibrepunivotaspanchik;chayvototamruwaytadebenchikmanapipayachasqantachaynapimunasqanchikpaqvotananchikpaq.</p>
+  </li>
+  <li>
+    <p>Llapallanrunakunamderechoyoqkanchikeducacionpi,kupuqninchikpihinaspaimaynakawsayninchikpipasamparasqakananchikpaqchaynapitukuyallinkaymanchayananchikpaq.Chayseguridadtamchaskinchikkaykunawan:Gobiernomorganizasqakaspanñoqanchikpaqatisqantarurananimakunamnacionninchikpikaqkunawan,allinninchikpaqmiruranankallpanmanhinaotaqhuklawnacionkunapayanapasqanpas.</p>
+  </li>
+  <li>
+    <p>LIiwrunakunammunasqanchikpiiiamkananchikpaqderechoyoqkanchik,derechoyoqtaqmikanchikmanailamkayniyoqkunapasllarnkaytamaskaspatarinanchikpaq,manampipasmunarispanqaqarqowachwanchullamkayninchikmantaqa.</p>
+    <p>LIiwrunakunamderechoyoqkanchikmanaimasayapakuykunawantrabajonchikmanhinapagochaskinanchikpaq.</p>
+    <p>Lliwrunakunamderechoyoqkanchiksasapasfacilpasiiarnkasqanchikmanhinapagonchikchaskinanchikpaq,chaynapiallinkawsakuymanhinafamiliantinallinkawsananchikpaq;manachayqachaskinamyanapakuytachaypaqhinahatarichisqayanapakuqkunamanta.</p>
+    <p>Lliwrunakunamderechoyoqkanchiklamkaq-masinchikkunaWangrupotaformaspaotaqchaynagrupokunamanpertenecespaderechonchikvechikunanchikpaq.</p>
+  </li>
+  <li>
+    <p>Lliwrunakunamderechoyoqkanchiksamananchikpaqhinaspasamarispaasirikunanchikpaq,derechoyoqtaqmikanchikatisqanchikmanhinallasapapunchawllamkananchikpaqpashinaspavacacionalninchikchaskinanchikpaqpas.</p>
+  </li>
+  <li>
+    <p>Lliwrunakunamderechoyoqkanchikallinkawsaytatarispafamiliantinallinmikusqa,allinpachasqahinaspasanokawsakunapaq.Derechoyoqtaqmikanchikamparasqakananchikpaq,invalidokaspapas,viudootaqviudakaspapas,machuotaqpayakaspapas;derechoyoqtaqmikanchiktrabajotamanatarispapasotaqqonqaytaimamantenikunanchikpaqkaqtapierderuspapasamparasqakananchikpaq.</p>
+    <p>Wiksayoqwarmikunapaschaynataqwarmachakunapasderechoyoqmikankuallinmantienesqakanankupaq.Casadómantaotaqmanacasadomantakaspapaslliwwarmachakunaqaigualderechoyoqmikankuamparasqakanankupaq.</p>
+  </li>
+  <li>
+    <p>Lliwrunakunamderechoyoqkanchikeducasqakananchikpaq.Manaqollqellapaqmiprimariaqachaymiobligatorioprimariayoqllapaslliwkanankupaq.Allinnotanchikmanhinaqalliwmimastaraqeducakuchwanchikchaynapiimammunasqanchikmanchayananchikpaq.</p>
+    <p>Educacionparurunqakananrunakunapaallinkawsakuyninmihinaspalliwderechonkunasumaqreqsiymichaynapilibrekayninallinrespetasqakananpaq.Hawkallakaspanchikmicomprendenakunanchikhuklawnacionkunawan,wakincastakunawanhinaspaimadiospicreeqkunawanpas.Huñunasqanacionkunatapasyanapananchikmitukuykaypachapihawkakawsakuykananpaq.</p>
+    <p>Tayta-mamakunaqaderechoyoqmikanchikimaynaeducaciontafamilianchikchaskinanpaqpas.</p>
+  </li>
+  <li>
+    <p>LIiwrunakunamderechoyoqkanchikmaymiyachasqanchikpiimaruraykaptinpasyanapakunanchikpaq.Yanapakuchwanmitukuyimapillaqtanchiksumaqílatañawiñananpaqhinaspapasderechoyoqmikanchikchayllaqtapaimapasqowasqanchiktachaskikunapaq.</p>
+    <p>Sichumumallanchikmantaimapasvalorniyoqkaqtahorqoruchwanotaqpipapasmanaraqrurasqantaimatapaschayraqruwaruchwan,hinaspaqaderechoyoqmikanchikchaypaqarichisqanchikkunapavalorniyoqkasqantaamparachinanchikpaq.</p>
+  </li>
+  <li>
+    <p>DerechoyoqmikanchiknacionninchikpihinaspalIiwnacionkunapipasrunakunapaderechonvalechiqorganizacionkananpaq,chaynapikaytukuyqawasqanchikderechonchikhinaspalibrekasqanchikhaypananchikpaq.</p>
+  </li>
+  <li>
+    <p>Lliwrunakunamllaqtanchikpiqespinchik,chayraykumllaqtanchikpaqdeberniyoqkanchik.</p>
+    <p>Derechonchikotaqlibrekayninchikvalechikunanchikmantaqaleyllamharkakuwachwan,chaynaqakanmanwakinpaderechonkunaotaqlibrekayninkumanausurpasqakananpaqmi,chaynapichaqwakunamanakananpaq.Chaynapitaqlliwrunakunaqasapakamakikinnacionninchikpihawkallakawsakunanchikpaq.</p>
+    <p>Kaylliwderechonchikqaotaqlibrekayninchikqamanamvalechisqaqakanmanchu,sichumimaynaformapipashukllawasqanacionkunapamunasqanpacontranpikaspaqa.</p>
+  </li>
+  <li>
+    <p>Kayqelíqapanisqankunamanhapipakuspaqamanampipasotaqgobiernopasimatapasruwanmanchu,derechonchiktahinaspalibrekayninchiktausurpanankupaqa.</p>
+  </li>
+</ol>

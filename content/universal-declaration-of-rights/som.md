@@ -1,0 +1,121 @@
+<h1 align='center'>BAAQA CAALAMIGA EE XUQ WQDA AADANAHA</h1>
+<h2 align='center'>Hordhac</h2>
+<p align='center'>Iyadoo aqoonsiga sharafta uu ku dhashay iyo xuquuqda maguurtada ah ee ay u siman-yihiin dadweynaha adduunku uu yahay saldhigga xorriyada, caddaaladda iyo nabadda dunida.
+Iyadoo aqoonsi la'aanta iyo ku tumashada xuquuqda aadanuhu ay ka dhasheen falal waxashtinimo ah oo shucuurta aadanuhu ka danqato iyo iyadoo gaaritaanka duni aadanaha ku nooli haystaan xornimo ay ku cabbiraan fikradahooda iyo waxay aaminsan yihiin iyo iyagoon qabin cabsi iyo baahi, laguna dhawaaqay inay tahay ujeedada ugu weyn ee uu dadku leeyahay.
+Iyadoo ay tahay lagama maarmaan in xuquuqda aadanuhu ay noqdaan kuwo sharcigu dhowro, si uusan qofku, ugu dambeynta, ugu baahan inuu xoog kaga soo horjeesto cadaadiska.
+Iyadoo ay tahay lagama maarmaan in sare loo qaado horumarinta xiriirka saaxiibtinimo ee ka dhexeeya Dowladaha.
+Iyadoo dadyowga dunidu ay ku caddeeyeen mar kale Dastuurka Qaramada Midoobay sida ay u aaminsan yihiin sharafta iyo qiimaha qofka aadamiga ah iyo sinnaata xuquuqda ragga iyo dumarka iyagoo goostay inay hore u mariyaan bulshada heerka, noloshoodane la wanaajiyo iyagoo ku nool xornimo ballaaran.
+Iyadoo Dawladaha xubnaha ka ah Qaramada Midoobay ay dhexdooda iska ballan qaadeen iyagoo la kaashanaya Hayadaha caalamiga ah sare u qaadidda dhowritaanka iyo xushmaynta xuquuda aadanaha iyo xorriyadda aasaasiga ah.
+Iyaadoo helitoanka aragti midaysan ee la xiriirta xuquuqdan iyo xorriyaadkan ay tahay arrin qiima weyn ku fadhisa si loo fuliyo ballan qaadkan.
+Golaha loo dhanyahay ee Qaramada Midoobay wuxuu soo saarayaa Baaqan oo saldhig u ah dadyowga dunida ku nool dhammaantood sidii qof waliba ama xubin kasta oo ka mid ah bulshada, isagoo maskaxda ku haya Baaqan, ugu dadaali lahaa sare u qaadidda dhowritanka xuquuqdan iyo xorriyaadkan, isagoo u mareya waxbarasho iyo barbaarin, talaabooyin xiriir ah qaadaya xagga dibadda iyo gudahaba sidii loo xaqiijin lahaa in si dhab ah loo aqoonsado ha ahaato dadweynaha ku dhex nool Dawladaha xubinta ka ah Qaramada Midoobay ama dadyowga ku nool dhulalka xukonkooda hoos yimaado.</p>
+<ol>
+  <li>
+    <p>AadanahadhammaantiiswuxuudhashaaisagooxorahkanasimanxaggasharaftaiyoxuquuqadaWaxaaAlle(Ilaah)siiyayaqooniyowacyi,waanainqoflaarkaaqofkakaleuladhaqmaasiwalaaltinimoah.</p>
+  </li>
+  <li>
+    <p>QofkastaawuxuuleeyahayxuquuqdalagutilmaamayBaaqaniyadaooaanlookalesoocinxagqabiil,midabka,dheddigamalab,afka,diinta,siyaasaddaamafikradkale,dhalashoamameeshauukasooaskumay,xoolaha,dhalashoamaxaaladakale.Waxaakaleooaanlagusamayneynkalasoocidkusalaysanarrimahasiyaasadeed,xukunamaxaalcaalamieeuukusuganyahay,dhulkaamadalkauuqofkaudhashay,haahaadodalkaasimidmadaxbannaan,midwelidawladkalemaamusho(wisaaya)midaanhaysanxukunhoosaadamaaanhaysangobanimabuuxda.</p>
+  </li>
+  <li>
+    <p>Qofkastaawuxuuxaquleeyahaynolol,xorriyoiyonabadgelyo.</p>
+  </li>
+  <li>
+    <p>Majiroqofloohoysankaroaddoon,addoonsigaiyokaganacsigaaddoontawayreebanyihiincaynkastaaykuyimaadaan.</p>
+  </li>
+  <li>
+    <p>Majiroqofloogeysankarosilicdilyoamaciqaabkabaxsanaadaninimada.</p>
+  </li>
+  <li>
+    <p>Qofkastaawuxuuxaqulaayahayinlooaqoonsado,meelkastaoouuJoogo,qofnimadiisa.</p>
+  </li>
+  <li>
+    <p>Dadkaoodhammiwayusimanyihiinsharcigawaxaynaxaquleeyihiin,iyagaooaanlakalasoocin,insharcigudhowro.Dadkaoodhammiwaxayxaquleeyihiininsisimanloogabadbaadiyowaxallawixiikalasooc-soocahookasoohorjeedaBaaqanamadhiirigelnikarakalasooc-soocid.</p>
+  </li>
+  <li>
+    <p>QofkastawuxuuxaquleeyahayinuuheloMaxkamadahakuhawshaleheedalkiisacawincelindhabahmarkalaguxad-gudboxuquuqdaasaasigaahoouudastuurkaamasharcigasiiyay.</p>
+  </li>
+  <li>
+    <p>Qofnaloomaxirikaro,loomahaynkaro,amaloomamasaafurinkarosisharcidarroah.</p>
+  </li>
+  <li>
+    <p>QofKastaawuxuuxaquleeyahayinuuhelosinnaanbuuxdaMaxkamadCaadilahhorteedmarkalagaynayoxuquuqdiisaiyowaajibaadkiisaiyomarkaaydhacdoinloohaystodacwociqaabah.</p>
+  </li>
+  <li>
+    <p>Qofkastaoolagusoooogaydacwociqaabahwuxuuxaquleeyahayinlooictiqaadoinuuyahaydembilaaweilaalagacaddeeyoinuuyahaydembiilesidauuqabosharcigu,aynakudhawaaqdoMaxkamaddadkaufurunooeedeysanayaashaloooggolaadaydammaanadahalagamamaarmaankauahdifaacooda.</p>
+    <p>Qofnalamasaarikarociqaabkadhalatayfalamafall'aanhaddiifalkaasiamafalla'aantaasixaggasharcigaDalkaamakanCaalamigaah,aanayahayndembiwaqtigalagalay.Sidookaledembilahalamasaarikarociqaabkaadagtiiudegsanaydfalkadembigaasmarkiilagalay.</p>
+  </li>
+  <li>
+    <p>Qofnasisharcidarroahloomafaragelinkaroarrimihiisaugaarkaah,qoyskiisa,gurigiisaamawarqadihiisa;sidookalelamadhaawicikarosharaftiisaamasumcaddiisa.Qofkastaawuxuuxaquleeyahayinuusharcigakahoosgalofaragelintaasiyodhaawicidaas.</p>
+  </li>
+  <li>
+    <p>Qofkastaawuxuuxaquleeyahayinuusixornimaaugudhexsocdounadegogudahadalkasta.</p>
+    <p>Qofkastaawuxuuxaquleeyahayinuukadhoofodalkastaoouukujirokiisa,kunasoolaabto.</p>
+  </li>
+  <li>
+    <p>Qofkastaawuxuuxaquleeyahayinuudalkaleuraadsadokanahelomagangelyosiyaasadeedisagookabaxsanayocadaadis.</p>
+    <p>XaqakorkuxusanlagumadoodikarohaddiicadaadiskuyahaymiddhabahaankadhashaydembiaansiyaasolaxiriirinamafalalkasoohorjeedaulajeedooyinkaiyomabaadiidaQaramadaMidoobay.</p>
+  </li>
+  <li>
+    <p>QofkastaawuxuuxaquleeyahayJinsiyad.</p>
+    <p>QofnasisharcidarroahloogamaqaadikaroJinsiyadiisa,loomanadiidikaroxaqaahinuuJinsiyadiisabeddesho.</p>
+  </li>
+  <li>
+    <p>Raggaiyodumarkaqaangaarkaah,iyagaooaanlookalasoocinxaggadhalashada,qowmiyadaamadiinta,waxayxaquleeyihiininayguursadaanooqoysabuuraan.Wayusimanyihiinxaqakusaabsanguriga,muddadaxiriirkaguurkasocdoiyomarkauuxiriirkaasdhammaanayo.</p>
+    <p>Guurwuxuudhicikaraaookeliahmarkalahelorabitaanbuuxaooxoraheelabadadoonaysainayis-guursadaan.</p>
+    <p>Qoyskuwaaunuggasaldhiggauahbulshada,wuxuunaxaquleeyahayinDawladdaiyomujtamacubadbaadiyaan.</p>
+  </li>
+  <li>
+    <p>Qofkastaawuxuuxaquleeyahayinuukeliahaanxooloyeeshoamacidkalexoolokulashirkoobo.</p>
+    <p>Qofkaxoolahiisasisharcidarroahloogamaqaadikaro.</p>
+  </li>
+  <li>
+    <p>Qofkastaawuxuuxaquleeyahayinuuheloxorriyaddaxaggafikradda,wacyigaiyodiinta;wuxuukaleuuqofkaxaquleeyahayinuubeddelankarodiintaiyowaxallewuxuuaaminsanyahay.Waxakaleuuqofkuxaquleeyahayinuu,keliahaanamaisagaoodadkalewehliyaan,soobandhigomeelfagaaraahamameelgaarah,diintiisaamawaxauuaaminsanyahay,kunamuujinayoxaggawaxbarid,kudhaqanka,caabudidiyocibaadaysi.</p>
+  </li>
+  <li>
+    <p>Qofkastaawuxuuxaquleeyahayinuuheloxornimoxaggara'yigaiyohadalka;wuxuukalexaquleeyahayinaanlagufaragelinra'yigiisaiyoinuuraadsado,helo,dhiibowarariyofikradoisagaooisticmaalayaqalabkastaoowarbaahinahiyagaooaanloofiirinamaxayirinwaxsoohdimaah.</p>
+  </li>
+  <li>
+    <p>Qofkastaawuxuuxaquleeyahayinuuheloxornimouuugaqaybgaloisu-tagiyoururlehulajeeddonabad-gelyo.</p>
+    <p>Qofnalagumakhasbikaroinuukamidnoqdourur.</p>
+  </li>
+  <li>
+    <p>QofkastaawuxuuxaquleeyahayinuukaqaybgalomaamulkaDalkiisasitoosahamaisagoosixornimoahudooranayacidwakiilkaah.</p>
+    <p>Dadkaoodhamiwayusimanyihiininaykaqaybgalaanmaamulkasareeedalkakajira.</p>
+    <p>RabitaankadadweynuhuwaasaldhiggaawooddaDawladda;rabitaankaaswaxaalagumuujinyaadooroshooyinrunahooxilliyojoogtaahdhacaya,lagawadaqayb-galaya,waxaynaudhacayaansiqarsoodiahamahabkaleoowaxlagudoortoooxorah.</p>
+  </li>
+  <li>
+    <p>Qofkastaa,maadaamauuxubinkayahaybulshada,uuxaquleeyahayinuuhelodaryeelcaafimaad.Daryeelkaasooqofwalibaufududaynayaxuquuqdhaqaale,mujtamaciyomidaqooneedeelagamamaarmaankauahqofkasharaftiisa,xornimadiisaiyokoritaankaqofnimadiisa.Taasookuimaanaysadadaalkagudahaiyoiskaashigacaalamiga,isagoolagaeegayonidaamkaiyoilahadhaqaaleeeDawladkasta.</p>
+  </li>
+  <li>
+    <p>Qofkastaawuxuuxaquleeyahayinuushaqohelo,inuuumadaxbannaanaadodoorashadashaqadauuqabanayo,insharuuduhushaqadaahaadaankuwocaddaaladkufadhiya,isaganaudanaynayaiyoinaysanshaqola'aankudhicin.</p>
+    <p>Qofkastaa,iyadoondadkalakalasoocin,wuxuuxaquleeyahayinuuhelomushaarlamidahkanuuqaatoqofkaleooayiskushaqaqabtaan.</p>
+    <p>Qofkashaaqeeyaawuxuuxaquleeyahayinuuhelomushaarwaxtaro,kunafilansiuuugunoolaadoisagaiyoqoyskiisuba.Loonakabohaddiiloobaahdodaryeelladakale.</p>
+    <p>Qofkastaawuxuuxaquleeyahayinuuabuuroururamakubiirokuwojiraysiuuuilaaliyodanihiisa.</p>
+  </li>
+  <li>
+    <p>Qofkastawuxuuxaquleeyahaynasashoooaykujirtowaqtikoobanoomacquulahoolagajarosaacadahashaqadaiyoxilliyofasaxoouumushaarusocdo.</p>
+  </li>
+  <li>
+    <p>Qofkastaawuxuuxaquleeyahayinuugaaroheernololeedoowaxtaruahcaafimaadkaiyoladnaantanaftiisaiyoqoyskiisa;hauguhoreeyaancuntada,dharka,hoyga,daryeelcaafimaadiyowaxallewixiiadeegbulshadeedoolagamamaarmaanah;wuxuukaleuuxaquleeyahayinuuhelodaryeelmarkiiaykutimaadashaqola'aan,cudur,curyaanimo,geeri,gabowamadhibaatooyinkakaleuusanlashaqaysankarikabaxsanawoodiisa.</p>
+    <p>Hooyadaumushaiyodhalaankuwaxayxaquleeyihiinxannaanoiyogacansiingaarah.Caruurtaooidil,hakudhashaanamayaanaykudhalanmeher,waxayxaquleeyihiinxannaanaiskumidah.</p>
+  </li>
+  <li>
+    <p>Qofkastaawuxuuxaquleeyahayinuuhelowax-barasho.Waxbarashaduwaalacagla'aan,uguyaraanheerkadugsiyadahooseiyoheerkaaasaasigaah.Waxbarashadadugsiyadahoosewaakhasab.Waxbarashadafarsamoiyomiddaxirfadeedwaainaynoqdaankuwolahelo;tacliintasaresidookalewaainayufurnaataadadkaoodhan,iyadaoolatix-gelinayoqoflaarkomudnaantiisa.</p>
+    <p>Waxbarashaduwaainayahaatomidloolajeedoinlagukobciyoshakhsiyaddaqofkaxoojintadhowritaankaxuquuqdaaadanahaiyoxorriyaadkaasaasigaah.Wax-barashaduwaainayahaatomidwaxkatartais-af-garadkaisu-dulqaadkaiyosaaxibtinimadakadhexaysaqowmiyaadkaamadadkakalajinsigaiyodiintaah,waanainaysiadkaysohawlahaQaramadaMidoobayeelaxiriirasugiddanabad-gelyada.</p>
+    <p>Waalidkaayaaiskalehxaqakoobaadooahinaydoortaannoocawaxbarashadalasiinayocaruurtooda.</p>
+  </li>
+  <li>
+    <p>Qofkastaawuxuuxaquleeyahayinuusimadaxbannaanugaqaybqaatohiddahanololeedeebulshada,inuukafaa'idaystofarshaxanka,inuukaqaybgalo,horumarintacilmigaiyokafaa'idaysigiisa.</p>
+    <p>Qofkastaawuxuuxaquleeyahayinladaafocodanihiisamaadigaiyomacnawigahaeekadhashawaxauuisagucuriyayxaggacilmisuugaantaiyofarshaxanka.</p>
+  </li>
+  <li>
+    <p>QofkastaawuxuuxaquleeyadayinuuhelonidaambulshoiyohabcaalamiahooxuquuqdaiyoxorriyaadkalagutilmaamayBaaqansibuuxdaloogudhaqangelinkaro.</p>
+  </li>
+  <li>
+    <p>Qofkastawaxaakasaaranbulshadiisawaajibaad;bulshaduwaameeshaquraooaysuurtowdoinqofkushakhsiyadiisusimadaxbannaanoobuuxdaayugukobocdo.</p>
+    <p>Markauuqofkugudanayoxuquuqdiisaiyoxorriyaadkiisawaxaaxirayaooquraintasharcigukareebay,iyadooulajeedadutahayookeliyaaqoonsigaiyodhowritaankaxuquuqdaiyoxorriyaadkadadkakaleinladhowroiyosidookaleanshaxa,nabad-gelyadaguudiyowanaaggaguudeemujtamacadiimaqaraadigaah.</p>
+    <p>XuquuqdaiyoxorriyaadkakorkuxusanloomaisticmaalikarosikasoohorjeedaulajeedooyinkaiyomabaadiidaQaramadaMidoobay.</p>
+  </li>
+  <li>
+    <p>BaaqankumajiraanwaxloofasirikaroinmicnahooduyahayinDawlad,kooxamaqofxaquleeyahayinuukukacofalamafalalloolajeedoinlaguburburiyoxuquuqdaamaxorriyaadkalaguqorayBaaqan.</p>
+  </li>
+</ol>

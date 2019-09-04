@@ -1,0 +1,122 @@
+<h1 align='center'>KURUDZIRO YEKUCHENGETEDZVA KWEKODZERO DZEVANHU PASI POSE</h1>
+<h2 align='center'>ZARURO</h2>
+<p align='center'>Sezvo kucherechedza hunhu nekodzero yakayenzana yomunhu wese pasi pose iriyo mviromviro yomutongero uri pachokwadi norunyararo panyika.
+Sezvo kusatevera nekusvora kodzero dzevanhu zvakamboita kuti kuve noutsinye hwakarwadza pfungwa dzevanhu pasi pose, nokuuya kwenyika inevanhu vachafadzwa norusununguko nokutaura zvavanoda zvakapikirwa sezvinangwa zvinodiwa kuvanhu vese vese.
+Sezvo chiri chinhu chinokosha, kana munhu asingazomanikidzirwa kuita somukana wokupedzisira, kupandukira hutongi hwakaipa kana hudzvanyiriri, kuti, kodzero dzevanhu dzichengetedzwe nohutongi hwomutemo.
+Sezvo vanhu vese veMubatanidzwa weNyika, muchisununguko ichi, varatidzazve chitendero chavo mukodzero dzavanhu dzinokosha, uyewo muhunhu nohukoshi homunhu wega wega, munezvekodzero yakayenzana yavanhurume navanhukadzi, zvekare vazvishingisa kukurudzira budiriro mumagariro nokusimudzirwa kohupenyu huri nani murusununguko rwunokosha rwakawedzerwa.
+Sezvo kunzwisisa pamwechete kodzero idzi norusununguko zvichikosha zvakanyanya kuti chisungo chibudirire.
+Saka Nokudaro
+GUNGANO ROMUBATA - NIDZWA WENYIKA DZEPASI POSE
+rinozivisa
+NEZVEKURUDZIRO INO YEKUCHENGETEDZVA KWEKODZERO DZEVANHU PASI POSE sechiratidzo chokubudirira pamwechete kwavanhu vese nemarudzi ese, pedzisire munhu wese nenhengo dzese dzemunyika vavekuchengetedza kurudziro ino, vachishingirira nokudzidzisa uyewo kuita mabasa ekudzidzisa nokukurudzira kuremekedzwa kwekodzero dzino nerusununguko namatanho okubudirira munyika kana pasi pose, kuita kuti kodzero idzi dzicherechedzwe zvakakwana nokuchengetedzwa pasi pose nevanhu vemunyika dzinova nhengo uyewo vanhu vanogara mumatunhu ari pasi penyika idzodzo.</p>
+<ol>
+  <li>
+    <p>Vanhuvesevanoberekwavakasunungukauyewovakaenzanapahunhunekodzerodzavo.Vanhuvesevanechipochokufunganekuzivachakaipanechakanakasakavanofanirakubatananomweyawohusahwira.</p>
+  </li>
+  <li>
+    <p>Munhuweseanofanirwakuwanakodzeronorusunungukosamataurirwoazvakaitwamukurudziroino,pasinakusarurakupizvako,kwakaitasekwerudzirwake,ruvararwakekanakutimunhurumekanakutimunhukadzihere,mutaurowake,svondoyake,kanakutimafungiroakemunezvematongerwoenyikakanazvipizvazvo.Zvekare,hapanakusarurakuchaitwanokudakwemamiriromunezvematongerwoenyika,mutongerokanakutimamiriroenyikakanadunhuraanogaramuneipizvayonyikapasipose,ingavanyikayakasununguka,nyikairikufanotongwa,kananyikaisatiyawanakuzvitongakuzerekanachipizvachochipingidzopakuzvitonga.</p>
+  </li>
+  <li>
+    <p>Munhuweseanekodzeroyokurarama,kuvanerusunungukonokuzvichengetedzaiyeomene.</p>
+  </li>
+  <li>
+    <p>Hapanamunhuachachengetwamuhurandakanakuitwasemuranda,hurandanekutengeswakwevanhuneipizvayonzirahazvizotenderwi.</p>
+  </li>
+  <li>
+    <p>Hapanamunhuanofanirwakurwadziswakanakuitirwahutsinye,kubatwasemhukakanakuitwazvinoderedza,kanaupizvawomurangirowakadaro.</p>
+  </li>
+  <li>
+    <p>Vanhuvesevakayenzanapamberipomutemouyevanekodzero,pasinarusarura,yokuchengetedzwazvakayenzananomutemo.</p>
+  </li>
+  <li>
+    <p>Munhuweseanekodzeroyokuenzanisirwachichemochakezvakakwananamatarearipachokwadiemunyikamakeapoanengeaitirwazvinotyorakodzerodzinokoshadzaanopiwanebumbiroremitemokanaiwomutemopachawo.Munhuweseanenzirayekudzivirirwayakafanananeyavamwekubvamurusarurworwosezvarworunotyoramitemoyekurudziroino.</p>
+  </li>
+  <li>
+    <p>Munhuweseanekodzeroyekumirirwanematarekanaakatyorerwakodzerodzakedzaainadzopasipebumbiroremitemokanamitemopachayo.</p>
+  </li>
+  <li>
+    <p>Hapanamunhuachasungwa,kupfigirwamutorongokanakudzingwamunyikamakezvisiripamutemo.</p>
+  </li>
+  <li>
+    <p>Munhuweseanofanirwakuwanamukanawakaenzanauripachokwadiwokumirapamberipedareremhosvarakasununguka,risinadivirarinorerekera,apokodzeroyakenezvaanotarisirwakutiaitezvinengezvichivhenekwa,uyewokanaachingeachipomerwamhosvaipizvayo.</p>
+  </li>
+  <li>
+    <p>(Chekutanga)Munhuweseanengeapomerwamhosvaiyoingaitakutiapiwechirango,anekodzeroyokubatwasomunhuasinamhosvakusvikirapawanikwaumbowohokutianemhosva,achizobatwanayopamberiporuzhinjinedare,apopaanengeapihwamukanawezvosezvaangadepakuzvimirira.</p>
+    <p>(Chechipiri)-Hapanamunhuanofanirwakunzianemhosvapamutemowenyikakanamutemowenyikadzepasipose,panguvayechiitikoichocho.Uyewohapanachirangochakapfurikidzachinofanirwakutemerwamunhuchisingawiriraninechirangochaikodzerapanguvayokuparwakwemhosvayachoinengeiripadare.</p>
+  </li>
+  <li>
+    <p>Hakunamunhuachafanirwakuongororwazvisiripamutemomunezvemagariroake,zvemhuriyake,mushawakekanamatsambaake,uyewokushorwanokuderedzerwapahunhu,nechimirochake.Munhuweseanekodzeroyokudzivirirwanemutemokubvamukuderedzerwanekutadzikirwakwakadaro.</p>
+  </li>
+  <li>
+    <p>(Chekutanga)-Munhuweseanekodzeroyokuvanorusunungukorwokufambanokugaramukatimenyikaimweneimwe.</p>
+    <p>(Chechipiri)-Munhuweseanekodzeroyokubudamuneipizvayonyika,zvichibatanidzanyikayake,uyewokudzokerazvekunyikayake.</p>
+  </li>
+  <li>
+    <p>(Chekutanga)-Munhuweseanekodzeroyokutsvaganekupiwapekupoterakunedzimwenyikakanaarikuvhundutsirwa.</p>
+    <p>(Chechipiri)-IyikodzerohaigonekushandiswakanaasungwapachokwadinemhosvadziripachenakutihadzisidzezvematongerwoenyikamushuremokuitamabasaanotyorazvinangwanemitemoyeMubatanidzwawenyikadzepasipose.</p>
+  </li>
+  <li>
+    <p>(Chekutanga)-Munhuweseanekodzeroyokuvanenyikayaanobva.</p>
+    <p>(Chechipiri)-Hapanamunhuachashaiswanyikayakeyaanogarakanakurambidzwakuendakundogarakuneimwenyika.</p>
+  </li>
+  <li>
+    <p>(Chekutanga)Vanhurumenevanhukadzivabvezero,vanekodzeroyokuroorananokuumbamhuri,pasinakudziviswanokudakwerudzi,nyikayechizvarwakanasvondoyavanopinda.Vanhuavavanekodzerodzakaenzanamunyayadzezvekuvakaimba,pakuchatanemukuparadzwakwawo.</p>
+    <p>(Chechipiri)-Wananoichaitwachetekanapainetenderanoyakakwanapakatipaavovanodakuwanana.</p>
+    <p>(Chechitatu)-Mhurindiyomusimbotiwomubatanidzwaunokoshamumushauyeinekodzeroyokuchengetedzwaomene.</p>
+  </li>
+  <li>
+    <p>(Chokutanga)-Munhuweseanekodzeroyekuitapfumaariegakanakutiakabatananevamwe.</p>
+    <p>(Chechipiri)-Hakunamunhuachatorerwapfumayake.</p>
+  </li>
+  <li>
+    <p>Munhuweseanekodzeroyorusunungukomupfungwa,mumaonero,nemumanamatiroake;kodzeroiyiinobatanidzarusunungukorwokuchinjasvondokanamafungiro,zvekarekuvanorusunungukopachakekananavamwe,pachenakanamuchivande,rwokunamatakanarwomumafungiroakemuzvidzidziswa,kuitwakwazvo,munamatirwokanamumacherechedzerwoazvo.</p>
+  </li>
+  <li>
+    <p>Munhuweseanekodzeroyokuvanorusunungukorwemaoneroakepasinakukanganiswa,rwekutsvaga,rwekuudzwakanarwekuzivisamashokonemafungironeipizvayonzirazvisineyinezvemiganhuyenyika.</p>
+  </li>
+  <li>
+    <p>(Chekutanga)Munhuweseanekodzeroyokuvanorusunungukorwokusangananokuvanamwemurunyararo</p>
+    <p>(Chechipiri)-Hapanamunhuanofanirwakumanikidzwakuvenhengoyeripizvarobato.</p>
+  </li>
+  <li>
+    <p>(Chekutanga)-Munhuweseanekodzeroyokubatsiramukutongwakwenyikayake,pachakekanakuburikidzanekuvamiririvakasarudzwazviripachena.</p>
+    <p>(Chechipiri)-Munhuweseanekodzeroyakaenzanayokushandirahurumendeyomunyikayake.</p>
+    <p>(Chechitatu)-Zvidozvevanhundizvozvchavamusimbotiwemasimbaokutonganawohurumende:zvidoizvizvicharatidzwanguvanenguvanesarudzoiripachokwadiiyoichangeichizoitwanomunhuweseanekodzeroyokuvhota,sarudzoiyiichaitwavanhuvakasunungukauyezvisinakubiridzira.</p>
+  </li>
+  <li>
+    <p>Munhuwese,senhengoyorudzi,anekodzeroyokuwanamagariroakanaka,uyeanofanirwakuwanakubvamumushandirapamwewenyikadzepasiposezvichiteveramarongerwoohupfumihwenyikaimweneimwe,hupfumi,magarironekodzero,dzetsikadzemagariroakenokuitamunhuanovazvaanodakuva.</p>
+  </li>
+  <li>
+    <p>(Chekutanga)-Munhuweseanekodzeroyokushanda,kusarudzabasaraanodakuita,nekuvanomushandirowakanakauyewonekudzivirirwakutiasaiterovha.</p>
+    <p>(Chechipiri)-Munhuwese,pasinakusarurakupizvako,anekodzeroyokuwanamugovewakaenzananowomunhuweseanoitabasaserake.</p>
+    <p>(Chechitatu)-Munhuweseanoshandaanekodzeroyokuwanamugovewakanakazvichiitakutiiyepachakenemhuriyakevawanemagariroanokodzeraehunhuuchiwederwa,kanazvichikodzeranedzimwenziradzokuchengetedzwakwemagaririoakanaka.</p>
+    <p>(Chechina)-Munhuweseanekodzeroyokuumbanokuvanhengoyemasanganoanomiriravashandikutiagonekuchengetedzazvidozvake.</p>
+  </li>
+  <li>
+    <p>Munhuweseanekodzeroyokuzororanokuzvivaraidza,zvichibatanidzakukamurwakwenguvayokushandanokuwanazororonguvanenguvapabasaachipihwamugovewakakwana.</p>
+  </li>
+  <li>
+    <p>(Chekutanga)-Munhuweseanekodzeroyokuvanemagariroakakwanakutiavenohutanohwakanakanokuraramazvakanakaiyepachakenemhuriyakeachiwanakudya,zvipfeko,imba,kurapwanezvosezvinodikanwapamagariroomunhunekodzeroyokuchengetwapanguvayokushaiwabasa,hurwere,kuremara,kufirwa,kukwegurakanachipizvachochipingidzomuupenyu.</p>
+    <p>(Chechipiri)-Huzverekananguvayohwanahudikiinguvayokubatwazvakanakanokubatsirwa.Vanavese,zvisineikutivakaberekwazvakaitasei,vachachengetwazvakayenzana.</p>
+  </li>
+  <li>
+    <p>(Chekutanga)-Munhuweseanekodzeroyokuwanadzidzoiyoichangeiripachena,zvikurupanguvayehwanahudiki,inovandiyonguvayakakosha.Dzidzopanguvaiyiichamanikidzirwa.Dzidzodzezvemibatoyemaokoneyemumahofisiichaitwakutiivepozvekare,dzidzoiripamusoroichawanikwamaereranonemagoneroemunhu.</p>
+    <p>(Chechipiri)-Dzidzoichanangiswakusimudzirazvakakwanamunhunokusimbaradzakuremekedzwakwekodzerodzavanhuuyewonerusunungukorwavorunokosha.Dzidzoichakuridzirakunzwisisa,kuregererananohusahwirapakatipenyika,marudzikanamapokaezvedzisvondo,uyewoichatungamidzamabasaemubatanidzwaweNyikadzepasiposeekuchengetedzwakwerunyararo.</p>
+    <p>(Chechitatu)-Vaberekivanekodzeroyokusarudzadzidzoichapihwakuvanavavo.</p>
+  </li>
+  <li>
+    <p>(Chekutanga)-Munhuweseanekodzeroyokuteedzaakasungunukatsikadzemunzvimbomaanogarakufadzwanezvemitambonokubatidzawomumabasaebudiriro.</p>
+    <p>(Chechipiri)-Munhuweseanekodzeroyokuwanakuchengetedzwakwemararamironezvidozvakezvinobvamunezvaanamazvi-kokota,zvemitambo,nemuzvinyorwaizvoanengeakanyoraega.</p>
+  </li>
+  <li>
+    <p>Munhuweseanofanirwakugaramuruwanemunyikaumomunozovanokucherechedzwazvakakwanakwekodzeronorusunungukosekutaurwakwazvakaitwamukurudziroino.</p>
+  </li>
+  <li>
+    <p>(Chekutanga)-Munhuweseanezvinhuzvaanofanirwakuitamunzvimbomaanogaraumomunozoitakutiiyepachake,agonekuzvisimudziraakasunungukapahunhuhwakezvakakwana.</p>
+    <p>(Chechipiri)-Achishandisakodzerodzakenorusunungukorwakemunhuweseachavanomwerowakatarwanomutemochete,ndokungeizvizvichiitirwakupacherechedzonoruremekedzorwunodiwakukodzeronorusunungukorwunodiwarwavamwenokuitazvidozvevanhu.</p>
+    <p>(Chechitatu)-KodzeroiyinorusunungukourwuhazvigonekushandiswanenzirainotyorazvinangwanedonzvoreMubatanidzwaweNyikadzepasipose.</p>
+  </li>
+  <li>
+    <p>Hapanachinhuchirimukurudziroinochichazotsanangurwasechinorevakuticheroipizvayonyika,bato,kanamunhupachake,anekodzeroyokuitamabasakanazviitozvinopwanyaipizvayokodzerokanarusunungukozvirimukurudziroino.</p>
+  </li>
+</ol>

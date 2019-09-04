@@ -1,0 +1,100 @@
+<h1 align='center'>Yirisaro fɔɔku consiroma ãduriya mii</h1>
+<h2 align='center'></h2>
+<p align='center'>Ti ka cɔɔtɛ maa yissaro Fɔɔku mii da ta nɛki sa o i se o yon; o i Fɔ da i o daari;
+Ti ka cɔɔtɛ maa nɔɔre yirisaro ta yaate kpɛɛmma boma mii, da nɛki-di panto o se o yon o i Fɔ da i o daari;
+Tika cɔɔtɛ maa yirisaro Fɔɔku ta wiri, da nɛki-dì nɛɛ yiro ta bo, o nukpiikiba ǹ yi o tetin-na;
+Ti ka turi ti cɔɔtɛ maa kpeeto tɔkitibu ta daari tinkpanne na de tɔre;
+Ti kanka cɔɔtɛ maa pe na do bà ta da i biinni Fɔɔku ǹ sooki ku yì bà daari-na;
+Ti ka cɔɔtɛ maa ànduriya kaatooya, yaa ta yau na yirisaro Fɔɔku darima yaama ya ta yɛmbiri da seena ya ǹ kaate ya ǹ yiìrun sabare-de ta yau-na maa yirisaro Fɔɔku daari-ma yaama ya te de:</p>
+<ol>
+  <li>
+    <p>Yiribanabàsikindodarebàmɛɛri,daseenayirimmamiibàtadainɛkibàtɔɔba.</p>
+  </li>
+  <li>
+    <p>Yirisarobaowan,nɛɛotabo,danɛkidioiyinrimaaotadaiFɔdasookidaiodaarina.</p>
+  </li>
+  <li>
+    <p>YirisaroFɔɔkunakùconsiromayiyondapɔɔpɔra-diboma-mii.</p>
+  </li>
+  <li>
+    <p>YirisaroobadaiFɔsayombitu.</p>
+  </li>
+  <li>
+    <p>DabatirisayiroǹyiFɔpɔntunayaroobu-miiyaŋisitori.</p>
+  </li>
+  <li>
+    <p>YirisaronɛotaFɔoitɛmoyirimmatori.</p>
+  </li>
+  <li>
+    <p>Yirabamɛ-dibàmaasibootiyaamaconsiromamii,batisimapaa.</p>
+  </li>
+  <li>
+    <p>Yirisarobaowanǹbotisaobibioǹyirimmabootidannamii,okamɛɛndesabànɛkibàodiwɛ̃ɛnuyaŋisitori.</p>
+  </li>
+  <li>
+    <p>Dabatirisabàfinniyirisaro,karanoyeriotiŋuyaŋisitori.</p>
+  </li>
+  <li>
+    <p>Yirisarobaowanbàkaopɛɛyaamasaomaabawɛ̃ɛnu;bootidamuteerayɛɛmbɛbàoǹyiremamii.</p>
+  </li>
+  <li>
+    <p>Yirisarobawanbàkaopɛɛyaama,sabooti-danateeramaacɔɔtɛbamɛɛndesaodaari-didamɛɛna-dioǹyirimmamaaotamuǹbotibàomakpinsireyirikutirenuŋa.</p>
+  </li>
+  <li>
+    <p>Yirisarobaowan,oǹyeetemii,tɔdɛɛyoŋokaǹoyasire-tiyaŋisitori,odasooki-diowobobootu.</p>
+  </li>
+  <li>
+    <p>Yirisarobaowan,oǹyeetemii,tɔdɛɛyoŋokaǹoyasire-tiyaŋisitori,odasooki-diowobobootu.</p>
+  </li>
+  <li>
+    <p>Yirisarobàkaotɔŋɛoǹtinkpaanne,odasooki-diokoritinkpaandɛɛnde.</p>
+  </li>
+  <li>
+    <p>Danɛki-disayirobaowan,oibotitinkpaanyeetande.</p>
+  </li>
+  <li>
+    <p>Yirisaro,tiyon-di;dobaowannapebaowanbàdasooki-dibàmansa.Sabàyeemayibàdaari-na,daibàyeetitɔɔbanabàtinkpaannenukpiikkibadaibàtetirina.</p>
+  </li>
+  <li>
+    <p>Yirisarookabooyon,yanatɔɔbakari;danɛkisaoibotioǹyoŋandenda.</p>
+  </li>
+  <li>
+    <p>Yirisarobaowanotandasooki-dioyorimaaotabansitiyirikutire-mii,yìyeemasookimaidaari-na.</p>
+  </li>
+  <li>
+    <p>Yirisarotanbadaidɔɔsi-tisaotɔkɛtɔɔbadabaruwootayindiwokapori.</p>
+  </li>
+  <li>
+    <p>Yirisarobaowanoǹbaŋakaopɛ,odasooki-dioyuŋikaatoredemiiotanɛki.</p>
+  </li>
+  <li>
+    <p>Yirisaro,danɛkioiyinrimaaoǹtinkpaandeyaamatacoonni,oipukiriyerisusudennɔɔredètantaraopeeke.Datorimaribasabadosibukabo,otaratakaonɛdoonaoǹbaŋakàyonsabare-deotanɛki.</p>
+  </li>
+  <li>
+    <p>Yirisaroyonwɛ̃ɛrunbaoǹsɛkubomamii,daseenayiribatadaitetinabàtɔɔbaFɔɔkusookikuyìbàdaari-na.</p>
+  </li>
+  <li>
+    <p>YirisaronɛotaFɔ,danɛkiotondiyerikakaotadaipukirisɔɔtima.Natɔɔbakariyitakapukiri,yicɔntuimɛɛ,yinɔɔyaimɛɛ,yiyeriŋasookikaicoonnatirima.</p>
+  </li>
+  <li>
+    <p>Yerentobaowandanɛki-dioǹyerikayuurecɛbàtaopɛFɔɔsima,osookiofakinatinkpaantɔyatɔyaotɔsɛnaoyonmaŋimanasimma.</p>
+  </li>
+  <li>
+    <p>Yirisarobomakaoǹyeri-na,danɛki-disaoǹsimmamii,tɔɔbaǹoteete-na;maaoǹFɔɔkutadaturikuodaariki-na.Bisu,dakpanasudɔrimasarisuǹkutina,dasɔɔti-disayirikuribayiisutetiri-na.</p>
+  </li>
+  <li>
+    <p>Yirisarobaowan,danɛkiotakakɔɔrima.Kɔɔribimuyidemmaitirasi-di.Kɔɔrikpɛɛnatookimamaa,daboyiroyimmanaoǹwɛ̃ɛrunyin-di.Kɔɔrimatakoma-didasekeyiroǹtanasimma,osookioFɛtimaoǹyononɛkɛnayirisaritɔ,Fɔɔkusookikuidaari-naãduriyamii.</p>
+  </li>
+  <li>
+    <p>Yirobaowandasooki-diotonnioǹborikabasimadendanodasɛsɛsi,dàbapeena.</p>
+  </li>
+  <li>
+    <p>Bawandayɛɛmbɛ-diosɔoǹyirimma,maadentoriyaamadennɔɔresabare-detatuurimaa,dasookidainayondamunda.</p>
+  </li>
+  <li>
+    <p>Yirookabotɔɔbamii,onɔŋɛoǹyɛɛmbomatɔɔsɛbàdemmamaayìFɔɔkutadaicoonnasɔɔtima,kudaarimatorima-dibawantadaiyinriotɔparade,samaaãduriyakaatookpɛɛndedètayaunayirisaroFɔɔkuyaamatamaanɛki.</p>
+  </li>
+  <li>
+    <p>Dapaasayoŋoyatintinkpaanyondenɔɔyaamaǹciisiyadepɛtisabare-dedenyaama;madentoridataiãduriyakaatookpɛɛndenɔɔFonne.</p>
+  </li>
+</ol>

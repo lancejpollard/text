@@ -1,0 +1,123 @@
+<h1 align='center'>PEUNYATAAN UMUM TEUNTANG HAK ASASI MANUSIA</h1>
+<h2 align='center'>Mukadimah</h2>
+<p align='center'>Ta bileung‐bileung ranub lam puan han tok deulapan di dalam raga ta timang‐timang Peunyataan Umum nyan na tujoh bilangan paleng utama;
+Teuseubot bak phon “martabat alamiah” hak nyang pantaih makheulok manusia hak‐hak nyang saban dan muteulak sah teumpat teumeuduk “kemerdekaan, keadilan, perdamaian dunia”;
+Suai kedua nyang ditimang‐timang dipandang hana yum oreung abeihna leu that buet awak nyan lagee binatang beungeh meuradang hatee manusia;
+Rasa teumakot tiep uroue sabee udep ngon matee hana leu bida hoe hoe nyang tajak hana bebah lee sang donya nyoe ka akhee tamong neuraka meubacut na yum di nyawong ureung peupeu meulinteung dilaboih saja nyang keuh seubab nyan hai teungku piyeung seurata ureung haroik merdeka;
+Suai neumboi lhee cuba timang lom atoe ngon hukom hak asasi manusia nyang keuh cara peuteunang kaom liwat Peusyarikatan Bangsa‐Bangsa keupeut diseubut peukong hubongan ngon dan rakan di leu neugara nyang keulimong, kheun Piagam nyan peuyakin bandum keu hak asasi manusia nyang keulimong, haroih tapeutrang hak‐hak geutanyoe bek teuk meucawoe meuraba‐raba;
+Suai martabat hareukat umat nyoe hak seunaroe bandum manusia inong ngon agam duek bak saree jeut mangat tapikee keumajuan beusama udep leubeh get keu seurata ulee supaya bek meupakee seusama syedara;
+Suai keunam bandum seupakat dong bak rapat deungon PBB bandum bangsa suara ka bulat junjong that‐that hak asasi nyang keutujoh, bak muphom beuthat leubeh meukarat bebah merdeka nyang paleng peunteng bah peuteupat cara peuseulamat janji nyang kana jinoe meulangkah ke
+Peunyataan Umum Majeulih Umum
+Peusyarikatan Bangsa‐Bangsa
+suai nyang ka kayem ta kheun‐kheun hak asasi bandum umat manusia Peunyataan Umum nyan keu ukoran umum keu tiep‐tiep bangsa seugala neugara nyoe tamuphom Peunyataan nyan dum jeut tasuson sion‐on bandum reuncana nyang diseubut‐seubut nibak phon‐phon tabie keu kaom ajaran ngon didekan nyata deungon nyan geutanyoe maken tamuphom hak‐hak kaom keu bebah merdeka lom nibak nyan peureulee leubeh tapeumaju leubeh tapeumeuseuhue dari nyang ka ka leubeh dimuphom le kaom, leubeh diakue takheun ibarat lampue dalam geulita.</p>
+<ol>
+  <li>
+    <p>Bandummanusialaheebebahmerdekadeungonhakngonmartabatnyangsama.Ngonakaitaseumikee,ngonateetameurasabandumgeutanyoelageesyedara.</p>
+  </li>
+  <li>
+    <p>Tiepureungnahaksabanbandumbebahlamgrak,bebahlambicarameunankeuhdikheunlamPeunyataanUmumPeureuleethat‐thattaphamwaheesyedaraPeunyataanPBBnyanhanakeucualierupangonhie,putehngonitaminongngonagam,brokngontariedipandangsahieuroengonmalam.Basa,agama,sukeengonbangsahanadipeubida,meunancitsikappolitekpangkat,hakmilek,gasienngonkayadipandangseurupa,wahaipocutadekkeududukanpolitek,hukomnangroeureungsidroe‐droe(merdeka,jajahan,atawaseuteungohjajahan)hameditilekdandisidek,hanjeutdihiroeduekbaksajan,dongpiehbaksaban.</p>
+  </li>
+  <li>
+    <p>Ureungdroe‐droebakjameunjinoehanjeutbohatoekeuureunglingkakareunanahakudeepdroedidalamdonyahametapeukaruewaheesyeedara.</p>
+  </li>
+  <li>
+    <p>Hanasidroeureungbakjameunjinoejeutbohatoekeuureunglingka(tapeubudak,taprah,tajajah,tapeurugoe)buetnyandilarangjinoengonteuma.</p>
+  </li>
+  <li>
+    <p>Tansidroeureungpatottasiksajeuttadeurapeuturotpalakatawatahukomban‐bannahawaatawatahinaban‐bannagalak.</p>
+  </li>
+  <li>
+    <p>Tiep‐tiepureungcitnahakdroenahakmeungakuedilikeuhukomtapeulakuureungnyansebagoepribadidrohanjeutbeurangsoetapubuetkon‐kon.</p>
+  </li>
+  <li>
+    <p>Tiepureungsabanbakmatahukomsalahngonbeunatakalonteumatiepureungnahaklindonganhukomtannabidadeungonlaenmanusia.Patothairakantanyoetapuphomhanjeuthaiampontapeubida‐bidajelaihnyanmeuneuntangPeunyataanUmumTeuntangHak‐HakAsasiManusia.</p>
+  </li>
+  <li>
+    <p>Tiepureungnahakteurimongnyanleureungcarongdikheun“pemulihanefektif”darinyangdiseubut“pengadilannasionalyangkompeten”yaknikeuseugalatindakannyangmeulangga“hak‐hakfundamental”nyangdijokkegobnyanleundang‐undangdasaatawahukom.</p>
+  </li>
+  <li>
+    <p>Hanasidroeureunghaicutwainseunjeutbanseuwenang‐wenangdidropngonditheunatawadibohdipeuasengdiuteundirimbaatawadenganlaencaranyangtaksemeuna‐meuna.</p>
+  </li>
+  <li>
+    <p>Bandumureung,haiteungkurajaateuhpeuradilannasabanhakpeuradilannyangadeengonteubukaleepeungadilanbebahhanameumihak.</p>
+  </li>
+  <li>
+    <p>Barangasoedidakwaleehukomhanjeuthaikaomtapeugahsalahprehdileepeungadilanteubukapeugotputosandeungonjaminanjeulahpeungadilanbebah.</p>
+    <p>HanasidroeureungjeuttapeusalahyohgohjeulahmeulanggahukomSeubabsalahngonbeunagohlomsahyohgohdiputoihleetuankuhakim.</p>
+  </li>
+  <li>
+    <p>Hukomnasionaldaninternasionalpiehdipeugahhanjeutkheunsalahwateebuetnyanteujadihanjeutpeubeurathukomansisalahdarinyangharoihteujadihaiteungkusidi.</p>
+  </li>
+  <li>
+    <p>Tiep‐tiepureungnahakdijakhoe‐hoenyanggalakbandumureungnahak,haicutadoetadueklambataih‐bataihsabohnanggroe.</p>
+    <p>Tiep‐tiepureungnakhakdroepinahdarisaboihnanggroeulaennanggroeteumasoknanggroejiehkeudroedanwoteumaunanggrodroe.</p>
+  </li>
+  <li>
+    <p>Bandumureungdeungonnietdroenahakwehurantoemitasuakanyangkeuhcarawaheisamlakoetapeupluengdroedarihukomrimba.</p>
+    <p>BektapeusabanwaheinyakawanngonpeunjahatkonpoliteknyangdipeupluengdroeatawabuetngontindakannyangmeulawandasangontujuanPBBbunoe.</p>
+  </li>
+  <li>
+    <p>Tiepureungnahakmaseng‐masengdroemeugantoenanggroepatnyangsukameunankheunPBBwaheepangnanggroeteuntanggantoemeugantoewarganeugara.</p>
+    <p>Hanabarangsoebanmangatasoedroepeubateuhakwarganeugaraureungsidroe‐droeatawaban‐bangalakpeutulakhakureungnyangmeugantowarganeugaralageepinahseung.</p>
+  </li>
+  <li>
+    <p>Meunyoebanbandumgalakbokrambothanaleelagotkunengbohlangsatmeunyoeinongngonagamumuejihkacotbeudohhairakanmeukawenleugatagamatawainongkanahakjihhakmeunikahngonmeukeuluarga.Hakmeukawenngonmeuchreepihhanapandangbangsa,warganeugarangonagama.</p>
+    <p>Oreungnyangmeukawen,haiputehlicentakheunmungkenngonpilihandroelintoengondarabaroepeujatohpilihanhanjeutjithamleebarangsoe.</p>
+    <p>Ayah,mangonaneuk‐aneuk,nyoenameunantakheun,haianeukteungkudibaratsabohkeusatuanalamiahmasyarakatnyangmendasa,bandumnalindongandarinegarangonmasyarakat.</p>
+  </li>
+  <li>
+    <p>Nahakateuhatrabagitiep‐tiepureungsidroe‐droeatawabeusamahanjeutdipeukaruelesidroe‐droeureung.</p>
+    <p>Bandumgeutanyoebebahtapeumeugahpeuteubitpeundapathansoejeutceugahinformasingonasoepikeranbebahtamitabebahteurimongngontapeutroktanbataihwilayah.</p>
+  </li>
+  <li>
+    <p>Tiepureungnahak,waheinyakintanateuhkebeubasanpikeran,agamangonateenuranieteumasokmeugantoagamaatawakepeucayaanmeunankeuhdipeuphamleePeunyataanUmumPBBsupayameusampo,waheesamlakoajarannyanharoihtapeuaja,tapeubuet,tapeutaat,sidroe‐droeatawabeusama,dilikeuumumatawasidroe‐droengonbeurangsoe.</p>
+  </li>
+  <li>
+    <p>Bandumgeutanyoebebahtapeumeugahbebahtasanggah,bebahtapeunyoehanasidroeureungjitdiceugahpeu‐peunyangtapeugahbansabanuroemita,teurimongngonpeutrokinformasidanasoepikeran,piehhanjeutsoethampiehbebahtangeuitiepmediahanabatasandidalamnanggroeatawaluarantoe.</p>
+  </li>
+  <li>
+    <p>Tanyoepiehnahakmeusapat‐sapattapeuduekrapattapeugahhabahanjeutsoeceugahhanjeutsoeumpathanjeutsoenathamngoncarapaksa.</p>
+    <p>Nahakbaktanyoebeudongkumpolanmeukawan‐kawanikotpeumiluhanjeutsoepaksaikotkumpolangeutanyoebebahthat‐thatbaktameuikue.</p>
+  </li>
+  <li>
+    <p>Ikotpeumilulangsungngonbebahpilehwakilahnyangtapeucayabeksalahpilehawakwakilahbacutmeusalahpilehnyangbuya.</p>
+    <p>Meunangngontaloekonmasalahjujoengonadepalengutamanahaktaturotlampameurintahmeunyoenyoeceudahpimpenneugara.</p>
+    <p>Nyanghanjeuttatulakkeuheundakrakyatlambandumteumpatlamkuasaneugarakeuheundakrakyatharuihpeuteugahpeundapatliwatpeumilunyangjujoe,adee,bebah,rahasiapeumilumeuseutimurniengonteutapumum,seudeurajat,bebahngonrahsiajeutcihngoncaralaennyangsamamantaptapinyangpeuntengbebahngonrahsia.</p>
+  </li>
+  <li>
+    <p>Tiepureung,seubagoewargamasyarakatnahakateuhjaminansosiainyangutamaoreungnyangpalengmeukaratbektokdimitahareukatdeungonmeugadeenyangbandumpeureuleedemimartabatdroesidroepribadinyangtimohbebahmerdekarotuseuha‐useuhalamnanggroengonluarantoenyangdiuroihngonsumberdayatiepneugara.</p>
+  </li>
+  <li>
+    <p>Tiepureungnahakateuhbuetuseuhabebahdipilehpeunyangjiehsukajiehpiehnahakateuhsyarat‐syaratbuetnyangadeeseureutahaklindongandaripeunganggoran.</p>
+    <p>Tiep‐tiepureung,haiagammeutuah,hanjeutnadiskriminasidalamhaiupahkeubuetyangsaban,beuratngonringaninongngonagamhanjeutnabida.</p>
+    <p>Tiepureungkeureujanahakkeuupahnyangadeedanmeu‐untong,nyangkajeulahnyangnajamenanudeep,nyangnamartabatnalindongansosiai,keudrongonkeurabat.</p>
+    <p>Tiepureungnahakpeudongkumpolandantamongsyarikat‐syarikatseukeureujanyangnanyankeuhcarapeulindongdroedarikaommajikannyangseuwenang‐wenang.</p>
+  </li>
+  <li>
+    <p>Ureungkeureujakonbudakdolatnyangpatohbulatbaktuankurajatanyopiehnahaktameusyarikatkeutameumupakatkeseujahteura.</p>
+  </li>
+  <li>
+    <p>Tiepureungnahakketarapudeepjrohnajaminankeusehatankedroengonaneukbinoeteumasokhakkeuiengonbue,pakaianngonrumohkeusejahteraanngonjaminansosiaiharuihdihiroejaminanpiehbeunakeawakmenganggoeyangsaketngoncacat,trepngonbaroenyangjanda‐jandangonlanjotusiaseureutakaomnyangkureungbeulanja.</p>
+    <p>Mangonaneukbekmeutangilangbaknabeureujangrawatanngonbantuanbandumaneuk,teumasoknyanglaheehareumjaminansosiaineugaraharoihnakeuawaknyan.</p>
+  </li>
+  <li>
+    <p>Haktiepaneuktamongsikula,waheeyaayahnyanghanabiaya,palengubitsikularendahpeundidikanreundahmeuseutipeuwajibsupayatiepaneuksikulateureutib.Peundidikanteukeunikngonjurusanharoihjeulahharuihteupeuhahluahkeuureunglingkameunancitlompeundidekantenggiharoihcitkeuureunglingkasamaseukali.</p>
+    <p>Peundidekanmeuseutipeukeumangpribadidanpeukongpeunghargaanhakasasi“Kebebesanfundamental”bekhanataturibandumnyansabanpeuntenglageebuengonie.</p>
+    <p>Aneukmietlageeiebietngonbueputehsucimurnilageekertahgohteutulehoreungtua,inongngonagam,wajebtaphamawaknyanharoihdibimbengwateepilehpeundidekan.</p>
+  </li>
+  <li>
+    <p>Nyoenasikulaoreungjeutceudahcarongdipeugahseugalarupaseubabnyanpeureulenakeubebasanpeukeumangileumengonkeubudayaan.</p>
+    <p>Nyanghanamudahtaciptakaryakaryaileumee,seuni,sastrangonbudayaulehseubabnyanpeureulelindongankaryailmiah,seuni,sasteurangonbudaya.</p>
+  </li>
+  <li>
+    <p>Tiep‐tiepureungnahakateuhsaboihtatanan,sosiangoninternasiona,meunanbaktaphamlamtatanannyan,hak‐hakdankeubebasanlamPeunyataannyo,peureuleeteulaksanapeunohbaksajan.</p>
+  </li>
+  <li>
+    <p>Tiep‐tiepureung,haibungongkareungnakeuwajibankeumasyarakatluahmasyarakatteumpattiep‐tiepureungpeukeumangkeupribadianngonhanabatah.</p>
+    <p>Tiep‐tiepureungnahakngonkeubebasanlamtapeujalan,meunanpeureuleetakheuntiepureungharuihtundokkeubatasan‐batasanyakniundang‐undangngonpeuraturantujuanundang‐undang,taakue,tapeuhormathakngonkeubebasanureunglaen,dankeutapeujalansyarat‐syaratnyangadeelamakhlak,keutertiban,dankeseujehteraanumumlammasyarakatdemokratis.</p>
+    <p>Hakngonkebebasannyan,hainyakbintangsamaseukalihanjeutmeuteuntangngontujuandanprinsep‐prinsepPeusyarikatanBangsa‐Bangsa.</p>
+  </li>
+  <li>
+    <p>HanjeutnasaboihdalamPeunyataannyoetapeusalahtafsee,haibungongpadeeyaknimeupeujokhakkeusabohneugara,keulompokatawaureungsidroe‐droe.Yaknihakteulibatlamtiepkeugiatannyangmeukeusudmeupeurusakhak‐hakngonkeubebasannyangnadalamPeunyataannyoesalahtafseenyanhanjeutnabeuubeeujungpadee.</p>
+  </li>
+</ol>

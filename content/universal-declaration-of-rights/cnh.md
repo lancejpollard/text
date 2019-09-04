@@ -1,0 +1,122 @@
+<h1 align='center'>Mikip nih ngeihmi thiltikhawhnak tinvo theihternak</h1>
+<h2 align='center'>Biahmaisa</h2>
+<p align='center'>Mi vialte hmaizah upat awk le mi vialte he ai tlukmi thilti khawhnak kan ngei cio ti hngalh khawhnak cu mi vialte i zalonnak, a phungning tein thil tinak le daihnak timi hna i a hrampi a si caah siseh,
+Mikip ngeihmi thilti khawhnak tinvo kha zeirel loin um cu mi vialte i upat awk tlak mi ziaza tha hna kha hrawkralnak a chuahter caah siseh, zalong tein biachim khawhnak, zalong tein biak khawhnak, tihphannak um lo le duhherhnak ah zalong tein um khawhnak kha mi vialte saduhthah ngan pi a si tiah thawngthanh cia a si caah siseh,
+Mi vialte hna kha a phungning lo le zawmhtaih hremuk nak kha hrial awk a that lo caah a hnu bik ah hriamnam a lak i raldohnak a um nakhnga lo mi kip nih ngeihmi thilti khawhnak tinvo kha upadi nih a runven le a khamh awk a si caah siseh,
+Ram khat le ram khat dawhria tein pehtlaihnak kha thanchoternak tuah a herh caah siseh,
+UN chungtel hna nih minung upat tihzah awk a tlak zia, nu le pa hna nih ngeihmi ai khat mi thiltikhawhnak tinvo hna kha UN nih kan upat i kan zumh ko tiah a fehter than cangmi a si caah le minung thanchonak le minung nunnak a dotdot in zalong tein a thancho deuh chin lengmang nakhnga siseh,
+UN chungtel hna nih United Nations he i kawmh in mi kip nih ngeihmi thiltikhawhnak tinvo, zalong tein thiltikhawhnak a hrampi hna kha UN chungtel kip nih kan upat kan zulh ko lai i thazang kan pek ko lai tiah bia kan i kam cang caah siseh,
+Cucaah
+Bupi tonh pumhnak (General Assembly) nih
+Mikip nih ngeih mi thiltikhawhnak tinvo theihternak kha miphun kip nih cinken theihhngalhnak dingah le ram kip nih cun mi kip nih ngeihmi thiltikhawhnak tinvo le zalonnak kha upat le zulh ding, chim chin cio dingah kan ni zuam cio lai tiah siseh, UN chungtel kip ram hna le cu ram ukmi hna chung a um mi minung vialte nih cu mi kip thiltikhawhnak tinvo ngeihmi le zalonnak kha tha tein zulh cio dingah kan ni zuam lai tiah siseh, cu mikip thiltikhawhnak ngeihmi tinvo theihternak kha ram kip le miphun kip nih tlamtling tein kan tuah khawh cio nakhnga kan ni zuam lai tiah a tu thawngthanhnak kan tuah.</p>
+<ol>
+  <li>
+    <p>Mivialtehnacuzalongte,aitlukteleupattihzahawktlaklethiltikhawhnaktinvoangeiinachuakmikansidih.Minungcuachiaathathleidangkhomiruahnakletheihthiamnakziazathaangeimikansicaahpakhatlepakhatdawtnakheipehtlaihnakleihawikawmhnakngeihdingkansi.</p>
+  </li>
+  <li>
+    <p>Mivialtehnacumikipngeihmithiltikhawhnaktinvovialtehepehtlaiinthawngthanhnakcachungahaummithiltikhawhnaklezalonnakvialtehnakhakanngeidih.Miphun,vunhawng,nulepa,holh,biaknak,nainganziruahnakasiloahadangruahnak,ramheapehtlaimiasiloahminungnuncanniamsannakhepehtlaimiahramthilringeihnak,chuahkehnakleadangdangniamsannakruangahpakhatlepakhatthleidannakumterdingasilo.Cuhleiahmipakhataumnakramasiloahmipakhataumnaknainganziruangahsiseh,uknakhmunhmaruangahsisehramkhatleramkhatpehtlainakruangahsiseh,mipakhatumnakhmunhmaruangahsisehrampakhatcuzalongteinaiukmiramasiahsiseh,asiloahUNnihazohkhenhmiramasiahsiseh,asiloahmahteuknakacheubangahmumiramasiahsisehcubantukinuknaktlamtlingahmulomiramasiahsisehpakhatlepakhatthleidannakaumlailo.</p>
+  </li>
+  <li>
+    <p>Ahopaohmivialtenunnaknawl,zalongteinumnaklehimtelethlaphangloteinumnaknawlkanngeidih.</p>
+  </li>
+  <li>
+    <p>Ahohmanhsalzuatnak,salbantukinduhpaohrianfialnak,tuahlodingasilai.Minungkhasalbantukinaphungningloinrianfialnaksalcawknaklezuarnakasiloahcubantukphunphaiasimiriantuannakkhathlauhlekhamdihasilai.</p>
+  </li>
+  <li>
+    <p>Mizeicunghmanhahhremnakpuarthaunakminungbantuksiloinzohchuhnakledantatnakhnakhatuahlodingasilai.</p>
+  </li>
+  <li>
+    <p>Mizeihmanhupadihmaiahminungpakhatasinakkhatheihhngalhpiakdingasilai.</p>
+  </li>
+  <li>
+    <p>Ahohmanhupadihmaiahanitlukciohleiahupadirunvennakahthleidannakumloteinaitlukcioteintincokhawhasi.Hithawngtheihternakchungaummikongkauduhloruangahdohinthleidannak,cutithleidannaktuahduhruangahmidangvasawmnaktimituahsernakinrunvenawkahaitlukcioteintinconakngeihkhawhasi.</p>
+  </li>
+  <li>
+    <p>Phunghramupadiasiloahupadinihmizeipaohapekciomithiltikhawhnakkhaadangmipakhatnihahrawhhralsualasiahcuncuhrawhhralruangahacangmiharnaklefahnakahuahmicaahamahumnakrambiacaihnakzungnihpelloindamterthanlerulhthanaktuahpiakasilai.</p>
+  </li>
+  <li>
+    <p>Ahohmanhupadininglointlaihkhihnak,thongthlaknakleramchunginchuahternakkhaaninterlailo.</p>
+  </li>
+  <li>
+    <p>Thiltikhawhnakletuanvopekmikongkauahbiachahnaktuahtikahsiseh,mahsualnakruangahtazacuaitikahmizeihmanhzalawngteleduhdanhnakaumlomibiacaihnakzungiachuakmimizapihmaiahairuangteleaitlukcioteinbiatheihpiaklecaihpiakasilai.</p>
+  </li>
+  <li>
+    <p>Mizapihmaiahupadininginhlathlaitikahsualnaknangeitiahbiacaihnakzungnihfiangteinbiachahnakaumhlantiangtazacuainakaingtupaohcusualnaknangeilotiahruahansilai.Cubiaancaihtikahsualnakanpuhmicaahpiangteinaleh,achimkhawhnakcaahaherhmikhaanbawmhlai.</p>
+    <p>Mipakhatkharamupadiningleramkipupadininginsualnakasilomiriantuannaklethiltisualnakruangahtazacuaidingasilo.Cuhleiahbiacaihnakzunngnihsuaknakphawtasitikzongahatuardingmidantatnaklengpiinsualnakmankhadantatdingasifawnlailo.</p>
+  </li>
+  <li>
+    <p>Ahohmanhamahduhteindaiteinumnak,amahachungkhar,amahaumnakinn,pakhatlepakhatcakuatnakinsisehupadiningasilomininginamahupatnakleminthatnakahmuhmicaahhranhraminhnahnawhletuaitamnakpekdingasilailo.Ahohmanhcubantukinpakhatlepakhathnahnawhnakletihmuarnakaumahcunupadininginrunvennakpekkhawhasi.</p>
+  </li>
+  <li>
+    <p>Mivialtenihmahpengmahramchungahduhpaohzalongteinthialkamnakleumkalmaknawlanngeidih.</p>
+    <p>Mivialtenihamahaumnakraminsiseh,kadangramdanginsiseh,chuahtaknaknawllekirthannaknawlanngei.</p>
+  </li>
+  <li>
+    <p>Mivialtenihhremnakletuarinnakinanluatkhawhnakhnga,kadangramdangahdaiteindornakleumnaknawlanngeidih.</p>
+    <p>Nainganziheapehtlailomisualnakahsiseh,UNnihaitinhmilecuaitinhmihearalkahmisualnakcaahsiseh,ahmanmithiltuahsualnakruangahtazacuainakainahcunacungleikanchimmimikipngeihmithiltikhawhnaktinvohnahihmankhawhasilailo.</p>
+  </li>
+  <li>
+    <p>Mivialtehnacurampakhatiramchungmisinaknawlangei.</p>
+    <p>Upadininglopiinmipakhatkharamchungminasilotikhawhasilo.Ramchungsinakkhanthlennaknawlnangeilotikhawhzongasifawnlo.</p>
+  </li>
+  <li>
+    <p>Akumatlingcangminulepahnakhamiphunruangahsiseh,rampakhatkhatiramchungmisiruangahsiseh,biaknakruangahsiseh,thleidannakumloteinthitumnaknawlleinnchungkharthartuahsernaknawlanngeidih.Acukanchimminulepahnanihnulevainannifonhtonhianihawikawmhnakanumtiliocaanahsiseh,cuinnchungkharsinakkhahrawhthannakinanithennakahsiseh,ithitumnakhepehtlaiinaikhatmithiltikhawhnaktinvoanngeiveve.</p>
+    <p>Cumonulemopahnacuanpahnihteinlungthinzalongteinthitumnaktuahduhnakanngeihlawngahthitumnaktuahkhawhnaknawlanngeicio.</p>
+    <p>Innchungkharpakhatcumibuiahrampipakhatasi.Cuinnchungkharcumibupileacozahnihzohkhenhkilvenawkarianasi.</p>
+  </li>
+  <li>
+    <p>Mivialtehnacumipakhatnihsiseh,midangahrawminsiseh,thilrihnakhacovongeihnaknawlanngei.</p>
+    <p>Upadininglopiinahohmanhthilritinvonangeikholotikhawhasilo.</p>
+  </li>
+  <li>
+    <p>Mivialtehnacuzalongteinkhuaruahkhawhnak,zalongteinmahruahnakchimkhawhnaklezalongteinduhmipaohbiakkhawhnaknawlkanngeidih.Himikipnihkanngeihmithiltikhawhnaktinvoahmahbiaknaklezumhnakkhazalongteinthialkamkhawhnaklengahmipakhatlawngsiseh,midanghefonhinsiseh,mizapihmailemizapihmailoahsiseh,mahbiaknaklezumhnakkhazalongteincawnpiakkhawhnak,mahzumhmikhazalongteinbiakkhawhnaklethazangzongintuahserkhawhnaknawlzongaitelchih.</p>
+  </li>
+  <li>
+    <p>Mivialtehnacumahduhpaohtelezalongteinruahkhawhnaklemahruahnakkhachimrelkhawhnakkanngeidih.Cuthiltikhawhnakhnacutuaitamnakumloteinzalongteinkhuaruahkhawhnaklengahramlehmunhmazohhaulointhawngpangleruahnakhnakhaphunkhatkhatinzalongteinkawlkhawhnak,hmuhkhawhnaklephawtzamhnaknawlzongkanngei.</p>
+  </li>
+  <li>
+    <p>Mizeipaohnihzalongteledaiteintonpumhnaknawlleabutuahnaknawlkanngei.</p>
+    <p>Ahohmanhkhabupakhatkhatahahramharmlopiinluhterdingasilailo.</p>
+  </li>
+  <li>
+    <p>Mizeihmanhnihmahumnakramuknakkongkauahpumpakinsiseh,zalongteinthimmiaiawhinsiseh,telnaknawlanngei.</p>
+    <p>Mizeihmanhnihmahumnakramacozahriantuannakahaitlukairuangcioteinhmuhletelnaknawlanngei.</p>
+    <p>Mizapiduhnakkharamuknakahahrampiasilai.Mahmizapiduhnakkhaacaankhananthenlaiiahmanmithimnakinaiawhtuhnakhananthimhnalai.Cuthimnakahmivialtehnacuaitlukaikhatmimepeknaknawlangeihleiahcuthimnakahathliteinmepeknakinsiseh,akhatmizalongteinmepeknakinsiseh,tuahasilai.</p>
+  </li>
+  <li>
+    <p>Mizeipaohmibuchungtelasicaahchiatthatkongkauahrungvengtulehnangamtertungeihaherhhleiahnainganzizuamnakinsiseh,ramkipfonhzuamnakinsiseh,ramkipannihruainakleuknakphunglamlevawleitangchuakthilrihnainmipakhatupatawktlakasinaklealungthinaziazakhazalongteinathankhawhnakcaahaherhmichawva,chiatthatkongkauahizawnruahnaklengeihmithiltikhawhnaknunphunghnakhahmannaknawlangei.</p>
+  </li>
+  <li>
+    <p>Mivialtenihriantuankhawhnaknawl,mahduhmipawcawmnakrianhnakhaduhpaohlezalongteinthimkhawhnak,mahtuanmirianahhmuhdingningtehmuhkhawhlengmangiriantuananuammirianhmuhkhawhnaksiseh,riantuanawkangeilomisinakinluatkhawhnakcaahsisehtuahnaknawlkanngei.</p>
+    <p>Mivialtehnanihthleidannakumloteinaikhatmiriancaahaikhatmituanmanhmuhnaknawlanngei.</p>
+    <p>Rianatuanmikipnihamahpumpakcaahleainnchungkharcaahminungtihzahupatawkkansiningteinkaneidinkhawhnakhngaazafangaitlakaizadingintuanmanhmuhnaknawlangei.Aherhasiahcunphundangzonginmidangbawmhnakkhahmuhkhawhthannaknawlangei.</p>
+    <p>Mivialtenihmahthathnemnakrunvenkhawhnakcaahriantuanmibutuahnaklebuluhkhawhnaknawlzongangei.</p>
+  </li>
+  <li>
+    <p>Mivialtenihriantuanmanlahkhahheaitlakairemtiahacaanankhiahmiriantuannakinidinhcaanleazeimawcaanahaitlakairemtiahankhiahmiriantuannakinmanhcaanahdinhnaknawlangei.</p>
+  </li>
+  <li>
+    <p>Mivialtenihamahpumpakcaleainnchungkharcaahngandamtelethateinnunkhawhnakcaahaherhmieidin,thilpuan,umnakinn,siaibawmhnakleaherhmibawmhchanhnakhnakhahmuhkhawhnaknawlangei.Cuhleiahrianangeihlocaan,damlocaan,kutkecawlcanghkhawhlocaan,nuhmeipahmeisicaan,kumkhuaupattikcaan,mahpumpakineidinawkkawlkhawhlocaanlerawleiawkkawlkhawhnaksullamaumlotikah,mizeihmanhnihhnangamlungdaiteineidinleumkhawhnaknawlkanngeicio.</p>
+    <p>Falenulenihlengakchiahnanihahleiceinzohkhenhnaklebawmhnakkhahmuhnaknawlanngei.Upadidingteinaithiumminulevasihnaseh,phundanginaithiummihnasiseh,hrinmifalevialtehnacuaikhatmikilvennak,zohkhenhnakbawmhnakkhahmuhnaknawlanngei.</p>
+  </li>
+  <li>
+    <p>Mivialtehnanihcacawnkhawhnaknawlkanngeidih.Atlawmbikintanglileahramdawmhnakcatanghnakaikhawhnakcumanpekloinkaiteransilai.Tanglitiangcumizapinihcawnhrimhrimdingasilai.Sehleicawnnaklepawcawmnakathamicawnnakhnakhamizapinihcawnkhawhnaknawlanngeilai.Catangsangmicawnnakzongahanthiamnakcungahzohinaitlukcioteincacawnkhawhnaknawlanngeiciolai.</p>
+    <p>Cacawntikahminungthinlungziazathanchonaklawngsiloinmikipnihthiltikhawhnakngeihmitinvolezalongteinumkhawhnakahrampiupatthiamnakzongkhaathanchoakarhkhawhnakhngatimitinhnakhecacawnpiakdingasilai.Cacawnnakcuramkip,miphunkiplebiaknakbukiphnapakhatlepakhattheihthiamnak,tuarinkhawhnak,lehawikhawmhnakkhathazangpetuasilai.CuhleiahramchungdaihnakahmunkhawhnakhngaUNiacawlcanghnaklearianhnazongkhaabawmchantuasilai.</p>
+    <p>Hringtunulepahnacuanngeihmianfalenihancawndingmifimthiamnakaphunphunhnakhathimpiakawkahahmasabiktinvongeituansilai.</p>
+  </li>
+  <li>
+    <p>Mivialtehnanihannunphungleanphunglamahzalongteintuahkhawhnakletelkhawhnak,thildawhserthiamnak(arts)ahzalongteinzulhkhawh,hmankhawhnakleinuamhhnaihkhawhnak,ningcangteintuaktanmifimthiamnaklehngalhnak(Science)thanchoternakcaahzalongteintuahkhawhnak,telkahwhnaklecufimthiamnakiasantlaihnakathathnemnakzongkhazalongteinhmankhawhcionaknawlaum.</p>
+    <p>Mivialtehnacuningcangteintuaktanmifimthiamnaklehngalhnak(Science),catialthiamnaklethildawhserthiamnak(arts)ruangahachuakmitihzahupatnak,tangkalethilrithathnemnakhnakhaanhmuhkhawhnakhngarunvenpiaknaknawlanngei.</p>
+  </li>
+  <li>
+    <p>Mivialtehnanihhithawngthanhnakcatlapchungahatelmileachimmimikipnihngeihmithiltikhawhnaktinvolezalongteinumkhawhnakhnakhatlamtlingteinanhmuhkhawhnakhngapakhatlepakhatipehtlaihnak,ihawikawmhnakleramkippehtlaihnakiathathnemnakhnakhahmannaknawlanngei.</p>
+  </li>
+  <li>
+    <p>Mahnuncansiningziazazalongteinathanchoterkhotumibupakhatthatnakcaahmikipnihtuanvokanngeicio.</p>
+    <p>Mahingeihmithiltikhawhnaktinvolezalonnakhnakhahmantikahmikipnihanngeihmithiltikhawhnaktinvolezalonnakhnakhatheihhngalhpiakleupatawkcaahsiseh,Democracyphunglamahmangmimibucaahziazathateinannunkhawhnakhleiahkhuaramdaihnaklemivialtethathnemnakachuahkhawhnakhngaleairuangteinantuahkhawhnakhngaupadinihriakhiahpiaklai.</p>
+    <p>CumikipngeihmithiltikhawhnaktinvolezalonnakhnakhaUNaitinhmisiseh,UNianphunghramduhnakhesiseh,azeitisihmanhaharalkahinhmankhawhasilailo.</p>
+  </li>
+  <li>
+    <p>Hithawngtheihternakcatlapchungahaitelmimikipnihngeihmithiltikhawhnaktinvolezalonnakhnarawhralnakcaahrampakhatcamibupakhatcalemipakhatcaahtuahnaknawlkangeitiahsiseh,pumpakintuahnaknawlkangeitiahsisehasullamlakdingasilailo.</p>
+  </li>
+</ol>

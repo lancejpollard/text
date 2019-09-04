@@ -1,0 +1,121 @@
+<h1 align='center'>NZA-NGYAMUKUSU WU MISWA MI MUTU</h1>
+<h2 align='center'>THONONO</h2>
+<p align='center'>Mu kibila ti luzabu lu nswa lu woso mutu, mkwa dikanda di bumutu, luidi mbandu kimpwanza, mbandu budedi ayi mbandu ndembama va ntoto;
+Mu kibila ti bunzimbu ayi lulenzo lu miswa mi bumutu binnatanga ku phangulu mavanga manbayuwanga ku tsi-ntima bumutu, ayi mu kutala ti ngizulu yi nza yi bumutu bu kakuka mu matuba ayi mu ngwilukulu-zinzambi, ayi bu kakukeso mu themosono batu ayi mu buya-buphasi, yawu iyamukusu ti ngudi-lutia lu woso mutu;
+Mu kibila ti lukaku lu miswa mi bumutu mu ngolo yi butinu bu mikaka nkinza bene luidi, phasi mutu kabika kutisu kulanda nzila nganzi yi lubayusu lu mtinu ayi lubayusu lu lubyefomo;
+Mu kibila ti msamu-ngudi bene ndatusu ntwala yi bukundi ayi ngwizunu yi zitsi zioso;
+Mu kibila ti mu Pfumu-Mkanda, zitsi zioso zi kinvuka ki Zitsi Zibundana zinyamikis eso diana ayi kivuvu kiawu mu ngudi-minswa mi bumutu, mu bunswa ayi mu buzitu bu bumutu, mu budedi bu kinswa kitedi kuidi babakala ayi kuidi bakhieto; Ayi mu kutala ti baboso bakikinini kuvanga madi nkinza ayi kunata-ntwala mu luzingu lwawu kimpwanza ki mnene;
+Mu kibila ti Batinu boso bangu kinvuka ki Zitsi Zibundana babundidi-thulu mu ngwakunu ayi MYadi kinvuka ki Zitsi zi Bundana mu kusadila lukaku ayi thumunu yi miswa ayi yi maluve ma mutu ayi mvandi bumpwanza bungudi bu mutu;
+Mu kibila ti ndedokosolo kuidi baboso yi mbadulu yi miswa ayi yi bumpwanza bene bu mutu nkinza yidi, mosi mbwakusulu yi dikanu bene yi baka buku bela;
+MTINU-LUKUTUNGUNU Wunyamikisa NGYAMUKUSU YI MISWA MI MUTU emimi, dede lukanu lunsadulu kuidi zinvila ayi zitsi zioso, mosi batu boso ayi binvuka biluyalu bi zitsi zioso, bu ba-mi-tebukila monho, basia-ngolo mu-ku-mi-yiyisa mu zinzo-zinkanda, mu-ku-mi-tumina ayi mu-kwe-mi-yonzulanga mu mavanga ma basi tsi-awu ayi mu mavanga ma basi bandi-batu, bakhembo basi kinvuka ki Zitsi Zibundana.</p>
+<ol>
+  <li>
+    <p>Bizingibiosobisiwutibatubambutukangamukidedikibuzituayikibumswa.Bizingi-bene,batu,badidielaayitsi-ntima,bafwenekuzingilambatzi-na-mbatzi-yandimumtimabukhomba.</p>
+  </li>
+  <li>
+    <p>Batubosobabekidilwakudikutatilamiswaayimaluvema-mayamukusumuMTINU-NGYAMUKUSUewiwi,mukukhambuvengulawosomutu,ketimumatediphilandimbamkandandiyinhitu,evomumatedibukhietoevobubalabwandi,evomumatedimbemboandi,evophilanzambiandi,evomumatediphilapolitikandi,evophilakingudikiandi,evomukibilakinkaka.Ayivala-sa-siwuluswasunukomukibilakitswasunuthadulupolitikayibatumuzitsi,evomukibilakitswasunumswa-nzitumunuyibatu-batumuzitsi,votimukibilakiluswasunulumbutukuluevolukhadulumutumuphila-philatsi,yikimpwanza,evoyintalukuiditsimka,votitsiikosomutsimka.</p>
+  </li>
+  <li>
+    <p>Wosomutuwidimswakuzinga,ku-yi-yadilanavekamukimpwanzaayikuzingamulufiatu.</p>
+  </li>
+  <li>
+    <p>Kwisikomutuwalasiwumubuvika;Buvikaayiphilamambumosomatedibuvikabikanduku.</p>
+  </li>
+  <li>
+    <p>Kwisikomutuwalatulumuthovokoloevomuphasizimakhemi,zi-kunkitisabumutubwandi.</p>
+  </li>
+  <li>
+    <p>Batubosobadinamswau-lendaku-ba-zitusumumambumosomatedibunhitu-mswabwawu.</p>
+  </li>
+  <li>
+    <p>Batubosobadedakanamumikakaayimiswamiluyalu,mukukhambuswasunu,badidedemubutanunuvathalumswa-mtinu.BabosobadidedemuluvelukutanunuvadilosoluswasunulumbayisaNZA-NGYAMUKUSUeyiyiayivadimavangamosomabundimakuidiNGYAMUKUSUeyiyi.</p>
+  </li>
+  <li>
+    <p>Wosokwamutuwidinaluveluku-bwe-tombakusambamambumandimuzinzozimkanuzi-vyakana,dedebuntuminabuka-nkanuyitsiandi.</p>
+  </li>
+  <li>
+    <p>Kuisikomutufwenekubwilu,kukanguevoku-kukusumukhambukukibilakitungu.</p>
+  </li>
+  <li>
+    <p>Wosokwamutuwidimswa,bukawosoyandimutu,mukufundusuvamyalu-ngubamukitezokifwanakuidinzo-mkanuyisonga,inzengamambumubudedeayimubukiedikabumavangamandi,namiswanabulokobwandi.</p>
+  </li>
+  <li>
+    <p>Wosomutuumtatumumavangamambifwenekutwamabongolodibungudimbote,natembelo-andiimmonosomuprocesuyimyalu-nguba,ayimafwanamosomabutanunubwandimantulu-va-tsi.</p>
+    <p>Kwisimutukowalakomomubumbedimumambuoma-zimbukunuevooma-khembosonamadedetimsikumuthanguyi-ka-ma-sadila,evomamkambu-batimambedosovathalumswa-luyalulutsi-andivotivathalumswa-mtinuluyalulutsi-mvimba.Bobwawu,kwisi-koluvelukukomamutumuphasi-mswailutidimkataayiyoimfwenemuthanguyoyawuikamvolambi.</p>
+  </li>
+  <li>
+    <p>Kwisi-komutuwalatatusumuluzingulwandiluswama,evomumambumandimatsi-nzoayimumambumabukandabwandi,evomumambumamikandamyandiminsweki,enativasikibilakitungu-ko.Mukhotolobatuevoluyalumumambumanganamansweki,wosomutumswaayiluvekadikutanunukwidilutumuayimswaluyalu.</p>
+  </li>
+  <li>
+    <p>Wosomutuwidiluveayimswakudyataayikutombanzomuyoso-kwatsi.</p>
+    <p>Wosomutuwidimswaayiluvelukubasikamutsi-andiumkwendakutsi-mka,ayiumku-bwe-vutukakutsi-andi.</p>
+  </li>
+  <li>
+    <p>Wosomutumlandukunukwidiluyaluwidinaluveayimswakutininaayikutanunukutsi-mka.</p>
+    <p>Vangimswa-bewowowisi-kongolovotilutelomumavadamasiwutimbivusuinnenekwidilutumu-mswaluntangununwangati"direitocomum",evomumavadamambimadindambiyizikhanuzimayindumakinvukakiZitsiZibundana.</p>
+  </li>
+  <li>
+    <p>Woso-kwamutumswaayiluvekadimukubakabwisi-tsibwandi.</p>
+    <p>Kwisi-komutumkandukumukhembokibilakitungumubwisi-tsibwandievomukubalulabwisi-tsibwandimubwisi-tsibumkaka.</p>
+  </li>
+  <li>
+    <p>Tonabankitukaditokoayindumbabanhieka,kimbakalaayikikhietomswaayiluvelwawubadimukukwelaayikuvangadikanda,mukukambukandukumukibilakimambuma-tediphilandimbayimkandanhitu,evomukibilakimambumatediluswasunulubwisi-tsi,evomukibilakimatediluswasunuluzingwikukulu-mu-zinzambi.Ayimudikwelaayimumbanusunudikwela,badimiswadede.</p>
+    <p>Dikweladisi-ko,enatiba-veka,kikhietonakimbakalabasadi-tyako.</p>
+    <p>Dikanda,thononotsiayimvila-mvimba,bwawu,mswadidimukukakukwidiluyalu.</p>
+  </li>
+  <li>
+    <p>Wosomutu,navekaevomumkangu,luveayimswakadimukuvwayandinzoevoyandikhadi.</p>
+    <p>Kwisimutukolendayimununzo-andifekavotikhadi-andiveka.</p>
+  </li>
+  <li>
+    <p>Wosomutumswaayiluvekadikukimpwanzakimayindu,kitsimtimaayikiluwiluku;Mswabewowoumvanaluvekwidiwosomutulukubalukamuluwilukuevomumayindu,namumbonosonoluwilukulwandiayimayindumandi,vanafekaevovambo-yi-batu,nafekavotinambatzi-andi,muzikhadulu,mumalongievomutsambuduluayivotimuphilabipa.</p>
+  </li>
+  <li>
+    <p>Wosomutumidinaluveayimswayikimpwanzakibakadyandidibanza,yandimbaduluayidyandidituba,ayibo-bwawu,widinamswaukhembobunduluvayilumabanzamandievowidiluvelukutombamadimkinzamokayambaayikatyakisa,mukukambukuminkakaevozindilu,mambuayimayindumandimosomuyosokwandiphilambemo.</p>
+  </li>
+  <li>
+    <p>Wosomutuwidinaluveayimswamukimpwanzakilubundunuayikithwadiayibadi-andi,kivimbandembamaikinzuku.</p>
+    <p>Kwisi-komutumtisumungolokukotamukithwadi.</p>
+  </li>
+  <li>
+    <p>Wosomutuwidimswaayiluvelubyalulutsi-andi,mubunafekaevomubumvwala.</p>
+    <p>Wosomutuwidinaluveayimswawo-wawuwidibadi-andimukubamyadi.</p>
+    <p>Lutyalubasi-tsilwawudibandudibuyadiayibupfumubutsi;Ayilutyabenelufwenekumonikinangamuzivotizikyedikamutsiayizinswekangabutinuayibwisi-tsi.</p>
+  </li>
+  <li>
+    <p>Wosomutu,bukadimwisi-tsi,widimswaayiluvekusikumumu"segurançasocial",ayilendakutombambanusunu-nzalayimatedimu"económico",mu"social"ayimu"cultural",vambatalusadusuayinguvuyitsi-andi,yibukhombabutsi-andiayizitsizimka,ayidedeluviakusulumakanhimatsi-na-tsi.</p>
+  </li>
+  <li>
+    <p>Wosomutuwidinaluvenamswakusalakisalu,kusolakisalukyandimukimpwanza,mukhikununubufwanhibwidiayikisalubeneayimbakulu-andimukisalubene.Woso-kwamutuwidiesoluveayimswakukakukubuphumbulu,votikukakukubukhambu-b-kisalu.</p>
+    <p>Batubosobadimswaayiluvekubakilambakuluifweneayiiniediminaayikisalukyawu.</p>
+    <p>Wosomutunsalangawidimswakubakamfutuuyediminaayikisalukyandi,oun´fwanamuku-i-zingisanavekaayimukuzingisadikandadyandi,tibakabubela,ayesomulusadusulubukakulu"protecçãosocial".</p>
+    <p>Woso-kwamutuwidinamswaayiluvekuvangabimvukakithwadibisadievo"sindicatu",ayibadi-andi.Widiesomswakukotamukimvukaki"sindicatu",phasikanwanina-luzingulwandilukisadi.</p>
+  </li>
+  <li>
+    <p>Wosomutuwidimswaayiluvelutsakuluayiluphunduluimnfutumuthanguifweneayiphilakisalukyandi.</p>
+  </li>
+  <li>
+    <p>Wosomutuwidimswaayiluvelukunataphilaluzingulufwana,phila-mweka,mbakulu-andiidukathanunubuvimpi,botebwandibunzingulu.Mbakulu-andiifwanambakulubidya,mbakulumvwatu,nzo,mbakulumbukulukimbevo.Ayimubuyaasyimupfwilulunnunievomkazi,ayimubununu,ayesomuphasizizimbisabimabyandibioso,mukukambukulutyalwandifeka,mutu-ewowomswathanunuyikimvukaki"segurançasocial"kadi.</p>
+    <p>Mbutuayibwana-tsombibifwenekusadusumuphila-mkaimbote.Ayibanabambutukamudikwelaayibanabambutukamungandaluveayimswadedebadivathalulusadusulukimvukaki"protecçãosocial".</p>
+  </li>
+  <li>
+    <p>Wosomutuwidimswakulongamkanda.Nzo-mkandaifwenekubaipholo,ayimkutunzo-mkandaithetibantedilangati"ensinoelementar".Nzo-mkandayi"ensinoelementar"ikwikukwidibatubosoyidi.Nzo-mkandayi"técnico"ayiyikwiyilakisaluevo"profissional"zifwenekuzibulumumumamoso,kwidibatuboso.Khotolonzo-mkandayilukumuifwenekwidibabosodedemakanhimawu.</p>
+    <p>Nzo-mkandaifwenekusongisaayikunatisabatumunzilabumutu-tungu,ayimukhwetolomiswaayimaluvemakinvukakiZitsiZibundana,mukutwadisabatumunzilangwizunu,munzilamlenvoayimunzilabukhombaayibundembama.</p>
+    <p>Masyabadinaluvelukusobudilabanabawuphilanzo-mkandabafwene.</p>
+  </li>
+  <li>
+    <p>Wosomutuwidimswaayiluvemukukota,mulutyalwandifeka,mukimvukakitsakuluvabundikubwandi,mosikatombanhienziyibiphangula-biphangulaayibutomosobuluzabu.</p>
+    <p>Batubosobadiluvelukukakuummamosobansilanga-dyanamatedibisalubidyeladyawu,bibundwengibwawuayibisonabyawu.</p>
+  </li>
+  <li>
+    <p>Wosomutuwidimswaayiluvekusya-dyanativadiphilangyatusulunzailendatumisaayivangisamiswaayimaluvemaNgyamukusueyiyi.</p>
+  </li>
+  <li>
+    <p>Wosomutuwidinazithumuzi-ka-fwenekusadilavamesomabundikubwandi,khinukalendibaka-kobukukonzukilaumbumutu-tungubwandi.</p>
+    <p>Thumukunumiswaayimaluvemosoemamayidimumkambamisikumiluyalu,ominnata-ntualabuzitububatu-i-batu,bunswaayibuphwanza,ayibuvumibubifu-bi-mbote,ayibuvumimutsiibu-"democracia".</p>
+    <p>Kanikitokusadilamiswaayimaluvemosoemamamuphilamwekaivyakasanaayimabanzamangudimandi,omakimvukakiZitsiZibundana.</p>
+  </li>
+  <li>
+    <p>KadimsikuwuNZA-NGYAMUKUSUeyiyiulendavumbulumuphumbuduluinnatisatsivodingumbamumavangamatholomonomiswaayimaluvebene.</p>
+  </li>
+</ol>

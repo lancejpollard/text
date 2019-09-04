@@ -1,0 +1,122 @@
+<h1 align='center'>Detlaraziun Universala di Dërć dles Porsones</h1>
+<h2 align='center'>Pream</h2>
+<p align='center'>Deache le reconescimënt dla dignité de düć i mëmbri dla comunité dla jënt y di medemi dërć inalienabli, é la fondamënta dla liberté, dla iustizia y dla pêsc tl monn;
+deache la manćianza de reconescimënt y le desprijamënt di dërć dles porsones à portè pro a ać de barbaria, che ofënn la cosciënza dles porsones y deache al é gnü anunzié che n monn, olache les porsones à la liberté de parora y de religiun y la liberté da tëma y meseria é la majera aspiraziun dla porsona;
+deache al va debojëgn da defëne i dërć dles porsones cun normes iuridiches a na moda che la porsona ne vëgnes nia sforzada da adorè la rebeliun sciöche ultimo meso cuntra la tirania y l’opresciun;
+deache al va debojëgn da sostignì le svilup di raporć d’amizizia danter les Naziuns;
+deache i popui dles Naziuns Unides à reconfermè tl Statut süa crëta ti dërć fondamentai dla porsona, tla dignité y tl valur dla porsona, tl’avalianza di dërć danter ël y ëra y à tut la dezijiun da promöie le progrès sozial y de mius condiziuns de vita te na majera liberté,
+deache i Stać mëmbri s’à tut dant da miré, en colaboraziun cun les Naziuns Unides, al respet y al’osservanza universala di dërć dla porsona y dles libertês fondamentales;
+deache na comprenjiun coletiva de chisc dërć y de chëstes libertês é de grandiscima importanza por realisé deplëgn chëstes oblianzes,
+protlamëia la Reuniun Generala
+chësta detlaraziun universala di dërć dles porsones sciöche ideal coletif da arjunje da düć i popui y dötes les Naziuns, a na moda che vigni porsona y vigni organn dla sozieté se sforzes, tignin tres amënt chësta Detlaraziun, da sostignì cun l’insegnamënt y l’educaziun, le respet de chisc dërć y de chëstes libertês, y da garantì tres mosöres nazionales y internazionales progressives, le reconescimënt universal y efetif y le respet danter i popui di Stać mëmbri y chi di teritori sotmetüs a süa iurisdiziun.</p>
+<ol>
+  <li>
+    <p>Döteslesporsonesnasclëdiesycunlamedemadignitéyimedemidërć.Aresànarajunynacosciënzaymësss’incuntèönacunl’atratenspiritdefraternité.</p>
+  </li>
+  <li>
+    <p>Avigniporsonatispételdüćidërćydötesleslibertêsprotlamàtechëstadetlaraziun,zënzadegönadesfarënziaporviadlaraza,dlcorùdlapel,dlses,dllingaz,dlareligiun,dl’opiniunpoliticaoden’atrasort,dlaprovegnënzanazionalaosoziala,dlarichëza,dlanasciüdaoded’atrescondiziuns.Alamedemamaniranepolgnìfatdegönadesfarënziaporlaposiziunpolitica,iuridicaointernazionaladlpaîscodlteritoredechëlchelaporsonafejpert,anfatscechëscéindependënt,sotan’aministraziundecrëta,niaautonomosotmetüaval’sortdelimitaziundesovranité.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdevita,delibertéydesegurtédlaporsona.</p>
+  </li>
+  <li>
+    <p>Degönaporsonanepognìtignidatestlavitéosorvidù;lastlavitéylecomerzdestlâfstebelanfatćiformaéproibis.</p>
+  </li>
+  <li>
+    <p>Degönaporsonanepognìsotmetüdaatortöra,tratamënćcrödi,inumansoumilianćopuniziuns.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtchealtivëgnesreconesciüindlunchsüapersonalitéiuridica.</p>
+  </li>
+  <li>
+    <p>Döteslesporsoneséanfatdanlalegeyàledërt,zënzadegönadesfarënzia,dagnìdefenüdesdalalegealamedemamanira.Döteslesporsonesàledërtdagnìdefenüdesalamedemamodacuntradevignisortdedescriminaziuns,chevacuntrachëstadetlaraziunycuntravigniimpiziamëntanate’descriminaziun.</p>
+  </li>
+  <li>
+    <p>VigniporsonaàledërtdenaposcibilitérealaderecursproitribunaistataicompetënćcuntraaziunscheviolëiaidërćfondamentaichetivëgnreconesciüsavigniporsonadalaCostituziunodalalege.</p>
+  </li>
+  <li>
+    <p>Degönaporsonanepognìarestada,saradaiaoesiliadaarbitrariamënter.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërt,tenaposiziundeavalianzaplëna,an’audiënzapublicayvaliadanntribunalindependëntyimparzial,cunnadeterminaziundesüdërćydesüdovëis,sciöchedevigniacüsapenalatesüconfrunć.</p>
+  </li>
+  <li>
+    <p>Vigniporsonachevëgnincolpadadenreatàledërtdagnìreconesciüdasciöcheinozënta,ćinachesüacolpaneéniagnüdacumprovadaaladôdlalegetenprozèspublich,olachearaàalbüdöteslesgaranzieschevadebojëgnporsüadefenüda.</p>
+    <p>Degönaporsonanepognìcondanadaporviaden’aziunonatralascianzacheneêniapuniblatlmomëntdl’esecuziun,aladôdlordinamëntiuridichnazionalointernazional.Implünepolniagnìdènasanziunplüaltacochëraaplicablatlmomëntchelereatégnüeserzité.</p>
+  </li>
+  <li>
+    <p>Degönaporsonanepognìsotmetüdaainterferënzesarbitrarestesüavitaprivata,süafamilia,süaćiasaysüacorespondënzaognìofenüdatesoonurysüareputaziun.Vigniporsonaàledërtdagnìsconadadalalegecuntrachëstesinterferënzesoofenüdes.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdasemöielediamëntertenstatydasechirìforasüaresidënzalediamënter.</p>
+    <p>Vigniporsonaàledërtdas’unjìdanpaîsc,inćedalsò,ydagnìzoruchtesopaîsc.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdachirìydaciafèted’atripaîscasilcuntralespersecuziuns.</p>
+    <p>Chëscdërtnepodaràniagnìghiréscelaporsonavëgnveramënterchiridaporreaćchen’éniapoliticsoporaziunscuntraifinsyiprinzipsdlesNaziunsUnides.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdaavëinazitadinanza.</p>
+    <p>Adegönaporsonanepoltignìtutarbitrariamënternosüazitadinanza,noledërtdabaratèzitadinanza.</p>
+  </li>
+  <li>
+    <p>Ëiyërescunn’etéadatadaàledërtdasemaridéymëtesöfamilia,zënzalimitaziunderaza,zitadinanzaoreligiun.Aiàimedemidërćporćichereverdalematrimone,tratanlematrimoneycanchealvëgndeslié.</p>
+    <p>Lesporsonespomagnìdadesadömcunleconsënslëdeyplëgndinüc.</p>
+    <p>LafamiliaélabasanaturalayfondamentaladlasozietéyàledërtdagnìdefenüdadalasozietéydalStat.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdaavëinaproprietépersonalaodeboriadacund’atri.</p>
+    <p>Adegönaporsonanepoltignìtutarbitrariamëntersüaproprieté.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdelibertédepinsier,cosciënzayreligiun;chëscdërttolitelalibertédamudéreligiunofede,ydamostrè,dassoraodeboriadacund’atri,tlpublichotlprivat,süareligiunosüafedetlinsegnamënt,tlapratica,tlcultytl’osservanzadirituai.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdelibertédeminungayespresciun,cunlapròledërtdanegnìniascintinéporsüaminunga,ydachirì,ciafèydèinantinformaziunsyideestresvignimesoyzënzatignìcuntdeconfins.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdaseincuntèyseassoziéenpêsc.</p>
+    <p>Degönaporsonanepognìsforzadadafàpertden’assoziaziun.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdatópertalgoverndesopaîsc,sidesdiretamënterchetresrapresentanćchirisforalediamënter.</p>
+    <p>Vigniporsonaàledërtdatirovépormezalesmedemescondiziunsaiposćdelaûrpublicstesopaîsc.</p>
+    <p>Laorentèpopolaraélafondamëntadl’autoritépublica;chëstaorentèmëssgnìaespresciuntreslîtesregolaresydërtes,universalesyvalies,cunlitaziunsocrëtaon’atraprozedöraecuivalëntaanavotaziunlëdia.</p>
+  </li>
+  <li>
+    <p>Sciöchemëmberdlasozietéàvigniporsonaledërtdesegurëzasoziala,sciöcheinćedarealisétresmosöresnazionalesylacolaboraziuninternazionala,tignincuntdl’organisaziunydlesressursesdevignistat,idërćeconomics,soziaiyculturaichevadebojëgnporsüadignitéylesviluplëdedesüapersonalité.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdapodëilaurè,dasechirìforalediamëntersüaprofesciun,daavëicondiziunsdelaûriüstesydalversydagnìdefenüdacuntraladejocupaziun.</p>
+    <p>Vigniporsonaàledërtdaciafèlemedemopaiamëntporlemedemolaûrzënzadescriminaziuns.</p>
+    <p>Vigniporsonachelaôraàledërtdaciafènpaiamëntadatèydalverschetigarantëscesad’ërayasüafamilian’esistënzaaladôdladignitéumana,integradascealvadebojëgn,cund’atresmosöresdeproteziunsoziala.</p>
+    <p>Vigniporsonaàledërtdamëtesösindacaćydajìlapròpordefënesüinteresc.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdapalsèydaavëitëmplëdeydantadötnalimitaziunadatadadlesoresdelaûryferiesperiodichespaiades.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdaavëinstandarddevitachegarantëscessüasanitéysobëgnesterychëldesüafamilia,tignincuntdantadötdl’alimentaziun,dlguant,dl’abitaziun,dlescuresmedichesydisorviscsoziaichevadebojëgn,sciöcheinćelasegurëzatlcajededejocupaziun,maratia,invalidité,vedovanza,vedlëzaoscearaperdaval’atramodaimesidesostëgn,porviadecondiziunschenedepënnniadad’ëra.</p>
+    <p>Lesumesyimitunsàledërtdaciafècuresspezialesysostëgn.Düćimituns,nasciüstlmatrimoneodeforadad’ël,mëssciafèlamedemasconanzasoziala.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdaciafèn’istruziun.L’istruziunmëssesteraltamoporćichereverdalascoraelementaraylaformaziundebasadebann.L’istruziunelementaramëssesterobligatoria.Döteslesporsonesmësspodëiciafèn’istruziuntecnicayprofescionalaytirovépormezalamedemamaniraal’istruziunaltaaladôdesüescapazitês.</p>
+    <p>L’istruziunmëssseorientèalsvilupplëgndlapersonalitéumanayalrenforzamëntdlrespetdidërćdlesporsonesydleslibertêsfondamentales.Aramëssportèproalacomprenjiun,toleranza,amiziziadanterdöteslesnaziunsyigrupsraziaiyreligiuscysostignìl’ativitédlesNaziunsUnidespormantignìlapêsc.</p>
+    <p>Igenitursàledërtdeprioritédachirìforal’istruziundesümituns.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdatópertlediamënteralavitaculturaladlacomunité,dasegodelesertsydatópertalprogrèsscientifichyasübenefizi.</p>
+    <p>Vigniporsonaàledërtcheiinterescmoraiymateriaichevëgndasüaproduziunscientifica,leterarayartisticavëgnessconà.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàledërtdaavëinordinnsozialyinternazional,olacheidërćyleslibertêsnominadestechëstadetlaraziunpognìrealisàdeplëgn.</p>
+  </li>
+  <li>
+    <p>Vigniporsonaàdovëisdeverslacomunité,deachemadailòvaradasedaurìalsviluplëdeyplëgndesüapersonalité.</p>
+    <p>Daeserzitésüdërćysüeslibertêsmëssvigniporsonamagnìsotmetüdaachëslimitaziunschevëgnfatesforadalalegeporgarantìlereconescimëntylerespetdidërćydleslibertêsdiatriyporademplìidërćbojëgnsdlamorala,dlordinnpublichydlbëgnestergeneraldenasozietédemocratica.</p>
+    <p>ChiscdërćychësteslibertêsnepoadegönamodagnìeserzitàcuntraifinsyprinzipsdlesNaziunsUnides.</p>
+  </li>
+  <li>
+    <p>Degönadesposiziundechëstadetlaraziunnepognìinterpretadaanamodadatidèinsaćidërtanstat,ngruponaporsonadaeserzitén’ativitéon’aziunportóyjìidërćyleslibertêsnominadestechëstadetlaraziun.</p>
+  </li>
+</ol>

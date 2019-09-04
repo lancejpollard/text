@@ -1,0 +1,121 @@
+<h1 align='center'>Munextia muchi ipal ne tehtechan tay tupal</h1>
+<h2 align='center'>AXTU PAL TIPEWAT</h2>
+<p align='center'>Weli muina ga ne tamagixti ne tuktiani wan ne nehmachnemit tik ne tahtal gipia pal tezilnah ne tay gichiwtuk tay gatka tesu genga tay maya tupal muchi ne pal tu iknuwan.
+Weli muina ga te gixmati wan ne tay gatka tesu datka tu patiw tal gichiwtiwit tesu tik tupal te geman inatiwit tay pal tehemet, wan inatiwit ga gichiwtiwit inatiwit ga ginetuyat gichiwat ne pewa muchi pal se techan gan ne tagamet teya mahmawit wan welit inat tay gichiwat tay yek.
+Weli muina ga pal ne tahtagamet nemi gah gipalewia gah gituktia pal gita ga ne tagat muita ga te weli yawit gah tesu gichiwa yek.
+Weli muina ga ne tehtechan pal ne tuhtumak sen nemit techan inatiwit tik ne amatageza inatiwit ga nemi tay ipal ne tagat gitaget geski tu patiw wan gan tigengat pal ne tagamet wan ne siwatket; wan inatiwit ga mu magixtihtiwit pal gitat tay gichiwat pal gipiat wan welit nemit ihtig ipal se mas patawak ipal ne tamagixti.
+Weli muina ga ne tagutun tupal inatiwit ga kia tik palewiat wan tay mupuzuwat ipal ne sen nemit techan magitagan gen se tahtuli pal muchi ne tal wan yahiga ne tamagixti ipal ne tagat.
+Wan muweli muina ga san se pal ini tay tupal wan ne tamagixti yaha tay mas timunegit pal tikchiwat tay tinatiwit.
+Ne musepuzuhket muchi ne tahtalmet
+Ina tay munextia muchi ipal ne tehtechan tay tupal wan tumak tahtal ma puzihtiwit ginegit gichiwat ihtik tamachtiagan pal mumachhtiat pal welit, nehmach nemigan pal ne tupal tamagixti tay tupal wan tamachiwa gen ipal ixkáliu tu techan wan tepal techan su tikchiwtiwit wan muchi ma gichiwagan wan yek tagutun ihtik ne tehtechan muchi gen ihtik ne tahtal talihtiwit gaitan tay ipal.</p>
+<ol>
+  <li>
+    <p>Muchinetaygentuweyganestiwittamagixtigengatikekneliatwanipalwangichiwtiwitipalmamunegigannesepalnese.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelittinatiwantamagixtigainatiwittikininextiwitpalnuhmetehemettilqiluya,siwatutagatgentageza,ganmutanwageza,tayyahagimatigaweliinapalnetechanupalmuchisugipiaute,nestukuganyahaginegi.Teyamuixtemuwataymuchiwtukpalnegalpuliutepaltalipalnetutaltaynetupalukseiseltalgensetalgipiaiteguyutesuiselugipiaukseiteguyu.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelittinemitnetamagixtiwangayahaiselmutuktia.</p>
+  </li>
+  <li>
+    <p>Tesuagaweligichiwatayteginegitewelitegitigahiwanyahatesuginegiwantesuwelitgiahwatnantesuwelittechchiwatdatka.</p>
+  </li>
+  <li>
+    <p>Tesuagawelimezilpiamaixtunautechsumatgentesuyek.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelit,gantinemitmuixtiyanetuamaw.</p>
+  </li>
+  <li>
+    <p>Ixpannetahtulimuchitigengawangipia,gengaipatiwyupalgipalewianetahtuli,muchigipalewianetahtuligahinagatehemettesudatkatupatiwyuwangahinagengagatehemettesudatkatupatiw.</p>
+  </li>
+  <li>
+    <p>Muchitehemettikpiatutiwelitiktahtanitganwelittechpalewiyatqakginegittechixtiliattaytupalwantaynemitikneamatupalnetahtuli.</p>
+  </li>
+  <li>
+    <p>Teagahwelitgitenzaqatnanwelitgituktiyatgauksetechan.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelitgamuchitigengamunextiagagigagitgasegalpuligantatuktiyatuganmuwelipalgitattayipaltayginegitmagichiwatupalgitatsuyekuteyektaygichiwa.</p>
+  </li>
+  <li>
+    <p>Muchitehemettikpiatgentiwelittinatmainagangatesuyahagichiwtuksutemumatisuyahagichiwtukgeninanetahtuliwanmuinataymunechtiwittaymunegipalyahatewelitgitenzaqat.</p>
+    <p>Teagawelitigilwiatgayahagikchiwtuksutegichiwtukgatesudatkagichiwtukgentupaltahtulitalutepaltal.Nannusanweligilwiyamatachtawitayahatesugichiwtuk.</p>
+  </li>
+  <li>
+    <p>Teagaweliinadatkaipampasutesugimatittayyahagichiwa,waniknuwan,itechanwanigalwaniamattageza,nantayyawimainatipampaipaltayaha.Muchitehemettikpiatixpannetahtulitechpalewiattayawigatehemetwantaytehemettesutikchiwtiwit.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelittinehnemigantehemettiknegit.</p>
+    <p>Muchitehemettiwelittigisatpaluksetepaltechanwantiwelittimuqepattiknetechan.</p>
+  </li>
+  <li>
+    <p>Wansugensetehemetgitemuwatweliyawitikuksetechangitemuwaganwelinemi.</p>
+    <p>Wantesuwelitgitahtanitnetahtulisuyahagimatigagichiwtuktayinatipalutayyawiihpaktayipalnesentalmet.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelittigixtiattuamawtagezapalgimatitgachanetehemettitechantagamet.</p>
+    <p>Tesuagaweligiixtiliapalyahatechanchanenanweligipataganyahanestuk.</p>
+  </li>
+  <li>
+    <p>Netagametwannesiwatgetqakahsinexiwitgawelitmunamiktiatwelitmunamiktiatpalgiiskaliatipihpilawanwantemuitagenitachixkamulatuhumezali.Wangengawelittayipalsennemitumuahkawat.</p>
+    <p>Mayasuyehemetginegitmunamiktiatwelitmunamiktiatsutétesu.</p>
+    <p>Neiknewsetagutunpalnetezilnapalnetechanchanehket,wangipiataipalixpannetechanwanpalnetalmet.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelittikpiatmayatupalwannusantiksempiat.</p>
+    <p>Tesuagawelitechihtiliataytupal.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelittikchiwattaytiyultageza,tayahaweligikchiwawanganginegimutanwageza;initayipalgikchiwatgatiwelittikpatattaytehemettiknegitugantiknegittimutanwagezat;kiunigennetamagixtimunextiagantehemettiknegittimutanwagezatmayaseumuchi,ixpanmuchiutusel;paltikmachtiat,netaytikchiwat,negantitagezawanganmuita.</p>
+  </li>
+  <li>
+    <p>Muchitehemetwelitikpiattamagixtipalinatayyekuté;initaytupalyekpalteagawelitechilwiatgatesuyektaytikchiwat,wilitiawittigitatwanwelittechilwiatwanwelimuinasuyekuté,wanwelimuilwiamuchi,tesumayanigansutéganmuweliinawangenmuweliina.</p>
+  </li>
+  <li>
+    <p>Muchitehemettikpiattamagixtipaltimupuzuatwanganmupuzuatpaltikchiwattayyek.</p>
+    <p>Tesuagawelimezilwiamaxinemigantesutiknegi.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelitnemitiknegalpulipalnetutechan,welittinemitutiktuktiatuksemanemitupampa.</p>
+    <p>Muchitehemettiwelittigalagitganmuchitigengatgichiwattayipalnepalnetahtuli.</p>
+    <p>Taygineginetechanganetezilnapaltanawatianiipalmuchitehemet;initaytiinatpalmuchipalqaktiawittaytiinatgahyawigituktianetechan,initaymuinatiawittikchiwatqakyamuqepatikinatgayamupatauksegagituhtianetechan;palmuchiinatgayahawelinagapaltatuktiawantaymuinamayatehemettikmatitpalgatinatiwitwanuksewelimuchiwamainaganemiyek.</p>
+  </li>
+  <li>
+    <p>Muchitehemetgensepalneganpuzuatweligipiagalwanganyawipahtiawanmumachtia,wangipiagansuginegigichiwapalnetechanwanpalnetepaltechantaygipianeganahsimusempuzuatwantaygipiaipalnetechan,gunihwelitayyahagipia,yahagipiamuchitaymunegi,wantaygichiwagatka,tayyahamunegiipalwantayweligichiwatayyahamunegi.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelittitegitit,palinatayginegigichiwa,taygengagenukseyuktegititmamumatiyekwanwelimutahtaweliagatesugimagatgantegiti.</p>
+    <p>Muchitehemettiwelittiktahtamitipatiwnetegiwgengagengitaxtawatneukseyuk.</p>
+    <p>Muchitehemetwelittikpiatmatechtahtawigangengapalmumatiyek,palgimatigaipalwanpaliknewpalixtunapalmuchiyehemetwanpaltamigichiwatgaukseyukganwelitgipalewiat.</p>
+    <p>Muchitehemettiwelittikpuzuwatwanwelitimuchiwatsepalganmupuzuatpalmupalewiatayipal.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelittimusewiat,wanpaxaluwaqaktesutegiti,wanqaktegitimategitiaxtaqakinatiwit,wanqakpaxaluwamagitaxtawigangentegitisgia.</p>
+  </li>
+  <li>
+    <p>Muchitehemetwelittikpiatmatinemiganyekmawelinemiyekyahawaniknew,magipiapalmupahtiawanpalnemiyek,wantaygiqa,qahqax,gal,ganyamupahtiawanpalmuchitayyahamunegi;gipianusangangitaxtawatsutegipiategiw,guguya,tewelinehnemi,gamigiigumpa,gachulét,wanuksekseyukgagipuluhtuktayyahatesuginetuya.</p>
+    <p>inanwanqakgunetgipiatnusangagitahpiatwangagitamanemiyek.Muchineguhgunet,nestiwitipalmunamitihtiwitutesu,gipiatnusanpalipaltaymuchigipiat.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelittimumachtiat.Wantimumaxtiatmatetechtahtaniipatiw,paltimumachtiattaytimunegit.Paltimumachtiattimunegitmatechilwigangantiawittimumachtiat.Taytimumachtiatpaltiwelittiinatyektaytiknegittiinawaniniwelinemipalmuchitesupalmayase;palmuchineganmumachtiatganwelitgengapalmuchi,suweligichiwatayyahaweli.</p>
+    <p>Netaytimumachtiatnemipalweyataytigixmatiwanpaltesuagatechchiwadatka;palweligimati,palyahkawatgichiwatayyahaginegi,paltetimuqalantiatwanpaltimunegitnuhmenetalwanmuchineganmupuzuattesuinatdatkapaltyutuwanmutanwageza;wanyahamugumuntiapaltamiqigatayginegigichiwapalnenuhmenetalmetpalteagamuchiwadatka.</p>
+    <p>Netehteguweligitattaywelitgimachtiatneguhgunew.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelittikchiwattaygichiwanetechantagamet,palwelitmuyulqesuwattayyehemetwelitgichiwat,wanwelinemitnegagimatiinataygichiwawantaygimagaipatiwtayyahagichiwtuk.</p>
+    <p>Muchitehemettiwelittigitatsuyekute,taytehemettikchiwtiwit,tayyahaipalpalyahagichiwtuktiknetaytesuagagimati,tawawasuawantilqilua,mihtutia,gixpiza.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelittiktahtamitmagichiwagantayinatiwitgagiawigichiwattaytupaltamagixtitayinextiwittiktayinatiwitmagichiwaganpaltenagamayatikamat.</p>
+  </li>
+  <li>
+    <p>Muchitehemettiwelittikchiwattayipalnetechangamayaipalyahaweligichiwatayyahaweligamumaxtihtuk.</p>
+    <p>Tiktayahagichiwapalteagagilwiadatka,muchitehemetwelinemitaygilwiatchupitainanetanawatiani,wanpalmayagitagatayahaipalwantamagixtiipalmuchiwanmumatiyektaygilwiatmagichiwaipampaukseyuk,tayyektatuktiat,tayyek,netatuknianitpalmuchiwanpalnemiyekmuchitiksegantinemitgantesuagatechilwiatdatka.</p>
+    <p>Initaytupalwantamagixtitesuweliqaktesutiknegitqaktetiknegittaysutiawittinattaytesuyekpalnesentalmet.</p>
+  </li>
+  <li>
+    <p>Tesudatkatayginechtiwitwelitinattesuwelitgimatitgengimagataipalpalseganmusempuzuatupalnetechan,palpewatgichiwatugichiwattaypalgitahtanitaytesuginegigikchiwatpalnetayinatiwittiginitayginechtiwit.</p>
+  </li>
+</ol>

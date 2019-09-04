@@ -1,0 +1,121 @@
+<h1 align='center'>Sran mmla mun be mɛn nun jɔ bolɛ</h1>
+<h2 align='center'>Ibo bolɛ</h2>
+<p align='center'>Kɛ ɔ fin kɛ sran kwlakwa i sran bulɛ ɔ fin blɔlɔ'n ti, kɛ i sran-mmla ɔ nin sran kwlakwla liɛ'n sɛ'n ti, kɛ isɔ nin ye ɔ nin fɔundi, nanwlɛ atin, aklunjɔɛ ba mɛn nun'n ti
+Kɛ ɔ fin kɛ sɛ be si'a sran-mmla mun, nan sɛ be bu'a be like fi, i sɔ nin yɛ ɔ fa sa tɛtɛ yewa'n ba'nti, sangɛ kɛ ɔ fin kɛ be seli kɛ mɛn nga mɔ i nun sran mun be di be fɔundi, mɔ be kwla be kan be klunklo ndɛ, be kwla be sɔ be klunklo like, mɔ sɛkunlɛ ɔ nin yalɛ b'a jaso su, i sɔ mɛn mɔ be wan sran kundɛ i dan'n ti
+Kɛ ɔ fin kɛ i dan lika nin yɛ le kɛ ɔ fata kɛ mmla su awa yɛ ɔ nian sran-mmla mun be suɔ, kɛ ɔ ko yo nan b'a mianmian-man sran nan w'a faman ya w'a jaso-man be nga be fa kwlalɛ nin sran tɛtɛ yolɛ be fa be tintin i su be wun'n ti
+Kɛ ɔ fin kɛ like nga ɔ ti kpa dan yɛlɛ mɛn mun b'afiɛn janvuɛ kekle diwa'n ti
+Kɛ ɔ fin kɛ mɛn unmuan nun nvle mun be yali be wan be kan be sie su yekun kɛ be te lafi sran-mmla su dan, sran ɔ ti like dan, ɔ le'a gua, bla nin yasua be sɛ. Be wan i sɔ'n ti, like nga ba ko yo nan sran mun b'a nyan alaje, nan aklunjɔɛ w'a ba be wun, fɔundi nun, i sɔ like nin yɛ be wa yo'n ti
+Kɛ ɔ fin kɛ nvle nga be wo anyia sɔ nun, be wan be nin like nga be flɛ, kɛ "Mɛn mun be Bo Yekun Anyia" be bo yekun be bo mandrɛn nan sran i fɔndi ɔ nin i sranmmla be kaci ninge mɔ sran kwlakwla i ti wo be bo'n ti
+Kɛ ɔ fin kɛ nga ɔ ti kpa dan yɛlɛ kɛ sran mun be ngba be fa be ti be wlɛ sran-mmla ɔ nin sran-fɔundi be bo'n ti
+Anyia Dan wan kɛ Ndɛ nga be kɛn yɛ'n, ɔ fata kɛ ɔ kaci kɛ like mɔ i dɛnman yɛ sran kwalkwla nian; mɛn kwlakwla be kundɛ be kɛn; ɔ ye sɔ nan mɛn kwlakwula su sran o, mɛn kun i siesielɛ ninge mun, be bu Ndɛ Dan nga i akundan cɛn kwlakwla, be bo mandrɛn ɔ nin sran mun be fluwaklelɛ, ɔ nin ngwlɛlɛ klelɛ, be yo man sran mun be dan lika si sran-mmla ɔ nin fɔndi; kɛ be ko si be kpɔkun be yo blɛblɛ, mɛn kun nun o, mɛn ngba nun o, man sran mun be ngba be si i sɔ ndɛ: mɛn nga be trannin annuanzɛ dan i ase be nun sran mun o, be nga be wo i sɔfuɛ mun be bo'no, ɔ fata kɛ i sɔ sran mun be ngba be si sran-mmla ɔ nin sran-fɔundi.</p>
+<ol>
+  <li>
+    <p>Sranmunbengba,kɛbewubeɔ,bengbabesɛ,fɔndinun,sran-mmalanun.Besiakundanbu,besisuɔfatakɛsranmunbetran'n,betrananiaannuntranlɛ.</p>
+  </li>
+  <li>
+    <p>Sran-mmlaɔninsran-fɔundingaɔwoNdɛdannun,srankwlakwlakwlafayeiliɛ;ɔle'akɛetisrannvlengunmin,kɛewunnɛnti'akun,eaniɛnti'akun,ebolikati'akun,elikesɔwaɔtiingunmin,epolitikiangundanti'akun,efin'alikakun,ɔle'akɛwietisikafuɛ,wietiyalɛfuɛ,kɛwiemunbeosutiwlengbi,wiemunbeosutikanga.Ikungbayekun,bekwla'akpamansranmunbenunbese'akɛngatibuengasusran,ngabewun'ɛniliɛwlɛ'nkpa,bewun'anmɛnngasuɔfinɔ:bekwla'abese'asɔ,kanzɛsranfinnvleuflɛsuo,sɛnvlesɔɔleifɔundio,kanzeitiwomɛnuflɛiboo,ɔnunmɛnitibonuntilɛo.</p>
+  </li>
+  <li>
+    <p>Srankwalakwla,ɔfatakɛbesɛsɛinguan,bewukɛiɔdiifɔundi,besɛsɛibɔbɔbaunmuan.</p>
+  </li>
+  <li>
+    <p>Bekwla'abefa-mansranbekaci'akanga.Srankangayolɛninifatɔɔnininingeifasɔmunbeyowa,batanninninbengbabeatin.</p>
+  </li>
+  <li>
+    <p>Bekwla'abeye'asranfiliketɛtɛmun,bewlɛ-mɛnibisva,bekwla'abeyo-mɛniningengamɔɔyesranfinfin,mɔɔkacisrankɛblonnɛnmunbesa.</p>
+  </li>
+  <li>
+    <p>Likakwlakwlangasrankunwo,ɔfatakɛbebuisran,ɔfinimmlasu.</p>
+  </li>
+  <li>
+    <p>Sranmunbengbabesɛmmlamubenyrun;isɔ'nti,ɔfatakɛmmlamunbewutubesu,bengba.srankwlakwla,ɔfatakɛbewukeinansrannunkpakpawaw'anyɛn-mɛn;srannunkpakpawaɔtikɛNdɛngaigblutɔwasa.</p>
+  </li>
+  <li>
+    <p>Srankwmakwlaleatinɔkotoibɔbɔinvlesujɔlɛdifuɛmun,sɛɔfinnanbebuianunnflinifɔundi-mmlasu,fɔundi-mmlangabeklɛliifluwangabeflɛikɛ"mɛnitakawaibofluwa".</p>
+  </li>
+  <li>
+    <p>Bekwla'abetra-mansranngbɛnsa,bekwla'abewlɛ-mɛnibisua,bekwla'abetu-mɛnimɛnkunsungbɛnsa.</p>
+  </li>
+  <li>
+    <p>Sɛbesanmansran,nɑnndrumuntrannun,ndɛngatiyɛbesanmani,ɔfatakɛnzraanun,nanwlɛnun,jɔlɛdifuɛmun,bengabetinun-mansranfibo'n,mɔbetinanwlɛsran,beyɛɔfatakɛbekenisɔndɛliɛniɔn:beyɛbekwlasekɛsɛɔwoindɛfɛsuo,sɛkusuman,nzanmanmɔbesanmanini,ɔtiatinsuo.</p>
+  </li>
+  <li>
+    <p>Srankwlangab'asɛnmɛnindɛkunti,kɛbeniankanndɛmɔbenianbu-man,isɔfuɛ'nbekwla'ase'akɛindɛyo'afɛ.Awunkɛbekwlabesesɔ,sanb'adijɔlɛ,bengbabengbabenyrun,atoawlu'anun,bengabekojrɛnisinitikplilɛb'ajran.</p>
+    <p>Bekwla-manbebu-manndɛbeguɛ'ɛsrankunsu;sɛndɛtiyɛbesɛnmɛni,inunngaɔfayesasɔn,mmlawiefi,invleliɛsummlao,mɛnnunmmlao,bebu'ɛisɔlikeliɛ'nkɛɔtiliketɛ.Ing'ɔwukasu,yɛlɛkɛalamandingabefui,bisuangabewlɛi,benuankwla'atra-manngabefabeyoisɔtiti'n</p>
+  </li>
+  <li>
+    <p>Bekwla'abewla-manbenuansrankuniawlonunndɛmunbenunngbɛn,iawlonunndɛitranwlɛ,ifluwangaɔklɛ'n,ifluwangabeklɛi,bekwla'abekɛn'ɛniwunndɛngbɛn,bekwla'abesaciidunmanngbɛn.Isɔningeliɛmunbeti,ɔfatakɛmmlamunbesasasrankwlakwla.</p>
+  </li>
+  <li>
+    <p>Srankwlakwlaɔkwlawlanwlansin,nvlekunnun,likangaɔklɔkɛɔtran'nɔkwlasekɛwayɛnklɔkɛntran.</p>
+    <p>Srankwlakwlaɔleatinmɔɔjasonvlekunsukɔlikanfle;ɔkwlajasoibɔbɔnvleliɛ'nsu,kpɔkunɔkwlasɛisinɔbainvleliɛ'nnunyekun.</p>
+  </li>
+  <li>
+    <p>Sɛnvlekunsubeklesrankunyalɛ,sransɔ'nɔleatinɔkɔmantannvleufuɛmɔɔkwlasɔinunɔn.</p>
+    <p>Sangɛisɔatinliɛ'n,wɔngaayesatɛtɛmɔɔkɔ-manMɛnb'Anyiabendɛliɛsu'n,wɔngaayeisɔsatɛmɔfatakɛbesanmanwɔ'n,sakpa,akwla'aajrɛn-mɛenisɔatinsukan-manndɛ.</p>
+  </li>
+  <li>
+    <p>Srankwlakwlaɔleatinmɔɔnyeniauliɛnvle</p>
+    <p>Bekwla-manbese-mansrankunkɛ,ɔfinandɛale'aauliɛnvlewiekun,isasɔngbɛn;kusuman,sɛsrankunwanɔkaciiauliɛnvle,ɔleatinkaci.</p>
+  </li>
+  <li>
+    <p>Kɛbekonyinyasuakunɔninblakun,beleatinbejabewun,betakabeawlo;ɔfatakɛndɛkɛnvleuflɛnunsran,mɛnuflɛnunsran,likesɔwawafauflɛsran,ɔfatakɛisɔangundanwlunun.Beajanun,benyɔnbesɛ;benunkunse'akɛɔtinkunsu:iblɛngabejao,kɛbetitiajanuno.</p>
+    <p>Awunkɛbeja'n,uunbenyɔnbenuanw'ayekun,beklunklosu.</p>
+    <p>Awloboɔtikɛananganmanlikesa,yɛɔtinvlekunsusaioluiniɔn;ɔfatakɛnvleɔniansukɛinyimasa,kɛawawukɛi.</p>
+  </li>
+  <li>
+    <p>Srankwlakwla,ikungbaanzɛ,ɔninsranuflɛmunanzɛ,ɔkwlaleitibɔnunlike.</p>
+    <p>Bekwla'ale'asranfiitibonunlikeisanun.</p>
+  </li>
+  <li>
+    <p>Srankwlakwlaɔleatinmɔɔbuitibonunangundan,ɔnyɛniklunndɛ,ɔkwlasɔilikewafangaɔkloi'n;kɛɔfinilɛkusuman,sɛiwanɔkacinanɔsɔlikeuflɛ'n,sɛiwanɔbuakundanuflɛ'n,ɔleatinɔkaci.Sɛiwaniklunakundanliɛ'n,ilikesowaliɛ'n,sɛiwanɔbobejɔ,ibakungbao,ɔninsranuflɛmuno,ɔleatinɔbobejɔ;sɛkusuiwanɔyeilikeaswrenun,ɔleatinyo.Ikwlaangɔ'lɛ,ɔkwlaklɛifluwanun,ɔkwlayolikekwlakwlangafatakɛɔyo;sranfikwla'atanniniatin.</p>
+  </li>
+  <li>
+    <p>Srankwlakwlaɔleatinɔbuibɔbɔtibonunakundan,ɔkɛniklunndɛngaiwanɔkan'n.Isɔisinyɛlekɛsɛɔkɛniklunndɛ'n,bekwla-manbekle'ɛiyalɛ;isinninyɛlekɛɔleatinkundɛndɛmunbetilɛ;ikusumankwlabondɛɔninnzɛbuamunbejɔklesranmun;likekwlakwlangaɔkwlafaboisɔjɔlɛliɛ,ɔfabo;ɔnun-manitinunkaankɛawɛwonvlemunb'afiɛn.</p>
+  </li>
+  <li>
+    <p>Srankwlakwlaɔleatinɔninsranufuɛmunbeyaanyia;ɔkwlawluanuanzɛngaɔti'anzajeanuanzɛnun.</p>
+    <p>Bekwla'abemianmian-mansrankunɔwlu-mananuanzɛkunnun.</p>
+  </li>
+  <li>
+    <p>Srankwlakwlaɔleatinmɔ,ibɔbɔinvleliɛ'nsu,ɔtranawaijumanbeti,sɛnɛnibɔbɔtrelesa,ɔkwlayoijanunfuɛ.</p>
+    <p>Srankwlakwlaɔleatin,nánndrunmunkantrannun,mɔdiibɔbɔinvle'nsuawajuman.</p>
+    <p>Nvlekunsuisranunmwahmun,beyebemannvlesɔisugbɛngbɛnbefangan.Isɔ'nti,ɔfatakɛbeyomanwlɛnunvote,nansranmunbendɛngaɔwobeklun,b'afɛisɔb'akanvote'nlenuan;kɛinuankoju'n,ɔfatakɛɔsɛniwun;sranngbavoteo,aswrevoteo;ikwlaangaɔyoɔ,voteiyowa,nɑnmianmianlɛtrannun,srankuniklunvoteyɛɔvoteɔ.</p>
+  </li>
+  <li>
+    <p>Srankwlakwla,kɛmɔɔtinvlekunsusran'n,ɔfatakɛɔnyanawasrananwukalɛlike,ɔleawunnyanmblusuɛatin,awasranwukalɛatin,benyinsuyiyilɛningeatin;isɔningemunyɛbetisrankwlaacinjin,beyɛbeyisranisranlikangloɔ,beyoifɔundi-mmlabedan;isɔ'nfinnvlekunimandrɛnbowanun,ɔfinmɛnmunbewunwukawanun,ɔfinnvlekunisiesiewanun,ɔfinnvlekuninunanyanbewunningemunnun.</p>
+  </li>
+  <li>
+    <p>Srankwlaɔleatinmɔɔdiibɔbɔiklunklojuman,jumanifadiwaɔniniakatuabetiiklunsu;ɔfatakɛbenianisu,nɑnmanɔtransangbɛnkɛɔnyan-manjuman</p>
+    <p>Srankwlakwlaijumanngaɔdi,isusikacɛyɛɔfatakɛbemɛniɔ,ɔle'akɛsrankunɔleiakatua,srankunɔleiakatua</p>
+    <p>Srankwlakwla,kɛɔdijuman'aɔfatakɛiakatuangabetuɛi'n,ɔjuibɔbɔ,iyiɔninimmamunbewunsiesielɛkɛɔfatakɛsranfasiesieiwunsa.Sɛakatuasɔ'nju-man,awawukasuɔɔyoye.</p>
+    <p>Srankwlakwlaɔniniwiengumunbekwlabetakajumandilɛanuanzɛ,srankwlakwlaɔkwlawluisɔanuanzɛliɛnunɔfakpliilikengaɔloiiti.</p>
+  </li>
+  <li>
+    <p>Srankwlakwla,kɛɔdijuman'n,ɔleatinɔlounmiɛn,ɔleblɛwieɔɔyiyiinyisuɔ.ɔfatakɛdɔngamɔɔfadijuman,nanɔcɛngboko;yɛafuɛkunnuniblɛmɔɔdi'ajuman,ɔfatakɛbetuɛikalɛ.</p>
+  </li>
+  <li>
+    <p>Srankwlakwlaɔfatakɛisanunyofɛnanw'akwlaw'ayeiwunayre,w'akwlaw'asiesieiwun,ibɔbɔniniyininimmamun,kɛɔtikɛaliɛdilɛliɛ'n,tralɛwlawa'n,lawlɛ'n,bewunayreyelɛ'n,blɛmɔɔdi'ajuman'n,mɔɔtɔtukpakiɛ'n,sɛɔkwla'anun'n,sɛɔwoangbetinun'n,sɛw'ayooke'n;sayalɛkwlakwlangaɔtɔisumɔisanunawie'n,ɔfatakɛawawukɛi.</p>
+    <p>Blataɔninbakanganmun,ɔlebewukalɛliɛ'nmɔawawukabeɔ.Bakangankwlakwla,kanzɛbewubeguasuo,kanzɛbewubeajanuno,bekwlakwlaɔfatakɛawasasabe.</p>
+  </li>
+  <li>
+    <p>Srankwlakwlaɔlaatinmɔbekleifluwa.Sranfluwaklelɛ'n,kɛɔfajukɛsuablusu'n,sikatualɛnun-mannun.ɔfatakɛbakanganmunbengbabekɔsuklu,benunkunle'ɛtikɛɔkɔ-man.Suklnngabekleblalɛjumanninjumandilɛnun,isɔsuklu'n,ɔfatakɛɔtru;sukludandanmunbenunwlulɛiatin,ɔfatakɛbetikemansrankwlakwla;bekpa'asranmunbenun,srankunɔninilikeliɛmɔɔkwlayoɔ.</p>
+    <p>ɔfatakɛfluwaklelɛɔyisranisranlikainglo,ɔyomansranmunbebonyan,ɔyomanbenyinyisran-mmlamunɔninfɔundi-mmlangaɔtifɔundi-mmlabebɔ'n.Fluwaklelɛɔfatakɛɔyomanndidiɛbasranmunb'afiɛn,ɔyomansranmunbeyacisrankunnunɔyoiklunkloninge,manjanvuɛdilɛɔbamɛnmunb'afiɛn,srannvlemunb'afiɛn,likesɔfuɛmunbewafab'afiɛn.Fluwaklelɛikungbayekun,ɔfatakɛɔman"MɛnmunbeBoYekunAnyia"beningengamɔbeyomɔalajekocɔmɔnnun.</p>
+    <p>Siɛmunɔninniɛnmun,beyɛɔfatakɛbekundɛfluwaiklelɛwafangaɔninbemmamunfataɔ.</p>
+  </li>
+  <li>
+    <p>Srankwlakwlaɔleatinmɔ,invleliɛ'nsuningemɔɔtikɛbenyinsuyiyiwaninge,besatininge,aguinninge,ɔleatinɔyeisɔningewie,ɔleatinɔdisuwie;ɔleatinɔwukabeyobenyrunkɔlɛningemun;afinsɛmblusuɛfitesu,ɔleatindiwie.</p>
+    <p>Srankun,sɛɔdiibenyrun,kɔlɛaguinjuman,ɔklɛifluwa,ɔdiaguinnansɛidumanfitesuɔ,imblnsnɛfitesuɔɔtiiliɛ.</p>
+  </li>
+  <li>
+    <p>Srankwlaɔleatinɔkundekɛsranmunb'afiɛ,mɛnmunb'afiɛnɔyeflɔlɔɔ,isɔnansran-mmlaɔninfɔundingabekanbendɛNdɛnganun,b'asumma.</p>
+  </li>
+  <li>
+    <p>Srankun,ɔfatakɛɔyolikemɛninvlemɔinunyɛibɔbɔɔkwladiifɔundi,ɔkwlabonyan.</p>
+    <p>Sranisran-mmlaninifɔundisudilɛɔle'aawieliɛuflɛ,sanawieliɛngainvesummlamunbesielikɛɔfata'akɛsrankunisran-mmlaninifɔundisudilɛɔtanninsranuflɛmunbeliɛatin.Isɔninyɛmanbekwlafaatinndɛnmankpasu,aunjɔɛɔbanvlengamɔisukpɛnsielɛɔwosrankwlakwlasanunnun.</p>
+    <p>Sran-mmlaninfɔunding'ɔlɛbekwla'afa-manbeyo'alikefimɔɔkaciisinsiMɛnmunbeBoYekunAnyiabeatinliɛ'n</p>
+  </li>
+  <li>
+    <p>Awakun,sranakpasua,srankun,bekwla'abejran-mandɛngainuntrebakunsubese'akɛbeleatinmɔbedijumanwie,beyoningewiemɔɔtisran-mmlaninfɔndingabewoyɛbesakiwa.</p>
+  </li>
+</ol>

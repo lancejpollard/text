@@ -1,0 +1,123 @@
+<h1 align='center'>AKÜJIA SÜKUA'IPA SÜCHIKI SÜJUTU WAYUU SA'U MMAKAT</h1>
+<h2 align='center'>PÜTCHI SÜPULAPÜNA</h2>
+<p align='center'>JÜLÜJÜINJATÜ A'IN taashi, kasalajana, kamaneejirawaa, sa'u tüü mmakat kayuupalasü sünainje kajütüin atuma tüü akua'ipa wanawakat napüla napüshua naa wayuukanairua.
+JÜLÜJÜINJATÜ A'IN aka meraajüin süma mojutüin atuma tüü pütchi aapüshika süpüla süjutu wayuu, watta saali tüü kasa mojüsü a'innaka sa'upüna na'in wayuu; aka shia'in e'itaanüin ma'aka tüü kasa müliakana ma'i e'iree naa wayuukana, süpüla nasawatüin wanee mma eere akatatnüin no'ulia tüü momoluu jeema mülia, eere taashi nakua'ipa süpüla yootoo jee müsüya süpüla anouja sünain kasa nano'ujekat anain;
+JÜLÜJÜINJATÜ A'IN a'inmajünüinjatü ma'i palaajana süchikua sujutu wayuu, sülu'u wane sükua'ipa eere neimalüinjatüin na'in sülia ashüküjawaa sünain pasalawaa sa'u nakua'ipa;
+JÜLÜJÜINJATÜ A'IN pa'inwaajiraa'injanain süchiirua aleewaa napüshüa naa sülaülayuukana alu'uwatawa sa'u tüü mmakat;
+JÜLÜJÜINJATÜ A'IN naa kottiraakana sünain tüü Nasiones Uniiras münaka no'unirüin na'in süchirua tüü achiki süpülajatka sujutu wayuu sülu'u wanawain nakua'ipa jieyuu nama tooloyuu; suma nayataajirain shiire anaata sümüliala wayuu sülu'u tüü anakat akua'ipa sünain taashi;
+JÜLÜJÜINJATÜ A'IN naa sülaulayuukana mma sunainkana tüüaapüshi nanüiki süpüla ayaataajirawa nama naa sülu'ukana tüü Orkaniisasion te las Nasiones Uniiras münaka, süpüla kajütüinjatüin atüma, tüü akua'ipa acheejanaka napuleerua naa wayuukanairua;
+JÜLÜJÜINJATÜ A'IN aapanüinjatü akua'ipa wanawa nekiiru'umüin napüshua pütchika tüü süpüla anainjatüin saañajia napüla wayuu, süpüshua tüü pütchi alu'uwataanaka anain;
+KOTTIRAWAA MÜLO'USÜKA
+SÜKÜJA'IN
+TÜÜWAALAI SÜCHIKIMAAJATÜKA SÜJUTU WAYUU SA'U TÜÜ MMAKAT, isakat anain wa'in acheküsü kapüla'in na'in naa sulaulayuuka mma otta müsüya natuma naa wayuukana jee tüü laulapiakat süpüla na'inrüin waneepia shia süma nashatüinjatüin sukua'ipa sünain e'ikaa süchirua kajutüinjatüin atuma süpüshua sülu'uwataka achiirua pütchikat tüü.</p>
+<ol>
+  <li>
+    <p>Naawayuukanajemeishisüpülataashisümawanawasülu'unakua'ipa,akamüinyaaepijainjanasünainanajiranawaaa'innamanapüshi.</p>
+  </li>
+  <li>
+    <p>Tüüalu'uwatanakasülu'upütchikattüünapülajatünaawayuukananapüshuannojotüsüsüpülako'utküinjanainsa'ujenatapa'a,nanuikinanoujainno'ummainjeemüsüyasa'ujekasaekate'inwanawa'injatünapülawanepia.Ottamüsüyanaawayuukanairuanojolinjanajoinapülaasa'ujesükua'ipano'ummain.</p>
+  </li>
+  <li>
+    <p>Naawayuukanaeeshisüpülakajutüinjatüinatumanapüleruatüükataakato'u,tüütaashijeemüsüyaa'inmajunaakua'ipasüuliakasachiki.</p>
+  </li>
+  <li>
+    <p>Nojolüinjachiaapünüinwanewayuusüpülaachepchia,apülajünüitpakasamüsüakatüyasülu'usükua'ipasüpüshuaya.</p>
+  </li>
+  <li>
+    <p>Nnojotüsüsüpülamulia'ina'innaawayuukanaatuma,nnojotüsüsüpülaamojojunüinnakua'ipa.</p>
+  </li>
+  <li>
+    <p>Kajutüinjatünakua'ipanaawayuukanaeepunaalenaya.</p>
+  </li>
+  <li>
+    <p>Wanawashinapüshuanaawayuukanaso'upalatüüsülaulakaa'inmajia,anaakanayajoolu'ua'inmajünüinwanawa.Nojolüinjanaletüinsüuliatüüakua'ipasülu'uwatakatüüpütchikaralo'utalüka.</p>
+  </li>
+  <li>
+    <p>Naawayuukanaeeshisüpülaasakajaasüchiruanakua'ipalaulapialu'upünamaakashiinnuleamüintüüakua'ipaaapüshikanamüinsülu'utüüKonstitusionka.</p>
+  </li>
+  <li>
+    <p>Noojolüinjachiata'unüinwanewayuumasalajanoule.</p>
+  </li>
+  <li>
+    <p>Naawayuukanaeeshisüpülawanawainnakua'ipasünainaapajunaanuiki,o'upalasütumatüüe'itatkasüsalajanakasasüpülashiitaanüinjatüinsüsalajananañajalasülu'uanakatakua'ipa.</p>
+  </li>
+  <li>
+    <p>Wayuuekaiaküjünüinachikisünainkaañajalannojolüinjachisüsalajanainma'akamatujajulea'u;wane'erejashiraajünapasükua'ipa,shiitanetkasüsalajanama'akasülu'uwatainlaulayuusüpu'uyatüü.</p>
+    <p>Nnojolüinjanasüsalajana'inwanekasaekaimasalajana'inwanesumasaañajunüinakasülu'uwatainsükua'ipalaulapiannojolüinjatüjoolu'umülo'uleinsüsalajanaatumaayatüinjatüsaaliima'akaso'ukaisañajünakaa'u.</p>
+  </li>
+  <li>
+    <p>Nnojolüinjanaeke'ejünüina'innaawayuukanasa'ujenakua'ipanepialu'u,sümanapüshijeemüsüyasa'ujetüükaralo'utaantakaanamüina'inmajünüinjatütüünakua'ipasüuliajamajüinnayaatuma.</p>
+  </li>
+  <li>
+    <p>Naawayuukanaeeshisüpülawaraitüineepünaweele,eeshisüpülakapüyainsülu'utüümmanachekakalüna'in.</p>
+    <p>Jeemüsüyanaawayuukanaeeshisüpülaantaasümao'unasülu'ujeno'ummainottamüsüyasülu'ujewanemmanaatajatü.</p>
+  </li>
+  <li>
+    <p>Ma'akanüchejanüleachikiwanewayuusülu'uno'ummain,eeshisüpülanüchüntüinakaliijunasülu'uwanemmaeereanainnümüin.</p>
+    <p>Akua'ipakattüükajutüinjatüatumasüuleeruawaneañajalaekainaatüinsüuliasükua'ipatüüNasionesUniirasmünaka.</p>
+  </li>
+  <li>
+    <p>Naawayuukanaeeshisüpülasünüliamüinnayawanemma.</p>
+    <p>Nnojotüsüsüpülasaakatnüinno'uliasünüliano'ummainnnojotüsüachechetnüinjatüinshiananainma'akanawanajaweeresüulia.</p>
+  </li>
+  <li>
+    <p>Nnojotsüpülajünüinjatüinnamüinnaawayuukanakawayuuse,jieyuunamatooloyuunnojotsüerajanüinjatüinpalajaanajalejeewolin,kasainnano'ujainanainkasatalüinnata,süpülakapüshinjanainwanawainjanasülu'uanakatakua'ipa.</p>
+    <p>Akasalajünüshinaawayuukanama'akanacheckulena'in.</p>
+    <p>Tüüwapüshikashiaakümajakawapüleeruatüüakua'ipakat,akamüinyaawa'inmajüinjatüjeemüsüyaa'inmajünüinjatünatumanaasülaulayuukanamma.</p>
+  </li>
+  <li>
+    <p>Napüshuanaawayuukanaeeshisüpülakakoroloinnaya,ottamüsüyakakorolojirainnamawaimawayuu.</p>
+    <p>Nnojotsüsüpülasüsütünüinmojütoulenükorolowanewayuu.</p>
+  </li>
+  <li>
+    <p>Naawayuukanaeeshisüpülataashiakua'ipasüpüleeruaano'uja,ottamüsüyae'itanana'insünainkasaanakatnapüleerua.</p>
+  </li>
+  <li>
+    <p>Naawayuukanairuaeeshisüpülataashiakua'ipasünainyootoosüchikitüükasanekiiru'ukanannojolüinjanasüsalajanainaashajawaasümaaapajanawanekasaachikisüpülanülu'uwata'inshiasüpülasaapajünüinepünaweereshianülu'uwata'inachiki.</p>
+  </li>
+  <li>
+    <p>Naawayuukanaeeshisüpülataashiakua'ipasüpülaa'inraawanejutkataajeemüsüyakottirawasülu'umausii.</p>
+    <p>Nnojotsüsüpülaachechetnüina'inwanewayuusünainsüpushiwanejutkataa.</p>
+  </li>
+  <li>
+    <p>Napüshuanaawayuukanaeeshisüpülanalu'uwataajirainnamanaasülaülayuukanaalu'uwatawaa;ottamüsüyaeeshisüpülaneitainwanenache'epu'ujanaekainachekuinna'in.</p>
+    <p>Naawayuukanaeeshisüpülaerajaawanawaasukua'ipatüüalu'uwatawaakasa'uno'ummain.</p>
+    <p>Jutchüinna'innaawayuukanashiasuyuupalakasukua'ipatüüalu'uwatawaaakamüinyaajayasüsukua'ipasukatüüwotomünaka,süpülaaliikiranaashikiipu'unüinjanakaalu'uwatawaasu'lu'uanakatakua'ipa.</p>
+  </li>
+  <li>
+    <p>Napushuanaawayuukanaeeshisüpülana'inmajünüinaküa'ipa,ottamüsüyaeeshisüpülaneraajüinsüpüshuajamüinsukua'ipashiitajiasuwashirüin,sumasutnetshetüümmakalüiruasüpülaanainjatüinna'insünainjetüükasanatujaakata'u.</p>
+  </li>
+  <li>
+    <p>Naawayuukanaeeshisüpülanayatainsünainkasanayataweekatanain,sumasa'inmajünüinjatüirasukua'ipanayatainsuuliaamüloulii.</p>
+    <p>Naawayuukanannojülüinjanako'utküinwanawainjatünakanajüin,wanawalenayatain.</p>
+    <p>Nayataalenaawayuukanaakanajüinjanasünainjenayatain,sümawanawa'injatüintüünakanajakasumanayatain,süpülaanainjatüinna'insünainepijaanuchounni.</p>
+    <p>Naawayuunakanaeeshisüpülaachejawaasukua'ipawanekottaasüpülakajütüinatumatüükeireekatna'insunainanatiraanakua'ipa.</p>
+  </li>
+  <li>
+    <p>Nayataalenaawayuukanaeeshisüpülaneemerainso'uwaneka'i,ottamüsüyaayawatünüinjatüsukalianayatainsapünapanamüintüüeemerawaakawala'injanasuma'iru.</p>
+  </li>
+  <li>
+    <p>Naawayuukanaeeshisüpülaepijawaasulu'uanakatakua'ipasümanapüshima'akasa'inkapuyaa,kashe'in,erajaanaayuipa,anaasülu'usükua'ipakatsüpushua.</p>
+    <p>Naajemeyuunnukanaottamüsüyanaajo'uyuukanaa'inmajünüinjanasüpüleeruakasasüpushuanaajo'uyuukanaa'inmajünüinjanasülu'usükua'ipasüpushuaa'itainajemeinsümawaneejetüinnapüshi.</p>
+  </li>
+  <li>
+    <p>Naawayuukananapushuaeeshisüpülaekirajunamojutüinjatüshianapuleeruasuttiana'inekirajawaanalatirapatüü,süpülako'omünüinnatüjainwanawainjatünakua'ipasünainantaasülu'umüintüüekirajaapuleemulo'usükaunipersitaamunakaakasükua'ipaatuma.</p>
+    <p>Naawayuukanaekirajünuinjanasüpüleeruaanataanakua'ipasumaatujaakajutaaatümatüüsuchikikasujutuwayuusüpülaanainjatüinsusanaliatüümmakatsüchiruaasautatüüanamiasuchekakaachikitüüNasionesUniirasmunaka.</p>
+    <p>Napülanaawayuukanaeeshisüpülaaneekajaatüüekirajawaaaapuneekanamüinnachounni.</p>
+  </li>
+  <li>
+    <p>Napushuanaawayuukanaeeshisüpülaerajirainwanaanamanaawaneiruasünainantiraasüchikikasaanasünapülanapushua.</p>
+    <p>Naawayuukanaeeshisüpülasa'inmajünüintüükasanamüinka,ottamüsüyatüükasanayuralakanekiiru'ujesukana'innamuiwa'a.</p>
+  </li>
+  <li>
+    <p>Napushuanaawayuukanaeeshisüpülashiitaanüinjatüinnapüleeruawanesükua'ipasa'utüümmakatsüpülapansainjatüinsañajiatüüsülu'uwatakatanaintüüpütchika.</p>
+  </li>
+  <li>
+    <p>Naawayuukanairuajülüinjatüna'innakua'ipanaawayuukapuyakiraakanamaakaanainnayasünainepijawaanajiraleenakua'ipanapushua.</p>
+    <p>Shia'alannojotkaanainsüpülana'inraatüüapülajunakanapüleerualaülapialu'ujesüpülaanainjatüinsukua'ipasüpushuatüükasakat.</p>
+    <p>Akua'ipakattüünnojotsüpeipoloinjatüinsumatüüakua'ipasülu'uwatakatanaintüüNasionesUniirasmünaka.</p>
+  </li>
+  <li>
+    <p>Sülu'ukotkaralo'utakattüünnojotsüaapanüinjatüinsüpulainmüintüüsülaülakotmmannojotsüaapanüinjatüinnapülainmüinno'utkuwayuu,nnojutsüaapanuinjatüinsüpülanüpülainwanewayuu.A'iruushisüpülannojolüinjatüinalatünüina'upunatüüpütchisüpülajatkasüjutuwayuusa'utüümmakat.</p>
+  </li>
+</ol>

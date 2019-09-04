@@ -1,0 +1,122 @@
+<h1 align='center'>Powšitkowne wozjewjenje čłowjećich prawow</h1>
+<h2 align='center'>Preambla</h2>
+<p align='center'>Dokelž twori płipóznaće wšěm čłonam čłowjeskeje swójby płisłušaceje dostojnosće a jich jenakich a njeparujomnych prawow zakład swobody, sprawnosće a měra w swěće,
+dokelž stej njedopóznaće a znajechanje čłowječich prawow k aktam barbarstwa wjedłoj, kotrež su swědomje člowjestwa hłuboko zranili, a dokelž je so wutworjenje swěta, w kotrymž spožči so člowjekam, swobodnym wot stracha a nuzy, swoboda rěčenja a wěry, jako najwyše prócowanje čłowjestwa wozjewiło,
+dokelž je bytostne, člowječe prawa z knjejstwom prawa škitać, zo njeby so čłowjek k zběžkej płećiwo tyranstwu a potłóčowanju jako poslednjemu srědkej nuzował,
+dokelž je bytostne, wuwiće płećelskich poćahow mjez narodami spěchować,
+dokelž su ludy Zjednoćenych narodow we wustawkach znowa swoju wěru do zakładnych čłowječich prawow, do dostojnosće a hódnoty čłowjeskeje wosoby a do runoprawosće muža a žony wobkrućili a wobzamknyli, socialny postup a lěpše žiwjenske poměry płi wjetšej swobodźe spěchować,
+dokelž su so sobustawske staty zawjazali, w zhromadnym dźěle ze Zjednoćenymi narodami powšitkowne respektowanje a zwoprawdźenje člowječich prawow a zakładnych swobodow płesadźić,
+dokelž je zhromadne měnjenje wo tutych prawach a swobodach płewšo wažne za połne spjelnjenje tutoho zawjazka,
+proklamuje Generalna zhromadźizna
+tute Powšitkowne wozjewjenje člowjecičh prawow jako zhromadny ideal, kotryž ma so wot wšěch ludow a narodow docpěć, zo bychu kóždy jednotliwc a wšě organy towaršnosće tute wozjewjenje stajnje w pomjatku měli a so prócowali, płez wučbu a kubłanje respektowanje tutych prawow a swobodow spěchować a płez postupowace naprawy w narodnym a mjezynarodnym wobłuku jich powšitkowne a faktiske płipóznaće a zwoprawdźenje pola wobydlerstwa kaž sobustawskich statow tak tež tych jich nadknjejstwu podstejacych teritorijow zaručeć.</p>
+<ol>
+  <li>
+    <p>Wšitcyčłowjekojosuwotnarodaswobodniasujenacypodostojnosćiaprawach.Wonisuzrozumomaswědomjomwobdarjeniamajamjezsobuwduchubratrowstwawobchadźeć.</p>
+  </li>
+  <li>
+    <p>Kóždyjewoprawnjeny,wtutymwozjewjenjuproklamowaneprawaaswobodywužiwać,atobjezkóždehožkulirozeznawanja,kažporasy,barbje,splahu,rěči,religiji,politiskimabodruhimpłeswědčenju,narodnymabosocialnympochadźe,pozamóženju,narodźeabodruhimstatusu.Dalenjesmědźasožanerozdźělečinićnazakładźepolitiskeje,prawniskejeabomjezynarodnejepozicijekrajaaboteritorija,kotremužwosobapłisłuša,njedźiwajonato,hačjenjewotwisny,hačpodrukowaćelstwomsteji,hačnjewobsedźiswójskeknježerstwoabohačpodležiněkajkemudruhemuwobmjezowanjuswojejesuwerenity.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawonažiwjenje,swoboduawěstotuwosohy.</p>
+  </li>
+  <li>
+    <p>Nichtónjesměsownjewólnistwjeaboroboćanstwjedźeržeć;njewólnistwoawikowanjeznjewólnikamistejwewšěchswojichformachzakazanej.</p>
+  </li>
+  <li>
+    <p>Nichtónjesměsopodćisnyććwělowanjuabosurowemu,nječłowjeskemuaboponižowacemuwobchadźenjuabochłostanju.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawo,wšudźejakoprawakmanypłipóznatyhyć.</p>
+  </li>
+  <li>
+    <p>Wšitcyčłowjekojosupłedzakonjomruniamajabjezdiskriminaeijeprawonajenakiškitpłezzakoń.Wšiteymajapawonajenakiškitpłećiwokóždejdiskriminaciji,kotražbypłedležacewozjewjenjezraniła,apłećiwopozbudźenjuktajkejdiskriminaciji.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawonaskutkownujuristiskupomoepolapłisłušnychnutłkostatnychsudnistwowpłećiwojednanjam,kotrežjehojemupowustawjeabopozakonjupłistejacezakładneprawaranja.</p>
+  </li>
+  <li>
+    <p>Nichtónjesměsoswojowólnjezajećwjatbjedźržećabozkrajawupokazać.</p>
+  </li>
+  <li>
+    <p>Kóždymawpołne;runoprawosćiprawonato,zosowojehoprawaćhawinowatosćachawokóždejpłećiwonjemuzapoloženj;chłostanskoprawnejskóržbjepłeznjewotwisneanjestronskesudnistwosprawnjeazjawnjejedna.</p>
+  </li>
+  <li>
+    <p>Kóždychłostajomnehojednanjadlawobskorženymaprawonato,jakonjewinowatyplaćić,dołhožnjejejehowinawzjawnynljednanju,wkotrymžjewšězaswojezakitowanjetrěbnegarantijemět,wotpowědujozakonjejdopokazana</p>
+    <p>Nichtónjesměsodlajednanjaabozanjechnanjaněčehozasudźić,štožnjeběwčasu,hdyžjesotostało,ponutłkokrajnymabopomjezynarodnymprawjechłostajomne.Runjetaknjesměsožanećešechłostanjewuprajičhačtewčasuchłostajolnnehojednanjapłihroženechłostanje.</p>
+  </li>
+  <li>
+    <p>Nichtónjesměswojowólnymzapłimnjenjamdoswojehopriwatnenožiwjenja,swojejeswójby,swojehobydlenjaaswojejekorespondencyabonjezakonskimškodamswojeječesćeaswojehomjenawustajenybyć.Kóždymaprawonajuristiskiškitpłećiwotajkimzapłimnjenjamaškodam.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawo,soznutłkaslataswobodnjepohibowaćasejswojebydlenjeswobodnjewuzwolić.</p>
+    <p>Kóždymaprawo,kóždykra;inkluziwnjeswójswójskikrajwopušcićasodoswojehokrajawróćić.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawo,wdrunichkrajachpłedpłesćěhanjomazylpytaćawužiwać.</p>
+    <p>Tuteprawonjemóžesowužiwaćwpadźepłesćěhanjadlaryzynjepolitiskicnzłóstnistwowabojednanjow,kotrežranjacileazasadyZjednoćenycnnarodow.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawonastatnupłisłušnosć.</p>
+    <p>Nikomunjesměsojehostatnapłisłušnosćswojowólnjesćazaćanizaprajićprawo,swojustatnupłisłušnosćzměnić.</p>
+  </li>
+  <li>
+    <p>Mužojoažonywžeńtwykmanejstarobjemajabjezwobmjezowanjanazakładźerasy,statnejepłisłušnosćeaboreligijeprawo,domandželstwa.stupićaswójbuzaložić.</p>
+    <p>Wonimajajenakeprawapłizmandźelenju,wmandźelstwjeapłirozwjazanjumandźelstwa.</p>
+    <p>Zmandźelenjesměsojenožwswobodnejadospołnejpłezjednosćipłichodnejumandźelskejustać.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawo,samabozhromadnjezdruhimiwobsydstwoměć.</p>
+    <p>Nichtónjesměswojowólnjeswojewobsydstwozhubić.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawonaswobodumyslow,swědomjaareligije;tuteprawowopłijaswobodu,swojureligijuaswójswětonahladzměnić,kažtežswobodu,swojureligijuaboswójswětonahladsamabowznromadnosćizdrunimi,zjawnjeabopriwatnjepłezwučbu,praktikowanje,božuslužbuawobkedžbowanjcnabožnychnaložkowzwuraznić.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawonaswoboduměnjenjaawuprajenjeměnjenjatuteprawowopłijanjehaćenuswoboduměnjenjaaswobodu,sejnjedźiwajonastatnehranicyinformacijeaidejezesrědkamikóždehožkulirazuwobstarać,płijimowaćadaledawać.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawonaswoboduzhromadźnjaazjednoćenjazaměrliwezaměry.</p>
+    <p>Nichtónjesměsonuzowač,zjednoćenstwupłisłušeć.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawo,sopłirjadowanjuzjawnychnaležnosćowswojehokrajanjeposrědnjeabopłezswobodnjewolenycnzastupjerjowwobdźělić.</p>
+    <p>Kóždymapodjenakimiwuměnjenjemiprawonapłistupkzjawnymzastojnstwamwswojimkraju.</p>
+    <p>Wolaludutworizakładzaawtorituzjawnejemocy;tutawoladyrbisozwuraznićpłezsowospjetowace,woprawdźite,powšitkownearunewólby,kotrežwotměwajasoztajnymwotedaćomhłosowabopotomurunohódnymswobodnymwólbnymmodusu.</p>
+  </li>
+  <li>
+    <p>Kóždymajakočłontowaršnosćeprawonasocialnuwěstotuamóžepłeznutłkostatnenaprawyamjezynarodnezhromadnedźěłowobkedźbujoorganizacijuapomocnesrědkikóždehostatawužiwaćzaswojudostojnosćaswobodnewuwićeswojejewosobinynjeparujomnehospodarske,socialneakulturneprawa</p>
+  </li>
+  <li>
+    <p>Kóždymaprawonadźělo,naswobodnuwólbupowołanja,napłiměrjeneaspokojacedźělowewuměnjenjakažtežnaškitpłećiwobjezdźěłnosći.</p>
+    <p>Wšitcyčłowjekojomajabjczkóždejediskriminacijeprawonajenakumzduzajenakedźěło.</p>
+    <p>Kóždy,kiždźěła,maprawonasprawneapłihódnezarunanjedźěła,kotrežjemuajehoswójbječłowjeskejdostojnosćiwotpowědowacueksistencuzawěsćaakotrežmaso,jelitrjeba,zdruhimisocialnymiškitnynlinaprawamidopjelnić.</p>
+    <p>Kóždymaprawo,zaškitswojichzajimowdźěłarnistwazałoźićatajkimpłistupić.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawonadźěłowepłestawkiaswobodnyčasinkluziwnjepłiměrjenewobmjezowanjedźělowehočasakažtežnaprawidłownypłaćenydowol.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawonazaswojustrowotuaderjeměćeatuswojejeswójbypłiměrjenyžiwjenskistandard,inkluziwnjedosahacezežiwjenje,drasćenje,bydlenje,lěkarskezastaranjeatrěbnesocialneposłužby,kažteždaleprawonawěstotuwpadźebjezdźěłnosće,chorosće,inwalidity,zwudowjenjastarobyabodruhejestratyswojichzežiwjenskichsrědkowpłeznjezawinowanewobstejnosće.</p>
+    <p>Maćerjeadźěćimajaprawonawosebitupomocapodpěru.Wšěmdźěćom,mandźelskimanjemandźelskim,płistejijenakisocialnyškit.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawonakubłanje.Wučbadyrbiznajmjeńšawelementarnymabozakładnymschodźenkudarmotnabyć.Elementarnawučbajeobligatoriska.Fachowo-apowołanskošulskawučbadyrbipowšitkownjepłistupnabyć,awysokošulskawučbadyrbiwšěmwotpowědnjejichkmanosćamnajenakewašnjewotewrjenabyć.</p>
+    <p>Kublanjedyrbinapołnerozwićečłowjeskejewosobinyanasylnjenjerespektowanjačłowječichprawowazakładnycnswobodowwusměrjenebyć.Wonedyrbizrozumjenje,tolerancuapłećelstwomjezwšěmiludamiawšěmirasowymiabonabožnymiskupinamispěchowacadźěławosćZjednoćenycnnarodowzazdźerženjeměrapodpěrować.</p>
+    <p>Staršimajaprěnjorjadneprawodružinukubłanjawuzwolić,kotrežmasojichdźěćomposrědkować.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawo,sonakulturnymžiwjenjuzhronladnosćeswobodnjewobdźěleć,sonadwuměłstwamiwjeselićanawědomostnympostupjeajehowudobyćacndźělbrać.</p>
+    <p>Kóždymaprawonaškitduchownychamatericelnychzajimow,kotrežwurostujazanjehojakotworićelazdźěłowwědomosće,literaturyabowuměłstwa.</p>
+  </li>
+  <li>
+    <p>Kóždymaprawonasocialnyamjezylnarodnyporjad,wkotrymžmóžasowtutymwozjewjenjuwuprajeneprawaaswobodypołnjezwoprawdźić.</p>
+  </li>
+  <li>
+    <p>Kóždymawinowatosćenapłećotejzhromadnosći,wkotrejžjejeničcemóžneswobodneapołnewuwićejenowosobiny.</p>
+    <p>Kóždypodležipłiwužiwanjuswojichprawowaswobodowjenožtymwobmjezowanjam,kotrežzakońjeničcezatónzaměrpłedwidźi,płipóznaćearespektowanjeprawowaswobodowdruhichzawěsćićasprawnymžadanjammoralki,zjawnenoporjadaapowšitkownehoderjeměćawdemokratiskejtowaršnosćiwotpowědować.</p>
+    <p>TuteprawaaswobodynjesmedzasowžanympadźewnapłećiwkukcilamazasadamZjednoćenychnarodowwužiwać.</p>
+  </li>
+  <li>
+    <p>Ničowtutymwozjewjenjunjesměsodotohosměrawułozować,zosozastat,zaskupinuabowosobuprawostwori,tajkedźěłowukonjećabotajkiskutkzwoprawdźić,kižsonawotstronjenjewtutymwozjewjenjuwuprajenycnprawowaswobodowměritej.</p>
+  </li>
+</ol>

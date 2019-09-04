@@ -1,0 +1,122 @@
+<h1 align='center'>DECLARAȚIA UNIVERSALĂ A DREPTURILOR OMULUI</h1>
+<h2 align='center'>Preambul</h2>
+<p align='center'>Considerând că recunoașterea demnității inerente tuturor membrilor familiei umane și a drepturilor lor egale și inalienabile constituie fundamentul libertății, dreptății și păcii în lume,
+Considerând că ignorarea și disprețuirea drepturilor omului au dus la acte de barbarie care revoltă conștiința omenirii și că făurirea unei lumi în care ființele umane se vor bucura de libertatea cuvântului și a convingerilor și vor fi eliberate de teamă și mizerie a fost proclamată drept cea mai înaltă aspirație a oamenilor,
+Considerând că este esențial ca drepturile omului să fie ocrotite de autoritatea legii pentru ca omul să nu fie silit să recurgă, ca soluție extremă, la revoltă împotriva tiraniei și asupririi,
+Considerând că este esențial a se încuraja dezvoltarea relațiilor prietenești între națiuni,
+Considerând că în Cartă popoarele Organizației Națiunilor Unite au proclamat din nou credința lor în drepturile fundamentale ale omului, în demnitatea și în valoarea persoanei umane, drepturi egale pentru bărbați și femei și că au hotărât să favorizeze progresul social și îmbunătățirea condițiilor de viață în cadrul unei libertăți mai mari,
+Considerând că statele membre s‐au angajat să promoveze în colaborare cu Organizația Națiunilor Unite respectul universal și efectiv față de drepturile omului și libertățile fundamentale, precum și respectarea lor universală și efectivă,
+Considerând că o concepție comună despre aceste drepturi și libertăți este de cea mai mare importanță pentru realizarea deplină a acestui angajament,
+ADUNAREA GENERALĂ proclamă
+prezenta DECLARAȚIE UNIVERSALĂ A DREPTURILOR OMULUI, ca ideal comun spre care trebuie să tindă toate popoarele și toate națiunile, pentru ca toate persoanele și toate organele societății să se străduiască, având această Declarație permanent în minte, ca prin învățătură și educație să dezvolte respectul pentru aceste drepturi și libertăți și să asigure prin măsuri progresive, de ordin național și internațional, recunoașterea și aplicarea lor universală și efectivă, atât în sânul popoarelor statelor membre, cât și al celor din teritoriile aflate sub jurisdicția lor.</p>
+<ol>
+  <li>
+    <p>Toateființeleumanesenasclibereșiegaleîndemnitateșiîndrepturi.Elesuntînzestratecurațiuneșiconștiințășitrebuiesăsecomporteunelefațădealteleînspiritulfraternității.</p>
+  </li>
+  <li>
+    <p>FiecareomsepoateprevaladetoatedrepturileșilibertățileproclamateînprezentaDeclarațiefărăniciunfeldedeosebireca,depildă,deosebireaderasă,culoare,sex,limbă,religie,opiniepoliticăsauoricealtăopinie,deoriginenaționalăsausocială,avere,nașteresauoricealteîmprejurări.Înafarădeaceasta,nusevafaceniciodeosebiredupăstatutulpolitic,juridicsauinternaționalalțăriisaualteritoriuluidecarețineopersoană,fiecăaceastățarăsauteritoriusuntindependente,subtutelă,neautonomesausupusevreuneialtelimităriasuveranității.</p>
+  </li>
+  <li>
+    <p>Oriceființăumanăaredreptullaviață,lalibertateșilasecuritateapersoaneisale.</p>
+  </li>
+  <li>
+    <p>Nimeninuvafiținutînsclavie,niciînservitute;sclavajulșicomerțulcusclavisuntinterzisesubtoateformelelor.</p>
+  </li>
+  <li>
+    <p>Nimeninuvafisupuslatorturi,nicilapedepsesautratamentecrude,inumanesaudegradante.</p>
+  </li>
+  <li>
+    <p>Fiecareomaredreptulsăiserecunoascăpretutindenipersonalitateajuridică.</p>
+  </li>
+  <li>
+    <p>Toțioameniisuntegaliînfațalegiișiau,fărăniciodeosebire,dreptullaoegalăprotecțiealegii.ToțioameniiaudreptullaoprotecțieegalăîmpotrivaoricăreidiscriminăricarearviolaprezentaDeclarațieșiîmpotrivaoricăreiprovocărilaoasemeneadiscriminare.</p>
+  </li>
+  <li>
+    <p>Oricepersoanăaredreptullasatisfacțiaefectivădinparteainstanțelorjuridicenaționalecompetenteîmpotrivaactelorcarevioleazădrepturilefundamentalece‐isuntrecunoscuteprinconstituțiesaulege.</p>
+  </li>
+  <li>
+    <p>Nimeninutrebuiesăfiearestat,deținutsauexilatînmodarbitrar.</p>
+  </li>
+  <li>
+    <p>Oricepersoanăaredreptulîndeplinăegalitatedeafiaudiatăînmodechitabilșipublicdecătreuntribunalindependentșiimparțialcarevahotărîfieasupradrepturilorșiobligațiilorsale,fieasupratemeinicieioricăreiacuzăriînmateriepenalăîndreptatăîmpotrivasa.</p>
+  </li>
+  <li>
+    <p>Oricepersoanăacuzatădecomitereaunuiactcucaracterpenalaredreptulsăfiepresupusănevinovatăpânăcândvinovățiasavafistabilităînmodlegalîncursulunuiprocespublicîncarei‐aufostasiguratetoategaranțiilenecesareapărăriisale.</p>
+    <p>Nimeninuvaficondamnatpentruacțiunisauomisiunicarenuconstituiau,înmomentulcândaufostcomise,unactcucaracterpenalconformdreptuluiinternaționalsaunațional.Deasemenea,nusevaaplicaniciopedeapsămaigreadecâtaceeacareeraaplicabilăînmomentulcândafostsăvârșitactulcucaracterpenal.</p>
+  </li>
+  <li>
+    <p>Nimeninuvafisupuslaimixtiuniarbitrareînviațasapersonală,înfamiliasa,îndomiciliulluisauîncorespondențasa,nicilaatingeriaduseonoareișireputațieisale.Oricepersoanăaredreptullaprotecțialegiiîmpotrivaunorasemeneaimixtiunisauatingeri.</p>
+  </li>
+  <li>
+    <p>Oricepersoanăaredreptuldeacirculaînmodliberșidea‐șialegereședințaîninteriorulgranițelorunuistat.</p>
+    <p>Oricepersoanăaredreptuldeapărăsioricețară,inclusivasa,șidereveniînțarasa.</p>
+  </li>
+  <li>
+    <p>Încazdepersecuție,oricepersoanăaredreptuldeacăutaazilșideabeneficiadeazilînaltețări.</p>
+    <p>Acestdreptnupoatefiinvocatîncazdeurmărirecerezultăînmodrealdintr‐ocrimădedreptcomunsaudinacțiunicontrarescopurilorșiprincipiilorOrganizațieiNațiunilorUnite.</p>
+  </li>
+  <li>
+    <p>Oricepersoanăaredreptullaocetățenie.</p>
+    <p>Nimeninupoatefilipsitînmodarbitrardecetățeniasasaudedreptuldea‐șischimbacetățenia.</p>
+  </li>
+  <li>
+    <p>Cuînceperedelaîmplinireavârsteilegale,bărbătulșifemeia,fărăniciorestricțieîncepriveșterasa,naționalitateasaureligia,audreptuldeasecăsătorișideaîntemeiaofamilie.Eiaudrepturiegalelacontractareacăsătoriei,îndecursulcăsătorieișiladesfacereaei.</p>
+    <p>Căsătorianupoatefiîncheiatădecâtcuconsimțământulliberșideplinalviitorilorsoți.</p>
+    <p>Familiaconstituieelementulnaturalșifundamentalalsocietățiișiaredreptullaocrotiredinparteasocietățiișiastatului.</p>
+  </li>
+  <li>
+    <p>Oricepersoanăaredreptullaproprietate,atâtsingură,câtșiînasociațiecualții.</p>
+    <p>Nimeninupoatefilipsitînmodarbitrardeproprietateasa.</p>
+  </li>
+  <li>
+    <p>Oriceomaredreptullalibertateagândirii,deconștiințășireligie;acestdreptincludelibertateadea‐șischimbareligiasauconvingerea,precumșilibertateadea‐șimanifestareligiasauconvingerea,singursauîmpreunăcualții,atâtînmodpublic,câtșiprivat,prinînvățătură,practicireligioase,cultșiîndeplinireariturilor.</p>
+  </li>
+  <li>
+    <p>Oriceomaredreptullalibertateaopiniilorșiexprimării;acestdreptincludelibertateadeaaveaopiniifărăimixtiunedinafară,precumșilibertateadeacăuta,deaprimișidearăspândiinformațiișiideiprinoricemijloaceșiindependentdefrontiereledestat.</p>
+  </li>
+  <li>
+    <p>Oricepersoanăaredreptullalibertateadeîntrunireșideasocierepașnică.</p>
+    <p>Nimeninupoatefisilitsăfăcăpartedintr‐oasociație.</p>
+  </li>
+  <li>
+    <p>Oricepersoanăaredreptuldealuapartelaconducereatreburilorpublicealețăriisale,fiedirect,fieprinreprezentanțiliberaleși.</p>
+    <p>Oricepersoanăaredreptuldeaccesegallafuncțiilepublicedințarasa.</p>
+    <p>Voințapoporuluitrebuiesăconstituiebazaputeriidestat;aceastăvoințătrebuiesăfieexprimatăprinalegerinefalsificate,caresăaibălocînmodperiodicprinsufragiuuniversal,egalșiexprimatprinvotsecretsauurmândoprocedurăechivalentăcaresăasigurelibertateavotului.</p>
+  </li>
+  <li>
+    <p>Oricepersoană,încalitateasademembrualsocietății,aredreptullasecuritateasocială;eaesteîndreptățităcaprinefortulnaționalșicolaborareainternațională,ținându‐seseamadeorganizareașiresurselefiecăreițări,săobținărealizareadrepturiloreconomice,socialeșiculturaleindispensabilepentrudemnitateasașiliberadezvoltareapersonalitățiisale.</p>
+  </li>
+  <li>
+    <p>Oricepersoanăaredreptullamuncă,laliberaalegereamunciisale,lacondițiiechitabileșisatisfăcătoaredemuncă,precumșilaocrotireaîmpotrivașomajului.</p>
+    <p>Toțioamenii,fărăniciodiscriminare,audreptullasalariuegalpentrumuncăegală.</p>
+    <p>Oriceomcaremunceștearedreptullaoretribuireechitabilășisatisfăcătoarecaresă‐iasigureatâtlui,câtșifamilieisale,oexistențăconformăcudemnitateaumanășicompletată,lanevoie,prinaltemijloacedeprotecțiesocială.</p>
+    <p>Oricepersoanăaredreptuldeaîntemeiasindicateșideaseafilialasindicatepentruapărareaintereselelorsale.</p>
+  </li>
+  <li>
+    <p>Oricepersoanăaredreptullaodihnășirecreație,inclusivlaolimitarerezonabilăazileidemuncășilaconcediiperiodiceplătite.</p>
+  </li>
+  <li>
+    <p>Oriceomaredreptullaunniveldetraicaresăasiguresănătateașibunăstarealuișifamilieisale,cuprinzândhrana,îmbrăcămintea,locuința,îngrijireamedicală,precumșiserviciilesocialenecesare;elaredreptullaasigurareîncazdeșomaj,boală,invaliditate,văduvie,bătrânețesauîncelelaltecazuridepierdereamijloacelordesubzistență,înurmaunorîmprejurăriindependentedevoințasa.</p>
+    <p>Mamașicopilulaudreptullaajutorșiocrotiredeosebite.Toțicopiii,fiecăsuntnăscuțiîncadrulcăsătorieisauînafaraacesteia,sebucurădeaceeașiprotecțiesocială.</p>
+  </li>
+  <li>
+    <p>Oricepersoanăaredreptullaînvățătură.Învățământultrebuiesăfiegratuit,celpuținînceeacepriveșteînvățământulelementarșigeneral.Învățământulelementartrebuiesăfieobligatoriu.Învățământultehnicșiprofesionaltrebuiesăfielaîndemânatuturor,iarînvățământulsuperiortrebuiesăfiedeasemeneaegal,accesibiltuturora,pebazădemerit.</p>
+    <p>Învățământultrebuiesăurmăreascădezvoltareadeplinăapersonalitățiiumaneșiîntărirearespectuluifațădedrepturileomuluișilibertățilefundamentale.Eltrebuiesăpromovezeînțelegerea,toleranța,prieteniaîntretoatepopoareleșitoategrupurilerasialesaureligioase,precumșidezvoltareaactivitățiiOrganizațieiNațiunilorUnitepentrumenținereapăcii.</p>
+    <p>Părințiiaudreptuldeprioritateînalegereafeluluideînvățământpentrucopiiilorminori.</p>
+  </li>
+  <li>
+    <p>Oricepersoanăaredreptuldealuaparteînmodliberlaviațaculturalăacolectivității,deasebucuradearteșideaparticipalaprogresulștiințificșilabinefacerilelui.</p>
+    <p>Fiecareomaredreptullaocrotireaintereselormoraleșimaterialecaredecurgdinoricelucrareștiințifică,literarăsauartisticăalcăreiautoreste.</p>
+  </li>
+  <li>
+    <p>OricepersoanăaredreptullaoorânduiresocialășiinternaționalăîncaredrepturileșilibertățileexpuseînprezentaDeclarațiepotfipedeplinînfăptuite.</p>
+  </li>
+  <li>
+    <p>Oricepersoanăareîndatoririfațădecolectivitate,deoarecenumaiîncadrulacesteiaesteposibilădezvoltarealiberășideplinăapersonalitățiisale.</p>
+    <p>Înexercitareadrepturilorșilibertățilorsale,fiecareomnuestesupusdecâtnumaiîngrădirilorstabiliteprinlege,exclusivînscopuldeaasiguracuvenitarecunoaștereșirespectareadrepturilorșilibertățiloraltorașicasăfiesatisfăcutejustelecerințealemoralei,ordiniipubliceșibunăstăriigeneraleîntr‐osocietatedemocratică.</p>
+    <p>AcestedrepturișilibertăținuvorputeafiînniciuncazexercitatecontrarscopurilorșiprincipiilorOrganizațieiNațiunilorUnite.</p>
+  </li>
+  <li>
+    <p>NiciodispozițieaprezenteiDeclarațiinupoatefiinterpretatăcaimplicândpentruvreunstat,gruparesaupersoanădreptuldeasededalavreoactivitatesaudeasăvârșivreunactîndreptatspredesființareaunordrepturisaulibertățienunțateînprezentaDeclarație.</p>
+  </li>
+</ol>

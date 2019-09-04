@@ -1,0 +1,122 @@
+<h1 align='center'>ITANGAZO RYAMAMAZA HOSE AGACIRO K'UMUNTU</h1>
+<h2 align='center'>Intangiliro.</h2>
+<p align='center'>Ikoraniro rusange lilibutsa ko:
+- Ugushyira ukizana, ituze n'ubutungane mu bihugu bishingiye ku karusho ka buli muntu, kadasibangana, gahamya icyubahiro akwiye n'agaciro twese duhulijeho,
+- Gusuzugura no kwirengagiza ako gaciro n'icyubahiro bya buli muntu nibyo byateye bamwe imigenzereze isa n'iy'inyamaswa, umutima w'umuntu utakwihanganira. Nicyogituma twemeza ko icyo umuntu wese yimilije imbere y'ibindi al'ugushyira akizana, nta nkomyi mu mvugo no mu bitekerezo, akibera aho nta nduru nta butindi,
+- Ali ngombwa ko hashingwa amategeko arengera ako gaciro ka buli muntu, akamulinda ubuja n'agahato,
+- Ikindi ngombwa nu gukomeza umubano w'ibihugu,
+- Ibihugu byunz'ubumwe byiyemeje muli Charte ya l'ONU kuzahora byubaha agaciro k'umuntu wese, yaba umugore yaba umugabo, bose niko bakwiye kwubahwa kimwe. Ibyo bihugu byiyemeje kandi kuzaharanira amajyambere mu mibanire m'imibereho y'abantu ku mudendezo,
+- Ibihugu byose byunz'ubumwe byarahiliye gufasha umuryango wa l'ONU kwubahisha hose agaciro n'uburenganzira bishingiye kuli kamere ya buli muntu,
+- Kugira ngo ibyo twarahiliye tubishyikire, tugomba no guhuza igitekerezo ku byerekeye ako gaciro n'uburenganzira bya buli muntu,
+- Ikoraniro rusange ryamamaje ili Tangazo ryerekeye agaciro ka buli muntu, ligomba kuyobora abaturage b'ibihugu byose uburyo bwo kwitoza umuco wo kwubaha agaciro n'uburenganzira bw'umuntu. Uwo muco niwo amategeko agenga buli gihugu n'atunganya umubano w'igihugu agomba gushishikalira kwinjuza muli byose, ali nu nyigisho z'urubyiruko mu mashuli, ali no mu milirere yose y'abaturage, kugira ngo bose hamwe, ali abatuye mu bihugu muli l'ONU, ndetse n'abatarashyikira ubwigenge, uwo muco abe aliwo bimiliza imbere.</p>
+<ol>
+  <li>
+    <p>Abantubosebavukaalikobakwiyeagacironokwubahwakimwe.Bosebavukanaubwengen'umutima,bagombakugiliranakivandimwe.</p>
+  </li>
+  <li>
+    <p>Umuntuweseakwiyekwemererwakwafiteagaciron'uburenganzirabwosebwahamijwemuliiliTangazo.Ntamuntuuzongeragucishwakuwundikumpamvugusaz'ubwoko,ibarary'umubili,idiniyemeracyangaseibitekerezoafitemulipolitiquenomuzindingingo,ntaweuzaziraigihuguakomokamo,ubworoamavukacyangaseindimimerereyindi.Kandintamuntuurutaundi,ngokukobababakomokamubihugubatareshya.Aliabaturageb'ibihugubyigengacyangasebigitwarwa,bikiyoborwan'ibindi,boseniabantukimwe.</p>
+  </li>
+  <li>
+    <p>Umuntuweseagombakubaho,gushyiraakizananokutarengana.</p>
+  </li>
+  <li>
+    <p>Ntamuntuukwiyeguhindukaimbohecyangaumuja.Kugiraabantuabajacyangasekubacururuzabiraciwerwose.</p>
+  </li>
+  <li>
+    <p>Ntamuntuugombakugilirwaurugomo,kuziraagashinyaguro,kwicwaurupfurubi.</p>
+  </li>
+  <li>
+    <p>Ahoumuntualihoseagombakurengerwan'amategekoy'igihugu.</p>
+  </li>
+  <li>
+    <p>Abantubosenikimwekubyerekeyeamategeko,kandibosenikiagombakubarengerakimwe,akabalindaakarenganegaciyeukubilin'iliTangazo,akabalindandetsen'ibishoborabyoseguteraakokarengane.</p>
+  </li>
+  <li>
+    <p>Bulimuntuafiteububashabwokuregerainkikoimigenzerezeyoseiciyekuburenganzirayahawen'amategeko.</p>
+  </li>
+  <li>
+    <p>Ntaweushoboragufungaumuntukukarenganecyangasekumucamugihugu.</p>
+  </li>
+  <li>
+    <p>Urubanzarw'umuntuwese,mbereyogucibwa,rugombakwumvikanakumugaragaro,ntakarengane,abacamanzabakabonakurukiranurabatabera.</p>
+  </li>
+  <li>
+    <p>Umuntuweseurezweigicumuro,mugiheataracirwaurubanzarukimuhamya,agombagufatwank'intunganekugezaigiheubugiranabibwebwemezan'urukikokumugaragaro,kandibamazekumuhauburyobwosebwokwiburanira.</p>
+    <p>Ntamuntuugombaguhanirwaamafutiyigezegukora,nibamugiheayakozentategekory'igihugucyangaryerekeyeumubanow'igihugu,ryalilibibujije.Kandilerontan'uzajyaacibwaigihanokirenzeicyaligitegetswe,igiheakozeakabiagombaguhanirwa.</p>
+  </li>
+  <li>
+    <p>Ntaweugombakwiroherantampamvumubyerekeyeimiberehoy'umuntun'iy'abe,murugorwenomunzandikoze,cyangasengoamusebye.Muliibyobyosekandiamategekoy'igihuguagombakulindaumuntuweseakarengane.</p>
+  </li>
+  <li>
+    <p>Umuntuweseagombakugendaukoashakamugihugu,nokwihitiramwoahoashakagutura.</p>
+    <p>Umuntuweseashoborakuvamugihuguabishatse,nokugarukamugihugucyekavukire.</p>
+  </li>
+  <li>
+    <p>Umuntuwese,iyoatotejwe,ashoboraguhungiramokwakirwamubindibihugu.</p>
+    <p>Ubwoburenganziraalikontibwarengeraumuntuukulikiranywekuberaubugomebusanzwe,cyangaseimigenzerezeyeinyuranyen'amaherezol'ONUyimilijeimbere.</p>
+  </li>
+  <li>
+    <p>Bulimuntuagombakwitilirwaigihugucyekavukire.</p>
+    <p>Icyokimenyetsocy'ubuturagentaweushoborakukinyagwakukarengane,alikoumuntuashoborakwiyakiraubuturagebw'ahoyihitiyemo.</p>
+  </li>
+  <li>
+    <p>Umuhungun'umukobwabagezemukigerocyokwubaka,bashoboragusezeranaukobashaka.Ntankomyiiturukakubwoko,kunkomokocyangaseidini.Mubyerekeyekurongoraumugabon'umugorebahwanijeagaciro,mbereyogusezerana,igihebalikumwendetsen'iyobatandukanye.</p>
+    <p>Ntabagombagushyingirwabatabyiyemereyeubwabo.</p>
+    <p>Ishingiroryamberery'umubanomubantunimurugo,amategekoyaletaagombakururengera.</p>
+  </li>
+  <li>
+    <p>Umuntuweseafiteububashabwokugiraicyoyitungira,ukwekwayenyinecyangaseafatanijen'abandi.</p>
+    <p>Ntaweushoborakunyagwaikintuyitungiyekukarengane.</p>
+  </li>
+  <li>
+    <p>Mubitekerezoby'umuntu,mubimutunganiyeidini,bulimuntuagombagushyiraakizana.Nukuvugakoashoboraguhinduraibitekezobyen'idini,kubigaragazamuruhamecyangaahiherereye,kubyigishanakubikulikiza,kumutimanomumihangoibigaragaza.</p>
+  </li>
+  <li>
+    <p>Bulimuntuakwiyegutekerzanokuvugaakamulikumutima.Nukuvugakoadakwiyekuziraibitekerezobye,koashoboragushaka,guhabwanokwamamazahoseukoashakaibihujen'icyoatekereza.</p>
+  </li>
+  <li>
+    <p>Abantubashoboraguterananakwiremamoamashyakamumahoro.</p>
+    <p>Ntamuntuukwiyeguhatirwakwinjiramw'ishyakaatabishaka.</p>
+  </li>
+  <li>
+    <p>Bulimuntuafiteuburenganzirabwoguhagurukiraibyerekeyeubutegetsibw'igihugucyekavukire,aliukubyigiramoubwe,cyangasekubishingaintumwazatowebitalimoagahato.</p>
+    <p>Mubyogukoreraletay'igihugucyabo,abaturagebosebagombagucishwamukigerokimwe.</p>
+    <p>Ubutegetsimugihugubukomokakubushakebw'abaturage.Ubwobushakebugaragaraukoigihecy'itorakigarutse.Mw'itoraabaturagebosebakuzebahwanijeijwe,kandibitorerauwobashatsentagahato.</p>
+  </li>
+  <li>
+    <p>Umuntuwesemugihugunikoagizwen'abandi.Ishyakary'abaturagen'ubugobokanebw'igihugubigombagukizabulimuntu,bikamugezakumiberehoimukwiyekandiimufashakujyambere.</p>
+  </li>
+  <li>
+    <p>Umuntuweseakwiyekubonaumulimoyihitiyemontagahato.Akawukoramuneza,bitalimoamananizakandiatikangakuburaamulimo.</p>
+    <p>Abakoraumulimoumwebosebagombaguhembwakimwe,ntakubera,</p>
+    <p>Umukoziweseagombaguhabwaumushaharaumutunzewen'abe,kandiakanarengerwan'amategekoalindaabakoziakarengane,</p>
+    <p>Umuntuweseashoboragufatanyan'abandigushingasyndicatszimurengera.</p>
+  </li>
+  <li>
+    <p>Bulimuntuukoraagombakurangizaakazimumasahaakwiyenoguhabwaibiruhuko,kandiiminsiahawey'ibiruhukoagombanayokuyihemberwa.</p>
+  </li>
+  <li>
+    <p>Umuntuweseakwiyeikimubeshahoneza,wen'abomurugo,cyanecyanemubyerekeyeimyambaroibyokurya,ahoatuyen'ibyokwivuza,mbeseibyangombwabyosengoumuntuashoborekubaho.Iyoumuntuyabuzeakazi,igihec'indwaracyangaubumuga,mubupfakazinomuzabukuru,mbeseiyoumuntuatakigiraikimubeshahobidaturutsekubwendebwe,agombwagutungwan'integanyoletayageneyeiminsimibi.</p>
+    <p>Ababyeyin'abanabakwiyecyanegufashwa.Kandiabanabosendetsen'ibinyandaro,bagombakurengerwakimwe.</p>
+  </li>
+  <li>
+    <p>Umuntuweseagombakurerwanaguhabwakubusainyigishozosez'amashuliyambere.Amashuliy'abanyamyugaagombagukwirahose.Kandiababishoboyebosebagombagufashwakimwekujyamumashulimakuru.</p>
+    <p>Imilereren'yoigombakugezaabantukubugabobuhamyekubongeramoicyubahirocy'agacirokabulimuntun'ibyoafitiyeuburenganzirabyose.Imilerereniyoizateraimbagaz'amokoanyuranye,nakoibihugubyose,kwumvikananokubanabitanduranyanibwoburyobwogufatanyanal'ONUgukwizaamahorohose.</p>
+    <p>Ababyeyibafiteuburenganzirabwogutoranilizaabanababoimilerereibakwiye.</p>
+  </li>
+  <li>
+    <p>Umuntuweseakwiyeukoashakamugitaramocyogezaubutoren'umucow'igihugu,akwiyekwizihizaibinezerejebyosenoguharaniraamajyamberen'ibyizabyoseubuhangabutumadushyikira.</p>
+    <p>Abahangabahimbyeikintugishyacyangaseabanditsib'ibitabo,bishoborakubaviramoinyunguy'ikiguzicyabyocyangasey'agacirobibahesha,nabyobikarengerwan'amategekoy'igihugu.</p>
+  </li>
+  <li>
+    <p>IbyemejwebyosemuliiliTangazobigombaamahoromubaturage,ndetsenomumibanirey'igihugu,kugirangobishoborekugiliraumuntuweseakamarokahageze.</p>
+  </li>
+  <li>
+    <p>Umuntunaweagombakumenyaagacirok'urugagarw'aboatuyemo,kukonarworumufashakwigezakubugabobuhamye.</p>
+    <p>Muburenganzirabwebwosen'agaciroafitebulimuntuagombakugarukirakurubibiyashingiwen'amategekoy'igihugu,kugirangon'abandibagerekugacirokabon'uburenganzirabwabo,munezan'ituzevy'ingagay'abadasumbana.</p>
+    <p>Ibyobyosebyahamijwentaweushoborakubyigarulirakuburyobuciyeukubilin'amaherzol'ONUyimilijeimbere.</p>
+  </li>
+  <li>
+    <p>Mumagamboyosey'iliTangazo,ntaLeta,ntangaga,ntan'umuntuushoborakwibwirakohaliilimugaububashabwatumaatambukakubyemejwehouburenganziramuliiliTangazo.</p>
+  </li>
+</ol>

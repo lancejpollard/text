@@ -1,0 +1,123 @@
+<h1 align='center'>DICHIARAZIONE UNIVERSALE DEI DIRITTI UMANI</h1>
+<h2 align='center'>Preambolo</h2>
+<p align='center'>Considerato che il riconoscimento della dignità inerente a tutti i membri della famiglia umana e dei loro diritti, uguali ed inalienabili, costituisce il fondamento della libertà, della giustizia e della pace nel mondo;
+Considerato che il disconoscimento e il disprezzo dei diritti umani hanno portato ad atti di barbarie che offendono la coscienza dell'umanità, e che l'avvento di un mondo in cui gli esseri umani godano della libertà di parola e di credo e della libertà dal timore e dal bisogno è stato proclamato come la più alta aspirazione dell'uomo;
+Considerato che è indispensabile che i diritti umani siano protetti da norme giuridiche, se si vuole evitare che l'uomo sia costretto a ricorrere, come ultima istanza, alla ribellione contro la tirannia e l'oppressione;
+Considerato che è indispensabile promuovere lo sviluppo di rapporti amichevoli tra le Nazioni;
+Considerato che i popoli delle Nazioni Unite hanno riaffermato nello Statuto la loro fede nei diritti umani fondamentali, nella dignità e nel valore della persona umana, nell'uguaglianza dei diritti dell'uomo e della donna, ed hanno deciso di promuovere il progresso sociale e un miglior tenore di vita in una maggiore libertà;
+Considerato che gli Stati membri si sono impegnati a perseguire, in cooperazione con le Nazioni Unite, il rispetto e l'osservanza universale dei diritti umani e delle libertà fondamentali;
+Considerato che una concezione comune di questi diritti e di questa libertà è della massima importanza per la piena realizzazione di questi impegni;
+L'ASSEMBLEA GENERALE
+proclama
+la presente dichiarazione universale dei diritti umani come ideale comune da raggiungersi da tutti i popoli e da tutte le Nazioni, al fine che ogni individuo ed ogni organo della società, avendo costantemente presente questa Dichiarazione, si sforzi di promuovere, con l'insegnamento e l'educazione, il rispetto di questi diritti e di queste libertà e di garantirne, mediante misure progressive di carattere nazionale e internazionale, l'universale ed effettivo riconoscimento e rispetto tanto fra i popoli degli stessi Stati membri, quanto fra quelli dei territori sottoposti alla loro giurisdizione.</p>
+<ol>
+  <li>
+    <p>Tuttigliesseriumaninasconoliberiedegualiindignitàediritti.Essisonodotatidiragioneedicoscienzaedevonoagiregliuniversoglialtriinspiritodifratellanza.</p>
+  </li>
+  <li>
+    <p>AdogniindividuospettanotuttiidirittietuttelelibertàenunciatenellapresenteDichiarazione,senzadistinzionealcuna,perragionidirazza,dicolore,disesso,dilingua,direligione,diopinionepoliticaodialtrogenere,dioriginenazionaleosociale,diricchezza,dinascitaodialtracondizione.Nessunadistinzionesaràinoltrestabilitasullabasedellostatutopolitico,giuridicoointernazionaledelpaeseodelterritoriocuiunapersonaappartiene,siaindipendente,osottopostoadamministrazionefiduciariaononautonomo,osoggettoaqualsiasilimitazionedisovranità.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadirittoallavita,allalibertàedallasicurezzadellapropriapersona.</p>
+  </li>
+  <li>
+    <p>Nessunindividuopotràesseretenutoinstatodischiavitùodiservitù;laschiavitùelatrattadeglischiavisarannoproibitesottoqualsiasiforma.</p>
+  </li>
+  <li>
+    <p>Nessunindividuopotràesseresottopostoatorturaoatrattamentooapunizionecrudeli,inumaniodegradanti.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadiritto,inogniluogo,alriconoscimentodellasuapersonalitàgiuridica.</p>
+  </li>
+  <li>
+    <p>Tuttisonoegualidinanziallaleggeehannodiritto,senzaalcunadiscriminazione,adunaegualetuteladapartedellalegge.TuttihannodirittoadunaegualetutelacontroognidiscriminazionecheviolilapresenteDichiarazionecomecontroqualsiasiincitamentoatalediscriminazione.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadirittoadun'effettivapossibilitàdiricorsoacompetentitribunalicontroatticheviolinoidirittifondamentalialuiriconosciutidallacostituzioneodallalegge.</p>
+  </li>
+  <li>
+    <p>Nessunindividuopotràesserearbitrariamentearrestato,detenutooesiliato.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadiritto,inposizionedipienauguaglianza,adunaequaepubblicaudienzadavantiaduntribunaleindipendenteeimparziale,alfinedelladeterminazionedeisuoidirittiedeisuoidoveri,nonchédellafondatezzadiogniaccusapenalecheglivengarivolta.</p>
+  </li>
+  <li>
+    <p>Ogniindividuoaccusatodiunreatoèpresuntoinnocentesinoachelasuacolpevolezzanonsiastataprovatalegalmenteinunpubblicoprocessonelqualeegliabbiaavutotuttelegaranzienecessarieperlasuadifesa.</p>
+    <p>Nessunindividuosaràcondannatoperuncomportamentocommissivoodomissivoche,almomentoincuisiastatoperpetuato,noncostituissereatosecondoildirittointernoosecondoildirittointernazionale.Nonpotràdelpariessereinflittaalcunapenasuperioreaquellaapplicabilealmomentoincuiilreatosiastatocommesso.</p>
+  </li>
+  <li>
+    <p>Nessunindividuopotràesseresottopostoadinterferenzearbitrarienellasuavitaprivata,nellasuafamiglia,nellasuacasa,nellasuacorrispondenza,néalesionedelsuoonoreedellasuareputazione.Ogniindividuohadirittoadesseretutelatodallaleggecontrotaliinterferenzeolesioni.</p>
+  </li>
+  <li>
+    <p>OgniindividuohadirittoallalibertàdimovimentoediresidenzaentroiconfinidiogniStato.</p>
+    <p>Ogniindividuohadirittodilasciarequalsiasipaese,inclusoilproprio,ediritornarenelpropriopaese.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohaildirittodicercareedigodereinaltripaesiasilodallepersecuzioni.</p>
+    <p>Questodirittononpotràessereinvocatoqualoral'individuosiarealmentericercatoperreatinonpoliticioperazionicontrarieaifinieaiprincipidelleNazioniUnite.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadirittoadunacittadinanza.</p>
+    <p>Nessunindividuopotràesserearbitrariamenteprivatodellasuacittadinanza,nédeldirittodimutarecittadinanza.</p>
+  </li>
+  <li>
+    <p>Uominiedonneinetàadattahannoildirittodisposarsiedifondareunafamiglia,senzaalcunalimitazionedirazza,cittadinanzaoreligione.Essihannoegualidirittiriguardoalmatrimonio,duranteilmatrimonioeall'attodelsuoscioglimento.</p>
+    <p>Ilmatrimoniopotràessereconclusosoltantoconilliberoepienoconsensodeifuturiconiugi.</p>
+    <p>LafamigliaèilnucleonaturaleefondamentaledellasocietàehadirittoadessereprotettadallasocietàedalloStato.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohaildirittoadavereunaproprietàsuapersonaleoincomuneconaltri.</p>
+    <p>Nessunindividuopotràesserearbitrariamenteprivatodellasuaproprietà.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadirittoallalibertàdipensiero,dicoscienzaedireligione;taledirittoincludelalibertàdicambiaredireligioneodicredo,elalibertàdimanifestare,isolatamenteoincomune,esiainpubblicocheinprivato,lapropriareligioneoilpropriocredonell'insegnamento,nellepratiche,nelcultoenell'osservanzadeiriti.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadirittoallalibertàdiopinioneediespressioneinclusoildirittodinonesseremolestatoperlapropriaopinioneequellodicercare,ricevereediffondereinformazionieideeattraversoognimezzoesenzariguardoafrontiere.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadirittoallalibertàdiriunioneediassociazionepacifica.</p>
+    <p>Nessunopuòesserecostrettoafarpartediun'associazione.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadirittodiparteciparealgovernodelpropriopaese,siadirettamente,siaattraversorappresentantiliberamentescelti.</p>
+    <p>Ogniindividuohadirittodiaccedereincondizionidieguaglianzaaipubbliciimpieghidelpropriopaese.</p>
+    <p>Lavolontàpopolareèilfondamentodell'autoritàdelgoverno;talevolontàdeveessereespressaattraversoperiodicheeveritiereelezioni,effettuateasuffragiouniversaleedeguale,edavotosegreto,osecondounaproceduraequivalentediliberavotazione.</p>
+  </li>
+  <li>
+    <p>Ogniindividuo,inquantomembrodellasocietà,hadirittoallasicurezzasociale,nonchéallarealizzazioneattraversolosforzonazionaleelacooperazioneinternazionaleedinrapportoconl'organizzazioneelerisorsediogniStato,deidirittieconomici,socialieculturaliindispensabiliallasuadignitàedalliberosviluppodellasuapersonalità.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadirittoallavoro,allaliberasceltadell'impiego,agiusteesoddisfacenticondizionidilavoroedallaprotezionecontroladisoccupazione.</p>
+    <p>Ogniindividuo,senzadiscriminazione,hadirittoadegualeretribuzioneperegualelavoro.</p>
+    <p>Ogniindividuochelavorahadirittoadunarimunerazioneequaesoddisfacentecheassicurialuistessoeallasuafamigliaunaesistenzaconformealladignitàumanaedintegrata,senecessario,daaltrimezzidiprotezionesociale.</p>
+    <p>Ogniindividuohadirittodifondaredeisindacatiediaderirviperladifesadeipropriinteressi.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadirittoalriposoedallosvago,comprendendoinciòunaragionevolelimitazionedelleoredilavoroeferieperiodicheretribuite.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadirittoaduntenoredivitasufficienteagarantirelasaluteeilbenessereproprioedellasuafamiglia,conparticolareriguardoall'alimentazione,alvestiario,all'abitazione,eallecuremedicheeaiservizisocialinecessari;edhadirittoallasicurezzaincasodidisoccupazione,malattia,invalidità,vedovanza,vecchiaiaoinaltrocasodiperditadimezzidisussistenzapercircostanzeindipendentidallasuavolontà.</p>
+    <p>Lamaternitàel'infanziahannodirittoaspecialicureedassistenza.Tuttiibambini,natinelmatrimonioofuoridiesso,devonogoderedellastessaprotezionesociale.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadirittoall'istruzione.L'istruzionedeveesseregratuitaalmenoperquantoriguardaleclassielementariefondamentali.L'istruzioneelementaredeveessereobbligatoria.L'istruzionetecnicaeprofessionaledeveesseremessaallaportatadituttiel'istruzionesuperioredeveessereegualmenteaccessibileatuttisullabasedelmerito.</p>
+    <p>L'istruzionedeveessereindirizzataalpienosviluppodellapersonalitàumanaedalrafforzamentodelrispettodeidirittiumaniedellelibertàfondamentali.Essadevepromuoverelacomprensione,latolleranza,l'amiciziafratutteleNazioni,igruppirazzialiereligiosi,edevefavorirel'operadelleNazioniUniteperilmantenimentodellapace.</p>
+    <p>Igenitorihannodirittodiprioritànellasceltadelgenerediistruzionedaimpartireailorofigli.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadirittodiprendereparteliberamenteallavitaculturaledellacomunità,digoderedelleartiediparteciparealprogressoscientificoedaisuoibenefici.</p>
+    <p>Ogniindividuohadirittoallaprotezionedegliinteressimoraliematerialiderivantidaogniproduzionescientifica,letterariaeartisticadicuieglisiaautore.</p>
+  </li>
+  <li>
+    <p>OgniindividuohadirittoadunordinesocialeeinternazionalenelqualeidirittielelibertàenunciatiinquestaDichiarazionepossanoesserepienamenterealizzati.</p>
+  </li>
+  <li>
+    <p>Ogniindividuohadeidoveriversolacomunità,nellaqualesoltantoèpossibileilliberoepienosviluppodellasuapersonalità.</p>
+    <p>Nell'eserciziodeisuoidirittiedellesuelibertà,ognunodeveesseresottopostosoltantoaquellelimitazionichesonostabilitedallaleggeperassicurareilriconoscimentoeilrispettodeidirittiedellelibertàdeglialtriepersoddisfarelegiusteesigenzedellamorale,dell'ordinepubblicoedelbenesseregeneraleinunasocietàdemocratica.</p>
+    <p>QuestidirittiequestelibertànonpossonoinnessuncasoessereesercitatiincontrastoconifinieprincipidelleNazioniUnite.</p>
+  </li>
+  <li>
+    <p>NullanellapresenteDichiarazionepuòessereinterpretatonelsensodiimplicareundirittodiunqualsiasiStato,gruppoopersonadiesercitareun'attivitàodicompiereunattomirantealladistruzionedialcunodeidirittiedellelibertàinessaenunciati.</p>
+  </li>
+</ol>

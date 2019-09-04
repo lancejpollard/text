@@ -1,0 +1,122 @@
+<h1 align='center'>JÑA 'A YO PJOSU̸ TEXE YE TE̱'E̱ NUYO KA̸NRA̸ A XESE NE XOÑIJOMU</h1>
+<h2 align='center'>PJU̸RU̸</h2>
+<p align='center'>Panru̸ji k'u̸ mara mimiji na joo texe yo nte̱'e̱ in dya ra chu̱nji, numa so'o k'u̸ ra mamu̸ji k'u̸ ri chjekjoji texezgoji.
+Panru̸ji k'u̸ ma dya ri pjechiji texto yo jña'a nuyo nrra pjosu̸ ye nte̱'e̱, nudyama so'o k'u̸ ra potr'u̸ji yo in Kjuarma; ngek'ua nesta nura mbaraji k'u̸ ye nte̱'e̱, ma sa̸ja̸ kja ne xoñi jomu̸, na kjuana k'u̸ rambesi nura zi'i, ra so'o mamu̸ nu in jña'a ñeje ra eme nu K'inchi angeze.
+Panru̸ji k'u̸ nuyo jña'a yo pjosu̸ ye nte̱'e̱ ximi nesta ra k'uatr'u̸ kja xiskuama, ngek'ua dya ra chu̱'u̱nji.
+Panru̸ji k'u̸ nesta ra mimi na jo'o texto ye tr'ajñiñi.
+Panru̸ji k'u̸ yo jñiñi ye jmuru̸ kja nu tr'angumu̸ a xoñijomu̸, o dyu̸su̸ji ye jña'a kja naja xiskuama, jango mamu̸ yo nrra pjosu̸ yo nte̱'e̱ ñeje mamu̸ k'u̸ yo b'ezo ñe ye nrrixo chjetroji, kjana xits'iji k'u̸ ra mbox k'u̸ji nura jok'u̸ji jango ri mimiji nu padya.
+Panru̸ji k'u̸ nuyo nrrajñiñi yo o jmuru̸ji kja nu tr'angumu̸ kja xoñijomu̸, ngek'ua ra mbosu̸ji texto yo b'ezhi ñeje yo pjosu̸ ye nte̱'e̱.
+Panru̸ji k'u̸ nu k'inchijiyo nu pjosu̸ yo b'ezo nrra na kjuana ngek'ua ra dyatrajiyo.
+Nu jmunte̱ nu tr'angumu̸ mamu̸
+Nu Jña'a yo Pjosu̸ Texe ye Te̱'e̱ nuyo Ka̸nra̸ a xese ne Xoñijomu̸ ngeje k'uatr'u̸ k'u̸ yo jñiñi ra mimiji na jo'o, ngek'ua ye nte̱'e̱ ñeje yo ngumu̸ nesta k'u̸ ra mbara yo, ga kjaba ra so'o ra jichi texto yo d'ieb'e panru̸ji, k'u̸ nuzgoji ri chjekjoji ra jandaji na jo'o yo in kjuarmaji yo na mimi yo nañ'io e jñiñi.</p>
+<ol>
+  <li>
+    <p>Texeyonte̱'e̱chjetrjoji,angezejiximixo'ojiñejek'inchiji,nestarangaranajo'ok'odyajaente̱'e̱.</p>
+  </li>
+  <li>
+    <p>Texeyonte̱'e̱chjejutrjojinzakjagamamu̸kjanaXiskuamana,zoyodyajab'ezorinañ'ioyoinnze'e,zorinrixo,zorinañ'ionuinjña'a,oyeemenumizhokjimi,oyodyayopesi.Ximi,dyaso'onurajuantrjojiyente̱'e̱nuyokjadadyoets'ibepji,onamiminujuemetrjoejñiñizorinanojoorits'ik'etrjo.</p>
+  </li>
+  <li>
+    <p>Texeyob'ezoonrrixoso'orangarañejeranok'u̸ximirambosu̸ji.</p>
+  </li>
+  <li>
+    <p>Dyakjosoorayab'u̸jiorazad'u̸ji,nzakjagaxits'ijinuxiskuamana.</p>
+  </li>
+  <li>
+    <p>Dyakjosooradye'eji,nudyayodyananjo'o.</p>
+  </li>
+  <li>
+    <p>Texeyonte̱'e̱,jangonzhodu̸,dyaso'orangontr'u̸jikjapjoru̸.</p>
+  </li>
+  <li>
+    <p>Chjetrojitexekjaxiskuamayopjoxku̸ji,texezgojirasooramboxk'u̸jinzakjagaxits'ijinakjuamana.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixopesiyombostekjaxiskuama,nujuajangorats'apu̸jiyooru̸,nzakjanukjuamayoripesigojiyeMe'bonrro.</p>
+  </li>
+  <li>
+    <p>Dyakjosoorazu̸ru̸jiorangontr'u̸jikjapjoru̸.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixosoorambosu̸ji,k'u̸gachjetrojijangogadya̸tr'a̸pu̸jinujojña'a,nzakjanamamu̸nuxiskuama,nuximinestaraxoru̸yeb'ota.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixoso'ok'u̸rambosu̸jimajyasu̸jik'u̸pjekjoots'a,ximinestarajñanrrayodyant_'e̱jangogapjendioji.</p>
+    <p>Dyzkjosoorajya̸sa̸jinuyodyaots'a,gakjabamamu̸yojñagojiñejenunaxiskuamana.Ximidyakjopjenrrirats'apu̸jimapjekjoombonu̸.</p>
+  </li>
+  <li>
+    <p>Dyakjosoopjekjoramaxipjijikjainnzumu̸,yoinnte̱'e̱ojangonamiminuyonguechjene.Texeyob'ezoonrrizosoorambosu̸jima.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixosook'u̸ranzhodu̸orajya̸ba̸inngumu̸jangoneeangeze.</p>
+    <p>Texeb'ezoonrrixosook'u̸rambedyejangoneeangeze,kjaranzhogu̸manee.</p>
+  </li>
+  <li>
+    <p>Majod'u̸ji,texeb'ezoonrrixosook'u̸rajyod'u̸kjorambosu̸,kjajñiñijangoranee.</p>
+    <p>Nudyanumboxte,dyakjosooranguatu̸,mad'ante̱'e̱pjekjoots'a,ngejenumamu̸nangumu̸xoñijomu̸.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixonestad'amejomu̸.</p>
+    <p>Dyakjosook'u̸rangupu̸jinumejomu̸nuojuanu̸,oraneerambot'u̸pu̸.</p>
+  </li>
+  <li>
+    <p>Yab'ezoñejeyenrrixo,maamate'eji,sook'urachju̱ntu̸jiindyakjosoramamu̸k'u̸iyo,gakjabarambesijiyoneeji,zoranguaru̸nuchjuntu̸.</p>
+    <p>Ngetrjomaraneeyotr'iinuyorachjunt'u̸sook'u̸rats'ajima.</p>
+    <p>Nuchjuntu̸ngejenunrrapjosu̸nuyojñiñingek'uanestak'u̸xirambosu̸jidyayo.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixosook'u̸rambes'inats'ik'ejomu̸onapunkju̸.</p>
+    <p>Dyakjosooranrrenbijiinjomu̸.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixosook'u̸rangichiyoranee,k'u̸ramakjanits'iminurajuajnu̸;ximisook'u̸rapot'u̸nuinnits'imiomizhokjimi,zorid'ats'eorikjuleji,parajichiji,rats'ajiñejerajandaji.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixosook'u̸mamu̸yok'inchi,nudyanuximipjosu̸ngek'uadyakjopjeraxipjimaramamu̸nuyongichiangezenujuajangoranee.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixosook'u̸rajumru̸koyodyajaente̱'e̱.</p>
+    <p>Dyakjosook'u̸ranrrutr'u̸kjayojmuru̸.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrixosook'u̸rajuajnu̸nuyoinxotakjainjñiñi,rats'aseoraokjokjoranrra̸ga̸.</p>
+    <p>Texeb'ezoonrrixosook'u̸ximirajuanu̸jiangezengek'uarats'aesotakjainjñiñi.</p>
+    <p>Nunuramamu̸nujñiñingejedyanunakjuanu̸,ngek'uagakjabamarajuanu̸jiyojmu,soonuratsajijangoganeejiangezeji.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixonujuanamimikjad'ajñiñisook'u̸ramiminajo'o,gakjabanujñiñijangoote'e,ximinestanurambosu̸angezengek'uadyakjorachu̱nb'iximinestaraunub'epji,inrajya̸ba̸engumu̸jangoramaeñe.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixosook'u̸rapepji,ximisoonurajuajnu̸jangoneek'u̸rapepjingek'uaranrronajo'o.</p>
+    <p>Texeb'ezoonrrixo,dyanestarajuanu̸ji,ngek'uarangontr'u̸jiyomerio.</p>
+    <p>Texeb'ezoonrrixoyopepji,nestaranrrojinajo'o,gakjabaraso'oraunu̸k'u̸razi'iyointe̱'e̱,ximirambosu̸nuijñiñimarab'ezhi.</p>
+    <p>Texeb'ezoonrrixosook'u̸rajmuru̸jijangonapepjingek'uarapjendioyonrrapjosu̸ji.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixosook'u̸rasoya,inrats'anuranee,ximirapezhejiyozu̸nu̸mapepjikjanarangontr'u̸jimarasoya.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixosook'u̸ramiminajo'o,nunrrarambosu̸yointe̱'e̱,nunestaradya̸tr'a̸,nurañoñu̸ji,nurajye'eb'ito,nuinngumu̸ñejetextoyonrrab'ezhi;ximisook'u̸rambosu̸jimadyaripepji,marisodye,mapjekjoriso'o,marid'ase,maaripaleomaotrjok'u̸riju̱'u̱paramimi.</p>
+    <p>Nuyonanañejeyots'itr'ingejeyonrranestak'u̸rapjosu̸ji.Textoyokjats'ilelenuyosiiintaraoiyo,ximichjetrjojikjayodyaja.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixosook'u̸raxoru̸.Nuxoru̸dyarangontr'ujinumangejek'u̸kjapju̸ru̸jitrjo.Nuxoru̸nepju̸ru̸ngejenunakjuana.Kjanayodyajayeanojojirits'atexeyoji;maranejiranguaru̸jinuxonputeodyaterachjetrjojikjatextojimaanrroji.</p>
+    <p>Nuxoru̸ngejenukjan'u̸texeyonte̱'e̱rajontejiximikjak'uramiminajo'onzakjakjuarmaji;rats'anuk'inchiñejek'u̸dyarachu'uyojñiñiñejeramiminajo'oyote̱'e̱yejñatrjojiximirapjoru̸yokjanungumu̸yopjosu̸texeyejñiñiyoka̸nkra̸axesenuxoñijomu̸.</p>
+    <p>Nuyotarasook'u̸rajuajnu̸pjembeyoxoru̸yorajichijiyoinchi'i.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixosook'u̸rajuajnu̸yonrramamu̸k'u̸rambos'u̸k'u̸rambaranuyob'u̸b'u̸jikjajñiñi,gakjabanakjuanak'u̸ranteji.</p>
+    <p>Texeb'ezoonrrixosook'u̸ranrromerioorambarajimadyopju̸eb'epji,nudyopju̸angeze.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixosook'u̸ramamu̸jangoneek'u̸ramimikjainjñiñiokjaxoñijomu̸nzakjagamamu̸kjanaxiskuamana.</p>
+  </li>
+  <li>
+    <p>Texeb'ezoonrrixopanru̸k'u̸nuinjñiñingejenunrranestangek'uarambesiyonesta.</p>
+    <p>Nunranestajingek'u̸rakjajiyomasirineeji,texeente̱'e̱nestak'u̸rats'ayomamu̸nuskuamagakjanurambaru̸jagamimiinjangogane'eyoindyojuiñejegajñanrru̸najo'otextoyoja̸ra̸axes'enuxoñijomu̸.</p>
+    <p>Nudyayonrrapjosu̸yente̱'e̱dyasoo,k'u̸rakjajimadyaripanru̸jinumamu̸nungumu̸nupjosu̸yente̱'e̱yoka̸nra̸axesenuxoñijomu̸.</p>
+  </li>
+  <li>
+    <p>Nuxiskuamanaso'ok'u̸rats'atextoyojñiñiyoja̸ra̸axesenuxoñijomu̸oyente̱'e̱,ngek'uarasoorats'ajiyets'ibepjinurambosu̸texeyete̱'e̱nzakjagamamu̸naxiskuamana.</p>
+  </li>
+</ol>

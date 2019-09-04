@@ -1,0 +1,121 @@
+<h1 align='center'>UNIVERSELE VERKLARING VAN DE RECHTEN VAN DE MENS</h1>
+<h2 align='center'>Preambule</h2>
+<p align='center'>Overwegende, dat erkenning van de inherente waardigheid en van de gelijke en onvervreemdbare rechten van alle leden van de mensengemeenschap grondslag is voor de vrijheid, gerechtigheid en vrede in de wereld;
+Overwegende, dat terzijdestelling van en minachting voor de rechten van de mens geleid hebben tot barbaarse handelingen, die het geweten van de mensheid geweld hebben aangedaan en dat de komst van een wereld, waarin de mensen vrijheid van meningsuiting en geloof zullen genieten, en vrij zullen zijn van vrees en gebrek, is verkondigd als het hoogste ideaal van iedere mens;
+Overwegende, dat het van het grootste belang is, dat de rechten van de mens beschermd worden door de suprematie van het recht, opdat de mens niet gedwongen worde om in laatste instantie zijn toevlucht te nemen tot opstand tegen tyrannie en onderdrukking;
+Overwegende, dat het van het grootste belang is om de ontwikkeling van vriendschappelijke betrekkingen tussen de naties te bevorderen;
+Overwegende, dat de volkeren van de Verenigde Naties in het Handvest hun vertrouwen in de fundamentele rechten van de mens, in de waardigheid en de waarde van de mens en in de gelijke rechten van mannen en vrouwen opnieuw hebben bevestigd, en besloten hebben om sociale vooruitgang en een hogere levensstandaard in groter vrijheid te bevorderen;
+Overwegende, dat de Staten, welke Lid zijn van de Verenigde Naties, zich plechtig verbonden hebben om, in samenwerking met de Organisatie van de Verenigde Naties, overal de eerbied voor en inachtneming van de rechten van de mens en de fundamentele vrijheden te bevorderen;
+Overwegende, dat het van het grootste belang is voor de volledige nakoming van deze verbintenis, dat een ieder begrip hebbe voor deze rechten en vrijheden;
+Op grond daarvan proclameert de Algemene Vergadering deze Universele Verklaring van de Rechten van de Mens als het gemeenschappelijk door alle volkeren en alle naties te bereiken ideaal, opdat ieder individu en elk orgaan van de gemeenschap, met deze verklaring voortdurend voor ogen, er naar zal streven door onderwijs en opvoeding de eerbied voor deze rechten en vrijheden te bevorderen, en door vooruitstrevende maatregelen, op nationaal en internationaal terrein, deze rechten algemeen en daadwerkelijk te doen erkennen en toepassen, zowel onder de volkeren van Staten die Lid van de Verenigde Naties zijn, zelf, als onder de volkeren van gebieden, die onder hun jurisdictie staan:</p>
+<ol>
+  <li>
+    <p>Allemensenwordenvrijengelijkinwaardigheidenrechtengeboren.Zijzijnbegiftigdmetverstandengeweten,enbehorenzichjegenselkanderineengeestvanbroederschaptegedragen.</p>
+  </li>
+  <li>
+    <p>Eeniederheeftaanspraakopallerechtenenvrijheden,indezeVerklaringopgesomd,zonderenigonderscheidvanwelkeaardook,zoalsras,kleur,geslacht,taal,godsdienst,politiekeofandereovertuiging,nationaleofmaatschappelijkeafkomst,eigendom,geboorteofanderestatus.Verderzalgeenonderscheidwordengemaaktnaardepolitieke,juridischeofinternationalestatusvanhetlandofgebied,waartoeiemandbehoort,onverschilligofheteenonafhankelijk,trust-,ofniet-zelfbesturendgebiedbetreft,danwelofereenanderebeperkingvandesoevereiniteitbestaat.</p>
+  </li>
+  <li>
+    <p>Eeniederheefthetrechtopleven,vrijheidenonschendbaarheidvanzijnpersoon.</p>
+  </li>
+  <li>
+    <p>Niemandzalinslavernijofhorigheidgehoudenworden.Slavernijenslavenhandeliniederevormzijnverboden.</p>
+  </li>
+  <li>
+    <p>Niemandzalonderworpenwordenaanfolteringen,nochaaneenwrede,onmenselijkeofonterendebehandelingofbestraffing.</p>
+  </li>
+  <li>
+    <p>Eeniederheeft,waarhijzichookbevindt,hetrechtalspersoonerkendtewordenvoordewet.</p>
+  </li>
+  <li>
+    <p>Allenzijngelijkvoordewetenhebbenzonderonderscheidaanspraakopgelijkebeschermingdoordewet.AllenhebbenaanspraakopgelijkebeschermingtegeniedereachterstellinginstrijdmetdezeVerklaringentegeniedereophitsingtoteendergelijkeachterstelling.</p>
+  </li>
+  <li>
+    <p>Eeniederheeftrechtopdaadwerkelijkerechtshulpvanbevoegdenationalerechterlijkeinstantiestegenhandelingen,welkeinstrijdzijnmetdegrondrechtenhemtoegekendbijGrondwetofwet.</p>
+  </li>
+  <li>
+    <p>Niemandzalonderworpenwordenaanwillekeurigearrestatie,detentieofverbanning.</p>
+  </li>
+  <li>
+    <p>Eeniederheeft,invollegelijkheid,rechtopeeneerlijkeenopenbarebehandelingvanzijnzaakdooreenonafhankelijkeenonpartijdigerechterlijkeinstantiebijhetvaststellenvanzijnrechtenenverplichtingenenbijhetbepalenvandegegrondheidvaneentegenhemingesteldestrafvervolging.</p>
+  </li>
+  <li>
+    <p>Eenieder,diewegenseenstrafbaarfeitwordtvervolgd,heefterrechtopvooronschuldiggehoudenteworden,totdatzijnschuldkrachtensdewetbewezenwordtineenopenbarerechtszitting,waarbijhemallewaarborgen,nodigvoorzijnverdediging,zijntoegekend.</p>
+    <p>Niemandzalvoorschuldiggehoudenwordenaanenigstrafrechtelijkvergrijpopgrondvanenigehandelingofenigverzuim,welkenaarnationaalofinternationaalrechtgeenstrafrechtelijkvergrijpbetekendenophettijdstip,waaropdehandelingofhetverzuimbegaanwerd.Evenminzaleenzwaarderestrafwordenopgelegddandie,welketentijdevanhetbegaanvanhetstrafbarefeitvantoepassingwas.</p>
+  </li>
+  <li>
+    <p>Niemandzalonderworpenwordenaanwillekeurigeinmenginginzijnpersoonlijkeaangelegenheden,inzijngezin,zijntehuisofzijnbriefwisseling,nochaanenigeaantastingvanzijneerofgoedenaam.Tegeneendergelijkeinmengingofaantastingheefteeniederrechtopbeschermingdoordewet.</p>
+  </li>
+  <li>
+    <p>EeniederheefthetrechtzichvrijelijkteverplaatsenentevertoevenbinnendegrenzenvanelkeStaat.</p>
+    <p>Eeniederheefthetrechtwelklandook,metinbegripvanhetzijne,teverlatenennaarzijnlandterugtekeren.</p>
+  </li>
+  <li>
+    <p>Eeniederheefthetrechtominanderelandenasieltezoekenentegenietentegenvervolging.</p>
+    <p>Opditrechtkangeenberoepwordengedaaningevalvanstrafvervolgingenwegensmisdrijvenvanniet-politiekeaardofhandelingeninstrijdmetdedoeleindenenbeginselenvandeVerenigdeNaties.</p>
+  </li>
+  <li>
+    <p>Eeniederheefthetrechtopeennationaliteit.</p>
+    <p>Aanniemandmagwillekeurigzijnnationaliteitwordenontnomen,nochhetrechtwordenontzegdomvannationaliteitteveranderen.</p>
+  </li>
+  <li>
+    <p>Zonderenigebeperkingopgrondvanras,nationaliteitofgodsdienst,hebbenmannenenvrouwenvanhuwbareleeftijdhetrechtomtehuweneneengezintestichten.Zijhebbengelijkerechtenwathethuwelijkbetreft,tijdenshethuwelijkenbijdeontbindingervan.</p>
+    <p>Eenhuwelijkkanslechtswordengeslotenmetdevrijeenvolledigetoestemmingvandeaanstaandeechtgenoten.</p>
+    <p>HetgezinisdenatuurlijkeenfundamentelegroepseenheidvandemaatschappijenheeftrechtopbeschermingdoordemaatschappijendeStaat.</p>
+  </li>
+  <li>
+    <p>Eeniederheeftrechtopeigendom,hetzijalleen,hetzijtezamenmetanderen.</p>
+    <p>Niemandmagwillekeurigvanzijneigendomwordenberoofd.</p>
+  </li>
+  <li>
+    <p>Eeniederheeftrechtopvrijheidvangedachte,gewetenengodsdienst;ditrechtomvattevensdevrijheidomvangodsdienstofovertuigingteveranderen,alsmededevrijheidhetzijalleen,hetzijmetanderenzowelinhetopenbaaralsinzijnparticulierelevenzijngodsdienstofovertuigingtebelijdendoorhetonderwijzenervan,doordepraktischetoepassing,dooreredienstendeinachtnemingvandegebodenenvoorschriften.</p>
+  </li>
+  <li>
+    <p>Eeniederheeftrechtopvrijheidvanmeningenmeningsuiting.Ditrechtomvatdevrijheidomzonderinmengingeenmeningtekoesterenenomdoorallemiddelenenongeachtgrenzeninlichtingenendenkbeeldenoptesporen,teontvangenendoortegeven.</p>
+  </li>
+  <li>
+    <p>Eeniederheeftrechtopvrijheidvanvreedzameverenigingenvergadering.</p>
+    <p>Niemandmagwordengedwongenomtoteenverenigingtebehoren.</p>
+  </li>
+  <li>
+    <p>Eeniederheefthetrechtomdeeltenemenaanhetbestuurvanzijnland,rechtstreeksofdoormiddelvanvrijgekozenvertegenwoordigers.</p>
+    <p>Eeniederheefthetrechtomopvoetvangelijkheidtewordentoegelatentotdeoverheidsdienstenvanzijnland.</p>
+    <p>DewilvanhetvolkzaldegrondslagzijnvanhetgezagvandeRegering;dezewilzaltotuitingkomeninperiodiekeeneerlijkeverkiezingen,diegehoudenzullenwordenkrachtensalgemeenengelijkwaardigkiesrechtenbijgeheimestemmingenofvolgenseenprocedure,dieevenzeerdevrijheidvandestemmenverzekert.</p>
+  </li>
+  <li>
+    <p>Eeniederheeftalslidvandegemeenschaprechtopmaatschappelijkezekerheidenheefteraanspraakop,datdoormiddelvannationaleinspanningeninternationalesamenwerking,enovereenkomstigdeorganisatieendehulpbronnenvandebetreffendeStaat,deeconomische,socialeenculturelerechten,dieonmisbaarzijnvoorzijnwaardigheidenvoordevrijeontplooiingvanzijnpersoonlijkheid,verwezenlijktworden.</p>
+  </li>
+  <li>
+    <p>Eeniederheeftrechtoparbeid,opvrijekeuzevanberoep,oprechtmatigeengunstigearbeidsvoorwaardenenopbeschermingtegenwerkloosheid.</p>
+    <p>Eenieder,zonderenigeachterstelling,heeftrechtopgelijkloonvoorgelijkearbeid.</p>
+    <p>Eenieder,diearbeidverricht,heeftrechtopeenrechtvaardigeengunstigebeloning,welkehemenzijngezineenmenswaardigbestaanverzekert,welkebeloningzonodigmetanderemiddelenvansocialebeschermingzalwordenaangevuld.</p>
+    <p>Eeniederheefthetrechtomvakverenigingenopterichtenenzichdaarbijaantesluitenterbeschermingvanzijnbelangen.</p>
+  </li>
+  <li>
+    <p>Eeniederheeftrechtoprustenopeigenvrijetijd,metinbegripvaneenredelijkebeperkingvandearbeidstijd,enopperiodiekevakantiesmetbehoudvanloon.</p>
+  </li>
+  <li>
+    <p>Eeniederheeftrechtopeenlevensstandaard,diehooggenoegisvoordegezondheidenhetwelzijnvanzichzelfenzijngezin,waaronderinbegrepenvoeding,kleding,huisvestingengeneeskundigeverzorgingendenoodzakelijkesocialediensten,alsmedehetrechtopvoorzieningingevalvanwerkloosheid,ziekte,invaliditeit,overlijdenvandeechtgenoot,ouderdomofeenandergemisaanbestaansmiddelen,ontstaantengevolgevanomstandighedenonafhankelijkvanzijnwil.</p>
+    <p>Moederenkindhebbenrechtopbijzonderezorgenbijstand.Allekinderen,aldannietwettig,zullendezelfdesocialebescherminggenieten.</p>
+  </li>
+  <li>
+    <p>Eeniederheeftrechtoponderwijs;hetonderwijszalkostelooszijn,althanswathetlagerenbasisonderwijsbetreft.Hetlageronderwijszalverplichtzijn.Ambachtsonderwijsenberoepsopleidingzullenalgemeenbeschikbaarwordengesteld.Hogeronderwijszalopenstaanvooreenieder,diedaartoedebegaafdheidbezit.</p>
+    <p>Hetonderwijszalgerichtzijnopdevolleontwikkelingvandemenselijkepersoonlijkheidenopdeversterkingvandeeerbiedvoorderechtenvandemensendefundamentelevrijheden.Hetzalhetbegrip,deverdraagzaamheidendevriendschaponderallenaties,rassenofgodsdienstigegroepenbevorderenenhetzaldewerkzaamhedenvandeVerenigdeNatiesvoordehandhavingvandevredesteunen.</p>
+    <p>Aandeouderskomtindeeersteplaatshetrechttoeomdesoortvanopvoedingenonderwijstekiezen,welkeaanhunkinderenzalwordengegeven.</p>
+  </li>
+  <li>
+    <p>Eeniederheefthetrechtomvrijelijkdeeltenemenaanhetculturelelevenvandegemeenschap,omtegenietenvankunstenomdeeltehebbenaanwetenschappelijkevooruitgangendevruchtendaarvan.</p>
+    <p>Eeniederheefthetrechtopdebeschermingvandegeestelijkeenmateriëlebelangen,voortspruitendeuiteenwetenschappelijk,letterkundigofartistiekwerk,dathijheeftvoortgebracht.</p>
+  </li>
+  <li>
+    <p>Eeniederheeftrechtophetbestaanvaneenzodanigemaatschappelijkeeninternationaleorde,datderechtenenvrijheden,indezeVerklaringgenoemd,daarintenvollekunnenwordenverwezenlijkt.</p>
+  </li>
+  <li>
+    <p>Eeniederheeftplichtenjegensdegemeenschap,zonderwelkedevrijeenvolledigeontplooiingvanzijnpersoonlijkheidnietmogelijkis.</p>
+    <p>Indeuitoefeningvanzijnrechtenenvrijhedenzaleeniederslechtsonderworpenzijnaandiebeperkingen,welkebijdewetzijnvastgesteldenweluitsluitendterverzekeringvandeonmisbareerkenningeneerbiedigingvanderechtenenvrijhedenvananderenenomtevoldoenaandegerechtvaardigdeeisenvandemoraliteit,deopenbareordeenhetalgemeenwelzijnineendemocratischegemeenschap.</p>
+    <p>DezerechtenenvrijhedenmogeningeengevalwordenuitgeoefendinstrijdmetdedoeleindenenbeginselenvandeVerenigdeNaties.</p>
+  </li>
+  <li>
+    <p>GeenbepalingindezeVerklaringzalzodanigmogenwordenuitgelegd,datwelkeStaat,groepofpersoondanook,daaraanenigrechtkanontlenenomietsteondernemenofhandelingenvanwelkeaardookteverrichten,dievernietigingvaneenvanderechtenenvrijheden,indezeVerkaringgenoemd,tendoelhebben.</p>
+  </li>
+</ol>

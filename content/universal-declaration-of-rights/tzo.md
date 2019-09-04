@@ -1,0 +1,121 @@
+<h1 align='center'>A’K’EL TA JAMAL OXIL SKOTOL LEYETIK SKOLTAOBIL SKOTOL KUXLEJEL TA SPEJEL BALUMIL</h1>
+<h2 align='center'>YOCHEBAL</h2>
+<p align='center'>Si’ch alel que kolemajel, lekilal y machlejel ta spejel balumile stsak spuersá va’ak’in si’ch a’k’el ta mu’k k’ux-elan yanetik stalel skuxijik ju jun kuxlejel ta spejel balumile.
+Ojtakinbil ilkoloetik syu’ va’k’in mu si’ch a’k’el ta mu’k’ lekil i’ch-vaile, ja’ skoj k’u sjalil oy vinik ta sba spejel balumile xa’beoj sjam i sigue xa’be hasta abile lekil i slekil tas kuxlejale, bujechuk spas skuxij sin xi’el i schu’uk stak’in i sbeel, bujechuk spas sk’opoj i spas xal i slok’es ta ye k’ute sk’an sch’une.
+Te-me si’ch a’k’el ta mu’k’ i si’ch cha’biel yanetik stalelik i skuxijik viniketik ta spejel balumile schi’uk jun mukta ley Derecho sbie ja jeche muk mu’ch’u va xok sba ta ilkoló ni ba xokbanuk.
+Si’ch k’anel que jak oyuk lekilbail schu’uk yanetikxa oxiletik nomik.
+Tas Karta o stsibabiljun yu’un Naciones Unidas ya’k’oj yo’n ke te’oy tsakbil skotol k’uxitik lek sventa si’ch a’k’el ta mu’k’, ta jun vinik i ta jun ants, yaloj jeuk ke va xa’be sjam k’uxchi lek kuxlejal sin ilbajinel.
+A’kbil ta venta ke Estadoetike ya’k’ojik sk’opik ke va spasik o va ya’k’ik ta mu’k’ sderechoik libre skuxijelik viniketik ta sba balumile sin jinilxokvanej.
+Entre más ep xojtakin i sna stunel sderecho i slibertade más va yi’ch a’k’el ta mu’k’.
+Asamblea Generale xal ke Declaración Universal yu’un Derecho Humanoe ja sventa sk’anojel ta komon bujechuk ch’inik teklumetik i mu’k’tikteklumetike xa’k’ik spuersaik ta stunel i yak’ik ta a’k’el ta mu’k’, ja jeché cha’k’uxi viniketik y bujechuk yabil chanubtesbanele stik’ik ta sjolik i snaulanik k’uxitik ora ke a’k’el ta mu’k’ sderechoetik i slibertade, ja jeche spasik asegurar ta stojol jun nación o ta yanetikxa nacionetik stunel i k’uxchi spas ta amtelanel ta skotol oxiletik ta stojol jun Estado o ta sbalumilaletikal jun teklum más mu’k’ ke jun Estado.</p>
+<ol>
+  <li>
+    <p>Skotolvinikoantstaspejelbalumilek’olemx-hayaniko’oltasch’ulalisderechoetiki,skotolk’ux-elanoyikeoysrasonikyslekilalik,sventaskuxijikleknóotajujunjujuvo.</p>
+  </li>
+  <li>
+    <p>Skotolkuxlejeloyyu’unskotolsderechoislibertadalbillitaDeclaraciónyu’unNacionesUnidase,sinket’ujbilnoók’urazailal,sp’i’jilskoloral,antsovinik,sk’op,sch’unobiltakajbaltik,st’ujobiltapolitiká,oyanetikxachak’uxchislikemajelaltaoxiltikoslikemajeltaltagenteal,k’uyepalstak’in,busayanelok’uxitikmás,maukt’ujbiltamu’uch’uvaoyukstunelliDeclaracionessinoketaskotolnoó.Jechjeuk,mukvayi’cht’ujilanelmu’uch’uskojyanxast’ujomalik’ux-elanxanbajtaspolitikáochu’ukleyetiktamismospaisbuyu’unalejunvinikotayanetikxapaisetik,mu’k’uspasmejunlugarmu’yukoytastojolyanxapaís,chak’uxchijunsbalumilooytastojolyamtelanelstak’inoleyetikko’oloysderechoikja’tsabulugarils-oyij.</p>
+  </li>
+  <li>
+    <p>Skotolgenteoytasderechoskuxijlibrexanabja’nabja’tsabutesk’aneiseguros-oyij.</p>
+  </li>
+  <li>
+    <p>Mukmu’ch’uvaoyuktatunelsinkevayi’chstojol,le’yevayi’chk’elelnoóte-mesk’anstunbantajechnoe.</p>
+  </li>
+  <li>
+    <p>Mukmu’ch’uvastamajel,ximtexelomu’k’tailbajinelok’elelchajuntsíoyanoyanxak’elomal.</p>
+  </li>
+  <li>
+    <p>Skotolgentetasbabalumiloysderechotaskotollugaretik,sventaxojtakinikstalelleyetiktastojol.</p>
+  </li>
+  <li>
+    <p>Skotolgentetasbabalumilko’oliktaleyetikioyyu’unikderechostaikkoltaelva’k’instaiklamtaelikesnaojikkemusventaspaxikoxalikporqueoytaDeclaraciónyu’unNacionesUnidasokemeoymu’uch’usk’ans-otesvantailkolótalamtaelbanej.</p>
+  </li>
+  <li>
+    <p>Skotolgenteoysderechoquestays-oyijsta’k’in,istakoltaeltaju’eletikbutiksventastatuxelva’k’instaojilbajinelikeojtakinbiltaleyyu’unConstituciónkeoystuxobile.</p>
+  </li>
+  <li>
+    <p>Mukmu’ch’usventastatsakelichukelninutseltayanxanomoxiltik.</p>
+  </li>
+  <li>
+    <p>Skotolgenteoytasderecho,s-aibetskotolitaskotolitaepalgenteis-ak’ottamu’ktajuntribunalindependienteoimparcialyu’unsk’elvetsderechoetikys-obligacionetikoyu’unsk’elvetk’uyu’unspasotacusarmetsotsomuktsotssmule,mestaomusventastachukel.</p>
+  </li>
+  <li>
+    <p>Skotolgentekestaojalbeelkeoysmuleoysderechokespasxa’besjamxa’k’tajamaloxilkemu’yuksmuletememu’yukk’uxchispasbetcomprobark’uyess-albete,segúntaleyk’uxchixalkejajechmulileitastojolyelobalyanetikgentelekslokystakoltael.</p>
+    <p>Mukmu’ch’uvastatak’el-eltana’k’eltemek’uxilaspasemaukmulilsegúnsderechotanacionalointernacional.Jechjeukmukvayi’chakbeelmu’ksmulilaltayorailmelastaojtakinbeelsmule.</p>
+  </li>
+  <li>
+    <p>Mukmu’ch’usventastaochaneltastalelkuxlejeltajujunnaklejalniilbajineltaslekilalkuxijemtalel.Skotolgenteoysderechostakoltaeltaju’elva’k’instailbajineleoochanele.</p>
+  </li>
+  <li>
+    <p>Skotolgenteoytasderechoxanbajsinxielalixa’ja’tsabutesk’anespassnakijtassbalumilaljunEstado.</p>
+    <p>Skotolgenteoysderechosbattabuyikonpaisaltesk’aneotamismospaisitemelok’em-eltayanxapaisespasxutk’otelipxabulo’k’em-ele.</p>
+  </li>
+  <li>
+    <p>Temestanutseltatsakele,skotolgenteoysderechosk’ankoltaelysk’upineltak’uk-onjunukalbalumiltestakoltaele.</p>
+    <p>Lederechoemuspastatunelosk’anelva’k’inoyjunmulinkemauksk’anojelyu’unNacionesUnidas.</p>
+  </li>
+  <li>
+    <p>Skotolgenteoysderechostek’ajiskuxijtajunbalumil.</p>
+    <p>Mukmu’ch’usventasi’chpojbeelojelbeelsbalumilalitemesk’ansk’omesisjelbaeltabusk’anojelyu’unemukvayi’chtek’ajexeltapuersa.</p>
+  </li>
+  <li>
+    <p>Tantoviniketikiantsatik,temelaxastaiksch’ielik,ispa-xastaiksmalalikoyajnilikoysderechoik,sinkestaikte’k’ajeselyu’unmek’ux-elanrazail,buyu’unalok’uschunobilyu’untakajbaltiltavinajelis-ak’otikjaknupunukikispasslekojsnaikisk’upinikko’olsderechoiktak’usjalilsnupujelalikeispasikseguirchu’ukmismosderechoikaunkesk’ej-sbaik.</p>
+    <p>Ja’nomesk’anojelyu’unikmu’ch’utesk’ansbaikespassnupunik.</p>
+    <p>Junfamiliastalel-onos-oyijija’smeltsanjunsociedadioytasderechostakoltaeltastojolijechjeukyu’unEstadoe.</p>
+  </li>
+  <li>
+    <p>Skotolgenteoytasderechos-ayanyu’unsk’ustikyaseastuknoóoentreepalik.</p>
+    <p>Mukmu’ch’usventaspojvetsk’ustiktajechnoó.</p>
+  </li>
+  <li>
+    <p>Skotolgenteoytasderechokespassnopolajisnopk’utesk’ane,skomtajujuvoispassch’unomusch’unk’usitiknopbilyu’unkajvaltiktavinajelbuok’upaisaltesk’ane;lederechoespasotaventajeukkeoylibertadkespassi’chjeleljunsch’uneltakajbaltik,jechjeuktaalelk’usch’unojeltakajvaltikyu’unjujunjujuvo’oyu’unskotolstsobomal,yaseaxaktaa’yeltayelobalepalgenteoxalentrestuknoó,yak’ojventajeukkespastachanelichanubtesbanej,ischunelispaselpractikarsk’anelisk’elelk’uyestesi’chk’anele.</p>
+  </li>
+  <li>
+    <p>Skotolgenteoysderechokespassk’opojixalk’utesnopojelisk’anxale,lederechoeya’k’ojtaventajeukkemusventasi’chtaelilbajinelsk’ojk’ulayi’chalelya’k’ojventajeukkespassi’chxa’el,ja’k’elk’uyestesi’chk’aneleispastaa’k’eltaa’yel,sinkemu’ch’ustalte’k’ajesbanukija’tsabumu’yuksrayail,ik’uxchitespasyu’une.</p>
+  </li>
+  <li>
+    <p>Skotolgenteoysderecholibrespasstsomsbaikimuktalekiltsombail.</p>
+    <p>Mukmu’ch’uspastaotexeltapuersatajunmuktatsombail.</p>
+  </li>
+  <li>
+    <p>Skotolgenteoysderechospasxochanu’elanbanejyaseatavikitotamuktaslumal;tastojolochu’ukyanxaviniktuxbilt’ujbilentreschiuktaktaslumal.</p>
+    <p>Skotolvinikoyderechoyu’unspasko’ols-ochtaju’eltasmu’ktabalumil.</p>
+    <p>Lokesk’anojeljunlugarja’xa’k’mantaltaskotol;lesk’anojelalesi’chtaeltak’elelitapaselva’k’insi’chxa’elikujaneljunu’el,tako’olk’opiletikoseakomonjunoóye-sti’ikoyanxasjamxabanejperokexak’-oyuklibertadyu’unspaselvotar.</p>
+  </li>
+  <li>
+    <p>Skotolvinik,yu’unjunmuk’tatsobomajel,oyyu’underechokestacha’biel,istatako’olyipsmeanal-bokoltamismoslumalischu’ukyanetikxamuk’tikbalumiletik,yochaneltasnopelsmeltsanelistunelskotolk’uxioyyu’unjunlugarotas-estado,leks-oyijstaistunsta’k’ink’uxchitespasyu’une,leks-oyijchu’ukschi’iltaktakuxlejal,tantotasnopojelischa’biellokesane,jajechelekvayaij-sbailekvayi’chsbachu’ukyanetike.</p>
+  </li>
+  <li>
+    <p>Skotolvinikoyyu’underechos-amtej,ik’uyu’untesk’ane,oyyu’underechostaa’beellekilalilekilamtelbutaspijilyo’ns-oyijis-amtejioysderechostakoltaeltaxa’beelyamtelva’k’inmu’yukyamtele.</p>
+    <p>Skotolvinikoyyu’underechostasint’ujilanelmu’ch’uko’olstojolsegúnk’uyepalyamtel.</p>
+    <p>Skotolvinikiantstavikititamu’koyyu’unikderechostaika’beeljpixitajunalna,chak’uxchisventaeistamáskoltaeltemespaspaltaetayanetikxakoltabanejetike.</p>
+    <p>Skotolvinikoyyu’unikderechospasiksmeltsanelsindikatoetikistik’-sbaiktasindikatoetikebutesk’ane,oytasderechostaa’beelk’uyepalsjalilikyamteleistas-k’uxonetikbuyik-oraijakstastojel.</p>
+  </li>
+  <li>
+    <p>Skotolvinikantzxu’xkuxtayabteltajujunxemana,oyuknooxspejebtiabteltzapastajunk’ak’ale,xchi’ukxu’xloktayavilyabtelyo’xbaxkux.</p>
+  </li>
+  <li>
+    <p>Skotolvinikoytasderechospasskuxijjunlekiloutskuxlejelbujechukoyyu’un,tantotajunalna,sinchamel,sbeel,sk’u’,sna,sk’eleltapoxtabanelik’uxiyanetikmáskestunistunyu’une;oyyu’unsvinkilele,ova’k’inmu’yukyu’unk’uschispasskuxijixasbeelkeseamauksk’anonelyu’un.</p>
+    <p>Va’k’injunantsvasmanyolitemelaxasmaneoyderechoyu’unikscha’vaalikstaiklekcha’bielbujechukyabilomu’ch’usch’iuksventaxa’k’e.Skotolunetik,ayanemik,talekilnupuneloaunkema’uktalekilnupunel,oyyu’unikderechostaikcha’bieltastojolmu’ktatsobomajele.</p>
+  </li>
+  <li>
+    <p>Skotolgenteoyyu’underechostaiksmeltsaneltaescuela,educaciónskaltike.Le’yesventastatajech-noóoseak’elambilaunkejanoótaslikebalelementalsi’chaleleikeja’másoytaa’k’eltavai’.Le’yetapuersa-onósventasi’chi’chel-el.Yanxamástoyoltécnicaoprofesionalsi’chalelea’k’eltastojolskotolgente;segúnspijilstalele’chemtaleltayanetikxavik’itchanubtexele.</p>
+    <p>Chanubtexelesk’anojelyu’unleksmeltsajesvanitsatsumtexya’k’ojeltamu’k’derechohumanoeilibertaetikmásoystunelisventasna;ja’jechevaoyukmásoyk’anbailtajujuvo’aibajelik’anbailchu’ukyanetikxalumaletiktaischi’uknaklejetikik’ux-elantasch’unobilkajbaltiktavinajel;jajechevavinajuksch’ielyamteltastojolNacionesUnidastask’anojellekilk’uxlejale.</p>
+    <p>Totiletikeoyyu’unikderechok’ux-elanchanubtexelsk’anxa’kbesnichnab.</p>
+  </li>
+  <li>
+    <p>Skotolvinikoytassderechosegúnk’ux-elanstalelsk’uxijiktaslumal,spassk’upink’uxitiksnaojiktaleldesdevo’nejspaxobilsk’uxtikikispasxochanikamteletikyu’uncienciaisk’upinelk’uyelyutsilsloktaluntoamtele.</p>
+    <p>Taskotolgenteoyderechoyu’unstach’abielik’uxubineltak’opitak’uxtikmu’ch’uleklokyamteltaciencia,tatsibajelalotak’eojeloyanetikxaliterariaoartístikasi’chalele.</p>
+  </li>
+  <li>
+    <p>Skotolgenteoyderechoyu’unspasstek’ajtajunlugarbujechuksi’cha’k’eltamu’kskotolsderechoetikislibertaetikya’k’ojtaojtakinelleDeclaracione.</p>
+  </li>
+  <li>
+    <p>Skotolgenteoytsotsstuneltayutilslumalporkeja’nojechija’notebujechukspasspask’utesk’aneik’uxchitexk’aneispasxa’ksbataojtakinelk’ux-elanstalel.</p>
+    <p>Task’anojelisk’upinelsderechoislibertade,skotolgentevaoyuktask’obsegúnk’ux-elanstalelpasbilley,jajechesegurovaoyukmexojtakink’uxitiksventasi’cha’kbeeltamu’k’tayanetikgente,chak’uxchi;derechoetikhastabuspasskolemajtantota’yeistukeixa’besjamk’uxchilek-nostalel,tantochu’ukschi’iltaktaslumalichu’ukyanetikxatayanetiklumajelejajechevayu’ukivaoyukjunmu’ktatsombaildemokratikaskaltike.</p>
+    <p>Le’nojderechoetikilibertadetikemusventasi’chtuneltaxutemalk’ux-elansk’anojelyu’unNacionesUnidase.</p>
+  </li>
+  <li>
+    <p>NijunukalkuxitikalbillitaDeclaracionespasxutostunk’uk-noxchiyaseatastojoljvo’vinikotsobomajeletikojunEstadova’k’insk’anikslikexikixamtelantesikk’uk-onyesamtelal.Muspastaspojelnit’upelnijunukalk’uxitikderechoetikilibertadetikalbillitaDeclaracione.</p>
+  </li>
+</ol>

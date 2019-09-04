@@ -1,0 +1,123 @@
+<h1 align='center'>IHMISOIKKEUSDEKLARASJUUNI</h1>
+<h2 align='center'>JOHATUS</h2>
+<p align='center'>Ko oon tunnustettu ette kaikila ihmissuvun jäseniilä oon syntymässä saatu sama arvo ja yhenlaiset oikkeuet, joista ei saata luoppuut, ja ko tämä oon vaphauen, oikkeuenmyötäisyyen ja rauhan pohja mailmassa,
+ko se, ette ihmisoikkeuet oon olheet vähemän tärkkeet ja ette niitä oon ylikattottu, oon saanu aikhaan barbaarissii toimii mikkä oon kauhistuttanheet mailman ihmisten ommaatunttoo, ja ko eläminen mailmassa missä oon puhheen- ja uskonvaphaus ja vaphaus pölöstä ja häästä, oon ilmoitettu kanssoin korkkeimaksi tahoksi,
+ko oon välttämätön ette laki suojaa ihmisoikkeuksii, niin ette ihmissii ei pakoiteta viimisennä konstina nousemhaan tyrannii ja alaspainamista vasthaan,
+ko oon tähelistä eesauttaat sitä ette kanssoinväliset ystävälliset suhtheet eistythään,
+ko Yhistynheitten Kanssoin kansat oon sopinheet Pohjasopimuksessa ette het uskothaan perusoikkeukshiin, ihmisarvhoon ja siihen ette miehilä ja vaimoila oon samat oikkeuet, ja ette het oon päättänheet työtelä sosiaalisen eistymisen ja pareman elämästandardin etheen vaphaamissa oloissa,
+ko jäsenstaatit oon luvanheet työtelä yhessä Yhistynheitten Kanssoin kans sen etheen ette tehhä ihmisoikkeuksii ja perusvaphauksii lujemiksi, ja ette kunnioittaat ja eesauttaat niitä.
+ko oon tärkkee ette kaikila oon yhtheinen ymmärys näistä oikkeuksista ja vaphauksista, niin ette tästä deklarasjuunista tullee tosi,
+Sen tähen
+Keneraalikokkous
+anttaa nyt tämän IHMISOIKKEUSDEKLARASJUUNIN kanssoin ja kaikkiin nasjuuniitten yhtheiseksi mooliksi, niin ette jokhainen indiviidi ja jokhainen samfynnin esivalta pittää jammisti ajatella tämän julistuksen pääle, ja auttaat tehhä nämät oikkeuet ja vaphauet lujemaksi opetuksen ja ylöskassuuttamisen kautta, ja niin ette nasjunaalit ja internasjunaalit toimet turvathaan sen ette nämät oikkeuet ja vaphauet tunnustethaan ja kuorathaan ylheisesti ja effektiivisesti sekä jäsenmaissa ja aloissa jokka oon näitten maitten suvereniteetin alla.</p>
+<ol>
+  <li>
+    <p>Kaikkiihmisetsynnythäänvaphaina,jaheiläkaikilaoonsamaihmisarvojasamatihmisoikkeuet.Hetoonsaanheetjärjenjaomatunnon,jahetpiethäänelläättoinentoisenkansniinkoveljetkeskenhään.</p>
+  </li>
+  <li>
+    <p>Kaikileihmisilleoonannettuoikkeuskaikkhiintämänjulistuksenoikkeukshiinjavaphaukshiinilmanmithääneroitusta,niinkokoraasan,ihonfärin,sukupuolen,uskonon,poliittisentahimuunmielipitheentähen,nasjunaalisentahisosiaalisenalkupörän,omaisuuen,syntymäntahimuunstatuksentähen.Lisäksi,eipiätehäeroitustasenmaantahialanpoliittisen,hallinollisentahiinternasjunaalinstatuksentähen,mihinihminenkuuluu,vaikkatämäalaoonittenäinen,tahisitävalvothaan,eliseeioleautonoominentahijossilläoonmuulatavalarajoitettusuvereniteetti.</p>
+  </li>
+  <li>
+    <p>Kaikilaoonoikkeuselämhään,vaphautheenjapersoonaalisheenturvalisuutheen.</p>
+  </li>
+  <li>
+    <p>Eiolelupapittäätkethäänorjanatahipakkotyössä.Kaikensorttinenorjuusjaorjankauppaoonkieletty.</p>
+  </li>
+  <li>
+    <p>Eiolelupapiinatatahikohelakethäänjulmala,ei-humaanilla,alaspainaavallajarangaistaavalatavala.</p>
+  </li>
+  <li>
+    <p>Kaikilaoonoikkeusjokapaikassavaattiit,ettetuomiotoolithyväksythäänhänenoikkeussubjektinna.</p>
+  </li>
+  <li>
+    <p>Kaikkiihmisetoonsamanarvoisetlaineessä,jakaikilaoonoikkeussamhaanlakisuojhaan.Kaikileoonannettuoikkeussamhaansuojhaanniinetteseeikäylaihindiskrimineeratakethääntätäjulistustavasthaanelietteseeikäylaihinkehoittaatkenenkhäändiskrimineeraamisheen.</p>
+  </li>
+  <li>
+    <p>Kaikilaoonoikkeuskelppaavhaanaphuunnasjunaalisiltatuomiotooliiltakooonkysymystevoista,jokkaloukathaanniitäoikkeuksii,mikkäkaikinoonsaanheetperuslaissajamuissalaissa.</p>
+  </li>
+  <li>
+    <p>Kethääneipiäpannaarresthiintahifankilhaaneliajjaatpoismaastailmaneellytystä.</p>
+  </li>
+  <li>
+    <p>Jokhaisellaoontäysintasa-arvoisestioikkeussiihenettehäntäoikkeuenmukaisestijajulkisestikuulhaanittenäisessäjaei-partisessatuomioistuimessa,komääräthäänhänenoikkeuksistajavelvolisuuksistajakanssillon,kohäntävasthaanoontehtyrangaistuskaunet.</p>
+  </li>
+  <li>
+    <p>Jokhaisella,ketäoonsyytettyrangaistettaavastatevosta,oonoikkeusettehänenräknäthäänsyyttömäksisiksikojulkinentuomiotooli,missähäneläoonollumaholisuuetpuolustaathäntäitteensä,oontoistannuettehänoonsyylinenlainjälkhiin.</p>
+    <p>Kethääneipiätuomitatevostajokanasjunaalinlaintahikansanoikkeuenjälkhiineiollulaitonsilloinkosentehthiin.Kethääneipiätuomitaankaramphaanrangaistuksheenkolakimäärässilloinkorangaistaavantevontehthiin.</p>
+  </li>
+  <li>
+    <p>Yhenkhäänprivaattielämää,perettä,kottiielipreivinvaihettamistaeiolelupahäiritäilmaneelytystä,jahänenkunniaavasthaaneiolelupahyökätä.Jokhaisellaoonoikkeusettelakisuojaahänentällaistasekkaintumistajahyökkäämistävasthaan.</p>
+  </li>
+  <li>
+    <p>Kaikilaihmisilläoonoikkeusliikkuutvaphaastijavalitaasumapaikanomanmaanrajjoinsisälä.</p>
+    <p>Jokhaiselaoonoikkeusjättäätminkämaantahansa,kansomanmaan,jahäneläoonkansoikkeuspalatatakaisinomhaanmaahan.Kaikilaoonoikkeusjättäätminkämaantahansa.</p>
+  </li>
+  <li>
+    <p>Jokhaisellaoonoikkeushakkeeteliottaatvasthaanasyylinmuissamaissajosheitäkyytäthään.</p>
+    <p>Tämäoikkeuseijällääsillonkoihminenoontehnytoelisenei-poliittisenrikoksenelitevonjokasottiiYhistynheittenKanssoinmooliijaprinsiippiivasthaan.</p>
+  </li>
+  <li>
+    <p>Kaikilaoonoikkeuskansalaisuutheen.</p>
+    <p>Keneltäkhääneiolelupaottaathänenkansalaisuuttailmaneelytystä,tahikielttääthäntävaihettamastasen.</p>
+  </li>
+  <li>
+    <p>Täysilämiehiläjavaimoilaoonoikkeusnaijajaperustaatperheenkattomattasiihenettemikäheänraasa,nasjunaliteettieliuskontooon.Heileoonannettusamatoikkeuetkohetnaijhaan,kohetoonnaimisissajakoheterkkaanuthaan.</p>
+    <p>Avioliitthoonkäyäänsisäletyhäkokumpikitahtoositävaphaastijakokonhansa.</p>
+    <p>Peretoonsamfynninluonolinenjaperustaavaosa,jasilläoonsamfynninjastaatinsuoja.</p>
+  </li>
+  <li>
+    <p>Jokhaisellaoonoikkeusomaisuutheenjokoyksintahimuittenkans.</p>
+    <p>Keneltäkhääneiolelupavieähänenomaisuuttailmaneelytystä.</p>
+  </li>
+  <li>
+    <p>Jokhaisellaoonoikkeusajatuksen,omantunnonjauskononvaphautheen;tämäoikkeusmeinaaettejokhaisellaoonvaphausvaihettaatomanuskononeliuskon,eliettejokhaisellaoonvaphausyksintahitoistenkansjulkisestitahiprivaatistiilmoittaathänenuskonttooeliuskooopettamala,harjoittamalla,rukkoilemallajaomanuskontavala.</p>
+  </li>
+  <li>
+    <p>Jokhaisellaoonoikkeusmielipitheesseenjasenesiletuomisheen;tämäoikkeuspittääsisälävaphauenpittäätomatmeiningitilmanettetoisetsekkainthaanniihin,javaphauenhakkeet,ottaatvasthaanjajakkaattiettoojaajatuksiiminkätahansatietokanaaliinläpimaittenrajoistaperustamatta.</p>
+  </li>
+  <li>
+    <p>Jokhaisellaoonoikkeusvaphaastiollamyötärauhalisissakokkouksissajayhistyksissä.</p>
+    <p>Kethääneiolelupapakoittaatmihinkhäänyhistyksheeneliorganisasjuunhiin.</p>
+  </li>
+  <li>
+    <p>Jokhaisellaoonoikkeusollamyötästyyräämässäommaamaata,jokosuorhaantahivaphaastivalituittenrepresentanttiittenkautta.</p>
+    <p>Jokhaisellaoonoikkeusyhenlaishiinjulkishiintienasthiinomassamaassa.</p>
+    <p>Kansantahtooonjulkisenesivallanpohjana;tämätahtotulleenäkkyyväksireekelinmukaisissajatoelisissavaaliissa,joissaoonylheinenjakaikileyhenlainenäänioikkeus,jajoissaoonsalainenäänestäminenelimuuyhenlainenvapaaäänestämistapa.</p>
+  </li>
+  <li>
+    <p>Jokhaisellaoonsamfynninjäsenennäoikkeussosiaalisheenturvhaan,jajokhaiselleannethaanmaholisuusniihinökonoomishiin,sosiaalishiinjakylttyyrishiinoikkeukshiinmikkäoontähelisethänenarvolejavaphaaleeistymisellenasjunaaliintoimiinjainternasjunaalinyhtheistyönkautta,jasenjälkhiinmikkäoonstaatinorganisasjuunitjaresyrsit.</p>
+  </li>
+  <li>
+    <p>Jokhaisellaoonoikkeustyöhön,työnvaphaasseenvalittemisheen,oikkeuenmukaishiinjahyvhiintyösuhtheissiin,jasuojhaantyöttömyyttävasthaan.</p>
+    <p>Jokhaisellaoondiskrimineeraamattaoikkeussamhaanpalkkhaansamastatyöstä.</p>
+    <p>Jokhaisellatyötätekkeevälläoonoikkeusoikheuenmukaisheenjahyvhäänmakshoonjokaturvaahäneleittelejahänenperheeleihmisarvoisenolemassaolon,jajosoontarvetniinsaahamuunlaisensosiaalisensuojan.</p>
+    <p>Jokhaisellaoonoikkeusperustaatfaakiforeeninginjatullamyötäfaakiforeeninkhiin,janäinsuojataomatinteressit.</p>
+  </li>
+  <li>
+    <p>Kaikilaoonoikkeuslephoonjavapaa-aikhaan,jasiksijärkkeevästirajatthuuntyöaikhaanjareekelinmukaisheenfeerihäänpalkankans.</p>
+  </li>
+  <li>
+    <p>Jokhaisellaoonoikkeuselämänstandardhiinjokaturvaahänenjahänenperheentervheyenjahyvinvoinin,johonräknäthäänruvan,vaattheet,asumapaikanjaterveyenhoionjatarpheelisetsosiaalisetavut,jajokhaisellaoonoikkeuskansturvhaansillonkojääpiilmantyötä,sairastuu,menettäätyökyvyn,tulleevanhaksielikomenettääelämänehotmikkäeiolehänenittensäkäsissä.</p>
+    <p>Äitiiläjalapsiilaoonoikkeuseriliikaisheenhoithoonjaaphuun.Kaikilelapsilekuuluusamasosiaalinensuoja,oonhetsyntynheetsitteavioliitossaelisenulkopuolela.</p>
+  </li>
+  <li>
+    <p>Jokhaisellaoonoikkeussaahaopetusta.Opetuspittääollailman,kuitenkiperuskoulussa.Perusopetuspittääollapakolinenkaikile.Kaikilapittääollamaholisuussaahafaaki-jaammattiopetusta,jakaikilapittääollasamatmaholisuuetkorkkeemphaanopetuksheensenjälkhiinmikkäheänomatkyvytoon.</p>
+    <p>Opetuksenmoolinaooneistäätihmisenpersoonallisuuttakokonhansajalujenttaatihmisoikkeuksiittenjaperusvaphauksiittenkunnioittamista.Opetuspittääeesauttaatymmärystä,toleranssiijaystävyyttäkaikkiinnasjuuniitten,kanssoinjauskonollistenjoukkoinvälilä,jakuurotaYhistynheittenKanssoinrauhantyötä.</p>
+    <p>Vanhiimiilaoonensioikkeusvalitakummoistaopetustaheänlapsileannethaan.</p>
+  </li>
+  <li>
+    <p>Jokhaisellaoonoikkeusvaphaastiollamyötäsamfynninkylttyyrielämässä,nauttiitkynstiistäjaollajakamassatietheeneistystäjahyöttyi.</p>
+    <p>Jokhaisellaoonoikkeussiihenettehänenmoraalisetjamateriaalisetinteressitsaahaansuojansentähenkohänoonluonutietheelisen,kirjalisenelikynstilisentyön.</p>
+  </li>
+  <li>
+    <p>Jokhaisellehäyttyyanttaatsemmoisensosiaalisenjainternasjunaalinoorninginmissätämändeklarasjuuninoikkeuetjavaphauetsaatethaantäyestitehhätoelisiksi.</p>
+  </li>
+  <li>
+    <p>Jokhaisellaoonvelvollisuuksiihänensamfynnissäkotyhäsiinähänenpersoonallaoonmaholisuuetvaphaastijatäyestieistyyt.</p>
+    <p>Konäitäoikkeuksiijavaphauksiiharjoitethaan,saatethaanjokhaistarajoittaattyhäsilloinkonouatethaannetlaitmikkäturvathaanjakunnioitethaantoistenoikkeuksiijavaphauksii,jakomoraali,julkinenoorninkijayhtheinenhyvinvoiminendemokraattisessasamfynnissäniinmäärää.</p>
+    <p>NäitäoikeuksiijavaphauksiieipiämishääntilassapittäätniinettenetoonYhistynheittenKanssoinmooliijaprinsiippiivasthaan.</p>
+  </li>
+  <li>
+    <p>Mithääntässädeklarasjuunissaeipiätulkitaniinetteyksikhäänstaatti,joukkoelipersoonasaaoikkeuenollamyötäeliharjoittaatsellaistatekkoominkämeininkinnäoontuhotatämändeklarasjuuninmainittematoikkeuetjavaphauet.</p>
+  </li>
+</ol>

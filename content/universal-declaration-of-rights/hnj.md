@@ -1,0 +1,121 @@
+<h1 align='center'>NDAX DEB NENB NDAS DOS LOL NTUAD</h1>
+<h2 align='center'>Lol daof ndex</h2>
+<p align='center'>Haik zos duef ndax deb nenb houd juab tinx id cuat lenx cuat dol druax jangs muax nit zunb yinx tab nil buab zhit zangd zhit dongf nit ndas dos nit chenx renf, yaos ndax deb dax zis, hof ged tab hox pinx nit ghangb das deut;
+Haik zos duef nenb ndas dos nuaf zhit dluad muas tab qib dlangs qib dlend hlob hlangd dout uat shangb uat shud, dex uat shangb uat shud nad, muab ndax dex nenb nit liangx xinb shab nzhuk zhuak bual leuf; lb lob cuat lenx cuat dol sheuf muax nit ged haik fol suex shab, ged nzhes zit haib youx yol, zhit drous nchait zhit drous hef, zhit zhof chaib zhit zhof nkhek nit ndax deb yat lol zos, zhof ntuad haik uat ndax deb nenb nit zuef shab yinf vangf leuf;
+Haik zos wef zhit guas ndax deb nenb zhit doul del maof xind duef cangx baof zhenf zhif tab ghuab yuaf nzend shab nzend bleud, sheud bual uat shud, muax bix yaof guas nenb ndas dos sheuf ged jait ged lil baod fuf;
+Haik zos muax bix yaof ceub njet cuat lob gox juab ged mol ged lol zax nzhis nit hiob hlangd;
+Haik zos Jinx hox gox cuat lob gox juab nit renx minx nyaob houd linx hox gox xinf zhangb id draod ntuad haik nil buab duef jib bend renx qinx, renx gex zunb yinx, nghet uat nenx tab box yeus ndas dos dax zis nit xinf ninf , nghel shab drout ros ceub uat nyaob houd lob naf zif youx id, guas shef huef njet drox mol tab nenb nit senb hox shued pinx mol dout rongt;
+Hiak zos cuat lob huef yinx gox dud zheuf das yinf yif dros Jinx hox gox hox zox lol ceub njet duef nenb ndas dos tab jib bend zif youx, guas pud pinf shaib doul tab zhox droud;
+Hais zos duef dex ndas dos tab zif youx nad nit pud pinf liaod gaid, duef yix dlangd faot uat zos lob dud zheuf nad, muax hend lox nit zhongf yaof xinf;
+Suk nit bel shuab hais zos dex id, nil nad naf huef fax buf rangx ndax deb nenb ndas dos lol ntuad nad, jaox lol uat buad zil renx minx tab buad zil gox juab drout ros mol uat gaof zos nit gognf tongx biaob zhund, buab vangf cuat lenx nenb tab shef huef jib gouf uat nax njot dout nyenf zos rangx lol ntuad nad, shid ros suak khuab tab khat lol ceub, guas shaib doul ndas dos tab zif youx, suak gox juab tab gox jif ib drox ib drox nit cof shib, guas dex ndas dos tab zif youx nad, nyaob houd cuat lob huef yinx gox dex renx minx id tab dex deb qeut guk nil zhux ndox nit dex renx minx id, pud pinf, muax xiaof god nit chenx renf dous zaox.</p>
+<ol>
+  <li>
+    <p>Cuatlenxcuatdolbongbdeulndaxdexdoufmuaxzifyoux,nyaobshoutzunbyinxtabndasdosid,daxzisibsuk.Nilbuabdafloljaoxmuaxlidxinfhlubhouttabliangxxinbshabnzhuk,yinfgaibkeuksukguddixmollolnitjinbshenxlolshibdafshibhlad.</p>
+  </li>
+  <li>
+    <p>Cuatlenxcuatdolmuaxzibgexxangdsheufrangxlolntuadnadshoutjifnitcuatzhangdndasdostabzifyoux,zhitfaibhaidnenb,nghaixdeud,boxyeus,lothaik,gednzheszithaib,zhenfzhifhoxzhedqixtabnuaffuax,goxjixlasshikshefhuefchuxsenb,zhaxcodzaxnzhab,senbyoshoxzhedqixtabshenbfenf,dexnadzhitmuaxdlangbzhitqibbix;Binfqidzhitdikyinbwefibdolnenbsodshuxgoxjuablasshiklindtudzhenfzhifnit,xinxzhenfnithoxzhedgoxjifnitdifwefzhittongxmuaxqibbix,zhitguangdloblindtudnadyaosyolndangtyolged,keukdoutlaszhux,zhityaoszifzhiflindtudhoxzhednyaobjexlasdexgedndrelidnitxinfzhif,disdoutxangdsheufrangxlolntuadnad.</p>
+  </li>
+  <li>
+    <p>Cuatlenxcuatdolmuaxndosxangdsheufjaxshad,zifyouxtabrenxshenbangbqinx.</p>
+  </li>
+  <li>
+    <p>Dolnenbduszhitzhundkeukmoluatkhedhoxzhedshidkhed;Ibcixgedkhedtabmualkhedmuaskhednitxinxshifdisyinfgaibmuabzaddotghangbdangt.</p>
+  </li>
+  <li>
+    <p>Dolnenbduszhitzhunddrousnafndouknafzhengd,lasshikdrouszhityaosnenbuatnit,cangxrendnit,zhityaosgednenbgedjaxhoxzhed,qibnenbluxshabluxnzhuknithladdaflasshiknbluatjait.</p>
+  </li>
+  <li>
+    <p>Cuatlenxcuatdolnyaoblobdebqeutdusdismuaxndoslenlzosyosnyaobndeufgedjaitnitrenxgex.</p>
+  </li>
+  <li>
+    <p>Nyaobndeufgedjaitlenxlenxdaxzis,doldoldismuaxndosxangdsheufgedjaitnitdaxzisbaodfuf,zhitsheufdoldlabzhitdusshaibzhitdoul.Cuatlenxcuatdolmuaxndosxangdsheufdaxzisbaodfuf,guaszhitdrouswexfangdrangxlolntuadnadnitlabzhitshaibzhitdoultabrelnzhuadzhangdshaibzhitdoulnadnitdeutdelhafdrous.</p>
+  </li>
+  <li>
+    <p>Dolnenbdushuafgukjaitndrelndoxhoxzhedgedjaitkeukdoutnilnitjibbendqinxlifdrousbuadhaf,nilmuaxndossuakhoxgexnitgoxjuabblangsdotbloubduefzhangdbuadhafdeutdelnadloluatgaofnzidgaofboux.</p>
+  </li>
+  <li>
+    <p>Dolnenbdusdiszhitzhundzhitmuaxghangdzhitmuaxhoutdrousndelkit,nakgeutlasshikleudzhaotmoldleb.</p>
+  </li>
+  <li>
+    <p>Lenxlenxbuadzildaxzismuaxndoskeukiblobyolndangtyolged,zhitghaixzhitghousnitblangsdotbloubgongbzhenf,gongbkabshendnongs,loldotndolnilnitndasdostabyifvuf,binfqidpangfdinfduefniltixdeuflolbuallabzhitgedjaitnitkongfgaof.</p>
+  </li>
+  <li>
+    <p>(Ib)Zhosyuaddrousbualjaitkongfgaofnitnenb,nyaobteufgukzhitdoutkeukbadjaityatyuadnitibcixbaodzhenfgongbkabshendpangflolpinxgedjaitzhenfshixmuaxzuef,huafnadnilmuaxndoshaikdaszhitmuaxzuef.</p>
+    <p>(Aob)Doinenbdusnitdlangbzhitdeutdelhoxzhedzhitdoutuatdeutdel,huafgukniluat,pinxgoxjuabgedjaitlasshikgoxjifgedjaitdiszhitdoutuatzosbualjait,doufzhitzhundpangfdasbualjait.Huafguknbluatjaitzhitzhundguasbualjaithnyangdtloutteufuatbualidgedjaitnitguebdinf.</p>
+  </li>
+  <li>
+    <p>Dolnenbdusnilnitnenxnbossaid,juabyis,zhednyaobtabdroutmongttioutsodzhitzhunddrousdlotdrousrel,nilnitrongtnbettabdluabnbetzhitzhunddrousbuadzhuak.Lenxlenxmuaxndosxangdsheufgedjaitbaodfuf,guascaobdrouszhangddlotreltabbuadzhuaknad.</p>
+  </li>
+  <li>
+    <p>(lb)Cuatlenxcuatdolnyaobhoudcuatlobgoxjuabid,muaxndosyouxyolzhidnyaob.</p>
+    <p>(Aob)Cuatlenxcutdolmuaxndosnjeufrenfhoxiblobgoxjuabmol,baobguaxnillobgoxjuabid,nillasmuaxndosdraodghangblolnillobgoxjuabid.</p>
+  </li>
+  <li>
+    <p>(lb)Cuatlenxcuatdolmuaxndosnyaobbeflobgoxjuabntraddousqeutraiktabxangdsheufbaodfuf,guaszhitdrousndousduat.</p>
+    <p>(Aob)Nyaobzhenbzhenfzhityaoszhenfzhifxinfzuefxinxhoxzhedbefdreudlinxhoxgoxzongbzhidtabyinxzexdrousqidxufnitqinxkuangf,zhitzhundshidyoungfzhangdndasdosnad.</p>
+  </li>
+  <li>
+    <p>(lb)Cuatlenxcuatdolmuaxndosxangdsheufgoxjix.</p>
+    <p>(Aob)Dolnenbdusnitgoxjixzhitzhundsuexshabcheftrot,lalzhitzhundzodzhesnildleukzatgoxjixnitndasdos.</p>
+  </li>
+  <li>
+    <p>(lb)Dadnenbnitdobncaikboxyeus,zhitdroushaidnenb,goxjixhoxzhedgednzheszithaibnitghuakteud,muaxndosuatnyangbyikboxtabjaxjuabnzhesyis.Nilbuabnitchongbgol,nyaoblobjaixnyongsgukzuakchongbtabhuafgukchongbgoldleukdangtleufid,yinfgaibmuaxdaxzisnitndasdos.</p>
+    <p>(Aob)Zhosmuaxdasdobncaikboxyeusaobfangbyouxshabtabbuadzildebnjoux,nitzhunduatchongbuatgol.</p>
+    <p>(Beb)Juabyisyaosndoxdrosdebdrousnittabyaosjibbendnitshefhuefdanbwef,yinfgaibdoutshefhueftabgoxjuabnitbaodfuf.</p>
+  </li>
+  <li>
+    <p>(lb)Cuatlenxcuatdolmuaxdabdolplutduadzhaxcodnyaxzaxnitndasdos,lalmuaxdroslasdexiduatgitplutduadzaxnzhabnitndasdos.</p>
+    <p>(Aob)Dolnenbdusnitzhaxcodnyaxzaxzhitzhunddroussuexshabbuadbuaf.</p>
+  </li>
+  <li>
+    <p>Cuatlenxcuatdolmuaxsibxangd,liangxsinbtabgednzheszithaibyouxshabnitndasdos.Lobndasdosnadbaobguaxdleukzatnilnitgednzheszithaibnitzifyoux,lalmuaxdabdollasshikbuabbeus,gongbkablasshifnbossaidsuakjaofyif,shixqind,lidbaiftabjaitjaidlolbiaodshifnilnitgednzheszithaidnitzifyouxtab.</p>
+  </li>
+  <li>
+    <p>Cuatlenxcuatdolmuaxndosxangdsheufzhudzhangbtabfaxbiaodyifjinfnitzifyoux;Lobndasdosnadbaobguaxjaoxmuaxzhudzhangbdangfshikzhitdrousdlotrelnitzifyoux,tabtloutdluatlobshangbghoutdustabzhitguangdlobgoxgaifduslolntraddous,zuakzaiktabsangtsongfmongtshuabtabsibxangdnitzifyoux.</p>
+  </li>
+  <li>
+    <p>(lb)Cuatlenxcuatdolmuaxndosxangdsheufhoxpinxjixhueftabjixshefnitzifyoux.</p>
+    <p>(Aob)Dolnenbduszhitzhunddrousnakmoldroutlobtuangxtiddus.</p>
+  </li>
+  <li>
+    <p>(lb)Cuatlenxcuatdolmuaxndoszhixjixlasshiktloutdluatyouxyolsaidzhangtnitdaifbiaodmolndroskotlilbendgox.</p>
+    <p>(Aob)Cuatlenxcuatdolmuaxdaxzisjibhuefmolcangbjuabbendgoxbloubnofnitndasdos.</p>
+    <p>(Beb)Renxminxyifzhifyaoszhenffudqinxlifnitghangbdasdeut;Lobyifzhifnadyinfgaibsuakdinfjaixdinfnyongstabzhenbzhenfnitsaidzhangtlolbiaodxinf,saidzhangtyinfgaibbuadpinxpudpinftabdaxzisnittouxpiaofndasdos,keuknbosnbettouxpiaoflasshikyouxyolshabtouxpiaofnitzexcenfmoluat.</p>
+  </li>
+  <li>
+    <p>Cuatdolnenb,uatshefhuefnitiblenx,muaxndosxangdsheufshefhuefbaodzhangf,haxmuaxndosxangdsheufnilgefrenxzunbyinxtabrenxgexzifyouxhlobhlangdyatyuadnitzaxnzhab,shefhuef,zoxjitfangbminfcuatzhangdndasdosnitshixxinf,zhangdshixxinfnadyaosyattloutdluatgoxjuabdroutrostabgoxjifhoxzox,binfqidyatpinxcuatlobgoxjuabnitzudzhixtabzibyinxqinxkuangf.</p>
+  </li>
+  <li>
+    <p>(lb)Cuatlenxcuatdolmuaxndosuatdlexnof,zifyouxsaidgednof,xangdsheufgongbzhenftabhoxshifnitgongbzoxtiaoxjinf,haxxangdsheufnchaityatbongbnofnitbaodzhangf.</p>
+    <p>(Aob)Cuatlenxcuatdolmuaxtongxrostongxnghetnitndasdos,zhitdrouslabzhitshaibzhitdoul.</p>
+    <p>(Beb)Cuatlenxuatdlexnofnitnenb,muaxndosxangdsheufgongbzhenftabhoxshifnitnghetros,baodzhenfniltabnilyisnenbidmuaxiblobfufhoxnenbnitzunbyinxnitsenbhoxtiaoxyinf,huafgukyuaddrousidyatnzidbobqixtabfangbshifnitshefhuefbaodzhangf.</p>
+    <p>(Bloub)Cuatlenxcuatdolmuaxwefgufbuadnilnitrongtqeutlolzudzhix,ndrostabgongbhuefnitndasdos.</p>
+  </li>
+  <li>
+    <p>Cuatlenxcuatdolmuaxxangdsheufshotshaobtabnofzheuxnitndasdos,baobguaxuatnofjaixnyongsmuaxndrosgedxinfzhiftabdinfjaixmuabnghetrosdoutshotshaobnitndasdos.</p>
+  </li>
+  <li>
+    <p>(lb)Cuatlenxcuatdolmuaxndosxangdsheufwefgufbuadniltabnilyisnenbidrongtncendtabfuxlifyatyuadnitsenbhoxshuedzhund,baobguaxghongbghangd,drilchaot,zhednyaob,kotmaobtabbixyaofnitshefhueffuxvuf;Nyaobteufguknzhibdrousbongbnof,muaxmaobuatngenl,cangxfef,uatboxnangsnzhuas,loulngonglid,lasshiknyaobqixtabzhitnenxkongfzhifnitqinxkuangfxafbongbleufuatnenxnitshadros,huafidmuaxndosxangdsheufbaodzhangf.</p>
+    <p>(Aob)Naftabnyuasmuaxndosxangdsheuftexbixzhaofguf,ibcixniknyuas,zhitguangdyaoszidyoslasshikyaosnyuaszhoub,disyinfgaibxangdsheufibyangfnitshefhuefbacdzhangf.</p>
+  </li>
+  <li>
+    <p>(lb)Cuatlenxcuatdoldismuaxxangdsheufkhuabkhatnitndasdos,khuabkhatyinfdangbzhityuadnyaxzax,renfzheusnyaobndotkhebdroxidtabzuatghangbdasdeutidyinfgaibuatnad.Ndotkhebdroxkhuabkhatidyinfgaibyaosyifvufxinfzhix.Jifshuxtabgednofkhuabkhatyinfgaidpinxchenxjix,daxziszhaotdlangddroutibcixduabnens.</p>
+    <p>(Aob)Khuatkhatnitmuxdixyaoszhaotdelhlobhlangdnenbnitgefxinfloljuabqiangxduefnenbndasdostabjibbendzifyouxnitzunbzhongf.Khuabkhatyinfgaibceubnjetcuatlobgoxjuab,cuathaidnenblasshikcuatjaodnbaoxbuabbeusidnitliaodgaid,rangfrenltabzaxnzhis,binfqidyinfgaibceubnjetlinxhoxgoxgufbuadhoxpinxnitcuatlobboxdongf.</p>
+    <p>(Beb)Nafzidduefdobncaikyinfgaibsheufzhangdkhuabkhatdus,muaxsobsaidsobtrotnitndasdos.</p>
+  </li>
+  <li>
+    <p>(lb)Cuatlenxcuatdolmuaxndosyouxyoldrostabshefhuefnitwenxhuafhoxdongf,xangdsheufyifshux,muaxndosxangdsheufkobxoxjinfbuftabnildaflolnitfuxlif.</p>
+    <p>(Aob)Cuatlenxcuatdolduefyaosniluatdeufnitzhangdkobxox,wenxxoxdushoxzhedmedshuxzoxpinddafloljinbshenxnittabvuxzhixnitlifyix,muaxxangdsheufbaodfufnitndasdos.</p>
+  </li>
+  <li>
+    <p>Cuatlenxcuatdolmuaxndosyaobqouxibzhangdshefhuefnittabgoxjifnitghangbhoud,nyaobhoudzhangdghangbhoudnad,rangxlolntuadnadjifmuaxnitndasdostabzifyouxkodyiluatzosmolleufdlangdfaot.</p>
+  </li>
+  <li>
+    <p>(lb)Cuatlenxcuatdolduefshefhuefndangtmuaxyifvuf,yinbwefzhosyuadnyaobhoudshefhuefid,nilnitgefxinfnitkodnenxdoutyouxyolshabtabzhaotdelnpluadhlobhlangd.</p>
+    <p>(Aob)Cuatlenxcuatdolhuafgukzaoxshidnilnitndasdostabzifyouxid,zhossheufgedjaitqoxdinfnitxinfzhif,qoxdinfzhangdxinfzhifnadnitwexyixmuxdixyaosbaodzhenfdueflasdexnenbidnitndasdostabzifyoux,gaofmolchenxrenftabzunbzhongf,binfqidnyaobhoudiblobminxzhudnitshefhuefid,shixyinfdaofdef,gongbgongfcifxiftabpudpinffux]ifnitzhenfdangfxibyaof.</p>
+    <p>(Beb)Zaoxdousshidyongfdexndasdostabzifyouxnad,zhitguangdnyaobzhangdqinxkuangfdus,diszhitzhundbefdreudlinxhoxgoxnitzongbzhidtabyinxzex.</p>
+  </li>
+  <li>
+    <p>Rangxlolntuadnadnitrenfhoxtiaoxvenx,zhitzhundcaikuatuatdabyusdebnjouxdoutrenfhoxiblobgoxjuab,renfhoxnbaoxbuabbeuslasshikrenfhoxibdolnenbmuaxndosuatrenfhoxyatzhofuatbualrangxlolntuadnadjifmuaxnitrenthoxndasdostabzifyouxnithoxdongfhoxzheddeutdel.</p>
+  </li>
+</ol>

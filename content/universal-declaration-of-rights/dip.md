@@ -1,0 +1,121 @@
+<h1 align='center'>Yïith e raan ci caal e pinynhöm</h1>
+<h2 align='center'>Ajokcok</h2>
+<p align='center'>Nä caa athëëk tö e baai thök e thai yic gäm ku yithkën thoŋ tö e nyiinkën, kek aalau enhom ku thoŋ, ku dör e pinynhom.
+Ku nä ci yiith e raan mar ekɔc nhiim, ku dhalkek bi kuöc lööi bɛ̈i epion e raanic, ku  aye raan thök eben waai bi bɛn epinynhom bi raan liɛ̈k e lau enhom e jamdeic, ku thëëk yanhde, ku ci bën rioc, ku ŋɔŋ.
+Ku na pɛth bi lööŋ raan aaköuny, bi raan cii nyany e rin eköuc löui ye löui yën, ku tɛŋ enyin piny.
+Ku nä ci wut ethai matyiic, yen gam e cök elööŋiic lön de raan yith tëëm kua thɛ̈ɛ̈k, ku na thöŋ möc nhöm këk e tik e yithiic kua ci tëëm bik röt aaköuny bi pir piath baai ku lɛ̈u yic.
+Ku na ci bɛ̈i tö akutic gam bik ka cin mat kek akut e mawuut epinynhom(UN), bik yith e raan ku lau enhöm kua thɛ̈ɛ̈k aatiit.
+Ku na ŋic eben lön e yith kak ku lau enhöm alëŋ köuny dit kua thɛ̈k e gɛ̈m gɛ̈m ken yic.
+Ka kut dit adhël.
+cööt ecɛ̈ɛ̈l ken yic erin yith e raan, erin yën e tën eröm ethai eben thin, ku(UN), wic bi raan tic e ciɛ̈ŋic ku tëu ka nyiin piny ecɛ̈ɛ̈l ken yic, bi athɛ̈k eyith ku lau enhöm kak cök cökpiny edhöl epioc ku wëët ku cɛ̈r cɛ̈r ebaiyic ku pinynhöm bi bik tiit. epiny nhöm eben ekɛ̈m ebɛ̈i tö akutic, ku thai awɛ̈n rɛ̈r tö eke cin.</p>
+<ol>
+  <li>
+    <p>Raanthökebenayedhëëthkalaunhömkuathöŋnhiimeyithiic,kuathɛ̈kic,kuaciyëknhiethkupuou,kubikcëŋkakeyemithetik.</p>
+  </li>
+  <li>
+    <p>Raanebenalëŋyicbiliëkeyithiickulauenhömicecɛ̈ɛ̈lkenickacitëktëkethöketiëlekuat,kukit,kementhaikuthökkuyanhethëëkkuwëlebaikmenwɛ̈tdɛ̈tlöierɔtkemenbaikuciɛ̈ŋbaikemenjɛɛkkudhëthkemenkuatetaudɛtlöierɔtkacintëktëkethökekɛmmökutik.Kucittewenciyenluel,acintieltöewelebaiyickulööŋkukemebɛikutenwenrëreraanthinpancëŋkemencicëënkemenacirötmaceröt,kementöeraandëtcin.</p>
+  </li>
+  <li>
+    <p>Raanthökebenalɛŋyicbipirkuleunhömkulelaŋ.</p>
+  </li>
+  <li>
+    <p>Kuateraanaciileubikoolkemenbiloonykuatepɛckuloonythokebenacipëën.</p>
+  </li>
+  <li>
+    <p>Raanthokebenacibenelëëŋkemenbiköucyöŋciminelai,kemebijoorbicithëk.</p>
+  </li>
+  <li>
+    <p>Raanthokebenkuatetciyenyokthinalɛ̈ŋyicbigamkayeraanlɛ̈ŋyicelooŋiic.</p>
+  </li>
+  <li>
+    <p>Raanthokebenaathoŋnhiimelooŋnhiim,kualɛ̈nyicbiliekeköunythoŋnhömkacintielbilooŋkaktiit.</p>
+  </li>
+  <li>
+    <p>Raanthokebenalɛ̈nyicbilukebanypandennhiimbiyicdeyokcimineyithtuëŋelooŋkekgamyen.</p>
+  </li>
+  <li>
+    <p>Ranthokebenacileubidömkemendampiny,kemencöbewëibaaiedieny.</p>
+  </li>
+  <li>
+    <p>Raanthokebenalɛ̈ŋyicbinhömagitkakɔckɔk,biluŋdetiŋelüokpathiicbiyɛkyicdeekɔcnhiimkukakcigämröt,kukuatemɛ̈nyciyenmɛ̈ɛ̈nygöup.</p>
+  </li>
+  <li>
+    <p>Kuateraancimɛ̈ɛny,acingöupawucɣettebiloŋyennyoothlonleyengöupawucekɔ̈cnhiimkukonybirotköunybei.</p>
+    <p>Raanacilukeweierinekencilöikemencikuecbilöi,keceyenawucyeloŋebaainyooth,kemenloŋepinynhöm,tewenyenlooiyenrotthin.</p>
+  </li>
+  <li>
+    <p>Acinraanekëëcepireraandeyic,kemenpandekuɣondekuathorkeiickemenbidhɔlkurɛ̈cerinedieny,kuraanebenalɛ̈ŋyicbiloŋköunyekakcitekakyiic.</p>
+  </li>
+  <li>
+    <p>Raanebenalɛ̈ŋyicbicɛ̈ɛ̈thtewickulɔ̈ctedenerëëreɣanakeuthokebenebaaiyic.</p>
+    <p>Raanebenalɛ̈ŋyicbilatewicepinynhömagutpandenkualɛ̈nyicbidhokthin.</p>
+  </li>
+  <li>
+    <p>Raanebenalɛ̈ŋyicbikookpandet,kemenbithembikookthinkakateköucciëŋ.</p>
+    <p>Kuateraancikaŋyathelukicawuccaawucewelebaaikemenbiluiekecerömkekelooŋ(UN),aciilëŋyicbiliekeyickenyic.</p>
+  </li>
+  <li>
+    <p>Raanebenalëŋyicbirotyekanyööthlöneyenranebaai.</p>
+    <p>Acileubiraanpɛnwɛrerotedieny,kemenbijailönciyendeyicbirotwar.</p>
+  </li>
+  <li>
+    <p>Mɔckutiktecikekrounethëëkdööt,aalɛ̈ŋyicbikkerebɔɛikulöikemithkacinicalekemenyathkualɛ̈ŋyiiththöŋnyiinethiëkickulouiyickupökyic.</p>
+    <p>Thiëkciloikakicekɔcthiëkrotgämkuacimëcekek.</p>
+    <p>Mɔckutikkekaamaatictueŋebaai,kualɛ̈ŋyicbikliekeköunybaaikubaainhöm.</p>
+  </li>
+  <li>
+    <p>Raanebenalɛnyicbilɛ̈ŋkedeerot,kemenbirɔ̈mkekkɔckok.</p>
+    <p>Acileubiraanpëëccinbɛiekakeedieny.</p>
+  </li>
+  <li>
+    <p>Raanebenalɛ̈ŋyicbitakkalaunhömpopuonde,yanhdekualɛ̈ŋyicbiyanhdewarickemenkeyethëëkkualɛ̈ŋyicbipiockuyeknhömkunyooyhkutiitkathienkemeekɔcnhiim.</p>
+  </li>
+  <li>
+    <p>Raanebenalɛ̈ŋyicbiwetdeluelkalaunhömkueyickenegämewelkalaunhömkacinraanlathinkuy'oŋewelkutektekkucɛɛlkekedholcitakickaciluuiakenewuad.</p>
+  </li>
+  <li>
+    <p>Raanebenalɛ̈ŋyicbimɛtakutickuakuutlalik.</p>
+    <p>Acileubikuateraanmatakutciwicyiceriel.</p>
+  </li>
+  <li>
+    <p>Raanebenalɔɛŋyicbiluimiricpandenbikuanyegaiekɔcekuany.</p>
+    <p>Raanebenaleŋyicbiluiciminekuateraanluibaai.</p>
+    <p>Kewickɔcebaaiyeneyarieemir.kukewickɔckeneekuenykuenybikambiyaaweenicekuanyaliklikkakɔcthöŋnhiimkemenbilouitewenbiraancuetkalaunhöm.</p>
+  </li>
+  <li>
+    <p>Raanebenkayeraanaakuttekɔciicaalɛ̈ŋyicbikönyekɔcbaikukɔcepinynhömkacitteyepandenyelouithinkuyithepirdekucieŋkuwëëtcirotpalathɛkdeyiclatuɛ̈ŋkuthiekyicde.</p>
+  </li>
+  <li>
+    <p>Raanebenalɛ̈ŋyicbiluikukuanykacittewiceyenkualɛŋyicbikönybilui.</p>
+    <p>Raanebenalɛŋyicbiluiariobthoŋnhömeloiyickaciyictiel.</p>
+    <p>Raanebenalɛ̈ŋyicbiriobariobcigambirotmukapthkujuakekakawenbipirdecɔkpiny.</p>
+    <p>Raanebenaleŋyicbiditkumɛtakuicbikaketiitkɔth.</p>
+  </li>
+  <li>
+    <p>Raanebenaleŋyicbilɔŋkemenbicinlaukunyotheninkeneloikukolcinyenloithin.</p>
+  </li>
+  <li>
+    <p>Kuateraanalɛŋyicbipirkapiolgoupkumitpuoukapandeecampathic,kualethkuteneninkukawenekɔckounybaaikualɛŋyicbipircɔknyinickeciiyenlui,kutuany,kemencibälkulɛɛrkemencidhiöbkulakakawenepirmietic,kaleuyencinthin.</p>
+    <p>Methkumanalɛŋyicbikekkönykumukkekapathkumithebenathöŋnhiimbikektiitbaaimithdhëthmɔckekkumithelim.</p>
+  </li>
+  <li>
+    <p>Kuateraanalɛŋyicbipiockuadhilepiocepathtueeŋ,kupioctueeŋadhilemaceyanhöm,kuapiocetɛɛtkuloiloiecinkucɔlpiocdenlatueeŋapiolic,binhömthöŋkajaŋ.</p>
+    <p>Kuwɛɛtkekubithiekickuthëkkayeraankulauenhömlatueeŋecieŋkupëlpinyewelkumääthekemewuuutkulakuut,kukönythaaiepinynhömbidoormuk.</p>
+    <p>Warkenemithalɛŋyicbikmithkenwɛɛtcittewicke.</p>
+  </li>
+  <li>
+    <p>Kuateraanalɛŋyicbimɛtkalaunhömepirekɔcebaaiyic,kubilieketɛɛtickuajueererinelatueeŋepiockubikakbibenbɛiyhinkɛcköuny.</p>
+    <p>Kuateraanalɛŋyicbikapathkucieŋkenepioctiit.</p>
+  </li>
+  <li>
+    <p>Kuateraanalɛŋyicbiliekecieŋekɔcepinynhömic,biyithkekulauenhömcinyoothecɛɛlkenyicyokegai.</p>
+  </li>
+  <li>
+    <p>Raanebenadhilkɔclouibiyennyouthlonteyenekɔciicbiditkalaunhöm.</p>
+    <p>Raanebenadhilyithkethaapkakacittecilooŋyennyouththinbigɛmgɛmeyithekɔckök,kulauenhömdekuathɛkden,kujɔlaathöŋnhömeloiloiyiic,kukapɔtheyokebenkujamaathɛɛkeciɛŋekɔcepaanekɛcthoŋnhiim.</p>
+    <p>Acirotkaŋlɛ̈uathɛrbiyithkakthaapkacetewenwicthaiepinynhömkethin.</p>
+  </li>
+  <li>
+    <p>Acinwɛtlɛubiwarkemenbicɔkpinyecɛɛlkenyickuluelalakacipankenkemenraankenacilooibilyiithkulauenhömcibɛnthinrac.</p>
+  </li>
+</ol>

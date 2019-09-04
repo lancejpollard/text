@@ -1,0 +1,122 @@
+<h1 align='center'>VISPĀRĒJĀ CILVĒKA TIESĪBU DEKLARĀCIJA</h1>
+<h2 align='center'>PREAMBULA</h2>
+<p align='center'>Ievērojot, ka visiem cilvēku sabiedrības locekļiem piemītošās pašcieņas un viņu vienlīdzīgu un neatņemamu tiesību atzīšana ir brīvības, taisnīguma un vispārēja miera pamats, un
+ievērojot, ka cilvēku tiesību necienīšana un nicināšana noved pie barbariskiem aktiem, kas izraisa sašutumu cilvēces apziņā, un ka tādas pasaules radīšana pasludināta kā cilvēku augstākie centieni, kurā cilvēkiem būs vārda un pārliecības brīvība un tie būs brīvi no bailēm un trūkuma, un
+ievērojot, ka nepieciešams, lai cilvēka tiesības aizsargātu likuma spēks un cilvēks nebūtu spiests izmantot kā pēdējo līdzekli sacelšanos pret tirāniju un apspiestību, un
+ievērojot, ka nepieciešams veicināt draudzīgu attiecību attīstību starp tautām, un
+ievērojot, ka Apvienoto Nāciju tautas Statūtos apliecināja savu ticību cilvēka pamattiesībām, cilvēka personības pašcieņai un vērtībai un vīriešu un sieviešu līdztiesībai un apņēmās sekmēt sociālo progresu un labākus dzīves apstākļus vislielākās brīvības apstākļos, un
+ievērojot, ka Dalībvalstis ir apņēmušās panākt, sadarbojoties ar Apvienoto Nāciju Organizāciju, sekmēt cilvēka tiesību un pamatbrīvību vispārēju cienīšanu un ievērošanu, un
+ievērojot, ka šo tiesību un brīvību vispārējai izpratnei ir milzīga nozīme šīs apņemšanās pilnīgai īstenošanai,
+tāpēc Ģenerālā Asambleja
+pasludina šo Vispārējo cilvēka tiesību deklarāciju par visu tautu un nāciju sasniegumu kopējo standartu, lai katrs cilvēks un katra sabiedrības institūcija, pastāvīgi paturot prātā šo Deklarāciju, censtos ar apmācību un izglītošanu veicināt šo tiesību un brīvības respektēšanu un, īstenojot progresīvus nacionālos un starptautiskos pasākumus, nodrošinātu to vispārēju un efektīvu atzīšanu un ievērošanu kā pašu Organizācijas dalībvalstu starpā, tā arī to jurisdikcijā esošo teritoriju tautās.</p>
+<ol>
+  <li>
+    <p>Visicilvēkipiedzimstbrīviunvienlīdzīgisavāpašcieņāuntiesībās.Viņiirapveltītiarsaprātuunsirdsapziņu,unviņiemjāizturascitampretcitubrālībasgarā.</p>
+  </li>
+  <li>
+    <p>IkvienamirtiesībasuzvisāmšajāDeklarācijāpasludinātajāmtiesībāmunbrīvībām,bezjebkādaveidaatšķirībaspēcrases,ādaskrāsas,dzimuma,valodas,reliģijas,politiskāsvaicitaspārliecības,nacionālāsvaisociālāsizcelsmes,mantiskāstāvokļa,dzimšanasvaicitastatusa.Turklātnedrīkstnoteiktnekāduatšķirībupēctāsvalstsvaiteritorijas,politiskā,tiesiskāvaistarptautiskāstatusa,piekurascilvēkspiederneatkarīginotā,vaišīteritorijairneatkarīga,aizbildnībāesoša,bezpašpārvaldesvaikautkācitādiierobežotasavāsuverenitātē.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasuzdzīvību,brīvībuunpersonasneaizskaramību.</p>
+  </li>
+  <li>
+    <p>Nevienunedrīkstturētverdzībāvaidzimtbūtniecībā;visaveidaverdzībaunvergutirdzniecībairjāaizliedz.</p>
+  </li>
+  <li>
+    <p>Nevienunedrīkstpakļautspīdzināšanaivaicietsirdīgi,necilvēcīgiarviņuapietiesvaisodīt,pazemojotviņacilvēciskocieņu.</p>
+  </li>
+  <li>
+    <p>Ikvienam,visur,irtiesībasbūtatzītamparpersonulikumapriekšā.</p>
+  </li>
+  <li>
+    <p>Visiirvienlīdzīgilikumapriekšāunviņiemirtiesības,bezjebkādasdiskriminācijas,uzvienādulikumaaizsardzību.Visiemirtiesībasuzvienāduaizsardzībupretjebkādudiskrimināciju,pārkāpjotšoDeklarāciju,unpretjebkurukūdīšanuuztādudiskrimināciju.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasuzefektīvuviņatiesībuatjaunošanukompetentāsnacionālajāstiesāsgadījumos,parnodarījumiem,kaspārkāpjviņapamattiesības,kasgarantētaskonstitūcijāvailikumā.</p>
+  </li>
+  <li>
+    <p>Nevienunedrīkstpatvaļīgiarestēt,aizturētvaipakļautizraidīšanai.</p>
+  </li>
+  <li>
+    <p>Ikvienamviņatiesībuunpienākumunoskaidrošanai,kāarīviņamizvirzītāskriminālāsapsūdzībaspamatotībasnoteikšanai,irtiesības,laiviņulietuatklātiun,ievērojotvisastaisnīgumaprasības,uzpilnīgaslīdztiesībaspamataizskatītuneatkarīgaunobjektīvatiesa.</p>
+  </li>
+  <li>
+    <p>Katram,kasirapsūdzētskriminālnoziegumā,irtiesībastiktuzskatītamparnevainīgu,kamērviņavainanavpierādītasaskaņāarlikumuatklātātiesasprocesā,kurāviņamirbijušasnodrošinātasvisassavaiaizstāvībainepieciešamāsgarantijas.</p>
+    <p>Nevienunedrīkstnotiesātparsodāmutiesībpārkāpumutādasdarbībasvaibezdarbībasdēļ,kassaskaņāarizdarīšanasbrīdīspēkābijušajiemnacionālajiemlikumiemvaistarptautiskajāmtiesībāmnebijasodāmstiesībpārkāpums.Tāpatnedrīkstpiespriestsmagākusodunekātas,kasbijajāpiemērolaikā,kadtikaizdarītssodāmaistiesībpārkākums.</p>
+  </li>
+  <li>
+    <p>Nedrīkstpatvaļīgiiejauktiesnevienapersoniskajāunģimenesdzīvē,patvaļīgipārkāptviņadzīvokļavaikorespondencesneaizskaramībuvaiapdraudētviņagoduunreputāciju.Katramirtiesībasuzlikumaaizsardzībupretšāduiejaukšanosvaiapdraudējumiem.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasbrīvipārvietotiesunizvēlētiessevdzīvesvietuikvienāvalstī.</p>
+    <p>Ikvienamirtiesībasatstātjebkuru,arīsavuvalstiunatgrieztiessavāvalstī.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasmeklētunizmantotpatvērumunovajāšanascitāsvalstīs.Šīstiesībasnevartiktizmantotastādasvajāšanasgadījumā,kasīstenībānavsaistītaarpolitiskiemnoziegumiemvaiardarbībām,kasirpretrunāarApvienoto</p>
+    <p>NācijuOrganizācijasmērķiemunprincipiem.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasuzpilsonību.</p>
+    <p>Nevienampatvaļīginedrīkstatņemttāpilsonībuvaiatteikttiesībasmainītsavupilsonību.</p>
+  </li>
+  <li>
+    <p>Pilngadīgajiemvīriešiemunsievietēmirtiesībasbezjebkādiemarrasi,nacionalitātivaireliģijusaistītiemierobežojumiemstātieslaulībāunnodibinātģimeni.Viņiemirvienlīdzīgastiesības,stātieslaulībā,laulībaslaikāunšķirotlaulību.</p>
+    <p>Laulībavartiktslēgtatikaiarabupersonu,kasstājaslaulībā,brīvuunpilnīgupiekrišanu.</p>
+    <p>Ģimeneirdabiskasabiedrībaspamatvienība,untaiirtiesībasuzsabiedrībasunvalstsaizsardzību.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasuzīpašumukāvienam,tāarīkopīgiarcitiem.</p>
+    <p>Nevienampatvaļīginedrīkstatņemtviņaīpašumu.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasuzdomu,apziņasunreliģijasbrīvību;brīvībumainītreliģijuvaipārliecību,brīvībunodotiessavaireliģijaiunpārliecībaitiklabvienatnē,kāarīkopāarcitiempubliskivainošķirti,piekoptreliģijuvaiticību,sludinotmācību,izpildot,pielūdzotunievērojotto.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasuzpārliecībasunizteiksmesbrīvību;šīstiesībasietverbrīvībubeziejaukšanāspaliktpiesaviemuzskatiemunmeklēt,saņemtunizplatītinformācijuunidejasarjebkurieminformācijaslīdzekļiemneatkarīginovalsturobežām.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasuzmiermīlīgusapulčuunasociācijasbrīvību.</p>
+    <p>Nevienunedrīkstpiespiestpiederētkādaiasociācijai.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībaspiedalītiessavasvalstspārvaldētiešivaiarbrīviizvēlētupārstāvjustarpniecību.</p>
+    <p>Ikvienamirtiesībasuzlīdztiesīgupieejamībuvalstsdienestamsavāzemē.</p>
+    <p>Tautasgribaiirjābūtvaldībasvaraspamatam;šaigribaijāizpaužasperiodiskāsunnefalsificētāsvēlēšanās,kamjānotiekuzvispārējuunvienlīdzīguvēlēšanutiesībupamata,aizklātibalsojotvaiarīcitāslīdzvērtīgāsbrīvāsbalsošanasprocedūrās.</p>
+  </li>
+  <li>
+    <p>Katramkāsabiedrībasloceklimirtiesībasuzsociālodrošībuunviņamirtiesībasīstenotarnacionālocentienupalīdzībuunstarptautiskāssadarbībasceļā,unatbilstošikatrasvalstsstruktūraiunresursiem,viņapašcieņaiunpersonībasbrīvaiattīstībainepieciešamāsekonomiskās,sociālāsunkultūrastiesības.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasuzdarbu,uzbrīvudarbaizvēli,uztaisnīgiemunlabvēlīgiemdarbaapstākļiemunuzaizsardzībupretbezdarbu.</p>
+    <p>Ikvienam,bezjebkādasdiskriminācijas,irtiesībasuzvienāduatlīdzībuparlīdzvērtīgudarbu.</p>
+    <p>Katramstrādājošamirtiesībasuztaisnīguunpienācīgudarbaalgu,kasnodrošinacilvēkacienīgudzīviviņamunviņaģimenei.Nepieciešamībasgadījumātājāpapildinaarcitiemsociālāsnodrošināšanaslīdzekļiem.</p>
+    <p>Katramirtiesībasdibinātarodbiedrībasuniestātiestajāssavuinterešuaizsardzībai.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasuzatpūtuunbrīvolaiku,ieskaitotsaprātīgudarbadienasierobežojumuunapmaksātuperiodiskuatvaļinājumu.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasuzviņaunviņaģimenesveselībasuzturēšanaiunlabklājībaiatbilstošudzīveslīmeni,ieskaitotuzturu,apģērbu,mājokli,medicīniskospakalpojumusunnepieciešamosociāloapkalpošanu,untiesībasuznodrošinājumubezdarba,slimības,darbanespējas,atraitnības,vecumavaicitosiztikaslīdzekļuzaudējumugadījumos,kasradušiesnoviņaneatkarīguapstākļudēļ.</p>
+    <p>Mātēmunbērniemirtiesībasuzīpašuaizsardzībuunpalīdzību.Visiembērniem,laulībāunārlaulībādzimušajiem,irjābaudavienādasociālāaizsardzība.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasuzizglītību.Izglītībai,vismazpamataunvispārējaiizglītībai,irjābūtbezmaksas.Pamatizglītībaiirjābūtobligātai.Tehniskajaiunprofesionālajaiizglītībaiirjābūtvispārpieejamai,unaugstākajaiizglītībaijābūtvienādipieejamaivisiematbilstošispējām.</p>
+    <p>Izglītībasmērķimjābūtpilnīgaipersonībasattīstībai,kāarīcilvēkatiesībuunpamatbrīvīburespektēšanasstiprināšanai.</p>
+    <p>Izglītībaiirjāsekmēsaprašanās,iecietībaundraudzībastarpvisāmtautām,rasuvaireliģiskajāmgrupāmunjāsekmēApvienotoNācijuOrganizācijasmierauzturēšanaspasākumi.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasbrīvipiedalītiessabiedrībaskultūrasdzīvē,baudītmākslu,piedalītieszinātnesprogresāunizmantottālabumus.</p>
+    <p>Ikvienamirtiesībasuzmorālounmateriālointerešuaizsardzību,kasizrietnozinātniskajiem,literārajiemvaimākslasdarbiem,kuruautorsviņšir.</p>
+  </li>
+  <li>
+    <p>Ikvienamirtiesībasuzsociālounstarptautiskokārtību,kurāvartiktpilnībāīstenotasšajāDeklarācijāizklāstītāstiesībasunbrīvības.</p>
+  </li>
+  <li>
+    <p>Ikvienamirpienākumipretsabiedrību,kurāvienīgiiriespējamaviņapersonībasbrīvaunpilnīgaattīstība.</p>
+    <p>Izmantojotsavastiesībasunbrīvības,katramcilvēkamirjāpakļaujastikaitādiemierobežojumiem,kasirnoteiktiarlikumu,vienīgiarmērķinodrošinātcitucilvēkutiesībuunbrīvībupienācīguatzīšanuuncienīšanuunmorāles,sabiedriskāskārtībasunvispārējaslabklājībastaisnīguprasībuapmierināšanudemokrātiskāsabiedrībā.</p>
+    <p>ŠīstiesībasunbrīvībasnekādāziņānedrīkstizmantotpretrunāarApvienotoNācijuOrganizācijasmērķiemunprincipiem.</p>
+  </li>
+  <li>
+    <p>NekošajāDeklarācijānedrīksttulkottādējādi,laikādaivalstij,personugrupaivaiatsevišķāmpersonāmbūtutiesībasiesaistītiesjebkādāpasākumāvaiveiktjebkurudarbību,kurumērķisiriznīcinātšajāDeklarācijāizklāstītāstiesībasunbrīvības.</p>
+  </li>
+</ol>

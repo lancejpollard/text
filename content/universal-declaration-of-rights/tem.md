@@ -1,0 +1,121 @@
+<h1 align='center'>Mʌshelɔ Ma Aŋfəm ŋa Rʌru Ta Ʌmari Ma Rʌwuni Kəpet</h1>
+<h2 align='center'>KɅWASƏR ɅŊKAŊ</h2>
+<p align='center'>Ɔwa ta salata kʌsɔthnɛ ʌyiki a komʌnɛ aŋ fəm akəpet, ɔwa yi ʌmari məthənʌnɛ a komʌnɛ ŋa‐e, ŋa yi ʌŋgbeth ŋa rʌwankom, mʌlompi, yi mʌthɔfəl ka nɔru.
+Ɔwa, kʌ kʌlʌ agbʌp yi kʌsay ʌmari ma aŋfəm akəpet mʌ po kʌrʌ kʌdifəthʌnɛ ʌke po ləsər tʌtemp ta aŋfəm akəpet, ɔwa kə po kʌrʌ ka rʌru ʌre, pə yi naŋrʌ aŋfəm akəpet maŋba naŋ rʌwankom ra kʌfɔf, kʌtʌŋ ɛdina, kəte ba rənes kəpa ye, ʌŋe ŋʌ tha yi mʌfela ma aŋfəm akəpet thɔŋ bɛ nɔru. Ɔwa ɔ fisa ti, kʌmʌ a te gbɔndar aŋfəm rə tʌy o tʌy bɛ mə yɔ ŋa aŋ thʌnthonɛ tə kəfumpər aŋe bət ʌŋfɔsɔ mə thʌlər ŋa‐e, ɔwa tʌsoma, a yi təkə bot ɛthɔ məkunkəla ŋa‐e.
+Ɔwa a yi təkə sakəthi ʌkɛra ʌke dɛr o dɛr, təkə yɔ tʌthɔf ta rʌru bɛ təmanɛ. Ɔwa tʌsoma aŋfəm ŋa tʌthɔf bɛ aŋ wopʌnɛ ka rʌru, aŋ bot ka mʌsekrʌnɛ maŋ təkə beŋ kʌmʌ aŋ gbasi ɔfu fəlen malane ma kʌsɔŋ aŋfəm akəpet ʌmari akomʌnɛ ŋa, ka ayiki yi to wuni kəpet ɔ yi‐e, kəpa runiŋaŋi, yi bom ŋaŋ a thənanɛ. Ɔwa aŋ bɛŋ təkə səkʌ ro di rʌwankom yi mayi mʌkolo mʌ aŋfəm akəpet.
+Ɔwa rokɔm kati bɛ tʌthɔf ʌte yi ka ʌŋnənki aŋe, təsɔnɛ kəpa, tʌ tə wopanɛ rəkin yi tʌthɔf ta rʌru tək sakəthi yi kəwop ʌmari a komʌnɛ aŋfəm akəpet yi tʌwankom tʌŋ.
+Ɔwa aŋpo bɛŋ tə kəyi kʌsɔthnɛ ʌmari ʌme yi rʌwankom ʌre, yʌ yi aŋkolo ŋa mʌsekrʌnɛ ʌme.
+Tʌsoma Ʌkamathɔ ka Aŋfəm ŋa Rʌru kə Thʌsʌ
+Ʌkera Ʌke kəpa :
+Mʌshelɔ ma kʌsɔŋ ʌmari a komʌnɛ aŋfəm akəpet ʌme, mʌ yi ɔtəmʌ wa wuni o wuni yi ka tʌthɔf ta rʌru bɛ kʌmʌ wuni o wuni, ʌgbʌp o gbʌp ka rʌru, ɔ yi təkə bot mʌsekrʌnɛ ʌme rə merʌ ʌlɔkɔ bɛ, rə kəthəkəsʌ aŋfəm akəpet kʌmʌ aŋ səkʌ kʌyikis ʌmari a komanɛ aŋfəm akəpet yi tʌwankom taŋ ro di, kətɔŋ ka aŋc yi ka tʌthɔf ro kor yi aŋe yi ka tʌthɔf təbraŋ. Kʌmʌ aŋfəm bɛ ka rʌru aŋ wop mʌsekrʌnɛ ʌme. Ɔwa kʌmʌ aŋ sɔthnɛ, yi kəwop mʌsekrʌnɛ ʌme ketɔŋ ka aŋfəm ŋa tʌthɔf yi ka ʌŋənki ʌŋe yi kətɔŋ ka aŋfəm bɛ maŋ kaman‐e :</p>
+<ol>
+  <li>
+    <p>Akomaŋfəmakəpetbɛŋaathənʌnɛyirʌwankom.Ɔwaaŋbaməmariməthənʌnɛ.Ɔwaaŋbaməfithyitəchemp.Chiyaŋ,aŋyitəkəgbasiaŋkosŋaŋmɔkəpaŋatəkom.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbamarimarʌwankom,yimʌmariabotkamʌsekrʌnɛame,kamaatesaykɔtʌʌbɔnshɔ,mʌyimaʌŋdɛrŋɔŋ,kəpauwandunithalɔmwunibom,sɔthlɔmʌtəntmʌŋfɔf,ʌŋdinamʌŋtʌŋ,thalɔmkəpaʌŋgbʌpʌŋyi,təkəʌtemɔwopkaʌmerʌŋɔŋ,ʌŋthɔfŋɔŋ,thalɔmʌŋbɔnshɔɔwur,təmɔnɛ,taroakomkɔ‐o,yimətəmaɔ‐e.Rodikatisɔ,ayɛtəkəyɔkɔagbʌytəkəpaaŋgbʌpʌŋerɔyi,ʌmariɔtəmʌ,thalɔmmʌtəmʌmaʌŋthɔf,thalɔmaŋgbʌŋɔwuniɔyi‐e,thalɔmkəpaʌŋthɔfʌŋepochiyʌkaʌŋyɛthɛŋati,thalɔmataŋŋimʌshehɛkɛ,aŋyirorathakaʌthɔfʌlɔm,thalɔmʌŋbayɛʌtemayɔkaʌŋyɛthɛŋate.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbaʌmaritaʌŋesəmŋɔŋ,rʌwankomrɔŋyikʌfisɔsʌŋesəmŋɔŋ.</p>
+  </li>
+  <li>
+    <p>Ayɛsɔtəkəwopwunirətar,thalɔmkəyiskɔməshɛkɛ.Ayɛsɔtəkəwopwuni,kəthilaatardəroŋoroŋ.Kʌthilaaŋfəmkarʌtarayitəkəgbiŋeki.</p>
+  </li>
+  <li>
+    <p>Ayɛtəkəthʌlər,kəsɔmpar,thalɔmkəgbalowunikaʌŋfɔsɔrəkɔm.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbaʌmarimɔŋayitəkəsɔŋkɔkətanŋʌnɛkaaŋthɔ‐e.</p>
+  </li>
+  <li>
+    <p>Aŋfəmʌkəpetathənʌnɛteriroderkaʌŋthɔ.Ɔwaʌŋbaʌmarimakʌmʌʌŋthɔʌŋgbəpərŋa.Ɔwaʌŋbaʌmarimakʌmʌʌŋthɔʌŋbumŋakəwurkaʌŋeməyɔŋaʌŋgbʌy;taʌŋeməshimmʌsekranɛʌme,thalɔmtəkəyɔaŋfəmalɔmʌŋləsərmʌsekranɛʌme.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbaʌmarikʌmʌathonkanɛkɔtabepiwuniowuniɔkʌthikɔʌmarimɔŋkarəwunikəpetkətaŋʌnɛkaʌŋthɔ.</p>
+  </li>
+  <li>
+    <p>Ayɛtəkəbarkarwunikaʌŋfɔsɔ.Ayɛtəkəbotkɔdɛrɔfenʌnɛthalɔmkəfithakɔrʌthɔfʌtelkamʌtemɔyema.</p>
+  </li>
+  <li>
+    <p>Ayitəkəsɔŋwuniowuniʌfɛrɛʌthənʌnɛsuʌkɔɛləŋskaʌŋbareŋaʌŋthonkasgberketheməteyɔʌgbʌykakʌgbɛngbɛnʌmarimɔŋyiʌŋgbɛthɛŋɔŋ,yimʌləsthalɔmtʌləsapatɔyɔ‐e.</p>
+  </li>
+  <li>
+    <p>Ɔwawuniowuniapobotkaʌŋbareŋaʌŋthonkasbɛtamʌləsapamɔyɔ‐e,ayɛtəkəgbasikəpaʌtealɔmkəpatɔyu‐etəteŋ,haŋthasapogbɛngbɛŋyikələfthiləfthi.Ɔwaasɔŋkɔʌŋfɛrɛŋakʌthonkakʌmʌɔkʌthinɛkaʌteadeŋkɔ.Ɔwathasabəpkəpaʌtealmtəteŋyenkamawopkɔtɛn.</p>
+    <p>Ɔwaayɛtəkəwopwunikaʌŋthɔkamʌləsʌmepəyiɔbotɛrimʌtamɔŋ,pəkaʌŋthɔŋaʌŋthɔfŋɔŋ‐o,thalɔmʌthɔfʌtelkaʌlɔkɔayɔmʌləsmati‐e.Ɔwaayɛtəkəthʌlərwunipəthasmɔtoabottəkəthʌlərwuniməshimʌŋthɔkaʌŋlɔkɔɔshimʌŋthɔ‐ɔ.</p>
+  </li>
+  <li>
+    <p>Ayɛtəkəbotkəsəŋkaʌŋgbundu,ʌŋbɔnshɔ,mʌyirʌthalɔmʌtemɔgbal,ɔwakəsambosayikitɔŋyiʌŋesŋɔʌfinɔ.Ɔwawuniowunibaʌmarimakʌyɔʌŋthɔʌŋchimʌkɔkaʌŋeməbotkɔkəsəŋ‐e.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbarʌwankomrakʌkɔnɛroɔyemayikəbotməyiramɔŋroɔyema‐erathɔfothɔf.</p>
+    <p>Ɔwawuniowaniɔbaʌmarimakʌteyhaliroakomkɔ‐etəkəkɔnɛroɔyema‐e,thalɔmkəkalʌnɛroɔwur‐e.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbaʌmarimakʌgbukɛɔkɔmʌnknɛrʌʌthɔfʌlɔm,kʌmʌatedifkɔ.</p>
+    <p>Ɔwaayɛtəkənɔykɔʌmariʌmetasalataɛfɔfɛyayyay,thalɔmrətətəktəlɔmtəwɔŋrʌpɔlitikis,thalɔmtətəkteləsərmʌthankmaɅŋyunaytɛdNeshɔn.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbaʌmaritəkŋyirʌkaʌŋthɔfŋɔŋ.</p>
+    <p>Ɔwawuniɔbayemaritəkəkʌthiɔkoskɔŋʌmarimakayiukinkaaŋthɔfŋɔŋ,thalɔmkəbɛntkɔkʌmʌɔteshinkarkayiukinkaʌŋthɔfɔteyema.</p>
+  </li>
+  <li>
+    <p>Aŋfəmaruniyiaŋfəmabompotɛna‐e,aŋbamʌritəkənʌntʌnɛmɔtoaŋyema‐e;təkətekəlɛnɛtʌʌbɔnshɔ,ʌŋthɔf,thalɔmʌŋdinakʌmʌaŋtəpitʌlektaŋ.</p>
+    <p>Ɔwaayɛtəkənɔtwunikəkɔnɛbalʌkaɔweɔteyema.Aŋemənʌntʌnɛ‐e,aŋyitəkəbɛŋkamʌyemamaŋ.</p>
+    <p>Ɔwamʌpəyirʌlekramʌyirarʌyikʌbothkaʌkələŋkələŋkamʌyiranɛ‐e,aŋəkaʌkələŋbɛyikaʌŋthɔfe,ayitəkəbumŋadəroŋoroŋmaŋyemayʌtha‐e.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbaʌmaritəkəbaʌkeŋkɔŋkɔnson.Ɔwaɔgbəlisɔkʌlbaʌkeŋyiafəmalɔmŋ.</p>
+    <p>Ɔwawuniɔbayɛmaritəkəkʌthikɔkirʌfɔsɔrəkom.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbaʌmarimarʌwankomrakʌtəmtəmnɛtoɔyema,ɛnanɛyɔŋyiʌŋdinaɔyemawop‐e.Waɔbaʌmarimakʌshinkarʌŋdinaɔyema,yimʌlanɛmɔŋ.Ɔwaɔbarʌwankomrakʌthəksʌ,kʌbʌtho,kʌtaŋʌŋɛyikəthəksʌmʌlanɛmɔŋpəyikɔŋson‐o,kaʌkələŋkələŋyiafəmalɔm‐o,dɛrɔgberkethe‐o,thalɔmkaʌŋgbunduŋɔŋ.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbarʌwankomraʌteɔtəmʌyikʌfɔfʌteɔyema‐e.Ɔwarʌwankomʌreɔbaritəkəbətʌteɔnanɛkətəbotkɔkəsəŋyikəthɛns,thalɔmkəsakəthitərayiɛtəmtəmnɛdəroŋoroŋkətəkəlɛnɛroɔyi‐e.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbaʌmarimakʌwopməgbanɛməthɔfəlyikəkulunɛaŋeɔyema‐e.</p>
+    <p>Ayɛtəkəfɔsarwunikʌmʌɔkɔkulunɛkaʌteɔteyema‐e.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbaʌmarimakʌgbasiʌgbʌpkaʌŋkwamentŋaaŋthɔfŋɔŋ,kətʌŋkakɔŋɔŋgbeŋthalɔmkaɔweɔthithe.</p>
+    <p>Aŋkwhamɛntʌŋyitəkətʌŋʌnɛʌteaŋfemaŋyema‐e.Ɔwamʌyemaʌmeaŋtətɔrinɛŋʌkakʌtentethithaŋeaŋyema‐e,kaaŋgbundu.Ɔwaayɛtəkəpɛnshanɛʌmarimawuniowunipobəktəkithithwuni‐e,kamaɔthithɔweɔyemaɔtəmataʌtɔŋ.</p>
+    <p></p>
+  </li>
+  <li>
+    <p>Ɔwamʌpəyiwuniowuniɔyikətɔŋkaaŋfəmʌkəpet‐e,ɔbaʌmarimakʌmʌranɛkɔkʌmʌpəfisakɔkətʌŋkaɛmaryaaŋthɔf,ɛmaryatʌthɔftətel,kətʌŋʌnɛkamɔtoɔgbəlitəmʌukoloyiyikikətɔŋkaaŋkosŋɔŋ.</p>
+  </li>
+  <li>
+    <p>Ɔwawuniowuniɔbaʌmarimakʌworəkmʌpanth,rʌwankomrakʌthithkɔrəmʌpanthyikaɔlompiwatikʌmʌʌtepɛnshanɛkəsɔŋwunimʌpanth.</p>
+    <p>Ɔwawuniowuniɔyitəkəbaʌrʌmʌthənʌnɛbepiaŋyɔməpathməthənʌnɛkətetɔʌgbay.</p>
+    <p>Ayitəkərʌmwuniowuniʌrʌmʌfinɔməgbəlisɔŋkɔayikitɔŋkarʌlekrɔŋyikəmarmʌtʌyməlɔmɔyitəkəyɔkaʌkələŋkələŋɔyi‐e.</p>
+    <p>Wuniowuniɔbaʌmaritəkəkulunɛ,thalɔmkətəpiʌnənkiməchimʌkɔkʌmʌɔsɔthɔʌrʌmʌfinɔkamapanthmɔworək‐e.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbaʌmarimakʌfothanɛkəwurkʌyɔmʌpanthtoɔyema.Ɔwaɔbaʌmarimakʌsɔŋkɔʌlɔkɔmɔfothanɛʌlɔkɔolɔkɔ.</p>
+  </li>
+  <li>
+    <p>Wuniowuniɔbaʌmarimakayiuyenkimədɛr,yikʌbɔrkɔŋ.Ɔwaaŋyitəkəbaɛdiɛbeki,ɛyetɛwɔŋ,aŋsethkʌyi,tɔlɛbeki,ɛmaryaʌŋthɔf.Ɔwaɔyitəkəsɔthɔʌmarkaʌŋlɔkɔmɔteyirəməpanth‐e,thalɔmutuy,bepiɔsəkɛulopʌnɛ,thalɔmkəsəkɛubora,ubʌki,ɔwasɔthəlɔmmʌmɔtəsɔgbəliworəkkaaŋyɛthɛŋɔŋ.</p>
+    <p>Aŋkomrʌyiaŋfɛthbɛayitəkəsɔŋŋaməmariməthɔkɔŋ.Aŋfəthʌŋemakomkakʌtethanʌntanɛyinkʌtethanʌntʌnɛŋ,ayitəkəsɔŋŋaɛmarɛthənənɛ.</p>
+  </li>
+  <li>
+    <p>UwathOwathɔbaʌmarimakʌyɔkɔɔKarʌnAyitəkəyɔwathowathɔponkʌkʌraŋkaʌtaranthɛtəfɛth.Kɛrɛkʌthəkəstʌtolyikʌkʌraŋkəbolirəkɔmayitəkəsɔŋkikaaŋfəthʌŋegbəlithəkəsyikʌkaraŋkati.</p>
+    <p>Ɔwakakaraŋayitəkəyɔkikʌmʌkəgbəlimarɔwunikʌmʌɔkɔrodi,təkəbʌrʌyikitɔŋyirʌwankomrɔŋ.Ɔwakəyitəkəgbəlikʌrʌkɔkəsɔthrʌnɛɛmerʌ,kʌmuyʌnɛ,kəkʌrʌrəyathkikətɔŋkatʌbonataʌrʌru,aŋfəmʌkəpet,ɛdinaɛgbaskegbaske,ɔwayikəkʌrʌməthɔfəlmɔtoAŋyunatɛdNeshonaŋyema‐e.</p>
+    <p>Aŋkomraaŋbaʌmarimakathithkokəkaranŋkaŋyemaaŋfɛthŋaŋaŋkaraŋ‐e.</p>
+  </li>
+  <li>
+    <p>Ɔwawuniowuniɔbaʌmarimakʌtʌŋmʌkurmaaŋfəmŋɔŋʌmeɔyema‐e,yikaʌkələŋkələŋɔyi‐e.Ɔyitəkəyanthenɛmʌtʌyʌme,ɔwaɔyitəkəmarkʌmʌməkɔrodikamɔyɛŋ.</p>
+    <p>Wuniowuniɔbaʌmarimakəbummʌyi,mʌyɛtʌmeɔbɛmpayiʌtafʌʌtekɔnɔŋɔgbal‐e.</p>
+  </li>
+  <li>
+    <p>Ɔwawuniowuniɔbaʌmarimakʌtʌŋʌnɛʌŋeɔyemapəyikaaŋthɔfŋɔŋrəkor‐o,thaɔmrətəthoftətelromɔgbəlisɔthɔʌŋfɛrɛŋakasɔthɔmʌtʌyʌmebɛagbalkamʌsekrʌnɛʌmekarʌwʌnkomrɔŋkəyankaŋ.</p>
+  </li>
+  <li>
+    <p>Ɔwawuniowuniɔbaʌŋgbɛthɛŋatəkəmarʌkələŋkələŋɔsɔthɔrʌwankombɛɔpoteŋayikəwurŋaŋiɛŋ.</p>
+    <p>Ɔwahalimaapawuniowuniɔbaʌmariyirʌwankomrɔŋ,tatʌrʌtikəpaɔyirorathakaʌŋthɔ.Ɔwaɔyitəkəyikisʌmariyirʌwankomraaŋkosŋɔŋ.Ɔwaɔanfəmŋarʌwankom.</p>
+    <p>Ɔwaʌmariʌmeyirʌwankomʌre,ɛsɔŋyɛwunimaritəkətetʌŋʌnɛmʌbotəsmaAŋyunaytedNeshɔn.</p>
+  </li>
+  <li>
+    <p>Ɔwaʌteyikamʌsekranɛʌmebɛ,ayɛtəkəgbasititəkəsɔmparʌŋthɔf,wuniowuni,thalɔmʌnənkiŋaʌŋfəm,thalɔmtəkəkasaraʌmariyirʌwankomyikamʌsekranɛʌme.</p>
+  </li>
+</ol>

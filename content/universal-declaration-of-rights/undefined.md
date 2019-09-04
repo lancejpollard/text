@@ -1,0 +1,121 @@
+<h1 align='center'>NANONDIRAL WINNDEREYANKEEWAL HAKKEEJE AADE</h1>
+<h2 align='center'>NAATIRKA</h2>
+<p align='center'>E tuugnaadeko wonde keftingal horma kala neɗɗo e nder ɓesngu aadee e hakkeeji potɗi woni dnaɗɗuudi ndimaague potal e jam e nder aduna,
+E tuugnaade wonde ko baasgol heftinde kam e calogol tottude hakkeeji aade ngaddi barondiral e salaare sanndolin nde e nder aduna e kadihuccande adunam mo aade heɓi yamiroore haalde e miijiaa de no henanorii ɗum yontii ete kadi yimɓe poti jeyde koye mumen ceerta e kulol e baasal sabu aadee yiɗde ɗ um,
+E tuugnaade wonde ina teeŋti yo hakkeeji aadee ndeenire yamiroore laawɗinaande mbele aadee waasaa tonngeede e gullitaagol dowrowol so tawii fawaama kalfaandi kiisndi walla waawnere ɓ urtunde,
+E tuugnaade ina teeŋti nde ɓamtatoo ɓiyngu yummaagu hakkunde leyɗeele dimɗ uɗe,
+E tuugnaade e nanondiral leyɗeele caaktangal woondoore leyɗeele jowitiiɗe e hakkeeji gadani aadee bayɗi no ndimaagu, teddungal e nder potal rewɓe e worɓe. Leyɗeele ɗee koddirii e daranaade ɓamtaare renndo e ñiɓgol fannuji nguurndam moƴƴam,
+E tuugnaade e wonde leyɗeele dentuɗe jeytiiɗe ɗee, e ballondiral e fedde leyɗeele dentuɗe jeyɗe koye mumen pellitii ñiiɓnude horma hakkeeji aade kam e ndimaagu,
+E tuugnaade e ɓulngo renndaande ngam tafde hakkeeji aadee kam e ndimaagu, leyɗeele ɗee teeŋtinii nafoore ɓurtunde wonde e pellitgol, ko ndeen batu nguu nanondiri, holliti:
+Ngal-ɗoo nanondiral winndere yan keewal jowitiingal e hakkeeji aadee wayi ko no laawol gootol ñii ngam yettaade leyɗeete mbele yimɓe ɓee e renndooji ɗii mbaɗa ɗum e hakkillaaji mum e kala sahaa kadi et e jannginde e nehde mbele ɓamtoo horma hakkeelleji aadee e ndimaagukuule ƴettaama mbele saree e nder leyɗeele, ciynugol ngol ina foti feeñde, teskee e yimɓ e fof.</p>
+<ol>
+  <li>
+    <p>Innamaaadeejifofpoti,ndimɗidiejibinanndetobanngehakkeeji.Eɓengoodimiijoehakkilantaagaleteeɓepotihuufondirdeenderɓiynguyummaagu.</p>
+  </li>
+  <li>
+    <p>Gootokalainawaawihokkundehooremumhakkeejiendimaguujikaalaaɗienanondiralngaltawaalaapaltagolnguru,mbaydi,leñol,ɗemngal,diine,iwdileydiwallarenndo,dañal,jibinandewallakalangonka.Ekofawtiiheenhaypaltoorgootowoodataaedowyowitaadeedawrugol,ñaawoorehakkundeleyɗeelefawaadeeneɗɗoummiiɗoleydiwallaneɗɗomoyowitaakimaawonipawiɗoyamiroorelaawɗinaandewaawndewondefof.</p>
+  </li>
+  <li>
+    <p>Innamaaadeekalainajogiihakkewuurde,ehakkendimmagukamehakkendeenkaekisalhooremum.</p>
+  </li>
+  <li>
+    <p>Hayneɗɗogootofotaanitonngaadeemaccungaagumaccungaaguenjeeyguaadeekokoharminaaenowaawisiforaadefof.</p>
+  </li>
+  <li>
+    <p>Hayneɗɗogootofotaanileepteedewallafiyeedepiylejaltuɗeneɗɗaaguwallakoynooje.</p>
+  </li>
+  <li>
+    <p>Neɗɗokalainajogiihakkeannditireedeneɗɗaagumumekaayitaajiñaawaaɗi.</p>
+  </li>
+  <li>
+    <p>Yimɓefofpotielaamuetepotifotdendeendkaeyeesolaamu.Yimɓefofinapotifotndeendeereeneedeeheediheedibaawɗoyaɓɓudekulengalnanondiralyimɓefofinapotireeneedeetooñanngetawaalaapaltoor.</p>
+  </li>
+  <li>
+    <p>Neɗɗokalainajogiihakkewullitaadeñaawooreeleydimumsotawiiogañaama,otooñaamawallasohakkeejimakkonjoolaama.ɗiinhakkeejiinanganndeelaamueñaawooje.</p>
+  </li>
+  <li>
+    <p>Haygootofotaaninanngeedesokeewallayaltineeleyditawakoedowmbaawkaebelaaɗe.</p>
+  </li>
+  <li>
+    <p>Neɗɗoinajogiihakkeeheɗeedeenderpotalesahaañaawoorendeyowitaaki,ndewaɗataaheedi-heeda(jinngataa).ñaawooɓeɓenguurotaakopotiñaawdehakkejifotdeejineɗɗofofkotakkaahaaheɓniɗumñaawore.</p>
+  </li>
+  <li>
+    <p>Kalaneɗɗotuumaaɗobonanndeinafotireweedehaakofawaaemumkoanndeinawoodiwallaalaatawakoñaawoorelaaɗinnaandendesuuɗaakañaawietawtingolñaawoɓeluundiiɓeheedɓebanngeñaaweteeɗooo.</p>
+    <p>Haygootofawetaakebonnanndewallawarngotawandewaɗateendeewaawawondekoteeŋtiemumeyowitaadeelaawolleydiwallalaawolhakkundeleyɗeele.Konoonnehaygootofawetaakesariyabaɗɗohuundetawandewaɗeteendeeojotondiraaniheen.</p>
+  </li>
+  <li>
+    <p>Haygootoyaɓɓetaake,tooñeeendernguurndammum,enderɓesngumumenderjotondiralmumwallaneɗɗaagumumlesɗinee,naangehaygootoedowlugolmumpotaaniñifeede.Neɗɗokalainajogiihakkereenaneedeɗeegeɗeteeŋtinoojindimaagumum.</p>
+  </li>
+  <li>
+    <p>Neɗɗoinajogiihakkeyahdeɗowelaafofenoweliraafofkamsuɓaadehoɗanndemumenderleydi.</p>
+    <p>Neɗɗoinajogiihakkeyaltudeleydikalahaysotawiikondimakkokameartudeeleydimum.</p>
+  </li>
+  <li>
+    <p>Esahaakulol,neɗɗokalainajogiihakkeƴeewdemoolaareedañdeleydimoolndiɗumegoɗɗeɗee.</p>
+    <p>Oohakkenoonwaawaafawaadeewardehooredogaƴeewamoolɗoɗum,owaawifawaadetankoejamiroojefeddeleyɗeeledentuɗe.</p>
+  </li>
+  <li>
+    <p>Neɗɗokalainajogiihakkejeyeedeeleydi,wonijogaadengenndi.</p>
+    <p>Haygootowaawaaedowbelaaɗehaɗeedejogaadengenndiwallawayludengenndi.</p>
+  </li>
+  <li>
+    <p>Caggalndeneɗɗodañiiduuɓikelliƭuyasokoodebbo,sokoogorkofaltaakileñol,nguru,leydionojogihakkeresdemaareseede,odarnafooyre.Kokamɓepotiheenhakkeejijowitiiɗiedewgalsoinahumeewallasoinaittee(goorkoedewbo).</p>
+    <p>Dewgalfawiikoeyiɗderesondireeɓoɗiɗoɓeewonaainafaweeewaawnere.</p>
+    <p>ɓesngokokamwonitergalgadanalenderrendoɓesnguinajogiihakkendeenkaimmoraadeerenndokamelaamuleydindii.</p>
+  </li>
+  <li>
+    <p>Kalaneɗɗowalladentalyimɓeinajogiihakkeejeyalleydi.</p>
+    <p>Haygootofotaanieamduewaawdehaɗeedejeyimum.</p>
+  </li>
+  <li>
+    <p>Kalaneɗɗoinajogiihakkendimaagumiijo,hakkilantaagalkamediine.Oonhakkeinaroondiindimaaguwayludediinekamendimaagutabitindediinemumwallayiyanndemumkañumgootowallaewondudeewoɗɓe.Ngaaltabitinaldiinenooninanonakoɗuuɗiiekofeeñifoftawakorewneedeedowjaŋde,walladewalwallajamiroojediinaoo.</p>
+  </li>
+  <li>
+    <p>Neɗɗoinajogiihakkeendimaagujogaademiijoesaaktudemiijomumɗumfirtikojoommumfotaamihuldefeeñnindemiijomumwallawiɗtude,heɓdekamesardemiijoojiekabavuujitawawoƴaakikeerihakkundeleyɗeeleenosardaafof.</p>
+  </li>
+  <li>
+    <p>Neɗɗokalainajogiihakkeendimaaguwaɗdebatuwallafeddendewonaafitina.</p>
+    <p>Haygootofotaaniwaawneedejeyeedeefeddealaysago.</p>
+  </li>
+  <li>
+    <p>Neɗɗokalainajogiihakkeejeyeedeeterɗegardiiɗeleydimum.Tawakokañumehooremumwallatawakowaabaadeeɓeyimɓeecuɓiiinanjooɗañiileydisabujoñeedegeɗemum.</p>
+    <p>Neɗɗokalainajogiihakkeardineedewallajoñeedegeɗe/golleleydiedowpotal.</p>
+    <p>Muuyaandeleydindiikoñiɓgolkalfaandilaamuujiɗii.Ndiinkalfaandiñiɓortootansosdewooteejicuɓoosuɓngolaaɓngoeleydikala,tawacuɓotooɗokalainatotteendimaagumumtimmungu.</p>
+  </li>
+  <li>
+    <p>Neɗɗokalaenderrenndoinajogiihakkeendeenkarenndoyankeewo.ɗumkoweltaarehakkeejifagguduyankojerenndoyanheejiepinayankoojikatojinaaɗiendimaagueɓamtaareaadeedowtuugnaadeengonkaleydifof.</p>
+  </li>
+  <li>
+    <p>Neɗɗokalainajogiihakkeliggaadeedowpotalhujjiaajiliggeeyendeenkabaasgolgollaade.</p>
+    <p>Yimɓefofpotifotdenjoɓdisotawiiɓepotiiliggeey.</p>
+    <p>Kalaliggiɗoinajogiihakkenjoɓdifotndiheen,njondimbaawndijogaademokaŋkoeɓesngumakkombelenjogoongonkamoƴƴatedduka.Njoɓdiinahaanitimminireedecatiiɗerenndoyankooje.</p>
+    <p>Neɗɗokalaliggotooɗoinajogiilaawoltafdefeddewullitaarehakkejiliggeeywallayantondirdefeddeliggotooɓemumepedlegoɗɗeliggotooɓesotawieɗendenndingoƴaajieanniya.</p>
+  </li>
+  <li>
+    <p>Neɗɗokalainajogihakkeefoofterewallaweltindeɓerndenumwallawoodaɗohaa'ɗniliggeeymumetekalaliggotooɗoinajogiihakkeefooftereyoɓeteende.</p>
+  </li>
+  <li>
+    <p>Neɗɗkalainofotijogaadehakkenguurndamcemorɗamhaawaawaatoppitaadecellalmum,ngonkamumekaɓesngumumhaateeŋtienguura,koɗlci,safaaraegeɗerenndo;omojogiihakkeendeenkasotawiioliggaaki,wallaosellaanimawallaojodtaadeedoolemum,wallakesjooɗiiɗo,naywuɗowallakalageɗebaasoojewallitdenguuraɗepawaakiebellanteeje.</p>
+    <p>Jibinaaɗodebboesukaakuinanjogiihakkeballaletoppitaagolkeeriiɗi.Sukaaɓefof,woniajibinaaɓeenderdewgalwallacaggaldewgalpotifotdetobanngendeenkarenndoyankeewo.</p>
+  </li>
+  <li>
+    <p>Neɗɗokalainajogiihakkejaŋdejaŋdefotiwondekondealaanjoɓdihaysinnakotoarwaniireegadanal.Jaŋdesukaaɓeinafotiwondealaysago.Jaŋdekarallaagalinafotihuɓtidin'de:jaŋdetoowndeinafotiudditanaademonikalatawalaaheedi-heeda,tawakoebaawalmum.</p>
+    <p>Jaŋdefotikofeertindeneɗɗankaagal,ɓeydateddin'dehakkeejiinnamaAadee,heɓdehooremum.Inafotiwaalitdepaamondiral,muñundiral,cehilaagalhakkundeleyɗeeleekalasenngoojileƴƴiwalladiineeji,fawitiiheenɓamtaaregolledowlaajidentuɗingammoƴƴereinaduumoo.</p>
+    <p>Jibinaaɓeinapotisuɓaadeholfannujaŋdendokkatasukkaaɓemumen.</p>
+  </li>
+  <li>
+    <p>Neɗɗokalainawaawiesagomumjeyeedeeɓamtugolpinalrenndemum,huutorooñeeñeewallitdeɓamtaareganndaliyankeewalekalaɓurejaltoojeheen.</p>
+    <p>Neɗɗokalainajogiihakkendeenkamuuyaaɗemumtobanngeneɗɗankaagalejawɗituugniiɗeeɓulgnoganndal,coñce,ñeeñalɗeotafi.</p>
+  </li>
+  <li>
+    <p>Neɗɗokalaenefotidaranaadeñiɓagolhakkeejiinnamaaadeekamendimaagumumtobanngerenndoenderwinnderembelekuulekaalaaɗeenderngalɗonanondiralnjettofaandaaretoɗɗaandende.</p>
+  </li>
+  <li>
+    <p>Innamaaadeeinajogiihujjaajifaydeerenndongongannduɗaakoɓamtaarehuuɓtidindeneɗɗankaagalmakkotanwaawiwootde.</p>
+    <p>Enderkuutorogolhakkeejimakkokamenaftorogolndimaagumakko,monikalafawaaemumtankoɗooftogolsarɗiyeejingamteeŋtin'dekeftingolenehtanagolhakkeejiewodɓengamtimmindeneɗɗaŋkaagalngamgeɗedenndaandekamengonkamoƴƴakuuɓtidinɗongamdañjerenndopotal.</p>
+    <p>Ɗiihakkeejienguundimaagumbaawadañeedeedowluundaarepaandaaleemuuyaabedowlaajidentuɗi.</p>
+  </li>
+  <li>
+    <p>Haykuulalgootalgummingalengalɗonanondiralfotaanijaggireedeummiikoeleydi,walladentalkeeringal,wallaneɗɗokeeriiɗo.Hayneɗɗogooto,walladentalwallaleydipotaanijogaadegolletawafaandaaremumenkofirtudehakkeejieendimaagukalaaɗiendernanondiralngal.</p>
+  </li>
+</ol>

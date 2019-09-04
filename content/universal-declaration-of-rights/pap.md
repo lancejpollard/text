@@ -1,0 +1,121 @@
+<h1 align='center'>DECLARACION UNIVERSAL DI DERECHO HUMANO</h1>
+<h2 align='center'>Preambulo</h2>
+<p align='center'>Considerando cu reconocemento di e dignidad inherente y di e derechonan igual y inalienabel di tur miembro di famia humano ta base di libertad, husticia y paz na mundo;
+Considerando cu indiferencia y menosprecio pa derecho humano a resulta den actonan di barbarie cu a agredi consenshi di humanidad, y cu a proclama, como e aspiracion mas halto di ser humano, binimento di un mundo den cua hende, libera di temor y di miseria, lo disfruta di libertad di palabra y libertad di creencia;
+Considerando cu ta esencial pa derecho humano ta protegi pa un regimen di derecho, a fin cu ser humano no haya su mes obliga di recuri, na ultimo instancia, na rebelion contra tirania y opresion;
+Considerando cu ta esencial pa promove desaroyo di relacion amistoso entre e nacionnan;
+Considerando cu e pueblonan di Nacionnan Uni a reafirma den e Carta nan fe den e derechonan fundamental di ser humano, den dignidad y balor di e persona humano y den igualdad di derecho di homber y muhe, y a dicidi di promove progreso social y di hisa nivel di bida denter di un concepto mas amplio di libertad;
+Considerando cu e Estadonan Miembro a compromete nan mes pa logra, den cooperacion cu Organisacion di Nacionnan Uni, promocion di respet universal pa y tenemento di cuenta cu e derechonan y libertadnan fundamental di ser humano;
+Considerando cu un concepcion comun di e derechonan y libertadnan aki ta di e mayor importancia pa e pleno cumplimento di dicho compromiso;
+Asamblea General ta proclama e presente Declaracion Universal di Derecho Humano como ideal comun cu tur pueblo y nacion mester alcansa, a fin cu cada individuo y cada organo di sociedad, teniendo e Declaracion aki constantemente na mente, lo aspira na promove, pa medio di enseñansa y educacion, respet pa e derechonan y libertadnan aki, y na garantisa, pa medio di medidanan progresivo di caracter nacional y internacional, nan reconocemento y aplicacion universal y efectivo, tanto entre e pueblonan di e Estadonan Miembro mes como entre e pueblonan di e teritorionan cu ta cay bou di nan hurisdiccion.</p>
+<ol>
+  <li>
+    <p>Turserhumanotanaceliberyigualdendignidadydenderecho.Nantadotacurasonycuconsenshiynanmestercomportanandenspiritodifraternidadpacuotro.</p>
+  </li>
+  <li>
+    <p>TurpersonatinturederechonanylibertadnanproclamadeneDeclaracionaki,sinningunclasedidistinciondirasa,colo,sexo,idioma,religion,opinionpoliticoofdiotroindole,origennacionalofsocial,posicioneconomico,nacementoofcualkeotrocondicion.Ademas,lonohaciningundistincionabasediecondicionpolitico,huridicoofinternacionaldiepaisofteritorionacualunpersonatapertenece,irespectositatratadiunpaisindependiente,unteritorioboudiadministracionfiduciario,noautonomoofsometinacualkeotrolimitaciondisoberania.</p>
+  </li>
+  <li>
+    <p>Turindividuotinderechoribabida,ribalibertadyribaseguridaddisupersona.</p>
+  </li>
+  <li>
+    <p>Ningunhendelonotasometinasclavitudninaservidumbre;sclavitudycomerciodicatibolotaprohibidentursuformanan.</p>
+  </li>
+  <li>
+    <p>Ningunhendelonotasometinatorturaninatratoofcastigocruel,inhumanoofdegradante.</p>
+  </li>
+  <li>
+    <p>Turserhumanotinderechoribareconocementodisupersonalidadhuridicoturcaminda.</p>
+  </li>
+  <li>
+    <p>Turpersonataigualdilantidileyynantin,sinningundistincion,derechoribaproteccionigualdoordiley.TurpersonatinderechoribaproteccionigualcontraturdiscriminacioncutaenpugnacueDeclaracionakiycontraturprovocacionditaldiscriminacion.</p>
+  </li>
+  <li>
+    <p>TurpersonatinderechoribaasistenciahuridicoefectivodipartidietribunalnannacionalcompetentecontraactonancutaenpugnacuederechonanfundamentalconferinananpamediodiConstitucionofpamediodiley.</p>
+  </li>
+  <li>
+    <p>Ningunhendelonotasometinaaresto,detencionnidestieroarbitrario.</p>
+  </li>
+  <li>
+    <p>Turpersonatin,abasediplenoigualdad,derechoribauntratamentohustoypublicodinancasodoordiuntribunalindependienteyimparcialpadeterminaciondinanderechonanyobligacionnanypastipulaciondiehustificaciondicualkepersecucionpenalentamacontranan.</p>
+  </li>
+  <li>
+    <p>Turpersonaacusadidelitopenaltinderechodiserconsiderainocente,teoracuprobasuculpabilidaddiacuerdoculey,denunaudienciapublicodencuaelahayaturgarantianecesariopasudefensa.</p>
+    <p>Lonoconsideraningunhendeculpabeldiningundelitopenalabasedicualkeactoofomisioncunotabataconstituiundelitopenal,segunderechonacionalofinternacional,namomentocuacometeeactoofomision.Tampocolonoimponeuncastigomaspisacuesuncutabataaplicabelnamomentocuacometeedelitopenal.</p>
+  </li>
+  <li>
+    <p>Ningunhendelonotaobhetodiinterferenciaarbitrariodensuprivacidad,sufamia,sucasofsucorespondencia,nidiagresioncontrasuhonorysureputacion.Turpersonatinderechodiwordoprotegipaleycontradichointerferenciananofagresionnan.</p>
+  </li>
+  <li>
+    <p>TurpersonatinderechoribalibertaddimovementoydiscogenciadinanresidenciadenterdieteritoriodicadaEstado.</p>
+    <p>Turpersonatinderechodisalidicualkepais,incluyendonanpropiopais,ydibaybeknanpais.</p>
+  </li>
+  <li>
+    <p>Turpersonatinderechodibuscaasiloydidisfrutadidjedenotropaisdencasodipersecucion.</p>
+    <p>NoporinvocaederechoakidencasodipersecucionrealmenteoriginapamotibodidelitonopoliticoofpamotibodiactoenpugnacuepropositonanyeprincipionandiNacionnanUni.</p>
+  </li>
+  <li>
+    <p>Turpersonatinderechoribaunnacionalidad.</p>
+    <p>Noporprivaningunhendearbitrariamentedisunacionalidadnineng’esuderechodicambiadinacionalidad.</p>
+  </li>
+  <li>
+    <p>Homberymuhecutinedaddicasatin,sinningunlimitacionpamotibodirasa,nacionalidadofreligion,derechodicasayfundaunfamia.Nantinigualderechoencuantomatrimoniodurantematrimonioydencasodidisoluciondiematrimonio.</p>
+    <p>Porcontraematrimoniosolamentecuconsentimentoliberyplenodiefuturoesposonan.</p>
+    <p>FamiataeunidadcolectivonaturalyfundamentaldisociedadytinderechoribaprotecciondoordisociedadydoordiEstado.</p>
+  </li>
+  <li>
+    <p>Turpersonatinderechoribapropiedad,tantoindividualmentecomocolectivamente.</p>
+    <p>Noporprivaningunhendearbitrariamentedisupropiedad.</p>
+  </li>
+  <li>
+    <p>Turpersonatinderechoribalibertaddipensamento,diconsenshiydireligion;ederechoakitaincluielibertaddicambiadireligionofcreencia,yelibertad,seaindividualmenteofcolectivamente,tantodenpublicocomopriva,dimanifestananreligionofcreenciapamediodienseñansa,practica,cultoycumplimento.</p>
+  </li>
+  <li>
+    <p>Turpersonatinderechoribalibertaddiopinionydiexpresion;ederechoakitaincluielibertadditinopinionsininterferenciaydibusca,hayaysuministrainformacionyideaviacualkemedioysinlimitaciondifrontera.</p>
+  </li>
+  <li>
+    <p>Turpersonatinderechoribalibertaddireunionydiasociacionpacifico.</p>
+    <p>Noporobliganingunhendepapertenecenaunasociacion.</p>
+  </li>
+  <li>
+    <p>Turpersonatinderechodiparticipadengobiernodinanpais,directamenteofpamediodirepresentanteelegilibremente.</p>
+    <p>Turpersonatin,abasediigualdad,derechoribaaccesonafuncionnanpublicodinanpais.</p>
+    <p>Boluntaddipueblolotaebasediautoridaddigobierno;eboluntadeylokedaexpresadeneleccionnanperiodicoyautentico,culotenepamediodisufragiouniversalyigualypamediodivotosecretoofpamediodiotroproceduraekivalentecutagarantisalibertaddivoto.</p>
+  </li>
+  <li>
+    <p>Turpersona,comomiembrodisociedad,tinderechoribaseguridadsocialytin,pamediodiesfuersonacionalycooperacioninternacionalydiconformidadcueorganisacionyrecursonandicadaEstado,derechoribarealisaciondiederechonaneconomico,socialyculturalcutaindispensabelpanandignidadydesaroyoliberdinanpersonalidad.</p>
+  </li>
+  <li>
+    <p>Turpersonatinderechoribatrabou,ribascogencialiberdinantrabou,ribacondicionnanditrabouhustoyfaborabelyribaproteccioncontradesempleo.</p>
+    <p>Turpersonatin,sinningunclasedidiscriminacion,derechoribapagoigualpatrabouigual.</p>
+    <p>Turpersonacutatrahatinderechoribaunpagohustoyfaborabel,cutagarantisananynanfamiaunexistenciaconformedignidadhumanoycu,dencasonecesario,locomplementacuotromedionandiproteccionsocial.</p>
+    <p>Turpersonatinderechodilantasindicatoydiafiliananmesnananpaprotecciondinaninteresnan.</p>
+  </li>
+  <li>
+    <p>Turpersonatinderechoribadescansoytempoliber,inclusiveunlimitacionrasonabeldioraditrabouyperiodicamentevakantiepaga.</p>
+  </li>
+  <li>
+    <p>Turpersonatinderechoribaunniveldibidaadecuado,cutagarantisananynanfamiasaludybienestar,incluyendocuminda,paña,viviendaycuidomedicoyeservicionansocialnecesario,yderechoribaprevisiondencasodidesempleo,malesa,invalidez,viudez,biehesofotrofaltadimediodiexistenciapamotibodicircunstanciananfueradinanboluntad.</p>
+    <p>Mamaymuchatinderechoribacuidoyasistenciaspecial.Turmucha,nacidenmatrimonioofpafodimatrimonio,tinderechoribaproteccionsocialigual.</p>
+  </li>
+  <li>
+    <p>Turpersonatinderechoribaenseñansa.Enseñansalotagratuito,porlomenosnanivelelementalyfundamental.Enseñansaelementallotaobligatorio.Lomesterponeenseñansadiofishiyenseñansaprofesionalnadisposicionditurhende.Enseñansasuperiorlotaigualmenteaccesibelpaturhende,abasedimerito.</p>
+    <p>Enseñansalotadirigiribadesaroyocompletodipersonalidadhumanoyribafortalecementodirespetpaederechonanhumanoylibertadnanfundamental.Elofomentacomprension,toleranciayamistadentreturnacionyentreturgrupoetnicoofreligiosoylopromoveeactividadnandiNacionnanUnipamantenciondipaz.</p>
+    <p>Emayornanlotinderechopreferentepascogeetipodienseñansayeducacionculomesterdunananyiunan.</p>
+  </li>
+  <li>
+    <p>Turpersonatinderechodiparticipalibrementedenbidaculturaldicomunidad,digosadiarteydiparticipadenprogresocientificoysubeneficionan.</p>
+    <p>Turpersonatinderechoribaprotecciondieinteresnanmoralymaterialcutaresultadodicualkeproduccioncientifico,literarioofartisticodicuanantaautor.</p>
+  </li>
+  <li>
+    <p>TurpersonatinderechoribaexistenciadiunordensocialyinternacionaldencuaporrealisaplenamenteederechonanylibertadnanproclamadeneDeclaracionaki.</p>
+  </li>
+  <li>
+    <p>Turpersonatinobligacioncucomunidad,pasobratadendjesoedesaroyoliberycompletodinanpersonalidadtaposibel.</p>
+    <p>Deneherciciodinanderechonanygosodinanlibertadnan,turpersonalotasolamentesuhetonaelimitacionnanstipulapaley,cueunicofindigarantisaedebidoreconocementodiederechonanylibertadnandiotropersonayedebidorespetpanan,ydicumplicueexigenciananhustodimoralidad,ordenpublicoybienestargeneraldenunsociedaddemocratico.</p>
+    <p>EderechonanylibertadnanakinoporwordoehercidenninguncasoenpugnacuepropositonanyeprincipionandiNacionnanUni.</p>
+  </li>
+  <li>
+    <p>NoporinterpretanadadeneDeclaracionakicomosifueracuetaimplicacucualkeEstado,grupoofpersonaporderivafordidjecualkederechopaefectuacualkeactividadofparealisacualkeactocutincomoobhetivodestrucciondicualkediederechonanylibertadnanproclamadeneDeclaracionaki.</p>
+  </li>
+</ol>

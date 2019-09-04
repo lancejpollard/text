@@ -1,0 +1,121 @@
+<h1 align='center'>TUCHODA TITAJU NIJYANVAJYU VURYATIDYE VICHASARA SAMIRYA VARIY</h1>
+<h2 align='center'>Tarajura Rityuchoda Darya</h2>
+<p align='center'>VUTYUVACHU RAMU JIRYA: rirvatidye vichasara nijyanvay jmurvasavay, samivye jarye, jiryatiy runuchara nutityumiy samiy riñecho, vurvama datya itjau jiryatiy vurvupedamusiy vuvyta rirvatidye jnuy tjau nijynvay samiy vuñecho;
+VUTYUVACHU RAMU JIRYANTIY: riryavatyda tavaryi nijyanvay jasicharjau riryantadeda variryi. Ridyetyisadamu yavatyadariy nijyanvay, rirvavirvutyada varirya nijyanvay vichada. Ramunjtiy vutyuchura jiryatiy nijyanvay vatasara jaryirya: nvyichary samiryamu, ne ñrvasuvuy tara, darvantyamuy jantyuyadavay. Riñiquery ntyuvachuruy variy jivyatadamusiy;
+VUTYUVACHU RAMUNTIY: jiryatiy nijyanvay jantyuyadavay vata jnutityumura jmutyada riryimya javatya tavay nijyanvantyirvi, riñuma murchenrrva yavatyasada mudodta. Ramunitiy rivyatara nutitymiy jmutyada, ribey liita jiñiquejada variy;
+VUTYUVACHU RAMUNTIY: jiryatiy raniy sitenu vatasara datyadoda jarvedo nijyanvay nutyaramusitya vuryivichasara samirya vutyunu vichavatya;
+VUTYUVACHU RAMUNTIY: jiryatiy ntyuchuma raju mucadi jnutyavay caterava nutyi ntyuvachu ramu samirya vichasada vatujyu, vadujyuntiy. Rivyanutyanirvuryi nijyanvay rirvatidye vicha samirva mutijyu, rjadutya varirya rivyichada, rirya datyara jivyichada, ne n'rvecha ti cumudemiñuday;
+VUTYUVACHU RAMUNTIY: jiatiy vurvjaantya nryatidye tuvachu tjau nijyanvay ramu jirva niquejada samirva vichadaju;
+VUTYUVACHU RAMUNTIY: jirvatiy rtiy jto darva, tiUau nijyanvay rarvidatyarurva jirva tuchoda;
+RAMUNí VURYATUVACHU DIYERA MUCADí JNUTYAVAY TUCHODA JIRYA TUCHODA RACHA TITAJU NIJYANVAJYU rirvatidye tuvachu variy ramu. Raniy raryivicha datyanusara titJau catera nuJyomu.</p>
+<ol>
+  <li>
+    <p>Nesarupaynijyamicumudejudarvantyamuyjavatyasjiu.Jachipiyadatimirvarasamirva,mirvamuynesamirva.Ramunltiysarivichanicharasamirvariyjityunuvichavay.</p>
+  </li>
+  <li>
+    <p>DarvarirvivichasaratjtJaunijyanvaydañumarirvechamamyivarimyatamunuñumiy,dañumarirvechavadacumiyvarimyatapupasimyi,dañumanrvechavaduyvarimyatavatuy,dañumarianiquerajiñiquejada,dañumanrvatuvachuJudenumuvarimyatamuy,dañumanrvJaachipiyamidamyujuvarimyatajntityudamyujudañumanrvechajarvedo,darvanumarirvavichasarajischavuttjaunijyanvay.Darvariryivichasarattjaunijyanvaydañumarirvechatajimucadimusivye.</p>
+  </li>
+  <li>
+    <p>RirvamaparyttjauruvanijyanvayrnuJeyjaadaju,rirvatidyevichasarajmuasavantyi,netirJaarupantasaravariñudarvi.</p>
+  </li>
+  <li>
+    <p>Netiraryivichamuchechimyijyujpanuyasavajyu.Jubacharadarva,darvavichadedatnijyu.</p>
+  </li>
+  <li>
+    <p>Netirarvivichasarajavatyadajusniniyjitarivyichadedanutyijavadarirvavatyadavariñi.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvivichasaratuchutadatnijyucannadumu.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvivichasarajischavucannadumudañumasavichachira,satidyejdutyacannadurarirvavatyasada.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvijtisaradatyasavaycannadumu,satidyevichaniyvasejurarityuchutadanutyaranitiyraniquericyateranucharamu.</p>
+  </li>
+  <li>
+    <p>Netirarvivichasarajirich1mityamusiy,darvantyamuytanuvunujomuju,darvantyamuyflrvjaatyajimyucadimusiyvariryi.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvijtjsarajischavucannadumu,satidyetuvachucannaduvijymujacherarityuchutada,savichaniyvasevarirvidañumarirvechatavay.Cannaduraijtajanutitjausamidyenituchutasi,tuchutadajam1jae,satidyedatyaranutyaramusiysjadutyarariñiquveada.</p>
+  </li>
+  <li>
+    <p>RirvivichaniyjuchajsanituchutasinetimyuridyityanuvijyomujacherasayasachadanutyaranÉiyraniquericyateranucharamu.Rirvisaysayadaniquejasjiuyu,nltidyeraniquevariysayadaju.</p>
+    <p>Rasipyatedanumatiyvadicateranuchara,nevurvatanuvunurataninitiyjuchuvayrjaisiyranijyu.Darvantiyrirvasachunumatirvasacasticachadatarajuchuvedamurichirva,nevurvacasticaydarvamurichirvatanitiyjuchuvayrasachodajisiy.</p>
+  </li>
+  <li>
+    <p>Netirarvityetibarvamuyu,nevinusatevamyu,darvantyamuysarorimyu,darvantyamuysacateramu.Neti%aniquequivuyadatinijyusatidyejarupanuratani,riñumatanuvunuvariyrivani.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvirupiñumayajimyucadivarirvatidyejarvetavariyjivyichajoju.</p>
+    <p>TtDaunijyanvayrarvisipyataytamucadimusiy,darvantyariryichipyatayjimyucadimusiy;daryantiyrarvitarvajimyucadimujuvarintyi.</p>
+  </li>
+  <li>
+    <p>TitajunijyanvayrarvivatajivyichajojutamucadimujasityirirvadutyayavatyisJiisiyu.</p>
+    <p>JiryatiysÉenujuvidañinesaridyutyadayu,tapirivatyasavatapoliciasanacho,riryatidyetanuvunuvariyrivani,rirvatidyetanuvunuvariysajuchuvedivayu.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvivichamucaditavay.</p>
+    <p>NetirarvijubaymucaditivichadajisiñLdarvantyamuysjaatyachirvajimyucadisatidyejaytaramucadimuvarintyi.</p>
+  </li>
+  <li>
+    <p>Jamyiñumatiyvaduy,vatuyjerve,rirvjaamuyvariyyisJaunrvatidyejudevariryanuñitevamyuvichada.Netirarvijubayñrvjaisirvajamuyada,darvantyamuyn'rvijubarvamutijivichadaju,darvantyamuyrirvijubaajityovjaada.</p>
+    <p>Netirarvijamutyaniñivanusurramusiy,netimyusavatadidrvajamuyada,darvantyamuyvatura.</p>
+    <p>Jirvatiyrndesaravutyevayjamuyadamusiy,detuyadamusiyjarve,vurvjanutyasarasamirvajamuyadarirvimyajarupanura,nutityumiyjaryerarvijmutyavarirvi.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvivichasarataratavay,varimyatanuñitimusiy,varimyatarajumusiy.</p>
+    <p>Neijraryichovaymityamusiryariberyatavay.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvijarvetamunatyajijechipiyjaadamunutyaramusiyrirvecha,nutyaramusintyirirvDaachipiyaJudenunijyu.Savatatiyjanumityajjaadajurajijechipiyjaada,sarvijanumityajavarirya,daryantiysajachipiyjaadaJudenunijyu.Saryidityanuvariryajijechipiyjaadamityataranijyu,varimyataJudenunijyu.Sarvidityanuvijyomujacheradarvantyasarorimyu,sasquita,darvantyarajumusiy.Saryidityanudatyadodamusiyvarirva,daryantyajváyadamusiy,daryantyajntyervadedamusiyjiryatiyrijechipiyasaravariyJudenunijyu.</p>
+  </li>
+  <li>
+    <p>Netiraijubaasatiyjachipiyatara,sarviniquevarirvajijechipiyjaada.Darvantyamuysarvijiyasantasajachipiyjaadivayu.Vanurarvijtajanurivadatyada,rarvijmutyavariryatidatyada,tijachipiyjaadajarve.Sarvidatyanuvarirvajijechipiyjaadatitjauvichadiva,nutyaramusiñitiysavatasamirvasadatyanuvariyjasirva.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvijntyeaniytavatyayu,netimyurintyrvaniytjjarupadodajuyu.</p>
+    <p>Netiraryijnty£ryanityaniyijsjaunIsatidyejvaytarajasiyrusa.</p>
+  </li>
+  <li>
+    <p>Nuñitjquirarvijmutyariyjimyucadijnutityumiyruvayadamu,daryantyatijiryatiysajaryetayibivajunjVumyucadijnutityumiyrarvijmutyariynijyanvayyivajyomu,nerarvijarvetatisatidyejmutyasamivyjauni.</p>
+    <p>Vumyucadijnutityumiyrarvinusurvinijvanvaynutyaranintyirivyata.TItjaunijyanvayraryidatyanurajivyatadajiryatiyrijeetamlnitiyrivyatayintityJuu.</p>
+    <p>Stenujaryetadamuflrvjaaryetajariyjintityumiy.T1tDaunijyanvayraryijaryetariyjintityumiydutyajomu,timararyijarupantariy.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvivatanrvatidyejmutyajayasararityevayu.TItDautajimucadijanvayjmutyadtarirvijmutyanuñiytquirajivyatarasatidyevichasarajjchanayadamu,darvamusiysjaasachurajivyichada.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayraryijvajeyasara,sarvijarvetayivayadaju.Darvadaysarvijmutyayivayadamurichirvantiynutyitavatyijmutyasaradarva.Nesarvimachojvayadajsaratatidyesatarvurvajivyatara.</p>
+    <p>Nerirvimurchenutquijarvitimusiydarvajvayadamurichirva.</p>
+    <p>Titajunijyanvayjirvatiyjvayadatavayrarvijmutyarayivayadamurichiryadarvamurchedodaratatiyrirva½arvurvajidyedyeñuvatarajiatiyrivyatasamirvavichadajura.Ratiyrsutyeramujurijaachipiyarityevayjmutyadariy.</p>
+    <p>Titajunijyanvayraryintyeaniyjityervjvavyetyarirvatidyejiriyvatajumusiasamirvamurchedodayivayadamurichirva.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvivatajituyadayivayadamusiynrvatidyejchanaytiyisadamu.NesamirvaracharijyunetimyurirvDaituytaraquijuyivajyomusiy.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvivatasamirvavichadajityevatyarirvatidyevichasarajdivjaadajsa,samirvajmyivye,sujatyavay,rorityavayjarve.Daryantiyrarvivatajndanta,rataryajmutyadajaryerisJau.Netimyujvayadatavay,rirvivichasaratiyjdivjanuvay,varimyatabachenoda,nmityodaderyjae,flijmutyavariyjmutyadatimusiy.</p>
+    <p>Mudasimiy,deramiyrusararvivatasamiryajnutyadarirvatidyeramityasamivyeryajiryupachoda.Titajuderamiyraryivatasamirvajnutyadajityevamyu.</p>
+  </li>
+  <li>
+    <p>TitajunijyanvayrarvivataradatyadodacateranJuyomu.Nerirvimurchenujottadadatyadodamurichirva.Rirvamajpanuflyjidyedyeñucateranjuyomujurajottadadatyadodaju.Riryijantyamucadijnutityumiyjasachodaracateranjuyojasityinrvadatyavaderovaryatarajvayada.Richaratiyvaderovaryajarvidatyadajirvirvjiada,netiraijubayriryajisirva.</p>
+    <p>Maestrovedararyidatyanuriynijyanvayranachorirvatidyejavyesamiyjachipiyavay,nrvechavariysamiyjvadichavay,neriryijavatyariytavaynijyanvayvariy.Datyadodtarasachudatyadarirvimyaniquecharatavatyavariy,rirvatidyejnuysamirvajiñecho.Daryantiydatyadodaraijmutyaraflrvatidyevichasaranijyanvaysamiryamutiji.</p>
+    <p>DeramiyjamiyraryijaryetasaranutyaracateranJuyomunrvadatyaridyedyeñu.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvisityarirajityevayvichada,rirvijchanatyantiryajityevayjvaryantiy.Darvadayriijmutyaramamyi(Iatyadantiyatidyevichasamirvafljyu.</p>
+    <p>Titajunijyanvayrarvivatararirvatidyejnuytavaysamirvaranachoyindera,riijmutyamirvanurararamurichirva.</p>
+  </li>
+  <li>
+    <p>Titajunijyanvayrarvivataratidyejdutyaravuvyichadajiryamucadimu,rirvatidyedatyasarat-itDaujiatiynucharajiyudarva.</p>
+  </li>
+  <li>
+    <p>TitajunijyanvayrarvidivyirvasamirvavichadajivyichadamujirvatiyvinurivyichadamuHrvijavyesamirva.</p>
+    <p>Titjaunijyanvayrarvisaboniyjimyucadiniquejadamuyurirvatidyevichasarasamirvajityunuvichavatya.Nerarvichajavatyadavariyjasiydarvantyamuyvamirvamuvichada.</p>
+    <p>Tamarirvivichasaranijyanvayjirvaniquejadajiyarjoujiatiyntyuchurajumucadimusirva.</p>
+  </li>
+  <li>
+    <p>Nerirvadatyasaranijyanvarvajirvaniquejadarirvatidyejavatyarataratavaynijyanvayvichada,darvantyamuynrvatidyejubaytavayjisirvasamirvavichada.Ranumatitajura.</p>
+  </li>
+</ol>

@@ -1,0 +1,121 @@
+<h1 align='center'>Universele ferklearring fan de rjochten fan de minske</h1>
+<h2 align='center'>Pree-ambule</h2>
+<p align='center'>Yn betinken nommen dat it erkennen fan de ynherinte weardichheid en fan de gelikense en ûnferfrjemdbere rjochten fan alle leden fan de minskemienskip grûnslach is foar de frijheid, rjochtfeardigens en frede yn 'e wrâld;
+Yn betinken nommen dat it oan 'e kant skowen en lytsachtsjen fan 'e rjochten fan 'e minske laat hawwe ta barbaarske dieden, dy't it gewisse fan it minskdorn faksearre hawwe en dat de komst fan in wrâld dêr't minsken frijheid fan mieningsutering en leauwe barre mei, en hja frij wêze sille fan eangst en ferlet, ferkundige is as it heechste ideaal fan elk minske;
+Yn betinken nommen dat it fan it grutste belang is dat de rjochten fan de minske beskerme wurde, troch de suppremaasje fan it rjocht, dat de minske net twongen wurde mei om yn lêste ynstânsje syn taflecht te nimmen ta opstân tsjin tyranny en ûnderdrukking;
+Yn betinken nommen dat it fan it grutste belang is de ûntjouwing fan freonskiplike betrekkings tusken de naasjes fuort te sterkjen;
+Yn betinken nommen dat de folken fan 'e Feriene Naasjes yn it Hânfest har betrouwen yn 'e fûnemintele rjochten fan 'e minske, yn de weardichheid en de wearde fan 'e minske en yn de gelikense rjochten fan manlju en froulju op 'e nij befestige hawwe, en besletten hawwe sosjale foarútgong en in hegere libbensstandert yn grutter frijheid te befoarderjen;
+Yn betinken nommen dat de steaten, dy't lid binne fan 'e Feriene Naasjes plechtich tasein hawwe om yn gearwurking mei de organisaasjes fan 'e Feriene Naasjes, rûnom de earbied foar en it ynachtnimmen fan 'e rjochten fan 'e minske en de fûnemintele frijheid te befoarderjen;
+Yn betinken nommen dat it fan it grutste belang is foar it folslein útfieren fan dy oerienkomst dat elkenien in goed begryp hat fan dy rjochten en frijheden;
+Dêrom proklamearret de Algemiene Gearkomste dizze Universele Ferklearring fan de Rjochten fan de Minske as it mienskiplik troch alle folken en naasjes te berikken ideaal, mei it doel dat elk yndividu en elk orgaan fan 'e mienskip mei dizze Ferklearring hieltyd foar eagen, der nei stribje sil om troch ûnderwiis en opfieding de earbied foar dy rjochten en frijheden te befoarderjen en troch foarútstribjende maatregels, nasjonaal en ynternasjonaal, dy rjochten algemien en echt erkenne en tapasse te litten, likegoed ûnder de folken fan steaten dy't lid fan 'e Feriene Naasjes binne, as ûnder de folken fan gebieten ûnder har jurisdiksje:</p>
+<ol>
+  <li>
+    <p>Alleminskenwurdefrijengelykynweardigensenrjochtenberne.Hjahawweferstânengewissemeikrigenenhearreharfoarinoaroeryningeastfanbruorskiptehâldenentedragen.</p>
+  </li>
+  <li>
+    <p>ElkhatoanspraakopallerjochtenenfrijhedenyndizzeFerklearringopneamd,sûnderhokkerûnderskieekmarlykasras,kleur,slachte,taal,godstsjinst,politikeofoareoertsjûging,nasjonaalofmaatskiplikkomôf,eigendom,berteofoarestatus.Fierdersilgjinûnderskiemakkewurdeneipolitike,juridyskeofynternasjonalestatusfanitlânofgebiet,dêr'timmentaheart,likefolleasitominûnôfhinklik,trust-ofnetselsbestjoerendgebietgietofasderinoarebeheiningfan'esûvereiniteitbestiet.</p>
+  </li>
+  <li>
+    <p>Elkhatrjochtoplibben,frijheidenûnskeinberensfansynpersoan.</p>
+  </li>
+  <li>
+    <p>Nimmensilynslavemijofhearrigenshâldenwurde.Slavernijenslavehannelynelkefoarmbinneferbean.</p>
+  </li>
+  <li>
+    <p>Nimmensilûnderwurpenwurdeoanfolteringen,nochoaninwrede,ûnminslikeofûntearjendebehannelingofbestraffing.</p>
+  </li>
+  <li>
+    <p>Elkhat,wêr'terekis,itrjochtomaspersoanerkendtewurdenfoardewet.</p>
+  </li>
+  <li>
+    <p>Elkenienisgelykfoardewetenhatsûnderûnderskiedoanspraakopgelikensebeskermingtrochdewet.ElkhatrjochtopgelikensebeskermingtsjinelkeefterstellingynstriidmeidizzeFerklearringentsjinelkeoantrúntasa'nefterstelling.</p>
+  </li>
+  <li>
+    <p>Elkhatrjochtopdoeltreffenderjochtshelpfanfoechhawwendenasjonalerjochtlikeynstânsjestsjinhanlingendy'tynstriidbinnemeidegrûnrjochtenhimtakendbygrûnwetofwet.</p>
+  </li>
+  <li>
+    <p>Nimmensilûnderwurpenwurdeoaneigenwilligearrestaasje,detinsjeofferbanning.</p>
+  </li>
+  <li>
+    <p>Elkfoaroarhatrjochtopinearlikeeniepenbierebehanlingfansynsaaktrochinûnôfhinklikeenûnpartidigerjochtlikeynstânsjebyitfêststellenfansynrjochtenenferplichtingsenbyitbepalenfanitgrûndearrewêzenfanintsjinhimynsteldestrafferfolging.</p>
+  </li>
+  <li>
+    <p>Elkdy'tfoarinstrafberfeitferfolgewurdt,hatderrjochtopomfoarûnskuldichhâldentewurdenoantsynskuldútkrêftfan'ewetbewiisdwurdtyniniepenbiereterjochtsittingdêr'thimallewaarboargen,nedichfoarsynferdigening,bytakendbinne.</p>
+    <p>Nimmensilfoarskuldichhâldenwurdeoanhokfoarstrafrjochtlikfergrypekopgrûnfanhokkerhanlingoffersomekdatneffensnasjonaalofynternasjonaalrjochtgjinstrafrjochtlikfergrypbetsjutteopitstuitdatdyhanlingofdatfersombegienwaard.Likeminsilinswierderestrafopleinwurdeasdestrafdy'tfantapassingwieopitstuitdatitstrafberefeitbegienwaard.</p>
+  </li>
+  <li>
+    <p>Nimmensilûnderwurpenwurdeoanoarmanseigenwillichynmingenynsynpersoanlikeoangelegenheden,ynsynhúshâlding,synthúsofsynbriefwiksel,nochienofoareoantaastingfansyneareofgoedenamme.Elkhatrjochtopbeskermingtrochdewettsjinsokymningenofoantaasten.</p>
+  </li>
+  <li>
+    <p>Elkhatitrjochtomhimfrijteferpleatsenenteferbliuwenbinnendegrinzenfanelkesteat.</p>
+    <p>Elkhatitrjochtomelklân,syneigenynbegrepen,teferlittenenynsynlânweromtekommen.</p>
+  </li>
+  <li>
+    <p>Elkhatitrjochtomynoarelannenasyltefreegjenentehawwentsjinferfolging.</p>
+    <p>Opdatrjochtkingjinberopdienwurdeyngefalfanstrafferfolgingsfanwegenmisdriuwenfannet-politikeaardofhanlingsynstriidmeidedoelenenbegjinselsfan'eFerieneNaasjes.</p>
+  </li>
+  <li>
+    <p>Elkhatrjochtopinnasjonaliteit.</p>
+    <p>Nimmenmeieigenwillichsynnasjonaliteitûntnommenwurde,nochitrjochtûntseinwurdefannasjonaliteitteferoarjen.</p>
+  </li>
+  <li>
+    <p>Sûnderienofoarebeheiningopgrûnfanras,nasjonaliteitofgodstsjinsthawwemanljuenfrouljuassedejierrendêrtahawweitrjochtomtetrouweneningesintestichtsjen.Hjahawwegelikenserjochtenwattrouwenoanbelanget,ynhartrouwenenbydeûntbiningdêrfan.</p>
+    <p>Inhoulikkinallinneslettenwurdemeidefrijeenfolsleinetastimmingfanelksynoarehelte.</p>
+    <p>ltgesinisdenatuerlikeenfûnemintelegroepsienheidfan'emaatskippijenhatrjochtopbeskermingtrochdemaatskippijendesteat.</p>
+  </li>
+  <li>
+    <p>Elkhatrjochtopeigendom,itsijallinne,itsijyn'emandemeioaren.</p>
+    <p>Nimmenmeisamarfansyneigendomberôvewurde.</p>
+  </li>
+  <li>
+    <p>Elkhatrjochtopfrijheidfantinken,gewisseengodstsjinst;datrjochthâldtteffensdefrijheidynomfangodstsjinstofoertsjûgingteferoarjen,endefrijheidomòfallinneòfyn'emandemeioarensawolynitiepenbierasynitpartikulierelibben,foarsyngodstsjinstofoertsjûgingúttekommentrochdyteûnderwizen,trochitpraktysktapassen,trochearetsjinstenitûnderhâldenfangeboadenenfoarskriften.</p>
+  </li>
+  <li>
+    <p>Elkhatrjochtopfrijheidfanmieningenmieningsutering.Datrjochthâldtdefrijheidynomsûnderynminginginmieningtehawwenenomtrochallemiddelsensûndergrinzenachtteslaan,ynljochtingsentinkbyldenoptespoaren,teûntfangenentrochtejaan.</p>
+  </li>
+  <li>
+    <p>Elkhatrjochtopfrijheidfanfreedsumeferieningengearkomste.</p>
+    <p>Nimmenmeitwongenwurdeombyinferieningtehearren.</p>
+  </li>
+  <li>
+    <p>Elkhatitrjochtomdieltenimmenoanitbestjoerfansynlân,streekrjochtoftrochfrijkeazenfertsjintwurdigers.</p>
+    <p>Elkhatitrjochtomopfoetfangelikensenstalittentewurdentadeoerheidstsjinstenfansynlân.</p>
+    <p>Dewilfanitfolksildegrûnslachwêzefanitgesachfanitregear;dywilsiltauteringkommeynperiodikeenearlikeferkiezingsdy'thâldenwurdesilleútkrêftfanalgemienenlykweardichkiesrjochtenbygeheimestimmingsofneffensinprosedueredy'tkrektlikegoedboarchstietfoardefrijheidfanstimmen.</p>
+  </li>
+  <li>
+    <p>Elkhataslidfan'emienskiprjochtopmaatskiplikewissigensenhatderoanspraakopdattrochnasjonaleynspanningenynternasjonalegearwurking,enynoerienstimmingmeideorganisaasjeendehelpboarnenfan'eoanbelangjendesteat,deekonomyske,sosjaleenkulturelerjochtendy'tûnmisberbinnefoarsynweardichheidenfoaritfrijûntploaienfansynpersoanlikheid,ferwêzentlikewurde.</p>
+  </li>
+  <li>
+    <p>Elkhatrjochtopwurk,opfrijekarfanberop,oprjochtrnjittigeengeunstigearbeids-betingstenenopbeskermingtsjinwurkleazens.</p>
+    <p>Elkhat,sûnderienofoarebenefterstelling,rjochtopitseldeleanfoaritseldewurk.</p>
+    <p>Elkdy'twurkdocht,hatrjochtopinrjochtfeardigeengeunstigebeleanningdy'thimensynhúshâldinginminskweardichbesteanmooglikmakket;dybeleanningsilsanedichmeioaremiddelsfansosjalebeskermingoanfollewurde.</p>
+    <p>Elkhatitrjochtomfakferieningsopterjochtsjenenhimdêrbyoanteslutenomsynbelangentebeskermjen.</p>
+  </li>
+  <li>
+    <p>Elkhatrjochtoprêstenfrijetiid,meiynbegrypfaninridlikebeheiningfan'earbeidstiidenperiodikefakânsjesmeibehâldfanlean.</p>
+  </li>
+  <li>
+    <p>Elkhatrjochtopinlibbensstandertdy'theechgenôchisfoardesûnensenitwolwêzenfanhimselsensynhúshâlding,dêrûnderbegrepeniten,klean,húsfestingenmedyskefersoargingenneedsaaklikesosjaletsjinstenenrjochtopfoarsjenningyngefalfanwurkleazens,sykte,ynvaliditeit,ferstjerrenfan'eoarehelte,âlderdomofinoargemisoanbesteansmiddelstrochomstannichhedenbûtensynwil.</p>
+    <p>Mernenbernhawwerjochtopbysûnderesoarchenbystân.Allebern,alofnetwetlik,silleûnderdeseldesosjalebeskermingfalle.</p>
+  </li>
+  <li>
+    <p>Elkhatrjochtopûnderwiis;itûnderwiissilfergeeswêze,teminstenwatitlegerenbasisûnderwiisoanbelanget.Itlegerûnderwiissilferplichtewêze.Beropsûnderwiisenberopsopliedingsillealgemienbeskikbersteldwurde.Hegerûnderwiissillykopiepensteanfoarelk,dy'tdêrdekapasiteitenfoarhat.</p>
+    <p>Itûnderwiissilrjochtewêzeopitfolútûntwikkeljenfan'eminsklikepersoanlikheidenopitfersterkjenfan'eearbiedfoarderjochtenfan'eminskeendefûnemintelefrijheden.ltsilitbegryp,deferdraachsumensendefreonskipûnderallenaasjes,rassenofgodstsjinstigegroepenbefoarderjeenitsilitwurkfan'eFerieneNaasjesfoarithanthavenjenfan'efredestypje.</p>
+    <p>Oandeâldenkomtynitfoarsteplakitrjochttadesoartefanopfiedingenûnderwiistekiezendy'tharrenbernjûnwurdesil.</p>
+  </li>
+  <li>
+    <p>Elkhatitrjochtynallefrijensdieltenimmenoanitkulturelelibbenfan'emienskip,tegenietsjenfankeunstendieltehawwenoanwittenskiplikefoarútgongendefruchtendêrfan.</p>
+    <p>Elkhatrjochtop'ebeskermingfangeastlikeenmateriëlebelangendy'tfuortkommeútinwittenskiplik,letterkundichofartistykwurkdaterfuortbrochthat.</p>
+  </li>
+  <li>
+    <p>Elkhatrjochtopitbesteanfansa'nmaatskiplikeenynternasjonaleoarder,datderjochtenenfrijhedenneamdyndizzeferklearring,dêrfolsleinynferwêzentlikewurdekinne.</p>
+  </li>
+  <li>
+    <p>Elkhatplichtenfoardemienskipoer;allinnedêrisdefrijeenfolsleineûntploaiïngfansynpersoanlikheidynmooglik.</p>
+    <p>Ynitútoefenjenfansynrjochtenenfrijhedensilelkallinnemarûnderwurpenwêzeoandybeheiningsdy'tbydewetfêststeldbinneenwolinkeldenallinnefoardeûnmisbereerkenningenearbiedigingfan'erjochtenenfrijhedenfanoarenenomtefoldwaanoanderjochtfeardigeeaskenfan'emoraliteit,iepenbiereoarderenitalgemienwolwêzenynindemokratyskemienskip.</p>
+    <p>Dyrjochtenenfrijhedenmeieyngjingefalútoefenewurdeynstriidmeidedoelenenbegjinselsfan'eFerieneNaasjes.</p>
+  </li>
+  <li>
+    <p>Gjinbepalingyndizzeferklearringsilsaútleinwurdemeie,dathokkersteat,groepofpersoandanekdêrekmarienofoarrjochtoanûntlienekinomeatteûndernimmenofhanlingenfanhokkeraardekteferrjochtsjendy'titferneatigjenfanienfan'erjochtenenfrijhedenneamdyndizzeferklearring,tadoelhawwe.</p>
+  </li>
+</ol>

@@ -1,0 +1,122 @@
+<h1 align='center'>NASA YA'NWE'WEWA'TE NAA KIWETE UTA IPEHKSA YUWE'S NEWE'WEN'I WEH'A</h1>
+<h2 align='center'>C'HAB WALA KIWEPWES' PKHAKHENA ÜSC'A' NAWEK YAHK':</h2>
+<p align='center'>uyte maa nasapwe's'pa ewkwecehk üsni' pyakhna'wek kafize'he', sa' k'a'weyc'a ya'nwe'wewa'pa teec'sana'wcehk wehyuhpa ikuse'wa'mete hi'pun'i naa kiwete uta wët wëtte, eena' eena'te ya'fi'zewa'te iwehce',
+ki' yahk'ku: sa' wa'ln'i, naa ya'nwe'wewa't'i taas'i'n'ik kapuyi'hi', maa üustepa thaameyuhthë'sa kühna, sa' nasa' naa kiwete uta peenayu' üukhna yüs yüsteme f'i'zewaha's pakwena üusta', sa' weh'yuhpa wec'ayuhte ma'we we'wewëc'apa we'wewa' hi'p, ma'wepa yaak'wa' hi'p f'i'zewa'ha's pakwena üsta' isateyu'.
+ki' naa sühk: ec ne'hwe's'suwe's' yuwema'kyuu, c'habwe's' üskiwe'n'i yuwe ma'kyuu napa nasa ya'nwe'wewa'ha's hi'pun'isa' sena äate ipe'he hi'pta'; nasa' ikahsa npicthë'we's' pk'uupa'ka kuk'thë' yuuwa'ha's pakwekamen, ükahyu v'ite yu'ceyu' ya'nwe'wewa'yu' meethäs,
+k'a'weyc'a naa sühu'k: kac'häc'ha'wa' usa', c'hab wala kiwwepwe's' d'i'p hiicehkyuuc'a ewtw f'i'zeya',
+ki' yahk'hu: naa c'hab walapwe's' pkhakhesa up'h eentewe's' f'i'hn'i ecte' c'habwe's'a' h'ukaysa naa yuwe's isatewe's'yuha' hïna, uyte naa kiwete nasa' isateyuh ha'dac'a u'ymakyuu pihcma'kyuu napa ya'nwe'wewa' hi'pyuha' hïna, weh'yuhpa nasa h'ukaysa hwete ew f'i'zewa'ha's nuyc'häc'haya't' ewna hïc'a nenyuu nasa' eena' f'i'zekan,
+sa' ikahsa c'hab wala kwekwewe's' k'a'wente pkhakhesa' ayte we'wen'ï's k'tey kyu'hu'ya' nenyun'i'spa yaaki'k, sa' nasa ya'nwe'wewa'ha's wëtte üsu hi'puwa'ha's c'hab wala kiwepwe's' pkhakhec'a s'abun'i kwekwe we'wen'i's k'tey yuuwa'ha's,
+k'a'weyc'a yaaki'k : nasaisa sena naa ya'nwe'we'wen'isu, eena' eena' üswa'te teec'sana'wec'a yaak'wa' peeh'sa' sühna ikahsa c'hab wala kwekwewe's' k'tey kyu'hu'hkha'w hïn'i's.
+K'a weh'ate na'hï'k:
+Ayte nasa ya'nwe'wewa'te naa kiwete uta newe'wen'i weh'a' c'habt'i, c'hab wala kiwet'i nuyi'hwena, nasawe's', ikahwa' v'itn'i kwekwewe's'a; kapiya'n'iyakh, kask'aha'n'iyakh naa ya'nwe'wewa' hi'pun'i's wëtte üswa' hi'pun'i's nuyc'häc'ha hi'pta'; ki' nasama't'yu, ikahwa' v'itn'i kwekwewe's'a' tuhd tuhdc'a naa ya'nwe'wewa't'i puuk' k'tey yuuwaha's kpahk'na u'hkan, ikahsa c'hab wala kiwe kwekwema't'yuu ki' k'a kiwe ne'hwe's'tewe's' ikah kiwema't'yuu napa.</p>
+<ol>
+  <li>
+    <p>Ya'nwe'wewa'te'maanasapaha'dacehkhi'pkuup'hi',wëtteu'huwa'hi'pta',eena'eena'f'i'zewa'hi'pta',üushi'pta'd'ik'thehi'pta'naapa'kate.Sa'h'ukaysaüushi'pcehktha'wsa'pyakhna'wef'i'zehi'ptha'w.</p>
+  </li>
+  <li>
+    <p>Naanwe'wen'itepu'kithc'amaanasapak'ukayupn'imeu'huwa'hi'pc'aya'nwe'wewa'pahi'pa'd'i'wën'ime:üskiwen'ima'wehi'psama'kyuu;nasaküc'ma'kyuu,nasawaasma'kyuu,nasama'weikwehkwesama'kyuu;u'yma'kyuu,pihcma'kyuu;nasakuhsaipeyn'itewe's'ma'wesatehi'psama'kyuu,khimec'a'ipeyn'ima'weüusyaak'sama'kyuu;mayuhnasakuhtewe's'ma'kyuu;v'uwe's'ma'kyuu;mteup'hsama'kyuu;ma'wetefiysapah'uka.</p>
+  </li>
+  <li>
+    <p>Maanasapaït'if'i'zehi'pa',kimyuhpapt'hiden'imeu'huwa'hi'pa',kihytepaähkaf'i'ze'n'iu'huwa'hi'pa'.</p>
+  </li>
+  <li>
+    <p>Kimyuhpanasanwe's'a'snasanwe's'a'syaamumena,kimyuhpanasanwe's'a'sk'uultec'akaselpi'pamena;yaamun'isa,nasanwe's'a'sk'wayn'isa'yuuwesa',ma'wetepah'uka.</p>
+  </li>
+  <li>
+    <p>Kimyuhpanasanwe's'a'spk'uuya'huuna'yuuya'ewumena.</p>
+  </li>
+  <li>
+    <p>Maanasapah'ukaEcNe'hwe's'd'i'pteäateu'huwa'hi'pa',maakiwetepah'uka.</p>
+  </li>
+  <li>
+    <p>MaaEcNehwe's'huyuhsapah'ukat'k'a'weyc'ayu',sa'maanasat'pah'ukat'k'a'weyc'anwe'we.Sa'maanasapad'i'wën'iya'samakyuu,khimec'a'd'i'wën'iyuya'üssa'aytenewe'wen'iweh'atepu'kithwa'hi'pa'.</p>
+  </li>
+  <li>
+    <p>Eeteeena'eena'kaf'ize'sakwekwed'i'ptemaac'habwalakiwetepamaanasapamaanasapaya'nwe'wewa'ha'spakwewa'hi'pa',nasa'shuuna'yuucte',EcNe'hwe's'tewe's'yuwetek'temeyuucte'.</p>
+  </li>
+  <li>
+    <p>Kimyuhpa'syuwehi'pumeu'hutekyuhu'mena,k'aaphpamena,u'hkanpac'at'hmenasa'k'ah'üsn'ikiwehupanewuuya'ewumena.</p>
+  </li>
+  <li>
+    <p>Eetewe's'äatekaf'i'ze'ya'ikahsakwekwe',nasawalad'i'ptekimyuhpapaikahn'imetepuuk'k'ana'wec'anwëse'hehi'pa',teec'sahu'ghuc'atup'himekihyähmeyuun'i'sewäatenv'ihtpkac',makwesena'ktuthe'c'aakac'hictepa.</p>
+  </li>
+  <li>
+    <p>F'iikayuup'an'inasa',isak'tezwa'teyuwet'ewkaha'da'nakühmeha'dayu';yuuwesamekkasehe'.EcNe'hwes'tewe's'd'i'pteyu'k'ayuuwesahin'isapaikha'khudeya'paswa'yuwehi'pa',sa'k'a'spanasawalad'i'pteyu'skhewwa'ha'.</p>
+    <p>EcNe'hwe's'tewes'f'i'n'iyuwekasehmeyna'yuwehi'pusanasa'sk'tezya'ya'ewumena,maac'habwalakiwema'kyunapa.Sa'f'i'n'ipe'lathaawhuunamesahuya'akac'hina.</p>
+  </li>
+  <li>
+    <p>V'itenasafiisaf'i'zen'ite'v'itenasayu'kimyuhpayuweipi'k'n'imetehuuna'p'hahcc'ayatwe's'we's'yasetekuk'thë'yuuya'ewumena,maayatwe's'yatkahuuna'u'kaya',teec'sahic'akahn'iecpa'hsa'sphadec'athegya',peku'sukaz'nuywe'weya'.Maanasapanaathëysuya'dunau'huc'a'EcNe'hwes'huyuhsayuwesuya'nwe'wewa'ha'spakwewa'hi'pa'.</p>
+  </li>
+  <li>
+    <p>Maanasapapeek'pekuhnaf'i'zewa'hi'pa',khic'ak'ah'üuspëyitemaac'habwalakiwetema'kyuhuwëc'a'yuhunapaewuna.</p>
+    <p>Maanasapapeek'üushumaac'habwalakiwehukasehnau'hwëc'a'ewuna,peek'c'habwalakiwehuma'kyuunapa,ki's'awedwëc'a's'awedna.</p>
+  </li>
+  <li>
+    <p>Peek'kwekwe'ssuwya'pakwenaüste',pemaakiweteisuthwa'pakwewa'hi'pa'maac'habwalakiwetema'kyuunapa,khic'amaasuhmeüsya'.</p>
+    <p>Napak'aweya'newe'wa'teyu'ï'nec'habwalakiwepwe's'pkhakhec'anewe'wen'iüustemeteyu'pu'kithya'ewumena.</p>
+  </li>
+  <li>
+    <p>Maanasapateec'c'habwalakiwehuwes'yuuhi'pa'.</p>
+    <p>Kimyuhpateec'c'habwalakiwehuwe's'yuun'i'skuse'ya'ewumena.Nasa'ma'wenteteec'c'habwalakiwehuwe's'yun'i'syu'pthewëc'a'yu'ptheya'ewuna.</p>
+  </li>
+  <li>
+    <p>1Pihcma'kyuu,u'yma'kyuusa'ptamuwa'teähwalaanakabasa'ptamuya'ewuna;kimyuhpaüskiwe'n'if'iiysahi'ppa'ka.c'habwalakiwef'ihuwe's'pa'ka,üusa'sya'newe'wen'ima'wesahi'ppa'kapt'hiden'imeyuunaptaamun'ite'pihcma'kyuu,u'yma'kyuusa'k'ana'wec'aya'nwe'wewa'hi'pta'.T'utepc'ahte't'utema't'napak'a'weyc'a.</p>
+    <p>Pihca's,u'ya'sma'kyuunapaipehkac'ya'kaba'menak'awe's'üusyuuk'a'we'yahk'meteyu'.</p>
+    <p>Ptaama'maanyatwe's'ya'ta'sa'k'aya'we's'in'iyakhkuc'habwalayuunapa'ha',sa'maac'habwalakiwekwekwepayatwe's't'inwe'wehi'pa'.</p>
+  </li>
+  <li>
+    <p>Maanasama'kyuunapanaamuyuuwa'hi'pa',peek'c'ama'kyuu,pkhakhec'ama'kyuunapa.</p>
+    <p>Kimyuhpahi'pun'i'shuuna'kuse'yaewumena.</p>
+  </li>
+  <li>
+    <p>Kimma'kyuunapanasa'ma'wepaüusyaak'wa'hi'pa'sa',üusa'sya'newe'wen'i;sa'üusa'sya'newe'wen'i'smaat'ipahwepta's'ya'ewuna;teec'a'sma'kyuu,nasakuht'ima'kyuu,ps'imc'aüustema'kyuu,nasawalayuhu'hun'isuma'kyuu,kapiya'nma'kyuu,kyu'hu'nma'kyuu,kthegu'nma'kyuu,üusa's'ya'newe'wen'i'sk'teyv'itna.</p>
+  </li>
+  <li>
+    <p>Maanasapama'weüusyaak'wëc'a,ma'wewe'wewëc'a',we'wehi'pa'.Sa'k'apa'kac'af'iv'itn'imeu'huhi'pa',v'itesaptas's'n'i'spawëse'na,v'itesaüusyaak'n'i'spawëse'na,ki'hwepta's'napayuuna,mtepa'c'awe'wene'gahïn'ime,kihyyakhpahwewe'weya'ipik'wëc'a'ipik'wëc'a'ipik'ya'ewuna.</p>
+  </li>
+  <li>
+    <p>Maanasapakimyuhpapt'hiden'imepkhakhewa'hi'pa',sa'kuk'meüswa'pkhakhen'iv'itna.</p>
+    <p>Yu'pkhakhen'isukimyuhpahuuna'yuupkhakhyu't'an'imeu'huna.</p>
+  </li>
+  <li>
+    <p>Maanasapathë'kabasa'peek'c'habwalakiwete'ikahn'ikwekwe'sipa'kaya',yuuya'ewuna,khimec'a't'hit'hc'akwekwekaipa'ka'ya',YuweDukhsa'skwekweusnayuuya'ewuna.</p>
+    <p>Maanasapapeek'c'habwalakiwete'ikahn'ikwekwesuk'ana'wec'aha'dac'au'kaya'ewunanasawalad'i'pteselpiwa'ha'sk'teyyuuna,v'itesana'wey.</p>
+    <p>C'aba'eckwetekt'hit'hi'n'iyakhya'yu'skhewunanpicthë'ki'pwa'eenkühisa,na'weyuun'iyu'naakiweteutana'wecehkyu'skhewya'neesn'isa',k'a'weyc'anasaisapeek'üustecehkt'hit'hwa'ha'skhimec'apapeek'c'at'hit'hitev'itenasayu'kuc'yuhpapahiyunakühuhi'pmeta'kimhu'ghut'hit'hn'i's.</p>
+  </li>
+  <li>
+    <p>Maanasapamaanasakuhtewe's'pa'ka,k'awe's'hi'pun'imakwehi'put'nasa'kimthëyteüsc'a'k'anasapu'c'hn'iyuuwa'hi'pa';wëttef'i'zewa'hi'p;f'iinf'iinipe'n'isahi'p;nasakuhsamaac'abtewe's'yuuwa'hi'p;wëtüskiwe'n'itewe's'yuuwa'hi'p;peek'nasac'huuteki'hwevitec'habwalakiwepac'huun'iyakh.</p>
+  </li>
+  <li>
+    <p>Maanasapamhihi'puwa'hi'pa',k'ah'üushumhia'st'hit'hwa',mazmhisac'apateec'sana'wec'ama'wesupaha'damahinaskhewut'na,ki'wec'ayuhte.Sa'mhinaüsn'ihuhuuna'kuki'hictepaya'nwe'wewa'hi'pa'.</p>
+    <p>Maanasapa'smhisakuhteh'ukaysateec'sana'wec'amahiwa'üste'maayuht'ipape'lamedewet'na.</p>
+    <p>Maanasapamhipa'kaewdewen'iu'huhi'pa'ma'wemhiha'dasa'wec'ayuhtesa'k'ah'tas'tenasakwet'ipaeena'ip'hwa'hi'p,sa'k'teähmete'nasawalawe's'skaha'da'n'iyuunama'wepeeh'te'.</p>
+    <p>Maamhisapah'ukamhisapwe's'yu'pkhakhen'iv'ituhi'pa'k'awe's'ithäsn'it'ya'nwe'weya'.</p>
+  </li>
+  <li>
+    <p>Mhisa'maanasapah'ukaikaaswa'hi'pa',ec'wa'eenhi'puwa',thaakwekmahi'meüushutheha'dac'akmahi'n'iyuuwa',ki'kaykase'n'i'spadewen'iyuuhi'pa'.</p>
+  </li>
+  <li>
+    <p>Maanasapaewkaf'i'ze'n'iu'huwa'hi'pa'k'ah'tas'tewe's'paewipe'hnakaf'i'zen'iu'huwa',kät'hüswa'hi'p,ü'wa'weh'peeh'meüswa'hi'p,at'hathwa'hwepeeh'me,yatkwehi'p,yu'ce'sahi'p,nasawalahikihyüste'ha'dac'aipa'kana;k'a'weyc'akihypahwepeeh'mef'i'zehi'pa',ma'wenteec'pihcnenyuc'a,ma'wenteec'u'ynenyuc'a,hweithakwethë'te,kihypa'kaït'if'i'zewa'yuhi'pmethëytenenyuuc'apa.</p>
+    <p>Luuc'n'hi't'i,luuc'kwet'isenaewipe'hwa'üsa'.Maaluuc'ma'kyuukaban'itewe's',kaban'imetewes'ma'kyuunapaha'dac'ak'a'sanasawalasenaewipe'hehi'pa'.</p>
+  </li>
+  <li>
+    <p>Maanasapayaf'tepiyawa'ha'shi'pa',piyan'iyactewe's'c'apa'sluuc'a'v'upa'kamepiyawa'hi'pa'.Sa'thakweyuhhiiyuwa'peehin'itewe's't'i'luuc'a'ma'wetepapiyawa'hi'pa'.Ki'kuseteähyuupkac'piyan'isa'mtemtepak'ahn'iyuut'na,sa'mtepapa'hahi'pa'.Maanasapawalatepiyan'iyattepa'hya'ewuna,v'itepama'wepiyanaüsta'k'a'weyk'asuähsayu'.</p>
+    <p>Kapiya'n'isa'nasat'ikac'häc'ha'wa'teneeswa'ha',eena'eena'f'i'zeya'nuytë'na,nasa'kuk'thë'yuumef'i'zeya'kneesu',puuk'twëhïwa'teneesna,nasa'kuk'thë'yuuya'yahk'mef'i'zeya'nesna;c'habwalakiwepwe's'a'äateid'i'püswa'teneesn'i'.Nasa'üskiwen'if'iyhi'psaüsta',üusa'sya'newe'wen'if'iyhi'psaüsta';k'akapiya'n'i'nasat'inuuyc'häc'hana,puuk'eena'eena'id'ipf'i'zeya'neeswahaá,c'habwalakiwepwe's'yu'pkhakhesaikahn'iyuwete.</p>
+    <p>Luuc'neywe's'a'luuc'we's'piyawa'ha'sa'ma'wepiyawa'ha'sithäc'a'kapiya'wa'ha'st'hit'hihi'pta'.</p>
+  </li>
+  <li>
+    <p>Maanasapanasawalaüskiwen'iteuchehi'pa',kusehuz'ic'kwev'itnamhin'isuwec'ayuhtek'a'weüsn'iks'av'supkhakhena,naakiwetemakwewalahiiyuun'iüstek'a'spakaselpi'na.</p>
+    <p>Nasa,d'ik'thehuwalaüuski'pnawalahiiyuuwa'ecv'itsa,kusehuz'ic'kwev'itnamhisa,d'ik'thehuwalaz'ic'kweyahk'naf'i'sa'k'awe's'yase'snwe'wen'iyuut'na,k'a'weyc'ak'a'wemhic'ahi'pun'it'ipa.</p>
+  </li>
+  <li>
+    <p>Aytenewe'wen'iyuwete,maanasapanasawalaks'av'sukimyuhpakuuc'i'n'imeu'huhi'pa',v'itec'habwalakiwesupakuc'i'n'imeu'huhi'pa',ähmekayuuhïwa'hi'pmeu'huhi'pa'.C'habma't'yuunasama't'yuupkhakhec'aüssanasama't'yuunapaaytenewe'wen'i'sk'teyyuuhi'pta'naaweh'a's.</p>
+  </li>
+  <li>
+    <p>Maanasapanasawalad'i'ptepuuk'k'teyyuuwa'hi'pa',naask'teyuc'aknasa'eena'eena'f'i'zewa'tenasa'neesnakäha'naapa'ka.</p>
+    <p>Maanasapak'teyyuumeya'ewunaEcNe'hwe's'suwe's'yuweic'aeena'eena'tef'i'zecte,peek'wëttef'i'zeckit'pekwecte;nasapwe's'huuna'mef'i'zecte;nasakuhsayuecyakht'hit'hc'anpicthë'ki'puteyu'skhewya'neesn'i'spekwecte.</p>
+    <p>Naawëtteeena'eena'f'i'zekahn'iyuwesa'ma'weteyuhpaähmeyuumef'i'zekahn'i'c'habwalakiwepwe's'pkhakhec'aikahn'iyuwe'sa'.</p>
+  </li>
+  <li>
+    <p>Ayteikahnanewe'wen'isa'steec'sama'kyuu,nasakuhsama'kyuu,teec'c'habwalakiweteikahsakwekwema'kyuu,sa'iv'ituwëc'a'kimyuhpakihyc'a'yuuya'ewumena.Naanewe'wen'iweh'ate'eena'eena'u'hun'i's,wëtwëtu'hun'i'smteyuhpaayteynewe'wen'i'shu'gmeu'hpu'c'hya'ewumena.Nasateec'sama'kk'a'hi,pkhakhec'aüssama't'k'a'hikhimec'a'c'habwalakiweteikahsakwekwema'kk'a'hïnapa.</p>
+  </li>
+</ol>

@@ -1,0 +1,122 @@
+<h1 align='center'>Mehen oiktuziden ühthine deklaracii</h1>
+<h2 align='center'>Preambul</h2>
+<p align='center'>Ottes homaitusehe, miše mez’kundan kaikiden ühtnikoiden arvokahuden i ühthižiden oiktuziden tundustamine oma valdan, oiktuden, mirun alandusen; i
+ottes homaitusehe, miše hondostamine i kacmatomuz’ mehen oiktuzihe tob varvaroiden tegoid, kudambad käregoitas mez’kundan mel’tundod, i mehiden suren tahton i takaindan om mugoman mirun tegend, kudambas mehil linneb sanavald, kacmusiden vald, ei linne varaidust i mairišt; i
+ottes homaitusehe, miše tarbiž mehiden oiktuded kaita zakonan valdal, sen täht, miše mehele ei pidaiži lopuks libuda tiranijan i ahthištusen vasthapäi; i
+ottes homaitusehe, miše tarbiž abutada sebrmeližiden kosketusiden kehitoitusele rahvahiden keskes; i
+ottes homaitusehe, miše Ühthižrahvahiže mülüjad rahvahad vahvištoitiba käskkirjas ičeze uskondan mehiden päoiktuzihe, mehen personan arvokahudehe i mužikoiden da naižiden tazooiktudehe i pätiba abutada socialižele progressale i elon oloiden paremboitusele oldes surembas valdas; i
+ottes homaitusehe, miše valdkundad-ühtnikad toivotiba abutada ühtes Ühthižrahvazkundanke ühthižes arvostandas i mehen oiktuziden i pävaldoiden kaičendas, tegendas; i
+ottes homaitusehe, miše neniden oiktuziden ühthine el’genduz om lujas tärged niid täudes pidämižes,
+Sur’ Assamblei,
+ezitab necen mehen oiktuziden ühthižen deklaracijan kut tegend, kaikile rahvahile i valdkundoile, miše kaikutte mez’ i kaikutte ühthižkundan azjmehišt, kaiken pidädes meles necen deklaracijan, abutaižiba tedotelendal i opendusel arvostada nenid oiktuzid i valdoid i tegižiba rahvahaližil i keskrahvahaližil progressivižil tegoil ühthišt i effektivišt arvostust i pidäižiba kut Ühthižrahvazkundan valdoiden-ühtnikoiden, muga i toižiden tahoiden rahvahiden keskes, kudambad oma niiden jurisdikcijan al.</p>
+<ol>
+  <li>
+    <p>Kaikmehedsündubajoudajinikohtaižin,ühtejiččiničezearvokahudesioiktusiš.Heileomanttudmel’ihuiktusentundiheiletarižkožudatoinetoiženkekutvel’l’kundad.</p>
+  </li>
+  <li>
+    <p>Tariž,mišejogahiželmeheloližibakaikoiktudedivaldad,miččedomanimitadudnecišdeklaracijas,kacmatasihemitteommehenrass,hibjanmuju,pol’,kel’,uskond,miččedomapolitižedvaitoižedkacmused,mitteomrahvahuz’vaisocialinesündund,mitteomelomišton,soslovijanvaitoižedolod.Paičisidä,eisatehtanimittušterodmanvaisijanpolitižen,oiktudenvairahvazkeskeiženstatusanpohjal,kunamez’mülüb,ripmatasišpäiom-iknecesijaripmatoi,pidetas-ikhol’tsiš,eiičenainevaisekut-setoižinomvähetudičenaižudes.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomoiktuz’eloho,valdahaipersonaližehekoskmatomudehe.</p>
+  </li>
+  <li>
+    <p>Nikedaeisapidädaorjanvaivaldmatomasolos,orjanpidändiorjanmöndomkel’tüdkaikišformiš.</p>
+  </li>
+  <li>
+    <p>Nikedaeisakovasüdaimelišestimokita,kovinustavzoitta,tehtamugomidtegoid,kudambadalenzoitaižibahänenarvokahuden.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomkaikjaloiktuz’sihe,mišehändastpidäižihepersonanarvostuses.</p>
+  </li>
+  <li>
+    <p>Kaikmehedomaühtenarvoižedzakonanedesiheilomoiktuz’eroitazakonankaičendaha.Kaikilmehilomoiktuz’ühtejiččehekaičendahamiččentahtdiskriminacijaspäi,kudambkeskustabnecileDeklaracijale,miččentahtrehkandaspäidiskriminacijaha.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomoiktuz’effektivižehehüvästamižehehändastoiktuziškompetentižidenrahvahaližidensudidenpätuselsiloi,konzhänenkonstitucijalvaizakonalanttudpäoiktudedomkeskustadud.</p>
+  </li>
+  <li>
+    <p>Nikedaeisamelenvaldaltürmata,pidätadavaiküksta,ajadamanpagoho.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehel,mišemäritaičezeoiktuzidivelguzidisadatodištustezitadudhänelekriminaližesvärituses,omoiktuz’hänenazjantarkištelendahatäudenühtenarvokahudenpohjalripmatomalobjektiviželsudalavoin,pidädesoiktudenküzuid.</p>
+  </li>
+  <li>
+    <p>Pahastegosväritudmehelomoiktuz’lugetasvärutomakssihesai,kunihänenväreilinnetedištadudzakonanjäl’genduselavoinsudantarkištelusel,konzhänelomakaikvoimusedkaičendantäht.</p>
+    <p>Nikedaeisasudidapahastegos,tehtudvaitehmatomudes,kudambeiolendpahantegonrahvahaližidenzakonoidenmödhevairahvazkeskeiženoiktudenmödhe.Mugažoeivoioldaustavzoitandkovemb,mise,kudambvoižioldasenaigan,konzolitehtudpahatego.</p>
+  </li>
+  <li>
+    <p>Eisamelenvaldalličtasnikenenpersonaližeheelohoikanzaneloho,hänenkodi,počtoigendusedihänenarvostuzomakoskmatomad.Jogahiželomoiktuz’zakonankaičendahamugoižesličendaspäiikosketandaspäi.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomoiktuz’sirdeltasjoudajasivalitaičelezeeländsijakaikuččenvaldkundansüdäimes.</p>
+    <p>Jogahiželomoiktuz’lähttamaspäi,mugažoičezemaspäi,ipörttasičezemaha.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomoiktuz’ectäkaičuzsijamokičijoišpäitoižišmaišioldasigä.</p>
+    <p>Neciloiktudeleivoioldaväged,konzküzündomtodekseipolitižespahastegosvaiÜhthižrahvazkundanpätegendoidiprincipoidvastkaroičijastegos.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomoiktuz’rahvahudehe,oldavaldkundanrahvahanikan.</p>
+    <p>Nikeneleisamelenvaldalanastadarahvahutvaioiktutvajehtadarahvahut.</p>
+  </li>
+  <li>
+    <p>Täuz’igäižilmužikoilinaižilomoiktuz’naida,mändameheleitehtakanzkacmatarassan,rahvahudenvaiuskondaneroihe.Heilomaühtejiččedoiktudednaindahaimehelemänendaha,olendahaierigandusenjäl’ghe.</p>
+    <p>Naidaimändamehelevoibvaišemolembidenpolidentäudenkeijoudajanketahtonke.</p>
+    <p>Kanzomühthižkundanlonduselineaugonpaniijoukisilomoiktuz’ühthižkundanivaldkundankaičendaha.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomoiktuz’pidädaelomištonüks’näzevaitoižidenke.</p>
+    <p>Nikeneleisamelenvaldalanastadahänenelomištod.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelommeletusen,mel’tundoniuskondanvald,necheoiktudehemülübvalduskondanvaikacmusidenvajehtamižehe,mugažovalduskondanvaikacmusidenpidämahaüks’näzeimugažoühtestoižidenke,kaikidennähtesvaiüks’näzeopendamal,uskondradol,uskondaniritualižištegoiš.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomoiktuz’kacmusidenvaldhainiidenezitamižehe,nechemülüboiktuz’telustamatapidädaičezemel’pidod,mugažooiktuz’ripumatavaldkundanröunoišpäiectä,sadailevitadatedoidimeletusidkaikidenmaneroidenabul.</p>
+  </li>
+  <li>
+    <p>Jogahiželomoiktuz’kožmuseližidensuimideniühtenzoitusidenkogomuzvaldaha.</p>
+    <p>Nikedaeisakäsktaühtnedamiččehe-niühtenzoitusehe.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomoiktuz’ühtnedaičezemanohjandamižehekohthavaivalitudezitajidenkal’t.</p>
+    <p>Jogahiželomoiktuz’päzudaičezemanvaldkundaliželeradole.</p>
+    <p>Rahvahantahtomvaldkundmehištonalandusen;necetahttarbižezitadaaigkeskustointehtudoiktoiš,eivärenzoitusišvaličusiš,kudambiškaikilomühthineiühtejitteänenoiktuz’peitänestamiženabulvaitoižidenänestamižvaldanpidijoidenmaneroidenabul.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehel,kutühthižkundanühtnikal,omoiktuz’socialižeheholištoho,mugažooiktuz’rahvahaližentegoidenikeskrahvahaliženühthižradonkal’t,otteshomaitusehekaikuččenvaldkundanjärgenduzivarad,anttahänenmez’arvokahudeleipersonanjoudajalekehitoituseletarbhaižidekonomižid,socialižidikul’turižidoiktuzid.</p>
+  </li>
+  <li>
+    <p>Jogahiželomoiktuz’radoho,radsijanjoudajahavaličusehe,oiktoihemelevuziheradonoloihe,mugažokaičendaharadotomudespäi.</p>
+    <p>Jogahiželmehelomoiktuz’miččeta-nialenzoitusetasadaühtejiččenpaukanühtejiččesrados.</p>
+    <p>Jogahiželradajalmehelomoiktuz’oiktahaitäudubahapaukaha,kudambandabhäneleihänenkanzalemehenarvoiženolendanikudamban,kutarbiž,täutabatoižedsocialiženholištonmanerad.</p>
+    <p>Jogahiželmehelomoiktuz’tehtaeloradoližidühtištusidimülüdaniiheičezeazjoidpolestamha.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomoiktuz’lebuhuijoudajahaaigaha,radpäivänmelevaharöunatuseheimakstudmäraigaližehelebupästusehe.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomoiktuz’elonkorktusehe,kudambahamülübsönd,sobad,kodi,tervhuz’holitandipidabsocialineholituz,mittetarižhänenihänenkanzantervhudenihüvinvoindantäht.Jogahiželomoiktuz’holištohomugomasazjaskutradotomuz’,läžund,invalidanolend,leskenolend,vanhudentulendvaitoižišhänentahtospäiripumatomišradvoindan,elovaroidenkadotusenazjoiš.</p>
+    <p>Mamoililapsilomoiktuz’eraseheholištohoiabuhu.Kaikillapsil,oma-ikhösündnudednaidudkanzasvaiei,omaühtejiččedsocialižedholituzoiktuded.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomoiktuz’sadaopendust.Opendusele,kaikenseaugotižopenduseleikeskopenduseletarbižoldamaksutoman.Augotižopenduseletarbižoldatarbhaižen.Tehniželeitedomahtoiželeopenduseletarbižoldakaikilekožujan,üläopenduseletarbižoldaühtejiččinavoinkaikileheidenmahtoidenmödhe.</p>
+    <p>Openduseletarbižoldaoigetudmehenpersonaližudenkehitoitamižehe,mugažomehenoiktuzidenipävaldoidenarvostandanvahvištamižehe.Openduseletarbižabutadakesknäiželeel’gendusele,tirpandamiželeisebrastuselekaikidenrahvahiden,rass-iuskondgruppidenkeskes,mugažoabutadaÜhthižrahvazkundankožmusenpidändantegoiš.</p>
+    <p>Vanhembilomezmäisijaineoiktuz’valitaičezelapsileopendusenladud.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomoiktuz’joudajasühtnedaühthižkundankul’turižeheeloho,sadaihastusttaidehes,mugažoühtnedatedoprogressahaikävutadasensatusid.</p>
+    <p>Jogahiželmehelomoiktuz’hänenmoraližidenazjoidenimaterialižidensatusidenkaičendaha,kudambadomahänentedo-,literatur-vaitaidehtöidensatusenihänomniidentegii.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomoiktuz’mugoižehesocialižeheirahvazkeskeižehejärgendusehe,konznecišdeklaracijasezitadudoiktudedivaldadvoibatäudestodenzoittas.</p>
+  </li>
+  <li>
+    <p>Jogahiželmehelomvelguzidühthižkundanedes,vaišesišvoiboldahänenpersonanjoudaiitäuz’kehitoituz.</p>
+    <p>Kävutadesičezeoiktuzidivaldoidjogahiželmehelvoibaoldavaišemugomadröunatused,kudambadomavahvištadudzakonanmödhe,mišetundustadaiarvostadatoižidenoiktudedivaldad,mugažomoralin,kundaliženjärgenduseniüleiženhüvinvoindandemokratižesühthižkundas.</p>
+    <p>NenidoiktuzidivaldoidnikonzeisakävutadaÜhthižrahvazkundanpätegendoideniprincipoidenvastkaroites.</p>
+  </li>
+  <li>
+    <p>Nimidänecišdeklaracijaseisael’getamuga,mišemitte-nivaldkund,mehidengruppvaiüks’mez’voiboiktuzidenpohjaltehtamugomidtegoid,kudambadomoigetudheitmahaezitadudnecišdeklaracijasoiktuzidivaldoid.</p>
+  </li>
+</ol>

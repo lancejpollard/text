@@ -1,0 +1,123 @@
+<h1 align='center'>BOIKANOKAKARETŠO BJA DITOKELO TŠA BOTHO</h1>
+<h2 align='center'>TEMOGO</h2>
+<p align='center'>Le ge re dutše re tseba gore seriti seo motho a belegilwego ka sona le tekatekanelo gammogo le ditokelo tšeo di sa tšeelwego kgang tša batho ka moka ke motheo wa tokologo ya toka le khutšo lefseng ka bophara.
+Le ge re dutše re tseba gore go se elwe hloko le go phaelwa ka thoko ga ditokelo tša botho go tlišitše dilešadihlong tšeo di rumutšego le go šišinya maikutlo le letswalo la botho bathong, go tla ga pono le tebelelo ye mpsha mo lefaseng yeo e ikemišeditšego go ela hloko gore batho ba swanetše go ipshina ka tokologo ya polelo, ya bodumedi gammogo le go se tšhoge selo goba gona go duma, go dirile gore se se boletšwego ka mo godimo e be dinyakwa tša maemo a godimodimo tša batho ka moka.
+Le ge re dutše re tseba gore go bohlokwa, ntle le ge motho a gapeletšwa ke mabaka, go thibela ka gohlegohle pušo ya mmušakatshipi le kgatelelo gore ditokelo tša botho di swanetše go šireletšwa ke molao.
+Le ge re dutše re tseba gore go bohlokwa go godiša tšweletšopele ya segwera magareng a ditšhaba.
+Le ge re dutše re tseba gore batho ba Ditšhaba Kopano ka gare ga Molao wa Ditokelo tša bona ba tiišetša tshepo ya bona motheong wa ditokelo tša botho, ka seriti le bohlokwa bja motho le gona go ba gona ga tekatekanelo gare ga banna le basadi, ba ikemišeditše go godiša tšweletšopele ya setho gammogo le kaonafatšo ya maemo a bophelo ka gare ga tokologo ye kgolo.
+Le ge re dutše re tseba gore Maloko a Ditšhaba Kopano a ikanne go fihlelela, ka thušo ya Ditšhaba Kopano, kgodišo ya tšweletšo ya tlhompho le kelohloko ya ditokelo tša botho gammogo le theo ya ditokologo.
+Le ge re dutše re tseba gore kwešišo yeo e kopanetšwego ya ditokelo le ditokologo tše ke taba ye bohlokwa gore go tle go kgonwe go fihlelela boikano bjo bo dirilwego.
+KA FAO, GE
+Lekgotla Kopanokakaretšo
+Le tšea sephetho sa gore Boikanokakaretšo bjo bja Ditokelo tša Botho ke kelo ya batho ka moka ya go ela bokgoni bja batho gammogo le ditšhaba ka moka go fihla, mafelelong, fao mang le mang yo e lego setho sa setšhaba, ba na le Boikano bjo dikgopolong tša bona mme ba leka ka mešogofela, ka go ruta le mo thutong, go godiša tlhompho ya ditokelo le ditokologo tše ka mekgwa ya sebjalebjale ya go ela, setšhabeng le gare ga ditšhaba tše dingwe, go bona gore tsebego ya tšona lefaseng ka bophara di a tsebega e bile di elwa hloko ke batho ba Mebušomaloko ka bobona gammogo le batho ba nagadilete tšeo di lego ka tlase ga pušo ya bona.</p>
+<ol>
+  <li>
+    <p>Bathokamokababelegwebalokologilelegonabanaleseritisagolekanaleditokelo.Bafilwemonaganoleletswalommebaswanetšegoswaranakamoyawabanabampa.</p>
+  </li>
+  <li>
+    <p>ManglemangoswanetšekeditokeloleditokologokamokatšegoboletšwegokatšonakamoBoikanongbjo,ntlelekgetholloyamohutawomongwelewomongwebjalokamorafe,mmala,bong,polelo,bodumedi,dipolitikigobakakgopolo,botšogoyakasetšhabagobamaemo,diphahlo,matswalogobamaemoamangweleamangwe.Gofetafao,gagokgetholloyeoeswanetšegogodirwagoyakamaemoadipolitiki,tokeloyaboahlodi,gobamaemoaditšhabatšhabagobalefeloleomothoadulagogolona,gobakenagayeeipušago,trasete,nagayagoseipušegobasesengwelesesengweseosekafokotšagomaemoagoikemelaganagayagabo.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyabophelo,tokologoletšhireletšoyagagwe.</p>
+  </li>
+  <li>
+    <p>Gagomothoyaaswanetšegogoswarwabjalokalekgobagobamohlanka.Bokgobalegogwebakamakgobagotlathibelwakagohlegohle.</p>
+  </li>
+  <li>
+    <p>Gagomothoyoaswanetšegogogobošwagobaaswarwakamokgwawomobewagonyefolaseritisagagwegobaaotlwagabohloko.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyagotsebjalefelonglelengwelelelengwebjalokamothopelegamolao.</p>
+  </li>
+  <li>
+    <p>Bathokamokabaalekanapelegamolaommebadumeletšwentlelekgethollogošireletšwakagolekanapelegamolao.KamokabaswanetšegofiwatšhireletšoyagolekanamalebalekgetholloyeoetshelagogobaerobagoBoikanobjolemaikemišetšoamangweleamangweaoabonalagoaratagokgetholla.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyagohwetšaphošolloyanneteyeoetlagokabaobatsebagoditokelotšabothomalebaleditirotšeodiphaelagoditokelotšabathokathokotšeoadifiwagokemolaotheogobamolao.</p>
+  </li>
+  <li>
+    <p>Gagomothoyoaswanetšegogonoswarwa,gohlahlelwagobagorakwanagengkamokgwawoosakwešišegego.</p>
+  </li>
+  <li>
+    <p>Manglemangodumeletšwegofiwatsebekelekgotlaleolesakgethegomahlakoregobonageebaditokelotšagagweledinyakwatšasetšhabagoyenagammogolemolatowomongwelewomongwewoapharwagokawonagasetšamaitirelo.</p>
+  </li>
+  <li>
+    <p>Manglemangyoapharwagokamolatoonaletokeloyagosebonwemolatogofihlagegolaetšwagoreonalemolatogoyakamolaolegonamokgorongyaphatlalatšayeoanagoleditokelokamokatšatšhireletšo.</p>
+    <p>Gagomothoyoatlabonwagomolatogoyakatirogobatlogeloyeoesabopegokaroloyamolatowoapharwagokawona,katlasegamolaowasetšhabagobawaditšhabatšhabakanakoyeomolatoodirwa.Gobaafiwakotloyeboimagofetayeoabegoatlaefiwakanakoyagemolatoodirwa.</p>
+  </li>
+  <li>
+    <p>Gagomothoyoaswanetšegogošalwašalwamoragofaoebilegoasesanasephirikaboyena,kalapeng,mangwalongagagwe,gobafaogomošalašalamoragogotshwenyanagolemaemolegotsebegagagagwe.Mothoyomongweleyomongweonaletokeloyagošireletšwakemolaomalebalegošalašalwamoragokatselayegobagohlaselwa.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyatokologoyamosepelolemoadulagogonakagareganagayenngweleyenngwe.</p>
+    <p>Manglemangonaletokeloyagotlogelanagayenngweleyenngwe,goakaretšwaleyagabo,legoboelagoyonanagayeoyagabogearata.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyagonyakalegoipshinakatšhireletšodinagengtšedingwemalebaletshekišo.</p>
+    <p>TokeloyeekasedirišwegetshekišoetšwelelamomolatongwoosaamanegoledipolitikigobamomolatongwoothulanagolemelaolemaikemišetšoaDitšhabaKopano.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyagobawasetšhabaseoseitšego.</p>
+    <p>Gagoyoakaamogwago,kagorata,mohlobowagagwegobaaganetšwakatokeloyagofetolamohlobowagagwe.</p>
+  </li>
+  <li>
+    <p>Basadilebannababagodilego,kantlelegobeelwamellwanegoyakamohlobogobabodumedi,banaletokeloyagonyalalegothealapa.Baloketšwekeditokelotšedilekanegotšalenyalo,kanakoyatšeanolegelenyalolefedišwa.</p>
+    <p>Lenyaloletladiragatšwafelakatumeleloyeelokologilegolegonayagotlalagotšwagobanyalani.</p>
+    <p>Lapaketlhagolemotheowasehlophasaboteebjasetšhabagommeleloketšegošireletšwakesetšhabalemmušo.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyagobalephahloannošigobagodihlakanelalebabangwe.</p>
+    <p>Gagoyoakaamogwagophahlokamabakaagosekwagale.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyakgopoloyeesenagomellwanegammogoleletswalolebodumedi,tokeloyeeakaretšatokologoyagokafetolaborapedigobatumelo,letokologo,annošigobakakopanolebabangwephatlalatšagobasephiring,gotšweletšapepenenengbodumedigobatumeloyagagwegoruteng,phethagatšong,borapedinglebohlokomeding.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyatokologoyakgopololetlhagišoyakgopoloye:tokeloyeeakaretšatokologoyagobaledikgopolo,kantlelethibelolegonyakišiša,goamogelalegotšwleletšadikgopololedikakanyokasephatlalatšisesengwelesesengwentlelemellwane.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyagokgonagokaswarakopanoyakhutšolegotsenelamakgotlaaoaaratago.</p>
+    <p>Gagoyoakagapeletšwagogobalelokolalekgotlageyenamongasarate.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyagotšeakarolommušongwanagaye,kannoši,gobakaboemedibjobokgethilwegokatokologo.</p>
+    <p>Manglemangonaletumeleloyeetletšegoyagoipshinakaditirelotšammušowanagayagabo.</p>
+    <p>Thatoyabathoetlabamotheowamaatlaammušo.Thatoyeetlatšweletšwakagoswaradikgethotšakgonthekgafetšakgafetša.Dikgethotšeditlabatšakakaretšolegoremanglemangotlabaletokeloyagobouta.Dikgethotšediswanetšegodirwakakgethoyasephirigobakemekgwayemengweyagoboutayeeswanetšegolegonaeamogelegago.</p>
+  </li>
+  <li>
+    <p>Manglemang,yoelegolelokolasetšhaba,onaletokeloyatšhireletšoyasetšhabaebileolokelagofihleleladitumotšagagwemaitekongasetšhabalekagošomišanaleditšhabatšedingwe.Tabayeeamagapelethulaganyoledithušotšalefaselelengwelelelengwe,tšaekonomi,kgweranoleditokelotšasetho.Dintlhatšekamokadiswanetšegogodišaseritilebothobjagagwekamokgwawoolokologilego.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyagošoma,gokgethamošomokatokologo,ditlamotšedikaonetšamošomo,letšhireletšomalebalegohlokamošomo.</p>
+    <p>Manglemang,kantlelekgethollo,onaletokeloyagoamogelamoputsowagolekanalemošomowoaodirago.</p>
+    <p>Manglemangyoašomagoonaletokeloyagoamogelamoputsowookgotsofatšagowagomokgonišagophelakatlhomphogammogolelapalagagwe.Tokeloyeeswanetšegotlaleletšwa,gegokgonagala,kadithušotšedingwetšatšhireletšoyasetšhaba.</p>
+    <p>Manglemangonaletokeloyagothomalegobalelokolamokgatlowabašomigošireletšadikgahlegotšagagwe.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyagokhutšalegoitketla,goakaretšwalenakoyeeswanetšegoyadiiritšamošomolematšatšiamaikhutšoaoalefelwagokamehlagealeboikhutšong.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyamaemoabopheloaswanetšegobopheloleboiketlobjagagwegammogolelapalagagwe.Maemoaabopheloaakaretšadijo,diaparo,kagoyadintloletlhokomeloyakalafoleditirelotšedingwetšebohlokwatšasetšhaba,tokeloyatšhireletšomalebaletlhokegoyamošomo,bolwetši,bofokodi,bohlologadi,botšofadigobaditšhitišotšedingwetšabophelotšedisalaolegego.</p>
+    <p>Botswadilebongwanadiswanetšegofiwatlhokomeloyamoswananošilethušo.Banakamokabaobabelegwagoekabakalenyalonggobakantlegalenyalobaswanetšegoamogelatšhireletšoyasetšhabayagoswana.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyathuto.Thutoetlabaesalefelwemefatongyakafaseleyagothoma.Thutoyamathomoetlabayakgapeletšo.Thutoyatheknikilethutoyaprofešeneditlahwetšwagabonolokakakaretšo.Thutoyagodimoleyonaetlahwetšwakebohlegoyakabokgonibjabona.</p>
+    <p>Thutoetlalebantšhwakgodišongyeetletšegoyabotholetiišongyatlhomphoyaditokelotšabotholemotheowaditokologo.Etlatšweletšakwešišo,kgotlelelolesegweragaregaditšhaba,dihlophatšamorafegobatšabodumedigommeetlathušagotšweletšagapeleditirotšaDitšhabaKopanomophegelelongyagolotakhutšo.</p>
+    <p>Batswadibanaletokeloyapeleyagokgethamohutawathutoyeetlarutwagobanababona.</p>
+  </li>
+  <li>
+    <p>Manglemangonaletokeloyagotšeakarolomeetlongyasetšhaba,goipshinakabokgabo,legoabelanakatšwelopeleyathutamahlaleledithutišotšayona.</p>
+    <p>Manglemangonaletokeloyatšhireletšoyasetholephišegeloyadidirišwatšeditšwagothutamahlaleng,dingwalonggobadipoelongtšabokgabotšeoalegomongwadiwatšona.</p>
+  </li>
+  <li>
+    <p>ManglemangolokelwakebophelobjobolokilegosetšhabenglelefasengkabopharamooditokeloleditokologotšeditheilwegoBoikanongbjodikgonagogotšweletšwa.</p>
+  </li>
+  <li>
+    <p>Manglemangonaleditshwanelotšeoadiphethagosetšhabengfaogolegobonologotšweletšalegogodišakabotlalobothobjagagwe.</p>
+    <p>Motšweletšongyaditokelotšagagweleditokologo,manglemanggaaswanelagotshelamellwaneyeebeilwegofelakemolaokamabakaagobolokakwešišoletlhomphoyaditokeloleditokologotšababangwelegoamogeladinyakegotšelokilegotšasetho.Gadiaswanelagapegotshelamolaowabotho,polokegoyasetšhabalemaemoabophelokakakaretšommušongwasetšhabawademokrasi.</p>
+    <p>DitokelotšeleditokologogadiaswanelagokašomišwathulanonglemeholalemaikemišetšoaDitšhabaKopano.</p>
+  </li>
+  <li>
+    <p>GagoselomoBoikanongbjosesekakwešišwagobjalokaseoselebanegolemmušoofekapaofe,sehlophagobamothogodiramošomoofegobaofewoolebišitšwegopšhatlaganyongyaditokeloleditokologotšedibeilwegomokhwi.</p>
+  </li>
+</ol>

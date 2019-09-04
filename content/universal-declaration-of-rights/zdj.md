@@ -1,0 +1,121 @@
+<h1 align='center'>ANZIMIYO LA KILEMWENGU UHSU ZE HAKI ZAKI BINADAMU</h1>
+<h2 align='center'>Mukadima</h2>
+<p align='center'>1- Ha mwakinisho ukaya ho ukubali ye sheo shaho wo ubinadamu piya pvamwedja ne ze haki za wadjibu zaho usawa, zahao, uwo ndo mshindzi waho uhuria, no mlidzanyiso haki, ne amani yahe duniya kamili.
+2- Ha mwakinisho ukaya wo upuzi no uwoneya ze haki zaki binadamu zika tsongeza yazitrendwa zaki djinga za utunkiza na ukaya wo mzalihano wa duniya yidjo ustehi wo uhuriya wamakaulu, na imani, duniya yidjo upukana na mashangaza na usikini siki, uirendeha bombeyo la mwando la hayini mwanadamu.
+3- Ha mwakinisho ukaya zo muhimu ho uhifadhwi zehaki zaki binadamu harumwa daula yi rumiyao shariya yili ye mwanadamu yatsi djihundre harumwa wadjibu yauhima ha shari kinyume no urendzwa mvuu, no ukadamiziwa.
+4- Ha mwakinisho ukaya zo muhimu ho utriya djitihadi wo mparano no uwandzani baina yahe ze daula.
+5- Ha mwakinisho ukaya harimwa le katiba mshindzi lahe lekukumanyo lamadola ye ze umma zi tekeleza hamara yasaya wo amini zehaki mshindzi zahe mwanadamu, harumwa mastehi na mpvamo wo undru waki binadamu, pvamwedja na usawa wahe zehaki zaho wanadamu wanawashe no wanadamu wanaume. Tsibahi ze umma yizo zitekelza wo utaanrifu wahazo wausayidiya wo mpuwo ngayo wa maesha yaki mudjtamaan na usimiza sharutwi ndjema zayidi za maesha harumwa unafasiya mwindji.
+6- Ha mwakinisho ukaya ze daula wanashama zidjitoleya udhwamini pvamwedja ne lekungumanyo lahe djumwiya ya madola, womstehilwa ha kweli no ulemengu kamili, wahe ze haki zaki binadamu ne ze nyihuriya mshindzi zahahe.
+7- Ha mwakinisho ukaya mwelewano sawa wapwadzima wahe ze haki ne ze nyihuria yizo ndrongo muhimu hakuwu harumwa utekeleza haudjimilfu ye anhadi yamdjitoleyo yinu.
+8- Le Barazaka Kuu lahe Djumuyian ya madola ngotekelezao ha dji kuwu ukaya le Katiba lakilemengu lahe zehaki zaki binadamu ndo faliki yahe ze umma ne ze daula zowontsi yili hayina mwanadamu hau kugumanyo la wanadamu harimwa wo mudjtamaan wadjo ukana le Katiba linu ho rohoni, wakazane ha ndziya zaho msomo ne malezi, wayeneze ho mstehilwa wahe zehaki ne ze nyihuriya zinu, warudi wasane wayeneze ha tartibu za furswa zaki daula za upole na zaki madaula za mpatano wo ukubaliwa no mtrilwa dziyani ha msinadi ne ze raanyia zahe ze daula wanashama na ne ze raanyia zahe ze ntsi ziliyo hotsini mwa ze dhamana zahazo.</p>
+<ol>
+  <li>
+    <p>Wowanadamupiyawouzalwanauhuriyanausawawakiundrunauhaki.Woupwawaankilinaurambuzihayizoyilazimuwarwaliyanehazitrendwanafikirazakiunanya.</p>
+  </li>
+  <li>
+    <p>Haynamwanadamugudjodjuwaudjinasbishanezehakinezenyihuriazoontsizatekeleziwaharimwalekatibalinu,pvatsinaubaguziutsokawontsi,tsiwakabila,warange,waudruumehauudruushe,walugha,wadiniwafikirazasiyasahauubaguzimdrwadjiwutsokaowontsi.Nawadjawukayitsulazimupvakayeubaguziwamwanadamuyalawaharumwantsihauyipandeshaarudhwihasibabundomkayowaheyentsihauyeardhwiyiyowakisiyasa,shariyahaudjirmaharumwawoulemenguwakimadola.Rekantsiyiliyouhuru,hauyatawaliwahauyaleziwadaulanyidrwadji,hauyitsoudjimiliki,hauyatsutimuuhuriahezedjihapiya.</p>
+  </li>
+  <li>
+    <p>Hayinamdrungenahakiyaenshi,yekehuriya,woundruwahaheupvamwa.</p>
+  </li>
+  <li>
+    <p>Kapvatsimdruyalazimuyarendwamtrwanahaumrumwa;wouitrwananebiyasharayawatrwanayiharamishiwahezesurwayapiya.</p>
+  </li>
+  <li>
+    <p>Kapvatsiruhusayawuuonndowamwanadamu,hauumfanyiliyazitrendwazapewuzakinyamahauzaupvanguwawoubinadamuhahahe.</p>
+  </li>
+  <li>
+    <p>Hayinamwanadamungenahakiyaukubaliwayemahalapiyayadjihudraowoundruwakishariyawahahe.</p>
+  </li>
+  <li>
+    <p>Wowanadamupiyawosawahousonimweshariyanaogwaonayehakiyauhafadhwiwaneshariya.Wowanadamupiyangwaonahakiyauhifadhwiwahausawanahainiubaguziwudjoutaandiyalekatibanahainantsongezayaubaguzi.</p>
+  </li>
+  <li>
+    <p>Hainamwanadamungenahakiyauhundramaredjeyiyakweliusonimwayezemahakamazalazimuhaudayizehakimshindziyakubaliwazoneshariyamshindzihauzeshariyambalinambali.</p>
+  </li>
+  <li>
+    <p>Kapvatsimwanadamuudjodjuwaubaliliwa,yafungwahauyatolwasistanihadjilayezi.</p>
+  </li>
+  <li>
+    <p>Hainamdrungenahaki,harumwausawawatimiyayayishiliwahauandilifuharumwatrengwenimahakamayalonauhuriyapvatisnapendzeleya.Mahakamayadjoutekelezayesehakinezewadjibuzahahe,hauyadjouwonesawoukweliwaheyizoyatuhumlwanizoharumwaupandewamahakamayazitrendwazidziro.</p>
+  </li>
+  <li>
+    <p>Hainamdruyatuhumlwanayitrendwashataandiyayeshariyayekadjiukadhwamanawahashorahawoudwamanauwowedjapwenulwakihakiharumwamahakamayamubahayamnikazehakizalazimuzaudjidafiu.</p>
+    <p>Kapvatsimdruudjodjuwaufungwahazitrendwahaumpuzindrongowowazayahatwari,yikawokazidjakazaziyilwaneshariyashahentsiyahahehauyeshakilemengu.Wowakatisheyitrendwahauwompuzidrongowouwowafanyishiha.Tsibahiyemdruuwokanaudjuwauhukumlwazifungozidzirozazayidiyayizozakahuendeleyawowakatakisheyintrendwashafanyishiha.</p>
+  </li>
+  <li>
+    <p>Kapvatsiruhusayamwnadamuudjilwakiyigozishamvuuharumwayemayeshayandaniyahahe,yahefamiyahaheneledaholahahehauyemawaswiliyanoyahahehaupulwasheonasharafu.Hainamdrungenahakiyahifadhwilwaneshariyahaupukananazitrendwadjezi.</p>
+  </li>
+  <li>
+    <p>Hainamdrungenaruhusayauzuguliyahaunafasinautzunguwayemakaziyahaheharimawayentsi.</p>
+    <p>Hainamdrungenahakiyaudjuwayalaweharumwahainantsibaishendeyahaheyarudiyayiredjeyi.</p>
+  </li>
+  <li>
+    <p>Hainamdruyadungwahashari,ngenahakiyautsahahifadwihaupuwamakayoyiliyayihundreharumwantsizidrwadji.</p>
+    <p>YehakiyinukayinaufayiyekayemdruhatuhumlwanautsahwahasababuzitrendwazahukumlwaukazapewuneshariyashirumiliwaowowandrupiyahauhasibabuzitrendwakinyumenezefalikinezefikiramshindzizaheDjumuyiaYaMadola.</p>
+  </li>
+  <li>
+    <p>Hainamdrungenahakiyaukanaurayiyawadaula.</p>
+    <p>Kapvatsimdruwudjodjuwaupvohwawourayiyawahe,hauyehakiyaubadiliurayiyapvatsinaustehishariya.</p>
+  </li>
+  <li>
+    <p>Hainamdruyablighimdrumehaumdrumshepvatsinaubaguziwakabila,wauranyiahauwadini,ngeahakuyafanyendolayawundefami.Mdrumshenamdrumengwaonahakizasawahofungwayendola,harumwawomudawamyeshihayo,nomtsambaliyohayo.</p>
+    <p>Yendolakainaudjuwaufungihapvatsinawomkubaliharadhwiyamuyowaheyembwananebibiharusiwadjokaulolana.</p>
+    <p>Yefamindenguzoyihimisaowomudjtamaanniyongiyoahakuyihifadwilwanomudjtamaannedaula.</p>
+  </li>
+  <li>
+    <p>Hayinamdrungenahakiyaumilikimpbahidruwayedjehawuhaupvamodjanawandru.</p>
+    <p>Kapvatsimdruudjodjuwaupvohayemilikiyahahehadziyazitsozahaki.</p>
+  </li>
+  <li>
+    <p>Hainamwanadamungenauhuriyawafikira,nahisi,nawadini.Wouhuriyauwoutsanganyawomdruudjuwaubadilidinihauyakinipvamwedjanautekelezayedinihauyeyakiniyahahewayetchehaupvamwedjanawandru,harumwatrengwehauhondanihahe,msomonazitrendwa,nautekelezazenguzozahayonanezedasturi.</p>
+  </li>
+  <li>
+    <p>Hainamwanadamungenahakiyauhuriawauwoninaudjitekeleza,yizongazifasiriyoukayankanaudjuwautaambishiwahasibabundouoniwahahe.Nayengenahakiyautsaha,nauhundra,nautrangazapvatsinayizingiriyamipakayantsi,yezetaanrifa,nezefikirahezendziyazoontsizamatrangazonamtamkuo.</p>
+  </li>
+  <li>
+    <p>Hainamdrungenahakiyahuudjiliyanananautsnaganyihanawandruhaamani.</p>
+    <p>Kapvatsihakiyamdruurendzwavuuyandjiyeharumwashamashitsokao.</p>
+  </li>
+  <li>
+    <p>Hainamdrungenahakiyaudjuwautrendeyazendrongowozakidaulazaheyentsiyahahe,rekandayewaye,rekahauwakiliwandruyawatsunguwahaunafasi.</p>
+    <p>Hainamdrungenahakiyaundjiyaharumwazehazizakidaulahasharutwizasawa.</p>
+    <p>Yemawoniyatekeleziwanemarayiayondomshindziwahomwendesoyeenziwahemadhwamanawadaula.Yemawoniyayowadjibuyatekeleziwapandzahatapandza,havotindrahafu,zahuntsanyayemarayiapiyawapasiwanizohausawa,naustehiyesiriyavotihauhaudungandziyazifanaonizozidjoustehiwouhuriyawauvoti.</p>
+  </li>
+  <li>
+    <p>Hainamdrungenahaki,holihoyeyemwanashama,harumwawomudjitamaanyahundreyehifadhwiyalawananuwo;ngenaruhusawadjawuyauhundramtekelezowahezehakizakitumonaankibazakidaula,nanezehakizakimudjtamaannautamaduniziliyowadjibuhodjumwawomkayomdruhahenanezenkuliyozahowoubinadamuwahahe.Yizompiyahatartibunadjitihadizahedaulayahahehauwomsaandawahezedaulazindrwadji,haupvimisazentchidazakimalizahezentsi.</p>
+  </li>
+  <li>
+    <p>Hainamdrungenahakiyafagnehazitsenangenawouhuriawautsunguwayehaziyadzaoharumwamasharutwiyahaziyahakiyadjohumdjipviyayarudeyahifadhwiwanoubure.</p>
+    <p>Wowandrupiyangwaonahakipvatsinaubaguziutsokaowalipwamshaharawasawaharumwahazizasawa.</p>
+    <p>Hainamdrwahazingenahakiyalipwamshaharawakiasiudjohumtoshaudhwaminimaeshayakibinadamuyahaheneahliyahaheudjoudugwayekazilazimunezehifdwizidrwadjizalazimu.</p>
+    <p>Hainamdrungenahakiyatrungesindikandayenawandruwasaya,hauyadjiyeharimwasindikahaudafiouzehakizakimaeshazahahe.</p>
+  </li>
+  <li>
+    <p>Hainamdrungenahakiyauvumzinaudjifwariyambapvihususwandoudjimizamudawahaziwakiyasinakonjezamdruulipvwazidjoukazamudahatamuda.</p>
+  </li>
+  <li>
+    <p>Hainamdrungenahakiyakanemaeshayautoshayakingiyeyeswiha,mkayondrowahaheneahliyahahe,hususwaupandewashahula,mavazi,nyumba,unono,pvwamedjanauhifadhwiwawoundruwahahewakatiyatsohazini,yalomwade,hauyatsoushinda,hauyafiwanemshehauyemdrumehauyekahapuziziwanezetchidazauenshihasibabundrongozamdjiriyayatsuzitsongayemwinyi.</p>
+    <p>Wouzazinouleziyilazimuzisayidiwahamsadamahsusu.Wowanapiyawazalwaharimwanikahihaupvatsinanikahingawonahakiwahifadwiwasawa.</p>
+  </li>
+  <li>
+    <p>Hainamdrungenahakiyauhundramsomonamaleziyabure,hususwandomsomowantsininomsomomshindzi.Womsomowakitechniknomsomowahazingelazimuyouyeneye.Womsomowadjuwungelazimuyoyibuliwawowandrupiyahausawanaudungayewoudjuziwahainamdru.</p>
+    <p>Womsomongaulazimuwoukanefalikizaubasawawoubinadamuwahemwananautriyamvuuhoustehizehakizakibinadamunezenafasimshindzi.Ngelaziwuwowomsomowutriyemvuuwomwelewano,womdjuliyano,nouwandzanibainayahezedaulanezikuruzakimakabilahaudini,pwamwedjanowsayidiyozehazizaheYeDjumuyianyaMadolazausimizayeamani.</p>
+    <p>Wowanduzewahowana,ngwanohamwandoyehakiyautsauwayemaleziwandzaowanikewowanahao.</p>
+  </li>
+  <li>
+    <p>Hainamdrungenahakiyandjiyeharumwayemaenshayakitamaduniyahomudjitamaan,yahundrezefayidazahoudjiziwakiswanaayaruditsenayandjiyeharumwayemayedeloyakisayansinezefayidazahayo.</p>
+    <p>Hainamdrungenahakiyahondranenahifadhwiyahezefayidazakimuyonazamaenshazalawananahainamtrungowahahemilki,wakisayansi,maandzishi,hauwakiswanaan.</p>
+  </li>
+  <li>
+    <p>Hainamwanadamungenahakipvakayemyenshiharumwawomudjtamaanwakilemenguwahawayaurusuuhifadhwizehakinezenyihuriazatekeleziwaharumwalekatibalinu.</p>
+  </li>
+  <li>
+    <p>Yemwanadamungenawadjauzewadjibuzahahehodjumwawomudjamaanyikaondouruhusuouwotchewomlamhonezekuliyozahoundruwahahehaunafasiwatimuukubali.</p>
+    <p>Zehakinezenafasizahainamdrunkazitsinayizingiriyitsondezahantsiwaneshariawizotcheyiliuhifadhwi,ukubalinayaustehizehakinezenafasizahowowandruwadrwadjinaudjibuzewadjbuzakimaleziyabinadamu,naustehiwoutrulivu,nomkayondrowalazimumudjtamaanwkidemokrasi.</p>
+    <p>Zehakinezenafasiyizonkazinaudjuwa,hainanamnayoontsi,zendekinyumenezefalikinezeanzmazaheYeDjumuyianyaMadola.</p>
+  </li>
+  <li>
+    <p>KapvatsifasluyaheleKatibalinulidjoudjuwalifasiriwaniDaula,Yikundishawandru,haumdruyitsokaohaudhumaniyandrongowohauyitrendwayiliutriyashakahaumenyayezehakinezenafasizatekeleziwaharimwilo.</p>
+  </li>
+</ol>

@@ -1,0 +1,123 @@
+<h1 align='center'>HEIMSYVIRLÝSING UM MANNARÆTTINDI</h1>
+<h2 align='center'>INNGANGUR</h2>
+<p align='center'>Tað verður at viðurkenna, at menniskjuni er virðing íborin, og at allir limir mannaættarinnar eiga somu ómissiligu rættindi, og hetta er støðið undir frælsi, rættvísi og friði í heiminum.
+Har sum mannarættindini hava verið fyri vanbýti og vanvirðing, hevur tað havt við sær ræðuligar gerðir, sum hava skakað samvitsku mannaættarinnar, og ein heimskipan, har sum fólk nýtur talu- og trúarfrælsi og frælsi frá ótta og neyð, hevur verið boðað sum menniskjunar hægsta mið og mál.
+Tað varðar almikið um, mannarættindi verða vard við lógum, um fólk ikki skal verða noytt til sum evstu ráð at taka til uppreistur móti harðræði og kúgan.
+Tað varðar almikið um at elva og stimbra vinalag tióðanna millum.
+Í sáttmáala sínum hava Sameindu Tjóðirnar av nýggjum váttað trúgv sína á undirstøðulig mannarættindi, á sóma menniskjans og virði, og á javnrættindi fyri kvinnur og menn, og tær hava rátt av at fremja framburð í almannamálum og bøta um lívskor manna í alt meiri frælsi.
+Limaríkini hava skyldubundið seg til, í samvinnu við Sameindu Tjóðirnar, at virka fyri at fáa framt, at mannarættindini og undirstøðilig frælsisrættindi verða alment vird og hildin.
+Tað at allir partar skilja hesi rættindi og frælsi er fremsta treytin fyri, at henda skylda verður framd út í æsur.
+Tess vegna bjóðar
+AÐALFUNDURIN
+Hesa heimsyvirlýsing um mannarættindi sum felags mið fyri øll fólk og allar tjóðir við tí endamáli, at hvør einstakur og hvør samfelagsstovnur alsamt við hesi yvirlýsing í huga skal stremba fyri við frálæru og uppaling at fremja virðing fyri hesum rættindum og frælsismálum og við framsøknum atgerðum innanlands og millumlanda at tryggja, at tey verða viðurkend og hildin allastðni á munagóðan hátt, bæði í fólkinum í limaríkjunum og í fólkinum í teimum londum, sum eru innan løgdømi teirra.</p>
+<ol>
+  <li>
+    <p>Øllmenniskjueruføddfrælsogjøvntilvirðingarogmannarættindi.Teyhavaskilogsamvitskuogeigaatfarahvørtumannaðíbróðuranda.</p>
+  </li>
+  <li>
+    <p>Øllhavakravumrættindiogfrælsi,sumerunevdníhesiyvirlýsing,uttanmuntilættarslag(rasu),húðarlit,kyn,mál,átrúnað,politiskaellaaðrasannføring,tjóðskaparliganellasamfelagsliganuppruna,ognarviðurskifti,føðingellaaðrastøðu.Somuleiðisskaleinginmismunurveraorsakaðavpolitiskari,rættarligariellamillumtjóðastøðuhjátílandi,sumeinpersónurhoyrirtil,samaumlandiðersjálvstøðugt,undirtilsjónarvaldi,ellafullvelditessáannanhátterskert.</p>
+  </li>
+  <li>
+    <p>Einoghvørhevurrætttillív,frælsiogpersónligatrygd.</p>
+  </li>
+  <li>
+    <p>Einginskallivaítrældómiellatrælkan;trældómurogtrælahandilavøllumslagskuluverðabannað.</p>
+  </li>
+  <li>
+    <p>Einginskalverðapíndurellaharðliga,ómenniskjaligaellavanæruligaviðfarinellarevsaður.</p>
+  </li>
+  <li>
+    <p>Øllhavarætttil,hvarteyerystødd,atverðaviðurkendsumpersænarfyrilægini.</p>
+  </li>
+  <li>
+    <p>Øllerujøvnfyrilæginihavarætttilsomurættarvernduttanmismun.Øllhavasamarættatverðavardfyrimismuni,sumerbrotmætihesisamtykt,ogatverðavardfyriallariáeggjantilatskapatílíkanmismun.</p>
+  </li>
+  <li>
+    <p>Umonkurfærviðferð,sumertvørtur'mætiteimumgrundrættindum,sumhonumerutryggjaðsambærtgrundlægogøðrumlandslægum,skalhannhavarætttilatfáafullarsømdirafturfyriviðdæmstælarlandsins.</p>
+  </li>
+  <li>
+    <p>Einginskalverðatilvildarligahandtikin,setturívarðhaldellagjørdurútlagin.</p>
+  </li>
+  <li>
+    <p>Øllhavasannanjavnrætttillrættvísaogalmennarættarviðgerðfyriæheftumogævildigumdæmstæli,sumskaltkaavgerðumrættinditeirraogskyldur,ogumøllrevsimál,iðverðareist.</p>
+  </li>
+  <li>
+    <p>Hvør,sumverðurákærdurfyrirevsiverdaferð,eigurrætttilalverðametturæsekur,inntilhannerdømdursekurviðalmennarættargongd,harsumhannhevurfingiðfullatrygdfyriverju.</p>
+    <p>Einginskalverðafunninsekurírevsimáliavnøkrumslag,uttansoatgerðellaábyrgdarloysi,sumhannvarákærdurfyri,etatroknasumbrotsgerðsambærtlandslægumellalægum,táiðgerðinvarðframd.Eiheldurskalstrangarirevsingverðaásettennhon,iðvargaldandi,táiðtannrevsiverdagerðinvarðframd.</p>
+  </li>
+  <li>
+    <p>Eingineiguratverafyritilvildarligariuppíleggingípersænligviðurskifti,heimalívellabrævaskifti,eiheldurfyriæruskemdellaútspilling.Ølleigarætttillægarverndfyrislíkariuppíleggingellaágangi.</p>
+  </li>
+  <li>
+    <p>Øllhavarætttilfríttatfaraogbúsetastinnanfyrilandamarkíhvørjumríkisær.</p>
+    <p>Øllhavarætttilatfaraavlandinum,hvørjumsumer,eisinisínumegnaogatfaraheimafturtilsíttland.</p>
+  </li>
+  <li>
+    <p>Øllhavarættatsøkjaumogfáafriðskjælíøðrumlondumfyrimeinsæknum.</p>
+    <p>Slíkanrættberikkitilatskjætasegundir,táiðákæranavrøttumerfyriæpolitiskarbrotsgerðirellagerðir,sumeruímætiendamálumoggrundreglumSameinduTjæðanna.</p>
+  </li>
+  <li>
+    <p>Øllhavatjæðskaparrætt.</p>
+    <p>Einginskaltilvildarligamissasíntjæðskap,ogongumskalverðasýttfyriatskiftatjæðskap.</p>
+  </li>
+  <li>
+    <p>Mennogkvinnur,sumerukomintillægaldur,skuluuttanmuntilættarslag(rasu),tjæðskapellaátrúnaðhavarættatgiftastogsetastíbúgv.Teyhavakravumjavnrættindiatgiftast,íhjúnalagnumogtilhjúnaskilnað.</p>
+    <p>Hjúnabandkannikkiverðabundið,uttanbáðirpartarsamtykkjaítíavfríumvilja.</p>
+    <p>Húskiðertannnatúrligafrumeindinísamfelagnumoghevurrætttilverndavsamfelagoglandi.</p>
+  </li>
+  <li>
+    <p>Øllhavarætttilateigaogn,annaðhvørteinsamøllella'felagviðonnur.</p>
+    <p>Einginskalhissiniverafyriongartøku.</p>
+  </li>
+  <li>
+    <p>Øllhavarætttilhugsanar-,samvitsku-ogtrúarfrælsi.Hesirætturfatareisiniumfrælsiatskiftaátrúnaðellatrúgv,ogfrælsitilannaðhvørteinsamallurellaífelagviðonnurogalmentellaeinskiltatinnatrúgvsínaífrálæru,tilbiðing,gudstænastuoghalgihaldi.</p>
+  </li>
+  <li>
+    <p>Øllskuluverafrælsathavasínaráskoðanirogberatærframuttanforðan,ogatsøkjasærogbreiðaútvitanoghugsanirígjøgnumhvønnboðmiðil,sumveraskal,ogæheftavlandamarki.</p>
+  </li>
+  <li>
+    <p>Øllhavarætttilfríttogáfriðarliganháttatkomasamanogtakasegsamanífelagsskapir.</p>
+    <p>Einginkannverðanoydduratveralimurífelag.</p>
+  </li>
+  <li>
+    <p>Øllhavarætttilattakalutístjærnlandssíns,annaðhvørtbeinleiðisellagjøgnumfríttvaldumboð.</p>
+    <p>Øllhavarætttilsomuatgongdatembætumogalmennumstørvumílandisínum.</p>
+    <p>Fælksinsviljiskalverastøðiundirstjærnarinnarvaldi;hesinviljiskalverðaborinframviðávísummillumbilumogrættiligumvalumviðalmennumogjøvnumvalrætti,ogskuluverðaframdviðloyniligariatkvøðingellasamsvarandifrælsumvalháttum.</p>
+  </li>
+  <li>
+    <p>Øllhavasumsamfelagsborgararrætttilfelagsligatrygdogkunnukrevja,atteybúskaparligu,felagsliguogmentanarligurættindi,sumeruneyðugfyriteirravirðingogfríamenningavpersænleikanum,verðaframdviðtiltøkuminnanlandsogíaltjæðasamstarviogísamsvariviðskipanogtilfeingiíhvørjumlandi.</p>
+  </li>
+  <li>
+    <p>Ølleigarætttilarbeiði,tilfríttatveljastarv,tilrættvísoghæskandiarbeiðslíkindiogtilverndfyriarbeiðsloysi.</p>
+    <p>Øllhavauttanmismunrætttilsomulønfyrisamaarebeiði.</p>
+    <p>Einoghvør,sumarebeiðir,hevurrætttilrættvísaoghæskandisamsýning,iðtryggjarhonumoghansaraeinamannsømiligatilveru,ogharumframtumneyðugtaðraalmennavernd.</p>
+    <p>Einoghvørhevurrætttilatstovnaoggerastlimuríyrkisfelagtilatverjasíniáhugamál.</p>
+  </li>
+  <li>
+    <p>Øllhavarætttilhvíldogfrítíð,haruppiírímiligaavmarkingavarbeiðstíðiniogfrítíðviðlønávísummillumbilum.</p>
+  </li>
+  <li>
+    <p>Einoghvørhevurrætttillívsumsøður,iðtryggjahonumoghansaraheilsuogvælveru,haruppiímat,klæði,bústaðogheilsurøktogalmennartænasturogrætttiltrygdviðmøguligumarbeiðsloysi,sjúku,æarbeiðsføri,missiavmaka,aldriellaaðrariskerjingavvinnumøguleikumorsakaðavumstøðum,sumhannikkihevurræðiá.</p>
+    <p>Møðurogbørnhavakravumserligaumsorganoghjálp.Øllbørn,annaðhvørtteyeruføddíhjúnalagiellauttan,njætasomualmannavernd.</p>
+  </li>
+  <li>
+    <p>Øllhavarætttilútbúgving.Útbúgvingskalveraækeypis,íhvussuerábyrjanarstigiskalveraskyldubundin.Tøkniligogyrkisligútbúgvingskalstandaøllumíboði,ogøllskulueftirførimunihavasomuatgongdahægriundirvísing.</p>
+    <p>Undirvísingskalmiðaímætiatfullmennapersænleikaeinstaklingsinsogatstimbravirðinginafyrimannarættindumogfrælsi.Honskalfremjafatan,tolsemiogvinalagmillumtjæðir,fælkasløgogtrúarbælkar,ogskalfremjavirkiSameinduTjæðannafyriatvarðveitafriðin.</p>
+    <p>Foreldurhavafyrstarættatvelja,hvatslagavundirvísingskalverðagivinbørnumteirra.</p>
+  </li>
+  <li>
+    <p>Øllhavarætttilfríttattakalutímentanarlíviísamfelagnum,atnjætalistogeigalutíframburðivísindaogágæðumteirra.</p>
+    <p>Øllhavarætttilverndavandaligumogevnisligumáhugamálumísambandividðeittoghvørtvísindaligt,bækmentaligtellalistarligtverk,sumavvarðandihevurgreittúrhondum.</p>
+  </li>
+  <li>
+    <p>Øllhavarætttilsamfelags-ogaltjæðaskipan,harteyrættindiogfrælsi,iðnevnderuíhesiyvirlýsing,kunnuverðaframdútíæsir.</p>
+  </li>
+  <li>
+    <p>Øllhavaskyldurfyrisamfelagnum;ítíeinanserfullogfrælsmenningpersænleikansgjørlig.</p>
+    <p>Samfelagsborgararskuluviðvíkjandirættindumogfrælsieinansverðabundniravavmarkanum,sumerusettarílægumviðtííhyggjuattryggjaviðurkenningavogvirðingfyrifrælsiogrættindumhjáøðrumogtiltessatlúkarættvískrøvumsiðalag,almentskilogvælferðalmenningsinsífælkaræðissamfelag.</p>
+    <p>HesirættindiogfrælsimegaíongumføriverðaintímætstøðuviðendamáloggrundreglurSameinduTjæðanna.</p>
+  </li>
+  <li>
+    <p>Einkiíhesiyvirlýsingeiguratverðatulkaðtannveg,atnøkrumríki,bælkiellaeinsaklingiverðurloyvtatgeranakað,iðmiðarímætiatbeinafyrinøkrumavteimunmannarættindum,sumhererutald.</p>
+  </li>
+</ol>

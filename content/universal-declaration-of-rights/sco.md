@@ -1,0 +1,123 @@
+<h1 align='center'>Universal Declaration o Human Richts</h1>
+<h2 align='center'>Inning</h2>
+<p align='center'>Forsameikle as kenning for the inherent dignity and for the richts, equal and nane-alienable, o aw members o the human faimily is the foond o freedom, justice and peace in the warld,
+Forsameikle as misregaird and contemption for human richts hes resultit in barbour acts that hes scunnert the conscience o mankind, and the advent o a warld whaur aw human sowels enjoys freedom o thocht and speech, and quittance frae dearth and dreid hes been proclaimed the tapmaist aspiration o the commonty,
+Forsameikle as it is necessar, gin man be no gart tak recourse tae rebellion as a hinmaist resort conter tirannie and dounhaudenment, that human richts shuld be beildit by the rule o law,
+Forsameikle as it is necessar tae gar freendly relations atween nations aye win forrit,
+Forsameikle as the peoples o the Unitit Nations hes in the Chairter affirmit aince mair their faith in fundamental human richts, in the dignity and worth o the human person and in the equal richts o men and wemen and hes resolved tae promote social progress and better standarts o life in braider freedom,
+Forsameikle as Member States hes gien their hecht tae win, in compluterance wi the Unitit Nations, the promotion o universal tent and respect for human richts and fundamental freedoms,
+Forsameikle as a common understaunding o thir richts and freedoms is o the greatest importance for the ful kenning o this hecht,
+Nou, syne,
+The General Assemlie
+Proclaims this Universal Declaration o Human Richts as a common standart o achievement for aw peoples and aw nations, tae the end that ilka individual and ilka organ o society, aye haudan in mind this Declaration, shal ettle throu teaching and lear tae promote respect for thir richts and freedoms and throu progressive meisures, national and international, mak sover their universal and effective kenning and tenting, baith amang the folk o the Member States theirsels and amang the folk o territours in ower their jurisdiction.</p>
+<ol>
+  <li>
+    <p>Awhumansowelsisbornfreeandequalindignityandrichts.Theyaretocheredwimenseandconscienceandshuldguidetheirselsanetilitherinaspeiritobritherheid.</p>
+  </li>
+  <li>
+    <p>AwbodyisentitelttilawtherichtsandfreedomsfurthsetinthisDeclarationwinaedistinctionoonykind,sicasrace,colour,gender,language,religioun,politicaloritheropinioun,nationalorsocialorigin,gear,birthoritherstatus.Mair,naedistinctionshalbemadeonthegrundsothepolitical,jurisdictionalorinternationalstatusothecountrieorterritourabodiebelangs,whutheritbestaund-alane,trust,nane-self-governingorinoweronyitherhaimsosoverantie.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttaelife,libertyandsecurityoperson.</p>
+  </li>
+  <li>
+    <p>Naebodyshalbehaudeninthirldomorslavery;slaveryandtheslavetradeshalbeprohibitinawtheirforms.</p>
+  </li>
+  <li>
+    <p>Naebodyshalbegarttholetorturenorill-kindit,inhumannorbemeanantreatmentnorpunishment.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichtawgaitstaekenningasapersonaforethelaw.</p>
+  </li>
+  <li>
+    <p>Awareequalaforethelawandentiteltwinaedistinctiontaeequalbeildingothelaw.AwareentitelttaeequalbeildingconteronydiscriminationinskaithothisDeclarationandconteronyincitementtaesicdiscrimination.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttilaneffectiveremeidaffothecompetentnationaltribunalsforactsthatdaesskaithtilthefundamentalrichtsgrantithimotheconstitutionorbylaw.</p>
+  </li>
+  <li>
+    <p>Naebodyshalbegarttholewulsomearrest,detentionnorexile.</p>
+  </li>
+  <li>
+    <p>Awbodyisentiteltinfulequalitytilafairandpublichearingfraeastaund-alaneandeven-haundittribunalinthedeterminationohisrichtsanddutiesandoonycriminalchairgeconterhim.</p>
+  </li>
+  <li>
+    <p>Awbodychairgedwiapenalfauthestherichttaebethochtinnocenttilpruvedguiltyconformandtillawinapublictrialwhaurheheshaenawthewarrantiesnecessarforhisdefence.</p>
+    <p>Naebodyshalbetaenasguiltyoonypenalfautonaccoontoonyactoromissionthatdidnamakforapenalfaut,inowernationalorinternationallaw,atthetimewhanitwescommittit.Norshalapenaltybeimposedhivviernortheanethatwesapplicableatthetimethepenalfautwescommitit.</p>
+  </li>
+  <li>
+    <p>Naebodyshalbegarttholewulsomeintromissionwihisprivacy,faimily,hameorletters,nortaeonsetsuponhishonourandrepute.Awbodyhestherichttaethebeildothelawcontersicintromissionoronsets.</p>
+  </li>
+  <li>
+    <p>AwbodyhestherichttaefreedomotraivelandresidencebenthemairchesoawStates.</p>
+    <p>Awbodyhestherichttaewinawafraeonycountrie,includinhisain,andtaewinbacktilhiscountrie.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttaeseekandtaeenjoyinithercountriesasylumfraepersecution.</p>
+    <p>ThisrichtmaynabecriedoninthecaseoprosecutionsgenuinelyarisanowertheheidsononpoliticalcrimesoroactscontrairtilthepurposesandprinciplesotheUnititNations.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttilanationality.</p>
+    <p>Naebodyshalbewulsomelytwinedohisnationalitynordisallouedtherichttaechyngehisnationality.</p>
+  </li>
+  <li>
+    <p>Menandwemenofulage,winaeonybranksonaccoontorace,nationalityorreligioun,hestherichttaemairryandfoondafaimily.Entitelttheyaretaeequalrichtsanentmairrage,ootthroumairrageandatitsupbrak.</p>
+    <p>Mairrageshalbeganeintilwithefreeandfulconsentalaneotheintendinmarras.</p>
+    <p>ThefaimilyisthenaituralandfundamentalgroupunitosocietyandisentitelttaethebeildosocietyandtheState.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttaeawngearhislaneasweelasincommonty.</p>
+    <p>Naneshalbewulsomelytwinedohisgear.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttaefreedomothocht,conscienceandreligioun;thisrichtincludesthefreedomtaechyngehisreligiounorbelief,andfreedom,aitherhislaneorincommontyandinpublicorinquietie,taewitnesshisreligiounorbeliefinteaching,practick,worshipandobservance.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttaefreedomoopiniounandexpression;thisrichtincludesfreedomtaehaudopiniounswinaeintermeddlingandtaeseek,comebyandgieootwittingsandconceitsthrouonymediaandtentlessofrontiers.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttaefreedomopeacefuforgetheringandassociation.</p>
+    <p>Nanemaybegartbelanganassocie.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttaetakahaundinthegovernmentohiscountrie,directlyorthrourepresentativesfreelywaled.</p>
+    <p>Awbodyhestherichttilequalaccesstaepublicserviceinhiscountrie.</p>
+    <p>Thewullothepeopleshalbethegrundsotheauthoritieogovernment;thiswullshalbeexpressedinperiodicandjonickelectionsthatshalbebyuniversalandequalsuffrageandshalbehaudenbysecretvoteorbythelikefreevoicanprocedures.</p>
+  </li>
+  <li>
+    <p>Awbody,asamemberosociety,hestherichttaesocialsecurityandisentitelttaerealisation,throunationaldargandinternationalcompluteranceandconfeerintiltheorganisationandfendsoilkaState,otheeconomic,socialandculturalrichtsthatmaunbehaenforhisdignityandthefreedevelopmentohispersonality.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttaehaewark,freechoiceoemploy,fairandguidtidsowark,andsecurityginwarkgaeswantin.</p>
+    <p>Awbody,winaeonydiscrimination,hestherichttaeequalpeyforequalwark.</p>
+    <p>Awbodyinwarkhestherichttaefairandguidpeythatmakssiccarforhimselandhisfaimilyanexistenceworthyohumandignity,andhaeiteikittil,ifnecessar,wiithermeansosocialbeild.</p>
+    <p>Awbodyhestherichttaemakandtaejynetradeunionsforthebeildohisinterests.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttaesauchtandleisure,includinwycestentsonwark-oorsandperiodictimeaffwipey.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttilastandartolifefitfortheguid-healandweel-daeanohimselandhisfaimily,includinmeat,claes,hoosingandmedicalcareasweelasnecessarsocialservicesandtherichttaesecurityintheeventojobloss,seikness,disability,wedowheid,auldeildoritherwantofendsincircumstancesootohispouer.</p>
+    <p>Mitherheidandbairnheidisentitelttaespecialtentandassistance.Awchilder,whutherborninorootowadlock,shalenjoythesamelikesocialbeild.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttaelearning.Learningshalbefree,atleastintheelementarandfoondinstages.Elementarlearningshalbecompelt.Technicalandprofessionallearningshalbemadegenerallyavailableandsecondarlearningshalbeavailabletaeawequallikeongrundsomerit.</p>
+    <p>Learningshalbeairtitatthefuldevelopmentothehumanpersonalityandatthesteiveningorespectforhumanrichtsandfundamentalfreedoms.Itshalpromoteunderstaunding,tolerationandfreendshipamangawnations,racialorreligiousgroups,andshalgarthepurposesotheUnititNationswinforritintheuphaudingopeace.</p>
+    <p>Parentshesapriorrichttaewalethekindolearthatshalbegientiltheirbairns.</p>
+  </li>
+  <li>
+    <p>Awbodyhestherichttaetakpairtfreelyintheculturallifeothecommonty,taeenjoytheairtsandtaeshareintheadvancementoscienceanditsbenefits.</p>
+    <p>Awbodyhestherichttilthehainingothemoralandmaterialintereststhatresultsfraeonyscientific,literaryorairtisticproductionheisthemakaro.</p>
+  </li>
+  <li>
+    <p>AwbodyisentitelttilasocialandinternationalorderinthewhilktherichtsandfreedomsfurthsetinthisDeclarationcankytheinful.</p>
+  </li>
+  <li>
+    <p>Awbodyhesdutiestaethecommontyinthewhilkalanethefreeandfuldevelopmentohispersonalityispossible.</p>
+    <p>Intheexerciseohisrichtsandfreedoms,awbodyshaltholenaemairnorwhitbranksaredeterminedbylawfortheaepurposeomakandtheduekenningandrespectfortherichtsandfreedomsoithersandthemeetingothejustneedsomorality,publicorderandthecommonweillinademocraticsocietysiccar.</p>
+    <p>ThirrichtsandfreedomscanniverinnaecasebeexercisedconterthepurposesandprinciplesotheUnititNations.</p>
+  </li>
+  <li>
+    <p>NochtinthisDeclarationmaybeinterpretasallouinforonyState,grouporpersononyrichttaetakpairtinonyployorperformonyactettledatthecowpingoonyotherichtsandfreedomshereinfurthset.</p>
+  </li>
+</ol>

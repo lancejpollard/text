@@ -1,0 +1,125 @@
+<h1 align='center'>JATIBIAINOA JONÍ COSHIBAON, JASCAASHON JACON JAHUEQUL ARESTI JONIBAON JAHUEQUESCAMABÍ ITIAQUIN SHINANA</h1>
+<h2 align='center'>JA JOII ICÁBO ONANTI</h2>
+<p align='center'>ICONSHAMAN SHINANSHON SHINANA IQUl, jatíbi noa mescó jonin baquebo, jascara iquetian huetsabaonribi noa joi nincáshonti iqui. Jaticashbira jacon jahuéqui ati shinanya itiqui. Jatíshonbi moa nato jahuéqui onancanquetianra, jacon jahuéqui aresti tsonbi noa pecáoriamatima iqui; tsonbi noa yancabires jahueatima iqui; jatian jaconma masá teneti nato neten yamatiqui, ja onancanquetiampari.
+ICONSHAMAN SHINANSHON SHINANA IQUl, jonibaon jaconma shinanshon huetsabo jaton aresti shinan amayamaa iqui. Jascara shinancanainoasha, jonibaon jahuéqui acainbi huetsabaon jaconmaanresa iqui. Ichara jacanque, huetsaboqui jaconmai shiroaibo, yoina quescaaquin amisaibo, jascaashon jatibi joni rabinmai.
+Icashbi rama iqui joibo moa janbísacana, jacaya jonin quiquinbiresaquin manaa jahuéquibo, jaqui coshinoshon. Jascara copí iqui huetsa joniboquibires raquétan jatima nato neten. Jainoas'h huetsabaonribi mia yonoquin onitsapi imatima iqui, noibatibires j ahuéquiomashoco mia jatima iqui.
+Jainoash jatíbi jonira raquétan itima iqui yoyo iqui jahuen queena joi yoii, ishonbi huetsabo jaton shinan jaconmaamatima iqui, ja yoyo icatonin. Jainshon ati iqui queens'hon Diosen joi iconhaquin, iamashon jahueratocayaqui jan oinna icon joi iqui ishon, ati iqui iconhaquin.
+ICONSHAMAN SHINANSHON SHINANA IQUl, ja jonin baquebaon ati jacon shinan japaricaya senenhati jahuequescamabi iquetian apon esecan jato aquinti iqui; ja jaconma shinanya jonibaon ja pecáoritaanan jonibo masá tenematimaaquin, jaton aresti shinan jahuequescamaribi iquenbi jato amayamanaquetian. Ja shinan iqui jatíbi jayá iti. Jatian moa jascara masá jahuéqui teneti atipanyamaash ja jaconma shinanya joni betan reteananai, jacon icasi.
+ICONSHAMAN SHINANSHON SHINANA IQUl, japaricaya non senenhati jahuéqui, huetsa main icá jonibo betan jaton apobo betanribi noa jaconananash jati.
+ICONSHAMAN SHINANSHON SHINANA IQUl, ja jatíbi jonibo ja Naciones Unidas tsinquítiain icábaon yoicana iqui huestíora Quirica huishá meran; huestiora huestiorabo iqui jahuequescamabi jaton queena jacon jahuéqui aresti. Jainoash jatíbi joniboribi iqui jahuequescamabi, yoyo icaitian huetsabaon nincáresti. Ja huestiora jonibo iqui jahuéqui ati shinanyabo, jainoash ainbobo jascáribi iqui benbo quescáribi. Ja Quiricaninra yoicana iqui, jatíbi jonibo aquinti, jaticashbi jaconash jacantiaquin; jainoash jaton icábo jaconi beboncatiaquin, jatian bebon quirica onanribi icantiaquin.
+ICONSHAMAN SHINANSHON SHINANA IQUl, ja huetsa maimeabo ja Naciones Unidasnin coshibaon aquinananoshon yoicana iqui, ja jatíbí nato maimea jonin jaton aresti jacon shinan senenhacanon ishon, jahuequesca ishon huetsabaon jascara shinan pecáori amanaquetian.
+ICONSHAMAN SHINANSHON SHINANA IQUl, ja yoia senenhaquin jatíbi apobaon requenpari ati iqui, jatíbi jahuen jqnibo onanmaquin, huestiora huestiorabo. Non jacon jahuéqui acaitian huetsabaon noa oinrestiqui noa onsatanquin. Jaton queena jahuéqui arestira jahuequescamabi iqui, ja shinanra tsonbi pecáori atima iqui.
+Jascarabo iquetian shinans'honra
+JATIBIAINOA JONÍ COSHIBO TSINQUISHON
+NATO HUISHACANRA ONANTIAQUIN YOIAI JA JONIN BAQUEBAON JACON JAHUEQUl ARESTI SHINAN iqui jaticashbi ja shinanya iti; huestiorabira ja shinanhoma itima iqui nato neten. Huetsa maimea apobaonra jahuen jonibaon jascara jacon shinan aresti onanshon senenhati yoiti iqui, jatíbiain. Jascara acantira jato jatíbíain yoiti iqui, escuelancoshon jato asheacanon ishon, jainshon jato queshanquin rebesti iqui, jatíshonbi onancanon ishon; jainshonribi onancanti iqui, jascatash ja esébo onanas'h noa jati.</p>
+<ol>
+  <li>
+    <p>Jatíbijoninrahuetsajonibaonyoiainincárestiiqui,jahueraquibijaconmaiiamaquin;jainoashjahuenqueenajaconjahuéquiboatijahuequescamabiiqui,tsonbiraamayamatimaiqui.Jaticashbirajascaraarestijaconshinanyaitijahuequescamabiiqui,jahuequescarainoashpicotajoniinonbi.Huestiorahuestioraborajahuéquiatishinanyaiqui;jainshononanribiquejahueratoquijaconiquijainoashjaconmaiquiishon.Jacopirahuetsajonibiresinonbinonjatojaconharestiiqui,nonhuetsabinonacaiquescaaquin.</p>
+  </li>
+  <li>
+    <p>JahuequescashonbiratsoabinonamayamatimaiquinatoHuishámeranyoiaquescáacasaitian,benboiamaashainboinobiranonjatoamarestiiqui.Jainshonranonamaribitiiquihuetsaquescajoniboinonbiribi,jahuequescajisáyorayaiquenbi;jahuequescatiyoyoicaiinonbi;jatonacátoninbiribiDiosquiritiicájoiiconhacanaitianjatoamayamatimaiqui;huetsaapobireschibanaiboinonbi,jahuen.Élshinanbiribihuetsaresibiiquenbi;huetsamaimeajoniinonbi;jatonamanríquiquinmashocoinonbi,jahuéquiomajoniinonbi,huetsajahuéquibiresinonbijatoamayamatimaiqui,jatíbijonibo.Jainshonribiranonjatoamayamatimaiqui,jatonamanbiresicámainconiajoni,jainoashhuetsamainconiajoniinonbi,nonjatoamarestiiqui.</p>
+  </li>
+  <li>
+    <p>Huestiorahuestíoraborajatijahuequescamabiiqui,tsonbiraretetimaiqui,jainoashjahuenqueenajaconjahuéquiati.Jainoashshibiquiquinbiresijatoquichipotiiqui,tsonbijaconmatimashinanash.</p>
+  </li>
+  <li>
+    <p>Tsoabiraitimaiquicopíbiimabihuetsaboresashoniyancayonocaati;quiquinbiresatimajahuéquiriqui,joniiboashoninaati.</p>
+  </li>
+  <li>
+    <p>Tsonbirahuetsajoni,yoinnaacaiquescaaquinjaconmaquinmasátenematiyamaque.</p>
+  </li>
+  <li>
+    <p>Huestiorahuestioraborahuetsajonibiresacaiquescaaquinjaconhaquinaponatiiqui,jahuequescarainjonicaainonbi.</p>
+  </li>
+  <li>
+    <p>Janonmainmeaesécopiraapobaonjatíbijonihuetsaboacaiquescaaribaquinshinantiiqui.Jainshonjatocoirantiiqui,huetsaquescajoniboinonbi.Jainshonnbiracoirantiiqui,huetsabaonjatíribibojatonqueenabonatoHuishámeranyoiaiquescáacasainbiamayamanaquetian.</p>
+  </li>
+  <li>
+    <p>Jahuetianquihuestiorajoniyancabiresjaconmacanaiaponesémeranyoiaiquescámaaquinjarajahuequescamabiiqui,coshiboibajacati.Jajonicoshibaonraaquintiiqui,jahuetsabaonyancabiresjaconmaitian.</p>
+  </li>
+  <li>
+    <p>Tsonbirayataanancárcelmeranhuetsabiresniatimaiqui,jaaponesecanyoiaiquescámaacáonanshonmabi.Jainoashjahuenmainmeashbitsoabipotaacatimaiqui,aponesecanyoiaiquescámajaconmaacámaicás'h.</p>
+  </li>
+  <li>
+    <p>Huestíorajoninjaconmaacáyoicanquetianra,jahuequescamabiiqui,jaaponjascaatiyoiaacaitonjatoyocáyompariti,iconmeinquiishononannoshon.Jainoashjoninyoiabihuetsayoitimaitianra,jahuequescamabiiqui,jaaponjascaatiyoiaacaijoniibaqueenashjabocati,janaquinnonicash.Jahuequescamabiribiiquijajoninichanaposhonjatobenshoshonti,jacopiicanaijahuéqui.Jascaashononantíiqui,jahueratonacayarinjayoiajoiiconishonjainoashjahueratojahuéquiboquiaponesémeranyoiaiquescámaiquiishon,onánoshon.Jaaponjascaatiyoiaacaijoninjatobenshoashontiiquisenenbires,huetsaquescajoniboinonbi.Jainshonhuetsabichoaquinshonhuetsaaquinyamatimaiqui.Jahuequescaishonjahuenonanajoniiquetianatiiquijabichoaquinquin.Jainshonaquinonis'honcopíaaiquetianbiri,jahuequescais'honhuetsajahuéquicopíboribi;jaaponjascaatiyoiaacaitonjatojascaatimaiqui,senenbirescayajatoaquintiiqui.</p>
+  </li>
+  <li>
+    <p>Huestiorajoninjaconmaacáyoicanquetianrajonicoshibaonshinantimapariiqui,aconariquiishon.Jascaashonhuetsabojaoinnaboyocáyomparitiiqui,aconariniamaashacámarinishononános"hon.Jascarajonirabamaacantiiquijoniichasharanshon,jaaponesecanyoiaiquescaaquin,jatianracoshibaonaconaonanshamanshonbamaatiiqui.</p>
+    <p>Jainshonhuestiorajoninatiquihuestíorajahuéquijaatimaaponesecanyoiamaparijahuéqui.Jatianmoajascaraacápecáoaponesépicotiiqui,jascarajahuéquijahuescashonbiatima;jatianraaponjajonimasátenematíyamaque,jascaraesépicotamatianacáiquetian.Jainshonribirajatoatíiquimasátenemaquin,jajaconmaaquetianmasátenematiaponesecanyoiaiquescáres.Jainshonmoajascarajaconmaacápecáo,huetsaeséaponpicotiiqui,jascarajonibobebonbiresmasátenematí;jascaraiquenbijabenáesecanyoiaiquescáatimaiqui,jascaraesépicotamatianacáiquetian.</p>
+  </li>
+  <li>
+    <p>Tsoabirahuetsabaonjahuéquiacaisharanniacaatimaiquiicasquinjatoyocatashmabi.Jainoashjahuenrarebosharanbiraitimaiquiyocatamaicáshbi,niacaati.Jainoashjatons'hobonbiraitimaiquijiquii,jiquicasquinjahueniboboyocatashmabi.Jainoashshibira,huetsaboquiricabemacanajahueniboyocatamashonbijahuetianbiyoyoatimaiqui.Jainoashhuetsaboyoiijaconmaiitimaiqui;jatonicáribirajaconmaquinyoinaantimaiqui.Jascarajahuéquibohuestiorajoniacanaitianraaponaquintíiqui,jaquiribiahuetsáyamacanonishon;jainshonjanacájonimasátenemashontiquijaacácopi,jaaponesémeranyoiaiquescaaquin,huetsaquescajoniboinobirajatoaponaquintiiqui.</p>
+  </li>
+  <li>
+    <p>Jaicámaincobiicashbihuetsancobojonicatirajahuequescamabiiqui.Jainoashjahueranoquijatinqueenai,jahuenqueenaimaicatótirajahuequescamabiiqui.</p>
+    <p>Huestiorahuestioraborajaicámaimeashqueenaashhuetsamaincaípicótijahuequescamabiiqui.Jainoashhuetsamaincaashjaquiribijahuenmaincojoríbatirajahuequescamabiiqui.</p>
+  </li>
+  <li>
+    <p>Jaicámaincos'honbijonijaconmaquinacanarajahuequescamabiiqui,huetsamaincaashjainoaapoquichipótí.Jascataitianrajainoaaponaquintiiqui,jaconhainjatiaquin.</p>
+    <p>Icashbijaconmajahuéquiaquetian,jainoashnatoNacionesUnidasninyoiaiquescáesésenenhayamaquetian,jaconmaquinacanacaquetianra,huetsamaimeaaponbijainimatimaiqui,jahuejahuéquibiramenitimaiqui.</p>
+  </li>
+  <li>
+    <p>Huestiorahuestioraborajahuequescamabjiquijatonicámainconiajonishamanbiití.</p>
+    <p>Jahuenmainmeaaponesésenenhaitianra,jainoaaponshinantimaiqui,moaranatomainmeamaiquiishon.Jainshonjahuenarestijaconshinanpecáoriamatimaiqui,jahuéquiacasaitianamayamatimaiqui,jahuenqueenaabánonishon.Jainoash,jonitashquetashhuetsamainmeaicasaitianra,tsonbiimayamatimaiqui.</p>
+  </li>
+  <li>
+    <p>Moaaniisenenas'hjatíbíjoni,ainbobenoomajainoashbenboribihuanoomajainoashibibenomaataiananhuanomaataicáshajatonqueenbobetanbiananantijahuequescamajiqui;icashbipotábicho,jascatashjatiiquijatonbiribi.Mescójisajoníiquetianoinshonratsonbiimayamatimaiqui,huetsamainmeajoníiquenbi;Diosquiritiicámescóas'honjoiiconhaijoniiquenbiraimatiiqui.Jabenbohuanoomaiananainbobenooma,jainoashbenomaatabetanhuanomaataboicásha,jahuequescamabjiqui,jahuenqueenbobetanbiananantí;icás'hbipotábichojaainbaonbenbonacaiquescáribiaquinshinanaitian.Jamoabiananashonra,jarabéshonbijatonqueenajaconjahuéquiarestijahuequ¿scamabiiqui.Jatíbijoniraainbobetanbenboinonbimoabianananapecáo,jahuequescamabiiquipotaananribiti,jascatashpotaanantiaponesémeranyoiaiquescáiquetiamparires.</p>
+    <p>Tsonbirahuetsajoni,iananainboinonbiteaboshonbiananamatimaiqui,jabiananantiquiquiniqueencanamapariiquetian.</p>
+    <p>Jonibosharanriquinonpapa,titajahuenbaqueboya,jaiquihuestiorararebonintapon,jainoashrarebopeocootashcaitaiicásh.Jahuenpapabetanjahuentitanrabaqueboasheatiiqui,jahueratoquijaconiqui,jainoashjahueratoquijaconmaiquiishon;jatonpapanjascaajatíbionanijoninbaquebobeboncarestiiqui.Tsonbirajahuenpapabetantitayocatamas'honbibaquebichintimaiqui,onanhanonshon,iamaas'hyometsoquin.Huetsabaonjascaaijoniboraaponaquintiiqui,bichincantimaaquin.</p>
+  </li>
+  <li>
+    <p>Huestiorahuestioraboraitiiquijatonmaiiboaabo;jainoashhuestíoratoninbichoiboaabijahuequescamabiiqui,jainoashichashoniboatijahuequescamaribiiqui.</p>
+    <p>Tsonbirahuetsajoniniboaajahuéquibichintimaiqui,yancabires,jahuejahuequicopimabi.</p>
+  </li>
+  <li>
+    <p>Huestiorahuestioraborajahuequescamabiiqui,jahueratoquijanshinanaiconiquiishonshinanshonjoiiconhati.JainoashjahuenqueenaquescaashonmescóashonDiosrabiti.Jainshonjaniconhaijoijeneshon,huetsajoijaiconjisáiquetianshinanshonjajoichibanarajahuequescamabjiqui.Janbichoshonbiiamaashichashoninonbijaniconhaijoihuetsaboonámatirajahuequescamabjiqui.Jatoraonanmatiatipanqueasheaquin,jainshonjahuenicátonin,jainshonjascaashonrabiaitonin,jainoashjajoichibanaiicáshjascaraitíishonquin.</p>
+  </li>
+  <li>
+    <p>Huestiorahuestioraborajatonshinanabobiribiyoyoitíjahuequescamabiiqui,jainoashjanshinanaquescábobiribíjatoyoíti.Tsonbirahuetsabojatonshinanabiribiyoyoicaitianjaconmaanrestirnaiqui.Jainoashhuetsabaonshinanajoiboonantíjainoashshibihuetsabaonjatonshinananbihuishacana,jascaraboonancantirajahuequescamabiiqui.Jainshonjahuenshinanajoibojatíbiainjatoasheatirajahuequescamabjiqui,jahuequescaaquinquijatoas'heacasai,jascaashonjatoati.Jainoashhuishacanribi,shinamanbijatoyoianan,radiomeran,jainoashhuetsajahuéquininbiresinonbijatoasheati,jahuequescamabiiqui.</p>
+  </li>
+  <li>
+    <p>Jatíbíjoniborahuetsanconiashbiresjainoashhuetsabobetanbiresjatonqueenaatishinanoshtsinquítijahuequescamabiiqui.Jainoashshibihuetsabobetanrabéshonjahuéquiatirajahuequescamabjiqui;icashbirajatsinquíshonjaconmamistipicocanaincoresaitimaiqui.</p>
+    <p>Tsonbirahuetsabobiresteashonjatobetanrabétiimatimaiqui,queenyamacanaitian</p>
+  </li>
+  <li>
+    <p>Huestiorahuestioraborajahuequescamabíiquijatonmaimeashcoshijiquití.Itiraatipanqueichashonapoimacana,iamaashjabiribiponteshonimacana.Jainoashhuetsabobetanjatoncoshicatótirajahuequescamabiiqui.</p>
+    <p>Huetsabaonbiresatijahuéqui,jonibaonjatonjemanicáarestirajahuequescamabíiqui;nescaraincobo,caritiranniti,plasainyacáti,caronpasianicati,jainoashhuetsaquescajahuéquibiresatiinonbiatirajahuequescamabiiqui.</p>
+    <p>Jatonqueenaquescáshamanhaquincoshiboishonjanjatoashontijonicatócantirajahuequescamabiiqui.Jamoaaniisenenajoniboresaitijahuequescamabiiqui,jainshonjonibocoshiimanoshoncatótiainjiquishon,jahueratojoniquijahuencoshiitinqueenaiishonjonéshocoyoiti.Jahuetianbirahuetsaboteashonjacoshiitijonibojatocatómatimaiqui;jatonqueenmanbiribiraatiiquijaimaticatóquin.Jahueratojoniquiichashonjacatócanaiqui,jajoniraitiiquicoshijiquii,jatíshonbiimacana.</p>
+  </li>
+  <li>
+    <p>Jatíbijonijahuéquiomaitinraquétimarajahuequescamabiiqui.Huestíoramainmeajonibaonrajamaimeajoniboonitsapitaitianaquinyamatimaiqui,jascaashonjonicoshibaonaquintiyoiaiquescaashon.Jainshonribirahuetsamaimeabaonaquintiiqui,huetsamainconiaboonitsapitaitian,jainoabaonbiaquinabimashcárescanquetian.Jonibaonrahuetsaboaquintíiqui,jahuéquininmashcácanaincobo.Jainshonnbiraaquincantiiquijatonteebenati,jatonbinis'hteetashjacannonishon;jainoas'hjascatashjatibenshocaacanonishonnbi.</p>
+  </li>
+  <li>
+    <p>Jatíbijoníteetirajahuequescamabiiqui,jainshonjatonqueenateebenatiribi.Jainoashshibijaconashteetíainteetira,jahuequescamabiiqui,jainoashqueenashteenoshonbenashonnocotira,jahuequescamabiiqui.</p>
+    <p>Jatíbijoninrajateebiresaquinhuetsanbiaitiiribicopíbitíjahuequescamabiiqui.Jahuetianbirajatoteemashonrnescóaquinjatocopíatimaiqui,jahuejahuéquicopíbi,huetsaresibijoniinonbi,ainboinonbi;jainoashhuetsajahuéquicopíbiatimaiqui,jatojascaaquin.</p>
+    <p>Jatíbiteetaijoninjahuencopísenenbitirajahuequescamabiiqui;janjahuenahuinbetanbaquebojahuéquiamati;jahuenbimashcáyamanonishon.Jahuetianquijaconmajahuéquihuinotaijaquichipóti;jainoashjahuetianquihuestiorajahuéquijanmas'hcáyoraaacasabijahuencopíbiabisenenyamai,jascaraboraaponeséainyoiaiquescaaquinaquintiiqui.</p>
+    <p>HuestiorahuestioraborajahuequescamabiiquijatonSindicátoacanti(Sindicáto-ichaashrabécanajahuéquianosh)iamaashhuetsabobetanrabetairesjatonteejaconinonicásh,itirajahuequescamabirib(iqui.</p>
+  </li>
+  <li>
+    <p>Jatíbijonirabasíteetashtantitíjahuequescamabiiqui,jahuenteejenepariash.Jainshonribirajatoneteshehuinmaquinteematimaiqui,netetiibi.Jainshonrajahuetiobasichaamoateemashontantimatijahuequescamabiiqui;ishonbijateeyamainetenhuetsatianbocopíatiiqui.</p>
+  </li>
+  <li>
+    <p>Jatíbijonirajahuequescamabiiqui,janjatiataniiti,janjahuenyorabijainoas'hjahuenahuinbetanjahuenbaqueboisinaitianraomeematisenen;janpitibitisenen;chopabiti;jashoboatisenen;benshoamisboraonmashonjancopíatisenen;jainoashhuetsajahuéquiboribiatisenen.Jainshonribiraaquintiiquijateeomabo,isinaibo,jahuenyoraiticomacopíteeyamaibo,benomaatabo,yosishocobobetanyoshanshocobo;jainoashjaconmajahuéquijahuenshinanamainhuinotas'hjanjahuéatiyamaquetianribiaquintiiqui.</p>
+    <p>Titaboyajahuenbaquebojahuéquininmashcáyoracanquetianraaquincantiiqui.Jatiibibaqueborajahuéquininaquincantiiqui,jamashcáyoraabobicho,huetsaquescajonibiresinonbi.Jahuenpapaonantimabaquejainshonpapayabaqueinonbiraaquincantiiqui.</p>
+  </li>
+  <li>
+    <p>Jahuequescamabiriquijatíbijoniquiricaninasheti.Jainoashquiricaaquinprimariasenenhatiraitiiqui,copímabiati.Jainoashprimariainquiricasenenhatirateashonbaqueboamatiiqui.Jahueratoescuelancoquijatoteemeninoshonquiricaonanmai,jatíbirajatosenenbiresonanmatiiqui,huetsaquescajoniboinonbi.Jatíbíjonirahuetsajonibaonacaiquescaaribaquínquiricaonantíjahuequesmabiiqui,jabebonbiresonantiribí.</p>
+    <p>Jarequempariescuelancoshonjatoonanmatíriqui,jascatas'hbenshocaatashjati.Jainshonrajatoonanmaribatiiqui,jahueratoborinjahuestíorabaonatijahuéquijahuequescamabíishon.Jatianjonibojacantiiqui,jaasheacanaquescatiribí.Jainshonñbirajatoasheatiiquijatíbiainoajonibo,huetsabobiresinonbi,jatoibacaquetianjatobirestiaquin.Jainoas'hnoibamissibiicánonishon,huetsanconíajoniinonbijatobetanraenanantíiquí;huetsaresibijoniboinonbí,huetsaresibiashonDiosrabiaiboiquenbi,jatojaconhaantiiquí.JainshonrajatoasheanbatiiquiescuelancoshonjaNacionesUnidasninesébo,jaeséiqui,jascatas'hjaconanashjatiyoiaiesébo.</p>
+    <p>Jahuequescaescuelainonbipapabaoncatóshonjatonqueenaescuelancojahuenbaqueboimatirajahuequescamabiiqui.</p>
+  </li>
+  <li>
+    <p>Huestiorahuestioraborajahuequescamabiiquí,jahuenjemancos'honjatíbíjahuéquiacasquinaresti,natopishtaati,tsinitipicoti,ransatíati,iamashhuetsajahuéquiboaresti,jainoashhuetsabaonacaincoqueenashitíjanbenetiacaincobo;jascaraborajahuequescamabjiqui.Jainoas'hjascaaribiiquijahuéquiashenoshonescuelancoshononantinatoquenéati,dibújantí,behuaasheti,jainoashmescójahuequibo;joninjahuenshinananbiacáasheti,jainoashjoninshinamanacátoninjayátiribi.</p>
+    <p>Huestiorahuestíorabaonrajahuenquiricahuishaacoirantijahuequescamabiiqui,huetsabaonyocatamashonbijanacáquescaribiaquinhuishashonjanbiacáyoinaquetian,iamaas'hjahuéquiacáoinnashnoconariquiinaquetian.</p>
+  </li>
+  <li>
+    <p>Jaratiiquinonaponesépicoajatíbiain,jajonibaonarestishinan,natoHuishacanyoiaibomeranicáatijahuequescamabiinonishon.</p>
+  </li>
+  <li>
+    <p>Jatíbijonirajatonjasenenhatiabiresiqui,jatonjemanconiash.Jascarajatonjasenenhatisenenhaira,jainshonjatoarestishinansenenhairaicantiiqui,moaquiquinajoni.</p>
+    <p>Jatonarestishinanjahuequescamabianosh,jainoashtsonbijahueayamatiinoshonra,jonibojatonmainmeaaponeséquicoshitiiqui.Jaeséraitiiqui,tsoajoninbihuetsabaonarestishinanjahuenabichoacasquinmasaatimaesé.Jainoashjaeséraitiiquihuetsabaonjatíbijonibojaconmaquinacaitiancoirantiesé,jatojascaayamanonishon.Jainoashhuetsabaonaiquenbijatíribibaonjaconmaannaquetian,iamashjatonmainshoniboaajahuéquibohuetsabaonjatojaconmaanresnaquetian;jascarabojatoaquinti.</p>
+    <p>Quiquinshamanatimajahuéquiriqui,jatíbijahuéquiarestijahuequescamabíiquenbi,jaNacionesUnidasninshinanamaquescáatí,jaesémeranyoíaiquescásenenhashontíma.</p>
+  </li>
+  <li>
+    <p>Tsoajoninbirashinantimaiqui,iamaashhuetsamainmeajoninbiraatimaiquishinanquin,natoHuishámeranicáesecanrayoiai,huetsabaonarestishinanmasaantijatonabichoacasquin,ishon,jahuetianbirajascaaquinshinancantimaiqui.</p>
+  </li>
+</ol>

@@ -1,0 +1,123 @@
+<h1 align='center'>Declaración Universalde los Drechos Humanos</h1>
+<h2 align='center'>Considerances previes</h2>
+<p align='center'>Visto que la llibertá, la xusticia y la paz en mundu sofítense na reconocencia de la dignidá intrínseca y de los drechos iguales y inayenables de tolos miembros que formen la familia humana;
+Visto que desconocer o facer de menos los drechos humanos foi la causa d'actos xabaces y dañibles pa la conciencia de la humanidá, y que se proclamó, comu aspiración cimera del home, el llogru d'un mundu onde los seres humanos, llibres del mieu y de la llaceria, gocen de la llibertá de palabra y de la llibertá de creyencies;
+Visto que ye esencial un réxime de Drechu que protexa los drechos humanos, p'asina nun se ver emburriáu l'home al recursu caberu de rebelase escontra de la tiranía y de la opresión;
+Visto que ye tamién esencial promover l'afitamientu de rellaciones amistoses ente les naciones;
+Visto que los pueblos dexaron llantáu na Carta de les Naciones Xuníes el so enfotu nos drechos fundamentales del home, na dignidá y nel valor de la persona humana y na igualdá de drechos d'homes y muyeres, amosando la clara intención de promover el progresu social y de facer espoxigar el nivel de vida según un conceutu más ampliu de la llibertá;
+Visto que los Estaos Miembros comprometiéronse a asegurar, en comuña cola Organización de les Naciones Xuníes, el respetu universal y efeutivu a los drechos y llibertaes fundamentales del home; y
+Considerando qu'una conceición común d'estos drechos y llibertaes ye bramente importante a fin de percumplir el dichu compromisu;
+EL CONCEYU XENERAL
+Proclama
+ESTA DECLARACIÓN UNIVERSAL DE LOS DRECHOS HUMANOS comu ideal común pol qu'han puxar tolos pueblos y naciones, al envís de que, lo mesmo los individuos que les instituciones, inspirándose de contino nella, promueva, por aciu de la enseñanza y la educación, el respetu a estos drechos y llibertaes, y afite, con midíes progresives de calter nacional y internacional, la so reconocencia y aplicación universales y efeutives, tanto ente los pueblos de los Estaos Miembros comu ente los de los territorios allugaos baxo la so xurisdicción.</p>
+<ol>
+  <li>
+    <p>Tolossereshumanosnacenllibresyigualesendignidáydrechosy,polamordelarazónylaconcienciadeso,hancomportasehermaniblementelosunoscolosotros.</p>
+  </li>
+  <li>
+    <p>ToapersonagozadetolosdrechosyllibertaesafitaesnestaDeclaración,ensinestremamientunengúnderaza,decolor,desexu,dellingua,derelixón,d'opiniónpolíticaodecualesquierotramena,d'orixenacionalosocial,deposicióneconómica,denacenciaodecualesquierotracondición.D'otramiente,tampocununsefadráestremamientunengúnbasáunacondiciónpolítica,xurídicaointernacionaldelpaísoterritoriudelaxurisdiccióndelaquedependaunapersona,lomesmoseyapaísindependienteoterritoriubaxotutelaalministrativa,nonautónomuosometíuacualesquierllendenasosoberanía.</p>
+  </li>
+  <li>
+    <p>Touindividuutiendrechualavida,alallibertáyalaseguridádelasopersona.</p>
+  </li>
+  <li>
+    <p>Naidenunserásometíuaesclavismuninaservidume;l'esclavismuyelcomerciud'esclavosprohíbenseentolessosformes.</p>
+  </li>
+  <li>
+    <p>Naidenunserásometíuatorturesninapenesotratoscrueles,inhumanosodegradantes.</p>
+  </li>
+  <li>
+    <p>Touserhumanutiendrechu,entolosllugares,aquese-yreconozalasopersonalidáxurídica.</p>
+  </li>
+  <li>
+    <p>Toossonigualesantelalleiytienendrechuaquelalleilosprotexadelamesmamanerayensinfacerestremamientos.Toostienendrechuaprotexeseescontratoadiscriminaciónqu'infrinxaestaDeclaraciónyescontratoaprovocaciónempobinadaaunadiscriminacióntala.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendrechuaunrecursuefeutivuantelostribunalesnacionalescompetentes,quelaampareescontrad'actosqueviolenlosdrechosfundamentalesquelaconstituciónolallei-yreconoz.</p>
+  </li>
+  <li>
+    <p>Naidenunpodráserdeteníu,presuninalloñáudelasotierrademouarbitrariu.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendrechu,encondicionesdafechamenteiguales,aqu'untribunalindependienteyimparciallaatiendapúblicamenteyconxusticia,alenvísdetomardetermínsobrelossosdrechosyobligaciones,osobrecualesquieracusaciónquese-yfaigaescontraenmateriapenal.</p>
+  </li>
+  <li>
+    <p>Toapersonaalaqu'acusend'undelitutiendrechuaquese-ysupongalainocenciamientresnunse-ypruebelaculpabilidá,acordiescolalleiyenxuiciupúblicuus'asegurentolesgarantíesnecesariespelesquesedefender.</p>
+    <p>Naidenunserácondenáuporaicionesoomisionesque,acordiescolDrechunacionalointernacional,nunyerendelictivesdelaquesecometieron.Tampocununs'impondráunapenamásgravequelaqueyerad'aplicarnelmomentudeque'ldelitusecometiere.</p>
+  </li>
+  <li>
+    <p>Naidenunseráoxetud'entrometimientosartibrariosnasovidaprivada,nasofamilia,nelsodomiciliuonasocorrespondencia,nind'ataquesalsohonoroalasobonnome.Toapersonatiendrechuaprotexesepelalleiescontrad'entrometimientosoataquestalos.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendrechuatreslladasellibrementepelterritoriud'unEstáuyaescoyerlasoresidenciadientrud'él.</p>
+    <p>Toapersonatiendrechuasalirdecualesquierpaís,mesmamentedelpropiu,yavolverotravegada.</p>
+  </li>
+  <li>
+    <p>Encasudepersecución,toapersonatiendrechuabuscarasiluyadisfrutard'élencualesquierpaís.</p>
+    <p>Estidrechununpodráinvocasesiellosefaialaescontrad'unaaiciónxudicialorixinadadaveresnundelitucomúnonunfechucontrariualosoxetivosyprincipiosdelesNacionesXuníes.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendrechuaunanacionalidá.</p>
+    <p>Anaidese-yquitaráarbitrariamentelasonacionalidánineldrechuacamudala.</p>
+  </li>
+  <li>
+    <p>Loshomesylesmuyeres,desques'atopenn'edádecasase,tienendrechu,ensinrestricciónnengunapormotivuderaza,nacionalidáorelixón,aaxuntaseencasamientuyfundarunafamilia,disfrutandod'igualesdrechosnoreferentealmatrimoniu,demientreselmatrimoniuyencasudexebramientudelmatrimoniu.</p>
+    <p>Laxuntanzamatrimonialnamáipodrárealizasesiyecolconsentimientullibreyplenudelosfuturosesposos.</p>
+    <p>Lafamiliayel'elementunaturalyelsofitufonderudelasociedá,ytiendrechualaproteicióndelasociedáydelEstáu.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendrechualapropiedá,deformaindividualyencomuña.</p>
+    <p>Anaidese-yquitaráarbitrariamentelasopropiedá.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendrechualallibertádepensamientu,deconcienciayderelixón,algamandoestidrechulallibertádecamudarderelixónodecreyencia,ytamiénlallibertád'amosarlasorelixónolasocreyencia,deformaindividualyencomuña,lomesmoenpúblicoqueprivadamente,yperaciudelaenseñanza,lapráutica,elcultuyelcumplimientudelospreceutos.</p>
+  </li>
+  <li>
+    <p>Touindividuutiendrechualallibertád'opiniónyd'espresión,loquellevadarréununpone-yanaideestorbisespolamordelessosopiniones,ytamiéndrechuadirencatad'informacionesyd'opiniones,lomesmoqu'aespardelespercualesquiermediud'espresiónyensinllendesdefronteres.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendrechualallibertád'aconceyaseyd'asociasepacíficamente.</p>
+    <p>Anaidenunse-ypodráobligaraperteneceraunaasociación.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendrechuaparticiparnelgobiernudelsopaís,demaneradireutaoperentemediesderepresentantesescoyíosllibremente.</p>
+    <p>Toapersonatiendrechud'algamar,encondicionesd'igualdá,lesfuncionespúbliquesdelsopaís.</p>
+    <p>Lavoluntádelpuebluyel'encontuondes'apoyal'autoridádelpoderpúblicu;estavoluntáhabráespresasen'eleicionesverdaderescelebraesperiódicamente,persufraxuuniversal,igualypervotusecretuootruprocedimientuasemeyáuquegaranticelallibertádelvotu.</p>
+  </li>
+  <li>
+    <p>Toapersona,desqueyemiembrudelasociedá,tiendrechualaseguridásocialyallograr,graciesalesfuerzunacionalyalacollaboracióninternacional,yacordiescolaorganizaciónylosrecursosdecadaEstáu,quese-ysatisfaiganlossosdrechoseconómicos,socialesyculturales,indispensablespalasodignidáypaldesendolcullibredelasopersonalidá.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendrechualtrabayu,aescoyelullibremente,adisfrutardecondicionesequitativesyafayadicesnél,yalaproteiciónescontra'ldesemplegu.</p>
+    <p>Toapersonatiendrechu,ensindiscriminaciónnenguna,aigualsalariuportrabayuigual.</p>
+    <p>Toapersonaquetrabayatiendrechuaunaremuneraciónequitativaysatisfactoria,que-yasegure,xuntocolasofamilia,unaesistenciaacordiescoladignidáhumana,alaquese-ypuedaamestar,sifixerefalta,cualesquierotrumediudeproteiciónsocial.</p>
+    <p>Toapersonatiendrechuafundarsindicatosyasindicasecoloxetudedefenderlossosintereses.</p>
+  </li>
+  <li>
+    <p>Toapersonanonsolotiendrechualdescansuyalafolganza,sinóntamiénaunaduraciónrazonabledeltiempudetrabayuyavacacionesperiódiquespagaes.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendrechuaunniveldevidaamañosuque-yasegure,xuntoalasofamilia,lasalúyelbienestar,sobremaneranoreferenteal'alimentación,alvistíu,alavivienda,al'asistenciamédicayalesayudessocialesnecesaries;d'otramiente,tiendrechualossegurosencasudedesemplegu,d'amalecimientu,d'invalidez,deviudedá,devieyezod'otroscasosdeperdadelosmediosdemantenciónporcircunstanciesayenesalasovoluntá.</p>
+    <p>Lesmasylosneñostienendrechuaasistenciayprocuruespeciales.Tolosneños,nacíosdientruofueradelmatrimoniu,tienendrechuaunamesmaproteiciónsocial.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendrechualaeducación.Laeducaciónhasergratuita,pelomenoslainstrucciónelementalyfundamental.Lainstrucciónelementalhaserobligatoria.Habráxeneralizaselainstruccióntécnicayprofesional,ynoreferentealosestudiossuperiores,elsollogrufadráseigualpatoosyd'acuerducolosméritosquecaúntenga.</p>
+    <p>Laeducaciónllantarácomuoxetivudesendolcardafechulapersonalidáhumanayafitarelrespetualosdrechoshumanosyalesllibertaesfundamentales,favoreciendolacomprensión,latoleranciayl'amistáentetolesnacionesytolosgruposétnicosorelixosos,yfaciendoespoxigarlesactividaesquelesNacionesXuníesentamenpalcaltenimientudelapaz.</p>
+    <p>Lospastendrándrechupreferenteaescoyerquémenad'educaciónhabrádáse-yosalosfíos.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendrechuaandecharllibrementenavidaculturaldelacomunidá,adisfrutardelesartesyaparticiparnelprogresucientíficuynosbeneficiosqued'élremanezan.</p>
+    <p>Toapersonatiendrechuaquese-yprotexanlosinteresesmoralesymaterialesque-ycorrespuendanpolesproduccionescientífiques,lliterariesoartístiquesdequeseyaautora.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendrechuaques'establezaunordesocialyinternacionalulosdrechosyllibertaesproclamaosnestaDeclaraciónaportenaserefeutivosdafechu.</p>
+  </li>
+  <li>
+    <p>Toapersonatiendeberespacolacomunidá,darréuqueyenamáinellaondepuedesencolcardafechuyllibrementelasopersonalidá.</p>
+    <p>Nelexerciciudelossosdrechosyneldisfrutudelessosllibertaes,toapersonahabrásometesenamáialesllendesmarcaespolalleicolúnicufind'asegurarlareconocenciayelrespetudelosdrechosyllibertaesdelosdemás,ydesatisfacerlexustesesixenciesdelamoral,delordepúblicuydelbienestarxeneralnunasociedádemocrática.</p>
+    <p>EstosdrechosyllibertaesnunpodránexerceseennengúncasuescontradelosoxetivosyprincipiosdelesNacionesXuníes.</p>
+  </li>
+  <li>
+    <p>NadadelapresenteDeclaraciónnunpodráinterpretasenelsend'atribuyi-yalEstáu,aungrupuoaunapersona'ldrechud'entamarydesendolcaractividaesorealizaraicionesempobinaesadesaniciarcualesquierdrechuollibertádelesquenestaDeclaraciónseproclamen.</p>
+  </li>
+</ol>

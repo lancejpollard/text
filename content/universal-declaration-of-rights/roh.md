@@ -1,0 +1,121 @@
+<h1 align='center'>Decleraziun universala dals drets umans</h1>
+<h2 align='center'>Preambul da la decleraziun</h2>
+<p align='center'>Considerond cha la recugnuschentscha da la dignità da tuot ils commembers da la famiglia umana e da lur drets eguals ed inalienabels fuorma il fundamaint da la libertà, da la güstia e da la pasch i’l muond;
+considerond cha la scugnuschentscha ed il spredsch dals drets umans han manà ad acts da barbaria chi offendan la conscienza da l’umanità e cha la creaziun d’ün muond, i’l qual ils umans han la libertà da discuorrer e da crajer, libers da terrur e miseria, es gnüda proclamada sco l’aspiraziun suprema da l’uman;
+considerond chi’d es essenzial da proteger ils drets umans cun ledschas, per cha l’uman nu saja sforzà d’applichar sco ultim mez la revolta cunter la tirannia e l’oppressiun;
+considerond chi’d es essenzial da promouver las relaziuns amicablas tanter las naziuns;
+considerond cha’ls pövels da las Naziuns Unidas han proclamà danouvmaing i’l statut lur cretta i’ls drets fundamentals da l’uman, illa dignità ed illa valur da la persuna umana, ill’egualità dals drets dad hom e duonna, e ch’els s’han declerats decis da promouver il progress social e d’instituir megldras cundiziuns da viver in üna libertà plü vasta;
+considerond cha’ls stadis commembers s’han obliats d’asgürar, in cooperaziun cull’Organisaziun da las Naziuns Unidas, il respet universal ed effectiv dals drets umans e da las libertads fundamentalas;
+considerond ch’üna concepziun cumünaivla da quists drets e da quistas libertads es d’importanza suprema per ademplir plainamaing quist ingaschamaint,
+proclamescha l’Assemblea generala la preschainta decleraziun universala dals drets umans sco ideal ch’id es da ragiundscher cumünaivelmaing da tuot ils pövels e da tuot las naziuns, per cha tuot ils umans e tuot ils organs da la società tegnan adüna preschainta quista decleraziun, ed as staintan da promouver ill’instrucziun ed ill’educaziun il respet da quists drets e da quistas libertads e da garantir a quels, cun masüras progressivas sün plan naziunal ed internaziunal, recugnuschentscha ed applicaziun universala ed effectiva, tant tanter las populaziuns dals stadis commembers svess sco tanter ils territoris suottamiss a lur giurisdicziun.</p>
+<ol>
+  <li>
+    <p>Tuotilsumansnaschanlibersedegualsindignitàedindrets.Elssundotatscunradschuneconscienzaedessanagirüninversl’oterinünspiertdafraternità.</p>
+  </li>
+  <li>
+    <p>MinchapersunapofarvalairtuotilsdretsetuotlaslibertadsproclamatsillaDecleraziunpreschaintasainzadistincziun,particularmaingdarazza,daculur,dagener,dareligiun,d’opiniunpoliticaootra,d’originnaziunalosocial,dapossess,danaschentschaod’otrascircunstanzas.Plünavantnuvainfattaingünadisctincziunfundadasülstatuspolitic,giuridicointernaziunaldalspajaisodalterritori,dalqualderivaünapersuna,chaquistpajaisoterritorisajaindependent,suottutela,na-autonomopürsuottamissadün’otralimitaziundalasuveranità.</p>
+  </li>
+  <li>
+    <p>Minchaumanhaildretdavita,dalibertàedasgürezzadalapersuna.</p>
+  </li>
+  <li>
+    <p>Ingünnudas-chagnirtgnüinsclavariaoinservitüd,lasclavariaedilcommerzidasclavssunscumandatsintuotlurfuormas.</p>
+  </li>
+  <li>
+    <p>Ingünnudas-chagnirsuottamissalatortura,neapainas,neatrattamaintscrudels,inumansodegradants.</p>
+  </li>
+  <li>
+    <p>Minchaumanhaildretdagnirrecugnuschüdapertuotscopersunalitàgiuridica.</p>
+  </li>
+  <li>
+    <p>TuotilsumanssunegualsdavantlaledschaedhansainzadistincziunildretdaprotecziunegualacuntertuottadiscriminaziunchiviolesslaDecleraziunpreschaintaecuntertuottaprovocaziuned’ünataladiscriminaziun.</p>
+  </li>
+  <li>
+    <p>Minchapersunahaildretdaprotecziunlegaladavantlasgiurisdicziunsnaziunalascumpetentascunteractschivioleschanilsdretsfundamentalsgarantitsillaconstituziunoillaledscha.</p>
+  </li>
+  <li>
+    <p>Ingünnuda-schagnirarrestà,detegnüoexiliàarbitrariamaing.</p>
+  </li>
+  <li>
+    <p>Minchapersunahaildret,incumplainaegualità,chaseiscasgniatrattàgüstamaingepublicamaingd’üntribunalindependentedimparzialchidecidadavartseisdretseseisobligsodavartlavaliditàdatuottaachüsapenaladrizzadacunterella.</p>
+  </li>
+  <li>
+    <p>Minchapersunaachüsadad’ünactpunibelesinnozaintafinalmumaintchasiacuolpaescumprovadalegalmainginünprocesspublic,ingiochatuotlasgaranziasnecessariaspersiadefaisatillasungnüdasasgüradas.</p>
+    <p>Ingünnuvaincundannàperacziunsoomissiunschinuvalaivanalmumaintchal’actpunibelesgnücommiss.</p>
+  </li>
+  <li>
+    <p>Ingünnudas-chadvantarl’objectd’intervenziunsarbitrariasinsiavitaprivata,siafamiglia,seisdomicilosiacorrespondenza,ned’attachascuntersiaonuresiareputaziun.Minchaumanhaildretdaprotecziunlegalacuntertalasintervernziunsotalasattachas.</p>
+  </li>
+  <li>
+    <p>Minchapersunahaildretdacircularlibramaingedatschernerseisdomicilal’internd’ünstadi.</p>
+    <p>Minchapersunahaildretdabandunarminchapajais,eirseisagen,edatuornarinseispajaias.</p>
+  </li>
+  <li>
+    <p>Incasdapersecuziunhaminchapersunaildretdatschercharasiledasurgnirasilinoterspajais.</p>
+    <p>Quistdretnupognirinvochàincasdapersecuziunpervidadelictsna-politicsopervid’acziunschicuntrafanalasmirasedalsprincipisdalasNaziunsUnidas.</p>
+  </li>
+  <li>
+    <p>Minchaumanhaildretd’ünanaziunalità.</p>
+    <p>Ingünnudas-chagnirprivàarbitrariamaingdasianaziunalitàodaldretdamüdarnaziunalità.</p>
+  </li>
+  <li>
+    <p>Homeduonnacunetàadequatahanildretdamaridaredafundarünafamigliasainzarestricziunsareguardlarazza,lanaziunalitàolareligiun.Elshanilsmedemsdretsareguardilmatrimoni,dürantilmatrimonieprosiadissoluziun.</p>
+    <p>Ilmatrimonipognirconclusunicamaingcunl’acconsientimaintliberecumplaindalsconjugalsfuturs.</p>
+    <p>Lafamigliaesl’elemaintnatüralefundamentaldalasocietàestognirprotettadalasocietàedalstadi.</p>
+  </li>
+  <li>
+    <p>Minchapersunahaildretd’avairünaproprietàaignaocumünaivlacunoters.</p>
+    <p>Ingünnudas-chagnirprivàarbitrariamaingdasiaproprietà.</p>
+  </li>
+  <li>
+    <p>Minchapersunaha,scocommembradalasocietà,ildretdasgürezzasociala;ellapoprentenderd’obtgnairilsdretseconomics,socialseculturalsindispensabelspersiadignitàeperilsvilupliberdasiapersunalità,quaitrassforzsinternsdalstadiscoeirillacooperaziuninternaziunala,resguardolndl’organisaziunelasresursasdaminchapajais.</p>
+  </li>
+  <li>
+    <p>Minchapersunahaildretelalibertàd’opiniuned’expressiun,quaichicumpigliaildretdanugnirmolestàpervidal’aignaoopiniunscoeirildretdatscherchar,retschaiver,derasar,sainzaresguardarcunfins,lasinfuormaziunselasideascuntuotilsmezsd’expressiun.</p>
+  </li>
+  <li>
+    <p>Minchapersunahaildretdalalibertàdareuniuned’associaziunpaschaivla.</p>
+    <p>Ingünnudas-chagnirobliàdafarpartd’ün’associaziun.</p>
+  </li>
+  <li>
+    <p>Minchapersunahaildretdaparteciparalguverndal’agenpajais,directamaingocunl’intermediaziundarapreschantantseletslibramaing.</p>
+    <p>Minchapersunaha,acundiziunsegualas,ildretd’accessalasfuncziunspublicasdaseisagenpajais.</p>
+    <p>Lavoluntàdalpövelesilfundamaintdal’autoritàdalaspussanzaspublicas,quistavountàdesss’exprimerinelecziunsperiodicasedonestascundretd’elecziungeneraledegualinvotaziunsecretaotenorünaproceduraequivalentachigarantischalalibertàdavuschar.</p>
+  </li>
+  <li>
+    <p>Minchapersunahascocommembradalasocietàildretdasgürezzasociala;ellapopretenderd’obtgnairilsdretseconomics,socialseculturalsindispensabelspersiadignitàeperilsvilupliberdasiapersunalità,quaitrassforzsinternsdalstadiedincooperaziuninternaziunala,resguardondl’organisaziunelasresursasdaminchapajais.</p>
+  </li>
+  <li>
+    <p>Minchapersunahaildretdalavur,dalalibratschernadasialavur,dacundziunsdalavurgüstasecunvgnaintasedalaprotecziuncunterdischoccupaziun.</p>
+    <p>Tuotshanildret,sainzadiscriminaziun,d’ünasalariegualperlavureguala.</p>
+    <p>Chichilavura,haildretd’ünaremuneraziungüstaecommensuradachiasgüraadeledasaifamigliaün’existenzacuonfuormaaladignitàumanaechivaincumplettada,schanecessari,cunotersmezsdaprotecziunsociala.</p>
+    <p>Minchapersunahaildretdafundarsindicatsinsembelcunotersedas’affiliarasindicatsperdefenderseisinteress.</p>
+  </li>
+  <li>
+    <p>Minchapersunahaildretdarepos,particularmaingd’ünalimitaziunradschunaivladaltempdalavur,edavacanzasperiodicaspajadas.</p>
+  </li>
+  <li>
+    <p>Minchaumanhaildretd’ünstandarddavitasufficziaintperasgürarlasandàedilbainesserdasaisvessedasiafamiglia.Quaipertoccaparticularmaingl’alimentaziun,labüschmainta,l’abitaziun,lachüramedicinalascoeirilssevezzanssocialsnecessaris.Elhaildretdasgürezzaincasdadischoccupaziun,damalatia,d’invalidità,daguaivdanza,davegldünaoinoterscasdaperditadamezssubsistenzialstrascircunstanzasindependentasdasiavoluntà.</p>
+    <p>Mammaeduffanthanildretd’agüded’assistenzaspeciala.Tuotilsuffants,ch’elssajannatsi’lmatrimoniodadourilmatrimoni,giodanlamedemaprotecziunsociala.</p>
+  </li>
+  <li>
+    <p>Minchapersunahaildretd’instrucziun.L’instrucziunstoessergratuita,almainquaichipertoccal’instrucziunelementaraefundamentala.L’instrucziunelementaraesobligatorica.L’instrucziuntecnicaeprofessiunalastoesseraccessiblaatuots;l’accessalsstüdissuperiursstoesserliberatuotsincumplainaegualitàtenorlurmerits.</p>
+    <p>l’instrucziunstoavairinmirailsvilupcumplaindalapersunalitàumanaerinforzarilrespetdalsdretsumansedalaslibertatdsfundamentalas.Elladesspromoverl’incletta,latoleranzael’amiciziatantertuotlasnaziunsetuotlasgruppasdarazzaodareligiun,scoeirsustgnairlasactivitadsdalasNaziunsUnidasafavurdalmantegnimaintdalapasch.</p>
+    <p>Ilsgenituorshan,cunpriorità,ildretdatschernerilgenerd’instrucziunperluruffants.</p>
+  </li>
+  <li>
+    <p>Minchaumanhaildretdatourpartlibramaingalavitaculturaladalacumünanza,dagiodairlasartsedaparticiparalprogressscientificedalsbenefizischiresultandaquel.</p>
+    <p>Minchaumanhaildretdaprotecziundalsinteressmoralsematerialsderivantsdatuottaproducziunscientifica,litteraraoartistica,dalaqualaelesl’autur.</p>
+  </li>
+  <li>
+    <p>Minchapersunahaildretchiregnai’lchompinternaziunalünuorden,i’lqualilsdretselaslibertadsmanzunadasillapreschaintaDecleraziunpossanragiundscherüneffetcumplain.</p>
+  </li>
+  <li>
+    <p>Minchaumanhadovairsinverslacumünanza,illaqualasulettaespussibelilsvilupliberecumplaindasiapersunalità.</p>
+    <p>Illarealisaziundalsdetsedalaslibertadsesminchaumansuottamissunicamaingalaslimitasstabilitastraslaledschapersgürarlarecugnuschentschaedilrespetdalsdretsedalaslibertadsdalsotersepersatisfaralasexigenzasdalamorala,dal’uordenpublicedalbainessergeneralinünasocietàdemocratica.</p>
+    <p>Quistsdretsequistaslibertadsnudas-chaninningüncasgnirrealisatscunterlasmirasedilsprincipisdalasNaziunsUnidas.</p>
+  </li>
+  <li>
+    <p>IngünadisposiziundalapreschaintaDecleraziunnudas-chagnirinterpretadauschèch’ünstadi,ünagruppaoünapersunahajaildretdasvilupparün’activitàod’accumplirünactchihainmiralaviolaziundalsdretsedalaslibertadsmanzunatsinquistaDecleraziun.</p>
+  </li>
+</ol>

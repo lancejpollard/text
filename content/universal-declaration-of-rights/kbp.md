@@ -1,0 +1,122 @@
+<h1 align='center'>KEDEŊGA KPEEKPE YƆƆ ƐYƱ WALA TƆM</h1>
+<h2 align='center'>KUBUUZUTU</h2>
+<p align='center'>Yee ɖitisaa se pʊmʊna ɛyaa se pɛwɛɛ kɩmaŋ wala ɛsɩndaa nɛ pɩkɛna wazaɣ pʊyʊ kɔyɔ, ɖitisaa ɖɔɖɔ se peeɖe ɛjaɖɛ yɔɔ tɩ-yɔɔ wɛʊ, toovonum nɛ lahɛzɩyɛ palɩɣna;
+Ɖɩnaa se ɛyʊ wala tɔm kɩɩsɩŋ nɛ tɩ-yɔɔ kɩɩɖɔŋ palabɩna nɛ kɩwɛɛkɩm tɔyɩ nɛ pɩcɛyɩɣ ɛyaa. Mbʊ pacaɣ se ɛjaɖɛ ɛlɛɣzɩ wɛtʊ, ɛyaa wɛɛ pa-tɩ yɔɔ, pɔyɔɔdʊʊ yem faaa nɛ pɩwɩlɩ se palɩ kʊñɔŋ taa, sɔɔndʊ ɛɛtasɩɣ-wɛ kpaʊ;
+Yee waɖɛ kewiyaɣ ɛkandayɩɣ ɛyʊ wala yɔɔ camɩyɛ kɔyɔ, wiɖiyi pɩɩkaɣ ɛyʊ ɛnʊ kɛnaʊ kɩjɛyʊʊ se ɛkʊyɩ kewiyaɣ ŋga kɔ-yɔɔ se kalakɩ-ɩ ñaŋ;
+Pʊwɛ camɩyɛ se pasɩna ajɛya, akpeeti nɛ ala taabalɩyɛ ɖʊʊ tʊmɩyɛ ɖeu nɛ puhuuna-yɛ;
+Ɖinaa se ajɛya kɩgbɛndʊʊ ŋgbɛyɛ paɣtʊ takayaɣ taa kɛ ɛyaa kpeekpe tasɩ tisuu ɛyʊ wala nɛ ɛ-wazaɣ pɔ-tɔm, nɛ pɔtɔ se abalaa nɛ halaa pɛwɛ kɩmaŋ wala ana a-ɛsɩndaa; mbʊ labɩna nɛ paka ñʊʊ se pekpeetiɣ samaɣ sɩnaʊ tʊmɩyɛ yɔɔ nɛ pɩsa pɛwɛɛ pa-tɩ yɔɔ camɩyɛ;
+Ajɛya kɩgbɛdʊʊ ŋgbɛyɛ taa ajɛya tisaa se alakɩ nɛ ɛyaa kpeekpe ña ɛyʊ wala, ɛlɛ pʊwɛɛ se ŋgbɛyɛ ɛɖʊ-yɛ nisi;
+Yee ɛyaa tɩŋgɛ ɩwɛna lɩmaɣzɩyɛ kʊɖʊmɖɩyɛ ɛyʊ wala nɛ ɛ-tɩ yɔɔ wɛʊ tɔm yɔɔ kɔyɔ, pɩsaŋ nɛ pala tʊmɩyɛ nɖɩ.
+MBƱ AJƐYA KIGBƐNDƱƱ ŊGBƐYƐ KEDIƔZAƔ SƆSƆƆ TƆM SE:
+KEDEŊGA KPEEKPE YƆƆ ƐYƱ WALA TƆM tʊnɛ tɩkɛ ajɛya wena kedeŋga kpeekpe yɔɔ ɛyʊ wala tɔm wɛ a-ñʊŋ taa yɔ a-lɩmaɣzɩyɛ; nɛ pɩsa acɛyɩ a-tɩ, akuli ŋgbɛyɛ ɖɩnɛ ɖa-ajɛya ɛyaa nɛ ajɛya lɛɛna ɛyaa ɛsɛ nɛ paña ɛyʊ wala nɛ ɛ-tɩ yɔɔ wɛʊ tɔm.</p>
+<ol>
+  <li>
+    <p>Palʊlʊʊɛyaaanɛpa-tɩyɔɔwɛʊkpaagbaanɛpɛwɛɛkɩmaŋwalaɛsɩndaa.Palʊlʊʊ-wɛnɛpɔ-lɔŋnɛpa-maɣzɩm;mbʊyekinanɛpɔsɔɔlɩɖamasepɛkɛɛyaapa-tɩŋgɛ.</p>
+  </li>
+  <li>
+    <p>Paaɛyʊweyi,ɛkɛkɩsɛm,kɩkpɛdʊ,kʊhʊlʊm,ñɩmdʊ,kɛdɛyaɣ,paaɛkɛcɔɔcɩŋgʊkɩ-taatʊ,ɛlaɣsɩɩnaa,ɛpɩzɩɣɛtɔsekedeŋgakpeekpeyɔɔɛyʊwalawenapɔyɔɔdɩa-tɔmcɩellnɛyɔ,akɛɖɔɖɔɛ-ñɩna.Mbʊɖɔɖɔpaaɛyʊɛlɩnale,ɛkɛɛjaɖɛnɖɩɖɩwɛɖɩ-tɩyɔɔyɔ,ɖɩfɛyɩɖɩ-tɩyɔɔyɔɖɩ-taatʊ,yaaɖɩ-poliitikiikɛŋgʊ,paapɩzɩɣpɔtɔseɛyʊwalatɔmtʊnɛtɩdataɣna-ɩ.</p>
+  </li>
+  <li>
+    <p>Paaanɩ,ɛwɛnawaɖɛseɛwɛɛnawezuu,ɛwɛɛɛ-tɩyɔɔnɛɛkandayɩɛ-tɩyɔɔ.</p>
+  </li>
+  <li>
+    <p>Pɩfɛyɩsenɔɔyʊɛwɛɛyomiyetaa;ɛlɛpadaaɖʊ-ɩɖɔɖɔkʊñɔŋ.Pekiziyomiyetɔm.</p>
+  </li>
+  <li>
+    <p>Pɩfɛyɩsepaɖʊnɔɔyʊkʊñɔŋ,pɛkpɛŋgɛsɩ-ɩ,yaapalabɩ-ɩmbʊpɩdamʊnasepalaɛyʊyɔ.</p>
+  </li>
+  <li>
+    <p>Paaanɩ,ɛwɛnawaɖɛsepaale,paya-ɩsecaaakele.</p>
+  </li>
+  <li>
+    <p>Ɛyaakpeekpewɛkɩmaŋpaɣtʊɛsɩndaanɛpɛwɛɛnawaɖɛɖɔɖɔsepaɣtʊɛkandayɩpɔ-yɔɔkɩmaŋ.Yeepalakɩ-wɛnabʊyʊnɛpɩfɛyɩɖeu,yaapɩɩɖɔŋpaɣtʊnʊmaʊta,pɩwɛɛɖɔɖɔsepakandayɩpɔ-yɔɔkɩmaŋ.</p>
+  </li>
+  <li>
+    <p>Paaanɩ,ɛwɛnawaɖɛsepacaɣ-ɩtɔmyaapomuluu-ifaŋŋŋwalawenapaɣtʊha-ɩyɔa-nʊmaʊtaa,ewoloeheyiɛjaɖɛtaatɔmhʊyaa.</p>
+  </li>
+  <li>
+    <p>Paapɩzɩɣpakpanɔɔyʊfaŋŋpaɖɩɣyaapɛkɛzɩ-ɩtɛtʊ.</p>
+  </li>
+  <li>
+    <p>Yeepakpaɛyʊnɔɔyʊseɛlabɩnabʊyʊ,ɛwɛnawaɖɛsepahʊʊɛ-tɔmfayɩɩnɛpana;tiɖeɣyaatɩsɩkɩ.</p>
+  </li>
+  <li>
+    <p>Ɛyʊweyipakpa-ɩnɛpadahʊdaɛ-tɔmyɔ,pɔcɔŋna-ɩseɛdɛwɛɛkɩpʊyʊ;a-aseɣɖetɩnaanɛɛ-yɔɔkandɩyaapasɩŋgɩɣɛ-wayɩ,pahʊʊɛ-tɔmfayɩɩɛzɩpaɣtʊpɔzʊʊyɔ,nɛpanatoovonum.</p>
+    <p>Paakpaɣɛyʊsɔnɔɖooombʊɛɛlabanɛpɩdaafɛyɩpaɣtʊtaayɔ,pʊ-yɔɔ;yeepʊ-wayɩpʊkɔmapɩlɩɩseɛɛlabɩmbʊyɔpɩkɛkɩwɛɛkɩm,nɛpʊpɔzʊʊsepɔhɔɛ-naŋgbaŋgʊʊkɔyɔ,paɣtʊkɩbɩndʊyɔɔpatɩŋgɩɣ.</p>
+  </li>
+  <li>
+    <p>Pɩfɛyɩɖeuseɛyʊnɔɔyʊɛɖʊɛ-nɔɔlɛlʊtɔmtaayemyem.</p>
+  </li>
+  <li>
+    <p>Paaanɩ,ɛwɛnawaɖɛseewolopaale,ɛcaɣɖenɖee-liuwɛɛyɔpaaɛjaɖenɖɩlɛɖɩ-taa.</p>
+    <p>Paaɛyʊweyi,ɛwɛnawaɖɛseɛkʊyɩɛjaɖɛnɖɩɛwɛɖɩ-taayɔ,paapɩkɛɛ-ñɩnɖɛ,nɛpɩmaɣ-ɩɖooyelɛ,ɛpɩsɩ.</p>
+  </li>
+  <li>
+    <p>Yeepalɩɛyʊnɔɔyʊwayɩɖolifaŋŋŋ,ɛwɛnawaɖɛsɛeñɩnɩkʊyʊʊɖʊɖʊyɛ.Ɛtalɩle,padaalɔ-ɩ.</p>
+    <p>Ɛlɛ,yeetoovonum,ɛwɛɛkɩnabʊyʊnɛpañɩnɩɣ-ɩsepakpa-ɩ,ɛfɛyɩnawaɖɛseɛɖʊkʊyʊʊɖoli.</p>
+  </li>
+  <li>
+    <p>Paaɛyʊweyi,ɛwɛnawaɖɛseɛyaaɛjaɖɛnaɖɩyɛseɛ-tɛ.</p>
+    <p>Pɩfɛyɩsepekizinanɔɔyɔseɛdaayaaɛ-ɛjaɖɛseɛ-tɛyaaɛdaalɛɣzɩtɛ.</p>
+  </li>
+  <li>
+    <p>Halɩbiyanɛabalɩbɩya,paapɛ-tɛle,palakɩcɔɔcɩŋgʊ,patalɩɣpe-ɖeɖelɛ,pɛwɛnawaɖɛsepawalɩ,pakpaɣhalaanɛpapɩsɩɖɩsɩnɛsɩ-tɩnaa.Pa-walawɛkɩmaŋhalɩkpaɣyɛɖeɖe;abalʊwɛnawaɖɛseekiziɛ-halʊnɛɛɖɔɔnɩ-ɩ;halʊñɛwɛnawaɖɛɖɔɖɔseekiziɛ-walʊnɛɛkʊɩɛ-yɔɔ.</p>
+    <p>Pɛlɔnɛevebu,petisiɣsepɔsɔɔlɩɖamanɛpʊcɔpalabɩ-wɛhalɩkpaɣyɛsɔnzɩ.Pɩfɛyɩpakpapa-taanɔɔyɔnɛɖoŋ.</p>
+    <p>Mɩzaɣkɛnasamaɣhoye;kɛwɛnawaɖɛsesamaɣnɛkewiyaɣpakandayɩkɔ-yɔɔ.</p>
+  </li>
+  <li>
+    <p>Ɛyʊpaaweyi,paaɛwɛe-ɖeke,paaɛwɛlalaahɛkʊdaa,ɛwɛnawaɖɛseɛwɛɛnañɩm.</p>
+    <p>Pɩfɛyɩɖeusepɛlɛɣnɔɔyʊɛ-ñɩmfaŋŋŋ.</p>
+  </li>
+  <li>
+    <p>Paaanɩ,ɛwɛnawaɖɛseelɩzɩɛ-lɩmaɣzafaaa,ɛtɩŋɛsɔtɔmnʊmaʊŋgʊɛsɔɔlaayɔ.Pʊ-tɔbʊʊsewaɖɛɖɩnɛɖiyekinanɛɛyʊpɩzɩeyeleɛsɔtɔmnʊmaʊnakʊyʊnɛɛtɩŋlɛɛkʊ,ɛpɩzɩɛwɩlɩɛsɔtɔmnʊmaʊŋgʊɛtɩŋgɩɣ-kʊyokʊ-tɔmlalaafaaa;paaɛwɛe-ɖekeyaaɛnɛlalaa,ɛpɩzɩɣɛlapʊ-tʊmɩyɛ.</p>
+  </li>
+  <li>
+    <p>Paaɛyʊweyi,ɛwɛnawaɖɛseɛyɔɔdɩfaaandʊɛmaɣzɩɣyɔ;pʊ-tɔbʊʊsesɔɔndʊɛdaakpaɛyʊnɔɔyʊseɛɛyɔɔdɩnatʊyʊnɛpalabɩ-ɩnabʊyʊ.Pʊ-tɔbʊʊɖɔɖɔseɛyʊwɛnawaɖɛseɛkɛdɩlalaandʊɛsɩma,ɛnaayaaɛnɩwayɔ.</p>
+  </li>
+  <li>
+    <p>Paaanɩ,ɛwɛnawaɖɛseewolokediɣzaɣnɛɛwɛɛnaŋgbɛyɛ.</p>
+    <p>Pɩfɛyɩsepakpanɔɔyʊnɛɖoŋseɛsʊʊŋgbɛyɛnaɖɩyɛtaa.</p>
+  </li>
+  <li>
+    <p>Paaɛyʊweyi,ɛwɛnawaɖɛseɛɖʊɛ-nɔɔɛ-ɛjaɖɛɖɔkʊʊtʊmɩyɛtɔmtaa.Ɛmaɣmaɣɛpɩzɩɣɛlalɩmaɣzayaaɛtɩŋnasamaɣlɩzɩɛyaambasepɔɖɔkɩɛjaɖɛyɔpɔ-yɔɔ.</p>
+    <p>Paaanɩ,ɛwɛnawaɖɛseɛlakewiyaɣtʊmɩyɛnaɖɩyɛ.</p>
+    <p>Samaɣsɔɔlɩmkɛnakewiyaɣɖoŋtigiɖe.Takayɩsɩɖʊzʊʊpanaɣnasamaɣsɔɔlɩmmbʊ.</p>
+  </li>
+  <li>
+    <p>Paaɛyʊweyi,ɛwɛnawaɖɛsesamaɣɛkandayɩɛ-yɔɔ.Kandayʊʊmbʊpiyekinanɛɛyʊwɛɛɛ-tɩyɔɔ,ɛhɛzɩñɩmnɛɛsɛkuliyepa-ñɩnʊʊnʊmaʊtaa.</p>
+  </li>
+  <li>
+    <p>Paaanɩ,ɛwɛnawaɖɛseehiɣtʊmɩyɛ,tʊmɩyɛnɖɩɛsɔɔlaayɔ,ɛlabɩ-ɖɩnɛmulumɛdaawɛɛ.</p>
+    <p>Ɛyaakpeekpewɛnawaɖɛse,palakɩtʊmɩyɛkʊɖʊmɖɩyɛkɔyɔ,pɛhɛyɩ-wɛkɩmaŋ,mulumɛdaawɛɛ.</p>
+    <p>Ɛyʊweuiɛlakɩtʊmɩyɛyɔ,pʊmʊnaasepɛhɛyɩ-ɩcamɩyɛ,pɩtalɩɛnɛɛ-mɩzaɣnɛpadaalakʊñɔŋsamaɣtaa.</p>
+    <p>Paaanɩ,ɛwɛnawaɖɛseɛnɛlalaapaɖʊŋgbɛyɛ;ɛ-ŋgbɛyɛɛkpɛndɩaŋgbalɛɛnayɔɔ,aŋgbaanaawɛɛɖoŋnɛakandayɩɛ-yɔɔ.</p>
+  </li>
+  <li>
+    <p>Paaanɩ,ɛwɛnawaɖɛseɛhɛzɩnɛɛcalasɩɛ-ɛsɛ,padaakɩlɩ-ɩnazʊʊtʊmɩyɛtaa;ɛwɛnawaɖɛɖɔɖɔsepaapɩnaɣŋga,paha-ɩfenaɣkʊɖʊmaɣ,ɛhɛzɩnɛpɛtɛpɛhɛyɩ-ɩke-liidiya.</p>
+  </li>
+  <li>
+    <p>Paaanɩ,ɛwɛnawaɖɛseɛwɛɛnañɩmnɛpɩwazɩɛnɛɛ-ñɩmbape-wezuucaɣʊtaa;ɛzɩtɔɔnaɣ,tɔɔla,ɖʊzʊyɛnɛkɔyɔ.Ɛwɛnawaɖɛseɛlakɩkʊñɔŋ,pɩwɩɣ-ɩ,ɛlabiɛjam,ɛpɩsɩɛɖanɛyaaleluu,ɛkpadayaa,palanabʊyʊnɛpasɩna-ɩ.</p>
+    <p>Asɔŋnɛpiyapʊmʊnaasepasɩnapɩŋŋŋ.</p>
+  </li>
+  <li>
+    <p>Paaɛyʊweyi,ɛwɛnawaɖɛsepokuliɛ-ɛsɛ.Pɩdamʊnasepɛhɛyɩkɔɔnɔɔsukuliyɔɔ.Pɩkɛnapaaanɩkɩjɛyʊʊseewolo-kʊ.Pʊwɛɛselɛɣtʊnɛtʊmakpasʊʊsukulipɔtɔyɩ.Pʊpɔzʊʊɖɔɖɔsepatʊlɩsukulikɩtɛzʊʊnɔnɔsɩpaaanɩ.</p>
+    <p>Ɛyʊwokisukuliseɛ-ɛsɛikuli,pɩwazɩ-ɩe-wezuucaɣʊtaa,pɩsɩna-ɩnɛɛñaɛyʊwala.Kɩsɩɣnaɛyaanɛpanɩɣnaɖama,pekpeɣuɖamapa-kɩwɛɛkɩm,paɖʊʊŋgbɛyɛ.Kɩsɩɣnaɖɔɖɔajɛyakɩgbɛndʊʊŋgbɛyɛtʊmawenaañɩnɩɣlaŋhɛzɩyɛyɔ.</p>
+    <p>Piyañɩmbawɛnawaɖɛsepalɩzɩsukuliŋgʊpɔsɔɔlasepepiyaiwobi-kʊyɔ.</p>
+  </li>
+  <li>
+    <p>Paaanɩ,ɛwɛnawaɖɛseɛɖʊnɔɔfaaaɛ-ɛjaɖɛsɔnzɩtɔmtaanɛmbʊpɩlɩɣpɩ-taayɔ,pɩwazɩ-ɩ.</p>
+    <p>Paaanɩɛwɛnawaɖɛseɛkandayɩmbʊɛlabanɛɛ-hɩɖɛsɛɛyɔpʊ-yɔɔ.</p>
+  </li>
+  <li>
+    <p>Paaanɩ,ɛwɛnawaɖɛseɛñaɣpananɛyɛɖɛyɛɖɛtʊɛdaawɛɛjaɖɛyɔɔ,ɛzɩpɔyɔɔdʊʊkedeŋgakpeekpeyɔɔɛyʊwalatɔmtakayaɣtaayɔ.</p>
+  </li>
+  <li>
+    <p>Paaanɩ,ɛtɩlɩɛsɩɩseɛwɛsamaɣŋgaka-taafɛɛɛnɛpɩkɛdɩɣna-ɩyɔ,ɛtɔɔ-kɛkɩmɩyɛ.</p>
+    <p>Paaɛyʊweyi,eɖiɣzinaseɛ-walañɩnʊʊnʊmaʊnɛɛ-tɩyɔɔwɛʊleleŋnɩʊpa-taalɛ,kamaɣwɛɛ;pɩfɛyɩseɛcɛzɩ-kɛ;paɣtʊɖʊna-kɛ.Mbʊyekinanɛɛyaañaŋɖamawala;mbʊhaɣnamʊmaʊɖɔɖɔsedemookrasiisamaɣtaaɛyaaɩnɩɩnaɖama.</p>
+    <p>Ɛyʊnɔɔyʊɛɛpɩzɩɣɛtɔseɛñaŋwalaananɛpʊdɔɖɔɛzɩajɛyakɩgbɛndʊʊŋgbɛyɛsɔɔlʊʊyɔ.</p>
+  </li>
+  <li>
+    <p>Kedeŋgakpeekpeyɔɔɛyʊwalatɔmtʊnɛ,tɩ-taatʊkpayɩkpayɩ.Ɛyʊnɔɔyʊfɛyɩɛtɔŋsehɔɔlʊʊkʊnɛ,yaaŋgʊyɔ,kʊtɔŋnasepadaañawalanaayɛɛjaɖɛɖɩnɛ,yaanɖɩyɔɖɩ-taa.</p>
+  </li>
+</ol>

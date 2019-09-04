@@ -1,0 +1,123 @@
+<h1 align='center'>Sigai Renquan Xuanyan</h1>
+<h2 align='center'>Qianyan</h2>
+<p align='center'>Jianyu dui renlui soyou cenyuan li guyou zunlian jie qi pinden li ho bwyi li quanli li cenren, laisi sigai ziyou, zenli yu hopin li jicu,
+Jianyu dui renquan li vusi ho vumie yi fazan wei yiman baoxin, zixi baoxin dianvu la renlui li liangxin, er yego renren xiangyou yanlun ho xinyang ziyou bin mianyu kongju ho kuifa li sigai li lailin, yi bei xuanbu wei putong renmin li zuigao yuanwang,
+Jianyu wei si renlui bwzi pae bw dae yi tin er zou xian dui baozen ho yapae jinxin fanpan, you bieyao si renquan sou fazi li baofu,
+Jianyu you bieyao cwjin go guae jian youhao guanxi li fazan,
+Jianyu go Lianho Guae guaejia li renmin yi zai Lianho Guae Xianzang zong congsen tamen dui jiben renquan, rengae zunlian ho jiaze yijie lanlü pinden quanli li xinlian, bin juexin cwcen jiaoda ziyou zong li sehui jinbu ho senho suipin li gaisan,
+Jianyu go cenyuan guae yeyi siyuan tong Lianho Guae hozo yi cwjin dui renquan ho jiben ziyou li pubian zunzong ho zunxin,
+Jianyu dui zixi quanli ho ziyou li pubian liaogai zuiyu zigo siyuan li congfen sexian juyou henda li zongyao xin,
+Yinci xianzai,
+Dahui,
+Fabu zi ye Sigai Renquan Xuanyan, zowei soyou renmin ho soyou guaejia nulie sexian li gongtong biaozun, yi qi mei ye go ren ho sehui jigou jincang minlian ben xuanyan, nulie tonggo jiaohui ho jiaoyue cwjin dui quanli ho ziyou li zunzong, bin tonggo guaejia li ho guaeji li jianjin cosi, si zixi quanli ho ziyou zai go huiyuan guae bensen renmin jie zai qi guanxia xia lintu li renmin zong daedao pubian ho youxiao li cenren ho zunxin;</p>
+<ol>
+  <li>
+    <p>Renrensenerziyou,zaizunlianhoquanlisangyeluepinden.Tamenfuyoulixinholiangxin,binyinyixiongdiguanxilijinsenxiangduidai.</p>
+  </li>
+  <li>
+    <p>Renrenyouzigaexiangyoubenxuanyansozailiyeqiequanlihoziyou,bwfenzongzw,fusae,xinbie,yuyan,zongjiao,zenzihuaeqitajiangai,guaejiehuaesehuicwsen,caican,cwsenhuaeqitasenfendenrenhoqubie.Binqibwdaeyiyerensoswliguaejiahuaelintulizenzili,xinzenlihuaezaiguaejilidiweizibwtongeryousoqubie,vulungailintusidwlielintu,toguanlintu,feizizilintuhuaezaicuyuqitarenhozuquansouxianziliqinkuangzixia.</p>
+  </li>
+  <li>
+    <p>Renrenyouquanxiangyousenmin,ziyouhorensennganquan.</p>
+  </li>
+  <li>
+    <p>Renhorenbwdaesiweiludihuaeluyi;yeqiexinsililudiziduholudimaimai,junyinyuyijinzi.</p>
+  </li>
+  <li>
+    <p>Renhorenbwdaejiayikuxin,huaesiyicanrenli,bwrendaolihuaevuruxinlidaiyuhuaexinfa.</p>
+  </li>
+  <li>
+    <p>Renrenzairenhodifangyouquanbeicenrenzaifalueqianlirengae.</p>
+  </li>
+  <li>
+    <p>Falueziqianrenrenpinden,binyouquanxiangsoufaluelipindenbaofu,bwsourenhoqisi.Renrenyouquanxiangsoupindenbaofu,yimiansouweifanbenxuanyanlirenhoqisixinweiyijiesandongzizongqisilirenhoxinweizihai.</p>
+  </li>
+  <li>
+    <p>Renhorendangxianfahuaefaluesofuyutalijibenquanlizaosouqinhaisi,youquanyouhogaeliguaejiafatinduizizongqinhaixinweizoyouxiaolibujiu.</p>
+  </li>
+  <li>
+    <p>Renhorenbwdaejiayirenyidaibu,jujinhuaefazw.</p>
+  </li>
+  <li>
+    <p>Renrenwanquanpindenliyouquanyouyegedwlieerwupianyilifatinjinxingongzenlihogongkailisenxun,yiqiodintaliquanlihoyiwubinpandinduitaticwlirenhoxinsizikong.</p>
+  </li>
+  <li>
+    <p>Fansouxinsikonggaozai,zaiweijinhodaebianfusangsoxuliyeqiebaozenligongkaisenpaneryifazenseqiyouzuiyiqian,youquanbeisiweivuzui.</p>
+    <p>Renhorenlixinweihuaebwxinwei,zaiqifasensiyiguaejiafahuaeguaejifajunbwgoucenxinsizuizai,bwdaebeipanweifanyouxinsizui.Xinfabwdaezongyufanzuisiseyonglifalueguidin.</p>
+  </li>
+  <li>
+    <p>Renhorenlisisenho,jiatin,zuzaehotongxinbwdaerenyigansae,taliyongyuhominyubwdaejiayigongjie.Renrenyouquanxiangsoufaluebaofu,yimiansouzizonggansaehuaegongjie.</p>
+  </li>
+  <li>
+    <p>Renrenzaigoguaejinluiyouquanziyouqianxiehojuzu.</p>
+    <p>Renrenyouquanlikairenhoguaejia,baokoqibenguaezailui,binyouquanfanhuitaliguaejia.</p>
+  </li>
+  <li>
+    <p>Renrenyouquanzaiqitaguaejiaxunqiuhoxiangsoubifuyibimianpaehai.</p>
+    <p>ZaizenzenyouyufeizenzixinlizuixinhuaeweibeiLianhoGuaelizongzihoyuanzaelixinweierbeiqisuliqinkuangxia,bwdaeyuanyongcizongquanli.</p>
+  </li>
+  <li>
+    <p>Renrenyouquanxiangyouguaejie.</p>
+    <p>Renhorenliguaejiebwdaerenyibodo,yibwdaefourenqigaibianguaejieliquanli.</p>
+  </li>
+  <li>
+    <p>Cenlianlanlü,bwsouzongzw,guaejiehuaezongjiaolirenhoxianziyouquanhunjiahocenliejiatin.Tamenzaihunyinfangmian,zaijiehunqijianhozaigaicuhunyosi,yinyoupindenliquanli.</p>
+    <p>Ziyoujinlanlüsuangfangliziyouhowanquanlitongyi,cailendihun.</p>
+    <p>Jiatinsitianranlihojibenlisehuidanyuan,binyinsousehuihojiatinlibaofu.</p>
+  </li>
+  <li>
+    <p>Renrendaeyoudandwlicaicansoyouquanyijietongtarenhoyoulisoyouquan.</p>
+    <p>Renhorenlicaicanbwdaerenyibodo.</p>
+  </li>
+  <li>
+    <p>Renrenyousixiang,liangxinhozongjiaoziyouliquanli;cixiangquanlibaokogaibiantalizongjiaohuaexinyangliziyou,yijiedandwhuaejieti,gongkaihuaemiemieliyijiaoyi,sejian,libaihogailuebiaositalizongjiaohuaexinyangliziyou.</p>
+  </li>
+  <li>
+    <p>Renrenyouquanxiangyouzuzanghofabiaoyijianliziyou;cixiangquanlibaokociyouzuzangerbwsougansaeliziyou,hotonggorenhomeigaihobwlunguaegaixunqiu,jiesouhocuandixiaoxiehosixiangliziyou.</p>
+  </li>
+  <li>
+    <p>Renrenyouquanxiangyouhopinjiehuihojieseliziyou.</p>
+    <p>Renhorenbwdaepaesidiswyumouyetuanti.</p>
+  </li>
+  <li>
+    <p>Renrenyouzejiehuaetonggoziyouxuanzaelidaibiaocanyuzilibenguaeliquanli.</p>
+    <p>Renrenyoupindenjihuicanjiabenguaegongvuliquanli.</p>
+    <p>Renminliyizisizenfuquanlielijicu;ziyeyiziyinyidinqilihozenzenlixuanjuyuyibiaoxian,erxuanjuyinyijupubianhopindenlitoupiaoquan,binyibwjimintoupiaohuaexiangdangliziyoutoupiaocenxujinxin.</p>
+  </li>
+  <li>
+    <p>Meigoren,zoweisehuiliyeyuan,youquanxiangsousehuibaozang,binyouquanxiangsoutaligorenzunlianhorengaeliziyoufazansobiexulijinji,sehuihowenhuafangmiangozongquanlilisexian,zizongsexiansitonggoguaejialuliehoguaejihozobinyizaogoguaelizuzehoziyuanqinkuang.</p>
+  </li>
+  <li>
+    <p>Renrenyouquangongzo,ziyouxuanzaezelie,xiangsougongzenhohoseligongzotiaojianbinxiangsoumianyuselielibaozang.</p>
+    <p>Renrenyoutonggongtongcouliquanli,bwsourenhoqisi.</p>
+    <p>Meiyegogongzoliren,youquanxiangsougongzenhohoselibaocou,baozensitabenrenhojiaswyouyegofwhorenlizunlianlisenhotiaojian,bieyaosibinfuyiqitafangsilisehuibaozang.</p>
+    <p>Renrenyouweiweifuqiliyeerzuzehocanjiagonghuiliquanli.</p>
+  </li>
+  <li>
+    <p>Renrenyouxiangyouxiuxiehoxianxialiquanli,baokogongzosijianyouholixianzihodinqigeixinxiujialiquanli.</p>
+  </li>
+  <li>
+    <p>Renrenyouquanxiangsouweicitabenrenhojiaswlijiankanghofwlisoxulisenhosuizun,baokosevw,yizo,zufang,yiliaohobieyaolisehuifwvu;zaizaodaoselie,jiebin,canfei,sougua,suailaohuaezaiqitabwlenkongziliqinkuangxiasangsemousenlenliesi,youquanxiangsoubaozang.</p>
+    <p>Muqinhoertongyouquanxiangsoutaebiezaoguhoxiezu.Yeqieertong,vulunhunsenhuaefeihunsen,douyinxiangsoutongyanglisehuibaofu.</p>
+  </li>
+  <li>
+    <p>Renrendouyousoujiaoyueliquanli,jiaoyueyindangmianfei,zisaozaicujiehojibengaiduanyinruci.Cujiejiaoyueyinswyivuxinze.Jiswhoziliejiaoyueyinpubiansaelie.Gaodenjiaoyueyingenjucenjieerduiyeqierenpindenkaifang.</p>
+    <p>Jiaoyuelimwdiezaiyucongfenfazanrenligoxinbinjiaqiangduirenquanhojibenziyoulizunzong.Jiaoyueyincwjingoguae,gozongzw,hogozongjiaojietuanjianliliaogai,yongrenhoyouli,binyincwjinLianhoGuaeweifuhopinligoxianghodong.</p>
+    <p>Fumuduiqizilüsouyinsoulijiaoyuelizonglui,youyouxianxuanzaeliquanli.</p>
+  </li>
+  <li>
+    <p>Renrenyouquanziyoucanjiasehuiliwenhuasenho,xiangsouyisw,binfenxiangkoxiojinbujieqicansenlifwli.</p>
+    <p>Renrenduiyouyutasocuangzolirenhokoxio,wenxiohuaemeiswzopinercansenlijinsenlihovwzeliliye,youxiangsoubaofuliquanli.</p>
+  </li>
+  <li>
+    <p>Renrenyouquanyaoqiuyezongsehuilihoguaejilizixu,zaizizongzixuzong,benxuanyansozailiquanlihoziyoulenhodaecongfensexian.</p>
+  </li>
+  <li>
+    <p>Renrenduisehuifuyouyivu,yinweiziyouzaisehuizongtaligoxincaikolendaedaoziyouhocongfenlifazan.</p>
+    <p>Renrenzaixinsitaliquanlihoziyousi,zisoufaluesoqiodinlixianzi,qiodincizongxianziliweiyemwdiezaiyubaozenduipangrenliqualihoziyougeiyuyinyoulicenrenhozunzong,binzaiyegominzulisehuizongseyindaodae,gonggongzixuhopubianfwlilizendangxuyao.</p>
+    <p>Zixiquanlihoziyoulixinsi,vulunzairenhoqinxinxiajunbwdaeweibeiLianhoGuaelizongzihoyuanzae.</p>
+  </li>
+  <li>
+    <p>Benxuanyanlirenhotiaowen,bwdaegaisiweimaexurenhoguaejia,jietuanhuaegorenyouquanjinxinzizaipohuaibenxuanyansozailirenhoquanlihoziyoulihodonghuaxinwei.</p>
+  </li>
+</ol>

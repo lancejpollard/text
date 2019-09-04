@@ -1,0 +1,122 @@
+<h1 align='center'>UNIVERSALIS DE JURE HOMINUM DECLARATIO</h1>
+<h2 align='center'>Praefatio</h2>
+<p align='center'>Cum dignitatis infixae omnibus humanae familiae partibus et eorum jurum aequalium, quae abalienari non possunt, agnitio constituat et in orbe terrarum libertatis et justitiae et pacis fundamentum,
+Cum hominis jurum mala cognitio contemptioque barbariae facta, quae humanitatis conscientiam ad rebellionem incitant, adduxerint, cumque mundi initium in quo homines, liberati a terrore et miseria, loquendi credendique libertatem habebunt, renuntiatum sit ut hominis altissima affectatio,
+Cum praecipuum sit hominum jura civitatis forma quae justa est tegi, ne homo cogatur, ultimo perfugio, ut rebellionem faciat in tyranniam oppressionemque,
+Cum praecipuum sit progressionem amicitiarum inter nationes incitari,
+Cum in Carta gentes Conjunctarum Nationum rursus pronuntiaverint suam fidem in juribus praecipuis hominum, in dignitate et virtute hominis, in aequabilitate jurum virorum et feminarum, et se dixerint prompti ad favendum progressui civili et ad gignendum meliores conditiones vitae in majore libertate,
+Cum sociae civitates pollicitae sint se affirmaturas esse verecundiam universam veramque jurum hominis et libertatum praecipuarum, temperatione Nationum Conjunctarum adjuvante,
+Cum quaedam communis conceptio horum jurum et libertatum gravissima sit, ut obligatio haec plane expleatur,
+Communis Conventus jurum hominis praesentem universalem Declarationem pronuntiat ut communis perfectus qui petatur ab omnibus populis et omnibus nationibus, ut societatis singuli homines et omnes partes, habentes hanc declarationem constanter in mente, institutione et educatione conantur ut horum jurum libertatumque respectus evolvatur, et firmentur ordinis nationalis et internationalis consiliorum incessu gratia et universalis veraque admotio tam in ipsarum sociarum civitatum populationibus quam in finium populationibus quae eorum jurisdictioni subactae sunt.
+Universalis de hominis juribus declaratio</p>
+<ol>
+  <li>
+    <p>Omneshominesliberiaequiquedignitateatquejuribusnascuntur.Rationeconscientiaquepraeditisuntetaliiergaalioscumfraternitatesegereredebent.</p>
+  </li>
+  <li>
+    <p>Quisquepotestsibiassumerelibertatesomnesomnesquejuresinhacdeclarationepronuntiatos,sineulladistinctionegentis,coloris,sexus,linguae,religionis,politicaesententiaeautomnisgenerissententiae,nationisoriginisautcivitatis,divitiarumautortusautomnisgenerissitus.Praetereafieturnulladistinctioconditaincivilidecreto,juridicoautinternationaligentisautfiniumcujusestaliquis,sivegensautfinesliberisunt,sivesubtutella,sivenonsuaepotestatissivesubactiterminoaliquosuiimperii.</p>
+  </li>
+  <li>
+    <p>Quisquejushabetvivere,liberesseetintutovivere.</p>
+  </li>
+  <li>
+    <p>Nemoservitudinetenebitur.Omnesservitudinesomnibusmodisprohibentur.</p>
+  </li>
+  <li>
+    <p>Nulluscruciabiturnequepoenisnectractationibus,quaehumanaesunt,objicietur.</p>
+  </li>
+  <li>
+    <p>Quisquejushabetsuamjuridicampersonaminomnibuslocisaccipi.</p>
+  </li>
+  <li>
+    <p>Omnesantelegemaequisuntetsineulladistinctionejushabentaequumpraesidiumlegishabere.OmnesjushabentpraesidioaequocontraomnemdiscrimenquihancDeclarationemvioletetcontraomnemincitationemadtalemdiscrimen.</p>
+  </li>
+  <li>
+    <p>Omnisjushabetrecurrereproidoneojudicegentiscontrafactaviolantiajuressuffundatosquaesibirecognescunturaconstitutioneautlege.</p>
+  </li>
+  <li>
+    <p>Nullusexlibidineapprehendiinvinculisesse,exsularipotest.</p>
+  </li>
+  <li>
+    <p>Omnesjushabentintotaaequitatesuamcausamrecteetpubliceajudicibusliberisaequabilibusqueaudiri,quistatuuntveldejuribusobligationibusque,veldeveritateomniscriminiscontrase.</p>
+  </li>
+  <li>
+    <p>Quisquisaccusatusdelictoinnocensestdumnoxasuajurestatuataestpublicojudicioubiobsidesomnesnecessariaeadsedefendendumaffirmataeerunt.</p>
+    <p>Nemodamnabiturpropteractavelpraetermissionesquae,cumcommitatasunt,nonconstituebantdelictumexjuresuaegentisveluniversarumgentium.Itemnullagraviorculpairrogabiturquamillaquaeapplicaripotuitcumdelictumfactumest.</p>
+  </li>
+  <li>
+    <p>Nemopatibiturintercessionesabarbitrioinrebusprivatis,infamilia,domoautinepistularumconsuetudine,necictuscontrahonoremfamamque.Omnisjushabetlegeprotegicontratalesintercessionesauttaliavulnera.</p>
+  </li>
+  <li>
+    <p>Quisquejushabetlibenteriterfacereetincivitatesuamdomumeligere.</p>
+    <p>Omnisjushabetexomnietsuapatriaabireetinsuampatriamredire.</p>
+  </li>
+  <li>
+    <p>Invexationeomnisjushabetperfugiumquaerereetperfugiumabaliisregionibusimpetrare.</p>
+    <p>HocjusnoninvocaripotestincasuactionumvereconstitutarumincommunisjurisscelereautinfactisadversusmetasprincipiaqueConjunctarumNationum.</p>
+  </li>
+  <li>
+    <p>Omnisjushabetnationisesse.</p>
+    <p>Nemoexlibidineasuagenteprivaripotestnequegentismutandaeajureprivari.</p>
+  </li>
+  <li>
+    <p>Exmatrimoniosejugendiaetate,virmulierquejushabent,nullogenere,nullagenteautreligioneidnequaquamimpediente,matrimoniosejungereetfamiliamconstituere.Juraequaliahabentpromatrimonio,permatrimoniumetperdivortium.</p>
+    <p>Matrimoniumconficinonpotestsineconjugumplenoliberoqueconsensu.</p>
+    <p>Familiasocietatisnaturalepraecipuumqueelementumestetjushabetasocietateetreipublicamuniri.</p>
+  </li>
+  <li>
+    <p>Omnis,velsolusvelconjucte,mancipiijushabet.</p>
+    <p>Nemopotestabarbitrioamancipioprivatusesse.</p>
+  </li>
+  <li>
+    <p>Omnisjussentientae,conscientiaereligionisquelibertatihabet.Hocjusreligionemautconscientiammutandilibertatematquelibertatemreligionemautfidemsolamautcommunemmanifestamfaciendiimplicat,tampublicequamprivate,doctrina,religionibus,sacrisritorumeffectuque.</p>
+  </li>
+  <li>
+    <p>Omnisjusopinionisetverbadicendilibertatihabet;quodjusnonobopinionessuasinquietariimplicat,atquejuspetendi,recipiendidivulgandiquesinefiniumconsiderationibuspercontationescogitationesquequacumqueelocutione</p>
+  </li>
+  <li>
+    <p>Omnishomojushabetlibertatipacificaeconsociationisconventusque</p>
+    <p>Nemopotestcoagiutconsociationiintersit.</p>
+  </li>
+  <li>
+    <p>Omnishomojushabetsuaegentisrerumpublicarumadministrationiinteresse,veldirecto,velperrepraesentesliberelectos.</p>
+    <p>Omnishomojushabetconditioneaequaadsuaepatriaeofficiapublicaaccedere.</p>
+    <p>Populivoluntaspublicorumimperiorumauctoritatisfundamentumest;illavoluntascreationehonestaexprimidebet,quaestatisdiebusfieridebent,universaliaequosuffragiosecretaquetabellavelsecundumaequalemjudiciorumformulamsuffragiilibertatemintutocollocantem.</p>
+  </li>
+  <li>
+    <p>Omnishomo,utreipublicaesocius,socialisecuritatijushabet;hichomojushabetsatisfactionemimpetrarejurumpublicorum,sociorumhumanorumquequaenecessariaadsuamdignitatemetprogressumliberumsuiest,perlaboremsuaepatriaeetoperamaliarumgentium,protemperationeetdivitiisomnisgentis.</p>
+  </li>
+  <li>
+    <p>Omnishomo,labori,liberaeoptionilaboris,conditionibusaequisidoneisquelaborisettutelaeadversusinopiamlaborisjushabet.</p>
+    <p>Universi,sinediscrimine,aequopraemioaequolaborejushabent.</p>
+    <p>Quiscumquelaborat,jushabetaequaeremunerationiidoneaequequaesibifamiliaequeconfirmatvitamconsentaneamhumanaedignitatiet,sioportet,completaeomnibusceteribusrationibussociaetutelae.</p>
+    <p>Omnishomocumaliishominibusconsociationescondereetconsociationibussociossibiadjungereadcommodadefendendajushabet.</p>
+  </li>
+  <li>
+    <p>Omnesjushabentcumquietietotiistumcircumscriptionimodicaetemporislaborisetcommeatibusstatisquaepecuniasoluuntur</p>
+  </li>
+  <li>
+    <p>Omnesjushabentsatisaltaevitaeutsuamvaletudinemetsuaefamiliaeetsuamvoluptatemconfirmet,praesertimquodpertinetadcibum,vestem,domum,medicinalescurasetbeneficiasocialiaquaenecesseriasunt.Omnesjushabentsecuritatiinpenurialaborisautinmorboautininfirmitateautinviduitateautinsenectuteautinaliiscasibusinquibuscopiavivendiessenonpotest,temporibusvoluntatemnonsequentibus.</p>
+    <p>Materetinfansjushabentauxilioetpraesentiaepropriae.Omnespueri,siveinmatrmoniosiveextramatrimoniumnatisunt,eodemsocialipraesidiofruuntur.</p>
+  </li>
+  <li>
+    <p>Omnisjushabeteducationi.Educatiodebetgratuitaesse,quodsaltempertinetadprimaspraecipuasquelitteras.Primaelitteraesuntnecessariae.Doctrinaeadscientiametadprofessionempertinentesmultisexponendaest;oportetaditumstudiissuperisintotaaequalitateomnibussecundummeritumpatere.</p>
+    <p>Oporteteducationemspectareadtotamhominumbeatitudinemetadrespectusjurumhominisetlibertatumprimarumconfirmationem.Oporteteducationemfaverecogitationi,patientiaeamicitiaequeinteromnesgentes,omniagenerumautreligionumglobos;oporteteducationemfavereprogressionioperarumnationumsociatarumadpacisconservationem.</p>
+    <p>Parentesinprimisjushabenteligeregenuseducationisquodinterestdareliberissuis.</p>
+  </li>
+  <li>
+    <p>Omnishomojushabetlibereinteresseculturaesocietatis,etfruiartibus,etinteresseprofectibusscientiaeetbeneficiisquaeidsequuntur.</p>
+    <p>Omnisjushabettutelaebeneficiorummoraliumetmaterialiumgeneratorumomniprocreationescientiae,litterarumautartiumquorumauctorest.</p>
+  </li>
+  <li>
+    <p>Omnisjushabetinsocialibusetexternisrebusordinemregnari,utjuraetlibertatesenuntiataeinhacDeclarationefieripossint.</p>
+  </li>
+  <li>
+    <p>Cuiqueofficiasuntergasocietatem,inquasolumliberumplenumqueincrementumingeniifieripotest.</p>
+    <p>Inusujuriumetfructulibertatum,quisquesubjicitursolumfinibuslegeconditis,utsolumfirmetgratiametrespectumjuriumlibertatumquealieni,etsatisfaciatrectisexpostulationibushonesti,reipublicaeconcordiaeetuniversaeinsociatatepopularivaletudinis.</p>
+    <p>HaecjuralibertatesquenullomodoexerceripoteruntadversuspropositaetprincipiaNationumConjunctorum.</p>
+  </li>
+  <li>
+    <p>NullumdecretumhujusDeclarationisinterpretaripotestquasicivitati,societatiautcuidamhominijusaliquidimplicanssededendialicuifacinoriautaliquidfaciendiadlibertatesetjuraevertenda,quaehoclocoenuntiatasunt.</p>
+  </li>
+</ol>

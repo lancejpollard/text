@@ -1,0 +1,123 @@
+<h1 align='center'>BATAAXAL GU MAG GI ËMB SAÑ-SAÑI DOOMI AADAMA</h1>
+<h2 align='center'></h2>
+<p align='center'>Ñu jàpp te nangu ne sagu doomi aadama ak sañ-sañam yépp-dañu yam te kenn mënukóo jalgati, te lu lépp nekk na cës laay ci taxufeex ci mbirum àtte ak jàmm ci biir àdduna.
+Ñu jàpp ne ñakk xam ak soofantal sañ-sañi doomi aadama indi na aymusiba yu tar tax képp kuy dund fippu. Temano egsi na ba mu nekk ci doomi aadama ñu mën a wax, xalaat, ci seen coobare, bundxatal, nàkk dëddu leen.
+Ñu jàpp ne am na solo lool ñu aar sañ-sañi doomu aadama ak ay matukaay ci wàllu yoon; ngir doomu aadama moomu kenn du ko sonal, muy fippu ci nootaange ak lu koy bunduxatal.
+Ñu jàpp ne am na solo lool ñu góor-goorlu ba gën a rataxal jokkalante gi diggante xeet yi.
+Ñu jàpp ne ci bataaxal boobule mbootaayu xeet yi yeesalaat na ay pas-pasam jëme ko ci sañ-sani doomi aadama yu tolloo, ci sag, ci bir lépp lu aju ci dundin diggante góor ak jigéen, ci biir tawfeex gu yaa.
+Ñu jàpp ne réew yi ci bokk jël nañu ay matukaay ngir dëgëral jokkalante gi ak mbootaayu xeet yi, ñu naw it bu baax sann-sañi doomi aadama ak tawfeex yu wóor ci biir àdduna yépp.
+Ñu jàpp ne ànd taxawal sañ-sañ yeek tawfeex yi nekk na lu am solo lool ngir, darajaal matukaay yooyu.
+Ndaje mu mag mi biral na ci bataaxal bii ne xeet yépp, réew yépp ak kurel yépp ñu jàpp li ci nekk, ci seen xel, te ñu góor-góorlu, ñu jaarale lii lépp ci njàng mi ak yar gi.
+Ñu lawal sañ-sañ yeek taawfeex yi jël aymatukaay ci biirak bitim réew.
+Ñu nangu te di doxal fépp ci anam gu wér ci biir xeet yi sosoo ci réew i bokk ci mbootaay gi ak gox yi bootu ci ñoom.</p>
+<ol>
+  <li>
+    <p>Doomiaadamayéppdanuyjuddu,yamcitawfeexcisagaksañ-sañ.Nekknaitkuxamdëggteàndnaakxelam,tewarnaajëflanteaknawleen,tetegkociwàllumbokk.</p>
+  </li>
+  <li>
+    <p>Kunemënnaawaxneamnaaysañ-sañakaytawfeexyusosoocibataaxalbiiteamulxeejakseen,rawatinaciwàlluxeet,melo,awra,làkk,diiné,peeteciwàllupolitig,xalaat,réewmbaaaskanwoomëntisosoo,ciitwàllujuddualalaklumumëntidoon.Raxsadolliamulxeejakseencipolitig,yoon,mbaadoxalinwuajucibitimréewmbaasuufsooxamnenitkifalacosaanoo;réewmoomumbaasuufsoosumoomnaboppamwalladeet,mbaañuyamaleyengu-yëngoom.</p>
+  </li>
+  <li>
+    <p>Nitkunewarnaadundcitawfeexakkaaraange.</p>
+  </li>
+  <li>
+    <p>Waruñoodefkennjaammbaambindaan.Njaamaknjaayumjaamnanguwunukocianamgumumëntidoon.</p>
+  </li>
+  <li>
+    <p>Waruñoombugal,tutal,mbaategkennlumettiloolluyelloowulakdoomuaadama.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnasañ-saññuwarkaananguldarajaamciwàlluyoon.</p>
+  </li>
+  <li>
+    <p>Néppayamcikanamuyoon.Teitamulxeejakseen,kuneyoonwoowuwarnalaaaar.Néppwarnañuleenaarciluyjalgatiliñutënkcibataaxalbiiakbeppyëngu-gëngubuyindipar-parloo.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnasañ-sañdemciberebiàttekaayyicireewamsaayooxamnesañ-sañamyooyudëppooksàrtiréewammbayoonjalgatinañuko.</p>
+  </li>
+  <li>
+    <p>Menuñoojàpp,tëj,mbaagennekennréewamtetegunukociyoon.</p>
+  </li>
+  <li>
+    <p>Ciluwér,nitkunemënnaaeggciberebuattekaaywaxlikonaqaricianamgujub,tebañaàndakpar-parloo,nedañukotaxal.</p>
+  </li>
+  <li>
+    <p>Béppnitbuñutaqalcimbirmutarjàppenanukokusetbalooluñukotaxalleernàññginnaawbiñukoattee.Teñutaxawukocilépplukoyaarciatteboobule.</p>
+    <p>Duñutëjkennciayjëfammbaalumufàttembeteloolumujëfcijamonojoojunekkulmbirmutarciwàlluyoon,cibiirakbitimréew.Foofuityoondukotegludullimengóoklimudefcijamonojooju.</p>
+  </li>
+  <li>
+    <p>Kennwarulaxuuscidundinudoomuaadama,bunjabootam,cilujëmcikërammbaalumengóokmoom,didammitjarajaam.Buñujalgateeyiinitkuneamnasañ-saññuaarkociwàlluyoon.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnasañ-sañwëndeelunimukoneexe,tànnitdekkuwaayamcibiirréewbumumëntidoon.</p>
+    <p>Nitkuneamnasañ-sañgénnréewmumumëntidoon.Fimudëkkitbokknaci-akitdellusiciréewam.</p>
+  </li>
+  <li>
+    <p>Nitkunebuñukombugaleeamnasañ-sañlàquji,mbaañaanñulàqkociyeneniréew.</p>
+    <p>Sufekkeenenitkidañukoytoppuginnaawbimudefeejëyyi,mbaayëngu-yëngóonméngóowulaklimbootaayuxeetyitëral,sañ-sañboobu.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnasañ-sañxeetoocimréew.</p>
+    <p>Mënuñunenitkixeetoowulcimréewteteguñukofenn,mbaañuxañkosañ-sañsubëggeesoppixeetoomakréewan.m</p>
+  </li>
+  <li>
+    <p>Jigéenmbaajóorsaayumateeamulxaajakseen,akwaasobumumëntibokk,réew,mbadiinéamnasañ-sañsëyakitsosnjaboot.Ñooyamitsañ-sañ,balaañuysëey,cibiirsëyakitbuseensëytasee.</p>
+    <p>Sëykennmenunukofas,xanaalujiitukuneciway-dencanteyijoxexalaatam.</p>
+    <p>Njabootnekknamenneefguamsolociaskanwi.</p>
+  </li>
+  <li>
+    <p>Ngaydundyawdowwmbaaakmboolooamngasañ-sañamloomoomalsabopp.</p>
+    <p>Menuñooxañkennamaman.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnasañ-sañxalaataksagoomciwàlludiine,soppiitdiineemmbangëmam,amnaittawfeexfeeñaldiineem,mbaangëmam,akmbooloo,mbaamoomdoww,fuàddunadajembaadeet,jaralikocinjàngalemi,ciayjëf,cijaamuyiakxarbaax.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnasañ-sañwaxmbaabindlukosoob.Ciwaxamyooyulekennmenukocebunduxatal.Teitamnasañ-sañdigëstu,dijot,diwasarecianamguyaaayxabaarakixalaatakayjumtukaayyumiMentijefandikóo.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnasañ-sañwooteabndaje,mbaasosmbootaaycijàmm.</p>
+    <p>Mënuñoobokklookenncimbootaayteànduci.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnasañ-sañbokkciñiydoxalmbiriréewam.Muteewalfaboppam,mbaamuyabalabndawmuteewalkofa.</p>
+    <p>Nitkuneamnasañ-sañ,amulxeejakseenliggéeycibéppbérébbuydoxalmbiriréewam.</p>
+    <p>Pas-pasuaskanmooycëslaaybuydëgëralléppluydoxalréew.Pas-pasgilewarnafeeñcipalinyuyiwyuñuwaraamalléeg-léegcitanninguyaateamsutura,mbaatoppyoonwuwóorwuandaktawfeexciwàllupal.</p>
+  </li>
+  <li>
+    <p>Nitkunemeññeefuaskanwiamnasañ-saññuaarkocigirudundam.Cidundamwarnaciamxolbuseddcisañ-sañamyooyu,luajucikoom-koomam,cidundinamakciléppluajuciaadaamtedikojoxmaanaaakyookkuteguàndaktawfeexciwàlludarajaam,looluléppnagkunedoomuréewmiindidooleemakdijokkalanteakbitimréewtemuméngooktërërinakam-amuréewmune.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnasañ-sañliggéey,tànnitcieanamgukoneexliggéeyammtemudëppóokaysàartyuyamtebaaxciwàlluliggéey.Teitñuaarkociñàkkubliggéey.</p>
+    <p>Amulxeejakseenkunéppamnanusañ-saññufayleen,telooluméngóoklimualiggéey.</p>
+    <p>Keéppkuyliggéeyamnasañ-saññujoxkopaygimuyellool,baaxtemënkoodundalaknjabbotamtemuyellooksagudoomuaadama,mumottalikuitakyeneenipexesumëneeamngiraardundinam.</p>
+    <p>Nitkuneamnasañ-sañsampmbaabokkciaykurelyukoytaxawuciwàlluliggéeyam.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnasañ-sañnoppalu,feexalxolalakitdiyamalediirubliggéeyamakitléeg-léegmuypër,bërguàndakxaalis.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnasañ-sañamdundinguyamamaayngirdëgëralwér-gi-yaramam,raataageemakbunjabootam,lrawatinaciwàllulekkcol,dëkkuwaay,léppluajuciwàllupajakbéppyëngu-yënguguamfarataciwàlludundam.Amnaitsañ-saññuaarkobuliggeeyatulbufeebaree,buameelaago,ñàkksaxnaammbaasërinam,mbaamàgget,mbaamuñàkklimuysuturloocianamyudulcicootareem.</p>
+    <p>Warnañuberalloxo,dimbaliképpkutolluciamdoomakitguneyi.Béppxalebujudducisëy,mbaabujudduwulcisëyñoobokkbennanambuñleendiaare.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnasañ-saññujàngalko,njàngmiwaruñucifayakulumubonboncinjàngmusuufemiteamsolo.Njàngmusuufemiluwarla.Njàngmuxaralami,teitajuciwàlluliggéeywarnanukoowasaare.Amulxeejakseennjàngmukawemiubbilnañukoképpkukoyelloo.</p>
+    <p>Njàngwarnaaindinaataangeguyaaciddoomiaadamateitwarnadëgëralñunawsañ-sañidoomiaadamaakitawfeexamcianamguyaa-watnaitrataxaldéggóogiakyokkutembootaayuxeetyingirjàmmsax.</p>
+    <p>Waajuryiñoojëkkamsañ-sañcianamgiñuyyareseenidoom.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnasañ-sañbokkcidéppluajucicaadayaskanwi,dibànneexucilucuajuakitbokkciléppluysuqalixaralagiakluciymeñ.</p>
+    <p>Nitkuneamnasañ-saññuaaralkoléppluajucilumudefarciwàllulaxarala,mbindmbaaluajuciwàllucaala.</p>
+  </li>
+  <li>
+    <p>Nitkunewarnaatawaxudëppluajuaaskanwi,akluajucibitimréewambasañ-sañaktawfeexyibataaxaluxeetgiëmbmënasax.</p>
+  </li>
+  <li>
+    <p>Nitkuneamnaaywareefyukowardigganteemakdëkkandoomyingirdëgëralcianamguyadarajaam.</p>
+    <p>Nitkunebuydoxalaysañ-sañamakitawfeexamwarnaasallooklikoyoonmay,ngirmumënanangu,naw,sañ-sañnawleembaléeppluajuciyiw,teeyaknaataangeguyaasaxciaskanwi.</p>
+    <p>Sañ-sañyeektawfeexyimënuñukoodoxalcianamgudeppoo-wullimbootaayuxeetyimisërmbaataxawal.</p>
+  </li>
+  <li>
+    <p>Cifànngumumëntidooncibataaxalbii,béppréew,mbootaaymbaanit,waruldoxalmbaadefluyyàqsañ-sañyeektawfeex.</p>
+  </li>
+</ol>

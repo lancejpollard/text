@@ -1,0 +1,121 @@
+<h1 align='center'>Declaração Universal dos Direitos Humanos</h1>
+<h2 align='center'>Preâmbulo</h2>
+<p align='center'>Considerando que o reconhecimento da dignidade inerente a todos os membros da família humana e dos seus direitos iguais e inalienáveis constitui o fundamento da liberdade, da justiça e da paz no mundo;
+Considerando que o desconhecimento e o desprezo dos direitos humanos conduziram a actos de barbárie que revoltam a consciência da Humanidade e que o advento de um mundo em que os seres humanos sejam livres de falar e de crer, libertos do terror e da miséria, foi proclamado como a mais alta inspiração do ser humano;
+Considerando que é essencial a protecção dos direitos humanos através de um regime de direito, para que os seres humanos não sejam compelidos, em supremo recurso, à revolta contra a tirania e a opressão;
+Considerando que é essencial encorajar o desenvolvimento de relações amistosas entre as nações;
+Considerando que, na Carta, os povos das Nações Unidas proclamam, de novo, a sua fé nos direitos fundamentais dos seres humanos, na dignidade e no valor da pessoa humana, na igualdade de direitos dos homens e das mulheres e se declararam resolvidos a favorecer o progresso social e a instaurar melhores condições de vida dentro de uma liberdade mais ampla;
+Considerando que os Estados membros se comprometeram a promover, em cooperação com a Organização das Nações Unidas, o respeito universal e efectivo dos direitos humanos e das liberdades fundamentais;
+Considerando que uma concepção comum destes direitos e liberdades é da mais alta importância para dar plena satisfação a tal compromisso:
+A Assembleia Geral proclama a presente Declaração Universal dos Direitos Humanos como ideal comum a atingir por todos os povos e todas as nações, a fim de que todos os indivíduos e todos os órgãos da sociedade, tendo‐a constantemente no espírito, se esforcem, pelo ensino e pela educação, por desenvolver o respeito desses direitos e liberdades e por promover, por medidas progressivas de ordem nacional e internacional, o seu reconhecimento e a sua aplicação universais e efectivos tanto entre as populações dos próprios Estados membros como entre as dos territórios colocados sob a sua jurisdição.</p>
+<ol>
+  <li>
+    <p>Todosossereshumanosnascemlivreseiguaisemdignidadeeemdireitos.Dotadosderazãoedeconsciência,devemagirunsparacomosoutrosemespíritodefraternidade.</p>
+  </li>
+  <li>
+    <p>TodosossereshumanospodeminvocarosdireitoseasliberdadesproclamadosnapresenteDeclaração,semdistinçãoalguma,nomeadamentederaça,decor,desexo,delíngua,dereligião,deopiniãopolíticaououtra,deorigemnacionalousocial,defortuna,denascimentooudequalqueroutrasituação.Alémdisso,nãoseráfeitanenhumadistinçãofundadanoestatutopolítico,jurídicoouinternacionaldopaísoudoterritóriodanaturalidadedapessoa,sejaessepaísouterritórioindependente,sobtutela,autónomoousujeitoaalgumalimitaçãodesoberania.</p>
+  </li>
+  <li>
+    <p>Todooindivíduotemdireitoàvida,àliberdadeeàsegurançapessoal.</p>
+  </li>
+  <li>
+    <p>Ninguémserámantidoemescravaturaouemservidão;aescravaturaeotratodosescravos,sobtodasasformas,sãoproibidos.</p>
+  </li>
+  <li>
+    <p>Ninguémserásubmetidoatorturanemapenasoutratamentoscruéis,desumanosoudegradantes.</p>
+  </li>
+  <li>
+    <p>Todososindivíduostêmdireitoaoreconhecimento,emtodososlugares,dasuapersonalidadejurídica.</p>
+  </li>
+  <li>
+    <p>Todossãoiguaisperantealeie,semdistinção,têmdireitoaigualprotecçãodalei.TodostêmdireitoaprotecçãoigualcontraqualquerdiscriminaçãoquevioleapresenteDeclaraçãoecontraqualquerincitamentoataldiscriminação.</p>
+  </li>
+  <li>
+    <p>TodaapessoatemdireitoarecursoefectivoparaasjurisdiçõesnacionaiscompetentescontraosactosqueviolemosdireitosfundamentaisreconhecidospelaConstituiçãooupelalei.</p>
+  </li>
+  <li>
+    <p>Ninguémpodeserarbitrariamentepreso,detidoouexilado.</p>
+  </li>
+  <li>
+    <p>Todaapessoatemdireito,emplenaigualdade,aqueasuacausasejaequitativaepublicamentejulgadaporumtribunalindependenteeimparcialquedecidadosseusdireitoseobrigaçõesoudasrazõesdequalqueracusaçãoemmatériapenalquecontraelasejadeduzida.</p>
+  </li>
+  <li>
+    <p>Todaapessoaacusadadeumactodelituosopresume‐seinocenteatéqueasuaculpabilidadefiquelegalmenteprovadanodecursodeumprocessopúblicoemquetodasasgarantiasnecessáriasdedefesalhesejamasseguradas.</p>
+    <p>Ninguémserácondenadoporacçõesouomissõesque,nomomentodasuaprática,nãoconstituíamactodelituosoàfacedodireitointernoouinternacional.Domesmomodo,nãoseráinfligidapenamaisgravedoqueaqueeraaplicávelnomomentoemqueoactodelituosofoicometido.</p>
+  </li>
+  <li>
+    <p>Ninguémsofreráintromissõesarbitráriasnasuavidaprivada,nasuafamília,noseudomicílioounasuacorrespondência,nemataquesàsuahonraereputação.Contrataisintromissõesouataquestodaapessoatemdireitoaprotecçãodalei.</p>
+  </li>
+  <li>
+    <p>TodaapessoatemodireitodelivrementecirculareescolherasuaresidêncianointeriordeumEstado.</p>
+    <p>Todaapessoatemodireitodeabandonaropaísemqueseencontra,incluindooseu,eodireitoderegressaraoseupaís.</p>
+  </li>
+  <li>
+    <p>Todaapessoasujeitaaperseguiçãotemodireitodeprocuraredebeneficiardeasiloemoutrospaíses.</p>
+    <p>Estedireitonãopode,porém,serinvocadonocasodeprocessorealmenteexistenteporcrimededireitocomumouporactividadescontráriasaosfinseaosprincípiosdasNaçõesUnidas.</p>
+  </li>
+  <li>
+    <p>Todooindivíduotemdireitoaterumanacionalidade.</p>
+    <p>Ninguémpodeserarbitrariamenteprivadodasuanacionalidadenemdodireitodemudardenacionalidade.</p>
+  </li>
+  <li>
+    <p>Apartirdaidadenúbil,ohomemeamulhertêmodireitodecasaredeconstituirfamília,semrestriçãoalgumaderaça,nacionalidadeoureligião.Duranteocasamentoenaalturadasuadissolução,ambostêmdireitosiguais.</p>
+    <p>Ocasamentonãopodesercelebradosemolivreeplenoconsentimentodosfuturosesposos.</p>
+    <p>AfamíliaéoelementonaturalefundamentaldasociedadeetemdireitoàprotecçãodestaedoEstado.</p>
+  </li>
+  <li>
+    <p>Todaapessoa,individualoucolectivamente,temdireitoàpropriedade.</p>
+    <p>Ninguémpodeserarbitrariamenteprivadodasuapropriedade.</p>
+  </li>
+  <li>
+    <p>Todaapessoatemdireitoàliberdadedepensamento,deconsciênciaedereligião;estedireitoimplicaaliberdadedemudardereligiãooudeconvicção,assimcomoaliberdadedemanifestarareligiãoouconvicção,sozinhoouemcomum,tantoempúblicocomoemprivado,peloensino,pelaprática,pelocultoepelosritos.</p>
+  </li>
+  <li>
+    <p>Todooindivíduotemdireitoàliberdadedeopiniãoedeexpressão,oqueimplicaodireitodenãoserinquietadopelassuasopiniõeseodeprocurar,receberedifundir,semconsideraçãodefronteiras,informaçõeseideiasporqualquermeiodeexpressão.</p>
+  </li>
+  <li>
+    <p>Todaapessoatemdireitoàliberdadedereuniãoedeassociaçãopacíficas.</p>
+    <p>Ninguémpodeserobrigadoafazerpartedeumaassociação.</p>
+  </li>
+  <li>
+    <p>Todaapessoatemodireitodetomarpartenadirecçãodosnegócios,públicosdoseupaís,querdirectamente,querporintermédioderepresentanteslivrementeescolhidos.</p>
+    <p>Todaapessoatemdireitodeacesso,emcondiçõesdeigualdade,àsfunçõespúblicasdoseupaís.</p>
+    <p>Avontadedopovoéofundamentodaautoridadedospoderespúblicos:edeveexprimir‐seatravésdeeleiçõeshonestasarealizarperiodicamenteporsufrágiouniversaleigual,comvotosecretoousegundoprocessoequivalentequesalvaguardealiberdadedevoto.</p>
+  </li>
+  <li>
+    <p>Todaapessoa,comomembrodasociedade,temdireitoàsegurançasocial;epodelegitimamenteexigirasatisfaçãodosdireitoseconómicos,sociaiseculturaisindispensáveis,graçasaoesforçonacionaleàcooperaçãointernacional,deharmoniacomaorganizaçãoeosrecursosdecadapaís.</p>
+  </li>
+  <li>
+    <p>Todaapessoatemdireitoaotrabalho,àlivreescolhadotrabalho,acondiçõesequitativasesatisfatóriasdetrabalhoeàprotecçãocontraodesemprego.</p>
+    <p>Todostêmdireito,semdiscriminaçãoalguma,asalárioigualportrabalhoigual.</p>
+    <p>Quemtrabalhatemdireitoaumaremuneraçãoequitativaesatisfatória,quelhepermitaeàsuafamíliaumaexistênciaconformecomadignidadehumana,ecompletada,sepossível,portodososoutrosmeiosdeprotecçãosocial.</p>
+    <p>Todaapessoatemodireitodefundarcomoutraspessoassindicatosedesefiliaremsindicatosparadefesadosseusinteresses.</p>
+  </li>
+  <li>
+    <p>Todaapessoatemdireitoaorepousoeaoslazeres,especialmente,aumalimitaçãorazoáveldaduraçãodotrabalhoeasfériasperiódicaspagas.</p>
+  </li>
+  <li>
+    <p>Todaapessoatemdireitoaumníveldevidasuficienteparalheassegurareàsuafamíliaasaúdeeobem‐estar,principalmentequantoàalimentação,aovestuário,aoalojamento,àassistênciamédicaeaindaquantoaosserviçossociaisnecessários,etemdireitoàsegurançanodesemprego,nadoença,nainvalidez,naviuvez,navelhiceounoutroscasosdeperdademeiosdesubsistênciaporcircunstânciasindependentesdasuavontade.</p>
+    <p>Amaternidadeeainfânciatêmdireitoaajudaeaassistênciaespeciais.Todasascrianças,nascidasdentroouforadomatrimónio,gozamdamesmaprotecçãosocial.</p>
+  </li>
+  <li>
+    <p>Todaapessoatemdireitoàeducação.Aeducaçãodevesergratuita,pelomenosacorrespondenteaoensinoelementarfundamental.Oensinoelementaréobrigatório.Oensinotécnicoeprofissionaldeversergeneralizado;oacessoaosestudossuperioresdeveestarabertoatodosemplenaigualdade,emfunçãodoseumérito.</p>
+    <p>Aeducaçãodevevisaràplenaexpansãodapersonalidadehumanaeaoreforçodosdireitoshumanosedasliberdadesfundamentaisedevefavoreceracompreensão,atolerânciaeaamizadeentretodasasnaçõesetodososgruposraciaisoureligiosos,bemcomoodesenvolvimentodasactividadesdasNaçõesUnidasparaamanutençãodapaz.</p>
+    <p>Aospaispertenceaprioridadedodireitodeescolherogénerodeeducaçãoadaraosfilhos.</p>
+  </li>
+  <li>
+    <p>Todaapessoatemodireitodetomarpartelivrementenavidaculturaldacomunidade,defruirasartesedeparticiparnoprogressocientíficoenosbenefíciosquedesteresultam.</p>
+    <p>Todostêmdireitoàprotecçãodosinteressesmoraisemateriaisligadosaqualquerproduçãocientífica,literáriaouartísticadasuaautoria.</p>
+  </li>
+  <li>
+    <p>Todaapessoatemdireitoaquereine,noplanosocialenoplanointernacional,umaordemcapazdetornarplenamenteefectivososdireitoseasliberdadesenunciadasnapresenteDeclaração.</p>
+  </li>
+  <li>
+    <p>Oindivíduotemdeveresparacomacomunidade,foradaqualnãoépossívelolivreeplenodesenvolvimentodasuapersonalidade.</p>
+    <p>Noexercíciodestesdireitosenogozodestasliberdadesninguémestásujeitosenãoàslimitaçõesestabelecidaspelaleicomvistaexclusivamenteapromoveroreconhecimentoeorespeitodosdireitoseliberdadesdosoutroseafimdesatisfazerasjustasexigênciasdamoral,daordempúblicaedobem‐estarnumasociedadedemocrática.</p>
+    <p>EmcasoalgumestesdireitoseliberdadespoderãoserexercidoscontrariamenteaosfinseaosprincípiosdasNaçõesUnidas.</p>
+  </li>
+  <li>
+    <p>NenhumadisposiçãodapresenteDeclaraçãopodeserinterpretadademaneiraaenvolverparaqualquerEstado,agrupamentoouindivíduoodireitodeseentregaraalgumaactividadeoudepraticaralgumactodestinadoadestruirosdireitoseliberdadesaquienunciados.</p>
+  </li>
+</ol>

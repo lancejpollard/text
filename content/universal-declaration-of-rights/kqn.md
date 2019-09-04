@@ -1,0 +1,122 @@
+<h1 align='center'>MUKAMBIZHO MUKATAMPE PA NSAMBU YAFWAINWA MUNTU</h1>
+<h2 align='center'>LULAVANANO</h2>
+<p align='center'>Byo kyayukanyikwa mba buneme ne kwesakena pamo kwa bonse bantu mubisemi byabo, kokuleta kukasuluka, bololoke ne mutende pano pa ntanda;
+Byo kyaykanyikwa mba kubula kushingika muntu kileta byubilo byatama byalula milanguluko yanji ne ya ntanda yonse moekala kasa asangalala;
+Byokiji mba kyanema, kubula kukanjikizna muntu kuba kyatama, kubula kusatukila butangi, kyawama kumona mba nsambu iji na muntu yavimbilwa,
+Byokiji mba kyanema kuleta lumvwanano pakachi ka bantu ne mitundu,
+Byokiji mba bisaka bya bantu mu kije kya United Nations byaitabuzhanya mba muntu wafwainwa kwikala na nsambu ya kwikala wakasuluka, waesakena pamo na bantu bakwabo wingijila pamo na bakwabo bantu,
+Byokiji mba byalo byaswisha limvwanano kupichila mkije kya United Nations ne kumona mba byalama munemw wa kunemeka bantu,
+Byokiji mba kolondela ino milaye ne mikambizho kyanema,
+Kine, nanchi kije kya General Assembly kyaitaba mba Uno mukambizho mukatampe wapana nsambu ku muntu kwikala wakasuluka, ekale ke wakuyulula mikoka yonse ya bantu kikupu amba yense muntu nangwa kije kyonse kilondela uno mukamizho, kikekala ke kya kumwenako
+MUKAMBIZHO MWINE PA MAMBO A KUKASULUKA KWA MUNTU MBWIKALO</p>
+<ol>
+  <li>
+    <p>Bonsebantubasemwabakasulukakabijibaesakenapamomubuneme.Bajinamaanaakulangulukakabijibobilabantubakwabobyubilobakwibasekesha.</p>
+  </li>
+  <li>
+    <p>Yensemuntuujinansambukabijiwakasulukamwailamukambizho,kwakubulakutalapamutundu,mukoka,lwitabilolwanijmubyantanda,byaLesa,nangwamilangulukoyanji,kanawamulumenangwawamukazhi,bunonshinangwabwikalo,kifulokyanjinebikwabotubintu.Kikwabo,kechipakekalalupusanopabyabumulwilantandanangwalwakyalomwikalayeomuntunenangwakyalokyatambulabwanabwakyo,nangwabekilama,nangwabakikiwila.</p>
+  </li>
+  <li>
+    <p>Yensemuntuujinansambuyakwikalanabumi,wakasulukakabijiwavimbilwa.</p>
+  </li>
+  <li>
+    <p>Kafwakonangwaumoukekalamuzhanangwawakwingijilamukwabomuntukwakubulamalipilo;buzhakechibukekalakoine.</p>
+  </li>
+  <li>
+    <p>Kafwakonangwaumoukamanyikwanganangwakumuyanjishane.</p>
+  </li>
+  <li>
+    <p>Yensewafwainwakulangulukilaambamuntumwailamizhilo.</p>
+  </li>
+  <li>
+    <p>Bonsebantubaesakenapamomwailamizhilokabijikechibafwainwakwibasalululamwailamizhilone.Bonsebafwainwakuvimbilwa.</p>
+  </li>
+  <li>
+    <p>Yensemuntumwailamizhilowavimbilwakumikambizhoyatamayakyaloyabulakuilamo.</p>
+  </li>
+  <li>
+    <p>Kafwakonangwaumoyebakakasanangwakumupangamukyalokwakubulamambone.</p>
+  </li>
+  <li>
+    <p>Yensemuntuujinansambuyakumumvwinamambooejizhanya.</p>
+  </li>
+  <li>
+    <p>Yensewalengamamboakatampekechiwafwainwakuchibilwaponkapotuine,posowazhatwanaomukijekyamizhilo.</p>
+    <p>Kafwakoyebakazhachishanamambokasaabujilekwialenga.Kabijikechibakamutongwelemamboakwaboapusananaatanshimukusakakumuzhachishane.</p>
+  </li>
+  <li>
+    <p>Kafwakomuntuyebakakanjikizhakusololanangwakwambabintubyabufyafyabyanji,byakisemikyanji,byanzuboyanji,makalataoanembanangwakumukabishanamamboabifulobyoajinganabyo.Yensewavimbilwanamuzhilo.</p>
+  </li>
+  <li>
+    <p>Yenseujinansambuyakwendanekuyakoasakanakwikalamukyalo.</p>
+    <p>Yenseujinansambuyakufumamukyalokyanjinebyalobikwabonekubwela.</p>
+  </li>
+  <li>
+    <p>Yenseujinansambuyakunyemenamukyalokingikuchinakumumanyikamukyalokyanji.</p>
+    <p>Unomuzhilokechiwikalakoneumvwewanyemakumanyikwanamamboakwabokukilabyabumulwilantanda.</p>
+  </li>
+  <li>
+    <p>Yensewafwainwakutambulabwinakyalo.</p>
+    <p>Kafwakoyebakakanyakutambulabwinakyalonangwakupimpulabwinakyalobwanji.</p>
+  </li>
+  <li>
+    <p>Banabalumenebanabakazhibakoma,kwakubulakutalapamutundunangwamukokabajinansambuyakusongolanangwakusongolwanekwikalananzubo.Kabijibafwainwakwikalabasekelamomumasongolaabo.</p>
+    <p>Masongolaafwainwakwikalakoposobonsebabijibaitabuzhana.</p>
+    <p>Kisemikyokitendekeshomwailabisakabyabantuonkaomambokyafwainwakuvimbila.</p>
+  </li>
+  <li>
+    <p>Yenseujinansambuyakunonkakintu,bunkenangwamukipanyinabakwabo.</p>
+    <p>Kafwakoyebakangatansaboyanjimulukanakana.</p>
+  </li>
+  <li>
+    <p>Yensemuntuwafwainwakwilangulukilanekwifukwilabyakuba.</p>
+  </li>
+  <li>
+    <p>Yenseujinansambuyakwambamoalangulukila,kabijiwakoshakubulananamilangulukoyanjikubanembeshibabyambo.</p>
+  </li>
+  <li>
+    <p>Yenseujinansambuyakupwilapamonabakwabo.</p>
+    <p>Kafwakoyebakonshakukanjikizhakupwilapamonabakwabone.</p>
+  </li>
+  <li>
+    <p>Yensewaswishiwakwikalanansambumukafulumendewakyalokyanji,kupichilamwiayemwinenangwantomeshawasalwa.</p>
+    <p>Yensewaswishiwakwingilamukafulumendeyakyalokyanji.</p>
+    <p>Ngovuyabantu(Milangwe)popaimanabulumebwakafulumende,inongovuikamwekelamukusalakwikalakokimyenekimyekwabufyafyakwabantubonse.</p>
+  </li>
+  <li>
+    <p>Yensemuntumukyalowafwainwawavimbilwamubwikalobwanji,kupichilamulumvwananomukyalokabijinepakachikabyalo,kuilamubunonshi,bukomo,bwikalonekisemwa-biletabunemenebukomokwiayemwine.</p>
+  </li>
+  <li>
+    <p>Yensewafwainwakwingila;ujinansambuyakusalamingiloyoatemwayamusekeshakabijiyakonshakutwajijila.</p>
+    <p>Yensekwakubulalupusanone,wafwainwakulipilwamalipiloaesakananamingilo.</p>
+    <p>Yensewingilawafwainwakulipilwamalipiloamufwainwaayemwinepamonekisemikyanji.</p>
+    <p>Yenseujinansambuyakutwelanekwikalamembalamubijebyambilakobamingilopakubambaekalewavimbilwa.</p>
+  </li>
+  <li>
+    <p>Yenseujinansambuyakukokolokanekukaya,kabijiwafwainwakwingilabimyebyatongolwakabijiwafwainwakwikalanakimyekyakukokoloka.</p>
+  </li>
+  <li>
+    <p>Yensewafwainwakwikalanabikwalobwawamapakubambaekalenabututulubwamubiji,kisemikyanjikikalebulongo,ekalenakajokavula,bivwalobyafwainwa,pakulalapawamanebyonsebisakiwamubwikalonemubumibwamuntu.</p>
+    <p>Banabakazhinebanababobafwainwakulamabulongo.Bonsebananangwakechibajinabashabobapamuteinenabobafwainwakulamabulongo.</p>
+  </li>
+  <li>
+    <p>Yensewafwainwakufunda.Lufunjisholwafwainwakwikalalwatu,kikatakatakutendekelo.Lufunjisholwakutendekelapolwafwainwakwikalalwabonse.Lufunjisholwapeululwafwainwakwikalako.</p>
+    <p>Lufunjisholwafwainwakwikalalwakuletabukomokumuntupamonekukoseshansambuyanji.Lukekalalwakuletalumvwanano,lulekelo,nebulundapakachikabyalo,mitundunelwitabilolwabo,kabijilukakwashakusutulamingiloyakijekyaUnitedNationsmukuletamutende.</p>
+    <p>Bansemibajinaluusalwakusajilabanababolufunjisho.</p>
+  </li>
+  <li>
+    <p>Yenseujinaluusalwakwifwezhamubyakisemwa,byakishakulukabijinekwingijilapamomukuwamishabyonsebino.</p>
+    <p>Yenseujinaluusalwakuvimbilamafundeabwikalopakubambakechibatayebyakishakulune.</p>
+  </li>
+  <li>
+    <p>Yenseujinaluusalwaunomukambizhowakambizhabwikalobwaafwainwakumuntu.</p>
+  </li>
+  <li>
+    <p>Yenseujinaluusalwakwikalanabantubakwaboboamonambabwikalobwanjibwakonshakuwama.</p>
+    <p>Mwailainonsambu,yensemuntuukakonshakulondelamikambizhomwailamizhilokasaamweshamushingiwainomikambizhopamonekubakwabobantupakubambapekalelumvwanano.</p>
+    <p>InonsambuyapanyiwakechiyafwainwakwiingijishakwakubulakulondelabinshitebinebyakijekyaUnitedNationsine.</p>
+  </li>
+  <li>
+    <p>Kafwakonangwakimomuinomikambizhokyalamatakukyalonangwamuntukyobakonshakwingijishamukwingilabyubilobyabulakufwainwamwailansambunengovuyatongolwane.</p>
+  </li>
+</ol>

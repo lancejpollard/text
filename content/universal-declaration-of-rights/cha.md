@@ -1,0 +1,123 @@
+<h1 align='center'>UNIVERSAL NA DECLARASION I DERECHO SIHA PARA I TAOTAO</h1>
+<h2 align='center'>Preambulo</h2>
+<p align='center'>Asi como i recognision pot i inherente (natural)na dignidad yan pot i pareho yan inahenable (tisina maamot) na derechon todo i membron i humano na familia guiya i fundacion i liberta, justicia yan pas gi todo i tano.
+Asi como i dinisatende yan i denisprecia i derecho siha para i taotao manhuyon ti civilisao na finatinas siha ni esta hasen insulta i consencian i taotao yan i finato gi tano anai taotao siha umagosa i libertad kumentos, yan hinenge yan libertad gine minanao yan minalago esta maproclama como i mas takilo na aspirasion (tinanga) i comodo (regular) na taotao siha.
+Asi como necesario, yangin i taotao ti para uenebliga na uespiha recurso (hinagon), como i utimo na fandiskansayan gi rebulasion contra i crueldad yan bahacion enao na i derecho siha para i taotao umaprotehe nui arreglon i lai.
+Asi como necesario na umaadelanta i kinalanten i amestao (inamigo) na relasion siha entalo nasion siha. Asi como i taotao i Unidos Nasion siha guaha gi halom i Charter masasegura i hinegen niha gi fundamental na derecho siha para i taotao, gi dignidad yan chatbale ya i humano (taotao) na persona yan i pareho na derecho i lahe yan i palauan yan esta madetermina na umaadelanta progresson social yan mas prisocio na standard siha pot linala gi mas dankulo na libertad.
+Asi como un comodo na kininprende pot este nana umaobtene, gi i cooperasion yan i Unidas Nasion siha, i maadelantan i universal na respecto para yan i maguadian i derechon taotao yan fundamental na libertad siha.
+Asi como un comodo na kininprende pot este na derecho yan libertad siha i mas importante para i kabales na marealizasion este na linala.
+Pago, Pot eso,
+i Heneralna Assemblia
+aproklama
+este i Universal na Declarasion i Derecho siha para i Taotao, como un comodo na standard i obtenamenten para todo i taotao siha yan todo nasion siha, esta i utimo na kada individual yan kada organon i sociedad, ugagaige ha este na Declarasion todo i tiempo gi hinason niha, ya umafatinas mano i sina gi finanague yan educasion para uma adelanta i respeto para este na derecho yan libertad siha yan gi manera ni progresibo, nasional yan inter-nasional, para umaasegura i universal na maguadian niha, tanto i mangaige na taotao siha gi territorio ni gaige gi papa jurisdicksion niha.</p>
+<ol>
+  <li>
+    <p>Todotaotaosihamanmafanagolibertaoyanparehogidignidadyanderechosiha,manmanaesihahinasoyanconsienciayandebedeufatinascontraunoyanotrogiunespiritunchumelo.</p>
+  </li>
+  <li>
+    <p>TodomanqualificaonutodoiderechoyanlibertadsihanimanmalatnosgihalomestenaDeclarasion,sinnihafanadistingasiongimasehahafanaklase,asicomorasa,kulor,sexso,linguahe,relihon,politicalpatotroopinion,nasional,patoriginalsocial,properdad,parto,patotrostatulo(estao).Ademas,tayadistinguasionsinaumafatinasnimaapelagiifundamentonpolitical,ijurisdicksionalpatiinternasionalnaestaoitanopatiteritorionigaigeunpersona,masehaguiindependensia,encargo,tiagobierbenaguipatpapamasehahafaotronarestriksioniminagasgobiernamentonna.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechopotlinala,libertadyanseguridadipersona.</p>
+  </li>
+  <li>
+    <p>Tayasinamamantenecomoesclabopatservidumbre;esclavituduyanicommercionesclavoumapribegitodoiklasennihasiha.</p>
+  </li>
+  <li>
+    <p>Tayasinamasometido(manamerese)nuiagoniado(nachatflik)nakastigopatnuicruel,tiparataotaopatdeshonraonatratamentopatkastigo.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechonaufanmarecognisamasehamanocomopersonagimenanilai.</p>
+  </li>
+  <li>
+    <p>Todomanparehogimenanilaiyanmangaiderechosinnihafanadescriminasionnuiparehonaproteksionilai.TodomangaiderechonuiparehonaproteksionkontrakuatkuetdiscriminasiongikinentranestenaDeclarasionyankontrakuatkuetestimularnuiesonadiscriminasion.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechonuiuneffectibonaremedioginenimankapsnanasionalnatribunalsihaparafinatinassihaniacocontraifundamentalnaderechosihamanaeguigineniconstitucionpotilai.</p>
+  </li>
+  <li>
+    <p>Tayasinanasometidonuiarbitrarionainaresta,detensionpatdestierro.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechogikabalesnaekualidadnuiunfaborableyanmababa’paraipubliconuiunindependenteyantaifabornatribunalgiimadeterminasioniderechonayanobligasionnasihayanmasehahafanaacusasionnicriminalkontroguiya.</p>
+  </li>
+  <li>
+    <p>Hayimaakusagipenanchatmanhu'lamangaiderechoparaufanmapo'locomoinosentiasta-kiguahaebidensianaumisaosigungilaiyaumagarantianaumanaguahanisisariunadinifendi.</p>
+    <p>Tayasinamaakusanaumisaogikuatkuetpenapatfinatinasyansinangancomotiguiyaumisague'gipapanasionalnalai,gitiempoanaimakumitiiisao.Desdesedtidebidiumasmakatipenakontraunonimasaplikablegitiempoanaigumuahapena.</p>
+  </li>
+  <li>
+    <p>Tayasinamasumetidonuiarbitrarionnainentalogiisecretuna,familiana,gumanapatcorespondenciana,osetparauatakaihonranayanreputasiona.Todomangaiderechonuiproteksionilaikontraesonainentalopatinatakasiha.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechonuilibertadnamovimientoyanresidenciagihalomirendelonkadastado.</p>
+    <p>Todomangaiderechonaudingokatkuettano,inclusoitanona,yanparaubuettaguiguatotitanona.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechonaualigaoyanparaugosagiotrotanosihaasilo(linihen)ginekastigo.</p>
+    <p>Estenaderechotidebeumainvokagikasopotpersucusion(kastigo)sihanaturalmentedumokoginentipoliticalnaisaosihapatginenfinatinassihaniacocontraiintensionyanprincipalsihaiUnidosNasionsiha.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechonuunnasionalidad.</p>
+    <p>Tayaniunosinamaarbitariomentemaamotnuinasionalidadnaosetmarenuncianiderechoparautulaikainasionalidadna.</p>
+  </li>
+  <li>
+    <p>Lalaheyanfamalauannikabalesidadniha,sinnihafanarestriksionkausopotrasa,nationalidadpatrelihion,mangaiderechonaufanasaguayanparaufangaifamilia.Mangaiderechosihapotkasamento,durantenumasaguanniha,yaninadespatanikasamento.</p>
+    <p>Kasamentodebedeumahatmesoloquegilibertaoyankabalesnaconsentimentoniparaufanasaguanapersonasiha.</p>
+    <p>Ifamiliaguiyainaturalyanifundamentalnagurupondinannaisociedadyangaiderechoguinuiproteksionginenisociedadyanistados(lugana).</p>
+  </li>
+  <li>
+    <p>Todopersonamangaiderechoparaugaiproperdadnamaisayanloquegiassociasionyanotrosiha.</p>
+    <p>Tayaniunosinaarbitariomentemaamotnuiproperdadna.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechoparaufanmanhasogilibertad,conscienciayanrelihion;estenaderechohainklulusalibertadparautulaikairelihionnapathinengenna,yanlibertadmasehaguiyanamaisapatgidinannayanotrosihagipublicopatprivado,paraumanifestairelihionnapathinengennagifinanague,mapractica,inadorayanguinadda.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechoparalibertadnaopinionyanexpresasion;estenaderechohainklulusailibertadparausustieneopinionsinnihafanainentaloyanparauespia,uresibeyanulaknosinformasionyanideasihagimasehahafanamediayansinconsiderasionpotnuebonnihasiha.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechoparalibertadnaassembliayanasociasionnipacifico.</p>
+    <p>Tayasinamaobligaparauhalonggiunasociasion.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechoparaufannaonaogiigobiernamentonitanona,derektamentepatginenilibertadnimaayeknarepresentante.</p>
+    <p>Todomangaiderechonuiparehonaaccesso(entrada)paraiservicionpublicoitanona.</p>
+    <p>Iminalagoitaotaodebedeifundamentaliautoridadigobiernamento;estenaminalagodebedeumanaanokgitempo-pot-tempoyanmagahetnaelectionsihanidebegineniuniversalyanparehonabotoyandebedeumaconsigegisecretonabotasionpatgiekuivalentenlibertaonamanerasihaparamanbota.</p>
+  </li>
+  <li>
+    <p>Todo,comomembronisociedad,mangaiderechoparaisocialnaseguridadyangaiderechoparamanaguahaniseguridad,gineninasionalnaprenekurayaninternasionalnaco-operasionyangiacondanciayaniorganisasionyanguinahanikadaunonastado,ieconomia,socialyanculturalnaderechosihanitisinamachandaidignidadnayanilibertaonainadelantanipersonalidadna.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechoparaufachocho,paralibertaonaenayeempleo,paravirtuosoyanfaborablenacondisionichechoyanparaproteksionkontratiempleado.</p>
+    <p>Todo,sinnihafanadiscriminasion,mangaiderechonuiparehonaapasparaiparehonachocho.</p>
+    <p>Todomanmachochochomangaiderechoparavirtuosoyanfaborablenacompensensiaasiguridotparaguiyamismoyanifamilianaunlinalabaleyanhumano(taotao)nadignidad,yanmaumentaye(masaplemente)yanginnecesario,nuiotromediosihanaproteksionsocial.</p>
+    <p>Todomangaiderechoparauformayanusaonaogiinetnoncomerciosihaparaiproteksioniinteresnasiha.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechoparaudeskansayantaiocupasion,inclusomididaonaoranchochsiha,yantempo-pot-temponahaanengupotnimaapase.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechoparaunstandarnalinalaninahongparaihinemloyanfelicidadnayanparaifamiliana,inclusonenkano,magago,gumayanestimanmedicoyannecesarionaservicionsocialsiha,yaniderechoparaseguridadinkasonatiempleao,minalango,ininutet,biudopatbiuda,inamkopatotronifatanilinalagicircumstancianitanguegisisinana.</p>
+    <p>Maternida(humana)yaninfancia(neni)mangaiderechoparaspecialnainistemayanayudo.Todofamaguon,masehamafangogiestaokasamentopatahe,debedeugosaiparehonaproteksionsocial.</p>
+  </li>
+  <li>
+    <p>Todomangaiderechonuieducasion.Educasiondebedesinapas,polomenosgielmentarioyanifundamentalnaeskalerasiha.Elementarionaeducasiondebedeobligao.Teknicalyanprofesionalnaeducasiondebeumanaguahaheneralmenteyanilatakilonaeducasiondebedekabalesnahatmiyonparatodosigunimireto.</p>
+    <p>Ieducasiondebedeumaderiheparaikabalesyanimanametgotirespetopotderechonhumanosihayanfundamentalnalibertadsiha.Ieducasiondebeunadelantainakumprende,siningon,yaninamigoentalotodoitanosiha,rasapatguruponrelihionsiha,yandebeuomentaichechoiUnidasNasionsihaparaimasusetenipas.</p>
+    <p>ImManainamangaiprimetderechoparauayekiklaseneducasionniparaumanaeifamaguonniha.</p>
+  </li>
+  <li>
+    <p>Todomangaiderecholibertaoparausaonaogiiculturalnalinalaicomunidad,paraugosaiartosihaparausaonaogisientificonaadelantamenteyanibeneficionasiha.</p>
+    <p>Todomangaiderechopotiproteksionimoralyanmaterialnainteressihaumuhuyonginentodosientifico,literario(tinige)patproducsionartisticoniesoguiyaautor(fumatinas).</p>
+  </li>
+  <li>
+    <p>TodomangaiderechoparaunsocialyaninternasionalnaarregloanaiiderechoyanilibertadsihanimanmapologuinenaDeclarasionusinamarealisakabales.</p>
+  </li>
+  <li>
+    <p>Todomangaiobligasionparaicomunidadanaisolamenteilibertadyankabalesnaadelantoipersonalidadnasinamakonsige.</p>
+    <p>Giininasebeniderechonayanlibertadnasiha,todoufansometado(tokante)nuirestriksionsihanimanmadeterminagilaisolamentepotiintensiomimaaseguraniginagagaonarecognisionyanrespetoparaiderechoyanlibertadipumalosihayaniinafachaivirtuosonaginagaomoral,areglaonapublicoyaniheneralnaprosperidadniundemocraticonasociedad.</p>
+    <p>IderechoyanlibertadsihatidebeumausagikautkuetmaneronicontrarioyaniintensionyanimotiboniUnidasNasionsiha.</p>
+  </li>
+  <li>
+    <p>TayagiestenaDeclarasionusinamainterpetecomohaimplilika(hasasangan)parakuatkuetstado,gurupopatpersonakuatkuetderechoniparausaonaogikuatkuetactividad(chocho)patparaufatinaskuatkuetactomadesignaparaidestruksionikuatkuetderechoyanlibertadsihanimanmapologuinenatinige.</p>
+  </li>
+</ol>

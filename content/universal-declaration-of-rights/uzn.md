@@ -1,0 +1,122 @@
+<h1 align='center'>INSON HUQUQLARI UMUMJAHON DEKLARATSIYASI</h1>
+<h2 align='center'>Preambula</h2>
+<p align='center'>Inson oilasi barcha aʼzolariga hos boʻlgan qadr‐qimmat hamda ularning teng va ajralmas huquqlarini tan olish erkinlik, adolat va yalpi tinchlikning asosi boʻlishini eʼtiborga olib,
+Inson huquqlarini mensimaslik va oyoq‐osti qilish odamzod vijdonini oʻrtayotgan vahshiylarcha qilmishlarga olib kelganini hamda kishilar soʻz va maslak erkinligi sohibi boʻlib, qoʻrquv va muhtojlikdan holi boʻlib yashaydigan dunyoni bunyod etish odamlarning nufuzli intilishi, deb eʼlon qilinganligini eʼtiborga olib,
+Inson soʻnggi chora sifatida zulm va istibdodga qarshi isyon qilib bosh koʻtarishga majbur boʻlmasligining oldini olish maqsadida inson huquqlarni qonun izmi bilan muhofaza etilishi zarurligini eʼtiborga olib,
+Xalqlar oʻrtasida doʻstona munosabatlarni rivojlantirishga koʻmaklashish zarurligini eʼtiborga olib,
+Birlashgan Millatlarning xalqlari Ustavda insonning asosiy huquqlarni, qadr‐qimmati va inson shaxsning benazirligiga hamda erkaklar va ayollarning teng huquqligiga oʻz ishonchlarini tasdiqlaganliklarni hamda katta huquq bilan ijtimoiy taraqqiyot va turmush sharoitini yaxshilashga yordam berishga qaror qilganliklarni eʼtiborga olib,
+Aʼzo boʻlgan davlatlar Birlashgan Millatlar Tashkiloti bilan hamkorlikda inson huquqlari va asosiy erkinliklarni yalpi hurmat qilish va rioya etishga yordamlashish majburiyatini olganliklarni eʼtiborga olib,
+Ushbu huquqlar va erkinliklar tusini yalpisiga tushunib olish mazkur majburiyatni toʻla‐toʻkis bajarilishi uchun juda katta ahamiyatga ega boʻladi.
+Bosh Assambleya
+Inson huquqlari mazkur umumjahon deklaratsiyasini barcha xalqlar va barcha davlatlar bajarishiga intilishi lozim boʻlgan vazifa sifatida eʼlon qilar ekan, bundan muddao shuki, har bir inson va jamiyatning har bir tashkiloti hamisha ana shu deklaratsiyani nazarda tutib maʼrifat va ilm yoʻli bilan ushbu huquqlar va erkinliklarning hurmat qilinishiga yordam berishga intilishlari hamda milliy va xalqaro taraqqiyparvar tadbirla yoʻli bilan ham, ushbu huquqlar va erkinliklarning Tashkilotga aʼzo boʻlgan davlatlar xalqlari oʻrtasida va mazkur davlatlarning yurisdiksiyasidagi hududlarda yashayotgan xalqlar oʻrtasida yalpisiga va samarali tan olinishiga kerak.</p>
+<ol>
+  <li>
+    <p>Barchaodamlarerkin,qadr‐qimmatvahuquqlardatengboʻlibtugʻiladilar.Ularaqlvavijdonsohibidirlarvabir‐birlarigabirodarlarchamuomalaqilishlarizarur.</p>
+  </li>
+  <li>
+    <p>Harbirinson,birorbirayirmachiliksiz,irqi,terisiningrangi,jinsi,tili,dini,siyosiyeʼtiqodiyokiboshqaeʼtiqodlaridan,milliyyokiijtimoiykelibchiqishidan,mulkiyahvoli,qaysitabaqagamansubligivaboshqaholatlaridanqatʼinazar,mazkurDeklaratsiyadaeʼlonqilinganbarchahuquqlarvaerkinliklarsohibiboʻlishikerak.Bundantashqari,insonmansubboʻlganmamlakatyokihududningsiyosiy,huquqiyyokixalqaromaqomidanqatʼinazar,ushbuhududmustaqilmi,vasiylikdami,oʻzinioʻziboshqaradimi,yokimustaqilligibirorbirtarzdacheklanganmi,bundanqatʼinazarsiraayirmachilikboʻlmasligikerak.</p>
+  </li>
+  <li>
+    <p>Harbirinsonyashash,erkinlikvashaxsiydaxlsizlikhuquqigaegadir.</p>
+  </li>
+  <li>
+    <p>Hechkimqullikdayokiqaramlikdasaqlanishimumkinemas;qullikvaqulsavdosiningbarchaturlaritaqiqlanadi.</p>
+  </li>
+  <li>
+    <p>Hechkimazob‐uqubatgayokivahshiylarcha,insonlikkaisnodboʻlganyokiqadr‐qimmatnixoʻrlaydiganmuomalavajazogamustahiqboʻlmasligikerak.</p>
+  </li>
+  <li>
+    <p>Harbirinson,qayerdaboʻlishidanqatʼinazar,oʻzininghuquqsubyektisifatidatanolinishihuquqigaegadir.</p>
+  </li>
+  <li>
+    <p>Barchaodamlarqonunoldidatengdirva,siraayirmachiliksiz,qonuntomonidanbabbaravarmuhofazaetilishihuquqigaegadir.BarchaodamlarmazkurDeklaratsiyanibuzadiganharqandaykamsitishidantengmuhofazaqilinishhuquqigavaanashundaykamsitishgagij‐gijlashdantengmuhofazaqilinishhuquqigaegadirlar.</p>
+  </li>
+  <li>
+    <p>Harbirinson,mabodouningkonstitutsiyayokiqonunberibqoʻyganasosiyhuquqlaribuzilgudekboʻlsa,nufuzlimilliysudtomonidanoʻzhuquqlariningsamaralitarzdatiklanishihuquqigaegadir.</p>
+  </li>
+  <li>
+    <p>Hechkimoʻzboshimchalikbilanqamalishi,ushlanishiyokiquvgʻinqilinishimumkinemas.</p>
+  </li>
+  <li>
+    <p>Harbirinson,uninghuquqlarivaburchlarinibelgilashvaungaqoʻyilganjinoiyaybningnechogʻligiasoslanganliginianiqlashuchun,batamomtenglikasosida,oʻzishioshkora,adolatningbarchatalablarigarioyaetilib,mustaqilvaxolissudtomonidankoʻribchiqilishihuquqigaegadir.</p>
+  </li>
+  <li>
+    <p>Jinoyatsodiretishdaayblanayotganharbirinsongahimoyauchunbarchaimkoniyatlaryaratibberilib,sudmajlisidaoshkoratartibdaqonuniyyoʻlbilanuningaybdorligianiqlanmaguncha,beaybdebhisoblanishhuquqigaegadir.</p>
+    <p>Hechkim,birorbirxatti‐harakatyokifaoliyatsizliksodiretilganvaqtda,bularmilliyqonunlaryokixalqarohuquqqakoʻraoʻshapaytdajinoyatdebtopilmaganboʻlsa,shujinoyatnisodiretganliklariasosidahukmqilinishlarimumkinemas.Shuningdek,jinoyatsodiretilganvaqtdaqoʻllanishimumkinboʻlganjazoganisbatanogʻirroqbirjazoqoʻllanishihammumkinemas.</p>
+  </li>
+  <li>
+    <p>Hechkiminsonningshaxsiyyokioilaviyhayotigaoʻzboshimchalikbilanaralashishi,insonninguy‐joyidaxlsizligiga,uningxatlaridagisirlargayokior‐nomusivashaʼnigaoʻzboshimchalikbilantajovuzqilishimumkinemas.Harbirinsonanashundayaralashishyokianashundaytajovuzdanqonunyoʻlibilanhimoyahuquqigaegadir.</p>
+  </li>
+  <li>
+    <p>Harbirinsonharbirdavlathududidaerkinyurishvaoʻzigaistiqomatjoyitanlashhuquqigaegadir.</p>
+    <p>Harbirinsonharqandaymamlakatdan,shujumladanoʻzmamlakatidanchiqibketishvaoʻzmamlakatigaqaytibkelishhuquqigaegadir.</p>
+  </li>
+  <li>
+    <p>Harbirinsontaʼqibdanboshqamamlakatlardaboshpanaizlashvabuboshpanadanfoydalanishhuquqigaegadir.</p>
+    <p>Mabodo,aslidasiyosatgadaxldorboʻlmaganjinoyatyokiBirlashganMillatlarTashkilotimaqsadlarivaprinsiplarigazidboʻlganxatti‐harakatsodiretilishiasosidajinoyatyuzagakelsabuhuquqdanfoydalanishmumkinemas.</p>
+  </li>
+  <li>
+    <p>Harbirinsonningfuqarolikhuquqibor.</p>
+    <p>Hechkimoʻzboshimchalikbilanoʻzfuqaroliginioʻzgartirishhuquqidanmahrumetilishimumkinemas.</p>
+  </li>
+  <li>
+    <p>Balogʻatgayetganerkaklarvaayollar,irqi,millatiyokidinigaqarabbirorbircheklashsiznikohdanoʻtishvaoilaqurishhuquqigaegadirlar.Ularnikohdanoʻtayotganidaham,nikohdaboʻlganvaqtidahamvanikohbekorqilinayotganidahambirhuquqlardanfoydalanadilar.</p>
+    <p>Nikoh,nikohdanoʻtayotganikkalatomonningxohishivabatamomroziligibilanginatuzilishimumkin.</p>
+    <p>Oilajamiyatningtabiiyvaasosiyhujayrasidirvaujamiyat,davlattomonidanmuhofazaetilishihuquqigaegadir.</p>
+  </li>
+  <li>
+    <p>Harbirinsonyakkaoʻziyokiboshqalarbilanbirgalikdamulkkaegalikqilishhuquqisohibidir.</p>
+    <p>Hechkimoʻzboshimchalikbilanoʻzmulkidanmahrumqilinishimumkinemas.</p>
+  </li>
+  <li>
+    <p>Harbirinsonfikr,vijdonvadinerkinligihuquqigaegadir;buhuquqoʻzdiniyokimaslaginioʻzgartirisherkini,oʻzdiniyokimaslagigayakkatartibdayokiboshqalarbilanbirgalikda,taʼlimot,toat‐ibodatdahamdadiniyrasm‐rusumlarvaboshqashungaoʻxshashmarosimlarniadoetishdaxaloyiqbilanbirgalikdayokixususiytarzdaeʼtiqoderkinliginiqamraboladi.</p>
+  </li>
+  <li>
+    <p>Harbirinsonmaslakerkinligigavabularnierkinifodalashhuquqigaegadir;ushbuhuquqhechbirxalalsizoʻzmaslaklarigarioyaetisherkinliginivaaxborotvagʻoyalarniharqandayvositalarbilanhamdadavlatchegaralaridanmustaqiltarzdaqidirish,olishvatarqatisherkiniqamraboladi.</p>
+  </li>
+  <li>
+    <p>Harbirinsonosoyishtayigʻilishlarvauyushmalaroʻtkazish(tuzish)huquqigaegadir.</p>
+    <p>Hechkimbirorbiruyushmagamajburankiritilishmumkinemas.</p>
+  </li>
+  <li>
+    <p>Harbirinsonbevositayokierkinlikbilansaylanganvakillarivositadaoʻzmamlakatiniboshqarishdaishtiroketishhuquqigaegadir.</p>
+    <p>Harbirinsonoʻzmamlakatidadavlatxizmatigakirishdatenghuquqigaegadir.</p>
+    <p>Xalqirodasihukumathokimiyatiningnegiziboʻlmogʻilozim;buirodavaqti‐vaqtibilanboʻladiganvasoxtalashtirilmagansaylovdaoʻzaksinitopishi,ushbusaylovyalpivatengsaylovhuquqigakoʻra,yashirinovozberishyoʻlibilanyokiovozberisherkinligitaʼminlaydiganboshqatengma‐tengshakllarvositasidaoʻtkazilishkerak.</p>
+  </li>
+  <li>
+    <p>Jamiyataʼzosisifatidaharbirinsonmilliykuch‐gʻayratlarsarflashvaxalqarohamkorlikvositasidahamdaharbirdavlatningtuzimivaresurslarigabinoanijtimoiytaʼminothuquqiga,uningqadr‐qimmatinisaqlabturishvashaxsinierkinkamolgayetkazishhuquqigaegadir.</p>
+  </li>
+  <li>
+    <p>Harbirinsonmehnatqilish,ishnioʻzerkibilantanlabolish,mehnatningadolatlivaqulaysharoitlariboʻlishivaishsizlikdanmuhofazaetilishhuquqigaegadir.</p>
+    <p>Harbirinson,birorbirkamsitishsiztengmehnatgatenghaqolishhuquqigaegadir.</p>
+    <p>Harbirishlayotganodam,uningoʻzivaoilasiuchunmunosibyashashnitaʼminlaydiganadolatlivaqoniqarlidaromadolish,zarurboʻlganhollardaijtimoiytaʼminotningboshqavositalaribilantoʻldiriladigandaromadolishhuquqigaegadir.</p>
+    <p>Harbirinson,kasbittifoqlarituzishvaoʻzmanfaatlarinihimoyaqilishuchunkasbittifoqlarigakirishhuquqigaegadir.</p>
+  </li>
+  <li>
+    <p>Harbirinsondamolishvaboʻshvaqthuquqiga,jumladanishvaqtinioqilonaqisqartirishhamdahaqtoʻlanadigandavriytaʼtilolishhuquqigaegadir.</p>
+  </li>
+  <li>
+    <p>Harbirinsonoʻzivaoilasiningsihat‐salomatliginivafarovonliginiasrashuchunzarurboʻlganturmushdarajasiga,shujumladanoziq‐ovqat,libos,uy‐joy,tibbiyqarovvazarurijtimoiyxizmathuquqigahamdaishsizqolganida,betobligida,nogironligida,bevaboʻlibqolganida,qariganidayokioʻzigabogʻlikboʻlmaganholatlargakoʻratirikchilikuchunmablagʻiboʻlmayqolganidataʼminlanishhuquqigaegadir.</p>
+    <p>Onalikvabolalikalohidavasiylikvayordamhuquqiniberadi.Nikohdaturibtugʻilganvanikohsiztugʻilganbarchabolalarbirxilijtimoiymuhofazadanbahramandboʻlishlarikerak.</p>
+  </li>
+  <li>
+    <p>Harbirinsonbilimolishhuquqigaegadir.Taʼlimkamdegandaboshlangʻichvaumumiytaʼlimtekinboʻlishikerak.Boshlangʻichtaʼlimmajburiyboʻlishilozim.Texnikaviyvahunartaʼlimibarchagamuhayyoetilishi,oliytaʼlimesaharbirodamningqobiliyatiasosidabarchauchunbirxilmuhayyoetilishikerak.</p>
+    <p>Taʼliminsonshaxsiningbarkamolligigahamdainsonhuquqlarivaasosiyerkinliklarigahurmatningortibboraverishigaqaratilishilozim.Taʼlimbarchaxalqlar,irqiyvadiniyguruhlaroʻrtasidagihamjihatlikka,sabr‐bardoshgavadoʻstlikkakoʻmaklashishihamdaBirlashganMillatlarTashkilotningtinchliknisaqlashborasidagifaoliyatigayordamlashishikerak.</p>
+    <p>Ota‐onalaryoshbolalariuchuntaʼlimturinitanlabolishdanufuzlihuquqqaegadirlar.</p>
+  </li>
+  <li>
+    <p>Harbirinsonjamiyatningmadaniyhayotidaerkinishtiroketish,sanʼatdanbahramandboʻlish,ilmiytaraqqiyotdaqatnashishvauningneʼmatlaridanbahramandboʻlishhuquqigaegadir.</p>
+    <p>Harbirinsonoʻzimuallifiboʻlganilmiy,adabiyyokibadiiyasarlaryuzasidanmaʼnaviyvamoddiymanfaatlarihimoyaqilinishihuquqigaegadir.</p>
+  </li>
+  <li>
+    <p>HarbirinsonMazkurDeklaratsiyadabayonetilganhuquqlarvaerkinliklartoʻla‐toʻkisroʻyobgachiqadiganijtimoiyvaxalqarotartibboʻlishihuquqigaegadir.</p>
+  </li>
+  <li>
+    <p>Harbirinsonjamiyatoldidamajburiyatolgan,faqatshutaxlitdaginainsonshaxsierkinvatoʻla‐toʻkiskamoltopishimumkin.</p>
+    <p>Harbirinsonoʻzhuquqvaerkinliklariningroʻyobgachiqishdashundaycheklashlargamubtaloboʻlishimumkinki,bularqonuntomonidanbelgilabqoʻyilishihamdabundanmuddao–boshqalarninghuquqlarivaerkinliklarizarurdarajadatanolinishvahurmatqilinishihamdaaxloq‐odobningadolatlitalablariijtimoiytartibhamdademokratikjamiyatdagibugungifarovonlikningadolatlitalablariqondirilganboʻlsin.</p>
+    <p>AnashuhuquqvaerkinliklarningamalgaoshirilishiBirlashganMillatlarTashkilotimaqsadlarivaprinsiplarigasirazidboʻlmasligikerak.</p>
+  </li>
+  <li>
+    <p>UshbuDeklaratsiyasiningbutunruhibirorbirdavlatga,shaxslarguruhigayokialohidashaxslargamazkurDeklaratsiyadabayonetilganhuquqlarvaerkinliklarningyoʻqqilinishigaqaratilganbirorbirfaoliyatbilanshugʻullanishyokixatti‐harakatlarsodiretishgayoʻlqoʻyibberadi,debtalqinetilishimumkinemas.</p>
+  </li>
+</ol>

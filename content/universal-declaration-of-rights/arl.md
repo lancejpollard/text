@@ -1,0 +1,123 @@
+<h1 align='center'>PUETUNU PUEYAPUEECUARAJANAA NIYA NAAJIOSAAREE TAA PA MIISHIYANI</h1>
+<h2 align='center'>Taricua pa Niishishano</h2>
+<p align='center'>Paa niishiyani: puetunu pajaniyajanaa cartesano quiniu paniyani maninia pa quinuria. Paa maninia jiitiasano quiniu paniyani. Paa juhuajaniya quiniu paniyani. Maja pa miaquetoonu paniniu. Pocua naa quiri paa jaara rerequeteyaquiri tamasaca, paa jaara mariyata maninia miitioya puetunujuanaa.
+Paa niishiyani: pueya jaara jiyaniquiaari tamasaca pueya maja maninia miishiya juhua narta pueya, nojori jiyanohua sesa na miiquiaari. Maninia pueyari shiriiquirii na niishishacari taa naquiya miishariquiaa tamasaca pueya. Pueya jaara sesa niishiyajaa naa, maja pa naata quiniu maninia mijiria. Jiyocua pa quishacari, pajaniya juhuajaniya quiniu paniyani. Paa cartesano quiniu paniyapa sequenura casaa pa sequenu paniyani, pa shipininiapa tojiniuria taa pa niishiyani. Paa cartesano quiniu paniyani pa puerenuucuaji, pa miaajenuucuajinio.
+Paa niishiyani: pueya cuaara maninia jiitiasaaria maninia rootasanota pueya mariqui miaquetooreeri tamonu jaara sesa na jiitiaa, mariyata pueya jaara maja na naata na panishano masenu.
+Paa niishiyani: pueya cuaara jiyano¿tioora tamonu jiyajinia quiniaa, juhuajaniya pa quiniuria jiyocua.
+Paa niishiyani: puetunu pajaniyajanaa pa rupuetoosano jiyacajinijinio tari naajioquiaari pa niishishano naatej: -Puetunu pueyanojuanaa mariyata maninia jiitiashiya. Maja rerequeteshiya tamonu. Maja jatashiya tamonu juhua najuhuana quijia. Maajipohua cuaara miishaaria maninia mariyata taa canuu maninia miishiyacuaani. Paa mariyata sequequiaari: -Pa poonijiore socua maninia pa quiniuria puetunujuanaa, socua casamiriacara pa quiniuriajuhua, socua cartesano pa quiniuriajuhuaj.
+Paa niishiyani: puetunu jiyaniijiajanaari pa rupuetoosano jiyacajinijinio sequeree na pueya niishitiojonutaniya pa sequesano nojori tojiniuria maninia, maja na soonuucuaji.
+Paa niishiyani: Noojiaqueya pueya niishiyaquishacari pa sequesano maja pa naata maninia miiniu puetunu pa sequesanojuanaa nio naajiojuajinia.
+Naaratej:
+Puetunu canaaj anaa canaa rerej osacari sequereeni:
+Nio canaa naaj iosanoori puetunu pueyapueecuarajanaa quiya puetunu jiyacajiniajanaa pueya niishiniuria taa pa jiitianu panishiyani. Puetunu pueyajanaa cuaara niishitiojoora narta pueya nojori tojiniuria nio. Maja na soonu. Nia numaama nia racatare canaa sequesano maninia nia niishitiojonura tamasaca. Jiyaniijianucua cuaara sequeera taa miishiyani na jiyajinia pueya tojiniuria canaa sequesano. Cuaara niishitiojosaaria puetunu na pueyajanaa, mariyata cante tamonu jiyajinia quiya na jiitiasano pueyajinijinio. Naarate canaa naa sequereeni:</p>
+<ol>
+  <li>
+    <p>Pueyanopaquishacari,puetunupajaniyajanaamariyatamiishiyamaninia,majasooshiyatamonu.Puetunupueyajanaariniishitiajaraca,jiuujiaaracaniopueyacuapataraajenura.Naaratemaniniapajiyanootioorejuhuapatapueyocuaca.</p>
+  </li>
+  <li>
+    <p>Puetunupueyajanaamariyatamaniniamiishiyataacanaasequereeni.Majarimiajatamiishiyatamonu.Tahuenaquishacari,naajaa.Tamuecanacuaqueyani,naajaa.Caya,maajisoj,naajaa.Tamaatiarupaaraca,naajaa.TaanatojiyanaPueyasoni,naajaa.Cantetamaatiajiitianupaniyani,naajaa.Tamaatianaquiniu,naajaa.Tamonupueyanonaquishacari,naajaa.Panishanopueyano,soosanopueyanosoj,naajaa.Casamiriaca,casamiijiusoj,naajaa.Jiyaniijianaque,poontijiotasusanonaque,naajaa.Tamaatianaquishacari,naajaa.Mariyatapuetunumaniniamiishiyajanaacantetamonujiyajinijinioquiyani.Najiyajaaratamanajiyaniijiaracajaaja,maninia.Najiyajaaratamonujiyajinijijiitiasaaree,naajaa.Najiyajaarashocotasaarucuamiaquetoosacari,naajaa.Naacuajiti,taanajiyaquiyani,naajaa.Nacamarumariyatamaniniamiishiyataacanaasequeyacuajaaninionaajiojuajiniani.</p>
+  </li>
+  <li>
+    <p>Puetunupueyajanaacuaararishiiria.Majamoshiyatamonunajuhuana.Puetunupueyajanaacuaaraquiiriacartesano.Majaquiashiyatamonupueyaseruranaquiniuria.Puetunupueyajanaacuaarajuhuajaniyaquiiria.Majanaquiyamiishiyatamonu.</p>
+  </li>
+  <li>
+    <p>Tamonucuaarajiitiaaquiiriaquiasanopueyanonaserura.Majapoontijioshiyatamonunajuhuana.</p>
+  </li>
+  <li>
+    <p>Majasaniniujiushiyatamonunaquiyanamiishacarinasequenurajuucua.Mariyatasesamiijiamajasaniitioshiyapueranaquiyanamiishacarijuhuanarejacasaa.Majasesamiishiyajuhuasare.Pueyano,partapueyano.</p>
+  </li>
+  <li>
+    <p>Pueyanojaaratamonujiyajiniarucuanejiya,teyunojiyajinianaquiyani,naajaa,mariyatamaniniamiishiyataacanaasequeyacuajaani.Tamonujaarasesanamiirii,nacamarutonujusacarisaniniujiunianiquiara,cunocuaaratojiirianoo.</p>
+  </li>
+  <li>
+    <p>Pueyanojaarasesamiishaaree,nanaatasaniniujjunianiquiaratonujunusesamiiniaacuara.Pueyanojaaranajuhuanaquijiaquirii,cantesesamiishaareni,naajaa.Puetunupueyajanaacuaaracojuasaariamaniniataacanaasequeyacuajaani.</p>
+  </li>
+  <li>
+    <p>Puetunupueyajanaanaatasaniniujiunianiquiaratonujunutamonuucuara,tamonujaarasesanamiirii.Saniniujiuniacuaaranamiirianeramaninianaquiniuhuara.</p>
+  </li>
+  <li>
+    <p>Majaquiashiyapueyanonajuhuana,sesanamiyaquishacari.Majanujuatejoshiyanajuhuana.Majataanuujushiyanajiyajinijinajuhuana.</p>
+  </li>
+  <li>
+    <p>Pueyanojaarasaquiriojotassaree,majaritiasaniitioshiya.Cuaarasaniniujiushaarianartapueyaniquiara,saniniujiunianiishiniuriaseetanutejanaasesamiirii,majasoj.</p>
+  </li>
+  <li>
+    <p>Pueyanojaarasaquiriojotasaaree,cunocuaarasequesaariamaniniamiijiajaarasaniniujiushiyajaatijia.Nasaniniujiushacaricuaaranequesoreetasaariasuraatia,seetanujuanaaniishiniuriamaninia,sesasoj.Majanajuhuanasequeshiyasesapueyano.</p>
+    <p>Majasaniitioshiyapueyanonamiishanoocuaji,jiyaniijiasequesanoquiyaquishacarinamiishacari.Jiyaniijianaasucuananuhuajisequeya:-Majanaatepamiiniu.Saajacantesesamiyajiyaniijiasequenunuhuaji,nojuajacutaraarisaniitioshiya.Saajasaniitioshiyataanaajiosanoquiyasesanamiishacari.Majasocuajiyanohuasaniitioshiyataarootasanoquiyanamiiniunuhuaji.</p>
+  </li>
+  <li>
+    <p>Juhuajaniyapaquishacari,maniniapamiishacari,majapataajeteshiya.Majapatapueyocuacataajeteshiya.Majatamonupatiajiniatiuquiniunajuhuananataajetenurapajaniya.Majapasesacashiyanajuhuana.Majapapohuatashiyasapojonutapueyaniquiara.Paajaaranaasesamiishaareni,cuaarapohuatasaariasaniniujiuniapocuanaminiuria.</p>
+  </li>
+  <li>
+    <p>Cantenajiyajiniarucuanejonupaniyani,cuaararucuanejoora.Naajuhuaj,nanaatapacunuteenapaniyani.Majatarinitianishiya.</p>
+    <p>Cantetamonujiyajiniarucuanejonupaniyani,cuaararucuanejoora.Naquianupanishacariuhuatamanajiyajiniajaaja,majatarinitianishiya.</p>
+  </li>
+  <li>
+    <p>Cantenaquiyamiishaariquiaanajiyajiniani,nanaatatamonujiyajiniapacunujuhuajaniyanaquiniuria.</p>
+    <p>Socuacanteseetanujuanaasesamiiriquiaa,cunosaniniujiushiyatamanajiyajiniajaaja.Majananaatapacunutamonujiyajinia.</p>
+  </li>
+  <li>
+    <p>Puetunupueyajanaananaatanapanishanojiyapueyanoraquiniu.</p>
+    <p>MajaPerujiyajiniarasanonajuhuanasequeshiya:-MajaPeruanoquiajaniya.Naajaa,cantetamonujiyapueyanoraquiniupaniyani,nanaatanaamiiniutej.</p>
+  </li>
+  <li>
+    <p>Mashaja,niyacoonaatacaminiu.Neyacarano,niquiuranojaaratamonupueyaquiya,naajaa.Jaaratamonujiyajinijinionaquiniu,naajaa.JaaratamaatiatojiyaPueyaso,naajaa.Cuaaracamiiarianapanishacari.Naajuhuaj,nanaatamuerasuracaraquiniunapanishacari.Majatarinitianishiya.Caya,maajimariyatamaniniamiishiya,mariyatacojuashiyasesamiishanoocuajitaacanaasequeyacuajaani.Mariyatamiishiyacanaasequesanopueyacaminiupanishacari,camishanonaquishacarinio,mariyatanacartesacari,jaaracartesaaree.</p>
+    <p>Cuaaracamiirianapanishacarisaaja.Cayapanishacari,mariyatamaajipanishacari.Majacamitishiyatamonunapaniyaquishacari.</p>
+    <p>Puetunujiyajiniajanaaquiyaqueraatiatapueyocuaca.Tapueyocuacajaaramaniniaquiyapuetunujiyajiniajanaa,pajiyacutaramaniniaquiniutianiya.Naaratetapueyocuacacojuashiya.Jiyaniijiacuaaracojuaaracamishanopueyamaninianojoriquiniurianamuerasuta.</p>
+  </li>
+  <li>
+    <p>Cantejiyacamarnuquiyani,maninia.Cantetamajaajajiitianupaniyanajiyani,maninia.Cantenartapueyatanajiyajiitianupaniyani,maninia.</p>
+    <p>Majapueyanojiyariutiocoshiyanocuajinajuhuana.</p>
+  </li>
+  <li>
+    <p>Puetunupueyajanaananaataniishiriojonutaanapaniyani.Majamiitishiyasesanamiiniunajiyanishano.Majatarinitianishiyanamiiniuucuajinajiyanishanomaninianamiiniu.NaacuajiticuaaratojitishiiriaPueyasotaananiishiyani.Pueyanojaarasequeya:-Majacuaniishiniuquiriquiaa.JaniyasesatojiriquiaaPueyasoni,cunonanaatacartenutarinaniishishanotamaatianatojiniuriaPueyasotaanapaniyani.CuaaracartesaariapueyanaPueyasopanishanonamiiniuriatamajaaja,natapueyocuacatanio.Majatarnitianishiyananiishitiojosacaripueyaniquiara,nasecojosacariPueyasonio,narerejosacarinio,najaaquejosacarinio.</p>
+  </li>
+  <li>
+    <p>Puetunupueyajanaananaataniishiriojonutaanapaniyani.Nanaatapohuatanunaniishishano.Majataajeteshiya.Majasanaajatashiya.Nanaatasocuaniishishanomasenutijisocuaniishishanoquiyani.Mariyatananaatanapacunusocuapueyaniquiarataanapaniyani;naajioneequeta,radiota,pocuanuta,naajaa.Nanaatananiishiniupanishanomasenutamonujiyajiniji.Mariyatananaatanapohuatanupanishanopohuatanutamonujiyacajiniara.</p>
+  </li>
+  <li>
+    <p>Panaatarerejonupatapueyocuacatajuhuajaniyapaquishacari.Panaatarupuetoonucantapapaniyani.</p>
+    <p>Cantemajatamonumaapuetapueyocuacaraquiniupaniyani,cunomajarupueteshiyanapaniyaquishacari.</p>
+  </li>
+  <li>
+    <p>Pajiyajiyaniijiapasaquiriojosacari,puetunupueyajanaacuaaranaajiooracantenapaniyanijiyaniijiarajyatesocoriquiano.Naaniishishanteteyanotesocuapueyapanishanoni.Socuapanishanojiyateshiyajiyaniijiara.Pueyacuaaranaajiooranajiyaniijiaacuaranasequenuramaninanajiitianurapajaniya.</p>
+    <p>Pajiyajiitiasanocasamipueyara,puetunupajaniyarajanaaquiya.Majajatashiyatamonu.</p>
+    <p>Pueyapanishanopueyacuaarajiyatesaariajiyaniijianucuara.Jiyaniijianucuacuaarasaquiriojosaariasequeyarucua.Majapanishanopueyaracanutamonujiitianurapajaniya.Nanuhuajipueyacuaarasaquiriojonuhuarasocuanojuaja,tamonusoj,cantesocuapanishanonipajiyaniijiara.Jiyaniijiarasaquiriojonura,pueyacuaaranaajioorajiyasohuajacantenapaniyani,paamariquipuerereerisequenurapueyaniquiara.</p>
+  </li>
+  <li>
+    <p>Puetunupartapueyajanaacuaarajiitiasaariamaninia,juhuajaniyaquijiarapaquiniuria,niishijiarapaquiniurianio,majanajuhuanaquijiarapaquiniuria.Naaratepuetunujiyajiniajanaacuaaramiishaariamaninianapueyarataananaatani.Naacuajitij,cantemajananaatanapanishanomasenutamajaaja,najiyaniijiacuaaraniquitioranapanishanojaarananaatananiquitionu.Tamasacajiyacacuaaracumaquiiriacasamiijiujiyajiniaquiniaa.</p>
+  </li>
+  <li>
+    <p>Cantepoonijionupaniyani,cuaarapoontijiosaaria.Pueyacuaarasaquiriojooratamajaajacanranapoonijionupaniyani.Poontijionacuaarajiitiaaramaninianapoontijiosanopueya.Majapoontijioshiyatiinaquiyamiishaanutaniya.Cuaarapoontijiosaariapuetunupueyajanaanapanishanonamasenura.</p>
+    <p>Puetunupoontijiosanojuanaacuaaraniquitiosaariamariyata,pueyajaaramariyatamiiriquiaa.Majasocuashiitianiyojuaniquitioshiyatamonunajuhuana.</p>
+    <p>Puetunupoontijiosanaajanaacuaaraniquitiosaariataricuajanatapueyocuacapanishanonamasenurajuhuajaniyanaquiniuria.Jiyaniijiacuaaraniquiiriacantemajananaatanapanishanomasenunapoonijiosanosamijiniji.</p>
+    <p>Poontijiosanaananaatanartatapueyocuacarupuetoonunacamarunojorisequenurajatiqui,natojitiniurianasequenunapanishano.</p>
+  </li>
+  <li>
+    <p>Poontijionacuaarasamaateniirianapueya.Majapoontijioshiyapueyajuuca,niucuanio.Puetunumarijiarajanaapoontijiosanaatarnitianishiyanojoricamuenujunuraunasemana,socuanaasucua,narejanaquiniuria.Jiyacarinapoonijiyaquishacariintiniquitioshiyamariyata,napanishanonamasenura.</p>
+  </li>
+  <li>
+    <p>Puetunupoonijionaacuaaraniquitiosaariataricuajanapanishanonamasenura,maninianaquiniurianatapueyocuacata.Naacuajitinanaatajiitianunamiajajau,natoqueyanio,natianio,nanarajotajanio,socuanapanishanonio.Nerapueyaracaanuracatashiyajuhuashiitianiyojuaintismaninianaquiniuriajanapoonijiyaquishacari,cusosunaquishacarinio,majananaatanapoonijiosacarinio,necocuamashiquioquishacarinio.Mariyataracatashiyaneraniquitiosocoriquianojaaramajananaatapoonijionuquiniu,tamacasaaranio.</p>
+    <p>Socuamaniniacojuashiyamaajimueyaracanaquishacari,manajaracanaquishacarijiuhya.Puetununaatujoorijianaacuaarajiitiasaariamaninia.Cantequeyaraca,cantesaamaajirasanojua,naajaa,mariyatamaniniacojuashiya.</p>
+  </li>
+  <li>
+    <p>Canteserojonuniishiniupaniyani,cuaaraniishitiojosaaria.Majaintisnaniquitionunaserojotenusamiprimariajinia.Puetununaatujoorijianaaserojoteshiya.Cantesocuaniishiniupaniyaniprimarianuhuaji,cuaaratiuquitiaaratamonuescuelajiniatiinaniishiniupanishanoniishitiojoshiyani.Tiuquitishiyapuetunupueyajanaa,napanishacari.Pueyanojaaraqueraatianiishiyasocuaniishitiojosaanutaniya.</p>
+    <p>Niishitiojonaacuaaraniishitiojooranamuerasumaniniapueyaranojoriqúiniuria,majasaajanaserojonura.Niishitiojoshiyamajapueyanarerequetenura,majasesanamiiniuria,nionaajiojuajinia.rootasanonatojiniuriajuhuaj.Cuaaraniishitiojoorapuetunupueyajanaamaniniarupuetoonura,maniniajiuujiaatioonura,maniniatarajanuratamasacapueya,tahuetamonujiyajinijinio,mariyatacantemajaPueyasotojiniutaapatojiquiaaPueyasocuani.Cuaaraniishitiojoorajuhuamaniniaparupuetoosanojiyacapacumaquiniuriajuhuajaniyapaquiniuria.Majapamiaquetoonura.</p>
+    <p>Naatujooriqueyananaatasaquiriojonuteyanoescuelatesocuamaninianamuerasura,namuerasucuaaraniishitiojosaariataanaqueyapaniyani.</p>
+  </li>
+  <li>
+    <p>Majajuhuataanuujusaanurajiyateshiyapueyanonartapueyatarerejonuucuajishuquiriaatiapaquishacari.Maniniacasaajaaraquiripueyara,cuaaraquiiriapuetunupueyarajanaashuquiriaatiapaquiniuriapuetunumaniniajanaa.Majajatashiyatamonunajuhuanaj.</p>
+    <p>Pueyajaaraquiaricasaashipiniri,tamananiishiriojosanojuaajanaajioreesoj,casaanaariijiuhuaj,tamonucuaarasequeyaquiiria:-Cuashipinishano.Janiyanacamaru.Tamonucuaaranohuaseyaquiirianacamaruniishishanotamajaajanapacunuraintisra.Nacamarujuaajacuaaraniquitiosaariaintisnaniishishanoocuara.Nohuasejojuasaniitioshiya.</p>
+  </li>
+  <li>
+    <p>Puetunupueyajanaacuaarajiitiasaariamaninia,shuquiriaatiapaquiniuriapuetunumaniniajanaataacanaasequeyacuajaaninionaajiojuajiniani.</p>
+  </li>
+  <li>
+    <p>Puetunupueyajanaacuaaramiiriananiishishano,maninianatiacajiniaquiniaaquiniuria.Saapamiishacaripuetunupaniishishanojuanaapocuasocuamaniniapueyaraquirini.</p>
+    <p>Pueyacuaaramiiriapuetununamiiniupanishanojuanaa.Narejamajapatojiyaquiniupajiyaniijiarootasano,paamariquitaajetereeripartapueya.Narootasanoquiyapartapueyacojuasaanurasesanamiiniuucuajitamonu.Narootasanomariyataniishitiojiyapajaniyamajasesamiijiapaquiniuria,mariyatajuhuajaniyapaquiniuriajatiquipuetunupueyatajiniajanaa,mariyatasocuamaniniapuetunupueyaquiniuriajanaa,majasaajasecapueyajashuquiriaatiaquiniuria.</p>
+    <p>Naajuhuaj,pamiishacaripamiiniupanishano,majapaniyajetanucanaarootasanonionaajiojuajiniaparupuetoosanojiyacapueyamaniniaquiniuriapuetunujuanaa.</p>
+  </li>
+  <li>
+    <p>Majacapaserojoshiyacanaasequesanonionaajiojuajinia.Cantejiyaniyananaatanocuajipatanucanaasequesano,cunosesaniishiyacanaasequesano.Naaratetamonujiyaniijianucua,tamonumaapuejuhuaj,tamonupueyanio,nojoricuaaracojuaaracapaniishiniuucuajicanaasequesano.Majamiishiyasesa.Puetunucanaasequesanojuanaanaajiosaaquiaarimaniniapamiitioonura,juhuajaniyapaquiniuriajiyocua.</p>
+  </li>
+</ol>

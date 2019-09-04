@@ -1,0 +1,121 @@
+<h1 align='center'>AKŌK MEMVENDE ENYIŃ A MENGAN BOD</h1>
+<h2 align='center'>NTOL EBUG</h2>
+<p align='center'>Eyóñ bia noñ na fili, sosoo ai mvoe bia so bia olugu biave ekokom mod.
+Eyóñ bia noñ na fili ya nyol ai a nsisim ene dzom ya mod ose ayi, adzeñe fe, ai na ndimi, tege yene, ebiandi y'akar so e minsingi ai minyanda a minnam.
+Eyóñ bia noñ na ngomena ayian kala enyiñ asu e na bod be za bam nge batibili bo.
+Eyóñ bia noñ na fulu mbga etam, fulu anyañ, fulu ediñ ndzo ene mfi asu mie bod ya minnam.
+Eyóñ bia noñ na Akōk Memvende Ekuan Elad Meyoñ amem na aluman asu na enyiñ bod bese etebe etu dzia.
+Eyóñ bia noñ na abui minnam mbamena ai Ekuan Elad meyoñ mo yebe ovañ ye na si ese ebaala memvende m'enyiñ ma.
+ai na ovañ te otôbo mbog vom ose.
+Binga yen hne na Ekuan Elad meyoñ y'anoñ Akōk Memvende ya Mengan bod ane zen, ane ndzoñ bia yian wulu asu etie fili dzaan. Antoa na a zen te, a ndzoñ te nnam ose obele nkil woe, ve da, ntsogan one mbog: olugu etie mod.</p>
+<ol>
+  <li>
+    <p>Abialibodbese,tegeaisesala,beneetiedziaamismemvendey'enyiñ,dzomdziaetufilinkóbó,filintsogan,filimboan.Veabialite,modoseayemdzeeneabe,dzeenembeñasuemodmbogantoaaimfinaenyiñewulumezenmenesosoo.</p>
+  </li>
+  <li>
+    <p>AkōkMemvendeEnyińaneasumodosesesalaaseki.Fam,mininga,mbubua,ebig,Evindi,Ntañanmodosetegeaisesala.MfambógAkōkMemevendeEnyińatelennamoseetudzia.</p>
+  </li>
+  <li>
+    <p>Modoseayianaienyiñaiedzomy'akalaenyiñdzie.Modoseakiebeaietoafili.</p>
+  </li>
+  <li>
+    <p>Modoseanemod.Ebiaietibilibeneeki.</p>
+  </li>
+  <li>
+    <p>Modayiankiaitunnged.</p>
+  </li>
+  <li>
+    <p>ModoseanemodeVomsey'ane,evomseakwi.</p>
+  </li>
+  <li>
+    <p>Mvendeyabimodoseakyaeda.MvendeY'akalafebodbeseakyaededa.</p>
+  </li>
+  <li>
+    <p>Modoseabelenguln'akeetsigntolyannamwoengeadañfekwinalan'abeeendegelemezenyaAkōkMemvendeyannamvoel'akamanainye.</p>
+  </li>
+  <li>
+    <p>Mbolé,Mekaban,ebiafuanbineeki.</p>
+  </li>
+  <li>
+    <p>Modoseanefili,abelefengulasilidzósasumedzóy'enyiñdzie,amundamedzoeneengeggama.</p>
+  </li>
+  <li>
+    <p>Dzosyandamedzoetamavebobanamismebodtegedañmvendendoaledenamodabóevus.</p>
+    <p>Modziñayiankiaiendegelentiemvendeyannamy'ayemkievusdzie.Veda,aneevusanemvende.</p>
+  </li>
+  <li>
+    <p>Modabelekinaabebeenyiñemodmbogadañdañmamyametiiaiatiidie.Ngemodabebeezeenyiñmvendey'abinye.</p>
+  </li>
+  <li>
+    <p>Asindon,modoseanenguly'awulumboly'adiñ.Semfeanemodoseabelengulatoboevomayi.</p>
+    <p>Modoseabelenguly'aboleannamabialiwoeaketobomfasey'adiñ.Ngekiakodoezannamasunaaduganannamabialewoe.</p>
+  </li>
+  <li>
+    <p>Nnameñeñamene,modoseanenguly'akodoakedzeñmvoennammfe.</p>
+    <p>Sesalangeemody'akodoabeleMedzoainnamwoengekinaakódómvende.</p>
+  </li>
+  <li>
+    <p>Modoseabelennamabialiabesidzamsuñainye.</p>
+    <p>Veda,modoseanengulyafolnnamabialiwoe.</p>
+  </li>
+  <li>
+    <p>Asifamaimningaabogbekuiyabod,bebelenguly'atindimetiñm'alugaiabondendabodtegeaisesala-Akyaeaneosusuaaiamosalug,famaiminngabeneetiedziadziaamismemvendeabogbemany'alug.</p>
+    <p>Metiñm'alugmatinbanveainyianfamaiminngayabadzonabalug.</p>
+    <p>Ndabodenetinenyiñasutememvendemennanemebelenamekalagadzó.</p>
+  </li>
+  <li>
+    <p>Modoseanenguly'afugakumayaneendie,tóaneetamtokianeankunda.</p>
+    <p>Modziñabelekinguly'afadiakumamodmbogafuan.</p>
+  </li>
+  <li>
+    <p>Modoseanenguly'atsogaiayebeaktaedieannemeterengekiankunda.Afolnyebeosikieki.</p>
+  </li>
+  <li>
+    <p>Modoseabelefilintsoganaifilinkobo.Asutemodziñayiankibiendegeleasumintsoganngekik,mbidanmametiedzie.</p>
+  </li>
+  <li>
+    <p>Modoseabelenguly'aladainkundamisemasieasueladminnem,misaalaeñeñamazañmendamebod.</p>
+    <p>Eneekinabenodmōdnaanyianekuanziñ.</p>
+  </li>
+  <li>
+    <p>Moannnamoseabelenguly'anóñngabemamyamabebennamwoe.Eterehm,ngesitiemen,anedzamtobbodbefeasunabetobomis,añuaimelómoe.</p>
+    <p>Modoseabelengulnasiengomenaannamwoe.</p>
+    <p>Edzoebetebeb'osuy'annametiiainyianeboanbennambesebewóg.Edzoey'atobanasosoo,azenbeobene-beneyabebelenabebobanakyaennamwatele.</p>
+  </li>
+  <li>
+    <p>Modoseetiedzieabelengabakuma,amebugbanyannamwoe,endegebenanenyiñtegetoboengogól.</p>
+  </li>
+  <li>
+    <p>Modoseabelengulasieevomadiñ,evomayenmfi.VedaMvemdennamyayianKamanaibebobisyeasuinabodbebiesiekomese.</p>
+    <p>Modose,tofamtomininga,akiebeaimáanasuesiedzie.</p>
+    <p>Maanbavemodemayianbonaanyiñ,atoñfendabod.</p>
+    <p>Mbobisyeoseanenguly'abonde,ngeki,atilibanekuany'akamanaesiedzie.</p>
+  </li>
+  <li>
+    <p>Modoseabelenaabiingumaabogy'asie,abogy'asamba,abogy'awae.Veda,bayiankivuanmonimewae.</p>
+  </li>
+  <li>
+    <p>Enyiñ,modoseabelenguly'adzeñnaatobomvoe,atoñemienandaboddzie;ayianfeaievoliabogokoan,akus,ayomngekiaboganentet.</p>
+    <p>Memvendemennammayiankalabenyiabeboanaiboanbeben.Amismemvendemoananevemoan:nyoabialiandaaluganeetiidziaaneenyoabialeanseñ.</p>
+  </li>
+  <li>
+    <p>Akomondoyannamaiabesikulu,ayegentógbinefiliasumodose,etiedziaaneayegenen.</p>
+    <p>Akomondoyannamaiayegesikulubeneasuinabodbeyembaalamemvendey'enyiñantilanekuaneladmeyoñ:anyiñfufulu,atobombga,anyiñmvoe.</p>
+    <p>Bebondebebelenguly'atobzenayege,zenakomondoasuboanbaban.</p>
+  </li>
+  <li>
+    <p>Modoseanenguly'anonñngabekpeemekeñyannam,adzeñmezenyamakeainnamosu,amumebugbanyetemenefeewoe.</p>
+    <p>Modoseabelenaakamanaiedzomseabondeakeñdieayób.</p>
+  </li>
+  <li>
+    <p>ModoseabelenaayidannaAkōkMemvendey'avemodfilidiayamansiese.</p>
+  </li>
+  <li>
+    <p>Modaneenodinaadzalamamyannamngeayennannamonedzamkomenyiñdzie.</p>
+    <p>Filieneasumodose.VedaMvendey'akarbiabikibineasuolugaebodbewogaiasunnanasuinaenyiñetobaoveves.</p>
+    <p>EbelanAkōkMemvendediy'ayiantobanaintsoganainyianEkuanEladMeyoń.</p>
+  </li>
+  <li>
+    <p>Tomodmbog,tonkunda,tonnamziñobelekinaobómammefem'atobankiaiAkōkMemvendedi.</p>
+  </li>
+</ol>

@@ -1,0 +1,120 @@
+<h1 align='center'>KAYMI KAN LLAPAN MUNDUCHAW IMANAW KAQ RUNAKUNAPAPIS DIRICHUNKUNA</h1>
+<h2 align='center'>QALLANAN KAQ</h2>
+<p align='center'>Musyantsikmi kaynaw kanqanta: Imanaw kaq runakunapis runam kayan. Llapantsik iwal kashqaqa iwalrni dirichuntsikkuna kapamantsik. Y tsaynaw kaptinmi trankilu, libri, kawashun dirichuntsikkunawan.
+Y dirichukunata mana kasukurninpis mana alli runakunam allaapa ultrahayarqan wakin runakunata. Y tsaynaw ultrahayanqanta musyar llapan munduchaw runakuna llakikur rabiyakuyarqan. Y yapay mana tsaynaw kananpaqmi munantsik kay mundu kaynaw kananta:
+Parlayta rnunashqaqa llapan yarpanqantsiknaw parlashwan llapantsik runakuna. Kriyinqantsikmannawrni irnarnanpis kriyirnin kashwan llapantsik runakuna. Ni pipis mantsakutsuntsu ni imapitapis faltapukuq kanmantsu. Mana runakuna wanayananpaq shariyta allaapa mana alli awturidakunapaq kuntran, kay paapil willamañtsik y difyindimantsik. Y tsaynaw manana kananpaq willakun llapan runakunata dirichunkunata y liyninkunata y tsaynaw shurnaq takunantsikpaq.
+Kada bis mas shumaq pasakuychaw llapan nasyunkuna huknin hukninwanpis kayananmi, nir willakun.
+Nasyunis Unidas qurikayanqanchaw nasyunkunawan kunstitusyunchaw akwirduta yapay rurayarqan kaynaw runakunapa dirichunkuna kananpaq. Llapan imananaw kaq runapapis dirichunkuna kanman. Kada runaqa runanawmi rispitaadu kanman. Y runa karninmi baluryuq. Ullqupis warmipis dirichunkunachawqa iwalmi kayanman. Kada nasyunchaw adilantu kananpaqmi y kada runa mas shumaq libri kawarnin pasakunanpaqmi Nasyunis Unidas yanapamantsik.
+Nasyunis Unidas qurikayanqan kaq nasyunkunam kumprumi tikuyashqa tsay urganisasyunwan kaynaw rurananpaq. Kada nasyunchawmi llapan runakunata yachatsikuyan runakunapa dirichunkunata rispi tarnin kayananpaq.
+Tsay kumprumitikuyanqanta kumpliyananpaqmi kada nasyunchaw kay dirichukunata runakuna iwal kayananpaqmi willakun. Y tsaynaw kaptinmi la asimbliya giniralchaw kanan pruklamayamun Dirichus Humanusta. Kay diklarasyunchawmi llapan munduchaw imanaw kaq runakunapapis dirichunkuna kan. Y maytsay markachawpis llapan runakuna kawayananpaq kay dirichukuna kaykanqanmannaw. Ni pi runapis ni gubyirnupis kay dirichukunata yarparnin imanawpapis runakunata yachatsikuyanman kumpliyananpaq. Y may nasyunchawpis llapan runakuna kay dirichukunata musyayananpaqmi kikin nasyunninchaw y hinantin nasyunkunachawpis tukuylayapa willakuyanman. Y Nasyunis Unidaschaw kaq nasyunkunapis y tsay nasyunkunapa pudirnin kaq nasyunkunachawpis tsaynaw rurayanman.</p>
+<ol>
+  <li>
+    <p>Mayqanrunapismanampipaisklabunkananpaqtsuyurishqa.Yrunakarninmillapanrunakunaiwalkayanmandirichunkunachawpis.Yyarpaytayacharninmiyallitamanaallitashunqunkunachawmakurninmirunakunahukninhuknintarispitanakurkayanman.</p>
+  </li>
+  <li>
+    <p>Kaydiklarasyunchawdirichukunaqallapanrunakunapaqmikanqaimanawkaqrasarunakunapaqpis,imanawkaqkulurrunakunapis,warmikunapaqpis,ullqukunapaqpis,imanawkaqidyumataparlaqrunakunapaqpis,imariligyunyuqkaqrunakunapaqpis,imapulitikamankriyiqrunakunapaqpis,imamankriyikuqrunakunapaqpis,maymarkayuqrunakunapaqpis,waktsarunakunapaqpis,ykapuqyuqrunakunapaqpis,yimanawkaqyurishqarunakunapaqpis.Llapanrunakunapadirichunkunapisiwalmikanmanawnkinasyunninkunapagubyirnunkaykaptinpis;uhuknasyunpapudirninchawmarkankunakaykaptinpis,uimanawhuknasyunpamandadunchawmarkankunakaykaptinpis.</p>
+  </li>
+  <li>
+    <p>Kadarunapadirichunmikankawananpaq,ylibripurikunanpaq,ymanapipispaykunataultrahananpaq.</p>
+  </li>
+  <li>
+    <p>Manammayqanrunapispipaisklaabunsirwiqninkanmantsu.Manammayqanrunatapisisklaabunkananpaqniimanawparantishqankanmantsu.</p>
+  </li>
+  <li>
+    <p>Manamnimayqanrunataimaykawatatanawmaqashwantsumanakunsiyinsiyannaqmaqarninrurayanmantsupitapis.</p>
+  </li>
+  <li>
+    <p>Llapanrunakunapadirichunkunamkanmaymarkachawpisliykunakanqanmannawhustisyankunakananpaq.</p>
+  </li>
+  <li>
+    <p>Hustisyankunachawmillapanrunakunaiwalkayanman.Mayqanrunakaptinpisiwalmiliykunapaytatsapanman.Ysihukawturidaninqamayqanrunatapiskaynawninqa:-Qampaqqamanamdirichuykikantsuhustisyachaw.Ukaynawninqa:-Kayrunapaqqamanamhustisyakanqatsu-nishpa.Tsaynawniptinpisllapanrunakunapaqmiiwaldirichunkuna.Ytsaynawnirninqakaydiklarasyunchawninqantamanamkasukuyantsu.</p>
+  </li>
+  <li>
+    <p>Maynasyunchawpiskunstitusyunkaqliykunataumayqanliykunatapismanakasurninhukrunaabusakunqarunamahinta.Tsayabusutachaskiqrunaqadimandakunmanmiallikaqawturidamanytsayawturidaqarispitatsinandimandakuqrunapadirichunta.</p>
+  </li>
+  <li>
+    <p>Manamnipiawturidakunamunaynintarurarninqahukrunapamanarasunpakulpankaykaptinpistsayrunatanipwistumannikarsilmanqaykutsiyanmantsuninasyunninpitaqarquyanmantsu.</p>
+  </li>
+  <li>
+    <p>Llapanrunakunapadirichunkunamkanmandimandadukayanqantaallikaqfwischawllapanpapuntanchawallitsinanpaq.Yrasunpahukrunakulpayuqkaptinqamanaalliruranqanpitaliykunakanqanmankastigunkanman.</p>
+  </li>
+  <li>
+    <p>Dimandadukarninqahukrunainusintillaraqastahutsantafwistarinqanyaq.Yllapanpuntanchawhustisyatafwisruranqanchawmitsayrunapadirichunkanmanhukmusyaqrunapaytadifindirninparlakapunanpaq.</p>
+    <p>Hukrunaimatapisruranqa;ytsaynawruranqantamananarurananpaqqahukmushuqliykikinpanasyunninchawullapanpatsachawkarninqa.Tsayrunaqaruranqanpitamanamhutsasapayuqtsukanman.Manaallitaruranqanpitaichikllakastiguchawmihukrunakanman;tsaynawruranqanpitamasatskakastigukananpaqhukmushuqliykarninqatsayatskakaqkastigutaqamanamtsayrunachaskinmantsu.</p>
+  </li>
+  <li>
+    <p>Manaimapiskaykaptinqarunamahinpakawaybidanman,niayllunman,nimayqanrunamanamhatikanmantsu,niwahinmanabusakurninyaykunmantsu,nikartantapakayllapaliyikunmantsu.Yullqurkurninqarunakunapahananchawrunapawashanmanamrimanmantsu.Tsaynawabusupitarunakunatsapashqakananpaqmiliykunakanman.</p>
+  </li>
+  <li>
+    <p>Maynasyunchawkaykarninmimayqanrunapapisdirichunkanmaykunachawpispurikuyananpaq,ymunanqanmarkakunachawtakuyananpaq.</p>
+    <p>Maynasyunpitaukikinpanasyunninpitayarqushakarninpismayqanrunapapisdirichunmikannasyunninmankutikunanpaq.</p>
+  </li>
+  <li>
+    <p>Kikinpanasyuninchawqisatashymaqashachikiqninkunapaqkaptinqamayqanrunapapisdirichunmikanmanhuknasyunmanpatsakunanpaqmanapipischikishqatakunanpaq.</p>
+    <p>NasyunisUnidasdiklarasyunchawninqankunataunasyunninpaliyninkunatamanakasukuqrunapadirichunkunamanamkanmantsuhuknasyunmanqishpiraywakunanpaq.</p>
+  </li>
+  <li>
+    <p>Llapanrunakunapapisdirichunkanminasyunpasyudadanunkananpaq.</p>
+    <p>Manaimapiskaykaptinqanipipishukrunatasyudadanukaykaptin:-Manamkaynasyunpasyudadanuntsukanki-nintsikmantsu.Ymanammichaayanmantsuhuknasyunpasyudadanunhukrunakananta.</p>
+  </li>
+  <li>
+    <p>Imalayarunakunapis,mayqannasyunpis,imariligyuninkaptinpis,ulíqupis,warmipis,llapanrunakunakasakuyidamanchariyaptinqadirichunkunamkankasarakurninayllunkunakayapunanpaq.Warmipaqpisullqupaqpisiwalmidirichunkunakankasarakuyananpaq.Ykasarashakaykarrakikaskiyaptinpisdirichunkunaqakaykansiyimpri.</p>
+    <p>Ishkankunawarmiullqumunanakurninmikasarakuyanman.Manannipipismandanmantsumanamunanqanwankasarananpaqqa.</p>
+    <p>Mayqanqurikashqagrupupitapismasimpurtantimwarmiullquwamrankunawanallyukayan.TsaynawkanapaqmiDyusYayadispunishqa.Ytsaynawmasimpurtantikaptinmikadanasyunchawallyupafavurninliykunatakriyanmangubyirnukuna,yllapanrunakunarispitayanman.</p>
+  </li>
+  <li>
+    <p>Mayqanrunapapisdirichunmikanimachawpisprupyataryukananpaq,hapallanuhuksusiyurunakunawan.</p>
+    <p>Manaimapiskaptinqanipirunapisprupyidaninpitarunamahintaamalasqarqunmantsu.</p>
+  </li>
+  <li>
+    <p>Mayqanrunapapisdirichunmikanmanimanawpisyarpakunananpaq,kunsiyinsiyankanqanmannawrurananpaqyimariligyunmankriyinanpaq.Ytsaydirichumpirmitinmanriligyunkaykanqanpitahukriligyunmanymayqankriyinsyanchawkaykanqanpitahukkriyinsyamankambiyananpaq,yimariligyunchawimakriyinsyachawkaykanqantahapallanpis,wakinrunakunawanpis,kallichawpis,uwahirurinchawpisyachatsikurnin,imanawpapisrurarnin,imanawpaadurarnin,yriligyunpaliyninkunataqatirninkananpaq.</p>
+  </li>
+  <li>
+    <p>Mayqanrunapapisdirichunmikanmanyarpanqannawparlananpaq.Ymanamnipipistsayyarpanqantapiñapanmantsu.Yimakriyinsyaimanawkanqantamusyaytamunarninmimayqanrunapisistudiyaytapwidinman,ymayqankriyinsyapaqwillakuykunatachaskiytapwidinman,ykikinpakriyinsiyantapisyachatsikuytapwidinmanradyupapispiryudikupapisytukuylayamuduspapiskikinpanacyunninchawpisyhuklaanasyunkunachawpis.</p>
+  </li>
+  <li>
+    <p>Mayqanrunakunapapisdirichunmikanmanimapaqpisqurikayananpaqyimahuntakayanqanchawsusiyukayananpaq.Ytsayqurikayanqanqakanmanmanampipakuntransharkuyananpaqtsu.</p>
+    <p>Manamnipipisubligadutsukanmanqurikayanqanchawsusiyukananpaq.</p>
+  </li>
+  <li>
+    <p>Mayqanrunakunapapisdirichunmikanmandiputadukarninpisnasyunninkunapagubyirnunchawawturidakayananpaq.Kikinkunallaupaykunaakrayashqanriprisintantirunakunayaykuyanman.</p>
+    <p>Iwalmillapanrunakunapadirichunkanmanimaubrapublikutapisgubyirnururanqantarurayananpaq.</p>
+    <p>Mayqannasyunchawpisrunakunapamunayninchawkaykarninmigubyirnupudiryuqkananpaq.Ykadabisrasunpakaqilisksyunkaptinmirunakunamunayanqantaniyanmangubyirnururananpaq.Yiliksyunchawqallapanrunakunambutayanmanwarmipis,uliqupis,yimanawkaqrunakunapis.Ymanamnipipismusyanmantsumayqanpaqbutunkanqanta.</p>
+  </li>
+  <li>
+    <p>Llapanrunakunakaypatsachawkawarninkayaptinmidirichunkanmansiguurususyalninkunakananpaq.Ytsaynawkananpaqmimaskapuqyuqnacyunkunayanapayaptinkadanasyungubyirnukapuqyuqkanqanmannawruranman.Ytsaynawgubyirnururaptinmillapanrurakunakadabismasshumaqpasakuycbaw,saluryuqkawayanan,ypwidiyanqanmanimaprufisyunyuqpiskayanman.</p>
+  </li>
+  <li>
+    <p>Llapanrunakunapadirichunmikanmanaruyyuqkayananpaq.Ymunayanqanaruytaakrayanman.Yaruyanqanchawmanaruraytapwidinqantaqaniswiilduntauqrananpaqqamanamruranmantsu.Ykadanasyunchawmiliykunakanmanrunakunamanaaruynaqkayananpaq.</p>
+    <p>Iwalaruychawkayaptinqaiwalmihurnalninkunakanmanmayqanrunakunapapis.</p>
+    <p>Mayqanaruqrunapapisdirichunmikanmansigunimachawpisarunkanqanmannawpaqunkananpaq.Ytsaypagunmipaqtanankikin,warmin,ytsurinkunaallipasakuychawkawayananpaq.Ytsaygananqanmanapaqtaptinqanasyunninpagubyirnunmiimawanpisayudanmantsayrunata.</p>
+    <p>Ymayqanaruqrunakunapapisdirichunmikanmansindikatudiaruytafurmayananpaq,usindikatukaptintsaymanqurikayananpaq.Ytsaysindikatuqaimapis.kaptinaruchawrunakunatadifyindinanpaq.</p>
+  </li>
+  <li>
+    <p>Mayqanrunapapisdirichuyuqmikananaruyuuratakumplirskirqashuntakunanpaq.Ytsayaruyuuraqahukhunaqkumplitullamkanman.Ybakasyunninpissiguntyimpuarunqanmanmipagaadukanman.</p>
+  </li>
+  <li>
+    <p>Mayqanrunapapishurnalninmipaqtankanmanallipasakuychawkikin,warmin,ytsurinkunakawayananpaq.Yhurnalgananqanmipaqtanmanmikuyninkunapaqpis,llatapankunapaqpis,wahinpaqpis,yqishyarninhampitsikuyananpaqwanysirbisiyuypublikutapagananpaqwan.Yarunmanakaptinqauqishyaptinpis,uinbaalidutikraskiptinqa,ubyudakaptinqa,uawkisyaptinqa,uimanawpapismanaaruytapwidiptinqamayqanrunapapisdirichunmíkanmansiguurususyalninmantininanpaq.</p>
+    <p>Wawayuqbyudawarmikunapaqywaktsawamrakunapaqnasyunninchawgubyirnupaliyninkunakanmanwanayanqanmannawyanapananpaq.Lihitimuwamrakaptinumanalihitimuwamrakaptinpisllapanwamrakunapapisdirichunkunaiwalmikanman.</p>
+  </li>
+  <li>
+    <p>Mayqanrunakunapapisdirichunmikanmanistudyayananpaq.Yistudyuqadimbaldillamkanmanastaprimaryataushyanqanyaq.Yllapanwamrakunaprimaryataistudyayananpaqqaubligaturyumkanan.Sinuuqamultadumkanman.Imaprufisyunpaqistudyayananpaqqallapanrunakunapapisiwalmidirichunkanman.Ysigundaryachawuunibirsidachawistudyuqamayqanrunapaqpissigunyachayninkanqanmannawmjkanman.</p>
+    <p>Yistudyukunaqakanmanrunakunakadabismasimatapisyachakurninrurarninkayananpaq,yrunamahinpadirichunkunatakadabismasrispitarninkayananpaq.Ytsaynawyachakushqakarninmimayqannasyunrunakunapa,mayqanrasarunakunapa,mayqanriligyunyuqrunakunapakustumbrinkunatakumprindirninmanachikinakushpakuyanakurllapanrunakunapasakuyanman.YtsaynawshumaqpasakuychawkaykarninqaNasyunisUnidaswankadanasyunmiyanapanakuyanmanllapanmunduchawnasyunkunahukninhukninwanmanachikinakurtrankilukayananpaq.</p>
+    <p>Papaninkunapadirichunmíkanmantsurinkunapaistudiyunkunataakrananpaq.</p>
+  </li>
+  <li>
+    <p>Mayqanrunapapisdirichunmikanmanviladachawimatushukuna,musikukunakaptintsaychawkayananpaq.Ysyintifikukunaimatapisrurayanqakunatammayqanrunakunapisaprubichayanman.</p>
+    <p>Mayqanrunapisdiskuta,libruta,imatapisinvintakurninruraptinqaliykunamkanantsayruranqanpitapursintahipagayananpaq,yrasunpapayrurashqakanqantallapanrunakunamusyarninrispitayananpaq.</p>
+  </li>
+  <li>
+    <p>Llapanmundunasyunkunachawmikaydiklarasyunchawdirichukunapatsakashqakanqallapanrunakunapapiskaydiklarasyunchawdirichunkunaninqannawkawayananpaq.</p>
+  </li>
+  <li>
+    <p>Runamahinkunapadirichunkunatarispitananpaqqamayqanrunapapisdibirninkan.Ytsaydibirninkunatakumplirninmirasunpaallirunakaytayachakushqakanman.</p>
+    <p>Kaydiklarasyunchawdirichukunaninqannawkawaykarninmjllapanrunakunaubidisikuyanannasyunninchawliykunakanqanta.Ywakinrunakunapadirichunkunatarispitananpaqmi,shumaqpasakurrunakunakawayananpaqmi,urdinpublikutawardananpaqmi,yallaapamanaallitarunakunamanarurayananpaqmitsayliykunatagubyirnururashqa.</p>
+    <p>KaydiklarasyunchawNasyunisUnidasnishqadirichukunapakuntraqahuklaayapanipirunapismanamrurayanmantsu.</p>
+  </li>
+  <li>
+    <p>Kaydiklarasyunchawqamanamniimapiskantsumayqannasyunpismayqangrupurunakunapisnimayqanrunapisrunamahinkunapadirichunkunatamanamicharninkayananpaq.</p>
+  </li>
+</ol>

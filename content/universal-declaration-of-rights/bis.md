@@ -1,0 +1,122 @@
+<h1 align='center'>Deklereisen Blong Raet Blong Evri Man Mo Woman Raon Wol</h1>
+<h2 align='center'>FESTOK</h2>
+<p align='center'>From se Jenerol Asembli i luksave respek mo ikwol raet blong man mo woman olsem stamba blong fridom, jastis mo pis long wol,
+From se fasin blong no luksave mo no respektem ol raet blong man mo woman i mekem se i gat ol nogud aksen i tekemples we oli mekem se pipol i kros, mo bambae wan taem i kam we pipol bambae i glad long fridom blong toktok mo biliv blong hem, fridom blong no fraet mo wantem samting hemi kamaot olsem nambawan tingting blong ol grasrut pipol,
+From se hemi wan impoten samting, sipos man i no fos blong lukaotem help, olsem wan las aksen we hemi save mekem, blong faet agensem rabis fasin blong spoelem no fosem pipol hemia blong mekem nomo se Loa i protektem ol raet blong man mo woman,
+From se i gat nid blong promotem fasin blong developem frensip wetem ol narafala kaontri,
+From se ol pipol blong Unaeted Neisen oli talem bakegen insaed long Jata strong tingting blong olgeta long ol stamba raet blong man mo woman, respek mo valiu blong man mo woman mo long ikwol raet blong man mo woman, oli disaed blong promotem sosol progres mo ol standed blong laef we i moa gud mo we i gat moa fridom,
+From se ol Memba Kaontri oli mekem strong promis blong promotem respek blong ol raet blong man mo woman olbaot long wol mo gat ol stamba fridom taem we oli stap wok tugeta wetem Unaeted Neisen,
+From se hemi impoten tumas blong evriwan i luksave ol raet mo fridom blong promis ia i save tekemples fulwan,
+Hemi mekem se JENEROL ASEMBLI i putumaot
+Deklereisen blong ol Raet blong evri Man mo Woman Raon long Wol olsem wan impoten samting we evri pipol mo evri kaontri long wol oli mas kasem, blong mekem se wanwan man mo woman insaed long sosaeti oli tingting oltaem long Deklereisen ia, bambae oli wok had tru long tijing mo edukeisen blong leftemap resek long ol raet mo fridom ia mo tru ol step we oli tekem long nasonol mo intenasonol level, blong mekem se ol pipol blong ol Memba Kaontri mo ol pipol blong ol teritori we oli stap anda long olgeta blong oli luksave mo folem Deklereisen ia.</p>
+<ol>
+  <li>
+    <p>Evrimanmowomanibonfrimoikwollongrespekmoolraet.Oligatrisenmotingtingmoolimastritimwanwanlongolgetaolsemolbratamosista.</p>
+  </li>
+  <li>
+    <p>EvriwanigatraetlongevriraetmofridomweistaplongDeklereisenia,wetaotenikaendifrens,olsemlongreis,kalablongskin,seks,langwis,rilijen,politikolonarafalakaentingting,weikamaotlongsaedblongneisenososol,propeti,taemwemanibonlonghemoeminarafalasosolsaedolsem.Andaplonghemia,bambaewanmanowomaninosavemekemenidifrenslonglevelblongpolitik,eriawewokhemikavremapointenasonollevelblongkaontrioteritoriblongnarafalamanowomania,nomatawehemiindipenden,tras,non-self-gaveningoandaeninarafalaarenjmenblongsoverenti.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetblonglaef,fridommosekuritiblongmanmowoman.</p>
+  </li>
+  <li>
+    <p>Bambaemaninotekemnarafalamanowomanolsemslevblonghem.Bambaehemiagensemloablongenikaenfasinblongslevmofasinblongsalemmanowomanolsemslevitekemples.</p>
+  </li>
+  <li>
+    <p>Bambaemanmowomaninosavemekemfasinblongmekemnarafalamanowomanisafaomekemrabisfasinlonghem,fasinweinogudlongmanowomanotritimmanowomanlongfasinopanismenweisoemsemanowomanilukdaonlongmanowoman.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetblongnarafalamaniluksavehemolsemwanmanowomanweistapandalongloa.</p>
+  </li>
+  <li>
+    <p>Evrimanmowomanisemakfolemloamooligatsemakraetwetaotenidiskrismineisenblongloaiprotektemolgeta.EvrimanmowomanoligatraetblongloaiaiprotektemolgetalongikwolfasinagensemdiskrimineisenlongtaemwemanmowomanibrekemwanpatblongDeklereiseniamoagensemenifasinblongmekemseigatdiskrimineisenolsem.</p>
+  </li>
+  <li>
+    <p>EvriwanigatraetblongkasemwanstretfasinblongstretemproblemweolstretnasonoltraebunoblongolaktweoligoagensemolstambaraetweKonstitusenoloagivim,olimekem.</p>
+  </li>
+  <li>
+    <p>Bambaemanowomaninosavearestemnarafalamanowomanlongfasinweifolemtingtingblonghemnomo,fasinblonggivimpanismenofasinblongmekemmanistaphemwanolsempanismen.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetblongfulikwalitilongwanindipendenmofeapablikhearingwewanindipendenmofeatribunaliputum,longtaemblongdisaedemolraetmoolobligeisenblonghemmoblongenikriminoljasmenagensemhem.</p>
+  </li>
+  <li>
+    <p>Eniwanweigatjasmenblongwanrongagensemhemhemigatraetblongstapolsemwaninosenmanowomangokasemtaemwekotipruvumsehemigiltifromsehemimekemrongagensemloalongwanpabliktraeolwehemibingatevrijanisweheminidimblongdifendemhemwan.</p>
+    <p>Bambaemanowomaninogiltifromwanrongwehemimekemowanaksenweheminomekemweinowanrongfolemnasonalmointenasonalloa,longtaemwemanowomaniaimekemaksenia.Bambaeinogatwanpanismenweihevibitimhemiaweiaplaelongtaemiawemanowomaniaibinmekemrongia.</p>
+  </li>
+  <li>
+    <p>Bambaemanowomaninosaveintefeawetempraevetlaef,famili,homorkorespondensblongnarafalamanowomanfolemtingtingblonghem,monosavespolemhaerespekmogudfalanemblonghem.Evriwanigatraetblongloaiprotektemhemagensemolfasinblongintefeaolsemoatak.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetblongkasemfridomblonggolongweapleshemiwantemgomoblongstapinsaedlongeriablongwanwansteit.</p>
+    <p>Evriwanigatraetblonglivimenikaontri,weiminimsekaontriblonghemtumoblonghemigobaklongkaontriblonghem.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetblonglukaotemmostaplongwanpleslongwannarafalakaontrisiposhemistapronwelongolfasinblongtalemmotritumnogudmanowoman.</p>
+    <p>ManowomaninosaveyusumraetiataemigatprosekusenweikamaotfolemolkraemweolinokamaotfrompolitikofromolaksenweolinofolemoleimmoprinsipolblongUnaetedNeisesn.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetblonggatwannasonaliti.</p>
+    <p>Bambaewanmanowomaninogatraetblongkiamanlongwanmanowomanlongnasonalitiblonghemokiamanlongraetblongjenisimnasonalitiblonghem.</p>
+  </li>
+  <li>
+    <p>Evrimanmowomanlongevrieij,nomatawanemreis,nasonalitiorilijen,oligatraetblongmaretmoblongstatemwanfamili.Oligatraetlongikwelraetlongsaedblongmaret,longtaemblongmaretmolongtaemweolidisolvemmaret.</p>
+    <p>Maretbambaeitekemplesnomotaemwehemitingtingblongmanmowomaniablongtufalaimaret.</p>
+    <p>Familiheminaturalmoimpotengrupunitblongsosaetimohemigatraetblongsosaetimosteitiprotektemhem.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetblongonemwanpropetihemwanmotuwetemolnarafalamanowomantugeta.</p>
+    <p>Folemtingtingblonghem,bambaewanmanowomaninosavekiamanlongnarafalamanowomanfrompropetiblonghem.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetlongfridomblongtingting,fridomblongmoroltingtingblongjasmenmorilijen;raetiahemikavremapfridomblongjenisimrilijenobilifblonghem,mofridomblonghemhemwanotugetawetemolnarafalamanowomanlongkomunitimolongpablikopraevetlaef,blongsoemrilijenblonghemtrulongfasinwehemitijim,praktisim,wosipmofolemoltijingblongrilijenblonghemobilivblonghem.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetlongfridomblongtalemtingtingblonghemmotalemlongweiwehemiwantem;raetiahemikavremapfridomblongsavegatoldifrentingtingwetaotmaniintefeamoblongrisivimmogivimaotinfomeisenmooltingtingtrulongniuspepa,televisenoradionomatalongolbaondriblongolkaontri.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetlongfridomblongmitwanplesmogruptugetalongfasinweigatpislonghem.</p>
+    <p>Wanmanowomaninosavefosemnarafalamanowomanblongstaplongwanasosiesen.</p>
+  </li>
+  <li>
+    <p>EvriwanigatraetblongtekpatlongGavmanblongkaontriblonghem,daerekotrulongolrepresentativweolgetapipololijusumfolemtingtingblongolgeta.</p>
+    <p>EvriwanigatraetlongsemakjanisblongkasemsevisblongGavmanlongkaontriblonghem.</p>
+    <p>BambaepipololijusumkaenGavmanweoliwantemblongrul;fasinblongjusumGavmaniabambaeikamaottruoleleksenlongwanwanperiodmobambaeevrimanmowomanigatraetblongvotlongsekretfolemolfasinblongfrivot.</p>
+  </li>
+  <li>
+    <p>Evriwan,olsemmembablongsosaeti,igatraetblongkasemsosolsekuritimohemigatraetblongkasemolekonomik,sosolmokaljarolraetblonghemweheminidimfromrespekblonghemmoblongmekemsehemifriblongdevelopemhemwan,hemiatrulonghelpmohadwokblongnasonolmointenasonolkomunitimofolemoganaeseisenmorisosblongwanwanKaontri.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetblongwok,blongjusumwanemwokhemiwantemmekem,blongstaplongolgudfalakondisenblongwokmoblonggatproteksenagensemfasimblongnogatwok.</p>
+    <p>Evriwan,wetaotdiskrimineisen,igatraetblongkasemikwolpeiblongmekemsemakwok.</p>
+    <p>Evriwanweiwokoligatraetlongstretmogudfalapeiweimekemsehemmofamiliblonghemisavegatwangudfalalaefweisoemseigatrespek,moikasemtuolnarafalakaenproteksenlongsosollaefblonghem,siposigatnid.</p>
+    <p>Evriwanigatraetblongfomemmojoenemoltredunionblongprotektemolintresblongolgeta.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetblongspelmoenjoemhem,weiminimseimasgatlimitlongolhaoablongwokmoblongoligatholideiwetempeiwanwantaem.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetlongwanstandedblonglaefweistretlongheltmowelfeablonghemmofamiliblonghem,hemialongsaedblongkakae,klos,haosmomedikolkeamoolnarafalasosolsevis,moraetlongsekuritilongtaemwemanowomaninowok,isik,wanpatblongbodiinogatonosavewokgud,womanilusummanblonghemomanilususmwomanblonghem,taemhemiolfalaotaemheminosavegatwangudfalalaeffromsamsamtingwehemwaninosavekontrolem.</p>
+    <p>Mamamopikininioligatraetblongkasemspeselkeamohelp.Evripikinini,nomataweolibonlongmamamopapawetufalaimaredonomared,bambaeolikasemsemakprotekteklongsosollaefblongolgetatu.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetblongkasemedukeisen.Bambaeedukeisenhemifri,siposinolongolnarafalalevelbebambaehemihapenlongolelementerimofeslevelblongskul.Bambaeevripikininiimasgolongwanelementeriskul.Bambaeimasgatteknikolmoprofesonaledukeisenwepipolisavefolemsiposoliwantemmobambaeevrimanmowomanigatraetblongkasemhaeedukeisenfolemmerit.</p>
+    <p>Edukeisenbambaehemiblongdevelopemfulwanoldefrenkaenfasinblongmanmowomanmoblongleftemaprespekblongolraetblongmanmowomanmoolstambafridom.Edukeisenbambaehemipromotemfasinblongandastanem,luksavenidmomekemfrenwetemevrikaontri,evridifrenkaenreismorilijesgrupblongpipolmobambaehemimekemolwokblongUnaetedNeisenblongkipimpisoltaem.</p>
+    <p>Papamomamablongpikininioligatraetblongjusumkaenedukeisenwebambaepikininiblongtufalaikasem.</p>
+  </li>
+  <li>
+    <p>Evriwanigatraetblongtekempatolsemhemiwantemlongkaljarollaefblongkomuniti,blongenjoemolartmoseremolsaveblongsaensweistapkamandapmoolbenefitblonghem.</p>
+    <p>Evriwanigatraetblongprotektemolmorolmomateriolinteresweikamoatfolemeniwokwemanmowomaniprodiusumlongsaedblongsaens,literejamoartwehemibinraetem.</p>
+  </li>
+  <li>
+    <p>EvriwanigatraetlongwansosolmointenasonolodaweimekemseolisaveyusumfulwanolraetmofridomweolistapinsaedlongDeklereisenia.</p>
+  </li>
+  <li>
+    <p>Evriwanigatdiutiblongmekemigolongkomunitiwetrulonghemnomobambaehemifriblongsavedevelopemfulwanfasinblonghemolsemwanmanowoman.</p>
+    <p>Taemwemanmowomanistapyusumolraetmofridomia,bambaeevriwanimasfolemollimitweolistapinsaedlongloablongmekemsemaniluksavemorespektemolraetmofridomblongolnarafalapipolmoblongfolemolrulblonggudfalafasin,pablikodamojenerolwelfealongwandemokratiksosaeti.</p>
+    <p>ManmowomaninosaveyusumolraetmofridomialongweiweiagensemoltingtingmoprinsipolblongUnaetedNeisens.</p>
+  </li>
+  <li>
+    <p>WanmanowomaninosaveyusumwanpatblongDeklereiseniablongmekemseSteit,owangrupomanowomanitingsehemigatraetblongmekemeniaktivitioblongmekemeniaksenweigoagensemolraetmofridomweistapinsaedlongDeklereisenia.</p>
+  </li>
+</ol>

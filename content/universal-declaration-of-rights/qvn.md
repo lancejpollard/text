@@ -1,0 +1,121 @@
+<h1 align='center'>KAY PACHACHRU LAPAN RUNAKUNA WASHAKURKAANAPAQ ISKIRBISHAKUNA KAYKUNATA ISKIRBIPAAKURAA</h1>
+<h2 align='center'></h2>
+<p align='center'>Lapan runakuna chaynuyla washa kananpaqmi mana pisi rantisha runatanuy sirbichikunanpaqmi mana ima lutantas ruranakurkaananpaqmi, alipa rikanakurkaananpaqmi.
+Lapan runakuna chay washasha kapaakunanta mana musyarmi, mana kaasukurmi runakuna qalayapaakusha lutan ruranakuyta, ashlinakuyta, kaykunam juchakachimanchi lapan runakunata. Chaymi musyachipaakuu lapan runata mana manchakular, mana ima wanaychruusi kay pachachru kawapaakunanpaq. Jinamanmi "Rimashaq" nirqa, rimapaakunanpaq, naatan munanqanman, Diosmansi u jukmansi yupachikurkaananpaq.
+Maychru chaychruusi mandaqkuna ninakunqannuyla rurapaakunanpaq. Runankunata lutan runakunapa makinpitas washananpaq, lutan mandaqninta mana ima lutantas rurapaakunanpaq. Chaynuytaq lapan nasyunchru runakunas alipa rikanakur kawapaakunanpaq.
+Lapan nasuyunpita delgadukuna wamaqta qutukaanan junaqchruumi rimanakurkur iskirbipaakura lapan runa, warmis, olqos chaynuyla alipa rikasha kananpaq. Chaychruutan rimanakurkara runakunata ali kawayta yanapapaakunanpaq. Naatan mana pisi rantiyasha runawannuy piwansi sirbichinanpaq. Chaychruutan chay lapan nasyunkunapita qutukaq de!gadukuna ninakaraarira chay rimanakurkanqannuy yanapaanakur kawapaakunanpaqsi.
+Kay rimanakunqanchi rurasha kananpaq musyachishun lapan runata, warmitas, olqotas ninakurkaras, naatan mandaqkuna runankunata chay i mayqapitas washapaakunanpaq.
+LAPAN NASYUNPITA QUTUKAQKUNAM ISKIRBIPAAKURA
+Kay Pachachru Maychru Chaychruusi Runakana Chay Washasha Kapaakunanapaq
+Lapan runakuna mayaq chayaq nasyunchruusi mandaqnintin kay iskirbishakunata yarpapaakunanpaq, jinaman yachrachipaakunanpaq. Chaynuytan kay iskirbishakunata mandaqkunaqa rurachipaakunman, nasyunninkunachruusi u jukla nasyunkuna munayninchru alipa kayaqkunatas rikanakurkaananpaq.</p>
+<ol>
+  <li>
+    <p>Lapanrunaskaypachachrunasimunjukrantisharunanuymanapitassirbinanpaqmi,aliparikashakananpaqmi,washashakananpaqmi.Lapanrunakunasnasipaakamunyarpayniyoqminaatantantiyayniyoqmiimalutantarurapaakurursitantiyakunanpaq.Lapanrunakunaskawapaakunamanjukwawqenuylam.</p>
+  </li>
+  <li>
+    <p>Washashakananpaqkaylapaniskirbirayaqnuylamrurakanmanlapanrunawansi,yuraqwansi,yanawansi,imaniraqwansikachunquechuarimaqsi,castellanorimaqsi,ukachunwarmis,olqos,Diosmanyupachikuqsiuimamanyupachikuqsi,kachunmanadaqninpitapinsiyaqsiuimainsiyaqsi,kachunmayaqmarkapitasumaychru,nasishas,kapuqniyoqsiumanaimaynaqsi.Imanuyayqaynuykarsirikanakurkanmanjukkastanuylam.Kachunmayqanmandaqkunapaqatiraqninsi,kachunlibritayoqsiujinalas,kachunmayaqmarkapitaaywakamushas,pimaysirikanakurkanmanchaynuylam,juklaanasyunmandaqpamakinchrukarsi,manajukpamakinchrukaqnuylamrikapaakunmanalipa,chaymandaqparunankunatas.</p>
+  </li>
+  <li>
+    <p>Pimayrunatasamammunachwanchupitaswanuchipaakunanta,piwansimanamunayaqwansirbichikurkaananta,jinamanmaqashauashlishakapaakunantas.</p>
+  </li>
+  <li>
+    <p>Amampisi,pipasirbiqninsiimaysiyaykunqachuimapitanirsiuimapaqnirsi.</p>
+  </li>
+  <li>
+    <p>Amampitasikawaypakuchuchinmanchujukuywatanuyqa,manatanpitasashlinmanpishchumanabaliqnirsi.</p>
+  </li>
+  <li>
+    <p>Lapanrunas,maychaynasyunchrukaqsikanmanchaykikinnasyunrunanuyaliparikasham,libritaanaqmanakarsi.</p>
+  </li>
+  <li>
+    <p>Lapanrunaskapaakunmanchaynuylaaliparikasham.Naatanpisaliskakunchuchiptinkayiskirbishakunapitajuknuyparuraptinnasuynchrumandaqqawashanmanmilapanrunakunata.Amamrirqararmanchupisi,mandaqninpitalutantarimayaqtauwakta,kaytalutantarurayniyaqta.Manatanrirqaranmanchuwakintaaliparikaqtasuwakintalutanparikaqtas.</p>
+  </li>
+  <li>
+    <p>Juchataripaqrunakunawiyaripaakunmanlapanrunatamnasyunninchrukaqtaqa.Paykunaqarunakunatawashapaakunmaniskirbishankunanuymimanaimaslutanrurashakapaakunanpaq.</p>
+  </li>
+  <li>
+    <p>Amampitasmanakaqpita,charichinmanchuukarselmanwichrqachinmanchu.Naatannasyuninpitasjurquchinmanchu.</p>
+  </li>
+  <li>
+    <p>Juchaakushakunatataripaqrunakunarikapaakunmanchaynuylamlapanrunatas.PaykunawiyaripaakunmanmiChayjuchachasharunamayinwanuchiqtaimaninqantas".Chawramanamayqantaskuyapaalarmiimanipaakumansirimakurkanqannuy.</p>
+  </li>
+  <li>
+    <p>"Jukrunapitalutantamrurasha"nipaakuptinrasunpashumaqmusyakamunqankamaqa"Manamyanqarimapaakunmanchupaymirurasha".nir.Naatanjuchaakushakarqa,kikinchayrunawashakushunuwashachunjukrunas.Chayjuchataripaqkunaachkarunakunakayaptinmimayapaakunmanchayjuchachasharunarimaqta.</p>
+    <p>Pirunaimatasruraruptin,manamimaniytasatipapaakurachunasyuninkunachrumanakaynuyiskirbishakunakaptin.Naatanmanatankarachuiskirbishakunajuchaakushakunataimaypaaliskakunchuchinapaqsi.Chaypitaranmandaqkunaiskirbipaakurakaytanaaimayqasjuchaakushajananchruuraq.</p>
+  </li>
+  <li>
+    <p>Mariampitasayluykunata"Lutantaruray".nichwanchu.Naatanmanatanwayinchruimanuykawakuqtasiimatasjatipachwanpishchu.Manatankartantaspisikichrapunmachuniwashantasrimanmanpishchu.Kayiskirbishakunanuymirurakashakanman.Jinamanwashashamkapaakunmanlapansikaytukuylutanruraypita.</p>
+  </li>
+  <li>
+    <p>Runaqapimaysimunanqantamaywanmanmaytas,chaytas.Naatannasyunninchruusimunanqanchruutanyachranmanmaychruchaychruusi.</p>
+    <p>Pimaysimunarqayarqunmanmiimaysinasyunninpita.Naatanmunarqakutiyunmantanimaysi.</p>
+  </li>
+  <li>
+    <p>Manakaqpitapisyanqaqatikachraptinqa,chayrunakunaqayarqukurkanmanminasyunninpitajuklaanasyunchrumaylachruusialikakunanpaq.</p>
+    <p>Naatanimataslutantarurapakushakarqaamamyarqunmanchunasyunninpitajuklaanasyunchruwashapaakunanpaq,LapanNasyunpitaQutukaqrunakunamanammunapaakunchukaykunarurakananta.</p>
+  </li>
+  <li>
+    <p>Lapanrunaskapaakunmanjuklaynasyunlatamarkanchakusham.</p>
+    <p>Manampisi"Qampanaamanamkankimanchukaynasyunnikiparunanqa"nir,qarqunmanchupitas.Nimanatanchariranmanpishchu"Qamqamanamkankimanchujuklaanasyunparunanqanirsi.</p>
+  </li>
+  <li>
+    <p>Naakasaranantimpumanchrarurqa,warmis,olqoskasarakunmanmi,maykastawansi;yanawansi,yuraqwansi.Kasaranmantanjuklaanasyunrunawansi,DiosmanumanaDiosmanyupachikuqwansi.Nasyunchruiskirbishankunanuymiwashanmanlapantamrunankunata,kasarakunanpaqsi,kasararuptinsiuchulaanakuruptinsi.</p>
+    <p>Manampisikasarachinmanchumanamunaqta.Kasarachinmanqamunanakuqlatam.</p>
+    <p>Chaykasadukunalapanwamrantinmikapaakunmanaliparikasha,mandaqkunapitawashasha.Chaykasadukunawamrankunawanaliskambalin.</p>
+  </li>
+  <li>
+    <p>Pimayrunapaskanmanmimunaptinqachrakransi,wayinsiuimayqansi,kikilanpasiujukrunakunapawansi.Chaynuykanantamanampisiamachanmanchu.</p>
+    <p>Manampisikitanmanchuchayimayqantasioíqoorirmanakaqpitaqa.</p>
+  </li>
+  <li>
+    <p>Pimayrunasimunanqantampinsiyakunman,naatanaliulutanruranqantasitantiyakunmanmi.ChawraqajinamyupachikunmanDiosmansiuimamansi.Muyunmanmijukriligiyunpitajukriligiyunmansi.Muyunmantanjuknuykawaypitajuknuykawanmansi.JinampimaysiimanaypasiDiosnintaalawaakunman,japaíansiuwakinrunawansi,washachruusiuwayilachruusi.Yachrachipaakunmantan.yachrakurkanqantawanjuknuypakawaynintas,naatanrurapaakunmanmifistankunatas.</p>
+  </li>
+  <li>
+    <p>Chawrarunaqajinampinsiyanman,naatan"Rimashaq"nirqa,rimanman.Naatanchaypinsiyayanqanrunatapiñaakachinanmanapipitasamachashakaptinqaamamrimanmanchu.Runaqapimaysiyachrakunmanmunanqantamlibrukunataleyepasiujukkunarimaptinmayakuypasi.Naatanmunarqapinsiyanqantaiskirbinmanmiurimanmanmiwakinkaqkunasmayakurkaananpaq.Naatanapachinmanmimayaqchayaqnasyunkunamansiamamjuklaanasyunmanimanaypaapachikuptinsi;amaapachiychuninmanchupisi.</p>
+  </li>
+  <li>
+    <p>Pimayrunasijinamqutukaakurkanmanimapaqsi.Naatanqutukapaakunmanimapaqsi,alipaqmi.</p>
+    <p>Manampitasi"Runakunawanqutukaashun"ninmanchumanamunaqtawapuypaqa.</p>
+  </li>
+  <li>
+    <p>Pimayrunasi,mandaqninimaruraytasmunaptinqaíapanmichaychrukapaakunman,kikinkunasudeígadukunas.</p>
+    <p>Mandaqkunaimawansiyanapaamuptinqawakinkunanuymichraskinmanlapansi.</p>
+    <p>Lapanrunasimunanqantamakrapaakunmanmayqantasimandaqninpaq.Naatanchaymandaqninkunaakrapaakunqankanmanayqa'watakamasnasyuninkunachruiskirbishankunanuymi.Mandaqnintaakrapaakunmanmanakaskipanakularmiiskirbipasumakinchakcharkuypas.</p>
+  </li>
+  <li>
+    <p>Juknasyunchruyachraqrunapakapunmanaypamimansiayqansikawaananpaq.Naatanmayqanpasmasíakapuptinqayanapanmanwalkalakapuqtam.Chaynuytanmasíakapuptinqanasyunkunas,yanapanmanmanaalaapakapuqniyoqnasyunkunata,wakinkunapitamanajukmapashakapaakunanpaq.Chaypitatukuyjinanpayanapanakur,alikapaakunanpaq.</p>
+  </li>
+  <li>
+    <p>Pimayrunasiuryanmanimachruusimunanqanchruumimaychruusi.Jinamanalipamrikanakurkanmanuryaqsiuurayachiqsi.Naatanmanauryatatariptinqamandaqninkunamyanapanmantariyta.</p>
+    <p>Ishkayrunachayuryalachrukaptinjinamanchaynuylaishkayninuryaptinqa,pagashakapaakunmanayqatakarsichaynuylam.</p>
+    <p>Uryaqkunaalipagashamkapaakunmanmanaimawanaychruusikapaakunanpaq.Jinamanaylunkunasaliparikashakapaakunanpaq.Naatangananqanmanaimapaqsiaypaptinqanasyunninchrumandaqninkunamyananpanman.</p>
+    <p>Pimayrunasurayaqqaqutukapaakunmanmiuryaqmayinkunawanimasmanaalikaptinrimanakurkaananpaq.Manampisi"Amaqutukapaakuychu"ninmanchupitas.Maslataganaytamunarqaualiparikashakaytamunarqa,jinammanakurkaananpaqqutukarkurrimanakurkanman.</p>
+  </li>
+  <li>
+    <p>Pimayrunasiuryaqqajamanmanmi.Chayjamarimatasrurakunmanmunanqantam.Naatanpisiamamuryachinmanchurimanqanpitamasqa.Jinamanwatachamurjamaptinpagashamkanman.</p>
+  </li>
+  <li>
+    <p>Pimayrunapaskanmanaypamimalansialikawapaakunanpaq,aylunkunasmanaqeshyapaakunanpaq,kanmanaypanmikunan,jakun,jinamanwayinyachrananpaq.Qeshyaruraywanmanmimedikumanuhospitalmansijampichikuq.Naatanmandaqrunakunayanapapaakunmanlapantam:uryapakuytammanatariqrunakunata,qeshyaqkunata,manauryaqatipaqkunata,japatukushakunata,chachakunata,manajuchaynaqkayarsiimaynaqsikidashakunata.</p>
+    <p>Pachrayoqwarmikunasjinamaniñashakunaskapaakunmanaliskayanapashamimayqachruusi.Akapawamrakunakapaakunmanalirikashamlapansikasadupakarsiumanakasadupakarsi.</p>
+  </li>
+  <li>
+    <p>Runakunalapanmiyaykupaakunmaniskuylaman.Naatan"amampisipaganmanchuqalayunqanpitaushanqankamas.Wamrakunatakachrapaakunmanlapatammunaqtas,manamunaqtasprimariyaiskuylaman.Chaypitamastayachrakuymunaqkuna,jinamyachrakurkanmanmedikupaqsi,abugadupaqsiuimayqapaqsi.Unibersidakunamanmanaatipaqkunaaliyachrarqachraskishamkapaakunman.Naatanmanayachraqkunata"Amamchraskipaakunmanchuimansirayqoqa.</p>
+    <p>Chayiskuylakunachruyachrachiykunakanmanlapanyachrakuqkunataalirunakaytayanapananpaqmi,aliparikanakurkaananpaq,lapanrunatayanapaa-nanpaqmi,rantisharunanuymanapipasirbichiqninsikapaakunantamusyapaakunanpaqmi,juklaanasyunrunakunawan,ujukrimaytarimaqkunawanalipakawapaakunanpaqmiDiosmanyupachikuqtawan,manayupachikuqtasaliparikanakurkaananpaqmi.Jinamanyachrachipaakunmanmilapannasyunpitaqutukaqdelgadukunaiskirbipaakunqantayanapanakurkawaypitas,manawanuchinakuykananpaq.</p>
+    <p>Naatantaytakunamakrapaakunmanchurinkunamayiskuylachruyachrachishakanapaqsi.</p>
+  </li>
+  <li>
+    <p>Runakunapimaysimarkachruimayqatasrurakunmanmunanqatam:ruranmanmifistatas,kantamanmikantatas,awanmanmiimatas,dibujanmanmiimayqatasutantiyayninpitawamaqkunatasjurqamunmanmi,wakinaíiskatantiyayyachraqrunakunanuysi.</p>
+    <p>Pimayrunasi,shumakuqwamaqlataimataskamakarachirqaumanapisiiskirbinqantawamaqtaimapitasiskirbirurqapagashamkapaakunman.Naatan"Amamchayruranqantaqapisiyachrapanmanchu.Noqamwamaqtajurqaramuu"nir,kaskinwanqaqolqetacharinanrayqosiualawashakananrayqosi.</p>
+  </li>
+  <li>
+    <p>Lapanrunammaynasyunchru,kaqsi,imalutantasrurayaqkunaqalayapaakunmanalikawaytarunamayinwan,kaychrulapankayiskirbishakunanuy.</p>
+  </li>
+  <li>
+    <p>RunakunaIapanmimarkachrumandaqkunaimatasniptinkaasukurkanman.Chaykaasukuqkarqa,pimaysikapaakunaliparikasham,naatanalirunapipaqsi.</p>
+    <p>Juknasyunchruyachraqkuna,nasyunninchruiskirbishakunata1apanmikaasukurkanqa,manapisijukrantishanwannuypiwansisirbichikunanpaq,jinamanalirunakapaakunanpaq.Pimaysialimkawanmanrunamayinwan,naatanlapanmiimachruyanapanakurkanmanalikawaytachaynasyunninkunachru.</p>
+    <p>Kaylapaniskirbishakunamanamkaasukanmanchukara,lapannasyunpitaqutukaqdelgadukuna"Rurashunmi"ninakurruraytamanaqalayushakapaakuptinqa.</p>
+  </li>
+  <li>
+    <p>Juknasyunchruusiurunaqutukaqchruusiujukrunalatasimatarurananpaqsipisikaychruskirbirayaqpitajuklasipaimapitastantiyachinantamanammunapaakuuchu.</p>
+  </li>
+</ol>

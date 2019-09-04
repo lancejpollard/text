@@ -1,0 +1,122 @@
+<h1 align='center'>Nana Comɨnɨ Uri Illafue</h1>
+<h2 align='center'>Nano llogafue</h2>
+<p align='center'>Biena uiño: Nana comɨnɨ jɨaɨe comɨnɨ anamo iñellena, ie fɨnua dɨese nagamɨe feiñollena, nana comɨnɨ uri illena, bie rafuena llotɨcaɨ. Comena nagamɨe jeicɨa jira, bie rafuena llotɨcaɨ. Nana comɨnɨmo bie rafue daje isoi duide.
+Biena uiño: Ailluena comɨnɨ, dɨga icaiño jɨaɨe comɨnɨmona duere sefuilla jira, nana comɨnɨ jacɨruiñeno iacana jira, naga comɨnɨ rana iacana jira, bie rafuena llotɨcaɨ. Duere sefui raillano, nana comɨnɨ nɨe isoide rafuena jacɨruiñeno llollena, bie rafuena llotɨcaɨ. Duere sefui raillano, nana comɨnɨ nɨe isoide rafuena jacɨruiñeno llollena, bie rafuena llotɨcaɨ.
+Biena uiño: Naga gobierno ie comɨnɨna canua, naimacɨmo bie isoide rafue illena. Gobierno dɨga, jobaime naimacɨ fɨnoñellena, bie isoide rafue ie comɨnɨmo illena, naga gobierno ie comɨnɨna canua.
+Biena uiño: Naga naɨraɨ jɨaɨe naɨraɨ dɨga, nabairillana caɨjɨtailla jira, bie rafuena llotɨcaɨ.
+Biena uiño: Naga Naciones Unidamo duide naɨraɨ bie rafuedo jaiacana jira, bie rafuena llotɨcaɨ. Nagamɨe comena jeicɨga. Ɨima rɨño baɨfemo faɨñede. Rɨño ɨɨma baɨfemo faɨñede. Comɨnɨ duere itɨnona jitaiñedɨcaɨ, iadedɨ naɨmacɨ uri caɨmare illana jitaidɨcaɨ.
+Biena uiño: -Danomo bie rafue llocana jaitɨcaɨ - nana Naciones Unidamo duide naɨraɨ llotɨmacɨ.
+Biena uiño: Bie rafuena nana comɨnɨ raise atona uiñuana jitaidɨcaɨ. Iena nana comɨnɨ uiñuamona, bie rafue suicana jaite.
+Danomo ofillanona bie rafuena llotɨcaɨ
+Nana comɨnɨ bie rafue anamo jitaidɨcaɨ. Naga naɨraɨ bie rafuena ɨɨuana jitaidɨcaɨ. Bie rafuena naɨmacɨ comɨnɨna llofuiana jitaidɨcaɨ. Naga naɨraɨ bie rafue lloga uai fɨnuana jitaidɨcaɨ, nana naimacɨ comɨnɨ bie rafuena ollena. Ie jira bie rafuena llotɨcaɨ.</p>
+<ol>
+  <li>
+    <p>Nanacaɨcomuillamonadamacaɨabidoitɨcaɨ.Caɨcomuillamonajɨaɨmɨeanamoiñedɨcaɨ.Nanadajefacaiconiitɨcaɨ.Abɨuiñuanonacomuidɨcaɨ.Danɨconinɨriecaɨnabairilla.</p>
+  </li>
+  <li>
+    <p>Nanacomɨnɨmobierafueduide.Naganaɨraɨmobierafueduide:nagarɨñomo,nagaɨimamo,Jusiñamuinasedadɨmɨemo,Jusiñamuinasedañedɨmɨemo,jamaibueisoidɨmɨemo,jamaibueisoiñedɨmɨemo,dueredɨmɨemo,ucuberedɨmɨemo,rɨaɨuainañaɨtɨmɨemo,jɨaɨeuainañaɨtɨmɨemo,dɨeseitɨnomobierafueduide.Nɨeisoidegobiernoanamonaɨmacɨia,bierafuenananaimacɨmoduide.</p>
+  </li>
+  <li>
+    <p>Nanacomɨnɨillanajitaidɨcaɨ.Jɨaɨecomɨnɨanamobujacaiñenia,jɨaɨmeanamobudɨnaimɨeanamooreñena.Nanacomɨnɨjɨaɨecomɨnɨnajacɨruiñenanajitaidɨcaɨ.</p>
+  </li>
+  <li>
+    <p>Jɨaɨecomemomaɨjɨllenajacabudɨcomɨnɨnaebeisoifecañena.Ienacaidɨca.</p>
+  </li>
+  <li>
+    <p>Comɨnɨnaisicacaitañena.Dueresefuiñellena,comɨnɨnajanafefitañena.</p>
+  </li>
+  <li>
+    <p>Nagagobiernorailla:-Nanacaɨenɨruemoitɨnodɨcomɨnɨdɨmacɨ.Iejiradajeisoinagamɨiaɨnacanoitɨcaɨ-railla.</p>
+  </li>
+  <li>
+    <p>Nanacomɨnɨgobiernollogauaianamodajeisoiitɨmacɨ.Nanacomɨnɨmogobiernollogauaidajeisoiduide.Bierafuedojaiñedɨmɨemonajacabunadueresefuiñena.</p>
+  </li>
+  <li>
+    <p>Gobiernollogauaidojaiñedɨmɨemonabudueresefuia,naienaraisesiadollena,juezdɨnenaimɨejaillanabunarairuiñena.</p>
+  </li>
+  <li>
+    <p>Illaɨcomɨnɨdɨjamaiebenabunagaɨtañena.Calabozomo,cárcelmojamaiebenabunauiñega.Ienaɨraɨmotomonabudɨjamaiebenadotañega.</p>
+  </li>
+  <li>
+    <p>Bumollogɨduarafueia,naierafueduiñenajuezdɨnenaimɨenauille,naierafueraisesiadollena.Baininoienefɨnoñena.</p>
+  </li>
+  <li>
+    <p>Bumollogɨduarafueia,naierafuenaniasiadoñenia,naimɨenaniaduerefɨnoñena.Juezdɨnenaierafuenabaininosiadoñena.Naimiedɨbeimoitɨnonanaimɨenarɨidollenarairuiñena.</p>
+    <p>Navuiiefɨnocaniarairuiñegarafuefacainabiruinaimɨenaduerefɨnoñena.Rairuicarafuebufɨnoia,iefɨnocafacaisedueresefuillacɨnobaɨfemonaimɨedueresefuiñena.</p>
+  </li>
+  <li>
+    <p>Nagamɨejofomouriilla.Ieillacomɨnɨdɨgaicɨrafuenafɨnoñena.Bunaimɨenauriitatañenia,naimɨejitaia,ieuriitatañedɨmɨenanaimɨellogɨdoia,ienaillaɨcomɨnɨrairuiñena.Bunaimɨejeareñaɨa,naimɨejitaia,naimɨejeareñaɨtɨmɨenanaimɨellogɨdoia,ienaillaɨcomɨnɨrairuiñena.</p>
+  </li>
+  <li>
+    <p>Ienaɨraɨmonɨnebumacariacania,illaɨcomɨnɨnaimɨenarairuiñena.Ienaɨraɨmonɨneiejofoillanabujitaia,illaɨcomɨnɨnaimɨenarairuiñena.</p>
+    <p>Jɨaɨenaɨraɨmobumacariacania,illaɨcomɨnɨnaimɨenarairuiñena.Abɨdoienaɨraɨmonaimɨebiacania,illaɨcomɨnɨnaimɨenarairuiñena.Illaɨcomɨnɨnaimɨenacaidɨñena.</p>
+  </li>
+  <li>
+    <p>Dueresefuillamonajɨaɨenaɨraɨmonainomodueresefuiñellenabujaiacania,illaɨcomɨnɨnaimɨenarairuiñena.</p>
+    <p>Maraiñedɨcɨnofɨnoñenia,naimɨejaillanaillaɨcomɨnɨdɨrairuiñena.</p>
+  </li>
+  <li>
+    <p>Nagagobiernorailla:-Nanacaɨenɨruemoitɨnodɨcaɨcomɨnɨ.Caɨnaɨraɨmoduudɨmacɨ-railla.</p>
+    <p>Gobiernoiecomɨnɨnaonidotañena,jɨaɨegobiernonaimacɨnafeiñoiacaiñenia.Caɨnaɨraɨmoduiñedɨo-illaɨcomɨnɨbunaieselloñena.Jɨaɨenaɨraɨimɨenabujaiacania,illaɨcomɨnɨienarairuiñena.</p>
+  </li>
+  <li>
+    <p>Ieaɨnaillena,nɨeeimɨerɨñonaoiacania,ienabunarairuiñena.Nɨeisoiderɨñonaollenabunarairuiñena.Ieɨniillena,nɨerɨñoeiñaiñoɨimanaoiacania,ienabunarairuiñena.Nɨeisoideɨimanaollenabunarairuiñena.Uamei,uruiaɨnaiaɨmaiaɨcomuitajanabunarairuiñena.</p>
+    <p>Aɨnaollena,ɨninaollena,conimanajitaillanonaiite.</p>
+    <p>Nagaɨimaieaɨdɨgaia,nagarɨñoieɨnidɨgaia,ienaɨraɨjudaɨsiñeite,iadedɨnagaɨimaieaɨñederɨñodɨgaicabia,ienaɨraɨdɨjudaɨrite.Naɨmacɨcomɨnɨuriillena,naimacɨnaɨraɨaɨjudaɨsiñellena,nagagobiernoiecomɨnɨnacanua.</p>
+  </li>
+  <li>
+    <p>Enɨruenabunamataacania,jofonabunamataacania,ranabunamataacania,illaɨcomɨnɨnaimɨenarairuiñena.Nagacomeienanamataacania,jɨaɨecomɨnɨdɨgaienanamataacania,illaɨcomɨnɨnaimɨenarairuiñena.</p>
+    <p>Bumonaieenɨruena,bumonaiejofona,bumonaieranajamaiebenabaɨroñena.</p>
+  </li>
+  <li>
+    <p>Bueisoideramoiecomecɨnafacaia,bunanaimɨenarairuiñena.Jusiñamuinabusedaacania,bunanaimɨenarairuiñena.Nɨeisoidɨmɨenabusedaacania,bunanaimɨenarairuiñena.Jɨaɨeraɨuedobujaiacania,bunanaimɨerairuiñena.Jɨaɨecomɨnɨmonaimɨeɨɨnuacinolluanabunarairuiñena.Iejoɨomoienalloia,jinoienalloia,naimɨenabunarairuiñena.</p>
+  </li>
+  <li>
+    <p>Nɨeisoideramoiecomecɨfacaia,naimɨenabunarairuiñena.Naimɨecomecɨfacajacɨnomuidona,naimɨedueresefuiñena.Jɨaɨenaɨraɨmonabueisoidecomecɨnafacajacɨnonanaimɨefeiñoiacania,jɨaɨenaɨraɨmobueisoidecomecɨfacajacɨnonanaimɨeoretaiacania,ienaillaɨcomɨnɨrairuiñena.</p>
+  </li>
+  <li>
+    <p>Jamainɨeisoiderafuefinollenacomɨnɨofitaia,naimacɨnabunarairuiñena.Nɨeisoiderafuemobuduicania,ienabunarairuiñena.</p>
+    <p>Nɨeisoiderafuemobuduiacaiñenia.Iemonaimɨeduiñenabunarairuiñena.</p>
+  </li>
+  <li>
+    <p>Naimɨejitaia,danomoofillano,nagamɨeieillaɨcomɨnɨnɨeisoiienaɨraɨsedajacɨnodɨsiadoga.Naimɨeatonasiadoiacaiñenia,naimɨefacainajɨaɨmɨedɨienasiadolle.Ieillaɨcomɨnɨrrafuenabusiadoiacania,naimɨenabunarairuiñena.</p>
+    <p>Illaɨcomɨnɨnabujaiacania,ienabunarairuiñena.</p>
+    <p>Comɨnɨjitailladɨeseillaɨcomɨnɨdɨnanacomɨnɨnasedaja.Dajerieillaɨcomɨnɨnajaillena,comɨnɨdɨnenanaimacɨnafetua.Nanacomɨnɨuaininonaimacɨnafetua.Naieillaɨcomɨnɨmeidollɨruijɨaɨlloga.</p>
+  </li>
+  <li>
+    <p>Segurosocialraillarafuemonanacomɨnɨjaɨnaɨaɨna.Naierafuemonaiegobiernoucubeilladɨesenagamɨefeiñua.Naimɨebuenajitairaillano,naimɨecomenajira,naimɨeuriillena,iesenagamɨefeiñua.</p>
+  </li>
+  <li>
+    <p>Nɨeisoideranabumaɨjɨacania,naimɨenabunarairuiñena.Mareraillanomonaimɨemaɨjɨa.</p>
+    <p>Maɨjɨllejacaillena,gobiernocanua.</p>
+    <p>Jɨaɨmɨeiemaɨjɨamonaɨbanafeiñoia,naimɨeisoibumaɨjɨia,iemaɨjɨamonaɨbanaraisefeiñua.</p>
+    <p>Naimɨecomenajira,iecomɨnɨbuenajitairaillano,ɨbananaimɨeraisefeiñua.Raisefeiñoñenia,gobiernonaimɨenacanua.</p>
+  </li>
+  <li>
+    <p>Maɨjɨafuillamei,bujafuieroiacania,naimɨenabunarairuiñena:Comɨnɨnaaremaɨjɨtañena,iadedɨnaimcɨmaɨjɨacanadɨnorimaɨjɨa.Fiestaraillaruimonaimacɨmaɨjɨtañena,iadedɨnairuifacainaɨbaca.</p>
+  </li>
+  <li>
+    <p>Iecomɨnɨbuenajitairaillano,iemaɨjɨmonanagamɨeɨbanafeiñua.Iecomɨnɨraiseguillena,ɨniroiillena,joforaiseillena,remedioollena,iedɨeseɨbanafeiñua.Bumaɨjɨnia,buduia,bufecɨñonaia,buuaɨcɨmanajaia,ieucubebumoiñenia,gobiernonaimɨenacanua.</p>
+    <p>Riñojocuafacaisegobiernonaiñaiñonacanua.Gobiernonagauriaɨnadajeisoicanua.Mooredeuruenacanua.Naɨsomotoogauruedajeisoicanua.</p>
+  </li>
+  <li>
+    <p>Nanauruiatescuelamojaillanabunarairuiñena.Nanojaillaañosfacainaibatañena.Escuelamonanauruiatjailla.Primariafuillanonajinɨeescuelamobujaiacania,ienaillaicomɨnɨtrairuiñena.Rabenauiñotɨnodɨesenainomofeiñoga.</p>
+    <p>Escuelamonagarafuenaraisefɨnuanaprofesorllofuega.Nagauruecomenajira,iesellofuega.</p>
+    <p>Nanaconinanabairillanallofuega.</p>
+  </li>
+  <li>
+    <p>Nɨeisoiderafueienaɨraɨfɨnoia,nagamɨenainomojaillanaillaɨcomɨnɨrairuiñena.Naierafueiteiecomecɨjaɨsillenajira,ienarairuiñena.</p>
+    <p>Nɨeisoideranabucueia,naiemonadamanaimɨeɨbanafeiñuanabunarairuiñena.</p>
+  </li>
+  <li>
+    <p>Bierabemocuegarafuesuillenabunarairuiñena.Nanacomɨnɨbieisoidesuillerafueillanomojaɨnaɨaɨna.</p>
+  </li>
+  <li>
+    <p>Danɨconinɨriieillanomonagamɨedajenamaɨjɨa,nagamɨecomenajira.</p>
+    <p>Iegobiernollogauaidɨesenagamɨeiejitaillacɨnonafɨnua.Jɨaɨecomɨnɨnoiecomecɨnafacajanoienafɨnua.Nanacomɨnɨuriillanaienafɨnua.</p>
+    <p>UriillenaNacionesUnidasllogauainabunajeareuacaiñena.</p>
+  </li>
+  <li>
+    <p>Bierafuedojaiacadɨnonabunarairuiñena.Bierafueuiñuamona,bierabemollogarafuenabunajamaiñena.</p>
+  </li>
+</ol>

@@ -1,0 +1,122 @@
+<h1 align='center'>Ku Koloŋ ko ka kuloho ko ka wɔɔ yo wɔ Kafaydo</h1>
+<h2 align='center'>Madɛnkɛtima:</h2>
+<p align='center'>Ba masimɔkɔ, yiki mɛnɛ/iŋ thiiya ba mandiŋ ka bɔnsɔŋ ba ka biya-mɛtiŋ, wuna madɛnkɛtima kuyankaŋ, thiiya iŋ mathɛbɛŋ ka faydo fooma, Ba maniyɔ maka biya-mɛti mathɔnkɔy ka bi tɔɔni namɛŋ, ba sisa thɔrɛ iŋ manakasi ka tha thukuma tha ka biya-mɛtiŋ be lukɛ ka faydo ba biŋ sisa mathɛbɛŋ in magbonkoli malɔhɔy, ka thana paliyande, wuŋ sise hɛlɛŋ thapɛŋ tha boyɛ ka biya-mɛtiŋ hutete
+Ba wuŋ kɔndɛɛ niyɔ wu lɔhɔy mɛnɛ wɔmɛti kɔndɛɛ pithita ba wundɛ hukɔthɔ ma niyɔ makanamaŋ ka muruthɛ wo fuŋ wundɛ.
+Baana sethiniyo wundɛ, thiiya ba ka wɔmɛti kɔndɛ niyɔ ka thɔŋ baŋ fooma.
+Wuŋ kɔlɔhɔ ba katiŋ tande mathimiyande ka biya-mɛti fooma ka faydo. Hugbɔŋho ka faydo fooma, ho dɔma na Unaytɛd Nesɔn, kɔsiniyɔkɔ ka kulaniya ko kolo.
+Ba kɔthɔ thiiya mɛnɛ, sɛmbɛ iŋ makahi ma ka wɔmɛti, e wuŋ tɛŋiyande ka thiiya ba bayapeŋ iŋ yɛrɛmɛŋ be kɔsiniyɔkɔ ba lukande hugbɔŋ huŋthe ba sisa kuyankaŋ, wu niyɔ malukunade maka ŋakɛkɛn foma adunkunɔkɔy ka tha banthe, wuŋ niyɔ lukande iŋ ŋakɛkɛn fooma ŋugbɔŋ ho thantɛ haŋ, ho dɔma na Unaytɛd Nesɔns, ba kcthɔ thiiya ba ka wɔmɛti.
+Wuŋ tɔŋɔŋ na kperekethe, ka dɔma, na masimɔkɔ ma thiiya mɛnɛ kuyankaŋ mɛna ma gbeŋ ka ma duŋunɔkɔ mamaŋ.
+Mawuma
+Mapɛnkande maŋfooma tepe na
+Kukuloŋ koka kuloho koka wɔɔ yo wɔ ka faydo, ɔna biya bohitande maka biya-mɛti ka faydo fooma, ka wu mankɛ wɔɔ yo wɔ ba bɔha ku koloŋ koŋko ka huthukuma nama haŋ wundɛ ba bɔha sɔbɛ bathaniya mɛnɛ ba sisa yiki iŋ thiiya ka biya be lukande fooma ka faydo, ba kitiyɛ wɔɔ yo wɔ kama sɛthiniyo ma wundɛ sɛthinya ka faydo maŋ.</p>
+<ol>
+  <li>
+    <p>Biya-mɛtifoomabekiyokakuyankaŋiŋkasɛmbɛmɛnɛinkayiki.Bindɛkiŋbaniyɔinmasimɔkɔ,makayiinawokahuwɛndiyande.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkiŋkulohomɛnɛkuyankaŋkakulonko.Wundɛkabafakinandewɔɔyowɔkamanɛkimawundɛnekeiŋtɔɔnamaŋ,niyɔŋwopankɛ,wobɔlɔ,wofufɛ,mindosinthefooma,miŋkiŋkulohokokɛntu.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkiŋiŋfɛɛrabaniyɔiŋsii,ekutakuyankaŋ,ewundɛpamo.</p>
+  </li>
+  <li>
+    <p>Wɔmɛtikababohokahuwaline,eniyogbɔn,eniyothɔrɔ.Huwalinekiŋbatananiyɔkabiya-mɛtihutete.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkaabaniyonakasi,iŋthɔrɔmaŋmamawokafeli.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkiŋmalohobakothiyokamɛwokamɛnɔŋtepeethɔŋba.</p>
+  </li>
+  <li>
+    <p>Biya-mɛtifoomakiŋsiŋthekathɔnbaŋ,kufakandekahutetekanamɛŋbapamoiŋthɔŋbaŋ,bathanafakinande,wusisimatetikakukoloŋkoiŋbapamɔkɔwooniŋsisiyɛthɔrɔ.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkinfɛɛrahaŋbakɔɔwukahɛebaŋinabathɔnkɔybawɔbaniyobaŋ,wunathɔŋbaŋkahati.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkadɔrɔŋbanekobakponeboho,ethiyokahukpɔlɔn,mɛnɛbakanthokakɛkɛŋkokiyowundɛko.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkiŋinfɛɛrabakɔsiŋinokawuthunbɛiŋbakɔsɔŋnibekakuyankaŋmɛnɛbethunbɛbadethiwakulohokokanamaŋmɛnɛwundɛbohitokoiŋthɔŋbaŋ.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔ,wokatakakubasi,wundɛkabathoŋkinothaaniyokɔsiŋinonɔŋnatepethɔŋbana,ewundɛdunkunofɛɛrabakɔsiŋina.</p>
+    <p>Wɔɔyowɔkaabadunkunokuthoŋkokathɔnbathaaniyekiyokakɛkɛnnamako,ɔthuhaŋmandikamalɔkɔmabohowundɛ,toŋiyokasibadaŋandekasibandekathɔŋbakamalɔkɔmabohitowaawobɛŋma.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔ,kaabatutosɛmbɛ,bawalibakanama,kahuŋpohokanama,kayikibakanama,kaŋathagbaŋawundɛkpalita.Wɔkabaaniŋthiyɔkɔalikobatetiyayikiiŋmakothiyomakanama,wɔɔyowɔkiŋmalohobapamoiŋthɔŋbaŋkabaliŋbabaŋ.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔ,kiŋmalohobaniyɔkuyankaŋbakaakawundɛthimoiŋbaniyɔkakɛkɛnnaman.</p>
+    <p>Wɔɔyowɔkiŋiŋmalohobapɛnakɛkɛn,ndookɛkɛn,thithakɛkɛnnamaewundehɛlɛŋduwaɔtɛnkilinakakɛkɛnnamaŋko.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔ,kiŋiŋmalohobatharaekadɔŋɔkakɛkɛnmɛnɛkiŋbaniyobalibathɔnkɔykakɛkɛnnamakoŋ.</p>
+    <p>MalohomabɛŋkaabathaŋthiyobaanathiiyawobabohitokobabathɔnkɔybatawundɛniihukɔminamɛntobatetiyathɔŋnibakaUnaytɛdNesɔns.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkiŋiŋmalohobaniyɔkakiyowundɛka.</p>
+    <p>Wɔkaabathanthiyomadɔŋɔmakakɛkɛnnamakoɔbathanthiyobasɛkitakɛkɛnkufɛɛnabadɔmanakɛnakiyowundɛ.</p>
+  </li>
+  <li>
+    <p>Bayapɛŋiŋyɛrɛmɛnbethankɛfuŋa,bekɛriŋitɔytaninhuŋpo,kɛkɛnnamɛn,kulaniyakokanamɛŋ,kiŋiŋmalohobadeŋande/yɛŋtandeedethuwahuŋpohokanamɛn.Biyabebɛnkiniŋmalohomasinthemaakadeŋa/yeŋto,iŋmakahudɔŋɔbepathi.</p>
+    <p>Hudɛŋandehakiŋbakɔɔnawowathewoŋ,inwoŋyɛrɛmɛwoŋ,mɛykathabanthebadɛŋande.</p>
+    <p>Nkpeeŋkinadɔmahuŋpokafaydo.Kikpeeŋkikiŋiŋmalohobapamokamadɔŋiyandemɛnɛkɛkɛnkokanamɛŋkabaliyoobali.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkiŋiŋmalohobaniyɔiŋkɛɛwundɛwuntheŋɔbindɛbilɔkɛɛbantheinbiyabifɛɛna.</p>
+    <p>Wɔɔkabatutesɛmbɛkakɛɛnamaŋbaŋ.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkiŋiŋmalohobasiimɔkɔnathimowundɛ,iŋbathɔɔkadinabathimowundɛɔbakpɔnɔkɔkadinababɛŋethɔɔkadinabafɛnamalɔkɔyoomalɔkɔ,iŋhɛlɛnkulaniyakokanamaŋ.Wundɛkiŋiŋmalohobamɛyandeiŋbiyabebɔyɛbaniyɔkamasiimantheɛbathɔŋinakulaniyakokanameŋkawanmɛnɛrɔkpɔkɔ.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkiŋmalohobatɛpafunuŋkamasimɔykɔmakanamaŋ,iŋbakpoŋkilahothimowundɛ.Wuŋthɔlande,malohomabɛŋkinbabohitɔkɔkulaniyande,ewɔɔyinathanatepebayibaniyaniŋbakpalamɛnɛbakponkilakankalɛŋbapankitinandefunuŋhobɛŋ.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkiŋkulohobakomandekathabanthekawuthɛbɛ.Wɔɔkabapithitobaniyɔkamathuŋandeyoomathuŋandeɔkankaŋkandoonkaŋkathimokawundɛ.</p>
+    <p></p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkiŋiŋmalohobaniyawaliiŋhukɔmimamɛnthokasɛmbɛbaŋkakekɛnkokanamaŋɔbathiikabahugbɔŋhothimowundɛbakutasɛmbabaŋ.</p>
+    <p>Wɔɔyowɔkiŋiŋmalohobabilandeɔfisiyooɔfisiwokahukɔminamɛntkakɛkɛŋnamaŋko.</p>
+    <p>Bathimobiyabaniyɔ,bɛnahukɔminamɛntbaniyewali.Biyabebɛŋbathiikiyɛbabayapamɛnɛyɛrɛmɛbafuŋuniyɛbiŋthayakahukɔminamɛnthobɛŋ.Bindɛbathiikiyɛwothimobiŋkawanɔkamarɔgbɔkɔ.</p>
+  </li>
+  <li>
+    <p>WɔɔyowɔkiŋiŋmalohobanskitakɛnkɛykokanamaŋbaPamaniŋbaduŋkunaniŋfɛɛrabamasitekekamaokamaeniywɔɔwobayiki,epuŋkaniyawali,ogbɔŋniɔhutaniyahodɛnkikɛnkɛŋkokanamaŋkoniŋtutelima.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkiŋmalohobaniyawali,bayɛthawalibathimowundɛiŋbathunkunomalɔhɔymɛnɛbapamohuthanakutawali.</p>
+    <p>Kufakinandekaakakuthunkuŋbawɔɔyowɔwoniwali.Wɔɔyowɔbathunkunosiŋthebawaliŋbadɔŋiyande.</p>
+    <p>Wɔɔyowɔwoniwalibathunkunokɔpiriwotɛŋɛbayɛthɛnamaiŋkubɔrikokanamaŋalakodɛbeniyɔiŋyikikabiya-mɛtinhutete.Kuthunkuŋkobɛŋbapunkahɛlɛŋbamasekagbɛthɛŋbaniŋpɛnki.</p>
+    <p>4.Wɔɔyowɔkiŋmalohobathankinaɔbathɔytɔnkaŋkiniŋmase.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔkiŋmalohobafɛɛmiyaiŋbadunkunomalɔkɔmakɔndadeŋbaniyawalimɛnɛmalɔkɔyŋmakasadebafɛɛmiyaiŋkutunkuŋ.</p>
+  </li>
+  <li>
+    <p>Wɔɔyowɔbathɔmamuthɔmamutɛnɛbahupethɔkɔtɔnamakoiŋkubɔrinamaŋ,kowundɛbapunkakutamuwundɛbili/thɔɔ.WundɛbaKutabankabawundɛiŋkubɔrinamaŋfure,bapunkabamaso.Wundɛbamasobethoonaɔbethanthi,ɔbalibadɛnkibawundɛniyɔhumɔnɛ.</p>
+    <p>Komisayŋbeiŋmpaynameŋbamaso.Mpatibekiyokayento/deŋo,bethakiyakayento/deŋofoomabakutamamasemantheebindɛpamonanthe.</p>
+  </li>
+  <li>
+    <p></p>
+    <p></p>
+    <p></p>
+  </li>
+  <li>
+    <p></p>
+    <p></p>
+  </li>
+  <li>
+    <p></p>
+  </li>
+  <li>
+    <p></p>
+    <p></p>
+    <p></p>
+  </li>
+  <li>
+    <p></p>
+  </li>
+</ol>

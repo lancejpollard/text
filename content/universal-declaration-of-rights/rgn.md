@@ -1,0 +1,123 @@
+<h1 align='center'>DICHIARAZIOUN UNIVERSELA DI DIRET UMEN</h1>
+<h2 align='center'>PREAMBLI</h2>
+<p align='center'>Considerèd che u riconoscimènt dla dignità cla riguèrda tot i mémbri dla famèia umèna e di su dirét, cumpagn e irrinunciabli, e costitués e' fundamènt dla libertà, dla giustizia e dla pèsa te mand;
+Considerèd che la negazioun e el disprèz di dirét umèn i à port ma gist d'inciviltà che i ufènd la cuscinza dl'umanità, e che la cunquésta d'un mand duvè che al persouni al goda dla libertà at parola e at credo (foida) e dla libertà da la paura e da e' bsagn, l'è stè proclamèd cumè la piò granda aspirazioun dl'om;
+Considerèd che l'è indispensabli che i dirét umèn i sia difois da lègi, se u s vò evitè che l'om u sia custrèt a ricora, cumè utma pusibilità, m'la ribelioun countra la tirania e l'opresioun;
+Considerèd che l'è nicisèrii lavurè prì u svilòp ad relazioun d'amicizia tra toti al Nazioun;
+Considerèd che i popli dli Nazioun Unidi ià ribadì tu Statut la su foida ti dirét umèn fondamentil, tla dignità e te valour dla persouna umèna, tl'uguaglienza di dirét dl'om e dla dona, e i à decis da lavurè prì e' prugrès suciél e prì un migliour tenour ad vita t'na libertà piò granda;
+Considerèd che i Stèd dli Nazioun Unidi i s'è impegné a lutè, sla colaborazioun dli Nazioun Unidi stèsi, prì u rispèt e l'oservènza universèla di dirét umèn e dli libertà fondamentèli;
+Considerèd che una concezioun unitèria at stì dirét e at stà libertà la è fondamentèla prì la completa realizazioun at tot stì impégn;
+L'ASEMBLEA GENERELA
+la proclama
+la presènta dichiarazioun universèla di dirét umèn cumè ideél comun da cunquistè da tot i popli e da tot al Nazioun,s'u scop che ogni individui e ogni urganismi dla società, tnénd sempra presènta stà Dichiarazioun, u s'impègna a lavurè, s'l'insegnamènt e s'l'educazioun, prì u rispèt at stì dirét e at stlì libertà e ad garantin, miténd in àt iniziativi sempri piò numerousi at caratri naziunèl e internaziunèl, l'universèl e concrét riconoscimènt e rispèt, tent tra i popli di stés Stèd mémbri, quant tra quéi di teritòri che i è sotopost mla su giurisdizioun.</p>
+<ol>
+  <li>
+    <p>Totjessèriumèninàslébriecumpagnindignitàedirét.Louièdutidadrasouneadcuscinzaeiàdaoperè,ognunticunfruntatch'jilt,sasentimintadfratelènza.</p>
+  </li>
+  <li>
+    <p>OgnipersounalaàdabeneficiéattotidiréteattotiallibertàproclamidtlapresèntaDichiarazioun,sènzaalcunadistinziounprìrasounadraza,adculour,adsesso,adlèngua,adreligioun,adideapuléticaeupinioundivèrsi,adnazionalitàosuciéla,adrichèza,adnascitaoadqualsiasiéltacundizioun.Nisunadistinziounlasaràstabilidatnéndcountdustèdpulétich,giurédichointernaziunèldepaioisodelteritoriimequaleunapersounal'aapartèn,c'usiaquestindipendènt,oc'l'èpaunaaministraziounfiducèria,oc'unsiaautonomo,oc'usiasugétmaqualsiasitipadlimitaziounadsovranità.</p>
+  </li>
+  <li>
+    <p>Ogniindividuol'àdirétmalavita,m'lalibertàem'lasicurèzadlapropiapersouna.</p>
+  </li>
+  <li>
+    <p>Nisunapersounalaputràèsatnudainstèdadschiavitòoadservitò;laschiavitòelatratadis-cévalsaràpruibidisataqualsiasifourma.</p>
+  </li>
+  <li>
+    <p>Nisunapersounalaputràèsasotopostam'latorturaomauntratamèntopuniziouncrudeli,disumèniodegradènti.</p>
+  </li>
+  <li>
+    <p>Ogniindividuol'àdirét,attote'mand,m'uriconoscimèntdlasupersonalitàgiurédica.</p>
+  </li>
+  <li>
+    <p>Totiècumpagndavèntim'lalègiaeiàdirét,senzadiscriminazioun,maunauguèlaprotezioundapèrtadlalègia.Totiàdirétmaunauguèlaproteziouncountraognidiscriminaziounc'l'àsiacuntrèriam'lapresèntaDichiaraziouncumècountraogniincitamèntm'ladiscriminaziounstèsa.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirétmaunaconcrétapusibilitàdafèricoursmatribunilcompetintcountraàtcheineghésidirétfondamentilriconosciudmaèsastèsadalacostituziounodalalègia.</p>
+  </li>
+  <li>
+    <p>Nisunapersounalaputràèsaarèstèda,tnudainprisounoesiliédaarbitrariamènt.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirét,inpusiziounadtutèlauguagliénza,maunagiostaepoblicaudienzadavèntim'untribunèlindipendènteimparziél,s'uscopdadeterminèisudiréteisuduvir,einpiòdadeterminèlafundatèzaadqualsiasiacusapenèlac'lajvengarivolta.</p>
+  </li>
+  <li>
+    <p>Ognipersounaacusèdad'unacolpalaèpresuntainocéntafinaaquandlasucolpevolèzalansiastèpruvèdalegalmèntt'unprucéspoblich,tequalelilaabiaavùtotalgaranzìnicisèriiprìlasudifoisa.</p>
+    <p>Nisunapersounalasaràcundanèdaprìaziouncumèsioprìaziounnoncumèsialquali,t'e'mumèntc'aglièstècumèsiononcumèsi,linfosprevésticumèreédsgandeldirétinterniosgandeldirétinternaziunèl.Tustèstempunputràèsainflétaalcunapoinapiògrandaadquèlaprevéstatemumènttequalelacolpalasiastècumèsa.</p>
+  </li>
+  <li>
+    <p>Nisunapersounalaputràèsasotopostamainterferenziarbitrèriitlasuvitaprivèda,tlasufamèia,tlasuchésa,tlasucorispondénza,némalesioundusuunouredlasureputazioun.Ognipersounalaàdirétdaèsadifoisadalalègiacountraalsudètiinterferinziolesioun.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirétm'lalibertàadmuvimènteadresidénzadrointaicunfoinadogniStèd.</p>
+    <p>Ognipersounalaàdirétdalasèqualsiasipaiois,cumproisepropii,ed'arturnètusupaiois.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàeldirétdaciarchéedausufruì,atch'jiltpaìs,rifug'dalpersecuzioun.</p>
+    <p>St'eldirétunputràèsainvuchédtechéschelapersounalasiarealmèntricerchédaprìcolpinonpuletichioprìaziouncuntreriim'alfinalitàem'iprincipidliNaziounUnidi.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirétmaunacitadinènza.</p>
+    <p>Nisunapersounalaputràèsaarbitrariamèntprivèdadlasucitadinènza,nédeldirétadcambiécitadinènza.</p>
+  </li>
+  <li>
+    <p>Umniedòniinetàgiostaiàeldirétdaspusèsedafundèunafamèia,senzaalcunalimitaziounadraza,citadinènzaoreligioun.Louiàistésdirétriguerde'matrimonii,durente'matrimoniiete'mumèntdusueventuèlscioglimènt.</p>
+    <p>E'matrimoniieputràèsacelebrèdsnàs'ulébrietutèlcunsènsdifuturspus.</p>
+    <p>Lafamèial'èlacellulanaturèlaefondamentèladlasocietàelaiàeldirétdaèsadifoisadalasocietàedauStèd.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàeldirétdaavoiunaproprietàsupersunèlaoinsènsaéltagenta.</p>
+    <p>Nisunapersounalaputràèsaprivèdaingiustamèntdlasuproprietà.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirétm'lalibertàadpensiir,adcuscinza,eadreligioun;st'eldirétecumprèndlalibertàadcambiéreligiouneadcambiécredo,elalibertàadmanifestè,singolarmèntoinsènsaeltagénta,esiainpoblichcheinprivèd,lapropiareligiounoe'propiicredotl'insegnamènt,tlipratichi,tigistreligiusetl'oservènzadirituel.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirétmalalibertàd'opiniouned'espresiouncumproiseldirétdanoèsamolestèdaprìlapropiaupiniounequèldaciarché,ricévaecomunichéinfurmaziouneidèiusandtotimèziesenzariguerdmacunfoin.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirétmalalibertà'driuniouneadasociaziounpacéfica.</p>
+    <p>Nisunepòèsacustrètafèpèrtad'unaasociazioun.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirétdapartecipèm'e'g-vèrnidepropiipaiois,siadiretamènt,siaprìmèziadrapresentintsciltliberamènt.</p>
+    <p>Ognipersounalaàdirétdaèsaasuntaincundiziounadparitàt'jimpiéghpoblichdepropiipaiois.</p>
+    <p>Lavolontàpopulèralaèe'fundamèntdl'autoritàdeg-vèrni;stàvolontàlaàdaèsaesprèsadaeleziounfrequentieleéli,organizèdiasufrag'universèleuguèl,avotsegrét,opureseguendunaproceduraadvutaziounaltretèntlébraegarantésta:</p>
+  </li>
+  <li>
+    <p>Ognipersouna,cumèpèrtaintegrèntadlasocietà,laàdirétmlasicurèzasuciéla,nonchèmlarealizaziounatravèrsusforznaziunèlelacooperaziouninternaziunèlaeinarmoniasl'organizaziounealrisoursiadogniStèd,didiréteconomich,suciéleculturilindispensablim'lasudignitàem'ulébrisvilopdlasupersonalità.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirétm'ulavour,m'lalébrasciltadl'impiegh,magiostiedignitousicundiziounadlavourem'laproteziouncountraladisocupazioun.</p>
+    <p>Ognipersouna,sènzanisunadiscriminazioun,laàdirétm'unauguèlaretribuziounincunfrountm'unuguèllavour.</p>
+    <p>Ognipersounac'lalavouralaàdirétmaunapègagiostaedignitousac'lagarantésamasestèsaem'lasufamèiaunavitaumènadignitousaeaiutèda,quandl'ènicisèrii,dad'jiltmèziadproteziounsuciéla.</p>
+    <p>Ognipersounalaàdirétdafundèdliorganizaziounsindachéliedèilapropiaadesiounprìladifoisadipropiiinteris.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirétm'uriposem'eltemplébri,tnéndcountadconseguénzad'unagiostalimitazioundliouri'dlavoureadferieretribuidi.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirétd'avoiunacundiziounadvitac'l'aipermètadagarantìlasalutaee'benèsripropiiedlasufamèia,s'unaatenziounparticulèram'l'alimentazioun,m'ivistid,m'lachésa,mlimediciniem'iservizisuciélnicisèrii,elaàdirétm'lasicurèzatichésaddisocupazioun,malatì,invalidità,vedovènza,v-ciaiaeattotichésch'iduvéscumpurtèlaperditadimèziadsusisténzaacheusaadfàtindipendintdalasuvolontà.</p>
+    <p>Lamaternitàel'infanziaagl'iàdirétmacurieasisténzaparticulèri.Totiburdill,nidal'intèrnidematrimoniiofuradae'matrimonii,iàdabeneficiédlastèsaproteziounsuciéla.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirétmal'istruzioun.L'istruziounlan'àdacustègnintalmenoinriferimèntmliclassielementèriefondamentèli.L'istruziounelementèralaàdaèsaubligatoria.L'istruziountecnicaeprufesiunèlalaàdaèsam'lapurtèdaadtotel'istruziounsuperiouralaàdaèsaaltretèntacèséblamatotincunsiderazioundemèritadciascun.</p>
+    <p>L'istruziounlaàdaèsaindirizèdam'e'pinsvilopdlapersonalitàumènaem'urafurzamèntdurispètdidirétumènedlilibertàfondamentèli.Lilaàdaricerchéusvilopdlacomprensioun,dlatolerènza,dl'amiciziafratotialNazioun,igropadrazidivèrsi,igropreligius,elaàdafavurìl'impègndliNaziounUnidiprìe'mantenimèntdlapèsa.</p>
+    <p>Igenituriàeldirétadprioritàtlasciltadeltipd'istruzioundadèm'ipropiifiull.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirétdapartecipèliberamèntm'lavitaculturèladlacomunità,laàdirétdaaprezèalbelèzidl'artetlisusvariédifourmiedacontribuìm'e'prugrèsdlascienzaedausufruìdisubeneficc.</p>
+    <p>Ognipersounalaàdirétm'laproteziound'jinterismurèlemateriilproveniintdaogniproduziounscientefica,leterèriaeartesticacreédadalapersounastèsa.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdirétm'unourdnisuciéleinternaziunèltequaleidiréteallibertàproclamidtlapresèntaDichiaraziouniposaèsacompletamèntrealizid.</p>
+  </li>
+  <li>
+    <p>Ognipersounalaàdiduvoirticunfruntdlacomunità,snàdrointalaqualel'èpuséblie'pinelébrisvilopdlasupersonalità.</p>
+    <p>Tl'eserciziidisudirétedlisulibertàognipersounalaàdaèsasotopostasnàmaclilimitaziounstabilididalalègiaprìgarantìuriconoscimènteurispètdidirétedlilibertàadch'jilteprìsudisfèalgiostinecesitàdlamorale,dl'ourdnipoblichedebenèsrigenerèl'tunasocietàdemocratica.</p>
+    <p>Stìdirétestlìlibertàinpò,innisunchés,èsaesercitidincuntrastslìfinalitàes'iprincìpidliNaziounUnidi.</p>
+  </li>
+  <li>
+    <p>NisunapèrtadlapresèntaDichiaraziounlapòèsainterpretèdatusènsdaarughés,dapèrtad'unqualsiasiStèdogropopersouna,undirétdaesercitèun'ativitàodamètainatun'aziounc'laépauscopdaprevarichédidirétodlilibertàproclamidtlaDichiaraziounstèsa.</p>
+  </li>
+</ol>

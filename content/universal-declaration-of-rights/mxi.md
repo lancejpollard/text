@@ -1,0 +1,122 @@
+<h1 align='center'>Declaratione Universale de les Dretos Humanos</h1>
+<h2 align='center'>PREÀMBOLO</h2>
+<p align='center'>Considerando que la libertate, la ciustitia e la pace in el mondo tienent per basse la reconoscentia de la dignitate intrinseca e de les dretos eguales et inalienabeles de totos les membros de la familia humana,
+Considerando que la desconoscentia et el menospretio de les dretos humanos hant origenato actos de crudeltates bastoflantes per la conscientia de l’humanitate; e que s’ha proclammato, commo l’aspiratione plù alzata del homme, l’advenimento d’un mondo in que les esseres humanos, libberatos del pabbore e de la miseria, fruiant de la libbertate de paràvola e de la libbertate de credentias,
+Considerando essentiale que les dretos humanos siant protegiutos per un règime de Dreto, ciuscà l’homme non se veda compeluto al supremo recorso de la refetantia contra la tirania e l’opressione,
+Considerando otrossi essentiale promovere la sveloppantia de relationes amicabeles intre las nationes,
+Considerando que les pòpolos de las Nationes Adgiuntatas hant reaffirmato in la Lèttera la sua fede in les dretos fondamentales del homme, in la dignitate et el valore de la persona humana et in l’egualtate de dretos d’hommes e mulleres; e s’hant declarato resoltos a promovere el progresso sociale et ad alzare el nivele de vita dintro d’un concepto plù amplo de la libbertate,
+Considerando que les Statos Membros s’hant compromisso ad assecurare, in cooperatione con l’Organissatione de las Nationes Adgiuntatas, el respetto universale et effectivo a les dretos e libertates fondamentales del homme, e
+Considerando que una conceptione commune d’aquestos dretos e libertates ie de la maiore importantia per el pleno accumplimento de dito compromisso,
+L’Assamblea Generale
+Proclamma la presente Declaratione Universale de les Dretos Humanos commo ideale commune per aquele que totos les pòpolos e nationes devent sfortiarse, ciuscà tanto les individuos commo las institutiones, inspirandose constantemente in ela, promovant, mediante l’insegnantia e l’educatione, el respetto ad aquestos dretos e libbertates, et assecurent, per messuras progressivas de caràctere nationale et internationale, la sua reconoscentia et aplicacatione universales et effectivos, autanto intre les pòpolos de les Statos Membros commo intre aqueles de les territorios colocatos sopra la sua ciurisdictione.</p>
+<ol>
+  <li>
+    <p>Totoslesessereshumanosnascentlibberosetegualesindignitateedretose,dotatoscommostantderacioneeconscientia,deventcomportarseingermanitatelesunosconlesaltros.</p>
+  </li>
+  <li>
+    <p>TotapersonatienelesdretoselibbertatesproclammatosinaquestaDeclaratione,sinedistintionealcunaderasa,colore,sexo,lingua,religione,opinionepoliticaaudequalsevuollealtraindole,origenenationaleausociale,possitioneeconòmica,nascentiaauqualsevuollealtraconditione.D’òltra,nonsefaràdistintionealcunafondatainlaconditionepolitica,ciuridicaautinternationaledelpaisseauterritoriodecuiaciurisdictionedependaunapersona,autantosesetraitad’unpaisseindependente,commod’unterritoriosopraadministrationefidutiaria,nonautònomoautassommissoaqualsevuollealtralimitationedesobberantia.</p>
+  </li>
+  <li>
+    <p>Totoindividuotienedretoalavita,alalibbertateetalasecuritatedelasuapersona.</p>
+  </li>
+  <li>
+    <p>Nencunostaràassommissoasclavitutenenaservidumme;lasclavituteeteltràfficodesclavosstantdevissasintotaslassuasformas.</p>
+  </li>
+  <li>
+    <p>Nencunoseràassommissoatorturasnenapenalitatesautraitamentoscrudeles,inhumanosaudegradantes.</p>
+  </li>
+  <li>
+    <p>Totoesserehumanotienedreto,intotaspartes,alareconoscentiadelasuapersonalitateciuridica.</p>
+  </li>
+  <li>
+    <p>Totossontegualesabbantelalegeetienent,sinedistintione,dretoadigualeprotectionedelalege.TotostienentdretoadegualeprotectionecontratotadiscrimminationequeinfringiaaquestaDeclarationeecontratotaprovocationeatalediscrimminatione.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedretoadunrecorsoeffectivo,abbantelestribunalesnationalescompetentes,quel’albergacontraactosqueviolentlessieusdretosfondamentalesreconosciutosperlaconstitutioneauperlalege.</p>
+  </li>
+  <li>
+    <p>Nencunopoteràesserearvitrariamentedetenuto,pressonenstembato.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedreto,inconditionesdeplenaegualtate,adessereaudutapublicamenteeconciustitiaperuntribunaleindependenteetimparciale,perladeterminationedelessieusdretosetobligationesauperl’examenedequalsevuolleaccussationecontraelainmateriapenale.</p>
+  </li>
+  <li>
+    <p>Totapersonaaccussatadelinentiatienedretoaquesepresommalasuainnocentiamentrestantononseprovelasuaculpabilitate,conformoalalegeetinciudiciopublicoinaquelequeluihagiaassecuratototaslasgarantiasnecessariasperlasuadefensa.</p>
+    <p>NencunoseràcondenatoperactosautommissionesqueinelmomentodecommetirsenonforontdelictivossecòndoelDretonationaleautinternationale.Nenques’impossaràpenalitateplùgravequel’aplicabeleinelmomentodelacommissionedelalinentia.</p>
+  </li>
+  <li>
+    <p>Nencunoseràobgectod’ingerentiasarvitrariasinlasuavitaprivata,lasuafamilia,elsieudomicilioaulasuacorrespondentia,nend’attaccosalasuahonraautalasuareputatione.Totapersonatienedretoalaprotectionedelalegecontratalesingerentiasautattaccos.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedretoacircolarelibberamenteetadelegirelasuaresidentiainelterritoriod’unStato.</p>
+    <p>Totapersonatienedretoapartiredequalsevuollepaisse,inclossodelpròpio,etaretornarealsieupaisse.</p>
+  </li>
+  <li>
+    <p>Incasodepersecutione,totapersonatienedretoarecercareassilo,etafruired’ele,inqualsevuollepaisse.</p>
+    <p>AquestedretononpoteràessereinvocatocontraunaactioneciudicialeveramenteorigenataperlinentiascommunesauperactosoppostosalespropòssitoseprincipiosdelasNationesAdgiuntatas.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedretoadunanationalitate.</p>
+    <p>Anencunoseprivaràarvitrariamentedelasuanationalitatenedeldretoacambiaredenationalitate.</p>
+  </li>
+  <li>
+    <p>Leshommeselasmulleres,apartiredel’etatenubile,tienentdreto,sinerestrictionealcunapermotivosderasa,nationalitateaureligione,aspossarseefondareunafamilia;efruiraràntd’egualesdretosincuantoalmatrimonio,duranteelmatrimonioetincasodedisolutionedelmatrimonio.</p>
+    <p>Tantamentemediantelibberoeplenoacconsentimentodelesfuturosspossospoteràcontraderseelmatrimonio.</p>
+    <p>Lafamiliaiel’elementonaturaleefondamentaledelasocietateetienedretoalaprotectionedelasocietateedelStato.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedretoalapropietate,individualeecolectivamente.</p>
+    <p>Nencunoseràprivatoarvitrariamentedelasuapropietate.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedretoalalibbertatedepensamento,deconscientiaedereligione;aquestedretoincludelalibertatedecambiaredereligioneaudecredentia,ansicommolalibertatedemanifestarelasuareligioneaulasuacredentia,individualeecolectivamente,autantoinpublicocommoinprivato,perl’insegnantia,lapràctica,elcultoel’observantia.</p>
+  </li>
+  <li>
+    <p>Totoindividuotienedretoalalibbertated’opinioneedespressione;aquestedretoincludeaqueledenonessereamoiatopermoredelassuasopiniones,aqueled’investigareerecevereinformationesetopiniones,etaqueledediffondirlas,sinelinzosdefrontieras,perqualsevuollemoredespressione.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedretoalalibbertated’adgiuntamentoed’associationespacificas.</p>
+    <p>Nencunopoteràessereobligatoapertenireadunaassociatione.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedretoaparticipareinelgovernodelsieupaisse,directamenteaupermorederepresentanteslibberamentescollutos.</p>
+    <p>Totapersonatieneeldretod’accesso,inconditionesd’egualtate,alasfontionespublicasdelsieupaisse.</p>
+    <p>Lavoluntatedelpòpoloielabassedel’autoritatedelapotentiapublica;aquestavoluntatesespressaràmedianteelectionesautènticasqueabberàntdecelebrarseperiòdicamente,persofragiouniversaleetegualeepervotosecretoautaltroprocedimentoequivalentequegarantisselalibbertatedelvoto.</p>
+  </li>
+  <li>
+    <p>Totapersona,commomembrodelasocietate,tienedretoalasecuritatesociale,etadobtenire,mediantelosfortionationaleelacooperationeinternationale,abbutacuntadel’organissationeelesrecorsosdecadaStato,lasatisfactionedelesdretoseconòmicos,socialeseculturales,indispensablesalasuadignitateetalalibberasveloppantiadelasuapersonalitate.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedretoaltravallo,alalibberaelectionedelsieutravallo,aconditionesequitativasesatisfactoriasdetravalloetalaprotectionecontraelciomboro.</p>
+    <p>Totapersonaletienedreto,sinediscrimminationealcuna,adegualesalariopertravalloeguale.</p>
+    <p>Totapersonaquetravallatienedretoadunaremunerationeequitativaesatisfactoria,queluiassecure,ansicommoalasuafamilia,unaexistentiaconformoaladignitatehumanaequeseràcompletata,incasonecessario,perqualsevuollealtrosmoresdeprotectionesociale.</p>
+    <p>Totapersonatienedretoafondaresindicatosetasindicarseperladefensadelessieusinteresses.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedretoalsbanollamento,alfruimentodeltempolibero,adunalimitationeracionabeledeladurationedeltravalloetavacantiasperiòdicaspagatas.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedretoadunniveledevitaadequatoqueluiassecure,ansicommoalasuafamilia,lasaluteetelbenestare,etinspecialel’alimentatione,elvestimento,eldomo,l’assistentiamèdicaelesservitiossocialesnecessarios;tienealtrotaledretoalassecurantiasincasodelciomboro,malatia,invalidessa,viuvessa,vellessaetaltroscasosdeperdentiasdelessieusmoresdesobsistentiapercirconstantiasindependentesdelasuavoluntate.</p>
+    <p>Lamaternitateel’infantiatienentdretoacustidantiasetassistentiasspeciales.Totoslesfillos,natosdematrimonioaufuoradematrimonio,tienentdretoadegualeprotectionesociale.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedretoal’educatione.L’educationedeveesseregratuita,almenoinloconcernenteal’instructioneelementaleefondamentale.L’instructioneelementaleseràobligatoria.L’instructionetècnicaeprofessionaleabberàd’esseregeneralissata;l’accesoalesstudiossuperioresseràegualepertotos,infontionedelesmèritosrespectivos.</p>
+    <p>L’educationeteniràperobgectolaplenasveloppantiadelapersonalitatehumanaetelfortalessamentodelrespettoalesdretoshumanosetalaslibbertatesfondamentales;favoresceràlacomprensione,latolerantiael’amistateintretotaslasnationesetotoslesgruposètnicosaureligiosos;epromoveràlasveloppantiadelasactivitatesdelasNationesAdgiuntatasperelmantenimentodelapace.</p>
+    <p>Lespadresteniràntdretopreferenteascollereeltipod’educationequeabberàdedarsealessieusfillos.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedretoatollarepartelibberamenteinlavitaculturaledelacommunitate,agaudiredelasartesetaparticipareinelprogressocientificoetinlesbenefitiosqued’eleresultent.</p>
+    <p>Totapersonatienedretoalaprotectionedelesinteressesmoralesematerialesqueluicorrespondantperracionedelasproductionescientificas,literariasautartisticasdequesiaautora.</p>
+  </li>
+  <li>
+    <p>TotapersonatienedretoaquesestabilaunaòrdenesocialeetinternationaleinaquelequelesdretoselibbertatesproclammatosinaquestaDeclarationesefagiantplenamenteeffectivos.</p>
+  </li>
+  <li>
+    <p>Totapersonatienedeveresrespectoalacommunitate,poscàtantamenteinelapotesvelopparelibbereeplenamentelasuapersonalitate.</p>
+    <p>Inl’escercitiodelessieusdretosetinelfruimentodelassuaslibertates,totapersonastaràsòlamentesogectaalaslimitationesstablertasperlalegeconl’unicofined’assecurareveramentelareconoscentiaetelrespettodelesdretoselibbertatesdelresto,edesatisfacerelasciustasexigentiasdelamorale,del'òrdenepublicoedelbenestaregeneraleinunasocietatedemocràtica.</p>
+    <p>AquestosdretoselibertatesnonpoteràntinnencunocasoessereescerciutosinoppossitionealespropòssitoseprincipiosdelasNationesAdgiuntatas.</p>
+  </li>
+  <li>
+    <p>NulainlapresenteDeclarationepoteràinterpretarseinelsensodequeconferedretoalcunoalStato,adungrupoautadunapersona,perprendereetsveloppareactivitatesaurealissareactostendentesalasupressionedequalsevuolledelesdretos.</p>
+  </li>
+</ol>

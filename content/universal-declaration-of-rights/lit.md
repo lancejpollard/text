@@ -1,0 +1,122 @@
+<h1 align='center'>VISUOTINĖ ŽMOGAUS TEISIŲ DEKLARACIJA</h1>
+<h2 align='center'>PREAMBULĖ</h2>
+<p align='center'>Atsižvelgdama į tai, kad visiems žmonių giminės nariams būdingo orumo ir lygių bei neatimamų teisių pripainimas yra laisvės, teisingumo ir taikos pasaulyje pagrindas;
+atsižvelgdama į tai, kad žmogaus teisių visiškas nepaisymas ir niekinimas pastūméjo vykdyti barbariškus aktus, piktinančius žmonijos sąžinę, o sukūrimas pasaulio, kuriame žmonės turės žodžio ir įsitikinimų laisvę ir bus išlaisvinti iš baimės ir skurdo pančių, paskelbtas kaip kilniausias žmogaus siekimas;
+atsižvelgdama į tai, jog būtinai reikia, kad žmogaus teises saugotų įstaymo galia, dėl to, kad jis nebūtų priverstas imtis, kaip kraštutinės priemonės, sukilimo prieš tironiją ir priespaudą;
+atsižvelgdama į tai, jog būtinai reikia remti draugiškų santykių tarp tautų vystymą;
+atsižvelgdama į tai, kad Suvienytųjų Nacijų Organizacijos įstatuose tautos vėl įtvirtino savo tikėjimą pagrindinėmis žmogaus teisėmis, žmogaus, kaip asmenybės, orumu ir vertingumu, lygiomis vyrų ir moterų teisėmis ir pareiškė, jog esančios pasiryžusios skatinti visuomenės pažangą ir sukurti geresnes gyvenimo sąlygas, didesnę laisvę;
+atsižvelgdama į tai, kad valstybės narės, bendradarbiaudamos su Suvienytųjų Nacijų Organizacija, įsipareigojo garantuoti visuotinį ir tikrą žmogaus teisių ir pagrindinių laisvių laikymąsi;
+atsižvelgdama į tai, jog bendras visiems žmonėms šių teisių ir laisvių supratimas turi didžiausią reikm, kad būtų visiškai įvydytas šis įsipareigojimas,
+Generalinė Asamblėja
+skelbia ią Visuotinę žmogaus teisių deklaraciją, kaip visuotinį idealą, kurio turi siekti visos tautos ir visos valstybės dėl to, kad kiekvienas žmogus ir kiekvienas visuomenės organas, nuolat turėdami galvoj šią Deklaraciją, pasitelkę švietimą ir mokslą, stengtųsi prisidėti prie to, kad šios teisės ir laisvės būtų gerbiamos ir kad būtų garantuota, imantis nacionalinių ir tarptautiniu pažangių priemonių, kad jos bus visuotinai ir tikrai pripažįtamos ir taikomos tiek valstybių narių gyventojams, tiek gyventojams teritorijų, esančių jų jurisdikcijoje.</p>
+<ol>
+  <li>
+    <p>Visižmonėsgimstalaisviirlygūssavoorumuirteisėmis.Jiemssuteiktasprotasirsąžinėirjieturielgtisvienaskitoatžvilgiukaipbroliai.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusgalinaudotisvisomisteisėmisirlaisvėmis,paskelbtomisšiojeDeklaracijoje,bejokiųskirtumų,tokiųkaiprasė,odosspalva,lytis,kalba,religija,politiniaiarkitokieįsitikinimai,nacionalinėarsocialinėkilmė,turtinė,jogimimoarkokianorskitokiapadėtis.Beto,neturibūtidaromajokiųskirtumųremiantisšaliesarteritorijos,kuriaipriklausožmogus,politiniu,teisiniuartarptautiniustatusu,dėlto,kadšišalisarteritorijayranepriklausoma,globojama,nesavavaldiarkaipnorskitaipapribotasjossuverenitetas.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisęįgyvybę,laisvęirasmensneliečiamybę.</p>
+  </li>
+  <li>
+    <p>Niekasnegalibūtilaikomasvergijojearnelaisvas:visųformųvergijairprekybavergaisdraudžiama.</p>
+  </li>
+  <li>
+    <p>Niekasnegalibūtikankinamasarbažiauriai,nežmoniškaižeminantjoorumąsujuoelgiamasiirjisbaudžiamas.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogus,kadirkurjisbūtųturiteisębūtipripažintasteisiniųsantykiųsubjektu.</p>
+  </li>
+  <li>
+    <p>Visilygūspriešįstatymąirturiteisę,bejokioskirtumo,įlygiąįstatymoaspaugą.Visituriteisęįlygiąapsaugąnuovisokiosdiskriminacijos,pažeidžianėiosšiąDeklaracijąirnuovisokiokurstymotokiaidiskriminacijai.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisėpasinaudotikompetentingaisnacionalinaisteismaissavoteisėmsatgauti,kaijopagrindinėsteisės,pripažįstamosjamkonstitucijosarįstatymo,buvopažeistos.</p>
+  </li>
+  <li>
+    <p>Niekasnegalibūtisavavališkaiareštuotas,suimtasarištretmas.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogus,remdamasisvisikalygybe,turiteisęįtai,kadjobyląviešaiirteisingaiišnagrinėtųnepriklausomasirbešališkasteismas,kurisnustatytųjoteisesirpareigasarjampareikštobaudžiamojokaltinimopagrįstuma.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogus,kaltinamasnusikaltimopadarymu,laikomasnekaltutol,koljokaltumasbusnustatytasįstatymotvarkaviešoteisminionagrinėjimometu,kurjambussudaromosvisosbūtinosgynybosgarantijos.</p>
+    <p>Niekasnegalibūtinuteistasužveiksmusarneveikimą,kuriejųįvykdymometunebuvolaikominusikaltimaispagalvalstybėsvidausįstatymusarbatarptautinęteisę.Taippatnegalibūtiskiriamasunkesnėbausmėužtą,kuribuvotaikomanusikaltimopadarymomomentu.</p>
+  </li>
+  <li>
+    <p>Niekasneturipatirtisavavališkokišmosiįjoasmeninįiršeiminįgyvenimąjobutoneliečiamybęsusirašinėjimoslaptuinąkėsinimosiįjogarbęirorumą.Kiekvienasžmogusturiteisęįįstatymoapsaugąnuotokiokišimosiarbatokiųpasikėsinimų.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisęlaisvaikilnotisirlaisvaipasirinktigyvenamąjąvietąkiekvienojevalstybėje.</p>
+    <p>Kiekvienasžmogusturiteisęišvažiuotiiškiekvienosšalies,įskaitantsavąją,irgrįžtiįsavošatį.</p>
+  </li>
+  <li>
+    <p>Persekiojamaskiekvienasžmogusturiteisęieškotiprieglobsčiokitosešalyseirjuonaudotis.</p>
+    <p>iateisenegalibūtipasinaudota,kaipersekiojimastikraipagrįstaspadarymukriminalinionusikaltimoarveiksmų,prieštaraujančiųSuvienytųjųNacijųOrganizacijostikslamsirprincipams.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisęįpilietybę.</p>
+    <p>Niekamnegalibūtisavavališkaiatimtajopilietybėarteisėjąpakeisti.</p>
+  </li>
+  <li>
+    <p>Vyraiirmoterys,pasiekębrandosamžių,turiteisębejokiųapriboiimudėlrasės,tautybėsarreligijossudarytisantuokąitsukurtišeima.Jieturilygiasteisestieksantuokossudarymobeijostrukmės,tieksantuokosnutraukimometu.</p>
+    <p>Santuokagalibūtisudarytatiktasa,kaisusituokiantiejiduodalaisvairvisiškąsutikimą.</p>
+    <p>eimayranatūraliirpagrindinėvisuomenėsląstelėirjituriteisęįvisuomenėsirvalstybėsapsaugą.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisęturėtinuosąvybętiekvienas,tiekkartusukitais.</p>
+    <p>Iniekonegalibūtisvavališkaiatimtajonuosavybė.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisęįminties,sąžinėsirreligijoslaisvę.Siteisėapimalaisvępakeistireligijąartikėjimą,taippatlaisvęskelbtisavoreligijąartikėjimątiekvienam,tiekkartusukitais,viešaiarprivačiai,mokant,praktikuojanttikėjimą,laikantpamaldasbeiatliekantapeigas.</p>
+  </li>
+  <li>
+    <p>Keikvienasžmogusturiteisęįįsitikinimųirjųreiškimolaisvę,kuriapimateisęnekliudomailaikytissavoįsitikinimųirteisęieškoti,gautiirskleistiinformacijąiridėjasnepriklausomainuovalstybiųsienų,irnesvarbu,kokiomispriemonėmisjosbūtųišreikštos.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisęįtaikiųsusirinkimųirasociacijųlaisvę.</p>
+    <p>Niekasnegalibūtiverčiamaspriklausytikokiainorsasociacijai.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisędalyvautivaldantsavošalįtiektiesiogiai,tiekperlaisvaiišrinktusatstovus.</p>
+    <p>Kiekvienasžmogusturiteisęlygybęssąlygomisstotiįsavošaliesvalstybinętarnybą.</p>
+    <p>Liaudiesvaliayravalstybinėsvaldžiospagrindas;šivalisturibūtiišreiškiamateisinguoserinkimouse,kurieturivyktiperiodiškai,kaiyravisuotinėirlygirinkimųteisęirslaptasbalsavimasarbakitoslygiavertėsprocedūros,garantuojančiosbalsavimolaisvę.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogus,kaipvisuomenęsnarys,turiteisęįsocialinįaprūpinimą,kurisskirtasbūtinomsjoorumuiirlaisvamasmenybėsvystymuisiekonominėms,socialinėmsirkultūrinėmsteisėmsigyvendintinacionalinemispastangomisirpertarptautinįbendradarbiavimąirpagalkiekvienosšaliesvidinšstruktūrąbeiišteklius.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisęįdarbą,įlaisvądarbopasirinkimą,įteisingasirtinkamasdarbosąlygasirįapsaugąnuonedarbo.</p>
+    <p>Visižmonės,bejokiosdiskriminacijos,turiteisęįlygųapmokėjimąužlygiavertįdarbą.</p>
+    <p>Kiekvienasdarbožmogusturiteisęįteisingąirpatenkinamąatlyginimą,garantuojantįžmogausorumovertąegzistavimąjampačiamirjošeimai,irpapildomą,kaireikia,visomiskitomissocialinėsapsaugoslėšomis.</p>
+    <p>Kiekvienasžmogusturiteisękartusukitaissteigtiprofesinessąjungasarstotiįjassavointeresamsginti.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisęįpoilsįirlaisvalaikįirypačteisęįpagrįstądarbolaikoapribojimąirperiodinesapmokamasatostogas.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisęįpakankamągyvenimolygį,kurisgarantuotųjoirjošeimossveikatąirgerovę,irypačįmaistą,drabužius,būstą,medicininępriežiūrąirbūtinąsocialinįaptarnavimą:jisturiteisęįaprūpinimąnedarbo,ligos,invalidumo,našlystės,senatvėsarkitokiopragyvenimošaltiniųnetekimoatvejudėlnepriklausančiųnuojoaplinkybių.</p>
+    <p>Motinystėirkūdikystėturibūtiitinglobojamosirremiamos.Visivakai,tiekgimęsantuokoje,tieknesantuokiniai,naudojasivienodasocialineapsauga.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisęįmokslą.Mokslasturibūtinemokamas-bentjaupradinisirbendrasislavinimas.Pradinislavinimasyraprivalomas.Profesinistechninismokymasturibūtivisuotinaiprieinamas;aukštasismokslasturibūtivienodaiprieinamasvisiemspagalkiekvienožmogussugebėjimus.</p>
+    <p>Mokslasturibūtiskirtastam,kadvisiškaisuklestėtųžmogausasmenybėirkadbūtųvislabiaugerbiamosžmogausteisėsirpagrindinėslaisvės.Jisturipadėtiugdytisavitarpiosupratimą,pakantumąirdraugystętarpvisųtautu,rasinių,irreliginiųgrupių,taippatturiskatiniSuvienytųjųNacijųOrganizacijosvykdomątaikosišsaugojimobeiklą.</p>
+    <p>Tėvaituriprimenybėsteisęparenkantsavovaikųmokymą.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisęlaisvaidalyvautivisuomenėskultūriniamegyvenime,gėrėtismenu,dalyvautimokslinėjepažangojeirnaudotisjosgėrybėmis.</p>
+    <p>Kiekvienasžmogusturiteisęįapsaugąjodvasiniųirmaterialiniųinteresų,atsirandančiųryšiumsumokslo,literatūrosarmenokūrinių,kuriųjisyraautorius,sukūrimu.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturiteisęįtai,kadvisuomenėjeirtaprtautųįsiviešpatautųtokiatvarka,kuriojegalėtųbūtivisiškaiįgyvendintosteisėsirlaisvės,išdėstytosšiojeDeklaracijoje.</p>
+  </li>
+  <li>
+    <p>Kiekvienasžmogusturipareigasvisuomenei,kuriojetikirgalilaisvaiirvisiškaivystytisjoasmenybė.</p>
+    <p>Įgyvendindamassavoteisesirnauadodamasissavolaisvėmis,kiekvienasžmogusnegalipatirtikitokiųapribojimųkaipįstatymonumatytivientiktam,kadgarantuotųkitųžmoniųteisiųirlaisviųderamąpripažinimąirgerbimąsiekiantpatenkintiteisingusmoralės,viešosiostvarkosirvisuotinėsgerovėsreikalavimusdemokratinėjevisuomenėje.</p>
+    <p>Šiosteisėsirlaisvėsjokiubūdunegalibūtijgyvendinamos,jeigutaiprieštaraujaSuvientųjųNacijųOrganizacijostikslamsirprincipams.</p>
+  </li>
+  <li>
+    <p>JokiašiosDeklaracijosnuostatanegalibūtiaiškinamakaipsuteikiantikuriainorsvalstybei,grupeiarasmeniuiteisęvykdytikokiąnorsveikląaratliktiveiksmus,skirtusjojeišdėstytomsteisėmsirlaisvėmspanaikinti.</p>
+  </li>
+</ol>

@@ -1,0 +1,121 @@
+<h1 align='center'>Tibilii hʋ nɩrɔrɩ dɩɩ fɛʋ rà</h1>
+<h2 align='center'></h2>
+<p align='center'>Dɩ ther jʋʋrpar sɩ sɩ tu a jɩ dɩɩ do samɩnɩ kɛ cɔtoo sʋnɔ na fɛʋ caar rà hananɩ, nà ɛɛ punu kɛ makhanɩ, a doni thɩn pemnaniaʔ, n gbɛwa a do cɩr sɩ deeduur à n ha le baanʔ. Ɛr n gbɛwa a do cɩr sɩ dɩkhan wo cʋʋpa sar nà haarʔyii ha kɛ dɩɩ kɛɛ bʋnɔ,
+Dɩ ther jʋʋrpar sɩ sɩ tu a jɩ, mɔ wa turoni sɩ a guura Tibilii hʋ kaankɛ a hananɩ hʋɔaʔ, dɩ dor nɔɔ, sɩ ado teehuu kpɩɛr jɩna kpoori kɛ wʋ n kpoo wɔrnɩ, dɩ n jama. Sɩ dɩkhan wo thɩn kontinn kɛ hanɩ tbilii kpɩɛr rà, a tini gbelengbelen nɩna, dɔ dɩɩ kɛ wa thɩɩnɩ a do kaankɛ teehuu sʋnɔ na ná phɩrnɩ nʋɔaʔ; sɩ wʋ hana tuur, wʋ ʔli taarɩ, maar kɛ n kʋ yɛnɩ cillo nà bɔkʋ kontinn ɩn tɔ dɩ hʋnɔ yɛr.
+Dɩ ther jʋʋrpar sɩ sɩ tu a jɩ dɩ fɩrrɛ, Tibilii hʋ ra ɩn ʔli cɛɛrɩ dɩ the jɔfa sar rà, dɩ ha mɛ thɩɛn ná fɩr wʋ, a kpɩɛr a thʋnɔ sɩ a ɩɩr a jamanɔ pesidan puu sʋnɔ kɛ n kʋʋrnɩ tɩbɩla nà ɛ n hʋɔl yɛrnɩ dɩ n ha na nɩ yɛ koraʔ.
+Dɩ ther jʋʋrpar sɩ sɩ tu a jɩ dɩ fɩrrɛ dɩ dɩɩ sʋnɔ ná ʔli bulli dɩ nawɛ ná khɔn ɛɛ thinthinn,
+Dɩ ther jʋʋrpar sɩ sɩ tu a jɩ dɩɩ do le Jɔfa Sɛbɛ bʋnɔ na, dɩɩ sʋnɔ kɛ kpanɩ gbɛʋ, ɛɛ too sʋnɔ burre nɩna gbelengbelen ɛɛ tuur kɛ wʋ hananɩ Tibilii tɔntɔn pununi na, samɩnɩ na nà teehuu dɩfɩ rà, na mɔ kɛ kɔna nà khɛra makhanɩ jɔfa ɩɩrɩ rà. Sɩ dɩkhan wo, wʋ turi khor sɩ wʋ faa hʋɔ tɩbɩla fɛʋ ɩn gal ʔyɛkʋlʋɔ, sɩ wʋ thɩɩnn jɔfa kɛ ná cʋʋnɩ dɩ deeduur ná ha fɩɩʋ nakɛaʔ,
+Dɩ ther jʋʋrpar sɩ sɩ tu a jɩ sɩ dɩɩ sʋnɔ na gbɛʋnɩkha turina ʋlfɛrɩ wʋ bulkha nà Dɩɩ sʋnɔ kɛ ra gbɛʋnɩɩ Gbulun,waan jʋʋr mɔ dɩɩ sʋnɔ fɛʋ, par rà fɛʋ, ná fʋnɩ sɩ wʋ gbarɔ yʋʋ Tibilii hʋ nà ɛ tɛɛna yɛnɩ dɩ wa sɔl na cʋʋ dɩ deeduur ná ha baanʔ,
+Dɩ ther jʋʋrpar sɩ gbɛʋkhadara ra tu a jɩ sɩ guurkha jɔfa sʋnɔ le rà ra na mɔ deeduur a hanɩ baanʔ, dʋʋnn thɩn kontinn karoni ɛ fɛʋ rà , wa gbanɩ wʋ cʋʋna ɩrɛ hanɩ ɛɛ kpɩɛr rà, wʋ turonina ʋlfɛrɩ,
+Jʋʋrpar sʋnɔ kɛ rà ra dɩ the sɩ gbɛʋkhadara ra gba thɩn Nɩrɔrɩ kɛ doni Tibilii hʋ, theni Dɩɩ sʋnɔ kɛ rà kpanɩ gbɛʋʋ kpɩɛr rà, a nɩna dɩ sɔl dɩ do thɩɛn kɛ dɩtoona nà dɩɩ sʋnɔ na fɛʋ n bulni dɩ waan ʔyaal. A dɩ ha mɛ tɩbɩla fɛʋ nà gbuluni sʋnɔ na fɛʋ kɩɛr dɩthɩɩ rà naa kpɩɛra bɔɔ fɛʋ Nɩrɔrɩ le ra, wʋ fɩr ɛɛ bara sɩ waan dɩɩr tɩbɩla, waan dɩɩra bɩsana wʋ punu wʋ khɔn jɔfa le raa dɩfɩ rà sɩ wʋ jɩ deeduur caar ra fɛʋ pɩrɛ. Dɩ mɛ na, gbe gbe, wʋ gba fɩlwɛ, dapa kɛ wʋ hanɩ nà kaankɛ ɛɛ punu khuni, wʋ cʋʋ mɔ wa cʋʋnɩ sɩ tɩbɩla sʋnɔ kɛ hanɩ le dɩɩ sʋnɔ kɛ rà ra kpanɩ gbɛʋʋ thɩnthiinn, wʋ turo sɩ wʋ cʋʋ par rà fɛʋ mɔ dɩ sonina sʋnbɔr.</p>
+<ol>
+  <li>
+    <p>Teehuusʋnɔntherɛɛnɩɩbʋnɔwandodeeaʔsɩwʋnmakhasamɩnɩnanàhʋtɩnɛparrà.Thangbatiyɛràpɛyɛrjɩɩrnàfɩlwɛsɩateenawaanfʋkhaomkhaa.</p>
+  </li>
+  <li>
+    <p>Tɩbɩlafɛʋpununewʋsojɔfarafɛʋnamɔdeeduurahanɩbaanʔ,sonikɩɛrNɩrɔrɩkɛrà,ɛrdɩtɩɩ.Sɩleekpinináaharɔnakɛdɩdo,caar,teebirduuryaadabuloduur,kuunduuryaakhɛrduur,cathɩmɩɩr,ɩhʋkpapa,mɔɩntɛɩnkpɩɛrnɩdɩɩngbɛɛsɩnɛhanayaaɩntɛkpɩɛrhanàhaanɩda,dɩdadʋʋnɩntɛdoniyaaɛncʋʋnɩɩntɛɛdʋɔ,ler,kɔnparyaathɩncadɩkha,dʋɔnnnɔɔaʔ.Dɩnakɛwo,leerináahalesɩahafɩɩʋnakɛaʔdɩdoɩntɛɛdɩyaaɔɔbängbɛɛnsɩ,sarwɛtipar,ɛadonikaankɛankanɩ,dɔnɔɔaʔ;adonakɛdɩɩlerayaabäännleraahanaɔɔthɛthɛɛpunuaʔyoo,aahadɩnyɔkɔɔ,aàhanahʋɔacʋʋthɩɛanʔyaawʋpɩɛrwɔrthɩndɩkharàdɩaàhanapununicaanʔ,dadonɔɔdɩleerináhaaʔ.</p>
+  </li>
+  <li>
+    <p>Tibilwootibiltɛɛnanɛyiri,atɛɛnanɛanádodeeaʔsɩaàtɛɛnawʋfʋʋpɛɛrapɛɛwʋkhaannkasoràsɩɩdowakɔɔkʋlʔyɩɛguurɔɔsoaʔ.</p>
+  </li>
+  <li>
+    <p>Tɩbɩlatɛɛnawʋtuudeeduurràyaawaanhʋɔlwɔraʔ;deeduurranàdeetherranáaʔlahalebaanʔsɩɩdogbeyɩnakɛaʔ.</p>
+  </li>
+  <li>
+    <p>Tibilatɛɛnawʋdɔɔyaaaʔyaawʋpɩɛpɛbaanyaawʋcʋʋwʋcʋʋcadɩkhakɛpuuroni,atɛɛnanɩdɩcʋʋtibillàaʔyaadɩphiiaʔ.</p>
+  </li>
+  <li>
+    <p>Tɩbɩlafɛʋtɛɛnanɩparfɛʋkɛwʋhanɩtɩbɩlanhanatuurɛɛjɔfarà.</p>
+  </li>
+  <li>
+    <p>Tɩbilalafɛʋmakharjɔfɩraaʔyɛkʋlʋɔ,sɩahanahʋɔjɔfɩrancɛɛyɛcɛɛbɩɛlsɩanápɛrrɛpɛlɛTɩbɩlafɛʋhananɛhʋɔdɩwacɛɛyɛcɛɛbɩɛlthɩncaarfɛʋkɛrànpɛyɛrnɩleerinàcʋʋpacaarfɛʋkɛpununidɩɩnayɛrleeri,sɩdɩɩndɩNɩrɔrɩkɛrà.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔvʋʋnasosoguurparkɛrà,ledɩɩrà,jɩɩr,ʋnɩatuthɩnpuukɛwʋcʋʋnɛrnɩadɩnacɛcɛjɔfaràsɩafaanadɩɩraahʋkɛahanɩnɩaʔyaacɛɛrɩkɛjɔfɩrancɛɛnɛrnɩaʔ.</p>
+  </li>
+  <li>
+    <p>Tibilnápunuwʋfʋʋyaawʋkhaannwʋkasoràyaawʋwelenwʋnàfangawʋfaadɩbanwɔdaʔbuullàaʔ.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔʔbilamiamakhanàɛ,dɩwaguurɔɔsotɩbɩfɛʋʋʔyɛkʋlʋɔ,soguurparràkɛhananɩdapunu,ànkunkuuniaʔ.ranánɛwɔrɔɔjɔfanàɛtɛɛnanɩdɩɩnácʋʋ,sɩanásuu,hʋɔkɛdɩkpanɩsɩdɩwaanguurwʋsor,wʋfʋʋwʋkhaann.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilkɛwʋnbaalɔnɩdɩɩnhoɔrcʋʋthɩnpuu,aàdosopucʋʋrdaarpɩaʔfoowʋguurɔɔsotɩbɩlafɛʋʋʔyɛkʋlʋɔwʋyɛɛdɩaàhanahʋɔaʔ.Wacʋʋrɛmɔwacʋʋnɩleguurparràsɩwʋʔyaaljɔfɩjɩwʋhaa,amɩɩthɩmɩɩrraahaasɩapunuapɛwɔr.</p>
+    <p>Tibiliwootibilnálonkasoràsɩɩdodabɔɔkɛankɔɔcʋʋnɩsopuuleyaaakɔɔdinanithɩnbɔcadɩkhacʋʋrɩ,dɩɩraajɔfɩyaadɩkpiijɔfɩàkɔɔtherayɛdɩɩndosopuuaʔ.Dɩkhanwowákhaanntibilyɛnʋɔɩnjɔɛjɔfɩsoniwʋhanaɩntɛbɔɔkɛsopuurakɔɔnɩcʋʋaʔ.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilatɛɛnawʋʔlɔɔɔɔthɛthɛɛyirà,ɔɔcɔtoorà,wʋlonɔɔcɔaʔyaawʋkhɛrɔɔlɛtɛrɛwʋhiinnaʔyaawʋpɩɛwernuuaʔyaawʋphiisɩkʋɛwʋiri,sɩɩdohʋɔaharɔaʔ.Tibilwootibiltɛɛnanɛjɔfɩraɩncɛɛwɔrʔlɔɔrɩrànàphiircaarcaarrà.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔanaakpaarbaʔasɩaʔyaalɔɔtoopadɩʋkhaathinthiinn.</p>
+    <p>Tibilwootibilhannanɛhʋɔathedɩɩfɛʋrà,ɔɔthɛthɛɛdʋɔaboharɔaʔ,akpaar,sɩaburacɛraɩn.</p>
+  </li>
+  <li>
+    <p>Bɔɔkɛkpooriɩɩrnɩ,tibilwootibilhananɛhʋɔàʔyaalwanpardɩwafaawʋdɩɩnagaldɩbanwɔ.</p>
+    <p>Anápununásoʋnɩhananɛhʋɔʔloʋnɩfuuʋnɩlondɩkpiiràsɩsʋnbɔracʋʋrɛsɔpukontinnadɩnatɩbɩlafɛʋrà,yaaɛacʋʋnɩngʋʋDɩɩsʋnɔkɛkpanɩgbɛʋʋkpɩɛrnɔràsɩahakpiinàɛwʋnturoni,dɩwaanʔyaalwʋnakɛjuuweiwʋfʋaʔ.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔadodɩdaar.</p>
+    <p>Tibilwootibilnápunuwʋtaawɔrɔɔdɩdadoaʔyaawʋkʋɛhʋɔkɛahananɩadɔnadɩdakpiiaʔ.</p>
+  </li>
+  <li>
+    <p>Bɔɔkɛkuunbirranàkhɛrbirranàavalanɩ,wʋhananɛhʋɔwʋhekhawʋkɔnkhabɩsanasɩdádocaar,dɩdaduuryaaɩntɛhʋkpapadʋʋnnnɔɔanyaarɔnakɛgbeaʔ.Wʋtɩnɛnɛhʋɔamakhaherrànamɔherranápʋɔrnɩadanaɔɔkuurpa.</p>
+    <p>Herranápununácʋɔsɩadoʔwɛdarakɛnáhenikhatunenahaarfɛʋsɩɩdothɩɛnafɩryɛaʔ.</p>
+    <p>CʋɔrradʋɔnndɩɩfɛʋràthʋɔnkɛThangbatini,adonacɛcɛthʋɔn,sɩahanahʋɔ,atɛɛnatɩbɩlalafɛʋnàdɩɩrafɛʋɩnbɛrwɔr.</p>
+  </li>
+  <li>
+    <p>Tibilwootibil,aahabɩɛlyaawʋjɔɔrɛ,ahananɛhʋɔahanaɔɔkonkonthɩɛn.</p>
+    <p>Tibilwootibilnápunuwʋtaawɔrɔɔkonkonthɩɛanʔ.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔakpɩɛrathɩɛn,ahanafɩlwɛsɩakpahʋɔkɛpɛnɩhaar,sɩthɩɛnnáfɩrwʋaʔ;dɩhʋʋrɛrannɩrɔrɛapununeafiakpahʋkpiisɩthɩɛnnáfɩrwʋaʔ;dɩdɩkhanwodɩnnɩrɔrɛahananɛhʋɔaʔlanɩrɔgbelengbelenɔɔhʋkɛakpanɩyaathɩɛnkɛajɩnɩ,adodɩbaraayaawʋbulletoo,adonakɛteejɔràyɩyaadɩkhanpayɩ,dɩtherdɩɩrɩrà,cʋʋrpacaarcaarrà,fʋɔrɩrà,nàhʋʔyɩɩrcaarcaarràsɩthɩɛnnáfɩrwʋaʔ.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔapälbɩnɛsɩamɩɩɔɔbɩnthɩmɩsɩthɩɛnnáfɩwʋaʔ;dɩnnɩrɔrɛhʋɔaharɔdɩwatuumaarbʋnɔdɩdoɔɔkpɩɛrnɔnɔɔaʔ;dɩdɩnkanɩrɔrɛhʋɔharɔrɛdɩɩnaʔyaalanafʋthɩnnɩrɔrɩkpɩɛrnɔɔkɛhaanɩyʋɔsɩanagbaɛapununianamɩɩnadɩwanɩɛdɩɩsʋnɔnafɛʋsɩleerináharɔnakɛgbeaʔ.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔagbɛʋkhanàtɩbɩlasɩahagbuluninakaankɛhaarʔyiihanɩ,sɩthɩɛnnáfɩrwʋaʔ.</p>
+    <p>Tibilwootibilnápunuwʋfɩrwʋwʋpɛgbuluninaaʔ.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔɔɔthɛthɛyaaatitibilɔɔirirràwʋbulkhanàɔɔdɩdawʋjʋʋrthɩɛnkɛhanɩleɔɔdʋɔsɩthɩɛnnáfɩrwʋaʔ.</p>
+    <p>Tibilwootibilhananɛhʋɔadothɔmabɩɛlthomadoparràleɔɔdʋɔnàtɩbɩlafɛʋ.</p>
+    <p>Thʋɔnkɛdɩɩraatoonanɩdʋɔnncɛcɛthɩɛnnʔbanɩdɩhiindarajaladɩwʋnʔlipununi.Thʋɔnkɛrawʋnanɩtɛɛnanɛdɩthemɔtɩbɩlafɛʋphiirni,sɩmʋɔlɩnáharɔaʔ,dɩhiindarabɔɔkɛwʋʔlaanɩkha,kunkuunináharɔaʔ;dɩwánɩrɔtibilɩnjɩɩntɛkɛwʋnphiirniaʔyaaacʋʋcʋʋcadɩkhadɩɩhowʋnfɩrrɛtibilaʔphiirparràaʔ.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilmɔahanɩtɩbɩlaathɩnthiinn,ahananɛhʋɔwaanbɛrwɔthɩnpuunáadaanthɔmadoparràaʔ;wʋtiireathɩɩnnahaahʋɔdɩdawɔrajɩlenlenthɩɛnanaafʋ,ahanabɛrrɩthɩnpuuràlethɔmadoparrà,gbɛʋkhanàɛwʋhananɩkhajɩɩrbɩɛl;ɛrtɛɛnadɩdɩfɩwʋdɩcʋʋwʋakhɔbaʔadɩdobʋɔkɛradɩɩrandoni,namɔdɩɩsʋnɔnabulnikhaadonɔbɩɛdʋɔnnnɔɔ;dɩdathemɔdɩdʋʋnnngbɛɛnsɩnɩɔɔthɛthɛnàlenlenthɩɛnkɛahananɩ.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔadothɔma,aʔyaalthɔmakɛananɩsɩthɩɛnáfɩrwʋaʔ,ahananɔbɔramakhanaɛthɔmaʔyaalɩlàdɩdawɔrsɩwʋjɩɩlwɔrahanathɔmaanaado.</p>
+    <p>Ɛrfɛʋhananɛhʋɔwʋʔliʔlʋmɩnɩwʋmakhanamɔwʋndonithɔmaamakhasɩdänbälwernáharɔnakɛsɩɩdogbedɩhaaʔ.</p>
+    <p>Tibilwootibilkɛndonithɔma,ahananɛhʋɔadodapununewʋʔwʋhʋkpiipuuwenáadaanthɔmadoparrà,aʔliʔlʋmɩnɩadɩbɔrɔkhadɩtɩɛnàɔɔcɔtoo,dɩkhanadɩfɩrɔ,ɔɔteedoranaagaalawʋʔyɛkʋlʋɔ.</p>
+    <p>Tibilwootibilhananɛhʋɔagbɛʋkhanàɛkhawʋkursintikasɩamakhanàsintikaɛkhawaanhiinnɔɔhʋkaankɛandonithɔma.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔahiirsɩahanabɔɔathanajɩɛsɩnakɛwʋwurbɔɔràɔɔthɔmadolɩɛrsɩwʋʔlʋmɩwʋbɔɔkɛagbanɩkonje.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔaʔliʔlʋmɩnɩkɛbɔrɔnɩkhaapunuatonbibɔɔkɛdɩsɩwɔrnɩ,abɛrnayʋʋsɩanaahiinaɔɔcɔtoonakɛwʋthɩɛnwaankho,waanto,wʋyɩcɔparrà,wʋgaldɔtɔrɔcʋɔrwʋhiinnmɛahanahʋɔwʋbulwʋmɔtɛɛnanɩthɩlciirnáʔliilethɔmadoparahananɛhʋɔwʋjɩɩlwɔranákʋbʋɔbɔɔkɛaàndonithɔmaaʔthɔmakʋɛnɛwʋaʔ,anákʋbʋɔbɔɔkɛdɩnkhuuniaʔ,bɔɔkɛaàpununibaanʔ,bɔɔkɛadonikhikhɛraʔyaabɔɔkɛɔɔkhɛrʔtɩnbʋɔaʔyaabɔʋkharàmɔaàhananɩthɩɛnatɛnaɔɔthɛthɛaʔdadoniɔɔjɩsɩacʋʋyɩaʔ.</p>
+    <p>Khɛrkɛkɔnɩbinàbɩsaannkɛakhɔnɩpɩaʔhananɛhʋɔwʋbulyɛsarsɩwʋtɛyɛtɛsar.Bɩsananafɛʋnhananɛcɛɛrɩathɔmadoparràadonakɛɛɛthɩnàɛɛnɩherkhasɩakɔnyɛyaaʔwɛdaarɩràwʋkɔnyɛ.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔagalnakolaʔlidɩɩrɩ.Atɛɛnanɛdɩdopɛɛwʋdɩɩrwʋ.Bɩsanyɩrakɛɛnakolwernakɛnàcɛcɛdɩɩrɩatɛɛnawʋʔlʋwaraʔ.Bɩsananaatɛɛnawʋfaayɛcʋɔrsɩɩdowangalnakolaʔ,dɩfangathɩɛn.Dɩɩrɩkaankɛwʋndɩɩrnɩthɔmaduurnàdɩɩrɩkɛranʔthɔma,tɛɛnanɛdɩthʋtɩbɩlafɛʋdɩcan;nakolcɔkontinluunntɛɛnanɩtɩbɩlafɛʋɩnʔlaawʋʔluruwʋmakhamɔɩntɛtɛɛnayɛnɩ.</p>
+    <p>Dɩɩrɩratɛɛnanɛdɩtɔteeduurdaanpɛrrɛ,daangaalaʔyɛkʋlʋɔsɩdɩcʋʋguurɩkɛwʋnguuranɩTibiliihʋnàmɔkɛcɛcɛràthɩɛnàfɩrnɩtibildɩndodeeaʔ,ɩntɩ.Dɩɩrɩratɛɛnanɛagbɛʋtɩbɩlawaannɩboboi;ʔyɛɛkhanàkuunidɩɩsʋnɔnaathɩnthiinn,teebiraraathɩyaadabulosʋnɔnaathɩnthiinnyaahʋɔkɛɩntɛkpanɩ,ɩnyɔɔ;sɩwodɩɩrɩtɛɛnanɛdɩcʋʋ,Dɩɩsʋnɔkɛrakpanɩgbɛʋdɩwʋnʔyaalhaarʔyiiɩnhana,ɛɛthɔmakɛwʋndoninaaʔlibääni.</p>
+    <p>Thɩrɛnànɩrɛsʋnɔnadʋɔnncɛcɛtɩbɩlakɛhananɩhʋɔwʋtidɩɩrcaarkɛngbɛɛnsɩnɩɛɛbɩsansʋnɔwaandɩɩrayɛ.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔ,sɩthɩɛnnáfɩrwʋaʔ,agbɛʋkhanàɛatoonanikhapabɩɛlwaancʋʋkhacathɩɛn;ahananɛhʋɔayɩrɔdɛfɩrɩɛràwʋjɩnɩdɩwʋncʋʋ,wʋbulkhajɩɩrraɩnkhɔndaangalʔyɛkʋlʋɔsɩwʋtɩnɛkhadɛfɩrɩkɛwaʔlini.</p>
+    <p>Tɩbɩlafɛʋhananɛhʋɔwʋcɛɛyɛrwʋʔlidɛfɩrɩ,wágbayɛfɩlwɛnàthɩɛkɛwʋtinidɩɩtheɛɛjɩɩrfɛʋkɛràwʋhananɩyaasɛbɛhiininanànyɩrrànàthɩɛnkɛwʋjɩnɩdɩwʋncʋʋaʔ.</p>
+  </li>
+  <li>
+    <p>Tibilwootibilhananɛhʋɔleɔɔdʋɔnàdɩkpiirà,apɩɛrnyanyaanɩdaaanʔ;mɛdahasɩtɩbɩlaahʋkɛwʋhananɩnamɔdeeduurpɩnɩ,sonikɩɛrNɩrɔrɩkɛrà,ɩnpunudɩhanafangamɔtɛɛnanɩ.</p>
+  </li>
+  <li>
+    <p>Tibilhananɛɛtɛɛnanɩacʋʋdapakɛatooni;thɩɛnkɛpununidɩcʋʋdaparàatoonihamɔɔɔteedonàanyɩrnɩtɩbilafɛʋʋʔyɛkʋlʋɔnamɔthɩɛnnáfɩrwʋnɩaʔ.</p>
+    <p>Mɔɩntɛnàaɩɩrnɩɔɔhʋrà,dadonithɩɛnhaledɩnfɩrwʋaʔ,aàtɛɛnaacʋʋthɩɛnakaansɩnajɔfɩraaʔ;jɔfɩransorʔbilamiaahaannɩntodɩfaɔɔɔlɔnkhaanáasaanɔɔaʔ,anáafɩrwʋsɩamʋɔlwʋaʔyaaadänbälaʔ.Dɩjɔfɩranʔyaalɛdɩdokaankɛdɩɩraatoohananɩpununiwʋnphiirnadɩhiindara,thɩɛnɩnyɔɔ,tɩbɩlaɩnhanacʋʋpabɔtɛɛnanɩ,wáʔyaalnyanyaanɩɩnlɔnatɩbɩlaathɩnthiinaʔsɩwakanánabɔcʋʋrɩtɩbɩlafɛʋrà.</p>
+    <p>Hʋɔkɛratɩbɩlahananɩnamɔthɩɛnànfɩryɛnɩaʔnápununádoyɛ,hanakɛgbe,sɩadomɔkɛDɩɩsʋnɔkɛkpanɩgbɛʋnkpɩɛrnɩsɩapɛhaardɩhanayɩaʔ.</p>
+  </li>
+  <li>
+    <p>TibilnáapunufijɔfɩbɩɛlnakɛkɩɛrNɩrɔrɩkɛrà,adɩhamɔnakɛ,sɩadɩhohʋdɩkhaʔlaarɛ,ahagbuluniyaatibilbɩɛl,agbuuyʋʋthɩndɩcʋʋrɩràyaaanaacʋʋthɩnpuukɛnʔyaalnɩdɩnyanyaanntibiliihʋkɛahananɩnamɔthɩɛnànfɩrwʋnɩaʔ,sonileNɩrɔrɩràraaʔ.</p>
+  </li>
+</ol>

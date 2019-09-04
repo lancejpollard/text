@@ -1,0 +1,121 @@
+<h1 align='center'>IFYASOSELE IFYALO PALWA NSAMBU SHA MUNTU</h1>
+<h2 align='center'>AMASHIWI YAKUBALILAPO</h2>
+<p align='center'>Apo kwaba ukwishiba ubucindami bwa muntu nomulinganya pamo ne nsambu shishifwile kufumyapo ku muntunse nge shinte lya buntungwa, umulinganya pamo nomutende pano isonde,
+Apo uku kana posako mano nokusula insambu sha muntu fya lenga imicitile ya bunkalwe yikalifya amatontonkanyo ya bantu, elyo nokupilibula imikalile ya mu calo umo abantu bonse bengala sekelamo mu nsambu sha kulanda nokusumina ifyo balefwaya ukubikapo nokula ikala ukwabula icintinya nokubulilwa fyalisoswa nge fikabila nganshi umuntu onse,
+Apo cikankala, nga cakuti umuntu tali nokula patikishiwa ukuilubula, nge nshila yakushalikishako, ukulasangukila aba buluku nabalya banyantilila abanabo, mukuti insambu sha muntu shifwile ukucingililwa na mafunde,
+Apo caba cikankala ukutwala pantanshi icumfwano pakati ka fyalo,
+Apo abantu bamu kabungwe kafyalo fyaikatana muli kalata balibwekeshapo isubilo mu nsambu, mu bucindami no bukankala bwa muntu pamo nomulingaya pakati ka baume nabanakashi pamo nokuipela ukutwalilila abuyantanshi mu mikalila isuma mu butungwa ubukalamba,
+Apo ifyalo fyaba ba membala fyali ipela ukufikilisha, ukupitila mukwampana pamo nakabungwe ka fyalo fya ikatana, ukutwala pantanshi ukula cindika nokukonka pafya nsambu sha muntu ne nsambu shimbi pano isonde,
+Apo pakwishiba ishi nsambu nobuntungwa ecikankala sana pakuti ici cilayo cinga fikilishiwa ukupwililika,
+Nomba, eyapa UKULONGANA KWAFYALO FYONSE kwasosa, Ifyasosele ifyalo fyonse palwa nsambu sha muntu nge cilingile ukufikilishiwa ku muntu naku fyalo fyonse, pakuti cila muntu ne ncende yonse mu calo aikala, ukulaibukisha ifi fyasoswa lyonse, nokwesha ukulafunda nokusambilila mu kutwala pantanshi ukucindika ishi nsambu bo buntungwa, elyo mukubomfya inshila shalinga, ifyalo nafyo ukumona ukuti ifi fyaishibikwa nokukonkwa isonde lyonse, ku bantu baba mu fyalo fyaba bumembala ukubikapo nefyalo fitungululwa kuli bambi.</p>
+<ol>
+  <li>
+    <p>Abantubonsebafyalwaabalubukanokulinganamumucinshinensambu.Balikwataamanonokutontonkanya,eicobafwileukulacitaifintukubanabomumutimawabwananyina.</p>
+  </li>
+  <li>
+    <p>Cilamuntualilingaukukwataishinsambunobuntungwafilelondololwa,ukwabulaakapatululakalikonsengakamutuntu,inkanda,umwaumenanguumwanakashi,ululimi,ukoapepa,ifyoatontonkanyapafikansafyacalo,ukoatulakucalo,ifyumaakwata,ukoafyalwananguakapatululaakalikonse.Kabili,takulikapatululakalinokucitwapamulanduwafikansafyacalo,ifyobalubululaimilandunanguumucinshiicaloafumakocakwatakufyalofimbi,cibecilaiteka,cilatekwanangucapelwakucalocimbiukutekwa.</p>
+  </li>
+  <li>
+    <p>Cilamuntualikwatainsabuyamweo,ukucitaicoalefwayaelyonokuicingililaumwine.</p>
+  </li>
+  <li>
+    <p>Takulinanguumoukubaumushanangumubusha.Ubushanokushitishanamubushafilinokubindwamunshilailiyonse.</p>
+  </li>
+  <li>
+    <p>Tapalinanguumoatwilekucitwakunkalwe,ukucushiwanokucitwangenamapakukandwa.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuukwishibikwaukulikonsengomuntupamensoyacilye.</p>
+  </li>
+  <li>
+    <p>Bonsebalilinganapamensoyacilyekabilibalikwatainsambuukwabulaakapatulula,ukupokolwamumulinganyapamensoyacilye.Bonsebalikwatainsambuyakupokololwamumulinganyakukapatululaakalikonseukupulamuliukukusosaukubikapoukupokololwanakulibalyabatunkabambiukutibalepatulula.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambukucingililwanefilyefyalingalintuafyengwakumicitileipulamumafundeyamupelainsambuukulingananamafundeyamucalo.</p>
+  </li>
+  <li>
+    <p>Takulimuntuafwilekukakwaukwabulaumulandu,ukusungwabucitentenanguukubaimbutushiukwabulaumulandu.</p>
+  </li>
+  <li>
+    <p>Onsealilingamumulinganyawinewineukumulubulwishaukwabulaulufyengopalwalalanabashicilyebashilemenenalubalilumo,lintubalepitulukamunsambushakwenefyalingaukucitanganacitaumulanduulionse.</p>
+  </li>
+  <li>
+    <p>Onseuwapelwaumulandualikwatainsambuukutunganishiwauwakaeleukushintalintubamushininaukulingananamafundepacilyecapalwalalaukwabulaukuleshainshilashonseengapusukililamo.</p>
+    <p>Takulimuntualinokupelwaumulandunokukandwapacilubocishalimulandulinducacitikepanshitaiyo,cibenimucalocakwenangukufyalofimbi.Nanguukumulundilakoukukandwaukucilafintuakandilwepanshitaicilubocacitike.</p>
+  </li>
+  <li>
+    <p>Takulikulafulunganyakumakainkamayamuntu,ulupwalwakwe,kung'andananguamakalataukubikaponokonaulaishinalyakwemukulandaifyabipapaliena.Onsealikwatainsambuyakucingililwakumafundekufimfulunganyafyamusangongoyunanguukusanswa.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuyakwendanokwikalakonseukoatemwamucaloaikala.</p>
+    <p>Onsealikwatainsambuukufumamucala,nangucalocakwepamonokubwelelakucalocakumwabo.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuyakufwayanokusekelamoukusungwangembutushimuefyalofimbiukubutukaulufyengoukoafuma.</p>
+    <p>Leloiyinsambutaingabombaumuntungaalebutukaimilanduishikuminekufikansafyacalonangukumicitileishalinganefyaimininapoifyalofyaikatana.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuyakubanomutundu.</p>
+    <p>Tapalinanguumokumakaalinokupokwaumutunduwakwewacalonanguukumukanyainsambuyakweyakwalulauyumutundu.</p>
+  </li>
+  <li>
+    <p>Abaumenabanakashingabafikapamushinkuwakupatabafwilekuleshiwakupananokulapangaindupwakumulanduwankanda,ukobafumananguukobapepa.Bonsebalikwatainsambushalinganakucupo,lintubalikucupoukushintanalintuicupocapwa.</p>
+    <p>Icupocilinokucitwaabalefwayaukupanangabasuminishanyaabenebeka.</p>
+    <p>Indupwangentuloyamutundunecaloshalilingaukucingililwanabekalacalopamonobuteko.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuyakukwataifipeumwineekanangunabanankwe.</p>
+    <p>Tapalialinakupokwaifipekumaka.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuyakukwataamatontonkanyo,ukutontonkanyanokupepa;iyinsambuyalundaponeyakwalulaukwakupepananguamatontonkanyoukubikaponeyakuti,atemwaekanangunabambiukoekala,cibenimubumfisolonangupalwalalaukulondololaamashiwiyakwalesananguamatontonkanyoukupitilamukufunda,imicitilepamonokupepa.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuukulandaifyoaletontonkanya,neyinsambuilundaponeyakukwataamatontonkanyoukwabulaukuleshiwapamoneyakukwata,ukufwaya,ukupokelelapamonokupelakobamoilyashinamatontonkanyoukubomfyaumulabasaulionsepakatikafyalo.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuyakulongananokwangalamumutelelwe.</p>
+    <p>Takulinanguumoafwileukupatikishiwaukubamembalawakabungweashilefwaya.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuyakutungululamubutekobwacalocakweatemwaumwineekananguabasalwa,abakumwimininako.</p>
+    <p>Onsealikwatainsambuyakusekelamomufintuubutekobwacalocakwebupekanishaabekalacalo.</p>
+    <p>Ubufwayobwabantuemakaubutekobulinokukwata,icicakulamonwaukupitilamukulakwataukusalaubufimunshita,nabantubakumenyeimyakayakusalabafwilebasalaifyobatemenweukwabulaukwebwa(secretballot)nanguukubomfyainshilashimbishishalingaifi.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuyakusungwalilyaakota,kabiliukupitilamumakayacalocakwenanguukubombelapamonefyalofimbiukulingananamakacilacalocikwete,ukusangaubukumu,imikalileisumapamonentambishacifyalilwaukulingananomucinshimukuitwalapantanshiumwine.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuyakukwataincitoatemenwenokubombamunshilayabulaukufyengwakabilinokupokololwaukutamfiwaincito.</p>
+    <p>Onseukwabulaakapatulaalikwatainsambuyakufolaamalipiloyalingapancitoimoine.</p>
+    <p>Onseabombaalikwatainsambuyakupokaamalipiloyalingilepakutienanolupwalwakwelwingalaikalabwino,nayamalipilongayacepa,ukubomfyainshilashimbisahsuminishiwaukulasangilamoindalamashimbinanguukumulundulakoindalamaafola.</p>
+    <p></p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuyakutushanokwangalaukubikapoukbombainsaishalinganokulayapalicutiyakulipilwa.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuyakwikalabwinonolupwalwakwemubumi,ukubikaponefyakulya,ing'andanokulayakucipatalaatemwakusukulu,pamonensambuyakucingililwalintuabapabulofwa,alwalaalemana,afwilwa,akotananguabamubwafyakumulanduwafintufimoashingacitaponangucimo.</p>
+    <p>Banamayopabukulupamonabanabanonobalikwatainsambuyakutangatwabwinonokwafwiwa,Abanabonse,abafyalwamukatinangukunseyafyupo,bafwileukusekelamofimofineifilingaamasukulunanguifipatala.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuyakusambilila.Takufwilekubakulipilakumasambililomumasukuluyanono.Onsealefwaikaukusambililakomumasukuluyanonocibealefwayananguiyo.Amasukuluyakusambililamoishancitoyafwileyabakopamonamasukuluyakalamba(University)kulibalyabalingileukuyako.</p>
+    <p>Amasambililoyafwileyalengaumuntuumwineukuitwalapantanshiifyoafwayanokukoshaukucindikainsambushamuntunobuntungwa.Amasambililoyafwileukutwalapantanshiukumfwana,ukubelelanabucibusapakatikafyalo,ukwikatanyaabantubapusanainkandananguukobapepakabilinokutwalapantanshiimilimoyafyalofyaikatanapakusungililaumutende.</p>
+    <p>Abafyashibalikwatainsambuyantanshiukusalaamasambililobalefwayaabanababoukukwata.</p>
+  </li>
+  <li>
+    <p>onsealikwatainsambuyakucitakoifyantambishacifyalilwa,ukusekelamomufyakulenganefyakupangapangakuntuaikalapamonokusekelamomufyaletaabasungu(scientificadvancementanditsbenefits).</p>
+    <p>Onsealikwatainsambuyakucingililwaapoaimininananguumoalefwayaukumwenamoukupitilamufintuapanga,ukulembananguukulengangafyafumamumanoyakwe.</p>
+  </li>
+  <li>
+    <p>Onsealikwatainsambuukwikalakuntuaikalanangumucaloumoinsambunobutungwashasoswa,shafikilishiwaukwabulaukushako.</p>
+  </li>
+  <li>
+    <p>Onsealikwataumulimokuntuaikalaukoumwineekaukwabulaukumufenenkeshaengaitwalapantanshiifyoafwaya.</p>
+    <p>Pakukwataishinsambu,onseafwileukukonkaamafundepamulandufyewakwishibanokucindikainsambushabambipakutikwingabaimbeloshisuma,nomutelelwemucaloumobonsebakwatainsambuyakulandapo.</p>
+    <p>Ishinsambunobuntungwatetishibomfiweukupulamubufwayonefyaimininapoifyalofyaikatana.</p>
+  </li>
+  <li>
+    <p>Tapalinangucmomuliukukusosaicingapilibulwaukutiicaloiciliconse,ibumbalyabantunanguumuntuumonakwatainsambuukucitaiciliconseicakwimininapakoanulainsambunobuntungwafilondolelwenokulembwa.</p>
+  </li>
+</ol>

@@ -1,0 +1,123 @@
+<h1 align='center'>DEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE</h1>
+<h2 align='center'>INNLEIING</h2>
+<p align='center'>Då det å godkjenne det naturlege menneskeverdet med like og umissande rettar for alle menneske på jorda er grunnlaget for fridom, rettferd og fred i verda,
+og då hån og vørdsløyse mot menneskerettane har ført til barbariske handlingar som har skaka samvitet til menneskeretta, er framvoksteren i den verda der menneska skal ha talefridom og trusfridom og vere løyste frå otte og naud, kunngjord som det høgste målet for kvart menneske,
+og då det er nødvendig at menneskerettane blir verna om av lover slik at menneska ikkje blir tvinga til å finne den siste utvegen i å gjere opprør mot tyranni og trælekår,
+og då det er nødvendig å arbeide for betre tilhøve mellom nasjonane,
+og då folka i Dei Sameinte Nasjonane har stadfest trua si i denne pakta, på grunnleggjande menneskerettar, på menneskeverd og på same rett for mann og kvinne, og har vedteke å arbeide for sosiale framsteg og betre levevilkår i større fridom,
+og då medlemsstatane har bunde seg til å fremje allmenn vørdnad for pakta og halde seg etter menneskerettane og den grunnleggjande fridomen i samarbeid med Dei Sameinte Nasjonane,
+og då denne retten og fridomen må bli godkjend av alle dersom pakta skal bli røyndom,
+KUNNGJER
+GENERALFORSAMLINGA
+DEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE, som skal peike mot eit sams mål for alle folk og nasjonar. Fråsegna må alltid vere i tankane til den einskilde og dei styrande og få dei til å styrkje vørdnaden for rett og fridom gjennom undervisning og oppseding. Dei skal syte for at fråsegna blir allment kjend og etterlevd både i medlemslanda og i tilsynsområda, og arbeide trufast med dette både på nasjonalt og internasjonalt grunnlag.</p>
+<ol>
+  <li>
+    <p>Allemenneskeerføddetilfridomogmedsamemenneskeverdogmenneskerettar.Deiharfåttfornuftogsamvitogskallevemedkvarandresombrør.</p>
+  </li>
+  <li>
+    <p>Kvareinskildharkravpåalldenrettogfridomsomfråsegnanemner,utanskilnadavnokoslagpågrunnavrase,farge,kjønn,språk,religion,politisksynellerannameining,nasjonaltellersosialtopphav,eigedom,fødselellerandretilhøve.Denpolitiskestoda,lovverketellerdeiinternasjonalepåbodaeitlandleverunder,kanikkjeverepåskotttilatdetblirgjortskilnadpånokonidetlandetellerområdethanhøyrertil,antenlandetharsjølvstende,stårundertilsyn,erikkje-sjølvstyrtellersjølvstyreteravgrensapånokonannanmåte.</p>
+  </li>
+  <li>
+    <p>Alleharretttilliv,fridomogpersonlegtryggleik.</p>
+  </li>
+  <li>
+    <p>Ingenskalhaldastislaveriellertrældom.Slaveriogslavehandelavalleslagerforbode.</p>
+  </li>
+  <li>
+    <p>Ingenmåtorturerast,pinastellerstraffastpåumenneskelegellernedsetjandevis.</p>
+  </li>
+  <li>
+    <p>Allemenneskeharkravpåatdomstolaneallestadergodtekdeisomrettssubjekt.</p>
+  </li>
+  <li>
+    <p>Alleerlikeforlovaogharkravpåsamerettsvern,utanskilnadavnokoslag.Alleharkravpåsamevernmotatdetblirgjortskilnadpåfolkistridmeddennefråsegna,ogvernmottiltaksomberisegeinslikfare.</p>
+  </li>
+  <li>
+    <p>Alleharretttilåfåfullgodhjelpfrådeilovlegenasjonaledomstolanenårdetgjeldhandlingarsomkrenkjerdenrettendeneinskildeharfåttigrunnlovaellerlovverketelles.</p>
+  </li>
+  <li>
+    <p>Inganmåutanlovogrettarresterast,setjastifengselellervisastutorlandet.</p>
+  </li>
+  <li>
+    <p>Alleharsameretttilåfåsakasirettferdigogoffentleggranskaaveinsjølvstendigogupartiskdomstol,bådenårdeterplikteneogrettentildeneinskildesomskalfastsetjast,ognårdeterreistklagemålmothan.</p>
+  </li>
+  <li>
+    <p>Densomerklagaforeistraffbarhandling,harretttilåblireknasomskuldlaustileinoffentlegdomstol,derhanharfåttfulltrygdforrettentilåforsvareseg,harprovaathanerskuldigetterlova.</p>
+    <p>Ingenskalkjennastskuldigieistraffbarhandlingnårdethanhargjortellerforsømtikkjestreidmotnasjonallovellerfolkerettenpådentidadethende.Hanmåhellerikkjedømasthardareenndetlovagavhøvetildådenstraffbarehandlingavartutførd.</p>
+  </li>
+  <li>
+    <p>Ingenskallideundervilkårleginnblandingfråandre,antendetgjeldhanseigenperson,familie,heim,brevskifte,elleråtakpåæreogomdøme.Alleharkravpåatlovavernardeimotslikinnblandingellerslikeåtak.</p>
+  </li>
+  <li>
+    <p>Allemenneskeharretttilåferdastfrittogtilåveljebustadinnaforgrenseneisitteigeland.</p>
+    <p>Detskalogsåverefullretttilåreiseutordetlandeteinburi,samekvalanddeter,ogtilåvendeattendetilsitteigeland.</p>
+  </li>
+  <li>
+    <p>Allesomblirforfølgdeharretttilåsøkjeogtaimotasylieitannaland.</p>
+    <p>DennerettengjeldikkjeirettssakarsomharrøynleggrunnlagiupolitiskebrotsverkellerhandlingarsomstrirmotformåletogprinsippettilDeiSameinteNasjonane.</p>
+  </li>
+  <li>
+    <p>Alleharretttileitstatsborgarskap.</p>
+    <p>Ingenskalmissestatsborgarskapetsittvilkårleg,ellerblinektarettentilåendredet.</p>
+  </li>
+  <li>
+    <p>Vaksnemennogkvinnerharretttilågiftesegogskipefamilieutanavgrensingavnokoslagpågrunnavrase,nasjonalitetellerreligion.Deiharkravpådeisamerettanenårdetgjeldekteskapet,bådesålengeekteskapetvarerogmedandetblirløystopp.</p>
+    <p>Ekteskapetmåberrekomeistandetterfrittogfulltsamtykkefråbeggepartar.</p>
+    <p>Familienerdennaturlegeoggrunnleggjandeeiningaisamfunnetogharkravpåatstatenogsamfunnetvernaromdet.</p>
+  </li>
+  <li>
+    <p>Alleharretttilåhaeigedomåleineogsamanmedandre.</p>
+    <p>Ingenskalvilkårlegblifråtekeneigedomensin.</p>
+  </li>
+  <li>
+    <p>Alleharretttiltankefridom,samvitsfridomogreligionfridom.Dennerettengjeldfridomtilåendrereligionellertru,ogfridomtilåmålberesineigenreligionellersieigatruslæreigjerningogframferd,antenåleineellersamanmedandre,offentlegellerprivat.</p>
+  </li>
+  <li>
+    <p>Alleskalhameinings-ogytringsfridom.Dennerettengjeldfridomtilåhameiningarutaninnblanding,tilåsøkje,taimotoggjerekjentopplysningarogideargjennomalledeiinformasjonskanalarsomfinst,ogpåtversavallegrenser.</p>
+  </li>
+  <li>
+    <p>Alleharretttilfrittåveremedpåmøteogiorganisasjonarmedfredelegeformål.</p>
+    <p>Ingenkantvingastinnieinorganisasjon.</p>
+  </li>
+  <li>
+    <p>Alleskalharetttilåveremedpååstyrelandetsitt,beinvegesellergjennomtalsmennsomerpeikautifrieval.</p>
+    <p>Alleskalhasamerettentilågjeretenesteioffentlegeombodilandetsitt.</p>
+    <p>Folkeviljenskalveregrunnlagetfordenmaktasomerlagdtilstyremaktene.Folkeviljenskalkometilsynegjennomregelfasteogrøynlegeval,somergrunnapåallmennoglikrøysterettiløynlegevalellerpåannanjamgodrøystemåte.</p>
+  </li>
+  <li>
+    <p>Kvareinskildmedlemisamfunnetharretttilsosialtryggleik,ogharkravpåatdeiøkonomiske,sosialeogkulturellegodane,somhanikkjekanvereutanomhanskalhavørdnadforsegsjølvogstyrkedenpersonlegekarakterensin,blirløystegjennomnasjonaletiltakoginternasjonaltsamarbeidisamsvarmeddetkvarstatmaktar.</p>
+  </li>
+  <li>
+    <p>Alleharretttilarbeid,tilfrittåveljeyrke,tilrettferdigeoggodearbeidstilhøveogvernmotarbeidsløyse.</p>
+    <p>Alleharsameretttilåfålikbetalingforliktarbeid,utanskilnadavnokoslag.</p>
+    <p>Densomarbeiderharkravpårettferdigoggodbetaling,såhankansyteforfamiliensinogsegsjølvpåeinmenneskeverdigmåte,ogomdettrengst,fåhjelpgjennomandreogutfyllandesosialemidlar.</p>
+    <p>Alleharretttilåskipeogmeldeseginnifagforeningarforåverneinteressenesine.</p>
+  </li>
+  <li>
+    <p>Alleharretttilkvileogfritid,ogdermedtileirimelegavgrensaarbeidstid,ogtilferiemedløn.</p>
+  </li>
+  <li>
+    <p>Alleharretttileinlevestandardsomkantryggjehelsaogvelværettilforsytarenogfamilienhans,oggjedeimat,klede,hus,helsestellognødvendigesosialetrygdervedarbeidsløyse,uføre,dødsfall,alderdomellerandretilhøvesomskiplarlivskåra,ogsomforsytarenikkjeerherreover.</p>
+    <p>Morogbarnharretttilsærskildomsorgoghjelp.Allebarnskalhasamesosialevern,antendeierføddeiellerutaforekteskapet.</p>
+  </li>
+  <li>
+    <p>Alleharretttilundervisning.Opplæringaskalverekostnadsfri,idetminsteidenallmennegrunnskulen.Denelementæreundervisningaskalverepliktigforalle.Alleskalhahøvetilåfåfagopplæring,ogdetskalverelikevilkårforalletilåfåhøgreutdaning,altetterdeievnenedeihar.</p>
+    <p>Undervisningaskalhatilmålåstyrkjedenmenneskelegepersonlegdomenogaukevørdnadenformenneskerettaneogdengrunnleggjandefridomen,fremjeskjønsemd,toleranseogvenskapmellomallenasjonar,folkeslagogreligiøsegrupperogstøfredsarbeidettilDeiSameinteNasjonane.</p>
+    <p>Foreldraharførsterettentilåveljekvaslagopplæringbarnadeiraskalfå.</p>
+  </li>
+  <li>
+    <p>Alleharretttilfrittåveremedidetkulturellelivetisamfunnet,tilånytekunstogtilåfåsinpartavdeivitskaplegenyvinninganeoggodanesomfølgjermeddei.</p>
+    <p>Kvareinskildharretttilåfåvernadeimoralskeogmaterielleinteressenesomhanharskaptseggjennomvitskapleg,litterærtellerkunstnarlegarbeid.</p>
+  </li>
+  <li>
+    <p>Alleharkravpååfåleveunderslikesosialekåroginternasjonaletilhøveatdeifulltutkangjeretilrøyndomrettenogfridomenidennefråsegna.</p>
+  </li>
+  <li>
+    <p>Alleharplikterandsynessamfunnet,dåpersonlegdomentildeneinskildeeinastderkanfåfrieogfullgodevoksterkår.</p>
+    <p>Rettenogfridomentildeneinskildeskalikkjevereavgrensaavannaenndetlovatydelegslårfastforåtryggjedenvørdnadenalleandreharkravpånårdetgjeldrettogfridom,ogdeikravsomeitdemokratisksamfunnmedrettekansetjetilmoral,offentlegordenogallmennvelferd.</p>
+    <p>DennerettenogfridomenkanikkjeinokohøvenyttastistridmedformåletogprinsippettilDeiSameinteNasjonane.</p>
+  </li>
+  <li>
+    <p>Ikkjenokoidennefråsegnamåtolkastslikatdetgjevstat,grupperellereinskildmenneskeretttilåveremedpåtiltakellerhandlingaravnokoslagsomhartilmålåøydeleggjedenrettenogfridomensomdennefråsegnastadfester.</p>
+  </li>
+</ol>

@@ -1,0 +1,123 @@
+<h1 align='center'>Timatsi Cameetsatatsiri Acoajeitaqueri: Te Oncameetsateji Intsaneemparo.</h1>
+<h2 align='center'>Jero oca anquenqueshirejeiteri:</h2>
+<p align='center'>Tempa amoncaratavacaajeita maaroni. Timatsi acoajeitaqueri, te oncameetsatej i intsaneemparo. Acoajeitaque antimajeite cameetsa. Te oncameetsateji imperanajeitee itsipapee, te oncameetsateji iramatavijeitee, te oncameetsateji irishintsinajeitee, te oncameetsateji irimanajeitee.
+Tempa ocameetsati aneacameetsateri itsipapee atin, ancavintsaajeiteri. 1ro cantaincha timatsi oashinoncaajeitiriri itsipapee. Te oncameetsateji. Te aneacameetsateroj i yantajeitiri iriori. Te ancoyej quishimenteeroneri paitapeerica acantajeitiri. Aisati ariorica acoaque anquemisanteri Tasorentsi, te oncameetsatej i inquishimenteero. Te oncameetsatej irininajeitee. Ocameetsati anquemisantero paitapeerica acoajeitiri. Te ancoyeji intime quisheene; irointi acoaque antime cameetsa, aisati eiro otimitsi coiteimoteene. Tempa queario.
+Tempa aisati ocameetsati irijocacoventajeitee yora pincatsaripee aisati covariria, maaroni. Te oncameetsateji inquisashijeitee. Aisati ariorica iroashinoncaajeitee itsipapee, ocameetsati irijocacoventajeitee avincatsarite: eiro ishinetiritsi oashinonqueenemeri. Tempa ocameetsati iraacameetsatavacaajeitea maaroni atiripee.
+Tempa amoncaratavacaajeitaca: timatsi cameetsayetatsiri acoajeitiri. Irootaque apatojeitantacari aca, aponeayetaca maaroni nampitsipeequi. Icameetsajeitaque maaroni atiri: te oncameetsateji antseenqueri, te oncameetsateji ashirontimenteari. Timatsi ametapinijeitán aisati acoajeitiri, maaroni: shirampari, tsinane, maaroni. Acoajeitaque antimajeite cameetsa aisati eiro otimitsi coiteimoteene.
+Tempa arojeitaque itiancanepee ashanincapeeni anta aipatsitequi. Apocapiniti aca avametavacaapinijeita. Acarajeitiri Naciones Unidas, maaroni: acoajeitaque ashinejeiteri maaroni atiripee coiteimojeitiriri aisati ashinejeiteri cameetsayetatsiri yamejeitari. Te oncameetsateji amperanajeiteari.
+Tempa ocameetsataque asanquenateneri maaroni atiripee oca aneacameetsajeitiri. Ocameetsati irimajeitero maaroni atiri: te oncameetsateji intime tsaneemparineri.
+Irootaque isanquenajeitantarori yora
+ASAMBLEA GENERAL
+oca:
+Timatsi noncamantajeiteri maaroni atiripee; jaocaricapee isavicaj ej tiri aisati j aocarica ocantayetari irineanepee iriori. Timatsi cameetsayetatsiri acoajeitiri maaroni. Te oncameetsateji intsaneapitsajeiteero itsipapee. Ocameetsati inquenqueshiretapinijeitero maaroni atiri oca nosanquenatiri, incavintsanteariri itsipapee. Aisati ocameetsati avamejeiteri maaroni atiripee, jaocarica isavicajeitiri.</p>
+<ol>
+  <li>
+    <p>Aquempetavacaajeitamaaroniatiri.Timatsiaquenqueshirejeitantarimaaroni,timatsiamejeitari,ayojeitipaitaricaocameetsatiantajeitiri:teoncameetsatejiintsaneapitsajeiteeroitsipapee.Teoncameetsatejiimperanajeitee,teoncameetsatejiiroashinoncaajeitee,irointiocameetsatiaacameetsatavacaajeitea.</p>
+  </li>
+  <li>
+    <p>Acoajeitaqueirimajeiteromaaroniatiriocacameetsayetatsiriasanquenatacotaqueri.Teoncameetsatejiintsaneacoteari.Tempaamoncaratavacaajejtaca,eiroacantiritsiitsipapee"Eironoshinetimpitsiavirori.Pinashita,tepishanincatenaji,onashitapimeshina,avirotsinane,onashitapineane,onashitapiquemisantiri,piponeacapashiniquiquipatsi,tepashitaarantea,tepimpincatsateji.Tepincameetsateji."Teoncameetsatejiancantayeteroocapee,irointiocameetsatiaacameetsatavacaajeitea,maaroni.</p>
+  </li>
+  <li>
+    <p>Teoncameetsatejiiroyeetee,teoncameetsatejiiroiminquiashiyeetee,teoncameetsatejiiroashinonqueetee</p>
+  </li>
+  <li>
+    <p>Teoncameetsatejiirinoshiqueeteriatiriimperanatanteeteariri,intsameetacaanteariri.Teoncameetsatejiintsameetacaayeetericaaricoatsiintsameete.Ocameetsatiimpinayeeterimaaronitsameetantatsiri.</p>
+  </li>
+  <li>
+    <p>Teoncameetsatejiiroatsinayeeteriatiri,teoncameetsatejiimpasanatapiniterj,teoncameetsatejiiroashinoqueeteri,teoncameetsatejiimpashiventacayeari</p>
+  </li>
+  <li>
+    <p>Tempaatirianajeitaque,aquempetavacaajeitaca.Teoncameetsatejiincantajeiteeagobierno,covaririaaisatijoeshi:"Caaripiniatiri.Tepinquempetenajinarori."</p>
+  </li>
+  <li>
+    <p>QuearioaquempetavacaajeitacaOcameetsatiincavintsaajeiteemaaroniitiancanepeegobierno,anquempejeitantearirimaaroniitsipapee.Teoncameetsatejiincanteete:"Tepincameetsatejiaviron."</p>
+  </li>
+  <li>
+    <p>Timatsiishinejeitaqueeriavincatsaritepee.Intimericacoatsineriintsaneapitsajeiteero,ocameetsatiincantacoventajeiteeyorapincatsaripee.Teoncameetsatejiirishineterioashinoncaajeiteeneme.</p>
+  </li>
+  <li>
+    <p>Tericaontimeantayetiri,teoncameetsatejiiraashiteeyoracovaririya,teoncameetsatejiiroiminqueashijeitee.Aisatiteoncameetsatejiiraashiteepashiniquequipatsi.</p>
+  </li>
+  <li>
+    <p>Intimericacantatsineriotimicaaricameetsatatsiantaqueri,ocameetsatiintimecaariquisheene,irisampitacojeitanteeri.Yoracaariquisantatsiiriotanaquequearioricaicantiriyoracantacoventeeneri.</p>
+  </li>
+  <li>
+    <p>Arioricaintimeatiricantacoventeeri:"Timatsiyantiri,poiminqueri."1rocantainchateoncameetsatejiincantepincatsari:"Queario,timatsiyantin."Ocameetsatiirijivateinquemisanteearoriiriotasanotantearijaocaocantamaaroni.Ocameetsatiiriotacojeiteromaaroniashanincapee,oncanteataeiroyoasanquetashiyeetee.</p>
+    <p>Arioricaotimiantayetiricaariitsaneacojeiteeriavincatsarite.Impoijiincantericaavincatsaritepeeteoncameetsatejiocaantayetiri.1rocantainéhateoncameetsatejiinquisacoteeroocaantitacaripeerani.Pineaquero,peeraniantantacarori,teintimejitsaneacojeiteeroneri.</p>
+  </li>
+  <li>
+    <p>Teoncameetsatejiirashereashiteeitsipapeeaisatieiroiqueashiteemparoavancoirashereanteeri.Teoncameetsatejiiramenashitearoasanquenayetiriarioricaacoaqueamanaquero.Teoncameetsatejiincantashijeiteashanincapee:"Teincameetsatejiyoca,timatsiyantayetiri."Ocameetsatiintsaneaqueariyoraavincatsaritepee.</p>
+  </li>
+  <li>
+    <p>Oshinetacaanquenayetanaquejaocaricaantaaipatsitequi.Teoncameetsatejiintsaneacojeiteero.</p>
+    <p>Ancoaquericaajatepashiniquiquipatsi,teoncameetsatejiintsaneacojciteeavincatsaritepee.Aisatiancoaquericaampiajeaipatsitequi,teoncameetsatejiintsaneacojeiteeroavincatsarite.</p>
+  </li>
+  <li>
+    <p>Arioricainquisashijeiteeashanincapeearoriantaaipatsitequi,ocameetsatiiraacameetsajeitavaqueeitsipapeeatiriantaiipatsitequiiriori.</p>
+    <p>1rocantainchaarioricaantaquerocaaricameetsatatsiaipatsitequi,eiroajititsiiraacameetsajeitavaqueeitsipapeeatiri.</p>
+  </li>
+  <li>
+    <p>Ocameetsatiashanincatasanojeitearimaaronisavicajeitatsiriaipatsitequi.</p>
+    <p>Teoncameetsatejiincantashiteeavincatsaritee:"Teavironoshaninca."Aisatiteoncameetsatejiincantee:"Eironoshinetimpitsipishanincateariitsipapeeatiri."</p>
+  </li>
+  <li>
+    <p>Arioricairantearitaqueshirampariaisatitsinane,oshinetacairayeaisatiocameetsatiintimeitomipee.Teoncameetsatejiincanteeteri:"Tepishanincatenaji:eiropai;onashitapiquemisantiri:eiropai."Irointitsinaneomoncarataquerishirampari.Opincatsatacairosati:oshinetacaoncanterishirampariocoaquericaayeri;aisati,arioricaairiomoncarataqueri,aisatioshinetacaoncanteocoaquericaojocajeri.</p>
+    <p>Tericaincoyeshirampariiraye,aisatitericaoncoyetsinaneaye,teoncameetsatejiimperanayeeteariiraavacaajeitea.</p>
+    <p>Ocameetsatiavamejeiteriatomipeeamejeitariaisatiavamejeiteriirantapiniterocameetsatatsiri.Eiroricaavametasanotiricameetsa,eiroyaacameetsatavacaajeitatsiashanincapee.</p>
+  </li>
+  <li>
+    <p>Ocameetsatiirashitaaranteamaaroniatiri.Ocameetsatiirashitearoapaniro,aisatiincoaquericaincarajeiteriitsipapeeirashijeitearomaaroni.</p>
+    <p>Teoncameetsatejiiraapitsayeeteriirovararo.</p>
+  </li>
+  <li>
+    <p>Ocameetsatianquenqueshireteropaitapeericaacoajeitiri,aisatiocameetsatianquemisante,ancoaquerica.Teoncameetsatejiinquishimenteeroavincatsarite.Ancoaquericaavashiniajeroaquemisantiri,aisatioshinetaca.Ocameetsatiamajeiteroapaniro,aisatiocameetsatiancarajeiterimaaroniashanincapeeamajeitantearori.Ocameetsatiavamejeiteriitsipapee,aisatiantayeteroicoacayeeriAtasorentsite.</p>
+  </li>
+  <li>
+    <p>Ocameetsatianquenqueshireteropaitapeericaacoayetiriaisatiancamanteriitsipapee;teoncameetsatejiinquishimenteeteero.Ocameetsatiavamejeiteriaisatisavicajeitatsiripashinipeequiquipatsi.</p>
+  </li>
+  <li>
+    <p>Ocameetsatiampatojeiteaavametavacaajeitanteari.Teocameetsatejiintsaneemparo.</p>
+    <p>Tericaancoye,teoncameetsatejiincanteetee:"Jeriyocapincarajeitapiniteri."</p>
+  </li>
+  <li>
+    <p>Ocameetsatiancamanteriavincatsaritepaitaricaacoajeitiriirantayeteri.Arioricaancamantasanoteriarori:tericaaneeriarori,ancoyeaqueriashaninca,antianqueriincamanteriiriori.</p>
+    <p>Teoncameetsatejiincanteetee:"Tepincameetsateji,tecatsipincanteapamitacoteriavincatsarite."</p>
+    <p>Teoncameetsátejiimpincatsatashiteaavincatsaritepee,irointiocameetsatiancoyeajeiteripincatsariventajeitaqueeri.Ocameetsatiirishinejeiteeampiitapiniteroancantejanicaricaacoaqueimpincatsariventajeitee.Ocameetsatiasanquenatero,teoncameetsatejiiriotepincatsarijanicaricacaaricoatsiimpincatsaritajeaisati:tempaiquishiricari.</p>
+  </li>
+  <li>
+    <p>Ocameetsatiiraacameetsatavacaajeiteamaaronisavicajeitatsiriiipatsitequi,teoncameetsatejiirashinoncaajeiteaaparopee.Timatsicoiteimojeiteeri:avari,avararo;acoajeitaqueashanincapeeaácameetsateeri;acoajeitaqueaisatiamayeteroamejeitacari.Teoncameetsatejiintsaneemparo.</p>
+  </li>
+  <li>
+    <p>Ocameetsationtimejaocaricaantaroajaterioncanteataamanantantearoricoiteimoteeri.Ocameetsatiantaroajatejaocaricaacoiri;teoncameetsatejiincamanteeitsipapeepaitaricaantayeterl.Teoncameetsatejiaisatiiroashiventacaajeiteeyoratsameetacayeeri.Teoncameetsatejiaisatiincantajeitee:"Eiropitsameetitsi."</p>
+    <p>Arioricaamoncarataqueriitsipapeeantaroajataque,ocameetsatiirimoncarataqueaquireiquiimpinayeeteeri.</p>
+    <p>Arioricaantaroajate,ocameetsatiimpinatasanojeiteeyoraataroajatinirioncanteataeiroashinoncatsi.Aisatiteancoyejiashinoncayeaajinaaisatiatomipee.Arioricaashinoncaavetea,ariocameetsatiincavintsayeeitsipapee.</p>
+    <p>Ancoaquerica,ocameetsatiancarajeiteriitsipapeetaroajatiniririavatoroteancamantajeiteripaitaacoajeitiri.Arioricaamitacotavacaajeiteainquemisantajeitee,impajeiteemaaroniirevijeitaqueeri.</p>
+  </li>
+  <li>
+    <p>Ocameetsatiirishinejeiteeavatoroteamaoreapinite.Teoncameetsatejiintsameetacaapinijeiteeosamani.Cameetsairishinejeiteeamaoreajeiteaparopeequitaiterifiesta,aisatiimpinajeiteeoquempetacaataroajataque.</p>
+  </li>
+  <li>
+    <p>Tempaacoajeitaqueavari,aitsaare,avancoaisatiaavintarontsi.Arioricaantsameeteneriavatoroteocameetsatiimpinateequireiquiamanantantearorimaaronicoiteimojeiteeri,aisaticoiteimotiroriajinaaisatiatomipee.Aisatitericaamateroantaroajate,aisatiarioricaanteashipatanaqueoncameetsateontimecoiteimoteeri.Aisatiocameetsationtimecoiteimoteroricamajimentaaroiroori.</p>
+    <p>Ocameetsatiancavintsaasanoterotsinanetimatsiriotomipee,aisatiocameetsatincavintsaasanoteriirijaniquipee,maaroni.Irinticavintsaasanojeiterineriishanincapeeiriori.</p>
+  </li>
+  <li>
+    <p>Ocameetsationtimeirishitoriatantearimaaroniatiripee.Arioricainqueeprimaria,jeroaisatisegundaria,teoncameetsatejiimpinateroinqueanteariescoera.Ocameetsatiaisatiimperanayeeteariinquee,teoncameetsatejiirisoquijayeevancaripee.Ocameetsationtimepashinipeeescoerairiotanteariashanincapeemecanico,agropecuaria,paitapeerica.Ocameetsationtimeaisatiuniversidadinqueantearimatasanotirorisanquenarentsi.Arioricaimpinateroirointiyoraqueajeitatsiri.</p>
+    <p>Ocameetsatiavamejeiteriqueajeitatsiriescoeraquiintimajeitecameetsa,incavintsaajeiteriitsipapeeaisatiirishineteriitsipapeeintimecameetsa.Tempaocameetsatiancavintsaajeiteriitsipapee,aacameetsajeiteri.Eiroaquisashitaritsiponeacharipashiniquiquipatsi,neanatantaroriotsipapeeneantsi.Aisatieiroaquisashiyetaritsinashitachariimeshina,aisatiyoracaariquempejeiteeneiquemisanti.Ocameetsatiamitacojeiterimaaroniatiriaacameetsatavacaajeitea,antimajeiteCameetsa.</p>
+    <p>Yoraashitaririitomipeeiriocantatsinerijaocaricaintianqueriitomipeeinqueanteariescoera.</p>
+  </li>
+  <li>
+    <p>Oshinetacairantajeiteromaaroniocayantayetiriishanincapee.Teoncameetsatejintsaneempari.Ocameetsatiiriveshireimentearotimayetatsiriinampiqui:escoera,campo,iroane,maaroni.</p>
+    <p>Arioricairovetsiqueroashanincapeepaitarica,aisatiarioricairisanquenateropaitarica,tempairiotaqueashitarori.Incoaquerica,ocameetsatiimpimantero;teoncameetsatejiincoshiyeeteri.</p>
+  </li>
+  <li>
+    <p>Ocameetsatiirishinejeiteeroavincatsaritepeeocaasanquenatacotaqueri;teoncameetsatejiintsaneapitsateero.</p>
+  </li>
+  <li>
+    <p>Arioricaancoaqueantimajeitecameetsa,eiroacantashitapinitariitsipapeeincavintsaajeitee,aisatiiramitacojeitee.Irointiocameetsatiancavintsaajeiteriiriori,amitacojeiteri.Impoijiqueaantimajeitecameetsa.</p>
+    <p>Otimioshequicameetsayetatsiriasanquenatacotaqueri.Ocameetsatiamayeteroocaacoajeitiriaisatiamejeitacarica.1rocantainchateoncameetsatejiantsaneaqueariocaicoajeitaqueriitsipapee.Yorapincatsariaisatiyoracovaririaaisatiyorajoeshiincamantajeiteepaitaricaantajeiterioncanteataeiroashereiritsiitsipapee,aisationcanteataeiroavashinoncairitsi.</p>
+    <p>Ocameetsatimaaroniocaashinejeitiriitsipapee,irocantainchateoncameetsatejiiranterocaariacoacaajeitaqueriricamaaroniatiripee.</p>
+  </li>
+  <li>
+    <p>Ocameetsatiamoncarajeiteromaaroniasanquenajeitaqueriaca.Teoncameetsatejiintsaneapitsajeiteeroavincatsaritepeeaisatiashanincapee.Ocameetsatiashinejeiterimaaroniatiriirisavicajeitecameetsa.</p>
+  </li>
+</ol>

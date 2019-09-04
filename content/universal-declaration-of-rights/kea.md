@@ -1,0 +1,121 @@
+<h1 align='center'>Declaraçon di mundo intêro di Dréto di tudo homi co tudo mudjer</h1>
+<h2 align='center'>Primêro Comberso</h2>
+<p align='center'>Nu ta considrâ qui, riconhecimento di dignidadi qui ta fazê parti di tudo membro di família humano e di sês drêto qui ê igual e qui nu ca podê squecê, nem ficâ separado di el, ê fundamento di liberdadi, di justiça e di paz di riba di ês mundo;
+Nu ta considrâ qui, disconhecimento e disprezo di drêto di tudo homi e di tudo mudjer lêbanu pa fazê cusas di rundade qui bem raboltâ concença di tudo Humanidadi. Nu sa ta spèrâ pa tchigâ um mundo undi tudo ser humano ta bem podê ser libri di podê papiâ e di crêditâ, liberto di terror e sim medo di pássâ fomi e di miséria. Tudo ês cusa bem ta ser porclamado cuma um inspiraçon muto importanti pâ nôs tudo: pâ homi e pâ mudjer.
+Nu ta considrâ qui ê essencial quel porteçon di drêto di homi e di mudjer dento di um rigimi di drêto, pamodi ês ca bem ta ser impurrado, num ricurso supremo, pâ bai pa ribolta contra tirania e opresson.
+Nu ta considrâ quiê essencial si nu bem incorája quel disenvolvimemto di relaçon di amizadi di naçon co naçon.
+Nu ta considrâ qui, naquel Carta, tudo pôbo di "Naçon Unido" ta porclama, ôto bez, qui eres tem fé na drêto fundamental di homi e di mudjer, na dignidadi e na valor de tudo péssoa humano, na igualdadi di drêto di homi e di mudjer, e ês diclara cuma ês sta resolvido pa bai favorecê purgresso social e eres sa ta bai ránjâ midjor condiçon di bida di pa dénto di muto más liberdadi.
+Nu ta considrâ qui tudo Estado membro dês grupo ta compromête pa pormovê na cooperaçon co Organizaçon di Naçon Unido, quel ruspêto universal e efectivo di drêto e di liberdadi fundamental.
+Nu ta considrâ qui um concepçon comum di êssi drêto e liberdadi ê di muto más importança pa podê dâ completo satisfaçon pa essi compromisso.
+Assembleia Geral Nês Assembleia eres ta porclama qui, quel Declaraçon Universal di Dreto di Homi (homi ô mudjer) cuma um ideal comun pa tchiga na tudo pobo e na tudo naçon, pamódi qui, tudo individu e tudo orgão di sociedadi, si ês tenê el constantimenti na sprito, ês debê sforçâ pa, na ensino e na educaçon, ês podi bem disenvolvê ruspêto dês drêto e liberdadi e eres, podi pormovê, co midida porgressive di ordi nacional e internacional, sê reconhecimento e sê aplicaçon universal e efective, tanto na meio di populaçon di própi estado membro cuma naquêl di tudo territóri colocado debaixo di sês jurisdiçon.</p>
+<ol>
+  <li>
+    <p>Tudoserhumanonaêsmundonacêlibrieigualnasêdignidadeenasêsdrêto.Nasêsrazonenasêsconcénça,tudoarguemdebêporcêdêpacotudoguentinaspritodifraternidadi.</p>
+  </li>
+  <li>
+    <p>TudoserhumanonaêsmundopodiinvocâdidrêtoediliberdadiquisataserporclamadonêsDeclaraçonli,semdistinçonalgumdiôto,nomeadamenti,diraça,dicor,sielêhomiômudjer,sieltemôtolingua,direligionôdiôtocrença,diopinionpolítica,ôôtoli,diorijanacionalôsocial,difortuna,diundiênacêôdicalquerôtosituaçon.Dispôsdissotudo,ninguêmcapodêbemfazêningumdistinçonfundamentadonastatutopolítico,nacusasditribunalquitatchomádo"jurídico",ôinternacional,dipaísôdinaçonundibunacê,nimquiessenaçonôterritóriodinaturalidadedesspéssoamésmoquiessipaísstâindipendenti,ôstâdibaxodiordidiôto,ôsielstâlibreôdibaxodialgumlimitaçõndiaôtoridadi,quinupodêtchomal"disoberania".</p>
+  </li>
+  <li>
+    <p>Tudoarguémtemdrêtodisêbida,ditemliberdadie,temditemsigurançadielprópri.</p>
+  </li>
+  <li>
+    <p>Ninguêmalpodêficâscraboônacatibêro;ficâscraboôtrátodiscraboêcapirmitido,dicalquermanêraquibemtaser.</p>
+  </li>
+  <li>
+    <p>Ninguêmcapodêbemsertorturadoninpodêtemcastigo,ôbemtemtratamentodibrutalidadi,tratamentohorriveoudidisonra.</p>
+  </li>
+  <li>
+    <p>TudohomidiDeustemdrêtodiserconchidonatudolugardisêprópripéssoadjustotambênacusasditribunal.</p>
+  </li>
+  <li>
+    <p>Tudonôséigualdiantedileie,semdistinçon,nutemdrêtopaigualporteçonpaserdifendidodentodilei.Tudonôstemdrêtodibemserportegidodimesmamanêra,dicalquerdiscriminaçonquepodêbemalterâèsDeclaraçondiquinusatâflâecontracalquerfomentaçonpafazêèsdiscriminaçon.</p>
+  </li>
+  <li>
+    <p>Tudoguentitemdrêtoparicursoefectivodiquêxanajurisdiçonnacionalcompitenti,ditudocusaquêsabêquitâviolânôsdrêtoquitemmásfundamentoequiéreconhecidonaleiônaConstituiçon.</p>
+  </li>
+  <li>
+    <p>Ninguêmpodê,dicalquermanêra,baisêrlebádopaprison,ôficânaprison,ôsermandadodicastigopalongedisêtéra.(Escusaliêtatchomadodi"exílio").</p>
+  </li>
+  <li>
+    <p>Tudopéssoatemdrêto,porigual,quisêcausabemtaserjudiciadonaigualdadeepublicamentijulgadonumtribunalindipendentiejustoquitabemdicididisêsdrêtoedisêsobrigaçonôdirazondicalqueracusaçonnaassuntoditribunalquiêsbempôcontrael.</p>
+  </li>
+  <li>
+    <p>Tudoarguêmquitabemserpontádodiumacçondiculpa,nutemquipensaquelstânôcentitóquisiculpabemficâsclarecidodéntodileinaandamentodiumporcessopúblicounditudogarantianecessáriodidifésadebêbemsergarantidopâel.</p>
+    <p>Ninguêmalpodesercondenadoporacçonôporomisson,sinaoccasionqueltafazêbael,tudoescusacaeraproibidodéntodileidisitéraôdileiinternacional.Dimesmamanêraumdjuizcapodêsentenciâcastigomáspêsadodiquêlquediviadisernahoraquiqueldelitobabataserfêto.</p>
+  </li>
+  <li>
+    <p>Ninguêmpodêsofrêdiintromissonarbitrárionasêbidadielprópi,nadisêfamilia,nadomiciliodisel,ônasêcartadicorreio,nimelcapodêsertacádonasihonraereputaçon.Ninguêmalpôditemintromissonarbitrárionasibidadielprópi,nasifamilia,nasicasaônacartadiselquibemdicorreio,eninguêmpodêflâmaldihonraereputaçondicadaum.Contratudoèsintromissonôataqui,tudoarguêmtemdrêtodiserportegidopalei.</p>
+  </li>
+  <li>
+    <p>Tudoarguêmtemdrêtodiàndâpâtudolado,ediscôdjêsicasapamorâdentodiumEstado.</p>
+    <p>Tudoarguêmtemdrêtodibandônâcalquertéraundiquêstâ,mesmosiêundiênacê,eeltemdrêtodiboltaparasitéracandoelcrê.</p>
+  </li>
+  <li>
+    <p>Tudopéssoaquisataserpersiguidotemdrêtodiporcurâedibenificiâdiasilonaôtosnaçon.</p>
+    <p>Êsdrêtolicapodê,contudo,baitaserinvocádonacasodialgumporcesso,quielrealmentitemequidjatemcrimididrêtocomumôdiactividadicontráriodifinalidadeedilicercediNaçonUnido.</p>
+  </li>
+  <li>
+    <p>Tudoindividetemdrêtoditemsênacionalidadi.</p>
+    <p>Ninguêmcapodêser,arbitràriamenti,privadodisênacionalidadinimdidrêtodimudâdinacionalidadi.</p>
+  </li>
+  <li>
+    <p>Apartirdiidadinòváti,tudohomicotudomudjertemdrêtodicásaediconstruísêfamíliasemlimitaçonnimdiraça,nacionalidadiôreligion.To-quidurâcasamentoenahoradisêseparaçonêsdôstemigualdrêto.</p>
+    <p>Casamentocapodêsercèlèbradosemlibieplenoconsentimentodiquêsquisatabaisermaridoemudjernafutur.</p>
+    <p>FamíliaêumelementonaturalefundamentalnumsociedadieeltemdrêtodiserportegidodisociedadiediEstado.</p>
+  </li>
+  <li>
+    <p>Tudopéssoa,individualôjuntamenti,temdrêtoditemsêpropriedade.</p>
+    <p>Ninguêmpodibemtaser,arbitràriamenti,privadodisêpropriedade.</p>
+  </li>
+  <li>
+    <p>Tudopéssoatemdrêtoditemliberdadidipensamento,diconcénçaedireligion;êsdrêtolitaimplicâliberdadidimudâdiriligionôdiconvicçon,asicumâquelliberdadidimaniféstâsêreligionôsêconvicçon,sielstâsó,elcoel,ôcôôtos,tantonameiodipúblicoôemparticular,naquêtafazêsempri,tudodia,nasêreligionenaquêlqui,naPortugal,êstatchomâ"ritos".</p>
+  </li>
+  <li>
+    <p>Tudoindividetemdrêtoditemliberdadidiopinionedipapiâ,simporblema;assieltemdrêtodicaserincomodadoporcausadisêsopinioneelpôdêporcurâricebêespádjâ,semconsideraçondifrontêra,calquerinformaçoneidêa,dicalquermodoquielcrêfazêêl.</p>
+  </li>
+  <li>
+    <p>Tudoarguêmtemdrêtonaliberdadidireunionediassociaçoncointençondipaz.</p>
+    <p>Ninguêmpodiserobrigadopafazêpartedicalquerassociaçon.</p>
+  </li>
+  <li>
+    <p>Tudopéssoatemdrêtodifazêpartinadireçondinegôcepúblicodisétéra,querdireitamentiôporintermédidirepresentantilibrementiescodjido.</p>
+    <p>Tudopéssoatemdrêtodientrânafunçonpúblicadisétéra,ôdisépaís.</p>
+    <p>Vontadidipôboêquellicércediôtoridadidipoderdipúblico;êdebemostráno-elcoeleiçonsérioquitabemserfêto,natempomarcado,porvotaçongeralnacondiçondiigualdadicovotosicretoôsi-ma-djaumprocessoequivalentipodigarantiliberdadidivoto.</p>
+  </li>
+  <li>
+    <p>Tudoguenti,quiêmomdiumsociedádi,temdrêtopâtemsegurançasocialeelpôdê,déntodilei,comtudoligitimidade,exigisatisfaçondisêsdrêtoeconomiconasociedádiediculturaindispensave,graçaquinutemquidânaesforçonacionalenacooperaçoninternacional,diharmoniacoorganizaçonecorecursodicadapaís.</p>
+  </li>
+  <li>
+    <p>Tudoguentitemditemtrabadjo,dipodêscodjêsêtrabadjo,cocondiçonigualequipodêsatisfazêlnatrabadjoeelpodêtemproteçoncontrafaltaditrabadjo.(disemprego)</p>
+    <p>Tudoarguêmtemdrêto,simdiscriminaçonninhum,pâtemsaláriodiharmoniacosêtrabadjo.Salárioigualpatrabadjoigual.</p>
+    <p>Quemquitrabadjatemdrêtoditemremuneraçonequitativoesatisfatóriopapodêpirmitipaelepâsêfamíliaumexistençaconformicodignidadihumanoe,completado,siforpossive,cotudoôtomeiodiporteçonsocial.</p>
+    <p>Tudopéssoatemdrêtodifundâcoôtospéssoa,quelsindicato,edibemfiliânasindicatoquitabemdifendisêsinteressi.</p>
+  </li>
+  <li>
+    <p>Tudopéssoatemdrêtopâdiscansaepasêlazere,naturalmente,êtemlimitaçonquinutacêta,quiêqueldiduraçonditrabadjoediféria,quiêstemobrigaçondipagano.</p>
+  </li>
+  <li>
+    <p>Tudopéssoatemdrêtopatemumcondiçondibidasuficientipadalsigurançapâêlepâfamília,nasaúdeenalarguéza,principalmentinaquinutacumé,nanôsrôpa,patemundielpodêalôjâarguêm,pasersistidopâdôtoretambênaserviçosocialnecessáre,eêtemdrêtonasigurançasocialsielstasimtrabadjo,tambênadoénça,eindanaquelquiêestropiado,quicâtemmarido,quistânabedjiça,ônôtoscaso,diperdêmanêraditemmeiodisubsistença,porcusaquipodêserindipendentidisêvontade.</p>
+    <p>Maternidadeeinfançatemdrêtoditemdjudaediseramparadocomutocudado.Tudomininoquinacêdéntoôforadicasamento,tagozadimésmoporteçonsocial.</p>
+  </li>
+  <li>
+    <p>Tudopéssoatemdrêtopatemeducaçon.Educaçondébêdiserdigraça,pelomenosquelquiêparcêdocoqueldiscólaelementarfundamental.Quelscolaelementarêobrigatóre.Enesscólatécnicaeprofissionaldêbêdiserpatudocriançasemdistinçon;panuèntrânumscólasuperior,eldèbèstâabertopâtudoguentiporiguale,segundosêscapacidadiesêsmerecimento.</p>
+    <p>EducaçondebêpontâpaespádjâumcompletoexpansondipersonalidadiditudohomicotudomudjerepareforçâdrêtoeliberdadifundamentalditudohomicotudomudjerediliberdadidimásfundamentoeêdebêdjudapanucompreendêmidjorqueltolerânciaeamizadidinaçonconaçoneditudogruporacialoudiriligioncomotambêquelcrescimentodiactividadidiNaçonUnidopaconserbâpaz.</p>
+    <p>Paicomaitemprioridadiditemdrêtopascodjêcalquereducaçonpâdâsêsfidjoôfidja.</p>
+  </li>
+  <li>
+    <p>Tudopessoatemdrêtoditomâ,partilibrimenti,nabidaculturaldicomunidadi,digozâtudoarteediparticipânaporgréssdiciençaenabenéficequipodêresultaditudoêscusali.</p>
+    <p>Tudoguentitemdrêtodiserportegidonasêinteressemoralematerialquipodêstâligadonacalquerproduçãodicusasdeciença,diescritaoudiartedisêlavra.</p>
+  </li>
+  <li>
+    <p>Tudopéssoatemdrêtopâbempô,naplanosocialenaplanointernacional,umórdiquipodêsercapazditornâcompletamenteefectivotudodrêtoeliberdadiquinucabàdiflânêsDeclaraçonli.</p>
+  </li>
+  <li>
+    <p>Umpéssoatemobrigaçonpâcosêcomunidade,foradiondeêcatempossibilidadiditemquellibriecompletodesenvolvimentodisêpersonalidadi.</p>
+    <p>Naexercicedessidrêtoecandoétagozâessiliberdadi,ninguêmpodêficadipendenti,sinaunaquellimitaçonfêtoeestabilicido,exclusivamentipafazêpormoçondireconhecimentoequelrespêtodidrêtoeliberdadidiôtosguentipâpodêsatisfazêquêsexigençajustodimôral,diordipúblicaedibem-estarnumsociedadidemocrata.</p>
+    <p>EmninhumcasoessidrêtoeliberdaditabempodêserexercidoemcontráriodifimediprincíposdiNaçonUnido.</p>
+  </li>
+  <li>
+    <p>NingumdisposiçondiêssDeclaraçonli,podêbemtaserintendidodiummanêraquipodêbeminvolvêpacalquerEstado,grupodiguenteôumsôpéssoa,queldrêtodibemfazêcalqueractividadeôdiparticâalgumcusaquipodêbemdestroncâdrêtoeliberdadiquinusatâcabâdiflâ.</p>
+  </li>
+</ol>

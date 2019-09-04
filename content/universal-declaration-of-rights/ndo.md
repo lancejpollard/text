@@ -1,0 +1,121 @@
+<h1 align='center'>OMUSHANGWA GWAAYEHE GUUTHEMBA WOMUNTU</h1>
+<h2 align='center'>Oohaputetekeli</h2>
+<p align='center'>Uuna mpoka pwa taambwa ko esimano lyomuntu pavalo nuuthikepamwe osho wo uuthemba wopaumwene waantu ayehe yomezimo lyuuntu ogwo omukanka gwemanguluko, uuyuki nombili muuyuni.
+Uuna mpoka uuthemba womuntu inaau simanekwa nowa dhinika e tau tanaukile monkalo yuupwidhi mboka tau yono po eiuvo lyuuntu nonkalo moka aantu taa ka nyanyukilwa nokukala ye na emanguluko lyokupopya neitaalo osho wo emanguluko kuutile nokoompumbwe ongoshilalakanenwa sha simana shaantu ayehe.
+Uuna mpoka sha pumbiwa opo omuntu kaa thiminikwe a hogolole ongonkatu yahugunina opo a ninge oshipotha mokukondjitha uuhepeki nethiminiko, opo uuthemba wuuntu wu gamenwe pampango.
+Uuna mpoka sha pumbiwa okuhumitha komeho ekoko Iyekwatathano Iyopankalathano ewanawa pokati kiigwana.
+Uuna aantu yIigwanahangano mEkotampango yu ulika einekelo Iyawo muuthemba womuntu, mondilo nomondjundo yuuntu womuntu nuuthikepamwe wuuthemba waakiintu naalumentu noya tokola okuhumitha komeho eputuko Iyopankalathano osho wo omuthika omwaanawa gwonkalamwenyo memanguluko Iya andjagana.
+Uuna Iilyo yIilongo ya uvuneka kutya oya adha mekwatathano nIigwanahangano ehumithokomeho Iyaayehe Iyuuthemba womuntu osho wo ekota Iyemanguluko.
+Uuna mpoka pe na euvoko Iyuuthemba mbuka nemanguluko nena osha simana noonkondo nosho egwanitho Iyeuvaneko.
+Onkene Omutumba gwAayehe gwligwanahangano ogwa tokola Omushangwa nguka gwAayehe gUuthemba wOmuntu gu kale omuthika tagu lalakanenwa kaantu ayehe monkalathano ayihe, mokudhimbulukwa aluhe Omushangwa nguka nokulalakanena okulonga nokuputudha opo ku simanekwe uuthemba nemanguluko moonkatu dha huma komeho, dhopashigwana nodhomuuyuni opo ku shilipalekwe nokutulwe miilonga mokati kaantu ylilongo mbyoka yi li iilyo osho wo maantu yiilongo yilwe kohi yomapangelo gawo.</p>
+<ol>
+  <li>
+    <p>Aantuayeheoyavalwayenaemangulukonoyenaondiloyithikepamweoshowouuthemba.Oyenaomaipulogoondungeneiuvoonkenenaakalathanemombepoyuumwainathana.</p>
+  </li>
+  <li>
+    <p>OmuntukeheokunaomauthembanemangulukondyokaIyatumbulwamOmushangwangukanopwaanaondjoololayashangashiomuhoko,olwaala,uundume,elaka,elongelokalunga,opolotikanengeomadhiladhilogalwegopashigwananengegopankalathano,geliko,gevalonengegomuthikamonkalathano.Isheweitakuningwaondjoololayopapolitika,yepangelondyokatalimupangelenengeomuthikagwegwopaigwananengepehalaIyanakukala,ngeleokulikuyemwene,metonateloIyagulweitiipangelenengeelipehalaangambekelwapo.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunauuthembawomwenyo,emangulukonegamenoIyuuntu.</p>
+  </li>
+  <li>
+    <p>Kapenanandoomuntuenaokuningwaomupikanengeakalemuupika;uupikanelandithoIyaapikaolyakeelelwapamikaloadhihe.</p>
+  </li>
+  <li>
+    <p>Hamuntutahepekwanengeomahepekogontumbageshunduloomawinayi.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunauuthembawokutaambwakokehempokaongomuntukomehogoveta.</p>
+  </li>
+  <li>
+    <p>Aantuayeheoyethikepamwekomehogovetanoyenaokugamenwashithikepamwenopwaanaokatongokoveta.AyeheoyethikepamwemokugamenwakokatongokehehokatakayonoOmushangwahokololongukaoshowoomahongaidhokehegokatongo.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunauuthembawokugwanithilwapo(remedy)kohofayinaedhinaewanawauunauuthembawembokawulimekotampangonengemovetatauyonwa.</p>
+  </li>
+  <li>
+    <p>Hamuntutakwatwaowalanengeteedhililwanengetayimuupongekwapwaanaomatompelo.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunauuthembawuuthikepamwewokupulakenwamontanehokohofayaanambinga,mokuuthauuthembaweniinakugwanithwayenoshowoomapanguloagehetagemuningilwa.</p>
+  </li>
+  <li>
+    <p>Kehegumwetapewaombedhiomolweyonookunauuthembaokutalikakoongomukeenandjosigouunandokashamonikakutyaolcunaondjopavetanopapangulolyomontanehompokaenaeethelolyomakwathoagehegokumugamena.</p>
+    <p>Kapenanandoomuntuenaokweedhililwapwaanaetompelolyopavetayomoshilongonengeyopaigwana,pethimbondyokaeyonoIyaningwa.Noitaakugandjwawoegeelolivuleeyono.</p>
+  </li>
+  <li>
+    <p>Inashipitikwaokwiidhopamiinimayopaumwene,yomezimo,yomegumbonengeyomoontumwafo,nengeokushundulaedhinaIye.Omuntukeheokunauuthembawokugamenwakovetakomaidhopomonengeomahindogatyangaaka.</p>
+  </li>
+  <li>
+    <p>OmuntukeheokunauuthembawemangulukoIyokweendanokukalamenilyoongambadhoshilongoshokaeli.</p>
+    <p>Omuntukeheokunauuthembawokuthigapooshilongokehe,mwakwatelelwashe,nokugalukilakoshilongoshe.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunauuthembawokukonganokweedhililwamoshilongoshilweopokaahepekwe.</p>
+    <p>UuthembambukainaudhimbulukiwauunaomuntutapewaegeelokaalinashaneyonoIyopapolitikanengekeyon'oIyaanashanelalakanonomakankamenogIigwanahangano.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunauuthembawuukwashigwana.</p>
+    <p>Kapenanandoomuntuenaokutindilwauukwashilongowenengeokulundululauukwashigwanawe.</p>
+  </li>
+  <li>
+    <p>Aalumentunaakiintuyomimvodhagwanapo,nopwaanaengambekoomolwomalwaalagawo,uukwamuhokonengeelongelokalungaoyenauuthembawokuhokananokuningaegumbo.Oyenauuthembawuuthikepamweuunataayimoondjokana,uunayelimonuunatayitekapo.</p>
+    <p>OndjokanaotayiningwaashikeneziminoIyamangulukanolyuudhaIyaaihomboli.</p>
+    <p>Ezimo(fimily)olyooshinimashesikukeheshomonkalathanonoshinauuthembawokugamenwakonkalathanonepangelo.</p>
+  </li>
+  <li>
+    <p>OmuntukeheokunauuthembawokukalanelikoIyemweneoshowookukalamokatikayalwe.</p>
+    <p>HamuntutakuthwaelikoIye.</p>
+  </li>
+  <li>
+    <p>OmuntukeheokunauuthembawemangulukoIyomadhiladhiloneiuvooshowoelongelokalunga;uuthembambukaowakwatelelamoemangulukoIyokulundululaelongelokalunganengeeitaalo,oshowoemangulukopaumwenenengepangundunayalwemontanehonengepaumweneokuhololaeitaalolyepakulonga,pakutulamiiloganengeokuningaelongelokalunga.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunauuthembawomadhiladhilonokugapopyamo;uuthembambukaowakwatelelamoemangulukookukalanomadhiladhilogontumbanopwaanaetompakanitho,oshowookupewanokugandjauuyelelenomadhiladhilotadhiziililemiikundanekiyoludhikehe.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunauuthembawokuningaiigongimombilinekwatathanonaantu.</p>
+    <p>HamuntutathiminikwaopoayemehanganoIyontumba.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunauuthembawokulongamepangelolyoshilongoshawo,paukililonengepahololoIyamanguluka.</p>
+    <p>Omuntukeheokunauuthembawokukwathelashithikepamwekomayakulogepangelogomoshilongoshe.</p>
+    <p>EhaloIyaantuolyotalikalaomukankagwepangeloIyepangelo;ndikaotaliulikwapokathimbonokathimbomehogololoIyoshilindyokaIyaayehetaliningwapaumbapilawomeholamonengepamukalogwafaathanagwamanguluka.</p>
+  </li>
+  <li>
+    <p>Omuntukehe,okunauuthembawomafutilongeleokwakulupanengeamonaoshipongamoshilongoshenengepaigwanashinashanehanganonengenoonzadhoshilongo,nekonomi,nonkalathanonomithigululwakalombokaitaavuluokukalakeewunaomolwondiloyenekokoIyeIyamangulukaIyuuntuwe.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunauuthembawokulonga,okukongaiilongamemanguluko,okukalamonkaloombwanawayomiilonganegamenokokwaakalaniilonga.</p>
+    <p>Omuntukehe,pwaanaondjoolola,okunauuthembawokufutwashithikepamwepailongayithikepamwe.</p>
+    <p>OmuntukehengokahalongookunauuthembawohufutwapauyuukiopoavuleokwiihupithayemwenenegumboIyengashiomuntuenaokukalanokugwedhelwakoongegamenoIyomonkalathano.</p>
+    <p>OmuntukeheokunauuthembawokutotanokuningaoshilyoshehanganoIyaaniilongaopoagameneuuwanawawe.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunauuthembawokuvululukwa,oshowookulongaootundidhayelekanokukalaenaomafudhoyetafutwa.</p>
+  </li>
+  <li>
+    <p>OmuntukeheokunauuthembawomuthikaomwaanawagwonkalamwenyogwayelekauukolelenonkaloombwanawayemwenenoyaanegumboIye,mwakwatelelwaiikulya,iizalomwa,egumbonesiloshimpwiyuIyopaunamitioshowoomakwathogalwegopankalathano,oshowouuthembawokufutilwauunakeenaiilonga,taalukwa,alemana,asilwa,akulupanengekeenaweompitoyo-kwiihupitha.</p>
+    <p>Oomemenuunonaoyenauuthembawokusilwaoshimpwiyu.Aanonaayehe,kutyaoyavalwakondjeyondjokana,oyenaokusilwaoshimpwiyushithikepamwe.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunauuthembawokulongwa.Elongonalikaleandolaitaalifutilwapoongundudhopetameko.ElongoIyopetamekootalikalatalidhengele.ElongoIyuungombanolyeithanonagakalegeegulukilaayehenelongowoIyopombandanalikalewoIyeegulukilaayeheshinashanomuthika.</p>
+    <p>ElongootalikalalinaelalakanoIyekokoIyuuntuwuudhanokukolekaesimanekoIyuuthembawomuntunemanguluko.Otalikahumithakomehoetseyathano.eidhidhimikilathanonuukuuumepokatikiigwana,omihokonengeoongundudhomalongelokalunga.OtadhlkahumithakowoiilongayIigwanahanganoyokukalekapoombili.</p>
+    <p>AakuluntuoyenauuthembawokuhogololaoludhiIwelongondyokayahalaligandjwekaanonayawo.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunauuthembapamangulukookwiitulamiinimayomithigululwakaloyomomudhingolokogwe,okunyanyukilwaiilongayuunongonokupaathanaowinowuunongononinuuwanawawawo.</p>
+    <p>Omuntukeheokunauuthembawokugamenwakeihumbatooshowonaashokaaningayemwenekutyaneeoshopaunongononi,shopaunamambonengepailongayiikahauunaoyeelipoomuninginengeomushangi.</p>
+  </li>
+  <li>
+    <p>OmuntukeheokunauuthembawelandulathanoIyopankalathanonolyomuuyunimokauuthembanemangulukondyokaIyapopiwamOmushangwangukalinaokugwanithwa.</p>
+  </li>
+  <li>
+    <p>Omuntukeheokunaiinakugwanithwamonkalomokaelimomokaawikeuuntuwetauvuluokukokamemangulukonomegwaneno.</p>
+    <p>Mokulongithauuthembawenemanguluko,omuntukeheokunaokukalaenaoongambangashitadhiuthwakovetaopokugamenwenokusimanekweuuthembanemangulukoIyayalweoshowokugwanithweoompumbwe,elandulathanononkalonawayomonkalathanoyuudemokoli.</p>
+    <p>UuthembambukanemangulukoinautulwamiilongakondjeyelalakanonomakankamenogIigwanahangano.</p>
+  </li>
+  <li>
+    <p>InakutolokwanandoshameuvathanondikakutyaotashigandjauuthembakOshilongokehe,ogunduyaantuokugandjauuthembawashaokwiitulamiinimayinaelalakanoIyokuteyapouuthembawashanemangulukondyokaIyapopiwamuka.</p>
+  </li>
+</ol>

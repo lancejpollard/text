@@ -1,0 +1,121 @@
+<h1 align='center'>ALIMA NUNG ALIR MEIMCHIR AJAK ATEMA KASA TEMETEN SANGDONG</h1>
+<h2 align='center'>Okila</h2>
+<p align='center'>Kechiaseralima rangben nung nung nisung ka tim temeten aser kasa alitsüsa metentepa yutsübaji meimchir kibong ochi, nüji aser yimjung tamendakdak kimung lir,
+Kechiaser mezüng meshitepba, aitsütepba, mashimalu mapa inyakba, meimchir tim tejembitsü mejembidaktsüba, aser pei tebilemba rakpoka meshidaktsüba item ya ajanga meimchir nüji tia raksatsür,
+Kechiaserkodang anema apusoba aser oshi mashi rongsen benshirtemi nüburtem temeten aser nüji tia raksatsüdir, meimchir temeten ozüng ajanga itemji kümzüka ayutsüla,
+Kechiaser kintem tsüngda yimjung yangluba ajanga alima terenlok adokdaktsür, ibaji mapang ajak nung nungittsüla,
+Kechiaser United Nations Temzüng nung meimchir temeten aser nüjiba wazüka ayutsüba itemji lemteta alinung, tebur aser tetsür tsüngda tepila kecha malitsüla, saka ibai loktiliba tasen küma yanglushiba ajanga dang nüjibaji tongtettsü.
+Kechiaser United Nations nung adener ajaki ibaji atalokdakja inyaktsü nangzüktepogo, aser meimchir ka temeten aser nüibaji kümzüka ayutsü mulunga renemogo.
+Kechiaser iba tenangzükba takok ngudakja inyaktsübaji teinyaktsü tongtibangtiba ta ajaki anagtetogo,
+Anungji, tang, Lokti Inti Sendeni Alima rangben nung Meimchir Temeten ya takok ngua lokti aser kin ajak nung inyaktsü Sangdonger, iba Sangdong ya maneni temulung nung yur li maser lim atena or, terenlok mapa shisatsü sayuba ajanga angazükdakja, pei litsü atena oa inyaktsü sangdonger.</p>
+<ol>
+  <li>
+    <p>Meimchirajaktemetenasertashikasanüjinungasor.Parnokdakbilemtettsüshisatsüasertangatetbakasaagüjaalibajagikülemadianurongnungtanelakanunglungjemaalitsüla.</p>
+  </li>
+  <li>
+    <p>Ibasangdongnungkechitemetenshilemsaali,nisungsentsübalala,tetsürtebur,oshi,aseryamalaajaknungtelemsaasertebendangkechameliinisungshiatimtemetenkasaalitsü.Talisa,kintulutila,limeka,aserarrtsübalalaajaklennüjisotsütsütelemsakechamali.</p>
+  </li>
+  <li>
+    <p>Nisungajaksakusaalitsü,nüji,aserkümzükaalitsütemeten.</p>
+  </li>
+  <li>
+    <p>Nisungshingaalarmekümdaktsütsümesüraalartianungmayutsü,yamalamapaajaknunginisungajakkümzükaalitsü.</p>
+  </li>
+  <li>
+    <p>Nisungshingamemerenshidaktsütsü,msürayamalatalenbakübokmayutsü.</p>
+  </li>
+  <li>
+    <p>Tesemajaklennisungajakozüngtsüngdangtemetenkar.</p>
+  </li>
+  <li>
+    <p>Nisungajakozüngtsüngdangkasatemetenakabadangmasü,kasaozüngjagiajaksakusakümzükalir.IbaTelemtetbayaanemashingaiashingaanemameinyaktsüla,mesürakatikamezüngmeshimasütsüla.</p>
+  </li>
+  <li>
+    <p>Ozüngajangatemetenagüjaakabatashiküboknisungshiaozüngamshirtsüngdangtemzüngimelabaamapeitemetenashitsüakok.</p>
+  </li>
+  <li>
+    <p>Tashiyimamshiashingaiashingaaputsümakok,mesürabendanglimaiyoktsümakok.</p>
+  </li>
+  <li>
+    <p>Timmasübamaparenatemakarinisungkatemetenanemamesüratejakajiatimmasübamapainyakra,ozüngmetetertsüngdangpeitemetenratetaashitsümelaalir.</p>
+  </li>
+  <li>
+    <p>Ozünganemaaibelenogotashianüburtemmatsüngdangsangdongra,ozüngmeteterkarteyariagiapeitemetenindangratetamashitashinisungshingamerenshitsümakok</p>
+    <p>Kinkamesüraalimaajakkasaozüngnungmemetetiaibelenbamesürameinyakbaatemashingamerenshitsümakok.Mesürayamalaatemakhenmerenshirlira,ibadangtemabatemerenshiagütsütsümakok.</p>
+  </li>
+  <li>
+    <p>Kijataküm,kibongmesürakinungerkisüngatema,mesüranisungpeikijaatemakaritenüngmenükdaktsütsümakok.Nisungajakyamalamapatamajunganemakümzüktsüibaozüngdaktashilir.</p>
+  </li>
+  <li>
+    <p>Nisungshiapeilitsüaserartsümekütasenzütsütemetenkar.</p>
+    <p>Nisungshiapeilinüktoktsürbendanglimaiaotsü,aserpeimeyongbushiaarutsütemetenkar.</p>
+  </li>
+  <li>
+    <p>Rishikangshinungijembutsüatemabendanglimajenokaalitsünisungajaktemetenkar.</p>
+    <p>IbatashijirishikangshibamesürakinkaanemainyakbameliraUnitedNationstelemtetbaanemaamshitsümakok.</p>
+  </li>
+  <li>
+    <p>Nisungshiakinkasensoasütsütemetenkar.</p>
+    <p>Nisungkakinkasensojishingaianoktangtsümakok,mesürasensomelentsüatematenokdangbakechamalitsüla.</p>
+  </li>
+  <li>
+    <p>Teintettetsüraserteburtematemakibongakümtsütenokdangbakechamakai,tamangbayimsüsüaka,sentsübalalasüakatebendangmakaikibongkümaalitsü.Parnokjitemetenkasakibongakümtsüaserpilatsüakok.</p>
+    <p>Temulungertsüngdatenokdangbakechamakaiparnokkibongakümtsüla.</p>
+    <p>Kibongjiloktinungmezüngbubatentetbajilir,anungjiibaipeikinikümzükaayutsüla.</p>
+  </li>
+  <li>
+    <p>Rongsenmadakkijadaktashialitsü,aseranoloktidenakasalemsateptsütemetenalitsü.</p>
+    <p>Pirongsenmadakshingaiatashiyimagitekaamuoktsümakok.</p>
+  </li>
+  <li>
+    <p>Tamangbayimsüatemanisungshiapeipeiamangnübayimsüdakamangtsü,mesüramelenshiaamangtsüakok,ibailoktinungmesürakijatakümnungpeijurilatemetenkübokamangtsüaserkülemtsüakok.</p>
+  </li>
+  <li>
+    <p>Nisungshiakechijembinürtenokdangbakechamakaijembitsüakok.Idakitebilembamejangjungtepilemsateptsü,osangtemagizüktsüaseragütsütsütashialitsü.</p>
+  </li>
+  <li>
+    <p>Nisungajakloktisendenmesüramungdangnungtenokdangbamakaiadentsü.</p>
+    <p>Tashiyimagishingaiatelokkanungzüngsemkümdaktsütsümakok.</p>
+  </li>
+  <li>
+    <p>Peilimasorkarmapanungpeisasamesüraloktikartenüngnunginyaktsünisungajakkasatimshilemkar.</p>
+    <p>Peilimapublicmapaajaknunginyaktsünisungajaktemetenkar.</p>
+    <p>Nüburtemimulungtetbajigovernmentbangdakasütsü.Ibajiindangindangashimbamesüranüburtemimeyongnemajangashimtetbajialitsü.</p>
+  </li>
+  <li>
+    <p>Nisungshiapeistatenungrongsenketsüng,loktilibaasersobalibakümzükaalitsüatemapeilitsünungaserpeilitsüatenaoralibaloktiajaknungkijanüjisotentetajakdenkasatemetenalitsü.</p>
+  </li>
+  <li>
+    <p>Nisungajakpeimulungbaamamapainyaktsü,asermapamakartemnemtapetmapaagütsütsüatemawazükaayutsü.</p>
+    <p>Kasamapainyakbaatematahnungkechatelemdangmakaikasaagütsütsüla.</p>
+    <p>Nisungshiapeisasaaahzükaayubanungipeitakümaserkibongatematimtangutsüalibaajakangutsüla,nüngdaakraitemjiloktilibatemzüngozüngkübokwazükaayutsüla.</p>
+    <p>Peisasamulungtetbakümzükaayutsüatemamapainyakerloktitentetnungnisungajakadentsüakok.</p>
+  </li>
+  <li>
+    <p>Nisungshiapeitenzükbamapanungianizüngsükagitsü,mesüramapanungisodimapangtelemtetkaaagitsüakok,sakaaahzükaalibanungiitasenagütsütsüla.</p>
+  </li>
+  <li>
+    <p>Nisungshiapeitakümaserkibongnungalirtemtemangatemamozü,abensüoshi,chiyungtsüperiaakatsütemetenkar,itemjiloktitentetlatetkübok,mapamangurtem,shirangtimtem,matamabensartem,amitsür,asertainakümeratemawazükaaserperiaagütsütsüaserangutsütemetenkar.</p>
+    <p>Tanurasortetsüasertilatanurtembalakaanebalutsütemetenkar.Kibongkümerasobasüakakitachirtemsüakakasatemetenkar.</p>
+  </li>
+  <li>
+    <p>Nisungajakkaketshisatsüangazüktsütemetenkar.Classtilanungazüngtsüatemabokaketshisatsüjiangadiangazükdaktsütsüla.Peitenüngzülumetetakümdaktsütsübajiozüngsaangazükdaktsütsüla.Technicalmesüratemebajenjangnungkaketshisatsübushitsübajiajakatematajungtibajenjangajangzükaalirtemnungitenzükabushitsüakok.</p>
+    <p>Kaketshisatsüsayubanükjidongjinisungkapeitimtangazüktsükechiali,itemajakjiperiaangazükdaktsütsübajilir.Ibaiajangakinkidong,shilubalala,yimsübalalaamangertemrongnungteputepaseryimjungadokdaktsütsüUnitedNationsnükjidonglir.</p>
+    <p>Peichirnemkobalenmangnungtangazükbaagütsütsüajitsüraburatematongtibangmapalir.</p>
+  </li>
+  <li>
+    <p>Kinkapeisobalibadaksendakbamaparennungshilemagitsü,puyinajangaalimaterenlokbenerarutsübanungjinisungajaktemetenlir.</p>
+    <p>Peisasaapitetayangluba,zülubamesüramejemba,kobanungkijatashimekazükakar,itematematezülurtemetenkar.</p>
+  </li>
+  <li>
+    <p>IbatelemtetbaSangdongnungkechitashiasertemetenmelaaali,ibaküboksadokaalitsünisungajakkasatemetenkar.</p>
+  </li>
+  <li>
+    <p>Nisungshiapeialibaloktiterenlokatemateinyaktsükar,kechiaseribaloktijiajangadangpeitakümrenloktsüakok.</p>
+    <p>Peitemetenasernüjiyamajiliakaloktiteimbaimulungbanungnüburyimtenjiaorasünung,ibaloktitentetyimsüyimbongimelabaamaitemtemetenwazükaaserakhümtsübuaalitsüla.</p>
+    <p>ItemtemetenasernüjiyaUnitedNationsajangalatetaalibadenmesütepimeinyaktsüla.</p>
+  </li>
+  <li>
+    <p>IbaSangdongyaStatemesüra,lokti,mesürakijashingaiapeiajungasaameratettsüla,kechiaseribaSangdongyaajakatemakasatemetenasernüjiasoshinüklatajungyurlatetaayubalir.</p>
+  </li>
+</ol>

@@ -1,0 +1,122 @@
+<h1 align='center'>Muhimmin Jawabin da Majalisar Ɗinkin Duniya ta bayyana game da Hakkokin Ƴan-adam a shekarar 1948</h1>
+<h2 align='center'>Gabatarwa</h2>
+<p align='center'>Ganin cewa ‘yanci da adalci da zaman lafiya ba za su girku a duniya ba, sai in an amince da cewa: dukkan ‘yan-adam suna da mutunci, kuma suna da hakkoki na kowa daidai da na kowa, waɗanda ba za a iya ƙwace musu ba,
+Ganin cewa ba abin da ya sa aka aikata abubuwa irin na lokacin jahiliyya waɗanda ke tada hankalin duniya gaba-ɗaya, illa rashin sanin hakkokin ɗan-adam da rena su. Ganin kuma cewa an bayyana cewa: muhimmin gurin da ‘yan-adam suka sa gaba shi ne, bayan sun kuɓuta daga tsananin iko da wahala, kowa ya sami damar faɗin ra'ayinsa kuma ya sa rai ga abin da zuciyarsa ta saka masa,
+Ganin cewa ya kamata a kafa hukumomi waɗanda za su kula da kiyayewa da hakkokin ‘yan-adam, ta hanyar girka dokoki, domin kada tsananin iko da danniya su yi yawa har su kai mutane ga yin kara ko yin tawaye,
+Ganin cewa ya kamata a ƙarfafa aminci tsakanin ƙasashe,
+Ganin cewa a cikin usular (takardar sharuɗa) al'ummu, ƙasashen duniya sun sake nuna amincewarsu da muhimman hakkokin ‘yan-adam, da mutuncinsu, da darajar da waɗannan halittu suke da ita kuma a kan daidai-wa-daida ga namiji da mace, suka kuma ɗauki alkawalin yin ƙoƙari domin su kyautata wa ‘yan-adam jin daɗin rayuwa a cikin suna ƙara walawa da ‘yancinsu,
+Ganin cewa ƙasashen da Majalisar Ɗinkin Duniya ta ƙunsa sun ɗauki alkawalin cewa: tare da haɗin gwiwar Majalisar, za su tabbatar da abin da zai sa ko'ina a duniya a kiyaye da dukkan muhimman hakkokin ‘yan-adam da dukkan abubuwan da ‘yancinsu ya ƙunsa,
+Ganin cewa muhimmin abin da zai sa a cika wannan alkawali shi ne, dukkan ƙasashen duniya su zamanto da huska ɗaya za su hangi waɗannan hakkokin ‘yan-adam da abubuwan da ‘yancinsu ya ƙunsa,
+Majalisar Ɗinkin Duniya, a zaman taronta na gaba-ɗaya ta faɗi cewa:
+Abubuwan da wannan jawabi ya ƙunsa su zamanto gurin da dukkan al'ummu da ƙasashen duniya suka haɗu a kansa kuma suka yi ƙoƙarin cimma, domin kowane mutum da kowane sashen jama'a wanda yake da wannan jawabi a ka ko da wane lokaci, ya maida himma ta hanyar tsarin makarantu da tarbiyya domin a ƙarfafa kiyayewa da waɗannan hakkoki da dukkan abubuwan da ‘yancin ɗan-adam ya ƙunsa. Bayan haka a yi ƙoƙari ta hanyar ɗaukar matakai waɗanda za a rika ingantawa lokaci zuwa lokaci, kuma waɗanda za su shafi ƙasa ɗaya ko ƙasashe da yawa domin ko'ina a duniya jama'ar ƙasashen da Majalisar Ɗinkin Duniya ta ƙunsa da ta ƙasashen da ke ƙarƙashin mulkin waɗansu daga cikinsu ta karɓi wannan jawabi, ta kuma yi amfani da shi yadda ya kamata.</p>
+<ol>
+  <li>
+    <p>Sudai‘yan-adam,anahaifuwarsuneduka‘yantattu,kumakowannensunadamutuncidahakkokidaidaidanakowa.Sunadahankalidatunani,sabodahakadukabindazasuaikatawajuna,yakamatasuyishiacikin‘yan-uwanci.</p>
+  </li>
+  <li>
+    <p>Kowanemutumnadahujjarcinmoriyardukkanabubuwanda‘yanciyaƙunsadadukkanhakkokindaakabayyanaacikinwannanjawabibataredabambancikokaɗanba,konalauninfata,konazamamacewalanamiji,konaharshe,konaaddini,konara'ayinsiyasa,kokumabambancinra'ayindayashafiƙasarsu,konazamanjama'a,konaarziki,konahaifuwa,konawanihalidaban.Bayanhaka,bazaagwadawamutumwanibambancibasabodamatsayinƙasarsukoyankinsuafanninsiyasakonahukunce-hukuncenshari'akoahuskarƙasashenduniya,kodakuwaƙasarmaimulkin-kaice,kotanaƙarƙashinmulkinwataƙasa,kobatadacikakkenmulkin-kai,kodawaniabindayaragematamulki.</p>
+  </li>
+  <li>
+    <p>Kowanemutumnadahakkinrayuwa,dazamantowacikin‘yancidasamunakiyayehalittarsa.</p>
+  </li>
+  <li>
+    <p>Baɗan-adamwandazaasabauta,kumadokatahanabautadafataucinbayitakowanehali.</p>
+  </li>
+  <li>
+    <p>Bawandazaayiwaazaba,koayimasahukuncikohorowandabaidacedaɗan-adamba,kowandazaiƙasƙantashi.</p>
+  </li>
+  <li>
+    <p>Kowanemutumnadahakkinako'inaasandadarajarhalittarsaahuskardoka.</p>
+  </li>
+  <li>
+    <p>Kowadaidaiyakedakowaagabandoka,kumakowanadahakkindokatayimasakariyabataredanunabambanciba.Kowaneɗan-adamkamarkowa,nadahakkinayimasakariyagamedadukwanibambancindazaisabawamatakandakecikinwannanjawabi,dakumakariyagamedadukwatamanaƙisatasashinunairinwannanbambanci.</p>
+  </li>
+  <li>
+    <p>Kowanemutum,idanyagaza’aaikataabindazaihanashicinmoriyarhakkokinsawaɗandatsarinmulkikodokarƙasatatanadamasa,yanadahakkinyakaiƙaraagabanhukumarƙasarsuwaddakedamukaminyankehukuncigamedairinwannanlaifi.</p>
+  </li>
+  <li>
+    <p>Bawandaza’atsarekoaɗaureshi,kokumaasashigudun-hijirabagairabasaba.</p>
+  </li>
+  <li>
+    <p>Kowanemutumnadahakkiazamandaidaidakowa,nakotuadalikumamaizamankansawandaakakaiƙararsaagabansayasaurarimaganarmutuminacikinadalcikumaagabanidonjama'a,dominkotunnannezaiƙayyademasahakkokinsadanauyindayaratayaawuyansa,koyatabbatardadalilindayasadokatatuhumeshidalaifikumazaayimasahukunci.</p>
+  </li>
+  <li>
+    <p>Dukmutumindaakatuhumadaaikatawanilaifi,zaikasancedamatsayinmara-laifisaibayananyimasashari'aagabanidonjama'awaddatanunacewayatakadoka,yazamantokumaalokacinshari'arantabbatarmasadakariyawaddazatakasancemaceciyarsa.</p>
+    <p>Bawandazaaɗauresabodayaaikatakuskurekowaniabuwandadokarƙasakotaƙasashenduniyabatamaidalaifibaalokacindayaaikatashi,kodadagabayayazamababbanlaifi.Hakakuma,bazaayiwamutumhukuncifiyedayaddadokardakecialokacindayaaikatalaifintaƙayyadegamedawannanlaifiba,kodadagabayaansaketa.</p>
+  </li>
+  <li>
+    <p>Bawandawanizaishigasha'aninsanarayuwa,konaiyali,konamahalli,konawasiƙubataredayardarsaba,kokumaacimasamutuncikoɓatamasasuna.Kowanadahakkindokatayimasakariyagamedairinwaɗannanabubuwa.</p>
+  </li>
+  <li>
+    <p>Kowanemutumnadahakkinyinkai-da-kawowacikin‘yanci,yamazaunawurindayakesoacikinwataƙasa.</p>
+    <p>Kowanemutumnadahakkinyafitadagakowaceƙasa,hardaƙasarsukumayanadahakkinkomowaƙasarsu.</p>
+  </li>
+  <li>
+    <p>Idanazabatakaiwamutumkaro,yanadahakkinyatambayiwaɗansuƙasashegudun-hijirakumayasameshidamatsayinɗangudun-hijirandadokatahanaataɓa.</p>
+    <p>MutuminbazaiiyayinamfanidawannanhakkibaidanananemansabayanantabbatayaaikatababbanlaifiirinwandadokatahanakowandayasaɓawamanufarMajalisarƊinkinDuniyadaƙa'idodinta.</p>
+  </li>
+  <li>
+    <p>Kowanemutumnadahakkinkasancewaɗanwataƙasa.</p>
+    <p>Bawandazaatuɓewarigarsataɗan-ƙasabataredacikakkendaliliba,koahanamasayinamfanidahakkinsanasakeƙasaidanyagadama.</p>
+  </li>
+  <li>
+    <p>Idanmacedanamijisunisaaure,sunadahakkinsuaurijunasuyiiyali,kumazaayiaurenbataredaanragewawaninsudarajarsataɗan-adambasabodalauninfatarsakodonyanaɗanwataƙasakokumadonaddininsa.Kumazasukasancedahakkokinanamijidaidaidanamaceagamedawannanaure,acikinzamanaurenkoalokacinrabuwaidantafaru.</p>
+    <p>Bazaaɗauraaurenbasaikowanedagacikinangwayenyabadayardarsacikin‘yanci.</p>
+    <p>Shidaiiyalishinemuhimmintushenjama'a,sabodahakayakamatajama'adahukumasukiyayeshi.</p>
+  </li>
+  <li>
+    <p>Kowanemutum,koshiɗayakoacikintarayya,yanadahakkinyamallakidukiya.</p>
+    <p>Bawandazaaƙwacewadukiyarsabataredacikakkendaliliba.</p>
+  </li>
+  <li>
+    <p>Kowanemutumnadahakkinyasami‘yancinyintunanidanasaninyakamatadanabinaddini;sabodahakayanada‘yancinsakeaddinikora'ayindayabadagaskiyagareshi,dakuma‘yancinnunaaddininsakora'ayinsa,shiɗayakoacikintarokumaafilikoaɓoyetahanyarkoyarwakoyinibada,kobautawaabindayabadagaskiyagareshidayinabubuwandaabindayakebautawaɗinyanunamasa.</p>
+  </li>
+  <li>
+    <p>Kowaneɗan-adamnadahakkinyasami‘yancinkasancewadara'ayinkansada‘yancinfaɗarra'ayinnasa;sabodahakayanadahakkinyasami‘yancinkaudadukwanitsorogamedara'ayoyinsa,da‘yancinnemanlabarudasababbinra'ayoyi,yasamesukumayabazasudukindayakesobataredasaniniyakaba,kumatakowacehanya.</p>
+  </li>
+  <li>
+    <p>Kowanemutumnadahakkinyasami‘yancinyintarodakafaƙungiyoyitaredamakamantansamuddindaiƙungiyoyinnazamanlafiyane.</p>
+    <p>Bawandazaatilastawashigawataƙungiya.</p>
+  </li>
+  <li>
+    <p>Kowanemutumnadahakkinkasancewaacikinja-gorancinharkokinjama'anaƙasarsu,koshidakansakotahanyaraikawakilansawaɗandayazabacikin‘yanci.</p>
+    <p>Kowanemutumnadahakkiacikinsharaɗindaidai-wa-daidayasamihalinaɗaukakashiyakamaragamartafiyardawaɗansuayyukanƙasarsunakuladaharkokinjama'a.</p>
+    <p>Yaddaal'ummakesonemahakuntazasutafiyardamulkinkasa;zaasanbuƙataral'ummagamedamulkitahanyargudanardazabekangaskiyalokacizuwalokaci,indadukkan‘yan-ƙasaazamandaidai-wa-daidamuddindaisunacikinsharaɗi,susamidamarzartardazabenkumacikinanyijefaƙuri'aaasircekotawatahanyamaikamadahaka,dominatabbatarcewakowayayizabecikin‘yanci.</p>
+  </li>
+  <li>
+    <p>Kowanemutum,amatsayinsanakasancewaɗayadagacikinhalittundajama'ataƙunsa,yanadahakkinatabbatarmasadajindaɗinrayuwama'anartabbatarwaɗan-adamdajinɗadinrayuwashine:dangancedatsarinkowaceƙasadahalindatakedashi,kowanetaliki,daƙoƙarinƙasarsudataimakonƙasashenduniya,yacimoriyarhakkokinsanasamunbiyanbuƙatunsagamedatattalinarziki,dajindadinjama'a,daal'adu,dominwaɗannanabubuwaneketabbatarmasadamutuncikumasukeɗaukakadarajarhalittarsacikinwalawa.</p>
+  </li>
+  <li>
+    <p>Kowanemutumnadahakkinyasamiaiki,da‘yancinyazabiaikindayakesodangancedaƙwarewarsa,yakumayiaikinkamarkowaacikinsharaɗigwargwado,kumayanadahakkinakiyayeshidarashinaiki.</p>
+    <p>Dukkan‘yan-adam,bataredawanibambanciba,sunadahakkinsusamikimaralbashida‘yaidanaikiɗayasukeyi.</p>
+    <p>Dukwandakeaikinadahakkinyasamialbashigwargwadonguminsa,wandazaibiyamasabuƙatunsanayaudakullumdashidaiyalinsa,kumairinwaɗandasukakamaciɗan-adamacikinmutuncinsa.Bayanhaka,idanakwaiabubuwandaakatsaradonkyautatarayuwarjama'a,yasamiyinamfanidasu.</p>
+    <p>Kowanemutumnadahakkinyakafaƙungiyoyinkiyayesharuɗansana'arsataredamakamantansan,koyashigawataƙungiyamaiirinwannanmanufadominyatanadiabindazaiamfaneshi.</p>
+  </li>
+  <li>
+    <p>Agamedaaiki,kowanemutumnadahakkinyasamihutudonyashaƙatadamusammanƙayyadaddenwa'adinaikiyaddabazairaunanamasaba,kumayanadahakkinyasamidogonhutulokacizuwalokaciwandaacikinsazaikasanceyanakarɓaralbashinsa.</p>
+  </li>
+  <li>
+    <p>Kowanemutumnadahakkinyasamiisasshenhalindazairayudashidominyakiyayelafiyarsadashidaiyalinsa,dajindadinrayuwarsu,yakumamallakihalintabbatarmusudaabincidatufafidamahallidamaganidagalikitadasauranabubuwankyautatarayuwawaɗandasukebuƙata.Harilayauyanadahakkinasamamasaabindazaibiyawaɗannanbuƙatudashiidanyarasaaikinsa,koyanarashinlafiya,kowanimusakanciyasameshi,koyanacikingwaurancinmutuwa,kotsufa,kowatata'adikowanihatsariyarabashidadukiyardayatanadayakerayuwadaita.</p>
+    <p>Yakamataayiwamatamasucikidayaraƙananatattalidataimakonamusamman.Kumadukkanyaraneyakamatasucimoriyarwannantattalidataimako,bawaɗandaakahaifaacikinaurekadaiba.</p>
+  </li>
+  <li>
+    <p>Kowanemutumnadahakkinyasamiilimi.Yakamatailimiyazamantobanabiyabaaƙallaacikinazuzuwanfarko,watotushenilimi.Tilasnegakowayayikaratuacikinazuzuwanfarko.Yakamataabazailiminhusahadanakoyonsana'aako'ina.Dukwandaƙwazonsayabahaliyakamataabashidamarzuwanemaniliminƙolibataredabambanciba.</p>
+    <p>Abinnufigailimishine:yasamawaɗan-adamjindaɗinrayuwadaƙarfafakiyayewadahakkokinsadamuhimmanabubuwanda‘yancinsayaƙunsa.Yakamatailimiyakawofahimtarjunadaragowadaamincitsakaninƙasashedatsakanin‘yan-adam,komelauninfatarsudaaddinindasukebi,yakumaƙarfafaƙoƙarindaMajalisarƊinkinDuniyatakeyidominasamizamanlafiyadakwanciyarhankaliaduniya.</p>
+    <p>Gamedanemanilimi,iyayenneagabawajenhakkinfaɗinirintarbiyyardazaayiwa‘ya‘yansu.</p>
+  </li>
+  <li>
+    <p>Kowanemutumnadahakkinbadagwargwadongudummuwarsacikin‘yancigadukkanal'amurranal'adunada'irarsadacinmoriyarabubuwandaakeƙagowadondaɗaɗarai,dataimakawagaci-gabankimiyya,hakakumayanadahakkinyayiamfanidahikimomindada'irarsutatanada,dakyakkyawansakamakondaakasamudagakimiyya.</p>
+    <p>Kowanadahakkinayimasakariyatakowanehali,dominyasamidamaryinfara'adacinamfaninabindayaƙirƙiroafanninkimiyyakonaadabikonahikima.</p>
+  </li>
+  <li>
+    <p>Kowanadahakkinganinansamikyakkyawanshiriacikinzamanjama'adatsakaninƙasashenduniyadominhakkokinnandadukkanabubuwanda‘yanciyaƙunsawaɗandaakabayyanaacikinwannanjawabisutabbatasosai.</p>
+  </li>
+  <li>
+    <p>Ɗan-adamnadanauyinbautawada'irardayakerayuwaacikiawuyansa,dominanankaɗaineyakesamunhalinƙarfafadarajarsataɗan-adamcikin‘yanci.</p>
+    <p>Kowazaiyiamfanimatuƙadahakkokinsadaabubuwanda‘yancinsayaƙunsabataredawataiyakaba,saifawaddadokatakafamusammandominacikinzamanjama'awaddatasanma'anardimukiraɗiyya,kowayasankumayakiyayedahakkokinmakamantansadaabubuwanda‘yancinsuyaƙunsa,kumadominɗa'adakyakkyawanshirinjama'adajindaɗinrayuwagakowasutabbatakamaryaddayakamata.</p>
+    <p>Takowanehalibazaaiyayinamfanidawaɗannanhakkokidaabubuwanda‘yanciyaƙunsabaacikinsabawamanufarMajalisarƊinkinDuniyadaka'idodinta.</p>
+  </li>
+  <li>
+    <p>Bawanimatakiacikinwannanjawabi,wandawataƙasakowataƙungiyakowanimutumzaiyiamfanidashi,yakwatantacewamatakinyabashiikontafiyardawatahidima,koaikatawaniabudanufinrushewaɗannanhakkokidaabubuwanda‘yanciyaƙunsa,waɗandaakabayyanaacikinwannanjawabi.</p>
+  </li>
+</ol>

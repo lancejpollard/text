@@ -1,0 +1,122 @@
+<h1 align='center'>XO MAA NU XIJMOJO̱I NU KUCHTI KJA'NI</h1>
+<h2 align='center'>XO MAA</h2>
+<p align='center'>Nu ro nde̱jte̱ ka ro jiegi nu föste i nu jiegi xa'to da nu xijmojo̱i pe̱tsi i füdi ka ro mu̱i ka metsi nu yu kuchti ra gentho i jingi ne da uni gotho yu mutsi kja'ni;
+Nu ro nde̱jte̱ jingi pädi i jingi ne'ju nu kuchti kja'ni xo kja kosa jingi zoo pa nu yu kja'ni; i xo maa'mu, i ne'ju ra dté nu kja'ni, bi nka tse xijmojo̱i i yu kja yu kja'ni, i bi to nu tzu i ni tu'ju bi tze nu ro föste nu ro ña i nu ro föste i bi tse nu ro mu̱i;
+Nu ro nde̱jte̱ ra zoo pa nu kuchti yu kja'ni da föchte nu ajte̱ da yu kuchti, pada guani nu zoya jinda maa ra nda tze̱di i da bottu yu kja'ni i da maa tzo'ju ko nu manda ajte̱;
+Nu ro nde̱jte̱ pa nu da knja i da ye̱te, da ne ju ra zoo ko yu ra xijmojo̱i;
+Nu ro nde̱jte̱ nu yo jñini de yu xijmojo̱i xomaa nu ro je'mi i ne nu yo kuchti de nu nzoya, i ka nzu̱ yu kja'ni i r aguentho nu kuchti de yu nzoya i nu nana; i xo ma'mu xo zoo i ma'mú nu da te i da te a putze nu ro mu̱i pa ka yo kja'ni yo libre;
+Nu ro nde̱jte̱ nu yo jñini ra mütsi xo ma ma'mú i xo nguajuia, xo nföchte ku nu mutsi de yu jñini, nu xijmojo̱i i ne i kuchti i fötsi yu yo nzoya;
+Nu ro nde̱jte̱ i juadi yu i bini nu ro kuchti i da jiegui'ju gotho i mporta pa nu ankja nu i da tute ka xo maa;
+XO MONTSIJU̱ GOTHO MA'MU NU XO MAA NU XIJMOJO̱I NU KUCHTI KJA'NI
+I ne'ju gotho yu kñi'ni i nu xijmojo̱i da pa'nu ra'ra, da kuädi nu kja'ni ko nu ajte, i bini'ju teni, i ma'mu, ko nu ro ujti i nu ro xömpite i nzengua ka kuchti ka, ma'mu, da ma ka ju ra zoo ko yu jñini i gotho nu xijmojo̱i, nu pudi i ni i kja nu xijmojoi ni a yu jñi'ni i buni a mu̱ntsi koyu jñi'ni i ku nu a ajte.</p>
+<ol>
+  <li>
+    <p>Gothonukja'niimu̱irazooigothorokuchti,itu'ninuroñapadäbiniidabudi,damu̱irazookoyugothoyukja'niiyokuadi.</p>
+  </li>
+  <li>
+    <p>Gothoyukja'niijkanurokuchtidayödinujimaa,jindayo̱'nite'makolor,karotaxioraböti,ronzoyaoronana,ankjagaña,kjainerotsinkjakuajina,kuaromingukua,kuajina,kuajarodo̱mi,kuajina,oabuxomuiankja.Ijinda,to̱nijariñiji,kanopolítico,kuaromingúkua,kuarojiapu,kuaromingúnuajñininuajinguikutiaxijmojo̱i.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikjakuchtinuronzáki,dafödinurokja'ni.</p>
+  </li>
+  <li>
+    <p>Kothorakakigipe'fi;radrangú,kothodaxikijingikagankunugege.</p>
+  </li>
+  <li>
+    <p>Kothodandampikothodaxikitedaxiki.</p>
+  </li>
+  <li>
+    <p>Gothorokja'nikakuchti,gothoyonguädi,dapüdirokja'ni.</p>
+  </li>
+  <li>
+    <p>Gothoragenthonuanutzukua,jingitoniankja,kuchtiragentho,pödiburotzukua.Gothoikjakuchtiigenthoifudijigothonubijinginenuimaaijigothokjapinuajinguine.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nijarokuchtidajandarofende,nuayofödi,xodafötsikoyunedakapijindazookonirokuchtinuipödinuroajte.</p>
+  </li>
+  <li>
+    <p>Kothodazoodame̱ndidagoti'ki,nuafödi.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikarokuchti,iraguentho,dantedeidanuaifötsiyuyotu,pädafüditoka,jaroranzokatsifi,nuarofödi.</p>
+  </li>
+  <li>
+    <p>Gothonukja'niitsifixojandajirazoo,jkarokuchtiadamaagege,jixokja,nuroajtedafötsikonurotzu̱kuanurofödixomaadagötigotho.</p>
+    <p>Kothodazootedaka'kinubutekoPéfitädäkati,konutzu̱kuainuabunufödidakatikurikuchtidenukñiniinuxojmojo̱i.Ininginkajapujindazootedakaki,jinsenuföchtenujindazoo.</p>
+  </li>
+  <li>
+    <p>Kothodazootedaxikinurinzáki,inurimi'ni,nuringúnuakije'miixäthodatsikinurikja'ni.Gothonukja'nikakuchtiidafötsinutzu̱kuabitedakapi.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikakuchtiadañorazooidajuajniadamuigothoyu̱jñini.</p>
+    <p>Gothonikja'nikakuchtiabunidenurojñi'ni,dagojinuarojñini.</p>
+  </li>
+  <li>
+    <p>Buitonitedakapi,gothonukja'nikurokuchtipädajiodintididamu̱i,idamu̱irazoo,makejingrojñini.</p>
+    <p>Nokuchtijindazoodatedatsikiyuyopolíticaotexobinijuotenedaxiki.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikakuchtiadamu̱inajñini.</p>
+    <p>Kothodañinkijindazoogimu̱inajñiniodaxikigimaapindajñini.</p>
+  </li>
+  <li>
+    <p>Yunzoyainunana,biyarazoodanthati,kakuchti,kothodazootedaxiki,makeromingundanpa,rakuchtidanthati,damubiidanthatikuibudanedagegexodazoogajindanthati.</p>
+    <p>Bene'uidazoodanthatiyuyora'yonzoyainanadazoodanthati.</p>
+    <p>Numi'niguenurazoodankapayukja'nidabu̱diidankakuchtidafötsiyuyokja'niinuroajte.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikarokuchtidame̱tsirometi,ratseokuadi'ju.</p>
+    <p>Kothotedaxikidenurime̱ti.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikuchtidafininuromui;nukuchtiiño'uinibudakambianuromu̱i,idamaaanjadimu̱i,darazeodamu̱ntsi,dano'uiyukja'niodaraze,konnuroxodi,nuromu̱i.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikarokuchtianjagabinipamaa;nurokuchtigothodaxifitedaxifiankjagaronfini,dañoniidatu'nikane,padanu'tigege,ikothoñimbijina,gothoyumaayunkja.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikakuchtidenuromu̱ntsiyukja'ni.</p>
+    <p>Kothodazoodaxikigikitimankejinginenuaromu̱ntsi.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikarokuchtidañitinuajtedenujñini,danietenuyorakja'niogege'tze.</p>
+    <p>Gothonukja'nikarokuchtidañiti,ragentho,nuyome̱figoajtenurokja'ni</p>
+    <p>Nuneyukja'nidejñinigerurazooidajietenuajte;nubinedañakoyutdanipadepe'nuakonuajte,tzotoidanuju̱.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikomuibinuamuntsi,karokuchtipadamödi,pamurojñini,ndaföchtenuxijmojo̱i,nuromuntsiinurodo̱minurojñini,yuyokja'ni,inuromu̱inekja'niatènurokja'ni.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikakuchtinurobe̱fi,karokuchtiadajuani,anurobe̱fiidafochtenurobe̱fi.</p>
+    <p>Gothonukja'nikarokuchti,xathodatsifi,ragenthonupe̱firagenthogotho.</p>
+    <p>Gothonukja'nipe̱fikakuchtiadatu'nidarodo̱mikatu'japada,ñiniyuyobätsi,nuyomini,padamu̱irazoo'ju,idabödi'ju.</p>
+    <p>Gothonukja'nikakuchtidakadarongúajtepadamüntsi'judaK'atiyuyomu̱i.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikarokuchtidatzo'yendarato,damidenurobe̱fiinurotzo'yedangutibi.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikakuchtidamu̱irazoo,konuromini,nurojñuni,nurojee,nurongú,panuroñithi,pagothoyujoni;ikakuchtidabututsirotu'junuadakajñine,dagoji,ra'me,ranchu,ibindejtaotedathoginuronzáki.</p>
+    <p>Nuromeinurobätsiikakuchtidafödirazoo.Gothoyubätsi,xomu̱idenuronthati,kakuchtidafötsi.</p>
+  </li>
+  <li>
+    <p>Gothokja'nikakuchtidaujti'te.Nuujti'tedakaji'dakuti,nuroujti'terodaa'tze̱di.Nuroujtirakäyinurateekakuchtipagothoyuine;nayunedapädirateegothoragentho.</p>
+    <p>Nuroujtirazoopadateenuropädinurokja'niinuinze̱nguayukuchtimu̱ikja'ni.Padaföchtepadabädi,dañaidane'jugothoyuxijmojo̱iigothoyumu̱ntsinathonurajña,idañodañagothonuyokñinipadatenuyobe̱fiyuxijmojo̱ipadamuirazoo.</p>
+    <p>Gothoyutakakuchtidajuajninuroujtipadapádiyuyobätsi.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikakuchtidamaa'nkabinidenuronzákinuromu̱idenujñini,adanutiñuroteeinurazoonurojñini.</p>
+    <p>Gothonukja'nikakuchtiadapödinuronfiniiyu̱razooyometigege.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nikakuchtidamu̱irazoonuanukñiniodapin'angukñinikakuchtixomaaidanka.</p>
+  </li>
+  <li>
+    <p>Gothonukja'nipetsitedame'fi,nuarokñini,padazoorakjarazooku̱nurokja'ni.</p>
+    <p>Budame'fiyokuchti.Gothonukja'nidame'figangunuyaxomaanurotzu̱kuapadabudiidalayuyokuchtigangubini.</p>
+    <p>Nuyukuchtijindazooda,kabu,danedabötinuronfinipanuroxijmojo̱i.</p>
+  </li>
+  <li>
+    <p>Kothonumaanuje'midazoodajietenukuchtinujñini,numüntsionukja'ni,padazoodajieteodakadañingijingikakuchtidajietenuxomaanuanuje'mi.</p>
+  </li>
+</ol>

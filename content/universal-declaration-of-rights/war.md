@@ -1,0 +1,123 @@
+<h1 align='center'>Sangkalibutan Nga Pag-Asoy Bahin Han Kanan Tawo Mga Katungod</h1>
+<h2 align='center'>Pasiuna</h2>
+<p align='center'>Tungod han pagkilal-a nga an tiunay nga dignidad ug katpong ngan diri-maiwasan nga mga katungod hadton mga kaapihan kanan tawo pamilya amo an pinatatamakan han katalwasan, hustisya kalinawan han kalibutan;
+Tungod han pagpasibaya ug pagbiay-biaya han kanan mga tawo katungod nga nahingadto hin mga magpakarima-dima nga mga buhat ug nakapahangit han katawhan, ug dumangat han pag-abot hin bag-o nga panahaon diin an mga katawhan magpapahimulos han ira katadungan pagyakan ug pagtuo hin waray ikahahadlok ug an katalwas tikang hin mga kabaraka ug pahingulang iginsaysay nga amo an pinakahitaas nga hingyap han mga molupyo;
+Tungod nga kinahanglan gud, agud an tawo diri mapiritan paggapil, ha iya katapusan nga paningkamot, pag-ato pagraugdauga ha iya, igan an mga katadungan han tawo panalipdan gud ha balaud;
+Tungod nga kinahanglanon gud an pagpaudway han nagtutubo nga pagkasarangkay han mga nasud;
+Tungod kay an mga katawhan han un nagotco pagtangdo han ira tuluohan bahin han kanan tawo panguna nga mga katungod, sugad man han iya pagkatawo ug dignidad, an pareho nga mga katadungan han lalake ug babaye, ug naguuungara hin mauro-upay nga kinabuhi ubos han katalwasan;
+Tungod nga an mga kaapi han hini nga kapunungan, nagsaad man han ira pag-urusa paningkamot kaupod han UN, pagpasamwak agud respetohan hin mahugot an kanan tawo panguna nga mga katungod;
+Tungod nga an paggisinabtanay hini nga mga katungod importante gud kaupay basi matuman ini nga panaad;
+Sanglit, an ASSEMBLEYA HENERAL nag-aasoy hin pagsering;
+KANAN KALIBUTAN DEKLARASYON BAHIN HAN KANAN TAWO MGA KATUNGOD
+Nga an ngatanan nga mga nasud ug katawhan magkakau-urusa agud matuman ini nga panuyo, nga diin kada tagsa-tagsa nga kaapihan katilingban, magtatalinguha pagtutdo basi dumukwag ini nga mga katungod, pinaagi hin mga mapinulsanon nga mga buhat, ha nasyonal ug internasyonal nga mga kalibungan, nga ini kilal-on ngan tumanon hadton mga katawhan nga ira nasasakupan.</p>
+<ol>
+  <li>
+    <p>Ngaanngatananngamgatawo,nahimugsotalwasugkatponghairadignidadugkatdungan.Hiranatawodinhihatunamaydakonsensyaugisipugkaangayangudlangaanirapagtagadhatagsatagsasugadhinmagburugto.</p>
+  </li>
+  <li>
+    <p>Ngakadaosamay-adakatadunganngadahiningamgakatungodugmgakatalwasannganahiaasoydidahiningaDeklarasyonhawaraybalehaniyakolorhapanit,yinaknan,tuluohan,mababayemanolalake,koriamomananiyaisip-politikal,aniyagintikangannganasud,aniyamgabahandi,konanohiyaoanopadidangamgasuklanan.Labuthini,anpagtagaddirihihimuonpinaagihanpolitikal,tunaotindogpagkalibutanhannasud,okontagadiinitongatawo,osinokonitonganasyonindependiente,maytag-mangno,omaykakulanganhanirapangobyerno.</p>
+  </li>
+  <li>
+    <p>Ankadatagsamaykatadunganngadahakinabuhi,ngadahakatalwasanughinkinabuhingawaraykahadlokan.</p>
+  </li>
+  <li>
+    <p>Warayhin-omanngamagiginuripon.Anpaguriponuganpamaligyaopagpalithinmgauriponhabisananongapaagiigindidirigud.</p>
+  </li>
+  <li>
+    <p>Waraytawongaigpapailarumhinpagpakuri-iohindiritinawoosobrahinkamaka-aalorigapagkastiguha.</p>
+  </li>
+  <li>
+    <p>Ankadatagsamaykatadungankilal-onngausangatawo,hastubanganhanbalaud,bisanbiinhiyamakadto.</p>
+  </li>
+  <li>
+    <p>Paprehoantawohastuban-ganhanbelauduganbisanhin-omahihimopangarohanbuligugpananlipudhanbalaud.Anusakafawongagin-iibaonakakaseringngagintutuyohiyapag-ibahamakakahimopeghangyohanbulighanbalaud.</p>
+  </li>
+  <li>
+    <p>Pinaagihanmganasyonalngamgabuhatan,ankadausamaykatadunganpamilinghinhingpitngakatalwasanngadtohinmgapagsupakhaniyamgakatadunganpamilinghinhingpitngakatalwasanngadtohinmgapagsupanhaiyamgakatadunganngahataghaiyahanbatakanbalaud.</p>
+  </li>
+  <li>
+    <p>Iguindidirianwarayharasonngapagdakop,pagpresougpagpagawashannasud.</p>
+  </li>
+  <li>
+    <p>Didahanpagturotimbanghaniyamgakatadunganugmgaobligasyon,ugmgakihakriminalkontrahaiya,ankadausamaykatadunganngadtohinwaraytrampaughapublikongapamatihaniyakasopinaagihinindependyenteugwarayinu-ugupanngabuhatan.</p>
+  </li>
+  <li>
+    <p>Inhimo-annganakasalamaykatadunganngadirisidngonngasalaantubtobngadiripahiyanaproybahanngasalaandidahinhapublikongapamatidiinhiyagintaganhanngatananngamgahabuligparahaniyadepensa.</p>
+    <p>Diripagsasalaoninusamahitungodhinsalaobinuhatanowaraybuhata,ngadirepasiniseringngasalaubosinnasyonalointernasyonalngabalaud,badtonpanahonhanpagbuhatahito.Sugadmanliwat,dirimahihimoipatonginmaburobug-atngapatokkayngapenahanbuhatanintongasala.</p>
+  </li>
+  <li>
+    <p>Warayhin-omanngaigpapailarumngadirinahalulugarngapaghimasokhapamilya,panimalay,hanpribadongakalugaringon,hamgasinuratopaghugawhaniyangaranohonor.Ankadausamaykatadunganpagpanalipdihanbalaudsupakhiningamgapagsamuk-samokopagtamaya.</p>
+  </li>
+  <li>
+    <p>Hasakobhaniyanasudngaginpupuy-an,ankadausamaykatadunganhinpaglakat-lakatkonpagpuyohainmanhiyamaruyag;</p>
+    <p>Ankadausamaykatadunganpagbayahaniyanasud,upodaniyakalugaringonugpagbalikngadahito.</p>
+  </li>
+  <li>
+    <p>Ankadausamaykatadunganpangarohinpanalipodkontrahinpagraugdaugatikanghaibanganasud;</p>
+    <p>IningakatadungandirimahihimoigrasondumatahinmgapagkihagumikanhinmgakrimenngadiripolitikaliomgabuhatdupakharimgaprinsipyougmgapanuyohanUN.</p>
+  </li>
+  <li>
+    <p>Ankadausamaykatadunganngadahaniyanasyonalidad;</p>
+    <p>Inusangatawodirimahihimokahukasanhaniyapaggkanasudnonhinwarayharasonugwarayliwatmaka-agpugonghaiyapagbalhinhaniyapagkanasudnon.</p>
+  </li>
+  <li>
+    <p>Anmgalalakeobabayengaaadanahaigongapanuigonanmaykatadunganag-awawanganmagka-adahinfamilyahawaraybalehaniyakolorhapanit,nasyonalidadotuluohan.Hiraanmayadapuruparehongamgakatadunganmahi-unonghapag-awawa,samtangngamag-asawanganhanpagpawaraybalehitongairapag-asawa;</p>
+    <p>Ankasalanpagbobohatonlahatalwasugtim-osngapag-ayonhanmgapagkakasion;</p>
+    <p>Anfamilyaanunobnganpangunangahupohankatilingbannganmaykatadunganngapanalipdanhankatilingbannganhangobyerno.</p>
+  </li>
+  <li>
+    <p>Ankadausamaykatadunganpagtag-iyahinbagayhaiyakalugarinhonokaupodaniba;</p>
+    <p>Warayhin-omanngatawongakukuhaanhaniyapag-tagiyahinwaray-ha-rason.</p>
+  </li>
+  <li>
+    <p>Ankadausamaykatadunganhinhaiyapag-isip,konsensyaugrelihiyon;kaupodhinankatadunganpagbalhinhaniyarelihiyon,pagtuougkatal-wasan,mahiyalangausaokaupodiniba,hapublikoopribadoagudigpasamwakaniyatuluohanhapagtutdo,paghaladopagsingba.</p>
+  </li>
+  <li>
+    <p>Ankadatagsamaykatadunganpag-isipopagsaysay;iningakatadungannaglalakiphaniyapagpasamwakhaniyamgaopinyonngadiripagsasamukonsugadmanpagpamiling,pagkara-watugpaghataghinmgaimpormasyonomgaideyapinaagihamediahinwaraypinili.</p>
+  </li>
+  <li>
+    <p>Ankadatagsamaykatadunganhinmamingawonngapagtitirokugpaguurosa;</p>
+    <p>Dirimapipiritinusakatawopagpiritonpagbulighinusangakapunungan.</p>
+  </li>
+  <li>
+    <p>Ankadatagsamaykatadunganpag-apididahanpan-gobyernohan,hadirectaopinaagihanmgapinilingamgatumindog;</p>
+    <p>Ankadausamaykatadungankumarawathanmgaserbisyopublikohaiyanasud;</p>
+    <p>Anungarahanmgatawoamoanpinatatamakanhangahumhangobyerno;Initutumanonpinaagihintunayugpinanahonngapinilaybubuhatonhinsekretongabutosayopuroparehongapaagihinpanmutos.</p>
+  </li>
+  <li>
+    <p>Kadausa,tungodhanhiyakaapihankatilingban,maykatadunganhaniyaseguridadngasosyal,tubtobhankayahannasyonaluginternasyonalngapagkaurosasubayhanmgaorganisasyonugmgabahandihankadagobyerno,mgakatadunganngasosyal,kulturalugsosyalngadir-gud-maiiwasandidahantalwasngapagtubohaniyapagatawo.</p>
+  </li>
+  <li>
+    <p>Ankadatagsamaykatadunganpagtrabaho,pagpilihintrabahu-anngadtohinmga-makatawo-nga-kahimtang-hinpanarabahuanugpanalipdihinkawaraytrabaho;</p>
+    <p>Antagsa-tagsa,maykatadunganngadahineksaktongasuhoparahineksaktongatrabaho;hindirihiyapag-iibahan;</p>
+    <p>Anhin-omannganatrabahomaykatadungankumarawathineksaktougmay-bintahangabayad,agudmagseguroparahaiyaughaniyapamilyahinkinabuhikaangayanhintawo,ngankonkinahanglanmaduduganganpahinibangamgapaagihinsosyalngamgapanalipud;</p>
+    <p>Ankadatagsamaykatadunganpagtindogopagbulighinmgaunyonagudmaproteherananiyamgaintereses.</p>
+  </li>
+  <li>
+    <p>Ankadatagsamaykatadunganhinpagpahuwayugpagpahalibway,kaupodinpagtakonhaniyamgaorashinpagtrabahoughamgapanahonngaadlawngamgalu-anngabinaydan.</p>
+  </li>
+  <li>
+    <p>Ankadatagsamaykatadunganngadahinigougkaangayanngapanginabuhiparahaiyakalugaringonughankananiyapamilyapanlawas,sugadmanhanpamanapton,balay,urokyanugmgapagatamanngasosyalnganmedical,ugkatadunganngadahinkasegurohapanahonhinpaghi-iwashantrabaho,kasakit,kabaldado,kabalokalagasokawar-ayanoanolangaremalaso;</p>
+    <p>Anpaginiroyugpaginbatanahipapailarumhinespesyalngapagtimangno.Anngatananngamgabata,natawosakubogawashakasal,nahasisironggihaponhiningasosyalngapanalipud.</p>
+  </li>
+  <li>
+    <p>Ankadatagsamaydakatadunganngadahinedukasyon.Anedukasyonamoinlibre,porlosmenos,haelementaryaughasyahanngamgabalitang.Anedukasyonhaelementaryakinahanglanpiritongud.Anpag-aramhanteknolohiyaugprofesyonalngaedukasyonabyertoparahanngatananugmananhuro-hitaasngapag-aradmanmaarabuthinusasugadhaniyamaakos;</p>
+    <p>Anpanuyohanedukasyonamoanbug-osngapagtubohankanantawopersonalidaduganpagpabaskughanpagrespetohankananstawomgakatungodnganhanmgaunobngamgakatalwasan,lgpapadukwaganpaggisi-nabtanay,paggipuro-paasensyanuganpagsarangkayhanmganasud,mgahugposugadhanrelihoyosougmagkadugongamgahugpo,ugmaniningkamotngamagpabilinankanurayaw;</p>
+    <p>Anmgakag-anakmaykatungodpagpilihanklasengaedukasyonparahaniramgaanak.</p>
+  </li>
+  <li>
+    <p>Ankadatagsamaykatadunganpagbuligdidahanmgaburuhatonngakulturalhankatilngban,pagpuloshanmgaartesugpakigsasarohanmgasiyentipiko-nga-mga-bintahasugadmanhanmgaibangakaupayan.</p>
+    <p>Ankadatagsamaydakatadunganmagpanalipudhanmgabintahatikanghanmgasiyentipikongaimbento,mgasinuratoproducksyonnmgaaristikongaiya.</p>
+  </li>
+  <li>
+    <p>Ankadatagsamaykatadunganngadahinkahimtangngasosyalofinternasyonaldiinanmgakatadunganugkatal-wasadidahinngaDeklarasyonmahihimokatuman.</p>
+  </li>
+  <li>
+    <p>Ankadatagsamaymgaturumanonngadahankatiling-bandiinaadagudlaanbug-osngapagtubohaniyapagkatawomatutuman.</p>
+    <p>Didahaniyapagtumanhaniyamgakatalwasanugmgakatadungan,ankadatagsamatataknansubayhanmgaaludaydayhanbalaud,kanaytiunayngapanuyoamolaanpagpakilalaugpagparespetohanmgakatadunganugmgakatawasanhanibaugpagtumanhanmgakinahanglanonhanmoralidad,ankahimyanganhanpublikougankaupayanhakatilingbanngademokratiko.</p>
+    <p>WarayhinidinhingamgakatadunganugmgakatalwasanbubuhatonsupakhanmgapanuyougmgaprinsipyohanUN.</p>
+  </li>
+  <li>
+    <p>WarayhinidinhingaDeklarasyoninintyendihonnganaghahatagngadahinbisananongaGobyerno,hugpootawohinkatadunganpagbuhathinbisananongamakakabungkaghinanodidangakatadunganugkatalwasannganailagdadinhi</p>
+  </li>
+</ol>

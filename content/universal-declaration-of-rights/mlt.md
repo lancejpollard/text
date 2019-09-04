@@ -1,0 +1,121 @@
+<h1 align='center'>L-ISTQARRIJA UNIVERSALI DWAR IL-JEDDIJIET TAL-BNIEDEM</h1>
+<h2 align='center'>DAĦLA</h2>
+<p align='center'>Billi l-għarfien tad-dinjità proprja tal-membri kollha tal-familja umana u tad-drittijiet tagħhom ugwali li ma jistgħux jitteħdulhom hu s-sies tal-ħelsien, tal-ħaqq u tal-paċi fid-dinja,
+Billi t-tkasbir u ż-żebliħ tal-jeddijiet tal-bniedem ġabu magħhom għemejjel kiefra li weġġgħu l-kuxjenza tal-umanità, u l-miġja ta’ dinja fejn il-bnedmin ikunu ħielsa li jitkellmu u jemmnu, meħlusa mill-biża’ u mill-miżerja, kienet proklamata bħala l-ogħla xewqa tal-bniedem,
+Billi hu essenzjali li l-jeddijiet tal-bniedem ikunu mħarsa bil-ħakma tal-liġi biex il-bniedem ma jkunx imġiegħel, fl-aħħar mill-aħħar, li jqum kontra t-tirannija u l-moħqrija,
+Billi hu essenzjali li jkun imħeġġeġ l-iżvilupp ta’ relazzjonijiet ta’ ħbieb bejn il-ġnus,
+Billi fl-Istatut il-popli tal-Ġnus Magħquda xandru mill-ġdid il-fidi tagħhom fil-jeddijiet fondamentali tal-bniedem, fid-dinjità u s-siwi tal-persuna umana, fil-jeddijiet ugwali tar-rġiel u tan-nisa, u qatgħuha li jġibu ’l quddiem il-progress soċjali u joħolqu kondizzjonijiet aħjar tal-ħajja f’libertà akbar,
+Billi l-Istati Membri wiegħdu biex, flimken mal-Organizzazzjoni tal-Ġnus Magħquda, jiżguraw ir-rispett universali u effettiv tal-jeddijiet tal-bniedem u tal-libertajiet fondamentali,
+Billi fehma komuni ta’ dawn il-jeddijiet u l-libertajiet hi tal-akbar importanza għat-twettiq sħiħ ta’ din il-wegħda,
+Għaldaqstant, l-ASSEMBLEA ĠENERALI xxandar DIN L-ISTQARRIJA UNIVERALI DWAR IL-JEDDIJIET TAL-BNIEDEM bħala għan komuni biex jintlaħaq mill-popli u mill-ġnus kollha, ħalli kull bniedem u kull organu tas-soċjetà, billi jżommu dejjem quddiemhom din l-istqarrija, iħabirku biex bit-tagħlim u bl-edukazzjoni jġibu ’l quddiem ir-rispett għal dawn il-jeddijiet u l-libertajiet u biex jiżgurawlhom, b’miżuri progressivi nazzjonali u internazzjonali, l-għarfien u l-ħarsien universali u effettiv, kemm fost il-popli tal-Istati Membri nfushom, kif ukoll fost dawk tal-artijiet taħt il-ġuriżdizzjoni tagħhom.</p>
+<ol>
+  <li>
+    <p>Il-bnedminkollhajitwielduħielsauugwalifid-dinjitàud-drittijiet.Humamogħnijabir-raġuniubil-kuxjenzaugħandhomiġiburuħhomma’xulxinbispirtuta’aħwa.</p>
+  </li>
+  <li>
+    <p>Kulħaddhuintitolatgħaldawnil-jeddijietul-libertajietimxandraf’dinl-Istqarrija,blaebdagħażla,bħalta’razza,lewn,sess,ilsien,reliġjon,opinjonipolitikajewkullopinjonioħra,oriġininazzjonalijewsoċjali,proprjetà,twelidjewkullqagħdaoħra.Mhuxbiss,iżdal-ebdagħażlam’għandhassirfuqbażital-qagħdapolitika,ġuridikajewinternazzjonalital-pajjiżjewterritorjuliminnutiġil-persuna,kemmjekktkunindipendenti,kemmjekktkunfdatalilxipajjiżieħor,kemmjekkmajkollhiexgverntagħhakifukolljekkikollhaxilimitioħrafis-sovranitàtagħha.</p>
+  </li>
+  <li>
+    <p>Kullbniedemgħandul-jeddgħall-ħajja,għall-ħelsienugħas-sigurtàtal-persunatiegħu.</p>
+  </li>
+  <li>
+    <p>Ħaddm’għandujinżammilsirjewfistatlijixbahlildakta’lsir.L-iskjavitùun-negozjutal-ilsierafl-għamlietkollhatagħhomm’għandhomxjitħallewisiru.</p>
+  </li>
+  <li>
+    <p>Ħaddm’għandujingħatatorturajewkastigjewtrattamentaħrax,limajixraqxlill-bniedemjewlijbaxxih.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddlijintgħarafkullimkienbħalapersunaquddiemil-liġi.</p>
+  </li>
+  <li>
+    <p>Kulħaddhuwandaqsquddiemil-liġiugħandul-jedd,blaebdagħażla,għalprotezzjoniugwalimil-liġi.Kulħaddgħandul-jeddgħalprotezzjonindaqskontrakullgħażlalitikserdinl-Istqarrijaukontrakullprovokazzjonigħalgħażlabħaldin.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddquddiemit-tribunalinazzjonalikompetentigħalrimedjieffettivikontral-ksurtal-jeddijietfondamentalilililuhumamagħrufamill-kostituzzjonijewmil-liġi.</p>
+  </li>
+  <li>
+    <p>Ħaddm’għandujitħallajkunimħarrek,miżmumil-ħabsjewitturufnatgħalxejnb’xejn.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddb’ugwaljanzasħiħalijkunmismugħbil-ħaqqufil-pubblikuminntribunalindipendentiuimparzjali,lijiddeċiedil-jeddijietud-dmirijiettiegħujewxiakkużakriminalikontrieh.</p>
+  </li>
+  <li>
+    <p>Kullminhumixlibiħtijalijistħoqqilhakastiggħandul-jeddlijkunmeqjusblaħtijasakemmil-ħtijatiegħutkunpprovataskontil-liġifiproċesspubblikulifihikollul-garanzijikollhameħtieġabiexjiddefendiruħu.</p>
+    <p>Ħaddm’għandujkunikkundannatminħabbagħemiljewtħollijata’għemil,lifiż-żmienmetatwettqumakinuxħtijietlijistħoqqilhomkastigskontil-liġinazzjonalijewinternazzjonali.Lanqasm’għandujingħatakastigikbarminndaklikienjingħatametatwettqetil-ħtija.</p>
+  </li>
+  <li>
+    <p>Ħaddm’għandujkollugħalxejnb’xejnindħilfil-ħajjaprivatatiegħu,fil-familjatiegħu,f’darujewfl-ittritiegħu,ulanqasm’għandujbatiminnattakkifuql-unurul-famatiegħu.Kulħaddgħandul-jeddgħall-protezzjonimil-liġikontrakullindħiljewattakkibħaldawn.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddlijmurbil-libertàminnimkiengħalieħorulijagħżelfejnjoqgħod’ilġewwamill-fruntierita’kullStat.</p>
+    <p>Kulħaddgħandul-jeddlijħallipajjiż,ukolldaktiegħu,ulijerġa’lurafih.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddlijfittexujgawdif’pajjiżioħral-kennmill-persekuzzjoni.</p>
+    <p>Danil-jeddmajistaxjintużafil-każta’persekuzzjonijietfondatitassewfuqħtijakontral-liġikomunijewfuqgħemejjelkontral-għanijietul-prinċipjital-ĠnusMagħquda.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddgħan-nazzjonalità.</p>
+    <p>Ħaddm’għandujkunimċaħħadgħalxejnb’xejnmin-nazzjonalitàtiegħu,lanqasmid-drittlijbiddilha.</p>
+  </li>
+  <li>
+    <p>L-irġielun-nisaligħandoml-etàtagħhomtaż-żwieġ,għandhomil-jeddjiżżewġuujwaqqfufamiljamingħajrxkielminħabbar-razza,in-nazzjonalitàjewir-reliġjontagħhom.Humagħandhomjeddijietindaqsgħaż-żwieġ,matuliż-żwieġumetadanjinħall.</p>
+    <p>Iż-żwieġm’għanduxisirmingħajril-ftehimħielesusħiħtaż-żewġgħarajjes.</p>
+    <p>Il-familjahil-elementnaturaliufondamentalitas-soċjetàugħandhal-jeddgħall-protezzjonimis-soċjetàumill-Istat.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddgħall-proprjetà,kemmtiegħuwaħdukifukollbisħabm’oħrajn.</p>
+    <p>Ħaddm’għandugħalxejnb’xejnikunimċaħħadminnġidu.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddgħal-libertàtal-ħsieb,tal-kuxjenzautar-reliġjon;danil-jeddiħaddanil-libertàliwieħedibiddelir-reliġjonjewil-konvinzjonitiegħuulijkunħieles,kemmwaħdujewm’oħrajn,fil-beraħjewfil-privat,jistqarrir-reliġjonjewil-konvinzjonitiegħufit-tagħlim,fl-għemejjel,fil-qimaufil-ħarsientiegħu.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddgħal-libertàlijżomml-opinjonitiegħuulijfissirha;daniħaddanil-jeddliwieħediżommopinjonijietmingħajrindħilulijkunjista’jfittexjirċieviujgħadditagħrifuideatbil-mezzilijidhirlu,irrispettivamentmill-fruntieri.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddgħal-libertàlijiltaqa’ujissieħebma’oħrajnfil-paċi.</p>
+    <p>Ħaddm’għandujkunimġiegħellijissieħebf’xigħaqda.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddlijieħusehemfil-gvernta’pajjiżu,direttamentjewpermezzta’rappreżentantimagħżulabil-libertà.</p>
+    <p>Kulħaddgħandul-jeddugwalilijidħolgħas-servizzipubbliċita’pajjiżu.</p>
+    <p>Ir-riedatal-poplugħandhatkunis-siestal-awtoritàtal-gvern;dinir-riedagħandhatintweraf’elezzjonijietġenwiniligħandhomisiruminnżmiengħalżmienlifihomjivvotakulħaddb’votindaqsusigrietjewinkellaskontproċeduribħalhomlijiżgurawil-libertàtal-vot.</p>
+  </li>
+  <li>
+    <p>Kulħadd,bħalamembrutas-soċjetà,għandul-jeddgħas-sigurtàsoċjaliugħandul-jeddlijissodisfa,permezztal-isforznazzjonaliul-koperazzjoniinternazzjonaliuskontl-organizzazzjoniur-riżorsita’kullStat,il-jeddijietekonomiċi,soċjaliukulturalilimingħajrhommajistaxiżommid-dinjitàtiegħuujiżviluppabil-libertàl-personalitàtiegħu.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddgħax-xoghol,għall-għażlaħielsatal-impjieg,għalkondizzjonijietta’xogħolġustiufavorevoliugħall-protezzjonimill-qgħad.</p>
+    <p>Kulħadd,blaebdagħażla,għandul-jeddgħalħlasindaqsgħalxogholindaqs.</p>
+    <p>Kullminjaħdemgħandul-jeddgħalħlasġustufavorevolilijiżguraliluulill-familjatiegħugħajxienlijixraqlid-dinjitàumana,ulijkunmiżjud,jekkjeħtieġ,minnkullmezzieħorta’protezzjonisoċjali.</p>
+    <p>Kulħaddgħandul-jeddjifformatradeunionsujissieħebfihomgħall-protezzjonital-interessitiegħu.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddgħall-mistrieħugħall-btajjel,kifukollgħallimitazzjonita’ħinraġjonevolita’xogħolugħalvaganziperjodiċimħallsin.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddgħallivellta’ħajjasuffiċjentibiexjiżguralusaħħtu,għajxientajjebgħalihugħall-familjatiegħu,speċjalmentf’daklihuikel,ilbies,dar,kuramedikakifukollservizzisoċjalimeħtieġa;għanduwkollil-jeddgħas-sigurtàf’każta’qgħad,mard,mankament,irmulija,xjuħijaufil-każil-oħrametaminħabbaċirkostanzilimajkolluxkontrollfuqhomjitlefil-mezzital-għajxien.</p>
+    <p>L-ommijietut-tfalgħandhomil-jeddgħall-kuraugħalgħajnunaspeċjali.It-tfalkollha,kemmjekktwieldufiż-żwieġukemmbarraminnu,għandhomigawdul-istessprotezzjonispeċjali.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddgħall-edukazzjoni.L-edukazzjonigħandhatkunb’xejn,għall-inqasfil-gradielementariufondamentalitagħha.L-edukazzjonielementarigħandhatkunobbligatorja.L-edukazzjoniteknikauprofessjonaligħandujkunjista’jagħmelużuminnhakulħadd;l-edukazzjoniuniversitarjagħandhatkunmiftuħab’modugwaligħaldawkkollhalijistħoqqilhom.</p>
+    <p>L-edukazzjonigħandujkollhabħalagħanl-iżviluppsħiħtal-personalitàumanaulissaħħaħir-rispettgħall-jeddijietugħal-libertajietfondamentalital-bniedem.Għandhatħeġġeġil-ftehim,it-tolleranzaul-ħbiberijafostin-nazzjonijiet,ir-razezjewil-gruppireliġjużikolhaugħandhatmexxi’lquddiemil-ħidmiettal-ĠnusMagħqudagħaż-żammatal-paċi.</p>
+    <p>Il-ġeniturigħandhoml-ewweljeddlijagħżlul-għamlata’edukazzjonilitingħata’luliedhom.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandul-jeddlijieħusehembil-libertàfil-ħajjakulturalital-komunità,lijgawdil-artiulijaqsamfil-progressxjentifikuufil-ġidlijġibmiegħudanil-jedd.</p>
+    <p>Kulħaddgħandul-jeddlijkollul-protezzjonigħall-interessimoraliumaterjalitiegħumetajkunl-awturta’produzzjonixjentifika,letterarjajewartistika.</p>
+  </li>
+  <li>
+    <p>Kulħaddhuintitolatgħalordnisoċjaliuinternazzjonalilifihil-jeddijietul-libertajietimxandraf’dinl-Istqarrijajkunujistgħujitwettqutassew.</p>
+  </li>
+  <li>
+    <p>Kulħaddgħandudmirijietlejnil-komunitàlifihabissjista’jwettaql-iżviluppħielesusħiħtal-personalitàtiegħu.</p>
+    <p>Fit-tħaddimtal-jeddijietutal-libertajiettiegħu,kullwieħedgħandujkollubissdawkil-limitazzjonijietlijiġumil-liġi,ligħandhabissbħalagħanlitiżgural-għarfienur-rispettgħall-jeddijietul-libertajiettal-oħrajnulitissodisfadakliġustamentjitolbul-morali,l-ordnipubblikuul-ġidkomunif’soċjetàdemokratika.</p>
+    <p>Dawnil-jeddijietul-libertajietmajistgħufl-ebdakażjitħaddmukontral-għanijietul-prinċipjital-ĠnusMagħquda.</p>
+  </li>
+  <li>
+    <p>Xejnf’dinl-Istqarrijamajista’jkunmifhumlijagħtililxiStat,għaqdajewpersunal-jeddlitagħmelxiħidmajewlitwettaqxigħemilbil-għanliteqredxijeddijietjewlibertajietlihumamxandrahawnhekk.</p>
+  </li>
+</ol>

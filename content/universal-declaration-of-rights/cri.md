@@ -1,0 +1,122 @@
+<h1 align='center'>Declaraçón Universal di Dirêtu di Hómé</h1>
+<h2 align='center'>Pleâmbulo</h2>
+<p align='center'>Punda dignidade di tudo nguê di mundu e dirêtu d'inem igual e andeji cu a na pô bêndê fa sá stê di liberdade, di justiça e di paz ni mundu;
+Punda fata di conheximentu e displêzu di dirêtu di hómé plovocá atu di malvadez cu ca revoltá cunxença di tudu hómé di mundu e punda ua mundu cu tudu nguê ca pô sa livli, pê pô flá e pê pô quêlê ni cuá cuê mêssê, sê mendu e sê miséria, fô ploclamadu cuma cuá maxi importanti cu hómé inventá;
+Punda ploteçón di dirêtu di hómé baseado ni ua ligime di dirêtu sá importante lumadu, pa hómé na sá obligado utilizá, cuma ultimu recurso, livolta contla tirania e opressón;
+Punda ê sá importante lumadu conselhá disenvolvimentu di amizade entre tudu téla;
+Punda ni Cata, tudu pôvô di Naçón Unida ploclamá ôtlô vê, fé d'inen ni dirêtu di hómé cu di muala e nen declará cuma nen sá lesovido melhorá ploglesso social pa tudu nguê tê milhó vida ni ua liberdade maxi nglandji;
+Punda tudu Estado memblu xiná complomissu cuma nen ca ba plomovê, ni cooperaçón cu Organizaçón di Naçón Unida, lispêtu universal e efetivo di dirêtu di hómé e di liberdade maxi importanti;
+Punda ua mêma conceçón di nen dirêtu cu liberdade sé sa importanti lumadu pa pô cumpli complomisso sé:
+Assembleia Geral
+Ca ploclamá Declaraçón Universal di Dirêtu di Hómé sé cuma ua cuá buá pa tudu pôvô cu téla di mundu pô fé, pa tudu nguê cu tudu organizaçón di téla, pô na txilé ni cabeça fa, fé tudu cuá cu nen cá pôji, pá melhorá ensino cu educaçón, disenvolvê lispêtu di dirêtu cu liberdade, tlabá pa pô concê e pa pô platicá tudu cuá sé ni tudu Estado memblu e ni téla cu naxi tê dependenxa fa.</p>
+<ol>
+  <li>
+    <p>Tudunguêdimunducanancêlivlieigualnidignidadeenidirêtu.Pundanencapensáenentêcunxensa,selánenfétuducuácutençóndelumón.</p>
+  </li>
+  <li>
+    <p>TudunguêcapôflánidirêtuculiberdadecusaploclamaduniDeclaraçónsé,sêdistinçón,mófaladilaça,dicôlô,disexo,dilungua,direligiôn,dipensamentopolíticoôôtlo,dinaturezaditélaôdisociedade,diliqueza,dinaximentuôqualquéôtlosituaçón.Aléndicuásé,anacapôfénêuaseparaçónbaseadoniestatutopolítico,jurídicoôditéladiqualquénguê,mêmuxitélaséconquistádependenxazáôxiênaxitêfa.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtudivida,diliberdadeedisegurançapessoal.</p>
+  </li>
+  <li>
+    <p>Nêuanguêcapôvivêniesclavaturafa;esclavaturacubendêôcopláesclavosáploibido.</p>
+  </li>
+  <li>
+    <p>Nêuanguênacapôsêtlataducuclueldadeesêcloçónfa.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtupatlatécujustiçanitudulugué</p>
+  </li>
+  <li>
+    <p>Tudunguésáigualpêcumplileiditélaeseláleiséplotêgêtudunguêsêfédistinçón.SelátudunguêsáplotegidosêdistinçóncontlaqualquécuácusácontlaDeclaraçónséecontlatuducuácucáplovocámalisé.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtudilecolênistluviçuditéladê,contlaqualquésituaçóncucavioládirêtumaxiimportanticusániConstituiçónenilei.</p>
+  </li>
+  <li>
+    <p>Nêuanguênacapôsáplesufaeanacapômandániuanguêbaôtlotélasêmotivofa.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêmêmudirêtunitlibunal,cutocátlatátuducuádinguêsécujustiça,sêplijudiquédiqualquémodo.</p>
+  </li>
+  <li>
+    <p>Tudunguêcusácusadodiféqualquécuásánôcentxiantêcuacajulguépublicamentenitlibunaleseláadépossibilidadepêpôdêfêndêubuêdêcontlacusaçónsé.</p>
+    <p>Anacapôcondenáuanguêfa,xinimomentocuêfémali,penacucacastigámalisénasáesclitonilivludijustiçaditeládêônilivludijustiçainternacional.Anacapôdéuacastigomaxipesadofa,xinidjácuêfémali,penasémaxipesadonatavasénfa.</p>
+  </li>
+  <li>
+    <p>Anacapôincomodásêmotivouanguênividadêfa,nifamiliadêfa,nikédêfa,nicatadêfa,eanacapôtoquénihonranêreputaçóndêfa.Seláleiditeládêplotegêcontlatudumalisé.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtudindáecoiêkédên'dentluditéladê.</p>
+    <p>Tudunguêtêdirêtudixêditélaandjiêsánê,ditéladêtudaxi,eêtêdirêtudibilábatéladêolaêmêssê.</p>
+  </li>
+  <li>
+    <p>Tudunguêcusáplesseguidoniuatélaêtêdirêtudiploculáploteçónniôtlotéla,eêsáobligadopadéploteçón.</p>
+    <p>MajidirêtusénacavalêfaxiqualquénguêcometêuaclimeôxiênalispetátudumandamentodiNaçónUnidafa.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtuditêuanacionalidade.</p>
+    <p>Anacapôtxiláuanguênacionalidadedêfanêobliguémudánacionalidadedêfa.</p>
+  </li>
+  <li>
+    <p>Tuduhómécumualatêdirêtudicasáediflomáfamilia,olacunencatêdaji,sêpiálaça,nacionalidadeôreligión.Tudunentêmêmudirêtu,olanensácasadueolacasácablagá.</p>
+    <p>Anacapôobligáhómécumualacasáfa.</p>
+    <p>FamiliasábaseditudusociedadeeêtêdirêtudiploteçóndisociedadeediEstado.</p>
+  </li>
+  <li>
+    <p>Tudunguê,xiêsáêlêtanôzuntaducuôtlonguê,têdirêtudipropriedade.</p>
+    <p>Anacapôtxilásêmotivoqualquébéndiuanguêfa.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtudipensamento,dicunxençaedireligión;dirêtusécaimplicáliberdadedimudádireligiónôdiconviçón,liberdadedimanifestáreligiónôconviçón,uanguêtanôzuntadocuôtlonguê,publicamenteônon,nituducuáditelá.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtudiliberdadediopiniónediflá.Anacapôplijudicánêuanguêfapundaêmanifestáopinióndêeêcapôgoló,lêcêbêeuangá,niqualquéxitucuêmêssê,tudupensamentudê,tuduideiadê,modocuêmêssê.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtudiliberdadedireuniónediassociaçón.</p>
+    <p>Anacapôobligáneuanguêdifépatxideuaassociaçónfá.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtudiparticipánituduassuntoditeladê,êpôsaêlêméôêcapômandáuanguêcuêmêssê.</p>
+    <p>Tudunguêtêdirêtudilutánitudusituaçóndiestadoditéladê.</p>
+    <p>VontédipovosábasedeautoridadedipodêdiEstado,vontésécamanifestánielêçónlivliejustucucarealizácudatamlacadozánileibaseadonivotosecletoecutudunguêtêliberdadedivoto.</p>
+  </li>
+  <li>
+    <p>Tudunguê,cumaêsámemblodisociedade,êtêdirêtuditêsegurançasocial.Andejiêtêdirêtudipidjipêgózádidirêtueconómico,socialeculturalglaçaasaclifiçuditudunguêditéladê,edicoperaçóninternacional.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtuditlabá,dicôiêtlabácuêmêssêedituduploteçonpanatxilédisluviçufa.</p>
+    <p>Tudunguêsêdiscliminaçóncucáféuacastadistluviçu,tudunguêsé,têuamigidadigêlosémé.</p>
+    <p>Tudunguêcucatlabáseláêlêcêbêgêlucucadápêvivêbaleladucufamiliadêsêpassáafliçón.</p>
+    <p>Tudunguêcumêssê,têdirêtudijuntáglupucuotlônguêpáfundásindicatodidêfendêinteressedigluposé.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtudidescanso,egozáféliatuduanu,eólacuécalentláféliasé,selápatlónôestadopaguévencimento.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtuditêvidabaleladupêpôgozádisaôjiêlêcufamiliadê,têcumé,lôpa,ké,dôtôlôcuminjan.Êtêdirêtudisegurançasocial,ólaêsásêstluviçu,niduentxi,xiêsôflêacidente,xiêbilávéôn'ôtlôsituaçóncunacadémeiopêpôvivê,contlavontédê.</p>
+    <p>Maternidadecuminapiquinatêdirêtudizudacuassistência.Tuduminapiquinamêmucunasáminadihóméômualacasadufa,têdirêtudiploteçónsocial.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtudieducaçón.Estadotocápagáensinobásicodatudunguê.Ensinobásicosáobligatório.Ensinotécnicocuprofissionaltocázistinituduxituetudunguêcumêssêfécursusuperiorseládésséxiêtêcondiçónpêfê.</p>
+    <p>Seláeducaçóncontribuipadesenvolvimentodihómé,lefoçádirêtuculiberdademaxiimportantidihómésé.Andejiêtocáfétuducuápazisticomplençón,tolerânciacuamizadeentretudunaçóncutudulaçaôreligión,edesenvolvimentodituducuácuNaçónUnidacafépatudunguêtêpaz.</p>
+    <p>Tudupésócacoiêquêtipudeeducaçóncusamilhópaminadê.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtudiparticipániculturadiregióndê,nidesenvolvimentocientíficoeluclácuê.</p>
+    <p>Tudunguêtêdirêtudiproteçóndiinteressemoralematerialditudutlabácientífico,literárioeartísticocuêfé.</p>
+  </li>
+  <li>
+    <p>Tudunguêtêdirêtudifépazisti,niplanosocialcuniplanointernacional,uamododidirêtueliberdadecusániDeclaraçónsé,sácuávedé.</p>
+  </li>
+  <li>
+    <p>Qualquénguétêobligaçónniglupudê,exiênasaniglupuséfa,ênacadesenvolvêfa.</p>
+    <p>Ólaqualquénguêcagozádirêtuculiberdade,seláêcumplileipaplomovêlispêtudidirêtucudiliberdaded'ôtlonguê,pamoral,leidigovenuegozogeralnidemocraciasácuávedé.</p>
+    <p>TududirêtuculiberdadesénacapôzisticontlavontédiNaçónUnida.</p>
+  </li>
+  <li>
+    <p>TuducuácusániDeclaraçónsénacapôplimitiqualquéEstado,glupuônguêdiféqualquécuácucapôplijudicátududirêtuculiberdadecusániducumentosé.</p>
+  </li>
+</ol>

@@ -1,0 +1,122 @@
+<h1 align='center'>MALUKPANONG DEKLARASYON SA TAWHANONG MGA KATUNGOD</h1>
+<h2 align='center'></h2>
+<p align='center'>Samtamg ang pag-ila sa tiunay nga kabililhon ug sa managsama ug dili maagaw nga mga katungod sa tanang sakup sa tawhanong banay mao and sukaranan sa kagawasan, hustisya ug kalinaw sa kalibutan.
+Samtang ang wala pagtagad ug pagbiaybiay sa mga tawhanong katungod misangpot samabangis nga mga buhat nga nagbiaybiay sa tanlag sa katawhan, ug ang pag-abot sa usa ka kalibutan diin ang tanang katawhan makapahimulos/makatagamtam sa kagawasan sa pagsulti ug pagtoo ug kagawasan gikan sa kahadlok ug sa panginahanglan gimantala isip pinakahingpit nga tinguha sa yanong katawhan.
+Samtang kini gikinahanglan kung ang tawo dili mapugos sa pagdangop, isip katapusang dalangpan, sa pag-alsa batok sa pagpanglupig ug paglisudlisod, nga ang tawhanong mga katungod mapanalipdan pinaagi sa mga lagda sa balaod.
+Samtang kini gikinahanglan sa pagpauswag sa paglambo sa hinigala nga resyon tali sa mga nasud.
+Samtang ang katawhan sa Tinipong Kanasuran (UN) naghimo diha sa lagda sa pagmatuod pag-usab sa ilang pagsalig sa sukaranan sa tawhanong mga katungod sa kabililhon ug kamahinungdanon sa mga tawo ug sa managsamang katungod sa mga lalaki ug mga babaye ug malig-on sa pagpalambo sa sosyal nga kauswagan ug sa mas maayong sumbanan sa kinabuhi sa mas halapad nga kagawasan.
+Samtang ang mga sakop sa mga nasud nanumpa sa ilang kaugalingon sa pagtuman, uban sa pagtambayayong sa Tinipong Kanasuran, ang pagpalambo sa malukpanong pagtahud ug pag-atiman sa tawhanong mga katungod ug gikinahanglang mga kagawasan.
+Samtang yanong gikasabutan niining mga katungod ug mga kagawasan ang sangputanan sa bug-os nga pagtuman sa maong saad.
+Karon, tungod niini, ang tibuok Asembleya nagpahayag:
+Kining Malukpanong Deklarasyon sa Tawhanong mga Katungod isip dayag nga sumbanan sa tanang katawhan ug mga kanasuran, nga sa katapusan nga ang matag tawo ug matag bahin sa katilingban, makanunayong magabansay niining Deklarasyon sa hunahuna, sa pagsalig sa malukpanon ug malampuson nga pagtamud ug pagtuman, alang sa tanang katawhan sa sakup nga mga nasud ug alang sa mga katawhan usab sa mga ginsakpang kayutaan ubos sa ilang gahum.</p>
+<ol>
+  <li>
+    <p>Angtanangkatawhangipakatawongamaykagawasanugmanagsamasakabililhon.Silagigasahansasalabutanugtanlagogmag-ilhanayisipmanagsoonsausa'g-usadihasadiwasaospiritu.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaylunasatanangmgakatungodugmgakagawasangihan-ayniiningDeklarasyon,sawalaypagpihigsabisanunsa,samasakaliwat,tribu,buloksekso,pinulongan,relihiyon,politikalososyalngakagikan,kabtangan,pagkatawooubanpangkahimtang.Dugangpa,dilihimoonangpagpihigpinasikadsapolitikal,gahumointernasyonalngakahimtangsanasudoginsakpangkayutaandiinangtawonahisakop,bisankonkinigawasnon,gisalig,walaykinaugalingongkagamhananoubossabisanunsanglimitasyonsakamandoan.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsakinabuhi,kaugalingnanugseguridadsapagkatawo.</p>
+  </li>
+  <li>
+    <p>Walaybisankinsangaibanlodsapagkauliponopugsonsapaghimosabug-atngabuluhatonkayginadiliangtanangmatangsapaghimoniini.</p>
+  </li>
+  <li>
+    <p>Walaybisankinsaangibutangsakasakitosasinalbahis,dilimakatawoopagpakaulawokastiguhon.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodngailhonisiptawoatubangansabalaod.</p>
+  </li>
+  <li>
+    <p>Angtananmanagsamaatubangansabalaodugmaykatungodsawalaypagpihigsamanagsamangpanalipodsabalaod.AngtananadunaykatungodsamanagsamangpanalipodbatoksabisanunsangpagpihigngamakapalasniiningDeklarasyonugbatoksabisanunsanghinungdansamaongpagpihig.</p>
+  </li>
+  <li>
+    <p>AngmatagusaadunaykatungodsamasangputongpaagisumalasabatidsamgahusgadongnasyonalalangsamgabuhatngakalapasansasukaranangmgakatungodngagihatagkaniyasaKonstitusyonosabalaod.</p>
+  </li>
+  <li>
+    <p>Walaysibisankinsaangaristuhonpinsagisabutangbutang,ibutangsapagpugong,opahiklingonsalayongdapit.</p>
+  </li>
+  <li>
+    <p>Angtananmaykatungodsahingpitngapagkaparehassausakamaangayonugpublikonghusaysausakagawasnonughukmananngawalaygidapigandihasapaghukomsaiyangmgakatungodugmgakatungdananugbisanunsangkriminalngasumbongbatokkaniya.</p>
+  </li>
+  <li>
+    <p>Matagusangasinumbongsausakamaysilotngakalapasanadunaykatungodngapaka-ingnonngawalaysalahangtundmasutasumalasabalaodsausakapublikongahusaydiinanaakaniyaangtanangmgakasegurohanngagikinahanglansaiyangpanalipod.</p>
+    <p>Walayusangahukmanngamasalayponsabisanunsangsalaudngamaypenalngasilotsasaysaysabisanunsangbuhatopagpakyasngawalagibaodsapenalngakasaypanan,ubossanasyonalointernasyonalngabalaod,sapanahonngakininabuhat.Niangmasbug-atngasilotipahamtangkaysausangaangaysapanahonngaangmaongsalaudnahimo.</p>
+  </li>
+  <li>
+    <p>Walaysibisankinsaangibutangsadilimakatarunganongpagpanghilabotsaiyangpag-inusara,pamilya,puloy-ananokomunikasyon,niatakisaiyangdungogugmaayongpangalan.Angmatagusamaykatungodsapagpanalipodatubangansabalaodbatoksanahisgutangdilimakatarunganongpag-ataki.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsakagawasansapaglihokugpuloy-anansulodsakaugalingongutlanansamatagnasud.</p>
+    <p>Angmatagusaadunaykatungodsapagbiyasabisanunsangnasud,lakipandiyangkaugalkingon,ugsapagbaliksaiyangnasud.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsapagtinguhaugsapaglingawlingawsaubangnasuddalangpangikansapagpanggukodopagpanglutos.</p>
+    <p>Kiningmaongmgakatungodmahimongdiliikapangaliyuposahigayonsamgapagedmandadiinmatuodnganagagikansadili-politikalngamgakalapasanogikansamgabuhatngasupaksamgakatuyoanugmgasukaranansaTinipongKanasuran.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsapagkanasudnon.</p>
+    <p>Walaybisankinsangasawalaykatarunganhukasansaiyangpagkanasudnonnidilihatagansakatungodsapagbalhinsaiyangpagkanasudnon.</p>
+  </li>
+  <li>
+    <p>Anglalakiugbabayengahingkodnaogpanuigon,sawalaypagkakutotungodsakaliwat,pagkalungsoranonorelihiyon,adunaykatungodsapagminyougsapagmugnaogpamilya.Silagihatagansamanagsamangkatungodsamasakaminyoon,panahonsakaminyoonugsapagkabungkag.</p>
+    <p>Angkaminyoonmahimolamangdihasagawasnonughingpitngapagtugotsanaghunahunangamagtiayon.</p>
+    <p>Angpamilyamaoangsagadugtinubdansapundoksakatilingbanugmaykatungodngapanalipdansakatilingbanugsanasud.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsapagpanag-iyaogkaugalingongkabtanganlakipangpagpakig-kumbuyasauban.</p>
+    <p>Walaysibisankinsangasawalaykatarungankuhaansaiyangkabtangan.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsakagawasansahunahuna,tanlag,ugrelihiyon.Kiningkatungodnagalakipsakagawasansapag-ilissaiyangrelihiyonopagtoo,ugkagawasanbisanmag-inusaraokatilingbanonlakipangubanogsapublikoopribado,sapagpadayagsaiyangrelihiyonopagtooopagtudlosapagtoo,pagbansay,pagsimbaugpagtuman.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsahunahunaugpagsulti.Kiningkatungodnagalakipsakagawasansapagpugongsahunahunasawalaypaghilabotugsapagpangita,pagdawatosapaghatagogkasayuranugpanahumpinaagisabisanunsangmatangsakomunikasyonsawalaypagtagadsamgautlanan.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsakagawasansamalinawongasembleyaugasosasyon.</p>
+    <p>Walaysibisankinsaangmapugossapagpasakopsaasosasyon.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsapagsalmotsapanggamhanansaiyangkaugalingongnasud,salaktodopinaagisapagpiliugmgadiputado.</p>
+    <p>Angmatagusaadunaykatungodsamanagsamangpagsulodsaserbisyopublikosaiyangkaugalingongnasud.</p>
+    <p>Angkabubut-onsakatawhanmaoybasehanansagahumsakagamhanan;kinigipadayagsamatagkaronugunyauglunsayngapiniliayngaginahimongamalukpanonugmanagsamangkatungodsapagbotoogpagahimoonngatinagongapagbotoomanagsamanggawasnonsapagbotar.</p>
+  </li>
+  <li>
+    <p>Angmatagusa,isipsakopsakatilingban,maykatungodsasosyalngapanalipodugmaykatungodsapagtumanpinaagisanasyonalngapaningkamotuginternasyonalngapanagbuligugdihasapanag-uyonubansaorganisasyonogkahinguhaansamatagnasud,saekonomiya,sosyalugkulturalngamgakatungodngakinahanglanonkaayoalangsaiyangkabililhonogsagawasnongpaglambosaiyagpagkatawo.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsapagtrabaho,sagawasnongpagpilisatrabaho,samaangayonugmapuslanonngamgakahimtangsatrabahougsapanalipodbatoksawalaytrabaho.</p>
+    <p>Angmatagusa,sawalaypagpinig,adunaykatungodsamanagsamangsuholsasamangtrabaho.</p>
+    <p>Angmatagusanganagtrabahoadunaykatungodsamaangayonugmapuslanonngasuholngamaghatagkasegurohansaiyangkaugalingonogsaiyangpamilyaangpagkinabuhingaangayansatawhanongkaambongugdugang,kunggikinahanglan,saubangpaagisasosyalngapanalipod.</p>
+    <p>Angmatagusaadunaykatungodsapagpormaugsapagsalmotsa"tradeunions"alangsapanalipodsaiyangtinguha.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsapagpahulayugpaglulinghayaw,lakipnaangmakatarunganonglimitasyonsaorassapagtrabahougmatagkaronugunyangabakasyonngamaysuhol.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsapanig-ingnanngapagkinabuhihustoalangsamaayongpanglawasogkauswagansaiyangkaugalingonugsaiyangpamilya,lakipnaangpagkaon,bisti,balay,ugmedisinangapag-amumauggikinahanglangserbisyososyalugkatungodsaseguridadsapanahonngamawad-anogtrabaho,sakit,kabilinggansapanglawas,pagkabalo,pagkatigulangoubanngakulangsapanginabuhisamasakahimtangngawalasaatongpagdumala.</p>
+    <p>Angmgainahanugkabataanmaykatungodsalinainngapag-amumaugpanabang.Tanangkabataan,nganatawosulodogawassakaminyoonmakapahimulossamanagsamangsosyalngapanalipod.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsaedukasyon.Kinahanglanngaangedukasyonwalaybayad,bisandihanalangsaelementaryaugsasukaranangang-ang.Angelementaryangaedukasyonkinahanglanpinugos.Tiknikalogpropisyonalngaedukasyonpagahimoonngamapuslanuganghataasngaedukasyongikinahanglangmakab-otsatananbasisakatakus.</p>
+    <p>Angedukasyonmaggiyasatibookngapaglambosatawhanongpersonalidadugsapaglig-onsapatahodsatawhanongmgakatungodugsukaranangmgakagawasan.Kinimakapausbawsapagsabot,pagka-mapasayloonugpanaghigalaaysamgakanasuran,kaliwatanorelihiyongmgapundok,ogmagapadayonsamgakalihukansaTinipongKanasuranalangsapaggalamsakalinaw.</p>
+    <p>Angmgaginikananadunayunangkatungodsapagpilisamatangsaedukasyonngamahatagsailangmgaanak.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungodsagawasnonngapagsalmotsamgakulturanhongkinabuhisakatilingban,sapagtagamtamsamgaarteugpagpaambitsasiyentipikongkauswaganugmgabinipisyo.</p>
+    <p>Angmatagusaadunaykatungodsapanalipodsamoralugmaterialngamgainteresngaresultagikansabisanunsangsiyentipiko,literaryooartistikongpanggamangadiinsiyaangnagmugna.</p>
+  </li>
+  <li>
+    <p>AngmatagusaadunaykatungodsasosyaluginternasyonalngakalinawngaangmgakatungodugmgakagawasanngagipahayagniiningDeklarasyonmahimongmatumansahingpit.</p>
+  </li>
+  <li>
+    <p>Angmatagusaadunaykatungdananngadtosakatilingbandiinkonmag-inusara,anggawasnonughingpitngapaglambosaiyangpagkatawomahimo.</p>
+    <p>Sapagbansaysaiyangmgakatungod,angmatagusamahimolamangngamag-agadsalimitasyonsamasangapihosabalaod,bugtongalangsakatuyoansamasagipasaligngaigosapag-ilaugpagtahodsamgakatungodugmgakagawasansaubanugsapanagtagbosamanggiangayonngakinahanglanonsamoralidad,publikongakasugoanugangkasagaranngakauswagansademokratikongakatilingban.</p>
+    <p>KiningmgakatungodugkagawasanuntadilimahimonggamitonngasupaksamgakatuyoanugsumbanansaTinipongKanasuran.</p>
+  </li>
+  <li>
+    <p>WalaybisanunsaniiningDeklarasyonngamahimonghubaronsabisankinsangNasud,pundokotawoangbisanunsangkatungodsapaghimosabisanunsangkalihukanosapaghimosabisanunsangbuhatngaangtumongmaoangpagwagtangsabisanunsangmgakatungodugkagawasannganahipatikdinhi.</p>
+  </li>
+</ol>

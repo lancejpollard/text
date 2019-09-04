@@ -1,0 +1,121 @@
+<h1 align='center'>LI XJULTIKANKIL XWANKILAL XLOQ'AL LI POYANAM SA' RUCHICH'OCH'</h1>
+<h2 align='center'></h2>
+<p align='center'>Xch'olob'ankil naq li waank sa' xyaalal, li waank sa' usilal ut li tuqtuukilal sa'li ruchich'och' toj naraj naq xk'eb'al xloq'al ut juntaq'eetaq xwankil chijunil li poyanam;
+Xch'olob'ankil naq makach'in li raylal nak'ulman sa' ruchich'och' xb'aan naq maak'a' nake'raj re ut xik' nake'ril li xwankilal li xloq'al li poyanam, ut jo'kan naq xxaqab'aman kama' li jual aajel ru chiru li poyaman li xx'ub'ankil ru li ruchich'och' b'ar wi' li poyanam ink'a' te'xuwa rib' ut ink'a' sub'suqeb' sa' neb'a'il, re naq chi jo'kan sa naq te'aatinaq ut sa naq te'xpaab' li k'a'ru te'raj;
+Xch'olob'ankil naq tento kolb'ilaq sa' li chaq'rab' li xwankilal ut li xloq'al li poyanam, re naq ink'a' taawakliiq chi xkolb'al rix sa' josq'il;
+Xch'olob'ankil naq tento ajwi' xwaklesinkil li k'amok ib' sa' usilal sa' xyaanqeb' li k'ila tenamit sa' ruchich'och';
+Xch'olob'ankil naq li Xch'uutamil li K'ila Tenamit sa' Ruchich'och' (Naciones Unidas) ak xe'xaqab' chi us sa' li xhuheb' li xwankilal ut li xloq'al li poyanam, li xjuntaq'eetil li wiinq rochb'en li ixq, ut xe'xke' xch'ool chi junajwa xwaklesinkil li tenamit re naq waanq xsahilal xyu'am ut twaanq sa' xyaalal;
+Xch'olob'ankil naq li k'ila tenamit ch'utch'uukeb' sa' ruchich'och xe'xye naq te'xkol rix li xwankil ut li xloq'al li poyanam sa' chijunil li ruchich'och', ut
+Xch'olob'ankil naq aajel ru naq juntaq'eet chi tawmaanq ru li na'leb' xyeeman arin, re naq chi tz'aqatz'aqal tauxmaanq;
+Li Xnimla Ch'utam li K'ila Tenamit sa' Ruchich'och' naxxaqab' li xjultikankil li xwankilal xloq'al li poyanam sa' ruchich'och' re naq a'an wanq sa' xch'ooleb' chijunil li tenamit, a'an li te'xsik' chi junelik sa' junesal jo' sa' komonil, re naq te'xwaklesi rik'in li tzolom li roxloq'inkil li usilal ut li sahilal a'in ut te'xk'e xch'ool chi xb'aanunkil sa' xb'een chijunil li ruchich'och'.</p>
+<ol>
+  <li>
+    <p>Chijunillipoyanamjuntaq'eetwankilxloq'alnaqnake'yo'la,utkama'akreheb'naqwanxna'leb'ebutnake'reek'arib',tentonaqte'xk'amrib'sa'usilalchirib'ilrib'eb'.</p>
+  </li>
+  <li>
+    <p>Chijunilliusilalchaab'ilalwansa'liJultikahoma'ina'anrechijunillipoyanam,maak'a'naxyeb'arelajenaq,b'aryo'lajenaq',chanrunailok,maixqmawiinq,k'a'ruliraatinob'aal,lixpaab'aal,k'a'runaxk'a'uxlachirixliawab'ejiinkmalaqk'a'ruchikchina'leb'il,ustab'ihomustaneb'a',utk'a'aqreruchik.Jo'kanajwi'maak'a'naxyechanruwanlitenamitb'arwi'chaljenaqwi'.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamkolb'ilaqrix,jo'lixyu'amjo'lixwanjiniksa'xyaalal.</p>
+  </li>
+  <li>
+    <p>Maajunlipoyanamtireechanitajunaqchiklipoyanammalaqtixtawasitarik'inkawilk'anjel.A'inramb'iltz'aqalchirulichaq'rab'.</p>
+  </li>
+  <li>
+    <p>Maanitaaruuqtatawasiiq,tak'eheqchitoje'kxmaakmalaqtasak'e'qchiyo'onmalaqtakub'siiqxwankilxpoyanamil.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamyalaqb'arnaruxaqab'anb9ilaqxwankilchirulichaq'rab'.</p>
+  </li>
+  <li>
+    <p>Juntaq'eeteb'chijunillipoyanamchirulichaq'rab'utjuntaq'eetajwi'naqkolb'ilaqeb'chiru.Junta'eetnaqkolb'ilaqeb'wite'rajch'e'e'kchiruliusilalchaab'ilalwanchisa'liJultikahoma'in.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamnarutajitoqchirulichaq'rab'renaqtakole'qxwankilalxloq'alwansa'liXnimalRuhilChaq'rab'jo'ajwi'sa'lik'ilachaq'rab'.</p>
+  </li>
+  <li>
+    <p>Maaninarutachape'q,tak'eheq'sa'tz'alammalaqtaisiiqsa'xtenamitwimaak'a'xmaak.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamnarutaa'ab'iiqsa'juntaq'eetilutchirutenamit,xb'aanjunaqliraqob'aalaatinaka'anxk'anjelxaqxooqwi',renaqtasik'e'qchanruwanchirulichaq'rab'malaqk'a'utnaqyochiq'ab'aak.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamq'ab'anb'il,naruxyeb'alnaqmaak'a'xmaakwimaji'natawmanxmaak,chirulichaq'rab'utchirulitenamit,utb'arwi'nak'utunnaqxteenq'aakchiuschixkolb'alrib'.</p>
+    <p>Maanitak'eheqchitoje'kxmaakwilixb'anuhommalaqink'a'xb'anuhom,mokomaaktachirulicharq'rab'naqxk'ulman.Jo'kanajwi'ink'a'naruxk'eb'alxtz'aqob'xtojb'alxmaakwi'maawa'a'anwansa'lichaq'rab'naqxmaako'.</p>
+  </li>
+  <li>
+    <p>Maanitach'i'ch'i'iiqchimaak'a'xyaalal,jo'sa'xjunkab'al,sa'rochoch,malaqxtanqlhu,malaqrexjob'al.Chijunillipoyanamnarutixkolrib'chirulichaq'rab'wiyochich'i'ch'i'iikchijo'kan.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamyalaqb'artaaruuqtab'eequtyaalrek'a'rutenamitultakanaaqwi'chiwaank.</p>
+    <p>Chijunillitenamitnarutixkanab'lipoyanam,ustalire,utnarutasutq'iiqsaxtenamit.</p>
+  </li>
+  <li>
+    <p>Wiyochisik'e'kjunaqlipoyanamnarutixkolrib'sa'junaqchiktenamit.</p>
+    <p>A'inink'a'naruxb'aanunkilwitz'aqalch'olch'osa'raqob'aalaatinnaqwanxmaakchirulichaq'rab'malaqchirulixyehomxna'leb'ilxch'utaamillixk'ilatenamitulliruchich'och'.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamnarutwanqxtenamitul.</p>
+    <p>Maanitaruuqtaisiiqchirulixtenamitul,jo'ajwi'lixjalb'alwijo'kantraj.</p>
+  </li>
+  <li>
+    <p>Eb'liwiinquteb'liixq,naqnaxrawxq'ehil,narunake'sumlautte'waanqustate'xk'uub'xjunkab'al,utjuntaq'eetxwankileb'naqte'waanqustate'xjachrib'moqon.Liusilala'ina'anrechijunilalipoyanam,maak'a'naxyechanrunailok,b'arxtenamitulmalaqlixpaab'aal.</p>
+    <p>Narulisumlaakwi'lipoyanamte'rajsumlaak.</p>
+    <p>Lijunkab'ala'antz'aqallixaqxowi'junaqlitenamit,jo'kannaqkolb'ilaqxb'aanlitenamitjo'ajwi'lix'awab'ejilallitenamit.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamnarutwaanqk'a'aqrure,chixjunesalilutsa'komanil.</p>
+    <p>Maanitamaq'e'qlik'a'aqrurechiruchimaak'a'aqxyaalal.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamtaruuqtixk'a'uxla,tireek'auttixpaab'lik'a'rutraj;taruuqajwi'tixjallixpaab'aalmalaqlixk'a'uxl,taruuqtixb'aanulixpaab'aalmalaqlixk'a'uxl,chixjunesalutsa'komonil,chirutenamitmalaqsa'muqmu,chik'utb'il,chib'aanunb'ilmalaqchiilb'il.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamnarutixyelik'a'runak'ulunsa'xch'ool;ink'a'narutach'i'ch'i'iiqxb'aana'an,taruuqtixsik',tixk'ullik'ilana'leb'uttarisiresilyalaqb'ar.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamnarutixch'utub'rib'uttixyoob'xch'utamchituqtuukilal.</p>
+    <p>Maanitamine'qchiruwaanksa'junaqch'utam.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamnarunaokensa'x'awab'ejilallixtenamit,a'anaqajwi'malaqyaltixsik'ruuchil.</p>
+    <p>Chijunillipoyanamnarunaokchik'anjelakchiruliawab'ejilalsa'lixtenamit.</p>
+    <p>Lik'a'runarajlitenamita'anlinataqlansa'xb'eenlixb'aanuhomliawab'ejilal;arannak'utunnaqnawanlisik'oku,ab'antentoxb'aanunkilnaqnaxtawxq'ehil,te'okeenqchijunilutsa'muqmurenaqyaalrelitenamitanitixxaqab'.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamkolb'ilaqrixutteenq'anb'ilaq,lixtenamitulutlixteenqliab'ltenamittentonaqte'xsik'xyaalalxteenq'ankil,kama'narajxloq'alxwankilalrenaqsawanq.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamnarunak'anjelak,narutixsik'ruxk'anjel,chaab'ilk'anjelutkolb'ilaqrenaqjunelikwaanqxk'anjel.</p>
+    <p>Chijunillipoyanamjuntaq'eetaqxtojb'alnaqjuntaq'eetk'anjelxb'aanu.</p>
+    <p>Chijunillipoyanamchaab'iltojb'ilaqrenaqwanqrochb'enlixjunkab'alsa'xyaalal,kama'narajlixloq'alxwankilal.Jualuswinaruxk'ub'ankilchicb'ayaqru.</p>
+    <p>Chijunillipoyanamnarunaxyoob'xch'uututnarunaoksa'ch'uutrexkolb'alrixlixk'anjel.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamnarunahilan,tirajsirunaqmaak'a'aqxk'anjel,tz'aqalaqrulixkutanuttojb'ilaqnaqtahilaanq.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamkolb'ilaqlixyu'am,jo'ajwi'relixjunkab'al,renaqkawaqutsahaqsa'xch'ool,waanqxwaruk'a',raq'ej,rochoch,ilb'ilaqsa'xyajel;kolb'ilaqrixwitaasachqxk'anjel,witayajeerq,witixtoch'rib',witajunataliiq,witatiixq,malaqk'a'aqchikrerutixk'ul.</p>
+    <p>Linab'ejutlikok'ala'anjualilb'ilaqeb'chius.Chijunillikok'aljuntaq'eetrilb'aleb'ustaink'a'sumsukeb'lixyuwa'.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamnarunatzolok.Litzolomtentonaqwanqchisiib'ilustaka'ajwi'lixtikib'ankil.Lixtikib'ankiltentoxb'aanunkil.Lixkomonchijunilte'ruuqte'okeenqchirix.</p>
+    <p>Lixwaklesinkilutlixtuqub'ankilrulipoyanama'anlixk'anjellitzolom,jo'ajwi'lixkawob'resinkilliroxloq'inkillixloq'alxwankilallipoyanamutliwaanksa'xyaalal;tixteenq'alik'amokib'sa'usilal,likuyukmaakutlirahokib'sa'xyaanqeb'chijunillitenamit,xch'uutaltenamitutlipaab'aal;uttixteenq'axwaklesinkilxna'leb'lixch'uutallik'ilatenamitsa'ruchich'och'reliusilaltuqtuukilal.</p>
+    <p>Lina'b'ejyuwa'b'ejnarute'xsik'rulixtzolomeb'liralxk'ajol.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamnarunaokensa'lixb'aanuhomlitenamit,tirajsirurik'inuttaokeenqchitenq'aankrexteenq'ankilajwi'rib'rik'inlixna'leb'litenamit.</p>
+    <p>Chijunillipoyanamnarutaakole'qchiruchijunillik'a'aqreruxb'aanuhom.</p>
+  </li>
+  <li>
+    <p>Rechijunillipoyanamliusilalnaqsa'chijunilliruchich'och'chipaab'aaqtaliloq'alwankilalxjultikamanarin.</p>
+  </li>
+  <li>
+    <p>Chijunillipoyanamwanxb'aanuhomchirulixtenamit,xb'aannaqka'ajwi'arantruuqtz'aqalchiwaklesinkilrib'.</p>
+    <p>Naqwanqsa'lixloq'alutlixwankilal,chijunillipoyanamka'ajwi'lichaq'rab'narutaramoqre,renaqchijo'kanroxloq'inkillixloql'alxwankillikomon,utchijo'kantuqtuuqrutwaanqlitenamit.</p>
+    <p>Liloq'alwankilal,chaab'ilalusilala'inmaajunsuttruuqoksimmanqwiink'a'junajrurik'inlixna'leb'utlixyehomliXch'uutalliK'ilaTenamitsa'ruchich'ch'.</p>
+  </li>
+  <li>
+    <p>Maanitaruuqtaasik'oqsa'liJultikahoma'in,k'a'ruxb'aanunkilrexjeb'alruliloq'alwankilal,usilalchaab'ilalxaqab'anb'ilsa'liJultikahoma'in.</p>
+  </li>
+</ol>

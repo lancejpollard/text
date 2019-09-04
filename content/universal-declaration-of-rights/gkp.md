@@ -1,0 +1,121 @@
+<h1 align='center'>NUKAN MAAMƐNI YƐNƐYII ƁO PƐLƐ HU</h1>
+<h2 align='center'>Dɔn juwoo gbalatɔmaa</h2>
+<p align='center'>A kɛ kaalonna da tɔɔi gaa nukan ɲei yɛnɛ yiihu diə lɛgbɔɔɓa laa, təlinmo laa da lilaa di nwundɔɔi.
+A kɛ lənɛɛ nukan dɔɔi gaa maanɛ yɛnɛ nuan diə pɛli kweiwoo ɓoi, diə laa di maamɛni la, yi di hwa kɛ ɲɛimaaɲɔn da mɔnɔ di hu, ɓə kele yɛnɛnuan kaa bɔi.
+A kɛ tɔɔi gaa nukan ɲei yɛnɛyii hu ɓə maanɛ maa ə kɔnwɔ, hogɛ nukan hwəpa pənə hwə gwɛi təĝə hemɛi iɔi hu ɲɛitɔwɔnuan diə.
+A kɛ lɔiŋaa kele yepuɔ gehu ɓə maanɛ gu hwaŋa tɛĝɛ bɔi.
+A kɛ lɔi kele hu nuan ɓowoo ɓa, tɔɔi lele gaa hinaa di wɔɔ Kaalonnaa hu, yai a di wɔɔ tɛtɔwɔ yii lɛlɛ ɲɛikulo, yɛ pənə yɛ di wɔɔ yii ɲaanɛ lɛgbɔɔɓa laa hui.
+A kɛ yɛnɛ lɔi kele da ŋɔɔ kpɔn gɛnɛi ɓə di liimu ə həĝə nɛgbɔɔɓa lelei da tɔɔi gaa ɲɛi yɛnɛ yii hu maa mɛni ɓai.
+A kɛ giliɲahiə tɔnɔi ti hwilən nukan dɔɔi da ŋɔɔ lɛgbɔɔɓa laa ɓə gɛ, əlɛ yaɓə kɛ a di liimu həĝɛɛ a gbɔɔkpɔ, yili ɓə a gɛ lɔi kele diwɔɔ ɲaakpɔn gɛnɛ ə ɓo yɛnɛ.
+Maanɛ nutɛitɛi, ə makɛ a kpɔma yiŋaa di gɔl diə, maakwɛli, da hutɔ ɓə da nɛgbɔɔɓa, da tɔɔi gaa nukan ɲei yɛnɛyii hu di hee di kpanɲa kɛnaa kele ɓə, ə makɛ ɓɛyi ə wɔ ɲaawooɓo kaa lai, yili kele ɓə gɛi yɛnɛ bilibili gemɛi ŋɔ ɲaakpɔn gɛnɛi ɲɛi zea kaa Aməlik lɔi hui, ə dɔn ŋaa ɲɛi laa a pɔlɔ kpalaa ŋɔ holo pou (10) gwəlan nwaatɔnɔ pulu ŋun mɛinan yenan kɔu mɛihaaba (1948).</p>
+<ol>
+  <li>
+    <p>Nukangelekaapələkaatanɔn,yiliɓanukəlemaawiyəpələdatɔɔigaaɲeiyɛnɛyiihukɛpələkaalɔtanɔn;dikɛmɛnianukanŋaaɓəgɛɛhwəkɛliwɛlikɛmaaəlɔdiluwai.</p>
+  </li>
+  <li>
+    <p>Dɔnɲɛihuwookaanukeleɓatanɔn,gulojuhwəmayɛəkɛahuwumɛni,gukɔlɔkɛpələ,gulawoo,ɲaalamɛnikɛnabələ,kiliɲahiehuwulɔpe,nɛihuyiiɓopələɓa,hɛnjɔlɔɓopələpɔdanukaapələdazəĝei,yɛəkɛahulonudanɛnuyilipulu,yɛəkɛlɔigaagbɔɔɓajumun,yɛəkɛalɔiyigaaniiməlannɔiyemuajumundɔnɲɛihuwookaanukeleɓatanɔn.</p>
+  </li>
+  <li>
+    <p>Maalakaanukeleyeiəyɛnɛkɛ,əlɛgbɔɔɓalaahɔlɔɓo,əlɛgbinimaayɛkɔŋɔ.</p>
+  </li>
+  <li>
+    <p>Nutahwapɛlilɛɛilualaahudatɔlaalaahu,luolaadaluoyɔuhuĝulɔpedakpɛ.</p>
+  </li>
+  <li>
+    <p>Dihwəkiapainutamɔnɔɓoi,dihwəkiapaimɛniɲaanwanalaainutaɓa,yianukulonulaahuəlɛɛyɛmɛlɛkpɛma.</p>
+  </li>
+  <li>
+    <p>Kɛnɛlɔpegele,maanɛnukeleŋɔkaalonna,əkɛagɔlɔnŋaama.</p>
+  </li>
+  <li>
+    <p>Nukelepɛliaiagetɔnniilaɲetɔnɔmɛi.Nukelehonbələkaatanɔnnukanmaatɔnɲɛiliila.</p>
+  </li>
+  <li>
+    <p>Maalakaanukeleyeiəlikititəĝəpɛlɛla;agaayɛmaamɛniyɛəpiliju.</p>
+  </li>
+  <li>
+    <p>Dihwanutoogahwəɲa,yiŋunvəmai.Awwalakɛtidimaakwiyaŋɔɔlɔiɓagahwamɛniŋɔɔpələhu.</p>
+  </li>
+  <li>
+    <p>Maalakanukeleyei,əŋɔɔtianmakɔŋɔkititəĝəpɛlɛla,əlɛdiantiəkɛakɔlɔnŋaaəmakɛmɛnilɔpeedaazenwuɔn.</p>
+  </li>
+  <li>
+    <p>Nuilɔpeedamɛniɲɔŋɔɔlaaheŋuɔ,mɛnitihwapɛlikɛiajɔn,yijɔntihwəkɔlɔnniponoɲakitikɛpɛlɛla,maakɔŋɔnuaanɲɛiɓa.</p>
+    <p>Tɔnhwapɛlinuilɔpehonjimɛnitaɓayiyaimɛnitikɛilowai,dɔntihwəkɛlaali;yilipulumɛnikɛilowaitɔnməalaanuitimɛi,əmakɛakwia.</p>
+  </li>
+  <li>
+    <p>Nutahwanaalɔməlanɲiipələhu,lɔkpɛli-kpɛli,ɲeibɛlɛnmɛnihu,dagbiniɓamɛnitamaahu,naakalapələpɔ.</p>
+  </li>
+  <li>
+    <p>Maalakaanukeleyeiəhiəaniiɓapələ,əlɛəheniiɓakɛnaaŋɔlɔihu.</p>
+    <p>Maalakaanukeleyeiyɛpɛlikuloilɔilɔpehu,əmakɛgbɔɔlɔi,əlɛəpənəəɲagbɔɔlɔitihu.</p>
+  </li>
+  <li>
+    <p>Nuilɔpedaɲɛikɔukpɔlujeei,maalakaaɲeiəmaakiləlɔitakpɛlihu,yiyannɔitiapɛliɲeeheemu.</p>
+    <p>Maakiləlaatihwapɛlitɛĝɛimɛninɔŋɔnkɛmungbɔɔkpɔpɔyihwəɓalɔiŋunmamɛniɲɔŋɔndakaala.</p>
+  </li>
+  <li>
+    <p>Maalakaanukeleyeiəlɔilonnahɔlɔɓo.</p>
+    <p>Dihwapɛlilɔilonnakuloinuyeihulumɛnihuəlɛmaalahwəŋɔnɔnuyeihwəŋɔlɔilonnamaahwalin.</p>
+  </li>
+  <li>
+    <p>Nɛɛnudahulonudahəlikpilayeladadilaŋayeladapɛliheeidikepɔgulojuhwəmayɛkɛlaahuĝumɛni,lɔilonnamɛni,əlɛyalapələmɛni.Dipɛliɛadikeɲiiɓootihu,əmakɛditaĝailowai.</p>
+    <p>Lɛgbɔɔɓadalaanaɓeahilətailaama.</p>
+    <p>Pɛlɛnməɓaakpɔmaayihɔɔtɔma,əlɛmaalakaɲeigbɔmayiitidanɔiɲɛitɔwɔnuaandimaakɔŋɔn.</p>
+  </li>
+  <li>
+    <p>Nukanlɔpeejɔlɔɓohɛngaaaɓɔɔ,əmakɛgboukɔuaakpɔnju.</p>
+    <p>Dihwanuyeekpilandihwəjɔlɔɓohɛnguloɲei.</p>
+  </li>
+  <li>
+    <p>Nuilɔpeeapɛligbɔwɔkiliɲahiəkɛi,niiɓayiiɓopələhu.Mukulaaɓaapɛliniiɓakalangɛi,əniiɓayiiɓojuwuyiiɓopələhu.</p>
+  </li>
+  <li>
+    <p>Maalakaanuilɔpeegəleyeiŋɔɔkiliɲahielɛəgweiwooɓo,əgilipujukwɛli,əjɔlɔɓoənɛinutakpɛliŋaadiəkɛnakeleyiɲɔuhwakɛju.</p>
+  </li>
+  <li>
+    <p>Maalakaanukeleyeiəŋundɔkɛ,əlɛəkpɔnnaaliilaahu.</p>
+    <p>Dihwanuyeekpəlandihwənɔkpɔnju.</p>
+  </li>
+  <li>
+    <p>Maalakaanukeleyei,ətɔɔihɔlɔɓoŋɔɔlɔiɲawooɓomɛnihu,awalakɛayaakpinii,əkɛnuiaɲeelɛmai.</p>
+    <p>Maalakaanukeleyei,əkolokɛgahanamaɓaŋɔɔlɔihu.Yiyannutahonbətləhwatɛĝɛməlanma.</p>
+    <p>Lɔilonniikiliɲahiəpələɓəlɔiɲawoɓoɔakuloju.Giliɲahiətiakɔlɔnnɔinɔiɲaawoɓonuanheluwaiakɛanɔikweinuankəlelaamaawoo.</p>
+  </li>
+  <li>
+    <p>Nukelekɛmɛniakpɔnjuyiiɓomunməgɛ,yɛkɛkpɔnninimu.Ninintiɓəmaanɛəpaɓɔayeelaholon;yelɔgei,kaalɔnnaa,əlɛmɛnikɔlɔnŋa.</p>
+  </li>
+  <li>
+    <p>Maalakaanukeleyeiəkolokɛ,əniiɓakolokɛtəlinmodaɲaanɛpələmɛi;əgɛhwəpakɛanuikolohwɔma.</p>
+    <p>Nukɛkoloɓəmaanɛdizalama;əkɛahulonudanɛnu.</p>
+    <p>Kolokɛmunlɔpeeapɛlikolokɛnuanmaakɔŋakpɔnnaai;awalakɛtiətodahu.</p>
+    <p>Kolokɛmunnɔpeemaalakaaɲeiəviitɔ,əniiɓapələŋaakɛ.Gɛkolokɛinowaiɲɛnəkɛadɔɔ;əlɛyilipuluŋɔɔhwitɔlowaiyɛhalama.</p>
+  </li>
+  <li>
+    <p>Maalakaanukanɲeiŋɔɔyiiəkɛabɛliyaju,gɔlɔihwətoapono,yaadanainuaandikɛdiɲaanɛhu;yiihwilənna:kɔnɔnmɛni,maayilimɛni,yiimɛni,dahalimɛni,bɛlɛdimaamɛniwalawalaɲɛikulomɛnikeleɓa.</p>
+  </li>
+  <li>
+    <p>Koloawalakɛɲei,ɲɔnapɛlɛma,kolohwaakpɛɲei,kalanənnaaajɔlɔɓo,apɔlɔ,awalakɛtimɛnitakpɛliapɛlɛma,yihwapɛligbɔɔmu,maalakaaɲeiyimaakpɔmaaəɓo.</p>
+    <p>Maalakaalogaalaadalokolodiyeidikpɔmaahɔlɔɓo.Gbɔmaatiapɛlikɛilogeleɓa,əmakɛawɛlilon.</p>
+  </li>
+  <li>
+    <p>Maalakaanukeleyeidijutɔ.Jutɔtihɔŋɔhwəma,yikpɔhwilənmaakwɛlikɔwɔtɔɔɓa.Maanɛkolomaakwɛlilakwəliəkɛkɛnakəle.Maanɛlakwəlikɛnɛkɛɛlaaəkɛkɛnaakəletɔwɔ,nuilɔpegɛhwaŋaakɛɲei.</p>
+    <p>Maakwɛliŋunmayaɓaaənukanholoonnaaɓo,ədɔɔgaaɲəiyɛnɛyiihumaawiyɛ.Yaɓəmaanɛəwooman,ɲɛimaahwɛli,dawɛlikɛmaadilɔlɔikəlelowai,huwuŋaakəlelowaiəgɛliilaəkɛdiyei.</p>
+    <p>Maalakaaalongaanuaanyeididilonihutɔpələlɛn.</p>
+  </li>
+  <li>
+    <p>Maalakaanukeleyeiəgɛtikɛnɔiŋɔɔtɛtɔwɔlaakpaaləmɛi,əpɛlimaədɔlɔkulo.</p>
+    <p>Maalakaanukeleyeibɛlihɛn,gulohɛn,maaəkɔŋɔ.</p>
+  </li>
+  <li>
+    <p>Maalakaanukeleyei,əgɛtikɛ,yɛdɔnŋooŋaaɲɛiɓodilɛdikpaaləmɛi.</p>
+  </li>
+  <li>
+    <p>Nuyaakpɛligɛtikaamakpɔmaayiihu.Maahɔlɔɓogbɔmaayiitiɓəapɛliŋɔɔnukannaalaakuloianele.</p>
+    <p>Tɔɔigaanuyeiyɛnɛyiihudaŋɔɔlɛgbɔɓalaa,maalakelehɔlɔɓoɔɲɛnlɔgaama,yaɓaaaməlaadiwɛikɔwɔtɔi,kpɔmaayiihuyihulumɛnihwəlaa.</p>
+    <p>Maalaŋaatidalɛgbɔɔɓaŋaati,gɛpələhwapɛlikɛiajuwutakpɛliyiyɛnɛkelepuɔgeɓahwəmoli.</p>
+  </li>
+  <li>
+    <p>Kpalətakpɛlihwəlaayiapɛlidɔnŋaaɲɛimaamɛnipiliju,yɛnuŋɔɔtɔɔgaaɲeiyɛnɛyiihudaŋɔɔlɛgbɔɔɓalaakuloiɲei:yɛəkɛalɔi,akpɔn,əmakegutɛitɛi.</p>
+  </li>
+</ol>

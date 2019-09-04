@@ -1,0 +1,121 @@
+<h1 align='center'>Deklarasyon Iniversel Bann Drwa Imen</h1>
+<h2 align='center'>Preanbil</h2>
+<p align='center'>An rekonnesans ki dignite imen e bann drwa egal e enseparab pou tou manm lafanmiyr imen I fondasyon pou laliberte, lazistis e lape dan lemonn,
+An konsiderasyon ki mank konnesans e respe pou bann drwa imen in okazyonn en bann aksyon barbar kiín boulvers konsyans limanite, e osi larive en monn kot imen a kapab eksprim zot lekor dan laliberte e dapre zot konsyans san okenn lafreyer obyen mank mwayen, parey in ganny proklanmen konman laspirasyon pli o pou tou imen,
+An konsiderasyon ki I esansyel ki bann drwa imen I ganny proteze par en sistenm lalwa kot dimoun pa oblize, konman en dernyen rekour, pou revolte kont la tirani e lopresyon,
+An konsiderasyon ki I esansyel pou ankouraz devlopman lanmitye ant bann nasyon,
+An konsiderasyon ki dan Lasart Nasyon-z-Ini bann pep in reafirm ankor zot lafwa dan bann drwa imen fondamantal, dan dignite e valer tou imen, dan egalite bann drwa zomm ek fanm, e zot in angaz zot pou travay pou progre sosyal e pou etabli meyer kondisyon lavi avek plis laliberte,
+An konsiderasyon ki bann pei manm zot in pran langazman pou asire, avek korperasyon Lorganizasyon Nation-z-Ini, ki bann drwa imen ek bann liberte fondamantal ganny respekte konman fodre partou dan lemonn,
+An konsiderasyon ki en bon konprenezon bann drwa ek liberte I tre enportan pou realiz an plen sa langazman ki tou dimoun annan,
+Alor, Lasanble Zeneral I proklanm sa Deklarasyon Iniversel Bann Drwa Imen konman standar-de-baz pou lavansman tou imen ek tou nasyon, avek bi ki sak endividi ek seksyon lasosyete a fer tou zot posib, atraver lansennyman ek ledikasyon, pou asir respe pou sa bann drwa ek sa bann liberte, e par bann mezir progresiv, nasyonal osi byen ki enternasyonal, pou garanti zot rekonnesans e laplikasyon par bann pep dan bann pei manm e osi dan bann teritwar ki anba zot kontrol.</p>
+<ol>
+  <li>
+    <p>Noutouimennou’nnedanlaliberteeklegalite,dannoudigniteeknoubanndrwa.Noutounouannankapasitepourezonnen,efodrenouaziranverlezotavekenlesprifraternel.</p>
+  </li>
+  <li>
+    <p>Sakenn-de-nougannydrwazwirtounoubanndrwaeknoubannlibertekiíngannyproklanmendansaDeklarasyon,sanokennkalitedistenksyon,telkiras,kouler,langaz,larelizyon,lopinyonpolitikobyenlezotkalitelopinyon,nipourezonlorizinnasyonalobyensosyal,nipopriyete,nesansobyenstati.Anpliskisa,okenndistenksyonpadevretgannyferlobazsitiasyonpolitik,ziridikobyenstatienternasyonalsapeiobyensateritwarkotendimounIsorti;padevretferokendiferanssisapeiobyenteritwarIendepandanobyensiIanbakontrolenlotleta,obyensiIannanokennkaliterestriksyonlosonsouvrennte.</p>
+  </li>
+  <li>
+    <p>Sakdimounannandrwalavi,drwalaliberteekdrwavivansekirite.</p>
+  </li>
+  <li>
+    <p>Personnpadevretgannytretekonmanlesklavobyenkonmansoubalter;lesklavazetrafiklesklavpapermetdanokennlaform.</p>
+  </li>
+  <li>
+    <p>Personnpadevretgannytortire,nigannytretedanokennfasonkipaimen,kikrielobyendegradan.</p>
+  </li>
+  <li>
+    <p>Iendrwasakdimounpougannyrekonnet,dantoumoman,konmanenimendevanlalwa.</p>
+  </li>
+  <li>
+    <p>Noutounouegaldevanlalwa,esanokenndiskriminasyonlalwabezwendonnnoutoumenmkaliteproteksyon.NoutounoumeritgannyproteksyonegalkontokenndiskriminasyonkialkontsaDeklarasyon,osikonttouprovokasyonkianfaverdiskriminasyon.</p>
+  </li>
+  <li>
+    <p>Toudimounannandrwaanmennsonkadevanlotoritekonpetanpourodlazistiskontvyolasyonokenndrwafondamantalkigannygarantidankonstitisyonobyenanbalalwasonpei.</p>
+  </li>
+  <li>
+    <p>Personnpadevretgannyarete,obyengannymetandetansyon,obyengannyanvoyeanekzileanbonnavini.</p>
+  </li>
+  <li>
+    <p>Toudimounannanegalitekonpletpougannybyenekoutedevanpiblikparenlakourendepandankipaprankotepersonnlerpoudonnzizmanlosondrwaobyensonlobligasyon,osilerIkonsernensarzkriminelkiíngannymetekontli.</p>
+  </li>
+  <li>
+    <p>NenportdimounkigannyakizedevanlalwabezwengannykonsiderekonmaninosanziskalerIgannytrouvekoupabdanenzizmanpiblikkotingannybenefistoubanngarantikineseserpousondefans.</p>
+    <p>Personnpadevretgannykondannenpouokennaksyonobyenomisyonkipatigannykonsiderekonmanenlofansdevanlalwanasyonalobyenenternasyonallerlofanstigannykonmet.SadimounpanidevretgannyenkondannasyonpliseverkilalwatipermetlerItikonmetlofans.</p>
+  </li>
+  <li>
+    <p>Personnpagannydrwaenterferanbonnaviniaveklavipriveendimoun,sonfanmiy,sonlakaz,obyensonkonrespondans,enimenmataksonloneresonrepitasyon.Toudimounbezwengannyprotezeparlalwakontbanntelenterferansobyenlatak.</p>
+  </li>
+  <li>
+    <p>DansakpeitoudimounannandrwasirkilavekliberteeannanosidrwaswazikoteIpoureste.</p>
+    <p>Toudimounannandrwakitnenportpei,enklisonproppei,eosiretourndansonpei.</p>
+  </li>
+  <li>
+    <p>LerIannanpersekisyon,nenportdimounIannandrwaalrodlazilegannyakseptedanenlotpei.</p>
+    <p>Sadrwapaaplikablerendimounpegannypourswivdankakotnapananrnyenpouferavekpolitik,meplitoenlakizasyonvalabpoukaslalwa,obyenkotsadimounIínazirkontbannlobzektifekbannprensipNasyon-z-Ini.</p>
+  </li>
+  <li>
+    <p>Toudimounannandrwaannanennasyonalite.</p>
+    <p>Personnpadevretgannyarasesonnasyonaliteanbonnavini,nigannyanpesesanzsonnasyonalite.</p>
+  </li>
+  <li>
+    <p>Lerzotingannylazmaryaz,enzonmekenfanmzotannandrwamaryeekonmansenfanmiysanokennrestriksyonkiannanpouferavekzotras,nasyonaliteobyenlarelizyon.Tou-le-deannandrwaegalpoumarye,danmaryazeosilermaryazinkase.</p>
+    <p>Maryazgannyaranzelerzonmekfanmtou-le-dezotIínprandesizyonedonnkonsantmandanlalibertetotal.</p>
+    <p>Lafanmiysesagroupdebaznatirelefondamantallasosyetekibezwengannyproteksyonlasosysteekleta.</p>
+  </li>
+  <li>
+    <p>Touselobyenangroup,toudimoungannydrwaannanposesyon.</p>
+    <p>Personnpakapabgannyanpeseannanposesyonsanrezonvalab.</p>
+  </li>
+  <li>
+    <p>Sakdimounannandrwalalibertelapanse,sonkonsyanseklarelizyon;sadrwaIosipermetlisanzsonlarelizyonobyensonkrwayans,eosidonnlilalibertepoumanifestesonlarelizyonobyensonkrwayanslitouselobyenangroup,anpriveobyenanpiblik,swaparlansennyman,bannpratik,ladorasyon,obyenbannseremoni.</p>
+  </li>
+  <li>
+    <p>SakdimounIlibpouannansonlopinioneosilibpoueksprimsonlide,saIpermetligardsonlopinyonsanokennlenterferans,osipoulirode,resevwarepaslenformasyonekbannlideatravermedyasanokennlimitasyon.</p>
+  </li>
+  <li>
+    <p>Toudimounannandrwaeklalibertepourasanbleeferlorganizasyonpasifik.</p>
+    <p>Personnpadevretgannyforsevinmanmdanokennlorganizasyon.</p>
+  </li>
+  <li>
+    <p>Toudimounannandrwapartisipdangouvernmansonpei,swadirektemanoswaatraverbannreprezantankiíngannyswazidanenfasonlib.</p>
+    <p>Toudimounannandrwaegalpoutravaydanservispibliksonpei.</p>
+    <p>Lavolontelepepselabazlotoritegouvernman;savolontebezwengannyeksprimendanbanneleksyonkigannyferdetanzantankottoudimounannandrwaegalpouvoteansekre,obyenatraverenprosedirkiasirekivotegannyferdanenfasonlibeonnet.</p>
+  </li>
+  <li>
+    <p>Konmammanmlasosyete,toudimounannandrwasekiritesosyal,poupermetligannysatisfaksyonsonbanndrwaekonomik,sosyalekiltirelkiapsolimanneseserpousondigniteedevlopmanlibsonpersonnalite.SaIposibatraverzefornasyonalekkorperasyonenternasyonalkipranankonsiderasyonlorganizasyonekresourssakpei.</p>
+  </li>
+  <li>
+    <p>Toudimounannandrwatravayezotlibpouswazientravay;zotosiannandrwagannybannkondisyontravaykizisefavorab,osipougannyprotezelernapatravay.</p>
+    <p>Toudimounannandrwa,sanokenndiskriminasyon,pougannypeyeensalerpareypouenlouvrazparey.</p>
+    <p>Toudimounkitravayannandrwagannyenlapeyekitabesatisfezankiapermetlieksonfanmiyvivdandiniteesinesesersonlapeyagannyranforsiparlezotmwayenproteksyonsosyal.</p>
+    <p>Nenportdimounannandrwaformenlinyonobyenvinmanmenlinyonpoudefannsonzentere.</p>
+  </li>
+  <li>
+    <p>Toudimounannandrwarepoeklwazir,sirtouenlimitrezonabzotkantitelertravay,eosikonzepeyeapresertenletantravay.</p>
+  </li>
+  <li>
+    <p>Toudimounannandrwaennivolavikonvenabpouasirsonlasante,sonbyennetekosibyennetsonfanmiy;savedirmanze,labiyrman,lozman,swenmedikaleklezotservissosyalkineseser.Iosiannandrwaenmwayensekiritelerinapatravay,ankamaladi,envalidite,lanmormariobyenfanm,lavyeyesobyenlezotkakotendimounpanobougannysonlavipoubannrezonandeorsonkontrol.</p>
+    <p>Bannmanmanekzotzanfanannandrwagannyledeklasistanssosyal.Touzanfan,kizotinnedanmaryazobyenandeormaryaz,zottouzotannandrwagannymenmnivoproteksyonsosyal.</p>
+  </li>
+  <li>
+    <p>Toudimounannandrwagannyledikasyon.Ledikasyondevretgratwit,omwenledikasyonelemanterefondamantal.Ledikasyonelemanterdevretobligatwar.Ledikasyonteknikekprofesyoneldevretpoutoudimounetledikasyonavansedevretalaportetoudimoundaprezotmerit.</p>
+    <p>Toudimounannandrwaledikasyonpoumetenavansonpersonnaliteepourenforsrespedrwaimenebanndrwafondamantaldanslasosyete.Ledikasyoniesansyelpoufavorizrespe,latolerenseeklanmityeanttoubanngroupraselarelizyoneosipoudevlopbannaktiviteNasyon-z-inipoulape.</p>
+    <p>Toubannparandevretannanpriyoritelodrwasoizirkikaliteledikasyonypoudonsonbannzanfan.</p>
+  </li>
+  <li>
+    <p>Toudimounannandrwapoupartisipaveklibertedanlavikiltirellakominote,pranplezirdanbannlareosipartazbannprogresyantifikekzotbannbenefis.</p>
+    <p>Toudimounannandrwaproteksyonpouzotbannzenteremoralemateryelanreziltatoubannprodiksyonsyantifik,litererobyenartistikkizotIínprodwi.</p>
+  </li>
+  <li>
+    <p>Toudimounmeritenlordsosyaleenternasyonalkotnoubanndrwaeknoubannliberte,dapresakiínekridansaDeklarasyon,avinenrealitekonplet.</p>
+  </li>
+  <li>
+    <p>Toudimounannanbanndevwaranverlakominotekipoukapabpermetdevlopmanlibekonpletnoupersonnalite.</p>
+    <p>Danlaplikasyonsonbanndrwaedanzwismansonbannliberte,sakdimounagannylimitedaprelalwaselmanpouasirrekonnesansekrespebanndrwaekbannlibertelezotdimoundanlamezirkifodreasirdanenfasonzis,lekzizansmoral,lordpiblikekbyennetzeneraldanensosyetedemokratik.</p>
+    <p>SabanndrwaekbannlibertepadevretzanmengannyaplikekontbannbieprensipNasyon-z-Ini.</p>
+  </li>
+  <li>
+    <p>NapanarnyendansaDeklarasyonkidevretgannyenterpretekomkwaenleta,angroupobyenendimounannanendrwakelkonkpoufernenportkiaktiviteobyenaksyonkikapabdetribanndrwaekbannlibertekingannyekriladan.</p>
+  </li>
+</ol>

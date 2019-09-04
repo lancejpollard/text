@@ -1,0 +1,121 @@
+<h1 align='center'>DUNYA’’ MUMƐ MƆƆGƆƆYA’’ HAKƐYAW DANTIIGƐLIIKAN</h1>
+<h2 align='center'>Kúmaɲabila</h2>
+<p align='center'>K’à mìna à mà kó dúnya’ mànton’ bɛɛ ká kan ni bònya ye, àni kó bɛɛ ká kan sàriya’ la làkika’ la, kó ò le be bɛɛ ya hɔrɔnya’ sàbati, kà bɛɛ kánya ɲásuma’ dúnya’ sìgi’ la.
+K’à mìna à mà kó mɔgɔya hákɛ lɔnbaliya’ ni à jàtebáliya’ nàna ni syáman ye dúnya kɔnɔ, minw kà hádamadenw dùsu’ kàsi, àni K’à mìna mà tèle kúra min bɔra, à fɔra kó kúma’ mín ká dí mín yé, ò bé ò fɔ, díina’ mín ká dí mín yé, ò bé ò kɛ, kó mɔgɔw kà síran ɲgɔn ɲá, ò bánna, kó fàgantánya júgu bánna, ò kùma’ kɛra bɛnkan ye min kɛra hamamadenw haminankoba ye,
+K’à mìna à mà kó kà mɔgɔya’ hákɛ’ látanga ní sàriya’ sìgili’ yé sèn kán, yé wájibi yé wálasa mɔgɔw kàna wájibiya kà múruti bènkánni’ kánma, àni fàngajúgu’ kánma,
+K’à mìna à mà à ká kán tériya’ yé kɛ jàmanaw ni ɲgɔn cɛ,
+K’à mìna à mà dúnya’ mùmɛ sáratikan’ ná, Dúnya’ Jàmanaw yá tɔ màntonw bɛɛ kà à yìra kó ù lánin bɛ mɔgɔya’ hákɛyabaw’ la, ù lánin hádamadenya’ tá bònya’ ní à lànbe’ la, ù lánin bɛ cɛw ní mùsow kányaɲgɔnmaya’ lá hákɛ’ lá, ní ù kà ŋàniya’ sìri kà mɔgɔya’ yá ɲɛ sàbati, àni kà ɲánamaya’ kɛcogo ɲúman’ sìgi sèn kán hɔrɔnya’ bɛrɛbɛrɛ kɔnɔ,
+K’à mìna à mà Dúnya’ jàmanaw kà à ŋàniya kó ù bé jɛn ní Tɔnba yé kà mɔgɔya’ hákɛyaw látànga à ɲá’ mà dúnya’ mùmɛ kɔnɔ,
+K’à mìna à mà, ò ŋàniya ɲúman té sé kà síra’ sɔrɔ ní bɛnkélenma má kɛ mɔgɔya’ hákɛyako ní à hɔrɔnyako’ kán,
+Dúnya’ tɔnba’ ya ɲgɔnlajɛrɛba’ kà í kán’ bìla kà dunya’ mumɛɛ mɔɔgɔɔ hakɛɛyaw dantigɛɛlikan gánsi kà à yìra ò ŋŋàniya ɲɲuman yé fɛɛn ye, mín ká kán kà kɛɛ mànton’ ni násɔɔn’ bɛɛɛɛ làɲɲíni ye, yálasa mɔɔgɔɔ kelen kelen bɛɛɛɛ, àni jɛɛkulu kelen kelen bɛɛɛɛ ye nin dàntigɛɛlikan’ nìn tó ù hákili’ lá, kà ù kàlan’ ní lámadamuni’ kɔɔnɔɔ, kà fɛɛrɛɛ kɛɛ dɔɔɔɔnin dɔɔɔɔnin ù ya húkumu’ kɔɔnɔɔ, wálima dúnya bɛɛɛɛ kɔɔnɔɔ, kà hákɛɛya nìnugu ní hɔɔrɔɔnya nìnnugu látàngali’ yíriwa, àni kà à kɛɛ bɛɛɛɛ ye sɔɔn ù mà ɲɲá mà, à kɛɛra ù ya jàmana kɔɔnɔɔna ye, wálima jàmana gbɛɛrɛɛ min bé ù ya màra’ kɔɔnɔɔ.</p>
+<ol>
+  <li>
+    <p>Wólo’lá,hádamaden’bɛɛyehɔrɔnye,bɛɛkákánlànbeníhákɛyawMɔgɔbɛɛyehákilitigiye,bɛɛyehákilimaye;òlà,ùkákánkàɲgɔnmínaníbádenyaye.</p>
+  </li>
+  <li>
+    <p>Mɔgɔ’bɛɛdɔbɛkààlɔnkóíkákánnímɔgɔyahákɛyawníàhɔrɔkófɔnin’bɛɛyenìndàntigɛlikan’nìnkɔnɔ,mɔgɔmábɔmɔgɔkɛrɛnkɛrɛnninyalá,fàragbɛkonifàrafinkoteàla,síyawolomateàcɛnimúsomábɔɲgonná,íbekánmínfɔ,ótéàla,díinakotéàlá,hákililayemínyépólitikiko’lá,wálimahákililagbɛrɛw,óteàbɔyɔrɔkoteàlá,nyefàgantandenyewálimanyefàgamadenye,óàla,nàfolotígiyanibólokolonyateàla,ɲàmakalakonihɔrɔnyakoteàla;fɛnofɛnbenàníwólomali’yemɔgɔwníɲgɔncɛ,òsíteàlá.Ocógoyakélenmà,bɔyɔrɔmábɔbɔyɔrɔla.Ibɔyɔrɔ’lànbe’tɔwcɛ’mà,íyajàmana’kɛrajàmana’yɛrɛmahɔrɔnyaninye,àkɛjàmanayemínbejàmanagbɛrɛyamàrakɔnɔ,wálimaàbeàyɛrɛbólojàmanagbɛrɛyahúkumu’kɔnɔ,wólomalisítekɛkàláòkán.</p>
+  </li>
+  <li>
+    <p>Mɔgɔ’kɛracogoócogo,àkákánníɲánamaya’ye,àkákánníhɔrɔnya’ye,àkákánnílákandali’ye.</p>
+  </li>
+  <li>
+    <p>Mɔgɔsítesékàmìnakàíkɛjɔnyewálimakàíkɛbólokɔnɔmɔgɔye,jɔnya’bánna,jɔnféere’bánnasàriya’la.</p>
+  </li>
+  <li>
+    <p>Amánkánmɔgɔsíyejàngáta,wálimakàlàjába,wálimakàànítɔrɔ,níjuguya’dànmátɛmɛ’fɛ,fókààlèebu.</p>
+  </li>
+  <li>
+    <p>Bɛɛkákánnílànbe’yesàriya’lá,àkɛrayɔrɔóyɔrɔye.</p>
+  </li>
+  <li>
+    <p>Bɛɛkákánsàriya’lá,àyiwabɛɛkákánnísàriya’yalàtangali’yekààsɔàmákɛwólomaliye.Bɛɛkákánníkɔsɛmɛyesàriya’làkàiyɛrɛtàngabɔwólomali’súguósúgumà,mínbedàntigɛlikan’nìnsɔsɔ,ànimínbesekànàníàsɔsɔli’ye.</p>
+  </li>
+  <li>
+    <p>Abebɛnmɔgɔbɛɛyecɛnyɛrɛl,íyeíyajàmana’sàriyaso’màgbɛsàriya’mínɲásinininbɛòkóɲa’mà,kàilákisikàbɔwálewmà,minwbejàmanasàriyawsɔsɔ.</p>
+  </li>
+  <li>
+    <p>Amánkánmɔgɔsíyemina,wálimakàdònkàso’la,wálimakààgbɛnkàbɔàfàso’la,kààsɔrɔkùnteàla.</p>
+  </li>
+  <li>
+    <p>Akákánmɔgɔ’bɛɛye,bɛɛfánakákánòlá,nibènkɛraikán,iyakititigɛnámarateminna,bɛɛɲa’na,tìribinalila,mínbeàyɛrɛsàgo’la,kákánmínnafána,tìribináli’mínbenajódíàmàkààyahákɛlɔàye,wálimakàjàlaki’bènàkáncɛn’yɛrɛla,niàjótɛàla.</p>
+  </li>
+  <li>
+    <p>Nímìnalikoláramɔgɔómɔgɔkùn,àtesekàmìnaábada,fónikítikààyìratìribináli’la,kààsɔrɔáwokakààláfàsa,kóàlenɔ’lòlàkíka’la.</p>
+    <p>Mɔgɔsítesekàmìnakóla,kó’mínkɛtuma’kààsɔrɔkójugutɛiyajàmana’kɔnɔ,wálimadúnya’sàriya’la.Mɔgɔ’bekó’kɛtùma’mínnafána,àniɲàngíli’mínkákán,òwágati’la,fóyitesekàfàraòkánkɔ’fɛ.</p>
+  </li>
+  <li>
+    <p>Atebɛnmɔgɔsíyeisèn’dònmɔgɔgbɛrɛyaɲánamaya’kóɲawla,àyasókɔnɔkóɲawla,ànikààyabàtakiwkɔnɔnagundowla,kààsɔrɔjɔnjɔnteàlá;wálimakàmɔgɔ’lèebu,kààtɔgɔ’cɛn.Sàriya’kákánkàlɔbɛɛkɔkɔrɔkàilátàngakàbɔòkósúguya’mà.</p>
+  </li>
+  <li>
+    <p>Kàtágamajàmana’kɔnɔ,yɔrɔóyɔrɔkádíiye,jàmana’yɔrɔ’mínkádíiye,kàsìgiyènfána,obɛnnabɛɛye.</p>
+    <p>Kàbɔifàso’laàkádícógo’mín,kàsègiàkádíiyecógo’mín,òbɛnnabɛɛye.</p>
+  </li>
+  <li>
+    <p>ɲánimabori’ɲá,mínyekàsiraniní’ɲákàiyɛrɛɲíni,àbebɛnbɛɛyeyedògotuɲíni,kàjàmanagbɛrɛɲíni,kàikàlifa’sìgiyèn,wàjàmanasítesekàbànilakàigbɛn.</p>
+    <p>Kàkójugu’kɛsàriya’kákánkàinɔ’mìnamínna,wálimamíndúnya’sàriyaba’sɔsɔ,kóibebòlikàtágaikàlifajàmanagbɛrɛla,òkótɛ.</p>
+  </li>
+  <li>
+    <p>Mɔgɔ’kɛracógoócógo,àkákánnijàmana’dɔjàmanadényaye.</p>
+    <p>Mɔgɔsiyajàmanadénya’tesekàbɔsiilakààsɔrɔkùnjɔnjɔnteàwàmɔgɔsitesekàmɔgɔsibàlikàbɔjàmana’dɔjàmanadénya’lakàdòndɔgbɛrɛtála.</p>
+  </li>
+  <li>
+    <p>Cɛ’nimùso’fɛnófɛnsérabálikuya’mà,àbebɛniyefúrukɛ,kàkɛ;lónanyanídùgulényateòla,díinakoteòla.Cɛnimùsobɛɛkákánsàriya’la,fúru’sìrili’la,cɛlasígi’kɔnɔ,ànifúrusa’táfànfɛla’la.</p>
+    <p>Fúru’tesékàsìriníàmákɛnifúruɲgɔn’fìlayajɛn’ye.</p>
+    <p>Dénbayadénbayawkɛninɲɔgɔnkán,òleyesìgida’nimàrada’jù’ye,wààkákánsìgida’nifànga’yeùlákanda.</p>
+  </li>
+  <li>
+    <p>Mɔgɔkélen,wálimajɛkúlu’,bɛɛkákánnitáya’ye,bɛɛtáyeitáye.</p>
+    <p>Mɔgɔdɔmánkánkàbèndɔkánkààtábɔsiàlafàniya’kán.</p>
+  </li>
+  <li>
+    <p>Míiriya’mínkádíiye,ihákili’kàfɛn’mínmìna,díina’mínkádíiye,bɛnnabɛɛye;òkɔrɔ’yekóniibeàfɛkàbɔdíina’dɔlakàdòndɔgbɛla,òbeimà;kàdíina’fàlen,òbeimà;àyiwabɛɛbesekàiyaséli’niyadíina’kɛikélén,wálimajàma’la,sùtaralawálimakɛnɛ’kán,àkɛrakàlanni’tásíra’ye,wálimabàto’tásíra’,wálimaséli.</p>
+  </li>
+  <li>
+    <p>Hákilila’mínkádímɔgɔ’mínye,òbɛnnaiye,àfɔli’kɛnɛ’kán,òdàgaraye.Okɔrɔ’yekómɔgɔsitesekàmɔgɔtɔɔrɔàhákilila’kánma,mɔgɔsekàmɔgɔ’bàlikàkùnnafóniwgánsiyɔrɔ’mínkádíiye,jàmana’mínkádíiye.</p>
+  </li>
+  <li>
+    <p>Kàɲɔgɔnlájɛnɲɔgɔnyebolomà,wálimakàtɔn’sìgi,òdàgaramɔgɔ’bɛɛye.</p>
+    <p>Atesekàwájibiyamɔgɔsikán,kóiyekɛtɔndɔtɔndenyekààsɔrɔàmándíiye.</p>
+  </li>
+  <li>
+    <p>Abebɛnbɛɛyeisèn’dònifàso’kóɲawɲánabɔli’la,àkɛrayɛrɛbakun’yewálimaikàiwàsa’dònmɔgɔgbɛrɛla,iyɛrɛkàmɔgɔ’mínsúgandiiyɛrɛmà.</p>
+    <p>Kàlɔyɔrɔ’sɔrɔifàso’fòrobabáarawla,òbebɛnmɔgɔbɛɛye,wàbɛɛkákánàla.</p>
+    <p>Jàma’ŋàniya’leyemàrabólo’yafànga’jù’ye;jàma’beòŋlánkɛnɛmayakàlafíli’sèn’fɛ,ni’òyewóte’ye,námaratemínna.Okàlafíli’kákánkàkɛtùmanitùma,bɛɛyewótecógokélenna,gùndolawálimacógola,bɛɛbeiyɛrɛleŋàniya’yìra.</p>
+  </li>
+  <li>
+    <p>Sìgidénya’húkumu’kɔnɔ,bɛɛkákánniifàso’màrabólo’nidúnya’tɔdɛmɛ’ye,iyadúnyalatigɛ’gbɛlɛyawla;bɛɛkákánninàfasɔrɔhákɛya’ye,ànimɔgɔya’hákɛya’,ànilɔnko’niséko’hákɛya’mínbeílànbe’kɔrɔta,kàíyahádamadenya’sàbati.</p>
+  </li>
+  <li>
+    <p>Bɛɛkákánnibáara’ye,báara’mínkàdíàye,bèntekɛàkánbáara’mínna;bɛɛkákánkàlátàngabáarasɔrɔbaliya’fánamà</p>
+    <p>Mɔgɔ’nimɔgɔ’mínyabáara’yekélenye,òlugukákánnisàrakélenye,wólomalitemínna.</p>
+    <p>Báarakɛla’bɛɛkákánnisàraye,mínbebɛnàyabáara’kíima’mà,mínbeàmàko’ɲà,mínbeàtóàniàyadénbaya’bebáloùhákɛ’la,bònya’kɔnɔ;kàsíniɲasigi’fánajàte’mìnaòlan’àbebɛn.</p>
+    <p>Abebɛnbɛɛyesɛndikasìgi,wálimakàdònsɛndika’la,yálasakàiyɛrɛlátànga.</p>
+  </li>
+  <li>
+    <p>Bɛɛkákánnilàganfíya’nidàamu’ye:òbeàyìrakodànkákánkàyebáara’kùntaga’la,báarakɛlakákánkàbaara’bìlatùmanitùma.</p>
+  </li>
+  <li>
+    <p>Bɛɛkákánniɲánamaya’dàamu’ye,mínbeàtóàniàyabálo’,ùfɛɛrɔbɔ,ùsìyɔrɔ’,ùfúrakɛli’,àniɲánamaya’làganfiyalan’benɔgɔyacógo’mín;báarakɛla’kákánnimàrabólo’yadɛmɛ’yeníyabáara’cɛnna,níjànkáro’kàlásìgi,nílùjurakààsɔrɔ,níàkɛfìriyatɔye,nikɔrɔ’nànakààdɛsɛ,wálimagbɛlɛya’fɛnófɛnkààsɔrɔ,mínbeàkɛdɛsɛbagatɔyekààsɔrɔàyɛrɛnɔtɛ.</p>
+    <p>Mùsowyakɔnɔmaya’nidénwyadénmisɛnya’kákánnídɛmɛmàgbɛnkɛrɛnkɛrɛnninye.Akɛrafúrukɔnɔdenye,wálimaàkɛrafúrukɔfɛdenye,dén’bɛɛkákánnitàngali’ye.</p>
+  </li>
+  <li>
+    <p>Bɛɛkákánnikàlan’ye.Sàramánkánkàbɔòkàlan’nà,in’àfɔkàlan’dùgumála’fókàtágasésépe’mà,wálàbèpes’la.Kàtágasémà,òyewájibiye.Tɛkinikikálan’nibáarakalan’kákánkàkɛfɛlɔɔkɔninye;sánfɛkalan’kákánkànɔgɔyabɛɛmà,bɛɛkákánkàkányaàla.</p>
+    <p>Kàlan’làɲíni’kákánkàkɛkàmɔgɔ’yahádamadenya’fá,ànimɔgɔya’hákɛwniàhɔrɔnya’lásàbati.Akákánkàɲɔgɔnfaamuyaɲɔgɔnbonya’sàbatimɔgɔwniɲɔgɔncɛ,kàtériya’sàbatijàmanawsíyawnidíinawniɲɔgɔncɛ,ànikàdúnya’tɔnba’dɛmɛɲásuma’ladúnya’kɔnɔ.</p>
+    <p>Dén’ládamucógoniàyakàlan’sífaya’súgandili’yefàcɛnibámuso’tálèyefɔlɔ.</p>
+  </li>
+  <li>
+    <p>Abebɛnbɛɛyeisèn’dòn,àkádíiyecógo’mínna,iyajàmalájɛkowniɲánagbɛwla,kàdàamu’sɔrɔsékowla,ànikàinìyɔrɔ’kɛlɔnkowyíriwali’la,kàùnàfa’sɔrɔ.</p>
+    <p>Fɛnófɛnbɔralɔnkownisékownimásalawkɔnɔ,níàbénakɛbáasimɔgɔwmà,àkɛraùbólofɛncɛnniyewálàkùnmasúuli,bɛɛkákánnilàtangaliyeòlúgumà.</p>
+  </li>
+  <li>
+    <p>Dàntigɛlikan’nɔnɔhákɛyawnihɔrɔnya’sàbatíli’sìgida’la,jàmana’kɔnɔ,ànidúnya’mùmɛkɔnɔ,bɛɛkákánníòye.</p>
+  </li>
+  <li>
+    <p>Sìgida’yahákɛ’yemɔgɔkélenkélenbɛɛkùnkoye,k’àláàkánnísìgida’tɛ,iyamɔgɔya’tedáfa.</p>
+    <p>Dànsítemɔgɔ’yahákɛyaw’niàyayɛrɛmabíla’la,fóàdɔbɛkàikɔrɔsiàkanamɔgɔgbɛrɛtɔɲɔ,àyeijàntomɔgɔgbɛrɛyahákɛyawla,ànijógoɲumanya’niɲàli’nijàma’làganfíya’kánma,bɛɛkanya’kɔnɔ.</p>
+    <p>Ohákɛyawnin-tá-ye-n-yɛrɛ-ye’tebɛncógosíla,níùbeDúnya’tɔnba’yasàriyawsɔsɔ.</p>
+  </li>
+  <li>
+    <p>Yɔrɔsítedàntigɛlikan‘nìnkɔnɔ,nífànga,wálimajàmakúlu,wálimamɔgbansanbesékàmíiriyagbɛrɛbɔòkɔnɔkànànikówyewálimawáleyawye,minwbenanidàntigɛlikan’ninhákɛwniàhɔrɔnya’bènni’ye.</p>
+  </li>
+</ol>

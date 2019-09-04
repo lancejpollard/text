@@ -1,0 +1,121 @@
+<h1 align='center'>RUQ'ALAJIRISAXIK CHI RUWÄCH RONOJEL RUWACH'ULEW RI RUCH'OJIB'AL RUK'ASLEN JUN WINÄQ</h1>
+<h2 align='center'></h2>
+<p align='center'>Xa roma k'a ri kolotajïk, ruq'atik ri tzij, chuqa' ri tik'asäs uxlanib'äl k'u'x chi ruwäch re ruwach'ulew, uxlaynäq k'a pa ruwi' ri nimaläj ruq'ij ruk'aslen ri winäq, chuqa' xa roma k'a ri mansachel man ewäl ruch'ojib'al kik'aslen konojel ri ach'alal ri'ïl chi ruwäch re ruwach'ulew;
+Xa roma k'a ri man etaman ta chuqa' ri man ya'on ta ruq'ij ruch'ojib'al rul'aslen jun winäq yeb'an k'ïy itzel taq b'anob'äl, nimaläj taq ch'a'oj pa ruk'u'x kik'aslen ri winaqi'; chuqa' xq'alajirisäx chi ri nimaläj rurayb'äl ri winäq ja ri xtirïl ta apo jun utziläj k'aslen ri man jun ta chïk xinb'iri'ïl, man jun ta chïk wayjal, meb'a'il, xa xtikïl ta apo jun k'aslen ri akuchi' man jun oyowal, man jun ch'a'oj rejqalen rub'ixik jun na'oj chuqa' man jun ta ch'a'oj rejqalen runimaxik ri jalajöj kuqub'ab'äl taq k'u'x;
+Xa roma k'a chi yalan nimaläj rejqalen ruch'ojib'al ruk'aslen jun winäq k'atzinel ruto'ik rik'in taqanel q'atb'äl tzij, richin k'a chi ri winäq manäq ta xtub'än rajäl ruk'exel roma ri tijoj poqonal chuqa' ri itzel taq b'anob'äl nuk'ül pa ruk'aslen;
+Xa roma k'a yalan nimaläj rejqalen rusamajixik jun utziläj ajowab'äl chi kikojöl ri juley chïk taq ruwach'ulew;
+Xa roma k'a ri Nima taq Ruwach'ulew kitzob'ajin ki' kikamlun rub'ixik kitzij chi rupan jun Taqanel Wuj ri kikuqub'ab'äl k'u'x pa ruwi' ri nimaläj taq ruch'ojib'al ruk'aslen ri winäq, ri nimaläj ruq'ajarik chuqa' ri ruq'ij ri winäq, chuqa' chi xa junan ruq'ij ruch'ojib'al ruk'aslen ri achin rik'in ri ixöq, chuqa' xkipab'a' ki' chunimirisaxik ri kik'ojlen chuqa' ri rutzil kiwäch ri winaqi' pa rub'eyal jun qitzij kolotajïk;
+Xa roma k'a ri ruwa taq Rach'ulew Kachb'il ki' chuqa' ri Nima Moloj Ri'ïl kichin ri Ruwach'ulew Kitzob'ajin ki', xkipab'a' ki' chi ruchajixik ri qitzij ajowab'äl chuqa' ri qitzij ruch'ojib'al, ri qitzij rukolotajik kik'aslemal ri winaqi' chi ruwäch ri rach'ulew;
+Xa roma k'a ri xa jun ta runojib'al ruk'ojlemal re ch'ojib'äl re' rik'in ri kolotajïk ja ta ri' ri xtiya' ruq'ij richin ri qitzij rusamajixik re jun utziläj samaj re';
+Ri Nimaläj Moloj Ri'ïl nuya' rutzijol re Ruq'alajirisaxik chi Ruwäch Ronojel Ruwach'ulew re Ruch'ojib'al Ruk'aslen ri Winäq chi xa jun ta ri kinojib'al xtikib'än ri tinamït je' chuqa' ri ruwa taq Ruwach'ulew richin chi man xa xe ta ri winäq pa ruyonil chuqa' ri moloj taq ri'ïl, xtoqa ta pa kik'u'x jantape' ri ruya'ik rutzijol rik'in ri utziläj b'anob'äl chuqa' rik'in ri tijonïk, rik'in ri rusamajixik re ch'ojib'äl re' chuqa' ri kolotajïk, xa xtikichajij ta k'a ri rusamajixik re samaj re', xa eqal eqal ta k'a xtik'ïy ri ruya'ik ruq'ij pa taq ruwach'ulew man xa xe ta ri pa taq kitinamit ri ruwa taq Ruwach'ulew kitzob'ajin ki' chuqa' xa xtisamajïx ta ri pa taq ruwach'ulew e k'o pa taq kicholajen.</p>
+<ol>
+  <li>
+    <p>Konojelriwinaqi'kankalaxib'enperikolotajïk,rijunankiq'ij,rijunankejqalen,junankich'ojib'alpakik'aslen,xaachi'elk'arikik'ojlen,rikinojib'alkichajinxatik'amunk'achinimaläjkonojelxtikajo'ki'.</p>
+  </li>
+  <li>
+    <p>Konojelriwinaqi'kichajinronojelrich'ojinïkchuqa'rikolotajïketz'ib'anchupanreQ'alajirisab'älWujre',stape'junwirutzub'alriwinäq,junwiruch'ab'äl,junwirunimab'alk'u'x,junwirunojib'alchiachinchiixöqxab'achikejunchïkruk'ojlenralaxik,witab'eyom,witameb'a'xajunankich'ojib'al.Manxaxetak'are',chuqa'manjunwitaxtitz'etjunwinäqxaromatarub'anikiljunruwach'ulew,xaromatarub'eyalruq'atb'altzijriruwach'ulewchinäjchinaqajchuqa'riruwach'ulewakuchi'k'owijunwinäq,chuqa'manxaxetak'achupanjunruwach'ulewrinusamajijri'paruyonilchuqa'riruwach'ulewrik'opakicholajenjuleychïk,rimanparuyonilnisamäjchuqa'rijunchïkruwach'ulewniq'atontzijparuwi'.</p>
+  </li>
+  <li>
+    <p>Manjunwinäqxtiq'attachiruwächriruk'aslen,kanralaxib'enperikolotajïkchuqa'rujikirisanikriruk'aslen.</p>
+  </li>
+  <li>
+    <p>Manjunwinäqrixtichuq'ab'äxtapasamajchuqa'xtichuq'ab'äxtachöjchirilixikjunwinäq;riruchuq'ab'ansamajchuqa'rik'ayintaqwinaqi'xab'achikenarub'anikilch'a'ojrejqalen.</p>
+  </li>
+  <li>
+    <p>Manjunwinäqrixtiya'tapatijojpoqonal,pach'aykïlchuqa'richöjtaxtiq'attzijparuwi'chuqa'chöjtaxtuk'ülitzeltab'anob'älrimanruk'amuntanib'anchirejunwinäq.</p>
+  </li>
+  <li>
+    <p>Ronojelwinäqütznuch'ojijxab'akuchi'chiruwächrirach'ulewruq'ijriruk'ojlenparucholajenriq'atb'ältzij.</p>
+  </li>
+  <li>
+    <p>Konojelriwinaqi'xajunankiq'ijchiruwächriq'atb'ältzijchuqa'xajunankitz'etikkito'iknub'änritaqanelq'atb'ältzij.Konojelxajunankichajixiknib'anchiruwächronojelrietzelanïknuq'äjrutzijreQ'alajirisab'älWujre'chuqa'nuto'rik'inronojeltoq'onïkparuwi'rietzelantaqk'u'x.</p>
+  </li>
+  <li>
+    <p>Ronojelwinäqk'ochiruchajinjunutziläjtob'älchiruwächriq'atb'ältaqtzijpajunruwach'ulew,xaruk'amunchitito'chiruwächriitzeltaqb'anob'älnuq'äjrutzijrik'atzineltaqrutob'alriwinäq,ruchajinrinimaläjtaqanelwujchuqa'riruchajinritaqanelq'atb'ältzij.</p>
+  </li>
+  <li>
+    <p>Manjunwinäqrichöjtaxtichap,xtitz'apäxrimanjuntarumakchuqa'richöjtaxtoqotäxelparuruwach'ulew.</p>
+  </li>
+  <li>
+    <p>Konojelriwinaqi'k'ochixajunanrejqalenkiq'ij,richinye'ak'axäxpasaqilchuqa'rik'injunutziläjq'atb'ältzijrimanjunützitzelnub'ännisamäj,richinützruq'atiktzijnib'anchirerirunch'ojib'alchuqa'rik'ochinub'änparuk'aslenjunwinäq,chuqa'paruwi'xab'achikesujunïknib'anchirijjunwinäqchiruwächriq'atb'ältzij.</p>
+  </li>
+  <li>
+    <p>Ronojelwinäqrirejqalenjunmakütznuch'ojijchimanjunrumakta,wimanäqq'alajnäqtawikanjarija'wiriajmak,paruq'a'raqäntaqanelq'atb'ältzijchuqariruchojmilalnib'anparusaqilchikiwächriwinaqi'chuqa'riakuchi'q'alajirisanronojelrutob'alriwinäq.</p>
+    <p>Manjunwinäqrixtiq'attatzijparuwi'chuqa'xtewäxtairrumakxutaqxkulwachitäjrib'anob'älmanrejqalentamakchiruwächriruwach'ulewchuqa'chiruwächrijuk'anya'ruwach'ulew.Chuqa'manjunwinäqrixtirejqalejtachïkjunnimaläjch'a'ojrixtik'otachiruwächrinikiq'ätriajq'atöytzijchupanriramajparuwi'rimak.</p>
+  </li>
+  <li>
+    <p>Manjunwinäqrixab'ijanpe'xtuju'tari'paruk'aslenjunchïkwinäq,kik'inriralk'wa'l,chirachochchuqa'parutaqkiltaqwujje',chuqa'xtub'äntaitzeltaqna'ojchirijjunwinäq,chuqa'chirijriruq'ijriwinäq.Ronojelwinäqruchajinrutob'alritaqenq'atb'ältzijwujrinich'o'nchirijrib'anob'älchuqa'rirusujuxikxb'anjunwinäq.</p>
+  </li>
+  <li>
+    <p>Ronojelwinäqxab'akuchi'xtirajo'xtib'ewimanjunrejqalenchuqa'xab'akuchi'naxtirajo'xtub'änwirirachochchwächjunruwach'ulew,manjunrejqalen.</p>
+    <p>Ronojelwinäqütznelelxab'achikeruwach'ulew,chuqa'chupanriruwach'ulewrija'manjunrejqalen;chuqa'manjunrejqalenwinirajo'chïknitzolinelparuwach'ulew.</p>
+  </li>
+  <li>
+    <p>Wijunwinäqoqotanrij,ütznuch'ojijruk'ojlenjuk'anchïkruwach'ulew,ütznuk'owasajriruk'aslenchiri',xab'achikeruwach'ulew.</p>
+    <p>Rejunch'ojikiltzijre'manjunruq'ijchwächriq'atb'ältzijtaqjunmak,junb'anob'äl,junch'a'ojkanpetenäqwiparuwi'junqitzijmakchuqa'winuq'ätrutzijrupixa'riTzob'ajintaqRuwach'ulew.</p>
+  </li>
+  <li>
+    <p>Manjunwinäqrimanäqtaütznirichinajjunramaq'il.</p>
+    <p>Manjunwinäqrichöjtaxtimajramaq'ilchuqa'xtiq'attachiruwächriamaq'ilnirajo'junwinäq.</p>
+  </li>
+  <li>
+    <p>Taqnik'ajolïrjunala',taqniq'opojïrjunxtänmanjunachikextiq'atonkichinrichinyek'ule';manjatarirutzub'al,riramaq'ilrirunimab'älk'u'xxtiq'atonkichinrichinrik'ulb'ïk,richinnitikirba'aeljunach'alalri'ïl,chuqa'xajunankich'ojinikchikijuunalrik'inrik'ulb'ïk,chupanrikik'aslentaqek'ulanchuqa'wixtikijächki'.</p>
+    <p>Tikirelnib'anjunk'ulb'ïkwikanqitzijrurayb'äljunxtänchuqa'rurayb'äljunala'nik'ule'.</p>
+    <p>Riach'alalri'ïljari'rirukowilruk'aslenjuntzob'ajwinäq,juntinamït;reach'alalre'k'ochinito'nichajïxkomariwinaqi'chuqa'romariRuwach'ulew.</p>
+  </li>
+  <li>
+    <p>Konjelriwinaqi'tikirelnik'oje'kib'euomälpataqkiyonilchuqa'taqkitzob'ajinki'.</p>
+    <p>Manjunwinäqrikanchöjtaxtimajrirub'eyomälchire.</p>
+  </li>
+  <li>
+    <p>Manjunwinäqrixtiq'attachiruwächrirunojib'al,rinaläxparuk'u'xchuqa'rirunimab'alk'u'x;rech'ojikilre'ruchajinchuqa'chimanjunachikerejqalenwiriwinäqnirajo'nujälrerunimab'alk'u'xajunparuyonilchuqa'pataqtzob'aj,witapasaqilwitapanewel,rik'injunutziläjtijonïk,rik'inmejlenxukulenrinimab'älk'u'xchuqa'rirusamajixik.</p>
+  </li>
+  <li>
+    <p>Manjunwinäqrixtiq'attachiruwächrinuq'alajirisajrub'ixikjunna'ojchuqa'riachikenirajo'nub'ij;rech'ojikïlre'ruchajinchuqa'rimanäqütztaxtinaqjunwinäqxaromatarinuq'alajirisaj,rinuya'rutzijol,chinäjchinaqajchupanxab'achikerub'anikilruq'alajirisaxikrina'oj.</p>
+  </li>
+  <li>
+    <p>Konojelwinaqi'tikirelnikimölki'chuqa'ütznikitzob'ajijki'parutzil.</p>
+    <p>Manjunwinäqrichöjtanichuq'ab'äxrokenpanjunmolojri'ïl.</p>
+  </li>
+  <li>
+    <p>Ronojelwinäqütznirachb'ilaj,ütznisamäjrik'inritata'ajpajunruwach'ulew,wimannitikïrtarija'ützchuqa'nutäqeljunparuk'exel.</p>
+    <p>Konojelwinaqi'xajunankiq'ijrichinütznikik'änjunsamajchiruwächrikiruwach'ulew.</p>
+    <p>Rikirayb'älriwinaqi'chupanjunruwach'ulew,jari'riruchuq'ayb'älruchuq'a'runojib'alritinamït;rerayb'älre'niq'alajinchikiwächriwinaqi'taqkanjarije'riyek'aqonkiwächjutaqilrikitata'alriruwataqruwach'ulewrik'injunutziläjrub'eyalricha'onïkxtib'anrik'inripaneweljuch'unwuj.</p>
+  </li>
+  <li>
+    <p>Junwinäqrik'oparuq'a'raqänjuntinamït,rewinäqre'k'ochinuk'üljikïlrutob'alparuwi'kiq'ajarikriwinaqi'chuqa'rik'inrutob'alriajjuk'anya'ruwach'ulewrik'inrucholajenruchuq'a'rijujunRuwach'ulew,chuyakikchuk'iyikriutziläjkik'aslenriwinaqi'chuqa'rikinojib'alkib'anikil,rimansachelruq'ijriwinäqchuqa'riruk'iyikruwinaquljunwinäq.</p>
+  </li>
+  <li>
+    <p>Konojelwinaqi'tikirelnikïljunkisamaj;chuqa'manjunwinäqrixtiq'attachiruwächrisamajnirajo'nub'än,chuqa'manjunützitzelkitz'etikkitojiknib'anriwinaqi',k'atzinelchuqa'ruto'ikriwinäqrik'inruya'ikrusamaj.</p>
+    <p>Konojelriwinaqi'xatik'amunjunankitojiknib'antaqjunanruwächsamajnikib'än;manjunitzelnitz'etnib'an.</p>
+    <p>Ronojelwinäqsamajelk'ochiniya'chireriqitzijrajälrirusamaj;rirajälniya'k'atzinelchinub'änronojelrinirajnuk'utujriruk'aslenrija'chuqa'riralk'wa'l;richinnuk'wa'jjunk'aslenriruk'amunnuchajijjunwinäq;wimanxtub'änxatik'amunnito'öxkomarich'aqachïkmolojtaqri'ïlriyeto'onriwinaqi'.</p>
+    <p>Konojelriwinaqi'xaruk'amunnikitzob'ajijki'richinruto'ikruk'ojlenriwinäqparusamaj.</p>
+  </li>
+  <li>
+    <p>Konojelwinaqi'k'ochiniya'kuxlanib'al,janariwinäqninojinachikenirajo'nub'änriparuxlanib'al,chuqa'k'atzinelchiriwinäqxaetatelriq'ijnisamäjchuqa'k'ochinitojjataqilrinimakuxlanib'alniya'chejunjuna'samaj.</p>
+  </li>
+  <li>
+    <p>Konojelwinaqi'k'ochinikïljunutziläjk'aslenchuqa'keri'rikalk'wa'lnikïltajunruxnaqilkiwächchuqa'rinirajnuk'utujrikik'aslen,rikanyalank'atzineljarikiway,rikitzyaq,rikachoch,rikaq'omaxikchuqa'rich'aqachïkk'atzinelpakik'aslen;chuqa'k'atzinelchiniya'kitob'altaqmanjunsamajta,taqk'oyab'il,taqnikanäjkütjunwinäq,taqnimalkanäjkan,tannirijïxchuqa'ch'aqajuleychïkrimannirïltachïkrinirajowajparuk'aslenretob'älniya'taqmanrik'intarurayb'älriwinäqk'onuk'ulwachij.</p>
+    <p>Rialanïkchuqa'rik'ajolala'k'atzinelchiützkichajixik,ützkik'waxikyeb'an.Konojelriak'wala'ye'aläxkik'ink'ulanïktaqwinäqchuqa'riye'aläxxaxerik'inkite'xak'ochikonojeljunankitz'etik,junankito'iknikik'ülrik'inriq'atb'ältzij.</p>
+  </li>
+  <li>
+    <p>Konojelriwinäqk'atzinelchinikik'ülritijonïk.Retijonïkre'jare'risipantijonïknuya'riq'atb'ältzijparuwi'rinab'eytaqwuqu'juna'tijonïkchuqa'rioxi'chïkjuna'.Retijonïkcherenab'eytaqjuna'k'ochinikik'ülkonojelriwinaqi'.Ritijonïkrichinjunsamajchuqa'riik'ownäqchïkb'a'ruq'ijxaruk'amunchitutalujri'chikiwächriwinaqi';riokenchupanrinima'qtaqtijonïkxajunanrub'anikilriniya'chikekonojelparuwi'rirejqalenretamab'alriwinäq.</p>
+    <p>Ritijonïkniya',k'atzinelchinub'änjunutziläjsamajparuwi'ronojelrinirajnuk'utujruk'aslenriwinäqchuqa'richinrik'atzineltaqkolotajïkrejqalenrik'aslen;xaxtuto'tak'arijoyowab'älwäch,rikoch'onïkchuqa'riajowab'älchikikojölriruwataqruwach'ulew,chuqa'xtuto'tak'akik'ojlenkonojelriwinaqi'rikanchupanwiriruwach'ulewri'ealaxnäqwi,chuqa'ajnimab'älk'u'x,chuqa'xaxtunimirisajtak'aruk'ojlenronojelrisamajxtikib'änriTzob'ajintaqRuwach'ulewrichinmansachelruk'aslenritik'asäsuxlanib'älk'u'x.</p>
+    <p>Pakiq'a'ritete'ejtata'ajk'owirucha'ikritijonïknikajo'nikiya'chikerikalk'wa'l.</p>
+  </li>
+  <li>
+    <p>Konojelriwinaqi'tikirelnikib'änxab'achikesamajparuwi'ruk'ojlenrikitinamit,chuqa'xatikirelnikïlrirutzilrinima'qtaqetamab'älruchajinrikik'ojlenchuqa'tikirelchiyesamäjparuwi'ruk'iyilenrinima'qtaqetamab'älchuqa'rirutzilnikïlaporik'in.</p>
+    <p>Konojelwinaqi1tikirelchiketo'onparuwi'riutziläjtaqna'oj,riutziläjtaqwachinelriütznikichinajxaromarinimaläjtaqsamaj,riutziläjk'ochineltaqsamaj,riutziläjtaqwujrutz'ib'anjunwinäq.</p>
+  </li>
+  <li>
+    <p>Ronojelwinäqtikirelnuch'ojijrucholajenjunutziläjrub'eyalruk'aslenchiruwächch'aqachïkruwach'ulewriakuchi'rich'ojikïlchuqarikolotajïknuya'rutzijolrejunCh'ojib'älWujre',xaxtib'antak'aronojelrironojelrinuq'alajirisaj.</p>
+  </li>
+  <li>
+    <p>Ronojelwinäqk'ochinito'onrik'inriretamab'al,riruchuq'a'chirerirutinamit,romakanxaxechiri'manjunachikextiq'atonronojelrixtub'änparuk'aslenriwinäq.</p>
+    <p>Parucholajenronjelriütznuch'ojijjunwinäqchuqa'rik'inrukusaxikronojelniqachiruwächrinub'än,ronojelwinäqxaxtunimajk'ariütztib'an,rimanütztatib'anq'alajnäqchupanritaqanelwuj,xaromatik'oje'paruk'uxlalriruq'ajarikchuqa'riruq'ijrikik'aslenrich'aqachïkwinaqi',chuqa'k'atzinelchitib'anronojelruch'uch'ujilrik'aslen,rucholajenrikib'anob'alriwinaqi'chuqa'xarichinützruk'waxikrub'eyalkik'aslenriwinaqi'akuchi'xajunankiq'ijkonojel.</p>
+    <p>Ronojelriütznuch'ojijjunwinäqchuqa'rironojelniqachiruwächnub'än,manjunb'eyk'aütztaxtub'änrinirajo'taqxanuq'äjrinirajowajchuqa'ritz'ib'atelpakib'eyalriTzob'ajintaqRuwach'ulew.</p>
+  </li>
+  <li>
+    <p>Manjunchikeronojelriq'alajirisanïkek'ochupanrejunQ'alajirisab'älWujxtz'ib'äx,xaxtiq'axtapakijolonchixanuya'taq'ijchireruch'ojib'aljunruwach'ulew,juntzob'ajwinaqi',junwinäqparuyonil,richintachixaxtutikirb'a'xab'achikesamajchuqa'xtub'änxab'achikejunb'anob'älrinujälruq'ajarikruch'ojib'alruk'aslenjunwinäqchuqa',rinujälruq'ajarïkriniqachiruwächjunwinäqnub'än,ya'onrutzijolchupanreQ'alajirisab'älWujre'.</p>
+  </li>
+</ol>

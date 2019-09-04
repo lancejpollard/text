@@ -1,0 +1,121 @@
+<h1 align='center'>ZAL'SHƐŊA ŊAN KPAŊSIR' ZƆSIMDI NI NAŊGBAŊ YINI ANDUNIA TIŊGBANA SUNSUUNI</h1>
+<h2 align='center'>LAHABAL' TUULI</h2>
+<p align='center'>Yɛlimaŋli, bɛhigu kam yi yɛn mali kɔre ni dariza zaŋ n chaŋ sal' mini o kpee sunsuuni faashee ka bɛ chɛ tab' bɔbbu ni tab' muɣsubu yiruŋ yiruŋ. Din lan pahi, di bi tu ka bɔliyoli be bɛ nimdi ni. Din nyaaŋa, di bi lan tu ka zab chɔɣima ŋan ka alifaani gɔr be bɛ sunsuuni. Yɛltɔɣ' yoya lala n yi dɔɣsi nam tɔbu, ka bebu kɔŋ tulaale. Sal-nim yi lihimi ʒem zal' shɛŋa ŋan be litaafi ŋɔ ni ka zilsigu ni fabila nabigi m-maan pahi nabili bɛ sunsuuni. Ashee tɔɣsigu ni shaawara ni be shɛli, fabila ni yolitem ka ka di beni.
+Din ni chɛ ka fukumsi ni muɣsigu saɣim zɔsimdi ka sokam ti zɔr' n bahiri o sol' la, di tuya ka ti niŋ kookali niŋ ti suhu ni, ka zal' shɛŋa ŋankam be litaafi ŋɔ ni daalifaani tabili sokam. Zal' shɛŋa din be litaafi ŋɔ ni lan nyɛla din tɔŋdi aminsi ni zɔsimdi ka bukaata kam maana.
+Tiŋgbana Naŋgban Yini Laɣiŋgu shɛli bɛ ni bɔli yubɔlig' Yunaitid Neishins la nim zaa dihi nuu gbɔŋ ni ka dama bɛ zaa yuya ni di kpaŋsi zal' shɛŋa ŋan zaa nyɛ ŋan kpaŋsir zɔsimdi ni tɔɣsigu tiŋgbana sunsuuni. Binnamda Naa yiko puuni, paɣa bi gari doo, doo mi bi gari paɣa. Bɛ zaa la yim. Ni dinzuɣu bɛ bɔr' ni yɛda ni suhupiɛlli be ti sunsuuni, ka ti puha yooi tab' zuɣu, ka yɛlli kam ku nyaŋ ti. Din ni kpaŋsi ka zal' shɛŋa ŋan be litaafi ŋɔ ni maali sokam buchi, sokam maaimi o nii n karim litaafi ŋɔ ka di kpe o tibili ni venyɛlinga.
+Dinzugu, pumpɔŋɔ,
+Jɛneral Asɛmbli Laɣiŋgu ni di
+ti sokam lahabali ka dama
+ZAL' SHƐŊA ŊAN BE LITAAFI ŊƆ NI ŊƆ NYƐLA
+ŋan ni niŋ tiŋgbana ni sokam alifaani. Sokam, zaŋ n-ti tabli dunia-yili laɣiŋgu balibu kam zaŋim zal' shɛŋa ŋan be litaafi ŋɔ ni n-niŋ waaʒibu, ka bɔ daliri din ni chɛ ka ŋa niŋ bayaana ni achiika: Wuliŋpuhili, Wuliŋluhili, Nudirigu, Nuzaa, ni luɣulikam. Amaa Zal' shɛŋa bɛ ni yu ni ti zaasa kpaŋsi maa n-dii mbɔŋɔ.</p>
+<ol>
+  <li>
+    <p>Sal'lasala.Bɛhig'besokamsanimi,dinpalaamii.Suhizɔbobesokamsani;kanambɔɣubeni.Suhubɔhibomibilankɔŋyigunaadamkamsani.Dinzuɣudimbɔŋɔzaawuhiyakadamaditukamaatakatizaayutab'halinitipuuni.</p>
+  </li>
+  <li>
+    <p>Zaligudinkambelitaafiŋɔninyɛladinmaaniyigunaadambukaatazaŋnchaŋbɛhigupolo.Zaligubitisolinisogahimmiokpee.GbampiellikasolikaogahimGbansabilli;doodibiɛhimpaɣa;somidizaŋodaadiinidinpar'onzaŋbɔbiotaba,oyaazuɣu.Somiditɛhiniobɛhig'beeobunibeeodɔɣimdahibarkabeeobilichiinsizuɣuomaliyikodinʒemdiokpeebeenzaɣsir'o.Dinnyaaŋadikasolikasoʒemokpeeniotiŋviɛl'zuɣu.Ŋunya-nimnyasumaŋ-talidipirimnioyanyaɣs'zuɣunlihiʒembannabeSoomanji-taliwaamaadabtimni.</p>
+  </li>
+  <li>
+    <p>Sodipirimowɔɣiritalizuɣuyɛliniotumtuunshɛlidingbarigir'bɛhig'kazal'shɛŋaŋanbekpebitioyɛlli.Diveenikakookalibesokamsanimikafawɔɣilikani.</p>
+  </li>
+  <li>
+    <p>Zaligubilannsaɣinisozaŋoygunaadamkpeeniŋobilaa;damadabtimdaawabugariyakadibipɔra.Dinzuɣu,taalinnyɛliniachiikaninir'kɔhidabilibeendao.</p>
+  </li>
+  <li>
+    <p>Zaligubilansaɣinibɛniŋsoalakabeefukumsibiɛɣudinkaalbarikaditooninidinyaaŋa.</p>
+  </li>
+  <li>
+    <p>Zaŋnchaŋdunia-yililɔɔbeedunia-yilizaligupolo,solikanikabɛtooipiikaɣilitiso,kapiidɔɣuntiso.Baŋveeninudirigumaakaveeninuzaagba.</p>
+  </li>
+  <li>
+    <p>Zaŋnchaŋzal'shɛŋaŋanbekundipuuni,yɛllidindir'tarimadir'bilchina.Sariyadol'layɛlimaŋli,dibidoliʒiri.</p>
+  </li>
+  <li>
+    <p>Sariyadibushee,GbampiɛllidinikaladikɔkachɛGbansabillidini;damatizaalayigunaadam-nima.</p>
+  </li>
+  <li>
+    <p>Zaligubisaɣiniyɛlwums'chɔɣimazuɣubɛniŋimnir'fukumsi,beenkpɛh'oduu,beenkarooyaannimtiŋ'ni,oba-nimtiŋnikadikasoli.</p>
+  </li>
+  <li>
+    <p>Zaligumaalanwuhinisolibenikanirnibɔsoyantahiosariyabɛnnidililuɣushɛlikazualinsikani,bɛyidiosariyakadibitiɣionini.</p>
+  </li>
+  <li>
+    <p>Kootuyidinir'sariya,nyikpɛholasarika,omaliyikodinzabiriomaŋzuɣu,nbɔrlɔya-nima,kabɛzaanionyaaŋa;kanaɣilaŋungbanyamikalalanyɛlaniŋgbuŋ-duɣili.</p>
+    <p>Zaligulanyɛlinidikasolikabɛniŋnirfitiinakadilanbitummbirigitiŋgbanshɛlipuunioniʒiamaazal'shɛli;beezal'shɛŋaŋanbelitaafiŋɔni.Niryitumm-birigizaligu,bɛdarigi'otibililazaligukundinibuɣsinibɛniŋimoshɛm.</p>
+  </li>
+  <li>
+    <p>Zaligulanwuhinidikasoli,sal-nimzambapuuni,kabɛvihinir'nibɛbaŋashilishɛlidinnyɛodahalali;beeodaaliwummadaashili;beeoyilipuunidaashhiya;beenvihiowashiikashɛŋaŋannyɛodini;beenbɔdalirinfilimnfilimoyoli.Zalshɛŋaŋanbelitaafiŋɔniʒelasokamnyaaŋapayinokɔnyaaŋ'kaŋaʒeya.</p>
+  </li>
+  <li>
+    <p>Zaligulanwuhinisokammalisolidingamdioyubutiŋŋannuubezal'shɛŋaŋanzaliŋɔni.</p>
+    <p>Sokamlanmaliyikodinyirioya,nduritiŋduyakatiligir'oyanakataalishɛlikani.</p>
+  </li>
+  <li>
+    <p>Zal'shɛŋaŋanbekpelanwuhininirmalisolidinzaŋdionyɛvilinzɔrtiligirakatiŋshɛlionizɔnkulimaanimtaɣindeeg'o.</p>
+    <p>Laabida,ŋunkamyikpuɣinapɔŋlalayitumminbirigiotiŋgbɔŋzal'shɛlibeeTiŋgbanazaasaNaŋgbanyinilaɣiŋguzal'shɛli,onyɛlaotakahibindimaa,dinzuɣu,onivaobini.</p>
+  </li>
+  <li>
+    <p>Zaligudinbekpelanwuhininir'maliyikodinkpɛhiriomaŋzuliyashɛliniosuhunigbaai.</p>
+    <p>Didipirimshɛb'beesosuhuyubuzuɣunmɔŋsoyikodinnichɛkaotooikaliomaŋnkpɛhizuliyashɛl'puuniosuhuniyu.</p>
+  </li>
+  <li>
+    <p>Zaligumaalanwuhinipaɣ'kamnidookam:KpuŋkpanawaamaaSaɣayɛlgamaliyikodinkpuɣiribal'shɛliosuhuniyunnamdizuliyaoyaatariga.Zal'shɛŋadinbekpenisɔŋdidɔɔshɛm,disɔŋdipaɣ'gbalalala.</p>
+    <p>Zaligulankpaŋsiyɛltɔɣ'shɛli.Yɛdaniyɛdashee,doomalisolidinkpuɣiriosuhuyubupaɣa.</p>
+    <p>Zaligulanwuhnidoominipaɣanyilaɣimnnamtuŋ.Nidinzuɣu,namadahilibarkapuuni,nibɛsudɔɔminipaɣ'zaami.</p>
+  </li>
+  <li>
+    <p>Nirmaliyikodinzaaniodahalaliazichibeennyar'shɛb'pahiriomaŋzuɣukabɛkper'wɔlimani.</p>
+    <p>Duniayɛlwumsaŋunzuɣunininvuɣ'yinosuhuyubuzuɣu,solikanikabɛnitooifanir'daaʒia.</p>
+  </li>
+  <li>
+    <p>Bɛhig'wuhiyakadamasolikanikasotooibɔbiokpee.Sokammalisolidintumdioyubukadoliadiinishɛlidinpar'o.Osuhuyitilanjɛadiinishɛlionidolimaa,olanmaliyikodinlooriadiinishɛlidintaoyɛm.Limama-nimmalisolidinkpaŋsir'bɛdaadiinikajɛmdiNaawunibɛdaahaŋkayatarigakataalishɛlikani.</p>
+  </li>
+  <li>
+    <p>Zaligulankpaŋsiniyigunaadamkammaliyikodindir'osuhuyubudaalizama,kadikunonibɔr'luɣushɛli,diyipaalizanshɛlidingalim.</p>
+  </li>
+  <li>
+    <p>Laɣiŋgudinkamgbibimaaligu,litaafiŋɔkpaŋsir'likaʒedinyaaŋa.</p>
+    <p>Solikanikanir'suhubigbaaimintishɛlikasotooikumoyaazuɣumuɣsir'oniokpɛhidini.</p>
+  </li>
+  <li>
+    <p>Zaŋnchaŋtiŋgbɔŋpuunidaalizamaninyɛshɛŋazaa,solikanikadimɔŋsodishaawar'shɛli,damazamaatuzaashaawarannyɛli.</p>
+    <p>Tiŋgbɔŋkammulichiniyushɛli,dinannyɛwaaʒibu.Bɛsuhuyubumaakabɛmaalitumdituma.</p>
+    <p>Litaafiŋɔlankpaŋsinigbaaibuyiyɛngbaaidinvootim'vootir'maŋlingbaaigbaaibudinnizaŋntumtuma.</p>
+  </li>
+  <li>
+    <p>Zaligulankpaŋsinisokammalisolidinkuuniotiŋzuɣu;damabɛzalitiŋgbɔŋlanisokambukaatamaanizuɣu.Nidinzuɣu,tiŋgbɔŋniimanyɛlatiŋgbɔŋzaasabuni,kaditaadakampasosaandi.</p>
+  </li>
+  <li>
+    <p>Zal'shɛŋaŋanbelitaafiŋɔnilanwuhinisokamtumditumakabɔmosuhuyubutumadinnyɛdinnisɔŋokasɔŋomulichi.Sokamlanmalisolidinduhirioyeekabɛnyar'tuunsumatir'o.</p>
+    <p>Nir'wɔligubinininyɛshɛli,dikasolikasotooimɔŋoli.</p>
+    <p>Tumtumdikamveenikaodir'wahalakabɛyɔriolayɔ'shɛŋadinnisaɣiominiomulichikafukumsitiyɛnŋmanidigbaairiolakabɛsɔŋozaligunibuɣsishɛmkundini.</p>
+    <p>Tiŋgbɔŋkammulichimaliyiko,sɔŋsimsolizuɣu,dinzaanibɛdintɔlilaɣiŋgushɛlibɛnibɔɔniSiliminsilininiTreidYuniɔnslakadizabiribɛtumtumdib'zuɣu.</p>
+  </li>
+  <li>
+    <p>Zaligulanwuhinisokamvuhimiodaahaŋkalitarigakatummitumasaha,dinnyaaŋakadiɛmmibeenkperimikpɛrigusaha.</p>
+  </li>
+  <li>
+    <p>Zaligulanwuhinibɛnambɛhigulasokamzuɣu.Nidinzuɣu,sokammaliyikodinbɔrialaafeesoya;damaalaafeennyɛbinshɛɣukam.Sokamlanmaliyikodinwɔlindipuzurinisuturazuɣu,niyilizuɣu,nidinkamnyɛdinmaanikapahiribɛhigu.Zaŋnchaŋgu-maŋdaashiyamipolo,nikɔŋsimdoro,gbariginsim,dakɔlim,kuriginsimniduniayilifukumsikam,zal'shɛŋaŋanbelitaafiŋɔnisɔŋdisokam-mi.</p>
+    <p>Zaŋnchaŋbiaminiomashee,sokamminibiadɔɣibutɔ,dinzuɣu,biakam,sheejeniŋunmiobazaa,zal'shɛŋanaŋlitaafiŋɔnizaniyimnibialabia,nidinzuɣubanmalibanimnikuunikagamdikatiŋgbɔŋnuupabɛzuɣushɛm,banʒibɛbanimgbamaliyikodingamdilala.</p>
+  </li>
+  <li>
+    <p>Zaligulanwuhinidaadamkammaliyikodinbɔhindikarɔŋ.Gommantinsuyikonibɛyɔsikurubihizuɣubannapiinikarɔŋ;kanabikarimnchaŋkatiŋala,zaazuɣu.Talahinnyɛlinisokamtɔhiobiasikuru.Tuunbaŋsimsikuru-nimbikɔŋtiŋkampuunidindolisir'banzuɣurigɔr'nen-nela,kabɛkarindinbaŋdivenyɛliŋga.</p>
+    <p>Zal'shɛŋaŋanbelitaafiŋɔniyɛliya,nidiveenikabaŋsimkampahirinir'laninneesim,kawuhiribihijilimanisuzudanibɛhiguniyurlimsoyaninyɛshɛŋa;katiwumdikpamb'yɛligu,kasuɣulobesokamsanikatɔɣsigubedunia-yilizuliyakamsunsuuni;niMusulim-nimniYisaNyaanolib'nichɛfirnimsunsuuni,kaTiŋgbanaNaŋgbaŋYiniLaɣiŋgulaniakampali.</p>
+    <p>Ba-nimnima-nimmaliyikodinpiirikarɔŋbaŋsimshɛlibɛsuhuniyunibɛbihikarim.Zal'shɛŋaŋanbekpewuhiyanibihiba-nimnibɛma-nimyubulakazaliguŋɔkpaŋsinnyaŋbinshɛɣukam.</p>
+  </li>
+  <li>
+    <p>Ŋunkamsuhuyuniokpaŋsiokalisoyabeeodiɛmdiɛnshɛli,beeowawashɛli,beeodolininneesimso'shɛli,solibenikadilantooiniŋoyubukataalikani.</p>
+    <p>Ŋunkamkpaŋsir'omaŋzaŋnchaŋbaŋsimpolo,niŋunkamlankpaŋdiomaŋzaŋnchaŋonyaalifaani,solikanikasotooigudilansolizaŋnchaŋoyubumaapolo.</p>
+  </li>
+  <li>
+    <p>Zal'shɛŋaŋankambelitaafibil'ŋɔninyɛlatizaasafali,dinzuɣusokamnitooinyubaranbahiŋa.</p>
+  </li>
+  <li>
+    <p>Bɔbigushee,sokammal'laosolidinkpaŋsir'okasɔŋd'o,kaobebumalidaŋko.</p>
+    <p>Solikanikasotooiyɛlinioyuomaŋn-tiyaɣi.Yɛlliyizani,kabɛyɛnvihiyɛllimaa,zaligunizalishɛmkaditisolinididoli,nyulimaaliyɛllimaakaditasokamyɛm.</p>
+    <p>DikasolikasotooigbaaigbaaibukaogbaaibumaataɣiYunaitidNeishinsbeeTiŋgbanaNaŋgbanYiniLaɣiŋgunibuɣsishɛmlitaafibil'ŋɔni.</p>
+  </li>
+  <li>
+    <p>Niditisokamlahabalikadamabɛbizalizal'shɛŋaŋanbekpeŋɔlaninyinokɔsuɣu,sokamzuɣukabɛzaliŋa.Dinzuɣu,zal'shɛŋaŋanbekpemaakabibiɛlimsoyazuɣu,beetiŋŋmɔŋsolizuɣu.Dinzuɣusokamluɣimtibilivenyɛliŋganwumkadichib'o.</p>
+  </li>
+</ol>

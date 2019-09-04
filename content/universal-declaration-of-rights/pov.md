@@ -1,0 +1,122 @@
+<h1 align='center'>Diklarason Mundial di Diritus di Pekadur</h1>
+<h2 align='center'>Introduson</h2>
+<p align='center'>Asembleia Jeral nota kuma, rikuñisimentu di dignidadi ku tudu pekaduris ten, ku se diritus igual ku ka pudi mudadu, i sedu alisersu di liberdadi, justisa ku pas na mundu;
+I nota kuma, falta di kunsi diritus di tudu jinti, o disprezu di ki diritus, i ta leba jintis pa atus brabu ku ta ofindi konsiensia di tudu pekadur; e nota tambi kuma, vison di un mundu nunde ku jinti sta libri pa papia i pa ten se fe, pa goza di libertadi di medu ku miseria, i proklamadu suma inspirason mas altu di pekadur;
+I nota kuma, i pirsis proteji diritus di tudu jinti atraves di sistema di sosiedadi di diritu, pa omi, ku falta di utru meiu, ka sinti obrigadu pa ravolta kontra otridadis ku na maltrata o kalka jinti;
+I nota kuma, i pirsis nkoraja disinvolvimentu di amisadi ku bon relasons na metadi di nasons;
+I nota kuma, na Karta, membrus di Nasons Unidu torna proklama se fe na diritus fundamental di tudu jinti, na dignidadi ku balur di kada pekadur, na igualdadi di diritus di omis ku minjeris; e diklara kuma e sta risolvidu pa sta na ladu di progresu sosial, tambi pa forma minjor kondisons di vida dentru di un sosiedadi di mas liberdadi;
+I nota kuma, Stadus ku sedu membrus toma kumprumis di nkoraja, na kooperason ku Organizason di Nasons Unidu, pa ten rispitu mundial di diritus di tudu jinti, ku liberdadis fundamental;
+I nota kuma, pa kumpri ki kumprumis diritu, i muitu importanti pa tudu membrus junta na ki un ideia son di diritus ku liberdadis;
+Asembleia Jeral
+Proklama e Diklarason Mundial di Diritus di Pekadur suma alvu ku tudu rasas ku tudu nasons pudi junta pa yangasa, pa kada pekadur, ku tudu organs di sosiedadi, pudi tene ki alvu sempri se dianti, e pudi sforsa, atraves di nsinu ku edukason, pa disinvolvi rispitu pa e diritus ku liberdadis; e pudi toma mididas ku na lebadu dianti, nasional ku internasional, pa ki diritus pudi rikuñisidu, tambi pa e aplikadu ku bon rusultadu na tudu parti di mundu, na metadi di populason di propi Stadus ku sedu membrus, suma tambi na teras ku sta bas di se otridadi.</p>
+<ol>
+  <li>
+    <p>Tudupekaduristapadidulibriiigualnabalursumanadiritus.Sumaedadukapasidadidipensa,etenetambikonsiensia,edibiditratañutrusumaermons.</p>
+  </li>
+  <li>
+    <p>TudupekadurispudipurbitadikidirituskuleberdadiskuproklamaduneDiklarason,sinkalkerdiferensa,dirasa,kor,seksu,lingua,rilijion,opinionpulitiku,odiutrufaktor,nasionalososial,dirikesaokoitadesa,dinasimentuodikalkerutrusituason.Foradikila,ikanafasiduninundiferensafundadunaleipulitiku,legalointernasionaldinasonoteranundekualginpadidu,ninsikinasonoteraiindipendenti,basdiprotesondiutru,autonomuolimitadunadidiritusdiguberna.</p>
+  </li>
+  <li>
+    <p>Tudupekadurtendirituditenevida,liberdadikusuguransapisoal.</p>
+  </li>
+  <li>
+    <p>Niginkanatenedusumakatibu.Katiberaskukunogosdibindiokumprapekadur,natudusiformas,ipruibidu.</p>
+  </li>
+  <li>
+    <p>Ninginkanasufritorturaninkastigusotratamentukruel,kutaumilyal,kukadignudiusadunakalkerpekadur.</p>
+  </li>
+  <li>
+    <p>Tudupekadurtendirituditenesipersonalidadijuridikurikuñisidunatudukau.</p>
+  </li>
+  <li>
+    <p>Tudujintiiigualdiantidilei;sinkalkerdiferensaetendiritudirisibiigualprotesondilei.TudujintitendiritudiprotesonigualkontrakalkerdiskriminasonkutakebraregradeDiklarason,tambikontrakalkeratudicucidiskriminason.</p>
+  </li>
+  <li>
+    <p>KadapekadutendiritudibaipaotridadisnasionalkompetentipabuskaajudakontraatuskukebraregrasdidiritusfundamentalkuKonstituisonoleirikuñisi.</p>
+  </li>
+  <li>
+    <p>Niginkapudiprindiduoficadunakalabus,ninikapudiserkadunatera,sinrosondiantidilei.</p>
+  </li>
+  <li>
+    <p>Tudupekadurtendiritu,kutuduliberdadi,pasikasujugadupublikamenti,kuigualdadi,patribunalindipendentilukatadiferensiajintis,kunafasidisisonaserkadisidirituskuobrigasons,oaserkadirosondikalkerakusasonkufasidukontrael.</p>
+  </li>
+  <li>
+    <p>Tudualginkuakusadudiunkrimiidibidiocadunosentitoksikulpastaprobadudiantidileinaunprosesupublikunundekitenetuduoportunidadiskipirsispadifindisikasu.</p>
+    <p>Ninginkanakondenadupakusakifasi,opafaltadifasiundever,si,nakiora,kiatuofaltakasedubakrimidiantididirituinternuointernasional.Asin,ikapudirisibikastigumasgarandidikikilkinamersibanaorakukrimifasidu.</p>
+  </li>
+  <li>
+    <p>Ninginkanasufripajintismitinasividaprivadu,ninnasifamilia,sikasaosikartas,ninikanaatakadukontrasirispituosibonnomi.Kadapekadurtendiritudirisibiprotesondileikontrakikoldadiatakisontromiti.</p>
+  </li>
+  <li>
+    <p>Kadapekadurtendiritudiyandakuliberdadi,ikujisikaudimoradentrudiunpais.</p>
+    <p>Kadapekadurtendiritudibandonaterakistanel,siisipropiteraonau;itendiritutambiparibapasitera.</p>
+  </li>
+  <li>
+    <p>Tudupekadurkuocakumainapirsigiduitendiritudibuskaipurbitadigasajunautrutera.</p>
+    <p>Nakasukukialginstajanaprosesupabiadiunkrimikontradiritudipekadur,opabiadikusaskifasikustakontraleiskualvusdiNasonsUnidu,ikatenkidiritudibuskagasajunautrutera.</p>
+  </li>
+  <li>
+    <p>Kadapekadutendirituditenesinasionalidadi.</p>
+    <p>Ninginkapuditiradu,sinrosonlegal,sinasionalidadininsidiritudimudasinasionalidadi.</p>
+  </li>
+  <li>
+    <p>Oraketenejaidadidikasa,omikuminjertendiritudikasapaeformaunfamilia,sinlimitasonpabiadirasa,nasionalidadiorilijion.Nakasamentionatempudidivorsia,elistududustendiritusigual.</p>
+    <p>Kasamentikapudifasidusiikadilibrivontadidikiliskunakasa.</p>
+    <p>Familiaikielementunaturalifundamentaldisosiedadi;itendiritudirisibiprotesondisosiedadikuStadu.</p>
+  </li>
+  <li>
+    <p>Tudupekadur,elsonojuntukuutrus,tendirituditenepropriedadi.</p>
+    <p>Ningingkapuditiradusipropriedadisinrosonlegal.</p>
+  </li>
+  <li>
+    <p>Tudupekadurtendiritudiliberdadidipensamentu,konsiensiakurilijion.Itendiritupamudasirilijionosiopinion,sumatambidimanifestasirilijionoopinion,elsonojuntukuutrujinti,nakaupublikuonakauprivadu;ipudinsinal,ipratikal,akultuonasirmonias.</p>
+  </li>
+  <li>
+    <p>Kadapekadurtendiritudiliberdadidiopinion,tambidikontakekinasinti,kusedudiritudikakalantadupabiadisiopinions;itendiritudibuska,risibiikontautrujintiinformasonkuideias,pakalkermeiu,sinlimitasondifronteras.</p>
+  </li>
+  <li>
+    <p>Kadapekadurtendiritudiliberdadipajuntakuutrujintinaruniononakalkersosiasonpasifiku.</p>
+    <p>Ninginkapudiobrigadupafasipartidiunsosiason.</p>
+  </li>
+  <li>
+    <p>Kadapekadurtendirituditomapartinadiresondiasuntuspublikudisitera,odiretamenti,oatravesdirepresentatiskukujidukutuduliberdadi.</p>
+    <p>Kadapekadurtendiritudiyentra,nakondisonsdiigualdadi,pafunsonspublikudisitera.</p>
+    <p>Vontadidipobuialiersudipuderdiotridadispubliku.Kivontandidibiditenvosatravesdielesonslimpupus,kutafasidunatempusmarkadu,kuigualdadidivotu,tambikuvotusekretu,okonformiutruprosesukutaprotejiliberdadidivotu.</p>
+  </li>
+  <li>
+    <p>Kakapekadur,sumaimembrudisosiedadi,tendiritudisuguransasosial;konformileiipudiizijikudiritusikonomiku,sosialikulturalkipirsisapasirispitukulibridisinvolvimentudisipersonalidadi.Esipusivelpabiadisforsunasionalkukooperasoninternasional,diarmoniakuorganizasonkurikursusdikadatera.</p>
+  </li>
+  <li>
+    <p>Kadapekadurtendirituditenetarbaju;itendiritudikujisitarbajukuliberdadi,kukondisonsditarbajujustukutakontental,kuprotesonkontrafaltadimpregu.</p>
+    <p>Tudujintitendiritudirisibipagamentuigualpatarbajuigual,sinkalkerdiskriminason.</p>
+    <p>Alginkutatarbajatendiritudipagamentujustu,kutakontental,kutadal,juntukusifamilia,unvidakonformisibalursumaserumanu.Idibidirisibitambi,siipusivel,tuduutrukoldadiprotesonsosial.</p>
+    <p>Kadapekadurtendiritudikriasindikatus,juntukuutrujinti;tambiitendirituditomapartinaunsindikatupapudidifindisiinteres.</p>
+  </li>
+  <li>
+    <p>Kadapekadurtendirituditempudidiskansukudivirtimentu,tambidilimitasonrazoaveldiorasditarbaju,kuferiaspagadunatempusmarkadu.</p>
+  </li>
+  <li>
+    <p>Kadapekadurtendiritudiunniveldividakutasugural,kusifamilia,saudikubonstadu,spesialmentinaladudikumida,ropa,kaudimorakuajudamediku,kuutrusirvissosialipirsis;itendiritudisuguransaorakikatenetarbaju,onaduensaokalkerutrufrakesafisiku;viuvaskubejotis,kuutrujintiskukatenemaneradisustentasekabesa,ninsietenetuduvontadi,edibiditensuguransa.</p>
+    <p>Mameskumininuspikininutendiritudiajudaspesial.Tudumininus,ninsipadidudentruoforadikasamenti,dibiditenekimesmuprotesonsosial.</p>
+  </li>
+  <li>
+    <p>Kadapekadurtendiritudiedukason.Edukasondibidisedudigrasa,pelumenusnsinuprimariufundamental.Nsinuprimariuiobrigatoriu.Nsinuteknikukuprofisionaldibidisedupatudujinti;oportunidadipastudussuperiordibidistaabertupatudujintikutuduigualdadi,konformisekapasidadi.</p>
+    <p>Edukasondibiditenealvudidisinvolvipersonalidadidialunu,direforsadiritusdipekadur,tambidijudanantindimentu,toleransikuamisadiantiditudunasonskutudugrupusdirasaorilijon,sumatambidisinvolvimentudiatividadisdiNsasonsUnidapamantipas.</p>
+    <p>Ipapeskuteneprioridadididiritudikujikoldadiedukasonkenaranjapasefijus.</p>
+  </li>
+  <li>
+    <p>Kadapekadurtendirituditomapartikutuduliberdadinavidakulturaldikuminidadi,dipurbitadiartis,tambidipartisipanaprogresusientifikukusipurbitus.</p>
+    <p>Kadapekadurtendiritudiprotesondiinteresmoralifinanserukustaligadukukalkerkusasientifiku,literariuorartistikukuelpropiifasi.</p>
+  </li>
+  <li>
+    <p>Kadapekadurtendiritu,konformiplanusosialkuplanuinternasional,diojaunsistemadiotridadikupudipuinapratikakidirituskuliberdadiskucomaduneDiklarason.</p>
+  </li>
+  <li>
+    <p>Kadapekadurtendeverispakumunidadi;sinkumprikideveris,sipersonalidadikapudidisinvolvinaunmaneralibriipositivu.</p>
+    <p>Papurbitudedirituskuliberdadis,ninginkastasujetu,siikasonpalimitiskuleipuikualvusondijudanarikuñisimentukurispitudidirituskuiberdadisdiutrujintis,paipuditenunsoseidadidemokratikudijustisa,moralidadi,ordipublikukubonstaduditudujinti.</p>
+    <p>NaninunkasuedirituskuliberdadiskapudipudunapratikanaunmanerakustakontraleiskualvusdiNasonsUnidu.</p>
+  </li>
+  <li>
+    <p>NinunpropostadeDiklarasonkapudintindidunaunmanerakukalkerStadu,grupuopekadurpudisintikumaitendiritudimitinaunatividadiofasikalkerkusakupudidanadirituskuliberdadiskucomaduli.</p>
+  </li>
+</ol>

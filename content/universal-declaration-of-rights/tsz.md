@@ -1,0 +1,122 @@
+<h1 align='center'>UANDAKUA JURHIMBEKUECHERI K'UIRIPUECHERI PARHAKPENI ANAPU</h1>
+<h2 align='center'>INCHAJPEKUA</h2>
+<p align='center'>Mitiparini eski jánguarhikua, jurhimbekua ka no jupiperakua parhakpeni jimbo jupikuarhisïndi jeioperakua jurhimbitku jangueri ka no ambe atarantskueri iamindu majku anapuecheri,
+Mitiparini eski no eiangperakua ka isku eekua k'uiripuecheri jurhimbekua isï jimbosï xani no sesi kameraŋajti; ka uandaŋajti, eski sanderu k'eri ambe ukua k'uiripuecheri, erokakua materu jaso irekakueri engakso k'uiripuecha, jurhajkutini ia chékua ka komu jáangua, sesi marhuataakaksï uandakua ka mamaru járhati jakajkukuechani,
+Mitiparini sesimindu eski k'uiripuecheri jurhimbikuecha kuajpeŋaaka K'eri jurhimbikua jimbo, jimbokakso iso k'uiripuecha uatiksï no ambe jupikuarhini ka jauarani no sesi kamberakua jimbo,
+Mitiparini istu eski uetarisïnga etsekuni ka k'uiriperani iretecheri sesi pajperakua,
+Mitiparini eski iretecha, Iretecheri kunguarhikua sesi jimbomendu uandajti ia imecheri jakajkua K'eri karákatarhu k'uiripuecheri jupikuarhikua jurhimbekueri, k'uiripueri k'uratsekua ka ts'iuekua ka majku jasï jukaparhperakua ts'iueriticheri ka uarhecheri; ka uandastiksï ia eskaksï uaka ambakiti ambe ireskuni ka irekakua ambe sesi uaxastani eratsiparini eskaksï usïnga janguarhikuarhini,
+Mitiparini eskiksï K'erhati Irechekuecha eiakurhistiksï sesi, jarhaujpeni indeni kunguarhikua Organisasioni de las Nasionesi Unidasi jingoni, iamendu jaŋaŋarperani ka urauani jurhimbekuechani ka jɑnguarhikuechani k'uiripuecheri, ka
+Mitiparini eski sesi mitiakaksï iamendu ieni jasï jurhimbekuechani ka jánguarhikuechani sanderu jukaparhakuesti ka inde eiakurhikuani uni isï ukuarhini,
+K'ERI TANGUARHIKUA uandasïndi
+I K'eri Uandakua K'uiripuecheri Jurhimbikuecha Parhakpeni Anapu iamenduchani majku jasï eraaparini eskiksï iamendu iretecha janguarhentaakaksï, eskaksï xani k'uiripuecha eski k'umanchikua juramukuecha imani exeparini mititpeakaksï jorhentpeparini ka kaxomperakua jimbo, ini ambe jaŋaŋarhini, uaxastaatikso, saŋani arhipani iapurhu iso, jiokurhiŋaati ka sesi uraŋaati, xani iretecha engakso kurhpitini jaka ka engaksojtu iretecha jima jupindakuarhitini jaka.</p>
+<ol>
+  <li>
+    <p>Iamenduk'uiripuechajanguarhiparinikamajkujarhatikajurhimbekuechajingonikueraaŋasondiksoka,juajtakuarhisïndiksïambakitieratsekuakakaxumbikua,jatsistiksïeskaksïsesiarhijperaaka.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripuechajatsistiksïiamendujurhimbekuechanikajanguarhikuechaniengaksïixuuandajka,nauejikijasïiurhirijatani,xarharani,ts'iueratiouarhi,uandani,chereŋeni,eratseniomaterujanguakamani,naniuejkianapueni,jatsikurhinituminaonoambe,kueraakateniomaterujasïambeuniojamani.Istu,noimapaŋaatinakiengakunguarhikuajuramukuerijamaaka,nakiuejkinionaniuejkianapueniengajupindakurhitinijauakamak'uiripu,xaniengamapaisijuramukuarhitianapueuaka,eskiimairechekuaenganoiamenduambejandiajkujuramukuarhiaka.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripuechajurhimbekuajatsistiksïjamaniiparhakpeni,janguarhikuarhinikatsipekuakuajpemeŋani.</p>
+  </li>
+  <li>
+    <p>Nonemajamaatiiskuanchikuarhitsïpeninijtuiskujantspeni;iskuanchikuarhitsïpekuanosesikuajarhastikaniniatatsïpetichaniataraantaniopiauaninauejkijasïjimboeni.</p>
+  </li>
+  <li>
+    <p>Nonemajatsistieskikomkukaŋaakaoeskik'uratsekuenijasoambekaŋantaaka.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripuechajurhimbekuajatsisksï,iapurhuisï,eskijaŋaŋarhiŋaakanauejkijasoeni.</p>
+  </li>
+  <li>
+    <p>Iamenduksïmajkujasïstijurhimbekuarhujimbokajatsistiksï,neuejkini,majkujasïkuajpikurhintskua,jurhimbekuechajingoni.Iamenduksïmajkujasïkuajpekuarhintskuajatsistineengat'auajchakuakakanopaakainiuandakuanikaeratsekuani.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripuechajurhimbikuajatsistijupikuarhiniambeengakuajpintaaka,engatsandpemeŋaakakuramukperakuarhu,eskakuajpeŋantaakaengaimerijurhimbekuechanit'auajchakumeŋaaka.</p>
+  </li>
+  <li>
+    <p>Nonemauatiisïkumenduundanijupiŋani,oŋaŋaninichutaŋantaniopetaataŋani.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripujurhimbekuajatsisti,manguenijatini,eskakurajchaŋaakakaeskasesikurangumeŋantaaka,eskaksojuramutichanonemajingonik'uetsapeaka,eratseparinksïimecherijurhimbekuechanikajanguechani,oengaksïuekakamitikuniambesïtsïjpa.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiriputsandpemeŋakatamaambetso</p>
+    <p>Nonemajupiŋaatikaoŋaŋaniengajiajkaniengatso</p>
+  </li>
+  <li>
+    <p>Nonomainchakumeŋaatiimeriirekakuarhikuajimboimerijapindembekuarhu,imerik'umanchikuarhuoimeriambeaxatsoperakuarhunijtuchureŋanijaakuarhimeŋaniambe.Iniambejimboiamenduk'uiripujatsistijurhimbekuaeskakuajpikurhintaaka.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripujurhimbekuajatsistijamanikaerakukuarhininaniengairekaakamaIrechekuarhu.</p>
+    <p>Iamenduk'uiripujurhimbekuajatsistiueakunimaoimeripaisirhukamenderuichaakuntani.</p>
+  </li>
+  <li>
+    <p>Engaandanguŋaniojupiŋakuekanijauaka</p>
+    <p>IjurhimbekuanouatiuanakutaniokurajkuarhinimaambetsïjpakuajimboengaambearhijkaNasionesiUnidasirhu.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripujurhimbikuajatsistinaniengaanapueuaka.</p>
+    <p>Nonemaeuakuarheŋaatijurhimbikuaiskuundaninaniengaanapueuakaoirekaakakamajkujastuengauekaakamojtakukuarhinimateruotamuiso</p>
+  </li>
+  <li>
+    <p>Ts'iueritichakauárhicha,engaksïtumbiuakaiakaiurhitskiriniia,jurhimbikuajatsistiksï,nop'inguŋapariniiurhirianapuekuaochereŋekuajimbo,tembuchaniouambuchanikaireskunimajapindembekua;kamajkujasomarhuataatiksïjurhimbikuechaniengaksïtembungurhitinijauakaiakaistuengaksïjurhajkperaaka.</p>
+    <p>Jeiokperaparinskïkauekaparinkuksïuatitembungurhirini.</p>
+    <p>JapindembekuakueraakatestiparhakpenirhukajurhimbikuajarhastieskiksïiretakaIrechekuakuajpiakakajarhuatpeaka.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripujurhimbekuajatsistieskimamaruambejandiajkuminguarhiaka,kaistukunguarhuntatinimamaruambejatsikuarhinimateruk'uiripuechajingoni.</p>
+    <p>Nonemaeuakuarhiŋaatiiskumenduimerijatsikuarhikuaambe.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripujurhimbekuajatsistieratsenieskinauekaaka,jaŋaskanikachereŋentuiso;ijurhimbekuajtuarhisïndieskiuŋaakamojtakunichereŋekuakajokajkukua,istuuandaninajasochereŋesondikajakajkusïndi,jandiajkukauanekuechajingoni,xanieskimitikuarhiakakaeskajtunoambe,jorhenguarhikuajimbo,isïukuajimbo,janguakaexekuajimbo.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripuechajurhimbekuajatsistiksïarhijpenikauandani;ijurhimbikuajtuarhisïndieskinoambemaarhiŋaakaambeengauandaaka,kaetsakuni,mamarujasïambeetsakutarakuajimbo.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripuechasesikuajasistiksïtanguarhiŋantanikakunguarhiŋantanikasopekuajingoni.</p>
+    <p>Nonemanksïuatiuiŋarhitanieskimakunguarhikuajingoniuaka.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripujatsistisesikuauniandaparakueranik'erijuramukuarhu,andaparakueranioengaerakuntskuarhuuéraaka.</p>
+    <p>Iamenduk'uiripusesikuajatsistieskimajkujasïambeuakateruŋarhitaŋanijuramukuaimeripaisirhu.</p>
+    <p>K'uiripuerieratsekuaireterianapumajkuestijupitsekuauiŋapikuaengairetauandaakajuramukueri;ikuramukperatiuatimajuramitinijatsinierakuntskuarhuengaksoukuarhenijauakanajatiniengak'uaniaka,erakuntaparinisïpatinkuoiamenduexeŋaparini.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripu,jimbokairetarhuanapueka,jurhimbikuajatsistijaŋaŋarhikuakuajperataintsoŋanijarhuajperapariniiamendujuramukuechajingonijucharipʋindetsikuarhujimbokatepetsekuarhu,marhuatanituminijuchariIrechekuarhuanapu,engauetarkaimerijaŋaskuasesijaxeakakat'arhexeaka.</p>
+  </li>
+  <li>
+    <p>Iamenduk'uiripujatsistieskiintsïŋaakamaanchekuarheta,eskiimanajasïjaŋaskatinijauaka,majkuenieskimaruteruecherikaeskakuajpeŋaakaenganiatakuanoambejatsikuarhiaka.</p>
+    <p>Iamenduk'uiripujurhimbekuajatsisti,noamutaŋantaparini,eskimeiamuŋaakaambekanaxaniengaanchikuarhitinijauaka.</p>
+    <p>Iamenduk'uiripuengaanchikuarhijkajurhimbikuajatsistieskasesimeiamuŋaakakasesiexeaka,eskiuakanitamakuarhinikasesiirekakuarhitaraniimerianapuechajingoni.</p>
+    <p>Iamenduk'uiripusesikuajatsistikunguarhikuechaniuaxastaanikaimajtuinchajpenikunguarhekuarhukaisïunikuapiniimerianchikurhikuani.</p>
+  </li>
+  <li>
+    <p>Iamuk'uiripujatsikuarhestijurhimbekuamintsïkuarhekua,jurhitenchakuarhekua,seskuatakuaanchakuarhekuakaisïjtujakuanajasïjimbojandajpekuameiamukata.</p>
+  </li>
+  <li>
+    <p>Iamuk'uipirujatsikuarhestijurhimbekuajurhimbejtsïtatakuatsipekueriterukutakataimangitatetspekuuaka,kaisïjtuimeriexenchperakuani,uratajperantskua,kasesijakua,kat'irekuajindemendo,xukuparhakua,irekua,tsinajperakuakaimangiuetarhiuakaireterimanaratsperakua;kaisïjtujatsistijurhimbekuatataetsperakuechani,ikinojatsikuarheuakaanchekuarheta,p'amenchakua,noambouakua,tsïndikua,t'arhepekuaomateruambejimboengatsïtookaimerinitamanchakuaimangijimbonoisïatinijauaka.</p>
+    <p>Kuxarhekuakauajpasapichuekuajurhimbekuajatsikuarhestiksïjukauantskuaechanikajandiojkojarhutakuaechani.Iamendutakiecha,jupiuakatatembuchakuaouérakuatembuchakuarhu,jurhimbekuajatsistimajkujasïkuaŋaniiretarhu.</p>
+  </li>
+  <li>
+    <p>Iamuk'uiripujurhimbekuajatsikuarhestiamboŋastakuaintso</p>
+    <p>Amboŋastajperakuaniarauatiiamup'irakunik'uiripekuak'uiripuchaeuerikauiŋaperanijaŋaŋarhikuajurhimbekuak'uiripuecherikajanguarhekuaechanijku,uiŋaperauatikurhangukua,tekaantskuakasesipajperakuaiamusoranguak'uiripucherikaiamuiretecheriochereŋekuaecheri,kamanatootip'irakukuaniatakuaechaKunguarhekuaSo</p>
+    <p>Tatembaechauatierakuninajasïamboŋastajperakuauekasïniintskuniuajpechani.</p>
+  </li>
+  <li>
+    <p>Iamuk'uiripujurhimbekuajatsikuarhestijandijkuinchamukunimimixekuatsipekuarhuireteri,maruutanianchekuarhetaimangitsitiekakainchajpenijurhenguarhuimangiurhepanijauakakajurhiatenchakuaimangiksïjimauérooka.</p>
+    <p>Iamuk'uiripujatsikuarhestijurhimbekuakuajperantskuaimeripejparikuaechanisesijanguakakejtaskuarhekuecheriimangiksïk'uaninchooka,anchekuarhetapetakua,mimxekua,karakuaoimecherisesiniatakuajimbo.</p>
+  </li>
+  <li>
+    <p>Iamuk'uiripujurhimbekuajatsikuarhestiesïkiikaskuŋookamaireteriuandangukatakaiamusïrukuak'uiripuecherijiningajurhimbekuaechakajanguarhekuechaengaeiamarhijperaŋajkaiamboŋastajperakuarhuesokaisïniatakuarheuaka.</p>
+  </li>
+  <li>
+    <p>Iamuk'uiripujatsikuarhestieiauandakuarhekuaechaniiretajinguni,jimbokajimajkuuakakuerakuarhenijandijkuimerik'uiripekua.</p>
+    <p>Niatakuaiameuerijurhimbekuaechakamarhunchakuaimaeuerijanguarhekuaecha,iamuk'uiripuengauatijupikakatajimajimberuesïkanauandakatajauakauandaskukatarhujimbokijtuisïjkuuatiuiŋamujupikanimitejperantskuakajaŋaŋarhikuajurhimbekuakajanguaecheri,ireteriuandangukatakasesiirekuamairetarhuimangijauakaireterijuramukua.</p>
+    <p>IjurhimbekuaechakajandijkuhanguarhekuanouatimentjíkusïniatakuarhenitaŋatskuarhekuniuengurhikuakauandaŋekuaechaniKunguarhekuaMaSoranguaK'uiripuecheri.</p>
+  </li>
+  <li>
+    <p>Noambemaiamboŋastajperakuauatikurhangukuarheniesokiintskusïngajurhimbekuairechakuani,maumbatsekuaniomak'uiripuni,uenanikapíirakuniniatakuechanioniataniambemaimangisïtexurhiuakakenditaninakinderkumajurhimbekuechanikajandijkujanguarhekauechanieiamarhijperakatechaiamboŋastajperakuarhu.</p>
+  </li>
+</ol>

@@ -1,0 +1,121 @@
+<h1 align='center'>NAILUBONGAN A PANAKAIPAKDAAR DAGITI KALINTEGAN TI TAO</h1>
+<h2 align='center'></h2>
+<p align='center'>Idinto ta bigbigen iti naisigsigud a dayaw ken panagpapada ken ti di maipaidam nga kalintegan dagiti amin a puli tao nga batayan ti wayawaya, hustisya ken ikakapya ti lubong.
+Idinto ta iti saan nga panangi-kan-kano ken lalaisen dagiti kalinteganti tao nga nagbanag iti panagsupiat a maibusor iti konsensya ti sangkataw-an, ken iti idadateng iti meysa nga lubong a laklak-amen dagiti tao ti wayawaya a panagsao ken pammati ken awanen ti panagamak ken panagrigrigat nga inda nga inar-arapa-ap nga impakdaar dagiti kadawyan a tao.
+Idinto ta deytoy ti kangrunaan, tapno saan a mapilitan ti tao nga mangriribok a maibusor ti kinaulpit ken pannakaidadanes, masapul nga masalakniban babaen kadagiti annuroten ti linteg.
+Idinto ta deytoy ti kangrunaan tapno maiwanwan ti panag-giginnayem a nasayat dagiti amin nga pagilyan.
+Idinto ta dagiti umili kadagiti Nagkaykaysa nga Pagilyan ket pinasingkedanda iti Tsarter dagiti pammatida nga kalintegan madaydayaw ken panangipateg iti kinatao ken dagiti panagpapada ti kalintegan dagiti lalaki ken babbai ken panangeddeng nga mangiwanwan ti gimong ken ti nasayaat a pagbasaran iti panagbiag a siwawaya.
+Idinto ta dagiti miembro ti Estado nagkarida nga agtungpal iti pannakitinnulongda kadagiti Nagkeykeysa nga Pagilyan iti panakaitandudo ti panagdayaw iti sangalubongan ken panangammo dagiti kalintegan ti tao ken dagiti kangrunaan nga panagwayawaya.
+Idinto ta iti meysa nga kadawyan a panakaawat dagitoy nga kalintegan ken wayawaya ket isu't kinapateg nga naan-anay a pannaka-amiris iti deytoy nga kari.
+Ita, ngarud inpakdaar ti Asemblia Heneral dagitoy Nailubongana Panangipakdaar dagiti kalintegan ti dao nga kas meysa nga pagbasaran a magun-odan dagiti amin a tattao ken dagiti amin nga pagilyan, iti panggep iti tunggal meysa ken iti tunggal paset a bagi iti gimong, a sal-salimet-metanda deytoy nga Pakdaar a kanayon iti isipda ken kabaelan da babaen ti panangisiguro tapno maiwanwan ti edukasyon ti panagdayaw kagitoy nga kalintegan ken wayawaya ken babaen kadagiti gannuat a mangparang-ay kadagiti umili ken ti sangalubongan tapno maipatal-ged kadakuada iti sapasap ken naan-anay nga panakabigbig ken panakaammo, nga agpada dagiti umili kadagiti teritoryo nga adda iti babaen iti sakopda.</p>
+<ol>
+  <li>
+    <p>Aminngataongasibibiagketnaiyanakasiwawayawayakenaddaanitiagpapadangadayawkenkalintegan.Naikkandatipanagikalintegankenkonsensyaanaskentipanagtitinnulongitimeysakenmeysaitiespiritunganainkak-absatan.</p>
+  </li>
+  <li>
+    <p>MaikairiititunggalmeysakadagitiaminngakalintegankenwayawayangaintuyangdeytoyngaPanangipakdaar,ngaawantimaidaddadumaaniamanakitatipuli,kulor,lalakimanwennobabai,pagsasao,pammatipolitikalwennodaddumapayakapanunotan,umiliwennoitinagtaudan,sanikua,panakaiyanakwennosabsabalipayngakasasaad.Meysapay,awantimaidaddadumangaaramidmaipapantibatayanpolitikal,hurisdiksyonalwennokasasaaditinailubonganngapagilyan,wennoteritoryoitiaddangaayantitao,agwayawayamanasitatalek,dingamakapagwayawayawennoaddaitibabaenkadagitianiamanasabsabalipayanaikeddengapanagturay.</p>
+  </li>
+  <li>
+    <p>Ititunggalmeysaaddakalintegannatibiag,ngaagwayawayakenkinatalgedngakastao.</p>
+  </li>
+  <li>
+    <p>Awanitisiasinomanamapilitngaagserbiwennopaadipen.Maiparititianiamanngakitaapanagpaadipenkenpananginegosyokadagitoy.</p>
+  </li>
+  <li>
+    <p>Awantisiasinomanamangparigatitinalabeswennomangranggasngasaanngamakataowennopananglalaiswennodusa.</p>
+  </li>
+  <li>
+    <p>Tunggalmeysaaddaankalinteganabigbigensadinomanitiayannangakasmeysangataoitisangnguanantilinteg.</p>
+  </li>
+  <li>
+    <p>Agpapadadagitiaminitisangnguanantilintegkenawanitisiasinomanamaidaddaduma,agpapadangasalknibantilinteg.Maikaridagitiamin,ngaagpapadaamasalknibanngamaibusoritianiamanapanangidaddadumakenilalabsingitidaytoyngaPakdaaramaibusoritianiamanngapanakagar-gariitikastangapanangidaddaduma.</p>
+  </li>
+  <li>
+    <p>Addakalinteganititunggalmeysangamakibiangkadagitirumbengapanangeddengkadagitipangukomantiumilimaipapankadagitiaramidapanangsalungasingkadagitikangrunaanakalintegananaitedkenkuanababaentikonstitusyonkenbabaenitilinteg.</p>
+  </li>
+  <li>
+    <p>Awanitisiasinomanamaikabilitibabaentidinganainkalinteganapannakaaresto,panangikulongwennoibellengitisabalingalugar.</p>
+  </li>
+  <li>
+    <p>Maikariititunggalmeysaitinaan-anayngapanagpapadakenrumbengitinalatakngapanakabistangasiwawayawayakenawanitiidaddadumatipangukomantipanangeddengdagitikalintegannakenpagrebbengannakenaniamanngadarumakriminalngamaibusorkenkuana.</p>
+  </li>
+  <li>
+    <p>Ititunggalmeysanganapabasoladdakalintegannangamaibilangngaawanitibasolnaagingga'tsaanngamapaneknekananakabasolitimaipanggepitilintegitipanakabistananganalatakngaaddakenkuanadagitiaminagundawayamasapulngamangikalinteganitibagina.</p>
+    <p>Awanitisiasinomanngamakedngananakabasolitianiamanngaaramidennawennopanagliwaynangasaananakabasolbabaenitilintegitiumiliwennolintegtisangalubonganidinganaaramiddeyta.Wennosaanmetamadusaitinadagdagsenngemitideydiimpataydangabasolnganaaramidna.</p>
+  </li>
+  <li>
+    <p>Awantipanakibiangitisiasinomanngamangiturayitibagi,pamilya,pagtaenganwennotipanagsisinnuratwennopananglalaisitidayawkennagan.Tunggalmeysaaddakalintegannaatulongantilintegamaibusoritikastangapanakibiangwennopananglalais.</p>
+  </li>
+  <li>
+    <p>Ititunggalmeusaaddakalintegannangaumakarngasiwawayawayakenmakapagtaengitiunegasaksakupenititunggalestado.</p>
+    <p>Addakalintegantisiasinomanapumanawkenmapanitisadinomanapagilyankenagsublintomanen.</p>
+  </li>
+  <li>
+    <p>Ititunggalmeysaaddakalintegannangadumawatkenumawatitiasaylumitisabsabalingapagilyanngagaputipannaka-usig.</p>
+    <p>Deytoyngakalinteganketdingamaaramatnoitipanangu-sigkettalagaabanagabasolngadingapolitikalwennoaramidamaisuppiatkadagitibanagkendagitiannurotenamaikontraitiNagkaykaysangaPagilyan.</p>
+  </li>
+  <li>
+    <p>Tunggalmeysaaddakalintegannangamakipag-ili.</p>
+    <p>Awanitisiasinomantimabalinngamangikkatitipanakipagilimwennotikalintegamngamangsukattipanakipagilim.</p>
+  </li>
+  <li>
+    <p>Dagitilalakikenbabbaingaaddaanitihustongatawen,ngaawanitianiamananaikeddengngamakaigapuitipuli,panakipag-iliwennorelihiyon,kalinteganngamaaddaanitiasawakenmaaddaanitipamilya.Agpadangaaddakalinteganngaikasar,kabayatantipanakaikasarkenpanagsin-ninada.</p>
+    <p>Maikasardalaengngaawantimanglappednonaan-anaytipammalubosdangadua.</p>
+    <p>Sigudngaaddaitipamilyakenisu'tbatayanapasettigimongketkaikariannaasalaknibantigimongkentiEstado.</p>
+  </li>
+  <li>
+    <p>Tunggalmeysaaddakalintegannangamaaddantibukodnangasanikuakastametipanakitimpuyognakadagitisabsabali.</p>
+    <p>Awanitisasinomanitimabalinamangalaitisanikuam.</p>
+  </li>
+  <li>
+    <p>Ititunggalmeysaaddaantiwayawayangaagpanunot,konsensyakenrelihiyon.Kabilangdeytoyngakalinteganitiwayawayaamangsukatitirelihiyonnawennopammatikenpangwayawaya,agmeymeysamanwennomakipurokkadagitisabsabaliitipublikowennoitipribadongamangipakitaitirelihiyonnawennopammatiitisursuro,aramid,panagdayawkenpanangangay.</p>
+  </li>
+  <li>
+    <p>Ititunggalmeysaaddakalintegannangaagpanunotngasiwawayawayakenagsao,kabilangdeytoyngawayawayangatakderannaitikapanunotannangaawantimakibibiangkenmangsapsapul,mangawatkenibaginaitiinpormasyonkenkapanunotanbabaentianiamanamediangasaanngaikabkabilangandagitiyanngapagsasarakan.</p>
+  </li>
+  <li>
+    <p>Tunggalmeysaaddakalintegannangamakitipon-tiponkenmakitimpuyogngasikakapya.</p>
+    <p>Awantisiasinomanngamabalinapilitenngasumalitimeysangatimpuyog.</p>
+  </li>
+  <li>
+    <p>Tunggalmeysaaddakalintegannangamakipasetitipanagturayitipagilyanngamismongaisuwennobabaenkadagitipinilingamangiparangarang.</p>
+    <p>Kalinteganititunggalmeysangaumilingaagserbingapadapadaitipagilyanna.</p>
+    <p>Itipagayatanitiumiliisu'tpakaibatayanapanagturayitigobierno,daytoyngapagayatanketmaipakitaitipanawenapanagbotoskenkinapudnoitieleksyonnganailubongankenagpapadaitikalinteganngaagbotosasililimedwennobabaenitikaspamuspusanapanagbotosasiwawaya.</p>
+  </li>
+  <li>
+    <p>Tunggalmeysaketkasmeysangamiembroitigimong,ngaaddakalintegannaitikinatalgedtigimongkenkaikariannangamaawatanitibabaenakabaelantiumilikenpannakitinnulongtisangalubonganamayannatoptiorganisasyonkenkinabaknangtitunggalEstadoitipanabiag,sosyalkendagitikalintegankulturalnganaskentikinatak-nengakentiwayawayaapanangpasayaatnaitikinataona.</p>
+  </li>
+  <li>
+    <p>Tunggalmeysakalintegannatiagtrabaho,ngaagpiliitipagsapulanitiumnokenmayannugotngakasasaadtipanagtrabahokenpanakasalaknibamaibusoritikaawanapanggedan.</p>
+    <p>Awantisiasinomanngamaidaddaduma,kalintegantitunggalmeysaitiagpapadangabayadkenagpapadangapanagtrabaho.</p>
+    <p>Ititunggalmeysangamakiteggedaddakalintegannaitirumbengkennaan-anayabayadngamakaanayitibaginakentipamilyana,itimaikariakinataknengtipanagbiagkennaskenngaaddapaysabsabalingapamuspusanamangsalaknibtigimong.</p>
+    <p>Kalinteganititunggalmeysaitimangbukelkenmakikadduangamakipagkeykeysakadagitimangmanggedtapnomasalaknibantipagimbaganna.</p>
+  </li>
+  <li>
+    <p>Kalinteganititunggalmaysatiaginanakenagliwliwaagramantinainkalintegananaikeddengngaorastipanagtrabahokenaddabayaddagitialdawtipiesta.</p>
+  </li>
+  <li>
+    <p>Tunggalmeysaaddakalintegannaitimeysaapagbasarantipanagbiaganaan-anayaparaitisalun-atkenpaginbagamitibaginakentipamilyana,agramantaraon,lupotngapagkawes,balaykendagitiagasamasapulamakapa-imbag,panagserbitigimong,kenkalintegantikinatalgednomaawananititrabaho,panagsakit,pannakaawantimabalbalinan,nabalo,lumakayenwennobumaketenngaawanentipagsapulankendaddumapay,nodumtengdagitipasamakngasaannganinam-nama.</p>
+    <p>Dagitiinnakendagitiubbingketkaikariandaitinaisangsangayanngapanangaywankentulong.Aminngaubbingaddaantiagpapadangakalintegantipanakasalaknibitigimongnagkasarmanwennosaandagitinagan-nakkadakkuada.</p>
+  </li>
+  <li>
+    <p>Tunggalmeysaketaddaankalinteganitiedukasyon.Itiedukasyonalibre,uraymanlaengitielementaryakendagitikangrunaanatukad.Itiedukasyonitinababangapagadalanketkapilitan.Itiedukasyonteknikalkenpropesyonalketnaiwayangkadagitiaminkentiedukasyonanangat-ngatoketmagun-odanitiaminamaibatayitikinalaing.</p>
+    <p>Itiedukasyonketnaskenamaisuroanalaingamangpaimbagtikinataokenmangpabilegitipanagdayawkadagitikalintegantitaokendagitibatayanawayawaya.Iwanwannadaytoytipanagkikinnaawatan,panagtitinnulongkenpanaggiginnayemkadagitiaminapagilyan,dagitimaipapantipuli,wennorelihiyonkendagitiaramidenpayitiNagkeykeysangaPagilyanamangtalinaedtikapya.</p>
+    <p>Itiumunangakalintegandagitinagan-nakketisutipanang-pilidaitikitatiedukasyonamaitedkadagitiannakda.</p>
+  </li>
+  <li>
+    <p>Ititunggalmeysaaddakalintegannaamakipasetasiwawayaitipanagbiagkulturalitipuroktapnoagrag-sakkadagitisinekentapnomaibingaynatipagrang-ayantisientipikokendagitimaitedngapagimbagandeytoy.</p>
+    <p>Tunggalmeysaaddakalintegama,mangsalaknibitimoralkendagitikayatngamaarwatngabanagngaaggapukadagitianiamanamayannatopitisiensiawennopanaka-arkosngaisuitiakin-aramid.</p>
+  </li>
+  <li>
+    <p>TunggalmeysaketmaikariitimaysangagimongkentinailubonganakinatalnangaisudagitikalintegankenwayawayanganailanaditideytoyaPakdaarnganaskenamaamirisanaan-anay.</p>
+  </li>
+  <li>
+    <p>Tunggalmeysaaddapagrebbengannaitikomunidadngaagmaymaysaasiwawayakenmabalinanaan-anayapagimbagantikanataona.</p>
+    <p>Tipanangaramatkadagitikalintegankenwayawaya,tunggalmeysanaikeddenglaengitiaddaitibabaenapanangeddengtilintegitipanggepapanakabigbigkenpanagraemkadagitikalintegankenwayawayadagitisabsabalikentinagtitipunanngaumnongakasapulantimoralidad,urnostiumilikentisapasapngapagimbaganitimeysanganaindemokrataanagimong.</p>
+    <p>DagitoyakalintegankenpanagwayawayaketsaankomaabanagngamaaramatamaikontrakadagitipangpanggepenkendagitiprinsipyokadagitiNagkeykeysangaPagilyan.</p>
+  </li>
+  <li>
+    <p>AwanitideytoyngaPakdaartimabalinanaipatarusakastipangilaw-lawagtisiasinomanngaEstado,grupo,tao,aniamanakalinteganitianiamanngaaramidenwennopanangiwayatitianiamanngapangpanggepenamangdadaeltianiamankadagitikalintegankenwayawayaanaituyangitideytoy.</p>
+  </li>
+</ol>

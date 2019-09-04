@@ -1,0 +1,122 @@
+<h1 align='center'>IN KIRAK -TSAPORONASOSH TPOTS ICHIGORO VANASIR TAPANA; SAMPATA MANTSIR TARINTSPA-ATCHA.</h1>
+<h2 align='center'></h2>
+<p align='center'>Mazinantsa: tpots vanasir tapi-ato ¿anoa mayamaha toxarachich? Kis tapi-ato ¿anoa mayamaha pachidchich? vatam tpotsiva. Pachidkinarich -Ancha yotarita -atiniya ichigoroní. Ichigoroní kis taravaztamam zadkini; vanasir tamam zadkini; mapironi tamam zadkiniya.
+Misha mazinagtsa: tpots nia tsiyatsia da payoragosin, kizpor yotarit taragana; tpotsia natsaragana. Anomon chi vanipsha tsiyantakich. Itaro, iysha anoa zadkiazini, da. Mapironi tapani atiniya. Tpots Apallia chinapí-ato, vani chinachpa. Tpots tsiyatsia kamanpi-ato, vani kamanichpa. Tpots kis tapi-ato, xaramam vatsta atiniya. ¿Chakaha nia da zadak? Ichigoroni zadaktánicha.
+Misha mazinagtsa: gobieron ichigoro iyá kukini kamachtachpa. -Tpots ichigorosin vanasir tapana; toxararintspa -ato tayaspatachpa. Dona ashkos, paptsa; tpots varatchillinpa. Tpots kizpor tsiyantaksin -Goblernoa kapiatiani -táchpasinaya; vatam kis tapani atánava.
+Misha mazinagtsa: gobieron ichigoroní vashonad kis tayani atini. Ashirí, dona nia kukoz payokoni ¿tamayria kis tachiní? Ashirocha, ichigoroni payopani atiniya.
+Misha mazinagtsa: siro iy korakani vashonad shaniyaragoni -Yanpatatini tpotsini chinayani -táragini.- Iy tpotsini ichigoroni magoaz tatsamoatanicha, kizatamta. Yanpata istayani; vanasir tayani. Toxaramam vatsitshaparia; natsamam, misha varatamam vatstsishaparia -táragtanicha.
+Misha mazinagtsa: iysha korakani ichigoroni anoa chinaragoni -Tpotsini ichigoroni vanasir tapani; toxaramam vatsta -táragoni ,- Anoari chinayani. ¿Chakaha anoa gatach? Ashiriya, ashichpachi -táragtanicha.
+Misha mazinagtsa: itsinsaroni da chinakoni ¿tamayria anoa kok payochich? Iysha korakarini -Niatsimari minamari kok payoyani -táragoni ¿tamayriaha llitaritacha chinachich? Ashiriya, da toxaramam izororo kamachtachiniya.
+Iysha tsaporonas korakarini vashonad shaniyaragoni, kukiatsini payomam kamachtaragini. Ashirocha, iyá kukini ichigoros mazlnagtsa.
+-Tpots tsaporonasosh ichigorosin vanasir tapana; vanpatatin xararosinapa -atini. Tpots iyá kukini payochiliinpa; gatosinapa atini. Gobieron ichigorosin payochillinpa. Nimari chinayarosin, kis payochillinpa; tayaspatachillinpa. Tayaspatat, tayaspatat shiarsin, zapishat tpots izataro magoanchillinpa. Tpots vanpatatin kis tamam dosha toxarachillinpa. Ashiriya, na izooro kamachtachiniya.</p>
+<ol>
+  <li>
+    <p>Iytpotsiniichigoronikistamamzadkini,vatamtpotsiniva.Vatamichigoronimaginitarova;ashiriyachinakaniya.Ashirocha,zovalliatsichtamaparia-ashirossanpatachinagtsaatiniya.</p>
+  </li>
+  <li>
+    <p>Tpotsvanasirtapi-atotoxararintspa;kiyogyacharintspaatini.Kadoaztatanatsarintspa;mikoroatsta,kiristiyanatsta,natsarintspa.Kizatstakiyogyacharintspa.Apalliamagoankoanoatstatnatsarintspa.Mayamasahatpotsmagoshchinako-anomonnatsarintspa.Arapchiatstatpotsnatsarintspa.Pokiriatstanatsarintspa;virakuchiatstatanatsarintspa.Ashirocha,tpotsichigorosinvanasirtapanaatiniya.Misha,gobieronichigorosinanoatsiyatsispayochillinpa.Tpotsiaarapchiatstanatsarintspaatiniya;vatamogobieronorinitaritamtava.Sianoakasikitatiasa,ashiritanatsarintspa.Siyáksotkita,ashtatpotsianatsarintspaatiniya.</p>
+  </li>
+  <li>
+    <p>Tpotsiapcharintspa.Tpotsiakiyog1yacharintspa.Tpotsvanasirtapi-ato,vanatachiyaatiniya.</p>
+  </li>
+  <li>
+    <p>Tpotsiagotaritishtopattagarillpa;mchachoriamisyamarintspa.Mchachorishtaravaztakcho,tovapagtsa.Shiyákasamamzadko,vanakasachpa.Msagiaroshgotishtopattagaktarashkos,anoavatstaatiniya.</p>
+  </li>
+  <li>
+    <p>Tpotsiakiyogyacharintspa.Tpotsiaovitororintspa.Tpotsiakiraptarintspa.Yotaritvaniarintspaatiniya.</p>
+  </li>
+  <li>
+    <p>Gobierontpotsiaizataroishinachpa;tatsamoroishinagcha.¿Tamayshtahaminoatsimshatpotschinako,itarominoatsshatpotsnatsach?Anoavatstaatiniya.</p>
+  </li>
+  <li>
+    <p>Gobierontpotsiaizataroistachpa.Tpotsiyákukinikapiatkinari,montakinaria¿tamayariahagobieronanoamagonapach?Yotaritchaano.Tpotsiaichigoroistachpavanasiritamama,atiniya.</p>
+  </li>
+  <li>
+    <p>Gobieronkorakávanimpaniaminachpa.Tpotskorakapnayaro,korakatssha-Tpotsgobiernoakokdapayoko;novákiyogyachakiya-atinari,korakshayasayaroitsinsarovanichillinpa.Ashirocha,korakávanimpaniaminachpaatiniya.</p>
+  </li>
+  <li>
+    <p>Korakvanimpanmsagiarotpotsiapotatpa.Magotomantapa.Magoarapzagantapa.Tpotsizororoyotarittakinari,ashiriptagsi;tomanagsi.Itaro,gotaritisshirintspa,atiniya.</p>
+  </li>
+  <li>
+    <p>Gobieronkorakánatstamapaniamvayachpa.Tpotschiyáyotaritsiyatkinari,chiyá-Yotaritakiya;novámagotarikiyogkachiyko-atinari,chishanatstamapaniptsiyatchich.Oshtisinichigoromazinayarosin,itsinsaronatstachillinpa.Tpotsabtsiyatamampchidintspa,atiniya.</p>
+  </li>
+  <li>
+    <p>Tpotsnatstamapanishchiyá-Yotaritakiya;vaniagcha-atinari,korakshaichtaro-Gotpashaatsha-táchpa.Shiarotpotsichigoromazinaksin,chishayamchich.Itaro,oshtisinitsinsaro-kchiptiniparagtanicha-atinariasinaya,kasikinariasinaya-ashiro,vanimamvaritachiya.Itaro,donakasikinari,magotaatinariasina¿tamayariahavanichich?Ashirocha,yammampchidintspaatiniya.</p>
+    <p>Misha,apazgobieronkukozkaniasichkamachtakiya.Kamachtakcho-Siroshidapayoragosh,navanichilipa-¿tamayriahatách?vatamkukozkaniasichshakamachtakova.Ashimamvatstaatiniya.Misha,vaniashishkaniasichkamachtakcho¿tamayriaha-Araginashavanichilipa-tách?¿Tamayriahasirapchimadyotarittarago-anomadatsiyatchich?Ashimamvatstaatitamani.</p>
+  </li>
+  <li>
+    <p>Tpotsiamagotaritamontarintspa.Tpotsiamachiritamagoitotstapa.Tpotsoshpagmagopshtotpa.Magotaritpotsiatashitogayaro,pagoaitotstapa.Tpotsiavirkariamagoitotstapa.Tpotsiamagotariyotaritaminatpa.Gobieronvanasiriksotachpa.Vanasirishinkinari,doshatpotsyotaritamontachiya.Ashiriya,shigtsa.</p>
+  </li>
+  <li>
+    <p>Yaptpotsximamzadko-abvanarixitappa;toxararintspa.Yaptamamzadko-abitamvanaritachpa.Itaro,minoshgobiernopxitpi-atinari,xarashishtamanatariya.</p>
+    <p>Tpotsarapximamzadko,vanatsivatsaponnatomasamamkasamamzadko,txaratpa.Vaptamkanappi-atinari,vanarikanapochpa.</p>
+  </li>
+  <li>
+    <p>Gobierontpotsiamagokiyogyachakinari,tpotsshaliitaritapsovamamzadko,vanarisovachiya;pchidintspa.</p>
+    <p>Itaro,tpotskapanariyotaritarago¿tamayriasovakosovach?Vanimamvaritakiya.Iyákukiatsinikapiatkinari,sovamampchidagtsa.</p>
+  </li>
+  <li>
+    <p>Tpotsichigorogobiernoavirkaripayochpa.Shiaro,tpotssha-Noanshochtana-táchiyaNogobieiorinovávanasiriishinkiya-táchiya.</p>
+    <p>Gobieronanoavirkarimagoitotstapa.TpotsIlitaritágobiernoavirkaripayopi-atinari,vaniyachiya.</p>
+  </li>
+  <li>
+    <p>Tpotskizáyamapiato,vaniyamachiya.Kizzarallpi-atovanizaralliya.Tpotsiavachinpchidintspa,yamamama.Kadoaziatstapchidintspa;mikoroatsta,kiristiyanatsta,arapchiatsta,nxakamotshochiatstavatstatárintspa.Mayamasahamagoshchinako-anomontoxararintspa.Vipagazzadko,ashiritoxararintspa.Vanpatatinistachillinpa.Zapishkasakta,vipáistachillinpa.</p>
+    <p>Tpotskisayoatinari,anoayamachillinpa.Itarogatkinariya¿tamayriayamachich?Yamachiazich.</p>
+    <p>Gobierontpotsiatapachidachpa.Tpotsmachiritpatatachpa.Ipariatsich,izalliatstamtichdonatapachidako,vashonadtachiazich,dabaria.Ashiriya,vanasirishinagtsa;tapachidagtsa.</p>
+  </li>
+  <li>
+    <p>Tpotstsapoapaxanxpi-atopchidintspa.Tpotszapanvashonadpaxanxiani-atosinpchidintspa;vanipaxanxchillinpa.</p>
+    <p>Tpotsiavatsaponmsagiarositotsintspa.</p>
+  </li>
+  <li>
+    <p>Tpotsmayamasahakukozpayopi-ato,toxararintspa.Apalliakokpayopi-ato,vanipayochiya.Yashigoakokpayopi-ato,vanipayochiya.Zitaminákokpayopi-ato,vanipayochiya.Minoakokkapiatiaro,llitaritshachinapi-atinari,toxararintspa;vaniashchiya.TpotsvashonadApallilamshaniyiani.atosin,toxararintspa.Tayaspatapi-ato,yasiayani-ato,Apailpatsiyatpi-ato,vaniashchiya;toxararintspa.</p>
+  </li>
+  <li>
+    <p>Tpotstsiyatssiachinakcho,tsiyatssiakamanpiatinari,vanarikamanchiya;vatstatárintspa.Tsiyatssiamazinamamzadko,kirakamonnatstayarotsiyatssiayasapiatinari,vanariyasachiya;vatstatárintspa.</p>
+  </li>
+  <li>
+    <p>Tpotsvashonadshaniypani-atosin,pchidintspa.</p>
+    <p>Tpotsshaniymamgatkinari,vanigatchiya;tamontarintspa.</p>
+  </li>
+  <li>
+    <p>Tpotsgoblernoshpshtopi-atinari,vanipshtochiya.Tpotsiatapshtopi-atinari,vanitapshtochiya.Pchidintspa.</p>
+    <p>Tpotsgoblernoshistapi-atinari,toxararintspa.</p>
+    <p>Gobieronmagotatpotsiakasichpa.Yovátpotsvashonadzadkana-anoagobieronmazinachpa.Tpotsvamatimorkariiposchillinpa;iposamampchidintspa.Tpotsizataroiposchiííinpa;kirkamon-Niatpotskorakariniamaniinpani-atosin,vaniiposchilíinpa.Pchidintspa.</p>
+  </li>
+  <li>
+    <p>Tpotsiamsagiaroskpitintspa;msagiaroszaganintspa.Tpotskiyogkachiytapa.Machiapishtako-anoavanaripaxanxchiya.Vanatarshiampayopi-atovanaritachiya.¿Tamayriatpotsiaashimampachidchich?Tpotsvanikistachpa.Gobieronashimamistachpa.Pinasakinari,gobieronzapanvashonadistachilíinpa.</p>
+  </li>
+  <li>
+    <p>Tpotstaravaztamamzadko,vanitaravaztachpa.Yovashomasahataravaztamamzadko,vanitaravaztachpa;vatstatárintspa.Tpotstaravaztako,gotiskpitintspa.</p>
+    <p>Tpotsvanasirtaravaztako,vanasiritamtovapagtsa;vanasiritamnapagtsa.</p>
+    <p>Tpotsiaichigorotatsamorotovapagtsa.Apaztpotstaravaztakcho,nigichtovapkoch,itarollitaritpotsantamtaravaztakch,aragiamtovapkich.Anoavatsta.Tatsamorotovapagtsa.</p>
+    <p>Tpotstaravaztako,vanasiritovapagtsa;kiyogkachiytapa.Tovapakchosh,vipatstamchinagtsa;istagtsa,vatamtpotsiva.</p>
+  </li>
+  <li>
+    <p>Tpotstaravaztako,kanosamampchidintspa.¿Tamayriakashchiripsanpataritsibonashkotaravaztachich?Zarikanosishashpatatamgotaritistovapagtsa.</p>
+  </li>
+  <li>
+    <p>Tpotsvanasirtachpa;vipávanasirishinachpa.Kasyotatpa.Marizkayattapa.Zapitpa.Masarotatpa.Gob¡eronistachpa;irimiyávayachpa.Gobierontpotsiaistachpa;kiyogkachiytapa.Apaztpotstaravaztamampinasako,apazkasyotako,apazmchosava,apazmashidova,apazkizporvachinaro¿tamayriadanayaniychich?Gobieronanoatpotsistachpa.</p>
+    <p>Kizvipátatsipkacho,kizporistagtsa;napagtsa.Gobieronvanasirnapachpa.Gobieronshochitamatstavipvanasirinapachpa.</p>
+  </li>
+  <li>
+    <p>Lloráichigoroiskoviarashtapshtogtsa.Gobieronmagotariistachpa,iskoviarama.Primariamadtovapchiazich,dabaria.Itaro,llorichigoropshtochillinpa;gatosinapa.Tpotsprimariaivapayaro,aragiampshtopi-atinari,yapzadkovanipshtochiya.Gobiernoanoamiskoviarvayachpa.Itaro,yomagtar-anaraginashapshtochpa;pchidintspa.</p>
+    <p>Iskoviaroshvanasirtayaspatachpa.Vanasiritamamtayaspatachpa;kistamamtayaspatachpa.Mayistortayaspatako-Siichigorosvanasirtagtsa;sanpatanatsarintspa-táchpa.-Tpotsiaichigorochinagtsa.Arapchiatstatonariavatstatpotschinagtsa.Llitaritaptsaptpotstaro-anshochiatstavanasirchinagtsa.Vanotsiaborshiavatsta,vanotskansirpiavatsta,mikorovatstachinagtsa;ichigoroschinagtsa.TpotsApalliachinako-anoachinagtsa.Misha,yovatstaApalliadachinako-anoatstachinagtsa.Vashonadtsaporonasoshmapirotayani-mayistortáchpa.</p>
+    <p>Tpotsvipáiskoviarapllitaritaptapshtopi-atinari,vanaritapshtochpa;pchidintspa.</p>
+  </li>
+  <li>
+    <p>Tpotsvamkorishnapamamzadko,pchidintspa.Tpotsmachiatsitinamamzadko,vanaritinachpa.Tpotsmachiatsipayopiatinari,itotsintspa.</p>
+    <p>Tpotsmachiatsillitaritamashtinakinari,kirakyadakinari,gobieronshaanoatpotsiaistachpa;llitaritpotsshochitpa;líitaritpotsanomadkorikiamagotapotatpa.</p>
+  </li>
+  <li>
+    <p>Iykorakariniichigoroniniachinaragoni,kamachtaragtanicha.Ashiriya,iyshaichigoronipayopaniatiniya.Sitpotsizatarospayogtamsaatiniya.Anoakokpayomamyanpataistayani.</p>
+  </li>
+  <li>
+    <p>Tpotspataritakosh,anoshistagcha.Ashkachinariasha,kispatachsha.</p>
+    <p>Shivanasirtapi-atosh,shigcha.Itaro,tpotsiakiyogyachariílpa.Tpotsiatoxararilípa.Tpotsiatamontarilipa.Tpotsiayotaritaminarilipa.Yotaritarilipa.Vashonadkistagtsa.</p>
+    <p>Iyákukinikpitintspa.</p>
+  </li>
+  <li>
+    <p>Xarashishminamtariya.Iyákukiniyayaros,sarichsarichshirintspa.Sarichsarichshiaros¿mayamshitayosortpotsiakiyogyachich?Ashiri,tpotsianatsarintspa;chinagtsaatiniya.Vatamcha.</p>
+  </li>
+</ol>

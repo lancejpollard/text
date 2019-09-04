@@ -1,0 +1,123 @@
+<h1 align='center'>Insan Hakların Cümlä Deklaratiyası</h1>
+<h2 align='center'>Preambula</h2>
+<p align='center'>ESABA ALARAK, ani insan aylesi azaların kişilik saygılıı, onnarın birtakım hem ayırılmaz hakların tannıması serbestliin, dooruluun hem ömür-dünnää usluluun temelidir; hem
+ESABA ALARAK, ani insan haklarına gösterilän saygısızlıktan hem aşaalıktan kaynaklanan yabannık darıldêêr insannıın üzünü, hem ani ölä bir dünnää kurulması, nerdä insannarda olacek söz hem düşünmak serbestlii hem olmayacek korku hem sıkıntı, insannarın bir üüsek isteyişi gibi bildirildi; hem
+ESABA ALARAK, ani insan hakları lääzım korunsun kanon kuvedinnän, ani olmasın ölä, açan insan, bitki çözüm gibi, zorbalaa hem baskıya karşı istar-istemäz kalêr yapsın kalkıntı; hem
+ESABA ALARAK, ani lääzım halklar arasında dostluk baalantıların ilerlemesinä yardımcı olmaa; hem
+ESABA ALARAK, ani Birleşmiş Milletlär halkları kendi Ustavında tekrarladılar inandıklannı insannarın temel haklarına, insan kişiliin onuruna hem kıymetinähem da adamnarlan karıların bırtakım haklarına hem karar aldılar sotial ilerlemesina yardımcı olmaa hem taa bol serbestliktäyaşamak koşullannı iileştirmää; hem
+ESABA ALARAK, ani aza devletlär söz verdilär, Birleşmiş Milletlär Kurulunnan birliktä, cümlä insan hakların hem temel serbestliklerin saygılanmasına yardımcı olmaa;
+hem
+ESABA ALARAK, ani bu haklar hem serbestliklär tabeetin universal annaşılması bu baalantıyı bütünnä tamannamak içik pek maanalıdır,
+GENEL ASAMBLEYA
+bildirer bu Insan Hakların Cümlä Deklaraţlyasını ölä bir problema gibi, angısını lääzım özensinnär çözmää hepsi halklar hem devletlär, aniki herbir insan hem cümlenin herbir organı, dayma göz altında tutarak bu Deklaraţiyayı savaşsınnar aydınnatmaklan hem üüretmäklän yardım etmaä bu hakların hem serbestliklerin saygılanmasına naţional hem halklararası progresiv işlärlän onnarın tanıttırılmasına hem tamannanmasına nicä Kurula girän devletlerin halkları arasında, ölä da o halklar arasında, angıları bulunrlar o devletlerin kanonnarı altında olan topraklarda.</p>
+<ol>
+  <li>
+    <p>Insannarhepsiduuêrlarserbesthembirtakımkendikıymetindähemhaklarında.Onnaraverilmişakılhemüzdaläazımbiri-birinädavransınnarkardaşlıkruhunauygun.</p>
+  </li>
+  <li>
+    <p>HerbirinsandalääzımolsunhepsibuDeklaraţiyadabildirilänhaklarhemserbestliklär,hiçbirayırıntısızsoy,derirengi,adamhemkarı,dil,din,politikayadabaşkainandıkları,mülk,insanboyuekibaşkadurumbakımından.Bundanbaşkadiillääzımyapılsınhiçbirayırıntıdevletinyainsanınyaşadııtopraanpolitikastatusunagörä,bakmayarakotoprakserbestmi,bakımnımı,kendibaşınakullanmayanmıosasuverenıtetindäbaşkatürlüsınırlamalımı.</p>
+  </li>
+  <li>
+    <p>Herbirinsanınyaşamak,serbestlikhemkışiliinädokunmamakhakıvar.</p>
+  </li>
+  <li>
+    <p>Kimseydiillääzımtutulsunesirliktäyaserbestsizdurumda;esirlikhemesirsatılmasıhiçbirtürlükabledilmeer.</p>
+  </li>
+  <li>
+    <p>Kimseydiillääzımzeetlensin,zorlaştırılsınyadacezalandırılsınzulumcaekiinsanşanınıaşaalayandavranışlan.</p>
+  </li>
+  <li>
+    <p>Herbirinsanın,nerdädaobulunsa,varhakıdaavasubyektıolaraktanınmaa.</p>
+  </li>
+  <li>
+    <p>Herbirinsankanonakarşıdenkhemherkezin,birayırıntısız,varbirtakımhakıkanonnankorunmalıolmaa.HepsiinsannarınbirtakımhakıvarbuDeklaraţiyayıbozandiskriminaţiyadanhembölädiskriminaţiyafitlemesindänkorunmalıolmaa.</p>
+  </li>
+  <li>
+    <p>Herbirmsanıııhakıvarlegalmilletdaavalarındanhaklarınıefekivligeerialmaa,eerkostituţiyayakanontarafındanonaverilänhaklarkorunmazsalar.</p>
+  </li>
+  <li>
+    <p>Kimseyyoknasılzakonsuzzorlankapansın,tutulsunyadaerindänkaldırılsın.</p>
+  </li>
+  <li>
+    <p>Herbirinsanınhaklarınıhemborçlarınıbelirtmäkiçinhemonaçıkarılankabaatlamanınsebepliolup-olmadıınıgöstermäkiçinvarhakı,cümläbirtakımnıktemelindä,ıstemäaonundaavasıbakılsınaçıkhemdoorulukkurallarınauygunolarakbaalıolmayanhemtarafsızolansudta.</p>
+  </li>
+  <li>
+    <p>Herbirkabaatlıbulunaninsanınhakıvarkabaatlısayılmamaa,eeronunkabaatızakonagöräaçıkaraştırmaklanortayaçıkarılmadıysahemonahertürlükorunmakolaylııverilmediysä.</p>
+    <p>Kimseyyoknasılcezalandırılsınöläbircürüm(zakonauymayaniş)yapmasıiçiııyadayapmamasıiçin,eeryapıldıızamandaocürümnaţionalzakonnarınagörähemhalklararasıhakagöräcezalanankabaatsayılmadıysa.Hemyoknasılkabaatlıyaverilsintaaaarceza,nekadarvardınasılverilsinovakıtta,açancürümyapılmış.</p>
+  </li>
+  <li>
+    <p>Kimseyinyoknasılkanonsuzkarışılsınkendikişihemayläyaşamasına,kanonsuzdokunulsunonuneviııä,onunYazışmasaklılıınayadaonunkıymetinähemadına.Herbirinsanınvarhakıkanonnankorunmalıolmaaböläkarışmalardanekibölädokunmalardan.</p>
+  </li>
+  <li>
+    <p>Herbirinsanınvarhakıserbesterdiiştirmäähemherbirdevletinsınırlarındakendisinäoturmakeriayırmaa.</p>
+    <p>Herbirinsanınvarhakıçıkmaamemlekettän,busıradakendimemleketindända,hemdönmäämemleketinä.</p>
+  </li>
+  <li>
+    <p>Herbirinsanınvarhakısıkıştırmalardanbaşkamemleketlerdäkoruntuaaramaahemokoruntuyukullanmaa.</p>
+    <p>Buhakyoknasılkullanılsın,eersıkıştırmayapılırsagerçektänpolitikayabaalıolmayanbirkabaatiçinyadaBirleşmişMilletlärkurulunneetlerinähemprinţiplerinäkarşıgidänişläriçin.</p>
+  </li>
+  <li>
+    <p>Herbirinsanınvarvatandaşlıkhakı.</p>
+    <p>Kimseydänyoknasılkanonsuzalınsızonunvatandaşlııyadaonunhaklkendivatandaşlıınıdiiştirmää.</p>
+  </li>
+  <li>
+    <p>1.Yaşlarınıdolduranadamnarınhemkarılarınvarhakı,hiçbirsınırlamasızsoy,milletlikyadinüzerinä,evlenipayläkumıaa.Onnarınhaklarıbirtakımevlenirkän,evlenmektäbulunarkanhemayırılarkan.</p>
+    <p>Evleıımäkolabilirsadekarşılıklıikitarafınbütünserbestliinnänhemkayıllıınnan.</p>
+    <p>Aylä—cümleninbirnaturalhemanakısımıhemonunvarhakıcümlähemdevlettarafındankoruluolmaa.</p>
+  </li>
+  <li>
+    <p>Herbirinsanınvarhakımalsaabisiolmaatekbaşınayadabaşkasınnanbirliktä.</p>
+    <p>Kimseyinelindänzakonsuzmaldiillääzımalınsın.</p>
+  </li>
+  <li>
+    <p>Herbirmsanınvarserbestlidüşünmäk,üzhemdinhakı;buhakagirerserbestlikdiiştirmääkendidiııiniyainandıklarınıhemtutmaakendidininiyainandıklarınıtekbaşınaekİbaşkasınnanbirliktä,halkaaçıküürenmää,duvaetmäähemdinritualadetlerinikullanmaa.</p>
+  </li>
+  <li>
+    <p>Herbirinsanınvarhakıserbestlifikirlerinähemonnarınserbestliaçıklamasına;buhakagirerserbestlikengelsizkendifikirlerinäuymaahemserbestlikaaramaa,kabletmäähemdaatmaabilgihemfıkirhertürlühemdevletsınırlarınabaalıolmayarak.</p>
+  </li>
+  <li>
+    <p>Herbirinsanınvarhakıuslutoplantıhemkuruluşserbestliinä.</p>
+    <p>Kimseyiyoknasılzorlaştırmaagirsiıınesoy-sakurııluşa(asotiatieyä).</p>
+  </li>
+  <li>
+    <p>Herbirinsanınvarhakıpayalmaakendidevletinkullanmasındadoorudanyadaseçilmişvatandaşlannaracılıınnan.</p>
+    <p>Herbirinsanınvarbirtakımhakıkendimemleketindädevletizmetinägiräbilmää.</p>
+    <p>Halkınisteyişilääzımolsunönderlikkuvedintemeli;buisteyişlaazımbelliedilsinperiodikhemfalşolmayanseçimnerdä,angılarılääzımyapılsınnaruniversalhembirtakımseçimhakınnan,saklıkiyatatmaklanyadabaşkadenkmaanalı,kiyatatmanınserbestliinikoruyanformalarlan.</p>
+  </li>
+  <li>
+    <p>Herbırinsanın,cümläazasıolduuiçin,hakıvarsotialyardımınahemonunsaygılıınyardımnıolmasıiçinhemkişiliinserbestliilerlemesiiçinlääzımolanekonomika,soţialhemkulturahaklarıngerçekleştirmesinänationalyardımnarıhemmilletlärarasıişbirliiyolunnanhemherbirdevletinyapılışınahemkaynaklarınauygunolarak.</p>
+  </li>
+  <li>
+    <p>Herbirinsanınvarhakıçalışmaa,serbestliişayırmaa,dooruhemuygunişkolaylıklarındaçalışmaahemişsizliktänkorunmalıolmaa.</p>
+    <p>Herbirinsanınvarhakıhiçbirayırıntısızbirtakımişiçinbirtakımödekkabletmää.</p>
+    <p>Herbirçalışaninsanınvarhakıalmaadooruhemkanaatlıödek,angısıeterinsancayaşamaaonahemonunaylesinähemangısına,lääzımolduynan,eklenerbaşkasotialyardımnarı.</p>
+    <p>Herbirinsanınvarhakıkurmaaprofesıonalbirliklerihemgirmääprofesionalbirliklerinäkendiintereslerinikorumaadeyni.</p>
+  </li>
+  <li>
+    <p>Herbirinsanınvarhakıdinnenmähemboşvakıda,buaradaçalışmagününakıllıcasınırlanmasınahemperiodiködekliizinina(otpuskaya).</p>
+  </li>
+  <li>
+    <p>Herbirınsanınvarhakıöläyaşamakuuruna,busırayagirerimeesi,giyimi,evi,saalıkbakımıhemlääzımolansoţializmetleri,angısılääzımolêrkorumaasaalıınıhemvarlıını,kendisininhemaylesinin,hemhakıyardımsızkalmamaaişsizlik,hastalık,sakatlık,ihtärlıkyadabaşkaolabilirlidurumda,açanokendisinäbaalıolmayansebeplärüzerinägeçinmesiiçinkaynaksızkalabilir.</p>
+    <p>Analıkhemuşaklıkvererlärbirayırıbakımhemyardımhakı.Hepsiuşaklar,duuanevliliktäyaevlilikdışında,lääzımkabletsinnärbirtakımsotialyardımı.</p>
+  </li>
+  <li>
+    <p>Herbirinsanınvarüürenmäkhakı.Enazbaşlantıhemgenelüürenmäklääzımolsunnarödeksiz.Başlantıüürenmäklääzımolsunhepsiiçin.Tehnikahemzanaatüürenmesiiçinyollääzımaçıkolsunherkezinä,üüseküürenmäktälääzımhepsiiçinbirtakımaçıkolsunherkezinbecerdimägörä.</p>
+    <p>Üürenmäklääzımönversininsankişiliindoluilerlemesmähemdainsanhaklarınhemtemelserbestliklerintaabüüksaygılanmasına.Üürenmäklääzımyardımetsinkarşılıklıannaşmak,saburlukhemdostlukolsımhepsimiiletlär,soyhemdingrupalarınarasındahemyardımetsinBirleşmişKurulunbarışkorumaçalışmalarına.</p>
+    <p>Ana-bobanınvarüstünhakıkendiküçükyaşlıuşaklarınaüürenmäkformasıayırmaa.</p>
+  </li>
+  <li>
+    <p>Herbirinsanınvarhakıserbestlipayalmaacümleninkulturayaşamasında,hoşlanmaaincäzanaatlan,payalmaabilimilerlemesindähemfaydalanmaaonunhayırlarınnan.</p>
+    <p>Herbirinsanınvarhakıkorunsunonunmoralhemmaterialinteresleri,kaynaklananoııunyaptııbilim,lıteraturayaartistikyaratmalarından.</p>
+  </li>
+  <li>
+    <p>Herbirinsanınvarhakıöläbirsoţialhemhalklararasıdüzenä,aııgısındabütünhaklarhemserbestliklär,sıralananbuDeklaraţiyada,gerçekolabileceklär.</p>
+  </li>
+  <li>
+    <p>Herbirinsanıncümläkarşısındaborçlarıvar,sadecümledäolurgerçeklensinkişiliinserbesthembütünilerlemesi.</p>
+    <p>Haklarınıhemserbestliklerinigerçekleştirärkänherbirinsanasadeöläsınırlamayapılabilinir,angısıkanonagörauygıılanmışsaadeneetlängerçekleştirmääaaleminhaklarınınhemserbestliklerinintanınmasınıhemsaygılanmasınıhemdademokratiktoplumundadoorumoralısteklerinä,cümlädüzeninähemcümläyaşamakbolluunauygunolmasıiçin.</p>
+    <p>BuhaklarınhemserbestlikleringerçekleştirilmesihiçbirtürlüdiillääzımaykırıgitsinBirleşmişMilletlärKurulunneetlerinähemprinţiplerinä.</p>
+  </li>
+  <li>
+    <p>BuDeklaraţiyadabişeyyoknasılyorumnansınosoy,sansınbirdevletä,kişigrupasınayadaayırıkişileräverilerhaköläbirçalışmadabulunmaa,angısıönnendirilerbuDeklaraţiyadasıralananhaklarıhemserbestlikleriyoketmää.</p>
+  </li>
+</ol>

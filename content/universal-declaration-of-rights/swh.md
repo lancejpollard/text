@@ -1,0 +1,123 @@
+<h1 align='center'>UMOJA WA MATAIFA OFISI YA IDARA YA HABARI TAARIFA YA ULIMWENGU JUU YA HAKI ZA BINADAMU</h1>
+<h2 align='center'>UTANGULIZI</h2>
+<p align='center'>Kwa kuwa kukiri heshima ya asili na haki sawa kwa binadamu wote ndio msingi wa uhuru, haki na amani duniani,
+Kwa kuwa kutojali na kudharau haki za binadamu kumeletea vitendo vya kishenzi ambavyo vimeharibu dhamiri ya binadamu na kwa sababu taarifa ya ulimwengu ambayo itawafanya binadamu wafurahie uhuru wao wa kusema, kusadiki na wa kutoogopa cho chote imekwisha kutangazwa kwamba ndio hamu kuu ya watu wote,
+Kwa kuwa ni lazima, ili mtu asishurutizwe kuomba msaada kutokana na maasi ya kupinga dhuluma na uonevu, kwamba haki za binadamu ziwe chini ya ulinzi wa sheria,
+Kwa kuwa ni lazima kabisa kuendeleza uhusiano wa kirafiki kati ya mataifa,
+Kwa kuwa watu wa Umoja wa Mataifa wamethibitisha tena katika Mkataba wao imani yao katika haki za asili, heshima na thamani ya binadamu na katika usawa wa haki kwa wanaume na wanawake, na kwa sababu wamekata shauri la kuendeleza mambo ya starehe na hali bora za maisha ya watu kwa kuwa na uhuru zaidi,
+Kwa kuwa Nchi zilizo Wanachama zimeahidi, kwa kushirikiana na Umoja wa Mataifa, kukuza na kuheshimu haki za binadamu na uhuru wake wa asili,
+Kwa kuwa kuzitambua haki hizi na uhuru huu ni jambo la maana sana kua kutimiza ahadi hiyo,
+Kwa hiyo basi,
+BARAZA KUU linatangaza
+TAARIFA HII YA ULIMWENGU JUU YA HAKI ZA BINADAMU kama ndio nguzo ya juhudi kwa watu wa mataifa yote ambayo hatimaye kila mtu na kila jamii ya watu - kwa kushikilia daima Taarifa hiyo - watajitahidi kufundisha jinsi ya kukuza heshima ya haki hizo na uhuru huo. Na mataifa yote yatajitahidi kuzifanya haki hizo zifahamike miongoni mwa Nchi zilizo Wanachama na miongoni mwa watu zinaowatawala.</p>
+<ol>
+  <li>
+    <p>Watuwotewamezaliwahuru,hadhinahakizaonisawa.Wotewamejaliwaakilinadhamiri,hivyoyapasawatendeanekindugu.</p>
+  </li>
+  <li>
+    <p>KilamtuanastahilikuwanahakizotenauhuruwoteambaoumeelezwakatikaTaarifahiibilaubaguziwowote.Yaanibilakubaguanakwarangi,taifa,wanaumekwawanawake,dini,siasa,fikara,asiliyataifalamtu,mali,kwakizaziaukwahalinyingineyoyote.Juuyahayousifanyeubaguzikwakutegemeasiasa,utawalaaukwakutegemeauhusianowanchifulaninamataifamengineaunchiyaasiliyamtu,haidhurunchihiyoiweinayojitawala,yaudhamini,isiyojitawalaauinayotawaliwananchinyinginekwahaliyanamnayoyote.</p>
+  </li>
+  <li>
+    <p>Kilamtuanahakiyakuishi,hakiyauhuru,nahakiyakulindwanafsiyake.</p>
+  </li>
+  <li>
+    <p>Mtuyeyoteasifanywemtumwaaumtwana;utumwanabiasharayakenimarufukukwakilahali.</p>
+  </li>
+  <li>
+    <p>Mtuyeyoteasiteswe,asiadhibiwe,asidharauliweaukutendewakinyamaaukikatili.</p>
+  </li>
+  <li>
+    <p>Mbeleyasheriakilamtuanahakiyakutambulikakamamtu.</p>
+  </li>
+  <li>
+    <p>Mbeleyasheriawatuwotenisawanawanastahilihakisawazakulindwa.WotewanahakisawayakulindwakutokananaubaguziwowoteunaowezakuvunjaTaarifahiinamamboyoyoteyanayowezakuletaubaguzikamahuo.</p>
+  </li>
+  <li>
+    <p>Kilamtuanahakiyakutetewanabarazalahukumukwamakosayakuvunjiwahakizakezaasilianazostahilikwamujibuwakanuninasheria.</p>
+  </li>
+  <li>
+    <p>Mtuyeyoteasikamatwe,asifungiweaukuhamishwakutokanchiyakebilasheria.</p>
+  </li>
+  <li>
+    <p>Kilamtuanahakikamiliyakuhukumiwavyemahadharaninabarazalahukumulililohurunalisilonaupendeleokatikakutoauamuziwahakizakenawajibuwakenawamakosayoyoteyanayomhusu.</p>
+  </li>
+  <li>
+    <p>Kilamtuanaeshtakiwakwakosalakuvunjasheriaanahakiyakuangaliwakamasimkosefumpakaimethibitishwekwasheria,kwakuhukumiwahadharani,kwambaanahatia.</p>
+    <p>Mtuyeyoteasitiwehatianikwatendololoteaujambololoteambalohalikupingasheriayataifaauyakatiyamataifawakatialipolitenda.Walaasipeweadhabukalizaidikulikoileiliyokuwamokatikasheriawakatialipofanyakosa.</p>
+  </li>
+  <li>
+    <p>Kilamtuasiingiliwebilasheriakatikamamboyakeyafaragha,yajamaayake,yanyumbanimwakeauyabaruazake.Walaasivunjiweheshimanasifayake.Kilammojaanahakiyakulindwanasheriakutokananapingamiziaumambokamahayo.</p>
+  </li>
+  <li>
+    <p>Kilamtuanahakiyakwendamahalianapotakanakuishikatikakilanchi.</p>
+    <p>Kilammojaanahakiyakuhamakutokanchiyoyote,hatanchiyakemwenyewe,naanahakiyakurejeakatikanchiyake.</p>
+  </li>
+  <li>
+    <p>Kilamtuanahakiyakukimbilianakustarehekatikanchinyinginekwaajiliyakuepukananaudhalimu.</p>
+    <p>HakihiihaiwezikuombwakwaudhalimuambaohautokaninamakosayamamboyasiasaaunamakosayamaazimionakanunizaUmojawaMataifa.</p>
+  </li>
+  <li>
+    <p>Kilamtuanahakiyautaifa.</p>
+    <p>Mtuyeyoteasinyang'anyweutaifawakebilasheriawalaasinyimwehakiyakujibadilitaifalakekamaakitaka.</p>
+  </li>
+  <li>
+    <p>Watuwazima,wanaumekwawanawakewanahakiyakuoananakuundajamaabilakizuiochochotekwasababuyarangi,taifaaudini.Wanahakisawazandoawakatiwamaishayaoyandoanawakatiwakutengukandoa.</p>
+    <p>Ndoainawezakufungwatukwahiarinamapatanokamilikatiyahaowanaotakakuoana.</p>
+    <p>Jamaanikiungochaasilichajamiiyawatu,nainastahilikulindwanawatupamojanaSerikali.</p>
+  </li>
+  <li>
+    <p>Kilamtuanahakiyakuwanamaliyakebinafsiaukwakushirikiananawatuwengine.</p>
+    <p>Mtuasinyang'anywemaliyakebilasheria.</p>
+  </li>
+  <li>
+    <p>Kilamtuanahakiyauhuruwamawazo,dhamiranadini;hakihiiinahusupiauhuruwakubadilidiniyakeauimani,nauhuruwakubainishahadharaniaufaraghani-akiwapekeyakeaunawatuwengine-diniyakekwakufundisha,kwavitendo,kuabudunakwakuadhimisha.</p>
+  </li>
+  <li>
+    <p>Kilammojaanahakiyauhuruwakutoanakuelezamaoniyake;hakihiiinahusupiauhuruwakushikiliamaoniyakebilakuingiliwakati,nauhuruwakutafutanakutoahabarinamaonikwanjiayoyotebilakujalimipaka.</p>
+  </li>
+  <li>
+    <p>Kilamtuanayohakiyakushirikikatikamkutanonachamakwahaliyaamani.</p>
+    <p>Mtuyeyoteasilazimishwekuwamanachamawachamafulani.</p>
+  </li>
+  <li>
+    <p>KilammojaanayohakiyakushirikikatikaSerikaliyanchiyakeyeyemwenyewebinafsiaukwanjiayamjumbealiemchaguakwahiariyake.</p>
+    <p>KilammojaanayohakisawayakufanyakazikatikaSerikali;matakwahayohuonyeshwakatikauchaguzihalisiunaofanywamudabaadayamudaambaokilamtuhupigakuranaambaohufanywakwakurayasirinakilamtukwahiariyake.</p>
+    <p>Matakwayawatundiyoyatakuwamsingiwautawalawaserikali;halihiiitajidhihirishakwenyechaguzizahakikwawatuwotenaambazozinafanyikakwasiriaunamnanyingineambayoitahakikishauchagazikuwahuru.</p>
+  </li>
+  <li>
+    <p>Kilamtu,kamaraia,anayohakiyakutunzwanaanastahilikupatahalizinazotokananauchumi,starehenautamaduni-ambazonizalazimakwahaliboranamaendeleoyanafsiyake-kwanjiayajuhudiyataifanaushirikianokatiyamataifanakwamujibuwautaratibunautajiriwakilanchi.</p>
+  </li>
+  <li>
+    <p>Kilamtuanahakiyakufanyakazi,yakuchaguakaziaipendayo,yakuchaguakaziyenyemashartimazurinaanahakiyakulindwaasikosekazi.</p>
+    <p>Kilamtuanahakiyakupatamshaharasawanawenginewenyekaziyanamnamojabilaubaguzi.</p>
+    <p>Kilamfanyakazianayohakiyakupatamshaharawakufaanaunaopendezautakaomwezeshayeyemwenyewepamojanajamaayakekuishikatikahalibora,naahifadhiwe-ikiwalazima-maishayakekwanjianyingine.</p>
+    <p>Kilamtuanayohakiyakuundaaukujiunganachamachochotechawafanyakazikwaajiliyakulindahakizakezakazi.</p>
+  </li>
+  <li>
+    <p>Kilamtuanahakiyakupumzikanakufanyakazikwakiasichasaazinazostahili.Piaanahakiyakupatalikizo,kwavipindi,nakupokeamshaharakamavileangekuwakazini.</p>
+  </li>
+  <li>
+    <p>Kilamtuanayohakiyakupatahaliborayamaishayeyemwenyewepamojanajamaayakenakupatachakula,mavazi,nyumba,matibabunahifadhizalazimakwamaishayake.Piaanahakiyakutunzwawakatiwakazi,wakatiwaugonjwa,wakutojiweza,ujane,uzeeauanapokosaridhikiyakekwakutowezakujisaidia.</p>
+    <p>Akinamamanawatotowanastahilikutunzwanakupewamsaadamaalum.Watotowote-wawewamezaliwakatikahaliyandoaamahapana-lazimawatunzwevyema.</p>
+  </li>
+  <li>
+    <p>Kilamtuanahakiyakuelimishwa.Elimuyapasaitoleweburehasaileyamadarasayachini.Elimuyamasarasayachiniihudhuriwekwalazima.Elimuyaufundinaustadiiwewazikwawote.Naelimuyajuuiwewazikwawotekwakutegemeasifayamtu.</p>
+    <p>Elimuitolewekwamadhumuniyakuendelezabarabarahaliyabinadamu,nakwashabahayakukuzahakizabinadamunauhuruwakewaasili.Elimuniwajibuikuzehaliyakueleana,kuvumiliananayaurafikikatiyamataifanakatiyawatuwaranginadinimbali-mbali.KadhalikaniwajibuiendelezeshughulizaUmojawaMataifazakudumishaamani.</p>
+    <p>Nihakiyawazazikuchaguaainayaelimuyakufunzwawatotowao.</p>
+  </li>
+  <li>
+    <p>Kilamtuanayohakiyakushirikikatikamaishayautamaduniyajamiiyoyote,naanahakiyakufurahiaustadiwakazinakushirikikatikamaendeleoyamamboyasayansinafaidazinazotokananayo.</p>
+    <p>Kilamtuanahakiyakulindwakwakilahalikutokananamamboyasayansialiyoandika,aliyochoraaualiyogundua.</p>
+  </li>
+  <li>
+    <p>NihakikilamtualindwenataratibuaukanunizajamiinazinazohusumataifambalimbaliambazondaniyakeuhurunahakizilizoelezwakatikaTaarifahiizinawezakuhifadhiwabarabara.</p>
+  </li>
+  <li>
+    <p>Kilamtuanawajibukwawatuwajamiiyoyoteambaokatiyaotundioyanawezakupatikanamaendeleokamiliyahaliborayamaishayake.</p>
+    <p>Katikakutumiahakinauhuruwake,kilamtuitambidikufuatakanuniziletuzilizowekwanasheriakwaajiliyakulindaheshimainayotakiwajuuyahakinauhuruwawatuwengine,nakwaajiliyakuhifadhikanunizahaki,usalamanahalinjemayamaishakatikajamiiyakidemokrasi.</p>
+    <p>UhuruhuunahakihizikamwevisitumiwekinyumechamaazimionakanunizaUmojawaMataifa.</p>
+  </li>
+  <li>
+    <p>HakunamanenoyoyotekatikaTaarifahiiyanayowezakubashiriwakwambayanaruhusunchiyoyote,kikundichawatuaumtufulanikufanyaaukushughulikanajambololoteambaloniayakenikuharibuuhuruhakizilizoelezwahumu.</p>
+  </li>
+</ol>

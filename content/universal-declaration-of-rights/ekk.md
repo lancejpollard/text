@@ -1,0 +1,123 @@
+<h1 align='center'>Inimõiguste ülddeklaratsioon</h1>
+<h2 align='center'>Preambula</h2>
+<p align='center'>Pidades silmas, et inimkonna kõigi liikmete väärikuse, nende võrdsuse ning võõrandamatute õiguste tunnustamine on vabaduse, õigluse ja üldise rahu alus; ja
+pidades silmas, et inimõiguste põlastamine ja hülgamine on viinud barbaarsusteni, mis piinavad inimkonna südametunnistust, ja et sellise maailma loomine, kus inimestel on veendumuste ja sõnavabadus ning kus nad ei tarvitse tunda hirmu ega puudust, on inimeste üllaks püüdluseks kuulutatud; ja
+pidades silmas vajadust, et inimõigusi kaitseks seaduse võim selleks, et inimene ei oleks sunnitud viimase abinõuna üles tõusma türannia ja rõhumise vastu; ja
+pidades silmas, et on vaja kaasa aidata sõbralike suhete arendamisele rahvaste vahel ja;
+pidades silmas,et ühinenud rahvaste perre kuuluvad rahavad on põhikirjas kinnitanud oma usku inimese põhiõigustesse, inimisiksuse väärikusse ja väärtusse ning meeste ja naiste võrdõiguslikkusesse ning on otsustanud kaasa aidata sotsiaalsele progressile ja elutingimuste parandamisele suurema vabaduse juures; ja
+pidades silmas,et liikmesriigid on kohustatud koostöös Ühinenud Rahvaste Organisatsiooniga kaasa aitama inimõiguste ja põhivabaduste üldisele austamisele ja nendest kinnipidamisele; ja
+pidades silmas, et üldisel arusaamisel nende õiguste ja vajaduste iseloomust on suur tähtsus selle kohustuste täielikuks täitmiseks,
+kuulutab Peaassamblee välja
+käesolevaga Inimõiguste ülddeklaratsiooni kui ülesande, mida peavad püüdma täita kõik rahvad ja riigid.
+Iga inimene ja iga ühiskondlik organ peab käesolevat deklaratsiooni alati silmas pidades selgitus- ja haridustööga alati kaasa aitama nende õiguste ja vabaduste austamisele ning rahvuslike ja rahvusvaheliste progressiivsete abinõudega tagama, et need õigused ja vabadused leiaksid üldist ja efektiivset tunnustamist ja täitmist nii organisatsiooni liikmeiks kui ka nende jurisdiktsiooni alla olevate territooriumide rahvaste poolt.</p>
+<ol>
+  <li>
+    <p>Kõikinimesedsünnivadvabadenajavõrdsetenaomaväärikuseltjaõigustelt.Neileonantudmõistusjasüdametunnistusjanendesuhtumistüksteisessepeabkandmavendlusevaim.</p>
+  </li>
+  <li>
+    <p>Igalinimeselpeavadolemakõikkäesolevadeklaratsioonigaväljakuulutatudõigusedjavabadused,olenematarassist,nahavärvusest,soost,usulisest,poliitilisestvõimuudestveendumustest,rahvuslikustvõisotsiaalsestpäritolust,varanduslikust,seisuslikustvõimuustseisundist.Lisaksselleleeitohiinimestevahelvahettehariigivõiterritooriumipoliitilise,õiguslikuvõirahvusvaheliseseisundipõhjal,olenematasellest,kasterritoorium,millekodanikollakse,onsõltumatu,hooldusalunevõimõnelmuulviisilomasuveräänsusespiiratud.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõiguselule,vabaduselejaisikupuutumatusele.</p>
+  </li>
+  <li>
+    <p>Kedagieivõipidadaorjusesvõiõigustetaseisundis;orjusjaorjakaubandusükskõikmilliselkujulonkeelatud.</p>
+  </li>
+  <li>
+    <p>Kellegisuhteseitohirakendadapiinamisivõijulma,ebainimlikku,temaväärikustalandavatkohtlemistvõikaristust.</p>
+  </li>
+  <li>
+    <p>Igalinimesel,ükskõikkustakaeiviibiks,onõigusomaõigussubjektsusetunnustamisele.</p>
+  </li>
+  <li>
+    <p>Kõikinimesedonseaduseeesvõrdsedjaneilonilmaigasugusevahetegemisetaõigusseadusevõrdselekaitsele.Kõigilinimestelonõigusollavõrdseltkaitstudükskõikmissugusediskrimineerimiseeest,misonvastuoluskäesolevadeklaratsiooniga,jaselliselediskrimineerimiselekihutamiseeest.</p>
+  </li>
+  <li>
+    <p>Igalinimeselontemalekonstitutsioonigavõiseadusegatagatudpõhiõigusterikkumisekorralõigusefektiivseleõigusteennistamiselekompetentseterahvuskohtutekaudu.</p>
+  </li>
+  <li>
+    <p>Kedagieivõimeelevaldseltvahistada,kinnipidadavõipagendada.</p>
+  </li>
+  <li>
+    <p>Igalinimeselontemaõigustejakohustustemääratlemiseksjatemaleesitatudkriminaalsüüdistustepõhjendatusekindlakstegemisekstäielikuvõrdsusealuselõigussellele,ettemaasivaadataksavalikultjakõikiõiglusenõudeidjärgidesläbisõltumatujaerapooletukohtupoolt.</p>
+  </li>
+  <li>
+    <p>Igalkuriteossüüdistatavalinimeselonõigussellele,ettedaloetaksesüütukskunitemasüülisusekindlakstegemiseniseaduslikuskorrasavalikulkohtulikularutamisel,kustalleontagatudkõikvõimalusedkaitseks.</p>
+    <p>Kedagieivõisüüdimõistakuriteosmõneteovõitegevusetuseeest,misnendekordasaatmiseajaleiolnudkuriteodrahvuslikuseadusevõirahvusvaheliseõigusejärgi.Samutieivõimäärataraskematkaristust,kuisee,midaoleksvõinudkohaldadakuriteokordasaatmiseajal.</p>
+  </li>
+  <li>
+    <p>Kellegiisiklikkujaperekonnaellueivõimeelevaldseltvahelesegada,kellegikorteripuutumatust,kirjavahetusesaladustvõiaujareputatsioonieitohimeelevaldseltmäärida.Igalinimeselonõigusseadusekaitselesellistevahelesegamistejarikkumisteeest.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõigusriigipiiresvabaltliikudajaomaelukohtvalida.</p>
+    <p>Igalinimeselonõiguslahkudaükskõikmilliseltmaalt,kaasaarvatudkodumaajakodumaaletagasipöörduda.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõigustagakiusueesvarjupaikaotsidateistesmaadesjasedavarjupaikakasutada.</p>
+    <p>Sedaõigusteisaakasutadajälitamisepuhul,mistegelikulttulenebmittepoliitilisestkuriteostvõiteost,misonvastuolusÜhinenudRahavasteOrganisatsioonieesmärkidejapõhimõtetega.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõiguskodakondusele.</p>
+    <p>Kelleltkieisaatemakodakondsustvõikodakondsusemuutmiseõigustmeelevaldseltäravõtta.</p>
+  </li>
+  <li>
+    <p>Täisealisekssaanudmeesteljanaistelonõigusilmaigasugustekitsendustetarassi,rahvusevõiusupõhjalabielludajaperekondaasutada.Neilonvõrdsedõigusedabielluastumisesuhtes,abielusolemisejaabielulahutamiseajal.</p>
+    <p>Abieluvõibsõlmidavaidmõlemaabielluvapoolevabatahtlikuljatäielikulnõusolekul.</p>
+    <p>Perekondonühiskonnaloomulikjapõhilinerakukeningtalonõigusühiskonnajariigikaitsele.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõigusvaraomamiseleniiüksikultkuikateistegakoos.</p>
+    <p>Kelleltkieitohitemavarameelevaldseltäravõtta.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõigusmõtte-,südametunnistusejausuvabadusele;seeõiguskätkebvabadustomauskuvõiveendumusimuuta,samutivabadustvabaltkuulutuadaomauskuvõiveendumusiniiüksikultkuikakoosteistegaavalikultvõieraviisiliseltõpetuse,jumalateenistusejareligioosseteningrituaalsetekombetalitustekaudu.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõigusveendumustevabaduselejanendeveendumustevabaltavaldamisele;seeõiguskätkebvabadusttakistamatultomaveendumustestkinnipidadajavabadustinformatsioonijaideidotsida,saadajalevitadaigasugusteabinõudegajariigipiiristsõltumata.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõigusrahumeelsekogunemisejaliitumisevabadusele.</p>
+    <p>Kedagieivõisundidaükskõikmillisesseassotsiatsiooniastuma.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõiguskasvahetultvõisiisvabaltvalitudesindajatekauduomamaavalitsemisestosavõtta.</p>
+    <p>Igalinimeselonõigusvõrdselepääsuleomamaariigiteenistusse.</p>
+    <p>Valitsusevõimualusekspeabolemarahavatahe;seetahepeabväljendumaperioodislistesjavõltsimatavalimistes,mistulebläbiviiaüldisejavõrdsevalimisõigusealuselsalajasehääletamiseteelvõiteistessamatähenduslikesvormides,mistagavadhääletamisevabaduse.</p>
+  </li>
+  <li>
+    <p>Igalinimeselkuikaühiskonnaliikmelonõigussotsiaalselekindlustatuselejatemaväärikusesäilitamiseksningtemaisiksusevabaksarenemiseksvajalikeõigusteteostamiselemajanduslikul,sotsiaalseljakultuurialalrahvuslikejõupingutustegajarahvusvahelikoostöökauduningvastavaltigariigistruktuurilejavahenditele.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõigustööle,töövabalevalikule,õiglastelejasoodsateletöötingimusteleningkaitseletööpuuduseeest.</p>
+    <p>Igalinimeselonilmaigasugusediskrimineerimisetavõrdseletasulevõrdsetööeest.</p>
+    <p>Igaltöötajalonõigusõiglaselejarahuldavaletasule,mistagabinimvääriliseelatusetemaleendalejataperekonnalejamidavajadusekorraltäiendataksesotsiaalkindlustuseteistevahenditega.</p>
+    <p>Igalinimeselonõigusonluuaametühinguidjaomahuvidekaitseksametühingutesseastuda.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõiguspuhkeajalejavabaajaveetmisele,kaasaarvatudtööpäevamõistliklühendaminejatasutavperioodilinepuhkus.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõigusselliseleelatustasemele,sealhulgastoit,riietus,korter,arstiabijavajaliksotsiaalneteenindamine,misonnõutavtemaendajaperekonnatervisejaheaoluhoidmiseks,jaõiguskindlustatuseletööpuuduse,haiguse,invaliidsuse,lesestumisejavanadusesaabumisekorralvõimõnelmuulelatusvahenditestilmajäämisejuhulinimestestendastolenematapõhjustel.</p>
+    <p>Emadusjaväikelapseigaannavadõiguseeriliselehoolduselejaabile.Kõigilelastele,olgunadsiissündinudabielusvõiväljaspoolabielu,peabosakssaamaühesugunesotsiaalnekaitse.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõigusharidusele.Hariduspeabolematasutavähemaltalg-jaüldhariduseosas.Alghariduspeabolemakohustuslik.Tehnilinejakutsehariduspeabolemakättesaadavkõigilejakõrgemharidusvõrdseltkättesaadavkõigilevastavaltigaühevõimetele.</p>
+    <p>Hariduspeabolemasuunatudinimisiksusetäielikulearendamiselejainimõigustestningpõhivabadustestlugupidamisesuurendamisele.Hariduspeabkaasaaitamavastastikuselemõistmisele,sallivuselejasõpruselekõigirahavaste,rassilisejausulisterühmitustevahelningsoodustamaÜhinenudRahvasteOrganisatsioonitegevustrahusäilitamisel.</p>
+    <p>Vanematelonomalasteharidusevalikuleesõigus.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonõigusühiskonnakultuurielustvabaltosavõtta,kunstinautida,teaduseprogressiomapanusandajaselleprogressihüvesidkasutada.</p>
+    <p>Igalinimesleonõigusomamoraalsetejamateriaalsetehuvidekaitsele,misjohtuvadteaduslikesttöödest,kunsti-jakirjandusteostest,milleautorikstaon.</p>
+  </li>
+  <li>
+    <p>Igalinimesleonõigussotsiaalselejarahvusvaheliselekorraldusele,kuskäesolevasdeklaratsioonistoodudõigusijavabadusionvõimaliktäiesulatusesrakendada.</p>
+  </li>
+  <li>
+    <p>Igalinimeselonkohustusedühiskonnaees,kusainuüksiongivõimaliktemaisiksusevabajatäielikarenemine.</p>
+    <p>Omaõigustejavabadusteteostamiselpeabigainimeneallumavaidsellistelepiiramistele,misonseadusegakehtestatudainsaeesmärgigatagadateisteinimesteõigustejavabadustetarviliktunnustaminejaaustamineningmoraalist,avalikustkorrastjaüldiseheaolunõuetestkinnipidaminedemokraatlikusühiskonnas.</p>
+    <p>NendeõigustejavabadusterakendamineeivõimingiljuhulollavastuolusÜhinenudRahvasteOrganisatsioonieesmärkidejapõhimõtetega.</p>
+  </li>
+  <li>
+    <p>Käesolevasdeklaratsiooniseitohimidagitõlgendadakuiõiguseandmistmõneleriigile,isikuterühmalevõiüksikisikuteletegutsemiseksvõitegudeks,misonsuunatudkaesolevasdeklaratsioonistoodudõigustejavabadustekaotamisele.</p>
+  </li>
+</ol>

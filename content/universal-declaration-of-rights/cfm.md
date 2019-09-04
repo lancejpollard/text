@@ -1,0 +1,121 @@
+<h1 align='center'>Ram Tin Tian iium Minung Pakhat ciar ii Covo Thuthan</h1>
+<h2 align='center'>Thuhmai hruai</h2>
+<p align='center'>Mi hmuah hmuah ii miphun sunloih nak thawn mikip ii bangrep ii covo kan neih mipawl kan sunsak awk hi mi hmuah hmuah ii thu neih nak thu neih bangrep nak, daih nak timipawl hi athu pi tawdaap a si ih hrangah siseh, mi nung pakhat ciar ii thil ti thei nak ziang siar lo nak ihsin mikip siat suah duh nak asuah ter ruang ah siseh, zalen tak ih sim thei nak, zalen zet in maiduh mi zum thei nak, tih phan nak, nunhar nak it sin zalen zet ii nun khua sak theinak leilung pi a can thei nak dingah mi phun kip ii atul bik miduh san nak kha simthan zo a si mi tlun ah siseh,
+Mi hmuah hmuah in daan um mumal lo, nen niam duh nak lungput, hmuh suam zomh taih nak pawl kha ti-ngaih nak dang a um thei lo ii ruangah meithar thawn tan nak, dodal nak um lo in minung pakhat ciar ii thil ti theinak kha hum him atul ruangah siseh,
+Ram pakhat lepakhat rualremzet ii pawl awk nak cu kan than so pi ding ah kan zuam a tul ruang ah siseh,
+UNO ah sungrtel ram pawl ii kan covo ciouah siseh, minung sun lawih nak siseh, mipa nunau hlei dan lo ding thu ah siseh, tipawl kha thupi ah neih ding kan hnemnget ih hlei ah minung nuncan khua sak tha sin ii, zalen nak khal um sin, khaisang sinding ah kan tiam kam mi par ah siseh,
+UNO sungtel ram pawl ii UNO thawn peh zom ii minung pawl zalen nak lam ah siseh, ahrampi in minung pakhat ciar ii covo lam ah siseh, leilung tlun pumpuluk ah upat nak thawn peh zom vivo ding ah kan tiam kamzo a si bang tuk in siseh;
+Cu Hrang Ah
+Thu rel nak khawmpi ih sin,
+Ramtintian ii minung covo thuthan nak cu, mikip le pawl kom tintian ah ruat ring ring ii lei lung tlun pumpuluk ah a cui minung kip ii covo, zalen nak pawl hi upat ciou dingah, folh fial nak thawn kan zuam ciouding ti in siseh, UNO sungtel ram pawl le cui ram pawl ii thu nei tupawl ih uk nak sungah ram mi pawl hnen ah cui covo le zalen nak khi kau zet le sung lawi zet ii thlun ciou dingah, ramsung ram leng tiang in zuam ciou ding ah siseh, Ram tintian ii covo, thuthan mikha ram tintian, mikip in bangrep ten tuan ciou dingah hi ti in kan than a si.</p>
+<ol>
+  <li>
+    <p>Mikipinbangrepiizalennaklesunlawihnakthawn,bangrepincovoneiin,asuakmikansi.Anmahinhleidantheinakfimnaklenuncanneihtheinakruahnakneiii,pakhatlepakhatduhdawtnak,pawlawknakneidingasi.</p>
+  </li>
+  <li>
+    <p>Mikipinminungpakhatciariicovothuthanihanthanbangtukinzalennakhmuahhmuahkhaanneiciouasi.Miphunhmuahhmuahhnenahsiseh,midummiranghnenahsiseh,nulepasinakahsiseh,tongphunruangahsiseh,biaknakruangahsiseh,ramduhdawtnakaphunphunahsisehramlepomdandangdangruangahsiseah,suahnakinsimaw?Lenlethatruangahsimaw?mihrinamparahsiseh,hleidannakumhlahseh.Cuitlunahminungpakhatiiramduhdawtnakcuthuthennaklamahsiseh,rampakhatlepakhatpawlkomnakahsiseh,hleidannakumhlahseh.Hmunlerampakhatiizalawngzetiiumtheinakram,UNOiikilkhawinakram,maithuinnunkhuasakdanahrektluklawngngahnakramti-inhleidannakumhrimhrimhlahseh.</p>
+  </li>
+  <li>
+    <p>Mikipinkannumnakciouahzalennaklehumhimnakumhramseh.</p>
+  </li>
+  <li>
+    <p>Zozokhalsalahsiseh,duhlocinginnehsawhthuthawnmisoldingasilo.Minungpawlkhasalvekinhramhramiifiarnak,minungzuarnaklecuvekthawnabangmihmuahhmuahkhamdingasi.</p>
+  </li>
+  <li>
+    <p>Zozokhalhmuhsuamawknakleahleihluaniiminungmanbanglokoiituahsiatnaktuahlodinglethuthennakneilodingasi.</p>
+  </li>
+  <li>
+    <p>Mikipinnundanthlundingthuahminungpakhatsinakdiktakcuziangbangtukcankhalahcotheinakaneidingasi.</p>
+  </li>
+  <li>
+    <p>Mihmuahhmuahinthlundingthuahanbangrepthluhihtlunah,daanihhumhualnakahhleidannakumhramhlahseh.Himithuthanmipawldodalnakihruangahsiseh,dodalnakthuthansinthuahsiseh,humhualnakcubangreptenkanneihthehasi.</p>
+  </li>
+  <li>
+    <p>Thlundingdunledanparahsiseh,adangadangdaanpawlahsiseh,mikiphrangintuahmikancovocioucuapelhsolhterasilecuvekpelhsolhnakihruangaasunlalnakaneitucuramhumhualnakzungpawlinluatnakngahterdingasi.</p>
+  </li>
+  <li>
+    <p>Zozokhalthlundingdaanthawnkalhawinkaihhremnakasimaw,thonghinnihretnakasimaw,ramihsindawipetnaksimawumhramhlahseh.</p>
+  </li>
+  <li>
+    <p>Covomiparahletuandingmithuiirelcatmiparahsiseh,sualnakpakhatkhatiiruangahthuthennakparahsiseh,mikipinzalenzetintanmibulumlointhuthennakzungahthusuhtikahbangrepthehhaiseh.</p>
+  </li>
+  <li>
+    <p>Mipihmaiahasualasitimimawhphurhnakafianghlansungpohcu,cuiapuhmawmipahimithaasitidingasi.Athuasittikkhalaa,anmawhphurhmithuhlaparahasiloasiti-ineltheinakkhuanneihtervedingasi.</p>
+    <p>Mipakhatkhatcuramihtuahmidaanparahsiseh,leilungtlunthlundingdaanparahsiseh,asualnakalangfianghlanlo,cuasiloleaumlokarlakahmawhphurhsihlahseh;Cuitlunahasuallailingahasualnakiiphunakinahnadeuhthuthennakumhramhlahseh.</p>
+  </li>
+  <li>
+    <p>Zozokhalamaipumpaakthuinzalawngzetihumcaannakahsiseh,maiinnsungsangahsiseh,maiinnkiangkapahsiseh,cakuatawknakahsiseh,daanumlovekinmawhphurnakumhramhlahseh.Cuitlunahmaisinakkhalaasoiselnakumhramhlahseh.Mikipincutiveksimsiatnaklesoiselhmuhsuamnakahsiseh,daaninhumhimhaiseh.</p>
+  </li>
+  <li>
+    <p>Mikipinmairamsungahzalenzetintlawntheinakleumtheinakkanneiasi.</p>
+    <p>Mikipinmaiumnakramsungahsiseh,ramdangahsiseh,tlawntheihnakkanneihtlunahmairamahkantlungsaltheiasi.</p>
+  </li>
+  <li>
+    <p>Mikipinzawmtaihhmuhsuamnakihsinanluatdingii,ramdangkhalaadaitenumtheinakanneiasi.</p>
+    <p>Ramthuhlathawnasenglomimawhphurhnakahsiseh,UNOiitumtakmithawnakarhawmithuhlasiseh,ansuarruangihmawhphurhmipawlthuhlaahatlunincovocuneihlahhaiseh.</p>
+  </li>
+  <li>
+    <p>Mikipinrampakhatiirammisinakanneiasi.</p>
+    <p>Thlundingdaanasiloahcunrammisinakiisinantlansantheilo.Rammipakhatsisalnakcovoihsinhnongawknaktuarhlahseh.</p>
+  </li>
+  <li>
+    <p>Kumkimciaminunaulemipapawlinmipumsinakahsiseh,rammisinakahsiseh,biaknakthuahsisehhleidanawknakumlointhitawtheihnakleinnsangdintheinakanneiasi.Cuiinnsangansihnuahsiseh,innsangthenawknakaumtikkhalahsiseh,thitumneihawknakthuah,nunaulemipaiicovobangreptenangahatulasi.</p>
+    <p>Mopalemonuanpanihanlungkimvevehnulawngahanthitawtheiasi.</p>
+    <p>Innsaangtimihiminungpawlkomnakahathupibikpakhatasi.Cuiinnsaanginminungpawlkomnakleacozah(uktu)iihumhualnakneihaiseh.</p>
+  </li>
+  <li>
+    <p>Mizakipinmaipumpakthuahsisehmidangthawnburkhawminsiseh,thillerineihtheinakanneiasi.</p>
+    <p>Thlundingdanasilolezozokhalinmaithillerikhatansanhlahhaiseh.</p>
+  </li>
+  <li>
+    <p>Mikipinzalenzetinthuruahtheinak,zalenzetindinmunkhualtheinaklezalenzetinbiaktheinakkanneiasi.Cuicovopawlparahmaiduhmibiaknaklezumnakahkanthlengdualdotheinakkanneiihtlunahmahbulpaakinsiseh,midangthawnakominsiseh,rammihmaiahsiseh,rammiumlonakahsisehmaibiaknaklezumnakcuzalenzetinsimfiangtheihnak,mantheinak,biakkhawmtheinaklebiakinnsaktheinaktlakanneiciouasi.</p>
+  </li>
+  <li>
+    <p>Mikipinzalenzetinthuruahtheinaklezalenzetinkanthuruahmihisimphuantheinakkanneiasi.Cuicovokanneihiitlunah,hnahnoknakumlotenkanthuruahtheinakcuramriumlokanruahmithuhlapawliiruahdaanpomdaanpawlcuzirtheinak,cotheinaklesimphuansintheinakkanneiasi.</p>
+  </li>
+  <li>
+    <p>Mikipinzalenzetledaaizetintonkhawmtheinaklepawlkomtheinakkanneiasi.</p>
+    <p>Zozokhalpawlkompakhatkhatahhramhraminlutterlodingasi.</p>
+  </li>
+  <li>
+    <p>Mikipinmairamukawknakahmaipumpakinsiseh,zalenzetiihrilmipalaipahneninsiseh,teltheinakaumasi.</p>
+    <p>(ii)Mikipinmairamsungahacozahhnatuannakahbangrepincovokanneiasi.</p>
+    <p>Mipiihduhnakcuramuknakthuahahrampisiseh.Cuimiduhnakruahnakcuacaanvekinhrilawkaumtikahlangterdingasi.Hrilawktikkhalahbangreptenduhmihriltheinakaumihtlunahcuhrilawknakcuthuptemeinsimaw,cuvekadangzalenzetiihriltheinakaumasi.</p>
+  </li>
+  <li>
+    <p>Mikipinminungpawlkomnakiiteltupakhathrangahminunglamhumhualnakkanneihiihleiaa,ramdinnakahsiseh,ramtintianpawlkomnakahsiseh,rampakhatciariiphuaihdanleilungsungsumsuaktlunahsiseh,cumipawlinsinakleaziatethansotheinakdingahumlotheihlosumtuahnak,minungpawlkomnaknunphungcovopawlkhahmantheinakanneiasi.</p>
+  </li>
+  <li>
+    <p>Mikipinhnatuantheinak,maiduhminunnakahzalenzetinhawltheinakahsiseh,zarualinnuamzetiituantheinakdingahsiseh,hnatuanneiloihummennakinluatnakahsisehthuneihnakkanneiasi.</p>
+    <p>Mikipinhleidannakumlobangrepihtuanmanngahtheinakkanneiasi.</p>
+    <p>Hnatuantuhmuahhmuahinmahlemaiinnsanginminungthawnbanghineitheiintheidingahmaituanmiparbangreptenhlawhmanngahtheinakaumasi.Atulasilephundangte-inbomhnakkhalngahbettheiasi.</p>
+    <p>Mikipinmaingahdingmawihlawhmanngahtheinakahhnatuantupawlkomnaktuahtahratinkanteltheiveasi.</p>
+  </li>
+  <li>
+    <p>Mikipinanngahdingamawihnatuancaanihleengahhlawhhmaniihleiahhnatuanawlmicawlhniteahcawlhcaanleavelecaanlawngkhalneihtheihasi.</p>
+  </li>
+  <li>
+    <p>Mikipinmahlemaiinnsangharhdamnak,taksalethinlungnuamiiumtheinakdingahvitamin,hnipuan,umnakinn,silevaaibomhnakleminungihkantulhaimipawlhiamawitawkinkanngahtheiasi.Cuitlunahhnatuanneiloihkanumtikahsiseh,kandamlolaifangahsiseh,kutkehimloihkanumlaifanghasiseh,nuhmeikansitikahsiseh,tartawtkansitikkhalahsiseh,maithazaanginmaikhopkanhawltheinawnlocaanahsiseh,umcaneileinhrangahhnangamzetihumtheinakkhuankanneiasi.</p>
+    <p>Fateihnuikilkhawinak,nauhakpawlhiahleiceiikilkilkhawinaklebomhnakangahtheiasi.Daanveekiithitawknakinsiseh,thudangpakhatkhatrungahsiseh,asuakminauhakpohpohcubangreptenbomhbawihumharhnakanneitheiasi.</p>
+  </li>
+  <li>
+    <p>Mikipincazirtheinakannei,Amalbikahphunlitiangleahrampifimnakpawlahpaisalakloinzirhtheinakanei.Thilthiamnakleminungnunkhuasakfimnakpawlhizirtheinakkanneiasi.Cuitlunahphunsangfimnakngahnakhrangahmaithiamnakiizirincovobangrepkanneiasi.</p>
+    <p>Fimzirnakahminungpawliisidaanpawlfamkimzetinkanthansotheinakahminungpakhatciariicovoleahramthokupatawknakneisintheinakdingahzirhdingasi.Fimzirnakcuramsunghmuahhmuahahsiseh,miphunpawlhnenahsiseh,biaknaklampawlkomnakahsiseh,pakhatlepakhattheithiamawknaktuartheinak,rualremnakpawlkhathapeekdingasi.CuitlunahkumkhuaramdaihnakhrangahUNOiituahmipawlthuhlaveekinacantheinakdingahbomhdingasi.</p>
+    <p>Nulepainmaifaleiianzirdingmicahrilsaktheinakthuanneiasi.</p>
+  </li>
+  <li>
+    <p>Mikipinmainunphungleilungtlunahzalenzetintuahtheinaknunphungkilkhwainakzalenzetlelunghmuizetinzirtheinakscienceakarhzaitheinakdingahzalenzetintelvetheinakdingahlecuifimnakinarahpawlkhahmantheinakkanneiasi.</p>
+    <p>Mikipinsciencecazirnaklamahsiseh,nunphungkilkhawinakahsisehmaihiithuruahfimnakinkantuansuakmitlunahsisehhminthatnaklemiatmipaisangahtheinakpawlkhakanngahtheiasi.</p>
+  </li>
+  <li>
+    <p>Mikipinhimithuthansungiiantelhmicovopawllezalennakfamkimngahtheinakiiminungpawlawkdaanleramtintianpawlawknakihsinthathnemnakpawlkhakanngahtheiasi.</p>
+  </li>
+  <li>
+    <p>Maisinakihzirinzalenzetiithansotheinakahmidangthawnpawlkomnakahmikipintuanvokanneiasi.</p>
+    <p>Maicovolemaizalennakkanneihtikahmidangpakhatiicovolezalennakpawlkhithupisindingahsiseh,democracydaanihumminungpawlkomnakahnuncanthatihhleiahmaiihumnakkiangkapdaihnaklerammipawliithathnemnakdingah,zaremzetinnumciounakdingahsiseh,ukawknakdaanlawnginthuaneitheiasi.</p>
+    <p>CumicovopawllezalennakpawlhiziangvekthukhalahUNOtumtahnakthawnsiseh,ahrampidaanpawlthawnsiseh,alingletinmandingasilo.</p>
+  </li>
+  <li>
+    <p>Himithuthandarhpariicovopawlinsisehzalennaksiatsuahduhnakthawn,rampakhathrangahsiseh,mihrekkhathrangahsiseh,maipumpakhrangahsiseh,teltheinakcovokanneiasi,maipumpakciarihcovoasiti-ihthulaaknakaumtheilopei.</p>
+  </li>
+</ol>

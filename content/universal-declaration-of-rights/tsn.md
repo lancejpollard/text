@@ -1,0 +1,123 @@
+<h1 align='center'>KGOELETSO YA MAIPOLELO A ODIT·HABAT·ABA A DITSHWANELO TSA BOTHO</h1>
+<h2 align='center'>PULAMADIBOGO</h2>
+<p align='center'>Go ntse jalo gore kamogelo ya tlhago ya seriti le tekatekano le ditshwanelo tse di sa amologanngweng tsa ditokololo tsotlhe tsa losika lwa motho ke motheo wa kgololosego, bosiamisi le kagiso mo lefatseng.
+Go ntse jalo gore go itlhokomolosa le go nyatsa ditshwanelo tsa botho go tlhotse ditiragalo tsa bolalome tse di šsakgaditseng maikutlo a batho mo tshimologong ya lefatshe le mo go lona batho ba itumelelang kgololosego ya go bua le tumedi, le kgololosego mo go boifeng le go eletseng, di goeleditswe jaaka dikeletso tse di kwa godimo tsa batho botlhe.
+Go ntse jalo gore go botlhokwa, fa motho a sa patelesege go tsaya tsela esele, jaaka ona mokgwa wa bofelo, go ema kgatlhanong le bagagapa le kgatelelo, gore ditshwanelo tsa botho di sirelediwe ke puso ya molao.
+Go ntse jalo gore go botlhokwa go tsweletsa kgolo ya dikgalologano tsa botsalano fa gare ga ditšhaba.
+Go ntse jalo gore Ditšhaba Kopano ka Lokwalo lo, ba tiiseditse tumelo ya bona mo motheong wa ditshwanelo tsa botho, mo seriting le botlhokwa jwa botho jwa motho le mo tekatekanong ya ditshwanelo tsa banna le basadi, mme ba ikemiseditse go tsweletsa kgatelopele mo matshelong a batho le maemo a a botoka a botshelo mo kgololosegong e e anameng.
+Go ntse jalo gore Dinaga tse e leng Ditokololo di ineetse ka tirisanommogo le Ditšhaba Kopano go fitlhelela tsweletso ya tlotlo le tshegetso ya boditšhabatšhaba ya ditshwanelo tsa botho le metheo ya dikgololosego.
+Go ntse jalo gore go a tlhaloganyesega gore ditshwanelo le dikgololosego tse, di botlhokwa thata mo tiragatsong ya bojotlhe ya maineelo a.
+JAANONG KA JALO,
+Kokoano Kakaretso
+E goeletsa Maipolelo a, a Boditšhabatšhaba a Ditshwanelo tsa Botho jaaka selekanyo sa phitlhelelo sa gale mo bathong botlhe le mo ditšhabeng tsotlhe, go fitlhelela fa motho mongwe le mongwe le sethwe sengwe le sengwe sa loago, ka go tsaya Maipolelo a tsia, di tla kgaratlhelang ka go ruta le kgodiso go tsweletsa tlotlo ya ditshwanelo le dikgololosego tse, le ka dikgato dingwe tsa tswelelopelo mo setšhabeng le ditšhabatšhabeng, go boloka kamogelo le tshegetso ya boditšhabatšhaba le tiragatso ya tsona, mo sebeding sa batho ba e leng Maloko a Dinaga ka boona le mo bathong ba dikgaolo tse di welang mo taolong ya bona.</p>
+<ol>
+  <li>
+    <p>Bathobotlhebatsetswebagololosegilelegolekalekanakaseritileditshwanelo.Baabetswegoakanyalemaikutlo,mmebatshwanetsegodirelanakamowawabokaulengwe.</p>
+  </li>
+  <li>
+    <p>MongwelemongweonaletetlamoditshwanelonglemodikgololosegongtsotlhetseditlhagisitswengmoMaipolelonga,kwantlegapharologanyoepe,jaakayasemorafe,mmala,bong,puo,tumelo,sepolotikikgotsa,kakanyoesele,boagikgotsatlhagoyalotso,thoto,botsalo,kgotsaboemobongwe.Gape,gagopharologanyoepeeetladirwangkantlhayaboemobasepolitiki,babolaodikgotsababoditšhabatšhababanagakgotsakgaoloemothoatswangkwagoyona,gosakgathalesegegoreaeikemetse,eabilwe,gaeipusekgotsaemotekanyetsongnngweyaboipuso.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwaneloyabotshelo,boithateloletshireletsegoyabotho.</p>
+  </li>
+  <li>
+    <p>Gagoopeyootlatshwarwangmobokgobengkgotsabotlhankeng;bokgobalekgwebokamakgobaditlailediwamomekgwengyotlheyatsona.</p>
+  </li>
+  <li>
+    <p>Gagoopeyootlabogisiwangkgotsagosotlwakamokgwaoesengwasethokgotsagotsholwakgotsagootlhaiwakamokgwaoonyenyefatsang.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwanelogoamogelwagongwelegongwejaakamothofapelegamolao.</p>
+  </li>
+  <li>
+    <p>Botlhebaalekanafapelegamolaommebanaletetlakwantlegatlhotlholologotshireletsegoeelekanangyamolao.BotlhebanaletetlaeelekanangyatshireletsegokgatlhanongletlhotlhololonngwelenngweeelengkgatlhanongleMaipoleloa,lekgatlhanonglethotloetsoyatlhotlhololoyomothaleoontsengjalo.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwaneloyatshiameloeetletsengyakgotlakatlholoyabosetšhabaeenanglebokgonikantlhayaditirotsedikgatlhanongleditshwanelotsamotheotseadineilwengkemoloatheokgotsakemolao.</p>
+  </li>
+  <li>
+    <p>Gagoopeyookatshwarwang,atlhatlhelwakgotsaakobiwantlelelebakaleleutlwalang.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletekatekanoeetletsengyatshekoeesiamengyabotlheeetsamaisiwangkekgotlakatlholoeeikemetsengleeesatlhotlhololengmogothlotlhomisenggaditshwaneloleditlamegotsagagwekgotsakotlhaonngwelenngweyabosenyikgatlhanongnae.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweyoobonwangmolatowatlolamolaoonaletshwaneloyagotsewaasemolatogofitlhelelaabonwamolatogoyakafamolaongmokgotlatshekelongyabotlheemogoyonaantsengleditsholofetsotsedimalebalegoitshireletsagagagwe.</p>
+    <p>Gagonaopeyootlabonwangmolatowatlolomolaonngwelenngwekantlhayatironngwekgotsatlogelonngweeenengesetlolomolao,momolaongwabosetšhabakgotsawaboditšhabatšhaba,kanakoeenengedirwa.Legonakotlhaoeeboketegaeneedirwa,gonaleeemalebaeenengekadirwakanakoetlolomolaoenengedirwa.</p>
+  </li>
+  <li>
+    <p>Gagonaopeyogotlasunngwangnkontlelemolaomosephiring,lelapeng,ntlongkgotsamakwaloagagwekgotsatlhaseloyotlotloleserodumosagagwe.Mongwelemongweonaletshwaneloyatshireletsoyamolaokgatlhanongletsunyonkoleditlhaselotsamothaleontsengjalo.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwaneloyakgololosegoyamotsamaolebonnomemelelwanengyonaganngwelenngwe.</p>
+    <p>Mongwelemongweonaletshwaneloyagotswamonagengnngwelenngwe,goakaretsaleyagaabo,legoboelakwanagengyagaabo.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwaneloyagobatlalegoitumelelabotshabibagosekisiwakwadinagengtsedingwe.</p>
+    <p>Tshwaneloe,gaeneediragadiwamomabakengaditshekisotsedilenglemelatoeesengyasepolitikikgotsagotswamoditirongtsedilengkgatlhanonglemaikaelelolemeonoyaDitšhabaKopano.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwaneloyaboagi.</p>
+    <p>Gagoopeyootlailetswangntlelelebakaboagijwagagwekgotsagoiletswatshwaneloyagofetolaboagijwagagwe.</p>
+  </li>
+  <li>
+    <p>Bannalebasadibadingwagatsedilekanang,kwantleletekanyetsoepeeemabapilebomorafe,boagikgotsatumelobanaletetlayagonyalalegoagalelapa.Banaletetlayaditshwanelotsedilekanangmabapiletsalenyalo,molenyalonglemophatlalalongyalona.</p>
+    <p>Gotlatsenwafelamonyalanongkatetlaeegololosegilengleeetletsengyabobedijoboikaelelanggonyalana.</p>
+    <p>LelapakebongwefelajwasetlhophajwatlhagolemotheowaloagommelenaletetlayatshireletsoyabaagilePuso.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwaneloyagonnalethotoalenosikgotsaaetlhakanetselebabangwe.</p>
+    <p>Gagoopeyootlatseelwangthotontlelelebaka.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwaneloyakgololosegoyakakanyo,maikutlolebodumedi,tshwaneloe,eakaretsakgololosegoyagofetolabodumedikgotsatumeloyagagwe,lekgololosego,yafaalenosikgotsamokgobokanonglebabangwelemophatlalatsengkgotsamosephiring,gotsweletsabodumedikgotsatumeloyagagwekathuto,tiragatso,kobameloletshegetso.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwaneloyakgololosegoyamogopololetlhagiso‐maikutlo.Tshwaneloe,eakaretsakgololosegoyagonnalemogopolontleletshunyonko,legobatla,goamogelalegofetisatshedimosetsoledikakanyokabophasalatsibongwelebongwe,gosakgathalelwemelelwane.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwaneloyakgololosegoyakokoanoyakagisolekgolagano.</p>
+    <p>Gagoopeyookapatelediwanggonnalelokolamokgatlho.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletswhaneloyagonnaleseabemommusongwanagayagaabo,katlhamalalokgotsakabaemedibabaitlhophetswengkakgololosego.</p>
+    <p>Mongwelemongweonaletshwaneloyaphitlheleloeelekalekananggoditirelotsapusomonagengyagaabo.</p>
+    <p>Thatoyabathokeonamotheowabothatijwapuso;se,setlatlhagisiwakaditlhophotsanakolenakotsaboammaaruri,tseditlabongeletsaboditshabatshabammeditlatshwarwakaboutuyasephirikgotsakadithulaganyodingwetsedilekalekanangletsedigololosegilengtsagobouta.</p>
+  </li>
+  <li>
+    <p>Mongwelemongwejaakatokololoyabaagi,onaletshwaneloyatshireletsoyabaagimmeonaletetlayatemogokamaitekoabosetšhabaletirisanommogoyaboditšhabatšhabalegoyakathulaganyolemetswediyaNaganngwelenngwe,yaditshwanelotsedisaamologanngwengtsaekonomi,boagilesetsomoseritingsagagwelekgoloeegololosegilengyabothojwagagwe.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwaneloyagodira,mogoitlhophelenggogogololosegilenggabothapi,gmaemoaabotokaleabosiamiatirolegosirelediwakgatlhanonglebotlhokatiro.</p>
+    <p>Mongwelemongwe,ntleletlhotlhololoepe,onaletshwaneloyatueloeelekalekanangletiro.</p>
+    <p>Mongwelemongweyoodirangonaletshwaneloyamoputsosiamengleootshwanetseng,oomonetefaletsangmmogolebalelapalagagwebotshelojobotshwanelengseritisabotho,legookediwa,fagotlhokega,kamekgwayatshireletsoyabaagi.</p>
+    <p>Mongwelemongweonaletshwanelogobopalegonnalelokolamokgatlhowabadirigosireletsadikgatlhegotsagagwe.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwaneloyagoikhutsalegophuthologa,goakarediwadiuratsedilekanyeditswengtsagodiralemalatsiaaduelelwangakhunologomomotlhengmongwe.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwanelogomaemoabotsheloaalekanengphololeboitekanelojwagagwelebalelapalagagwe,goakarediwadijo,diaparo,ntloletlameloyamelemoleditirelotsabaagitsedibotlhokwa,letshwaneloyatshireletsegomolebakenglagosathapiwe,bolwetse,kgolafalo,botlhologadi,botsofekgotsagotlhokagoitsetsepelamomabakengaasengmotaolongyagagwe.</p>
+    <p>Bosadilebongwanabonaletetlayatlhokomeloeekgethegilenglethuso.Banabotlhe,batsetswemolenyalongkgotsakwantlegalenyalo,batlaitumelelatshireletsoyaloagoeetshwanang.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwaneloyathuto.Thutoetlannaeesaduelelweng,bonnyemodikgatongtsatshimologoletsamotheo.ThutoyaTshimologoetlannayapataletso.ThutoyaThekenikaleleyaphorofešeneetlatlamelwakakakaretso,mmethutoeekwagodimoetlatlamelwakagolekalekanagobotlhegoyakatlhokego.</p>
+    <p>Thutoetlalebisiwamokgodisongeetletsengyabothojwamotho,lemogotiisengtlotloyaditshwanelotsabotholemetheoyadikgololosego.Etlatsweletsagotlhaloganya,goitshokelanalebotsalanomoditšhabengtsotlhe,ditlhopatsasemorafekgotsatsabodumedi,mmeetlatsweletsaditirotsaDitšhabaKopanotsagotshegetsakagiso.</p>
+    <p>Batsadibanaletshwaneloyapeleyagotlhopamofutawathutoootlanewangbanababone.</p>
+  </li>
+  <li>
+    <p>Mongwelemongweonaletshwaneloyagonnaleseabekakgololosegommobotshelongjwasetsojwabaagi,goitumelelabotakilegorefosanyatsweleloyabonetetsilemaungoabona.</p>
+    <p>Mongwelemongweonaletshwaneloyatshireletsoyadikgatlhegotsabotholedithotogotswadikungwengtsabonetetsi,bokwadikgotsabotakitseelengmokwadiwatsona.</p>
+  </li>
+  <li>
+    <p>MongwelemongweonaletetlagotolamoyaloagoleyaboditšhabatšhabaemogoyonaditshwaneloledikgololosegotseditlhagisitwengmoMaipulelongadikadiragadiwangkabatlalo.</p>
+  </li>
+  <li>
+    <p>Mongwelemogweonaleditiromobaagingtseenakanosiananglebokgonijobotletsengjwakgoloyabothojwagagwe.</p>
+    <p>Mogodiragatsengditshwaneloledikgololosegotsagagwe,mongwelemongweotlalaolwafelakeditekanyetsojaakagotlhomamisiwakemolaomomabakengfelaagosireletsakamogeloletlotloyaditshwaneloledikgololosegotsababangweletsagofitlheleladitlhokegotsedisiamengtsabotho,tolamogobotlheleboitekanelokakakaretsomoloagonglwatemokerasi.</p>
+    <p>DitshwaneloledikgololosegotsegadinedidiragatswakamokgwaoselekgatlhanonglemaikaelelolemeonoyaDitšhabaKopano.</p>
+  </li>
+  <li>
+    <p>GagosepemoMaipolelonga,sesetshwanetsenggoranolwajaakasesekaelengNaganngwelenngwe,setlhopakgotsamothotshwanelonngwegonnamotiragatsongyatironngwekgotsagodiratironngweemaikaeleloayonaelenggosenyanngweyaditshwaneloledikgololosegotseditlhagisitswengmo.</p>
+  </li>
+</ol>

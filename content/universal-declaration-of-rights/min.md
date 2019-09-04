@@ -1,0 +1,123 @@
+<h1 align='center'>Deklarasi Sadunia Hak-Hak Asasi Manusia</h1>
+<h2 align='center'>Mukadimah</h2>
+<p align='center'>Sasungguahnyo pangakuan taradok martabat dasar dan hak-hak nan samo sarato mutlak dari tiok anggota kaluarga manusia adolah landasan dari kamardekaan, kaadilan dan pardamaian di dunia;
+Sasungguahnyo sikap tak paduli dan malecehkan hak-hak asasi manusia tabukti mangakibatkan parilaku biadab nan sangat malukoi nurani umat manusia, dan alah dicanangkannyo suatu dunia di ma tiok urang dapek manikmati kabebasan manyampaikan pandapek, bakayakinan, dan kabebasan dari raso takuik dan dari kakurangan, sabagai cito-cito paliang tinggi dari sadonyo urang;
+Sasungguahnyo supayo urang indak tapaso mamiliah barontak sabagai usaho pangabisan untuak manantang kazaliman dan panindasan, Hak-hak Asasi Manusia paralu dijamin malalui tartib hukum;
+Sasungguahnyo paralu bana mamajukan pangambangan hubuangan basahabat di antaro banso-banso di dunia;
+Sasungguahnyo dalam Piagam Perserikatan Bangsa-Bangsa sadonyo anggota alah mangukuahkan baliak kayakinan taradok hak-hak asasi manusia nan mandasar, taradok martabat dan nilai tiok urang, dan taradok hak-hak nan samo dari laki-laki jo padusi, dan batekad untuak mandorong kamajuan sosial sarato taraf iduik nan labiah elok dalam kamardekaan nan labiah gadang;
+Sasungguahnyo ikrar Negara-Negara Anggota, bakarajo samo jo Perserikatan Bangsa Bangsa, untuak mamajukan panghormatan taradok Hak-Hak Asasi Manusia dan Kamardekaan nan mandasar, supayo manjadi kanyataan;
+Sasungguahnyo paralu bana adonyo pamahaman nan samo tantang hak-hak dan kabebasan-kabebasan ko supayo dapek diwujudkan saluruahnyo sasuai jo ikrar, mako:
+Majlis Umum
+mancanangkan
+Deklarasi Sadunia Hak-Hak Asasi Manusia sabagai satu tolok ukua basamo untuak sadonyo urang dan sagalo banso, supayo tiok urang dan limbago dalam masyarakat sanantiaso mamparatikan Deklarasi ko, untuak manjamin pangakuan dan palaksanaannyo sacaro universal, di antaro sasamo banso Negara Anggota sarato masyarakat dalam wilayah nan dikuasoinyo, malalui pandidikan dan pangajaran untuak manumbuahkan raso hormat taradok hak-hak dan kamardekaan sapanjang maso, di tingkek nasional jo internasional.</p>
+<ol>
+  <li>
+    <p>Sadonyomanusiadilahiakanmardekadanpunyomartabatsaratohak-haknansamo.Marekadikaruniaiakajohatinurani,supayosatusamolainbagaulsarupourangbadunsanak.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakmanikmatihak-hakdankamardekaannantacantumdalamDeklarasiko,indakadopambedaan–umpamonyopambedaanras,warnokulik,jinihkalamin,bahaso,agamo,politikataupandanganlain,asa-usuakabansoanatautingkeksosial,kakayaan,kalahiranataupunkadudukanlainnyo.Laindaripadoitu,indakdiadokanpambedaanbadasarkadudukanpolitik,kakuasaanhukumataukadudukaninternasionaldarinegaraataudaerahasasasaurang,baiakbabantuaknegaramardeka,wilayah-wilayahparwalian,jajahanataubantuakkatarbatasankadaulatannanlain.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakuntuakiduik,untuakmardeka,dankasalamatansalakumanusiapribadi.</p>
+  </li>
+  <li>
+    <p>Indaksurangpunbuliahdipabudakataudisuruahkarajorodi;mampabudakdanmampadagangkanbudakdalamsagalobantuakmustidilarang.</p>
+  </li>
+  <li>
+    <p>Indaksurangpunbuliahdianiayoataudizalimi,ataudihukumsacarokajam,tidakbakamanusiaanataudihino.</p>
+  </li>
+  <li>
+    <p>Dimasajobarado,tiokurangpunyohakuntuakdapekparlakuansabagaimanusiadihadapanhukum.</p>
+  </li>
+  <li>
+    <p>Sadonyourangsamodihadapanhukum,dankaranotupunyohaknanindakbakacualiuntukmandapeklinduanganhukumnansamo.SakalianurangpunyohakmandapeklinduangannansamotaradoksagalopambedaannanbatantanganjoDeklarasiko,dantaradoksagaloancamannanmangarahpadopambedaansamacamitu.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakmandapekgantiruginyatomalaluiparadilannasionalnanbawenangdaritindakanuranglainnanmalanggahak-hakdasarnandimilikinyosasuaijoUndangUndangDasaratauhukum.</p>
+  </li>
+  <li>
+    <p>Indaksurangpunbuliahditangkok,ditahanataudiasiangkansacarosawenang-wenang.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohaknansamomandapekparadilannanadildantabukadipangadilannanbebasdantakmamihak,dalammampatahankanhakdankawajibannyo,saratodalamtioktuntutanpidananandidakwakankainyo.</p>
+  </li>
+  <li>
+    <p>Tiokurangnandidakwamalakukanpalanggaranpidanapunyohakdianggaptakbasalahsampaiinyotabuktibasalahsacarohukumdalamparadilanumum,daninyomandapeksagalojaminannanparaluuntuakmambeladiri.</p>
+    <p>Indaksurangpundapekdianggapbasalahmalakukantindakanpidananandisababkanmalakukanatautidakmalakukansasuatu,nanbukantamasuakpalanggaranhukumnasionalatauinternasionalkatikoparistiwaitutajadi.Baitupulo,indakbuliahmahukumlabiahbarekdarikatantuanhukumnanbalakukatikopalanggaranpidanaitudilakukan.</p>
+  </li>
+  <li>
+    <p>Indaksurangpunbuliahdigangguhakpribadinyo,kaluarga,rumah-tanggoatausurek-manyureknyo(pargaulannyo);baitupulokahormatanjonamobaiaknyo.Tiokurangpunyohakmandapeklinduanganhukumtaradokgangguanataupalanggaransaromanko.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohaktaradokkamardekaanmarantaudanpunyokadiamandidalambatehwilayahtioknegara.</p>
+    <p>Tiokurangpunyohakuntuakkaluadarisuatunegara–tamasuaknegaranyosurang,danbaliaklaikanegaranyo.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakmancaridanmanikmatisuakadinegaralainuntuakmalinduangidiridaripanganiayoan(dinegaranyo).</p>
+    <p>Hakkoindakbalakuuntuakdakwaankajahatannon-politik,ataukaranotindakannanbatantanganjotujuandanasas-asasPerserikatanBangsa-Bangsa.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakmamilikikawarga-negaraan.</p>
+    <p>Indaksurangpunbuliahdicabuikkawarga-negaraannyoatauditulakhaknyountuakmanukakawarga-negaraan.</p>
+  </li>
+  <li>
+    <p>Laki-lakijopadusinanakil-baligh,apopunras,banso,atauagamonyo,punyohakmanikahdanbakaluarga.Marekapunyohaknansamodalamurusankawin-mawin,baiakdimasoparkawinanataukatikocarai.</p>
+    <p>Parkawinanhanyodapekdilakukanbadasarpiliahanbebasdanpasatujuanpanuahpasangannanbasangkutan.</p>
+    <p>Kaluargaadolahkalompokalamiahdanmandasardarimasyarakat,punyohakmandapeklinduanganmasyarakatjoNegara.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakmamilikiharatosurang,baitupulobasamo-samojouranglain.</p>
+    <p>Indaksatuurangpunbuliahdirampokharatonyosacarosawenang-wenang.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakkamardekaanuntuakbapikia,bahatinuranidanba-agamo,tamasuakhakbatukaagamoataukaparcayaan;danpunyokamardekaanuntuakmanyatokanagamoataukaparcayaannyomalaluiajaran,amalan,pamujaandanibadat,baiaksurangataudalamkalompok,ditampekumumataupunsacaropribadi.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohaktaradokkamardekaanbapandapekdanmangamukokanpandapeknyo,tamasuakkabebasanuntuakmampatahankanpandapek–janditakan,danuntuakmancari,manarimodanmanyampaikanbaritodanbuahpikiranmalaluimediaapopunnanindakdiampang-ampangdekbatehnegara.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakuntukkamardekaanbakumpuadanbasyarikatsacarodamai.</p>
+    <p>Indaksurangpunbuliahdipasomasuaksuatuparkumpulan.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakuntuaksatodalampamarintahandinegaranyo,lansuangataumalaluiwakia-wakianandipiliahsacarobebas.</p>
+    <p>Tiokurangpunyohakmandapekkasampatannansamountuakdiangkekdalamjabatanpamarintahannegaranyo.</p>
+    <p>Kandakrakyatmustimanjadilandasankakuasaanpamarintah;kandakkomustidinyatokandalampamiliahanumumnandiadokansacarobarkaladanmurnijohakpiliahnanbasifatumumdansadarajat,saratopamungutansuarosacarorasioataupakaicarolainnansamo-samomanjaminkabebasanmanantukanpiliahan.</p>
+  </li>
+  <li>
+    <p>Sabagaianggotamasyarakat,tiokurangpunyohakmandapekjaminansosialdanpunyohakpulountuaktalaksananyohak-hakekonomi,sosialjobudaya,nanmutlakparaluuntuakmartabatdanparkambanganbebasdaripribadinyo,malaluiusaho-usahonasionaldankarajosamointernasional,sesuaijopangaturansaratosumber-sumberkakayaanditiokNegara.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakmandapekkarajo,bebasmamiliahjinihkarajo,punyohaktaradoksyarat-syaratkarajonanadildanpantas,baitupulopunyohakmandapeklinduangankatikomanganggur.</p>
+    <p>Tiokurang–indakbakacuali,punyohakdapekupahsamountuakkarajonansamo.</p>
+    <p>Tiokurangnanbakarajopunyohakdapekupahnanadildanpantasuntuakmanjaminiduiknyosurangdankaluarga,nansasuaijomartabatnyosalakumanusia,danjikoparaluditambahjolinduangansosiallainnyo.</p>
+    <p>Tiokurangpunyohakmandirikandanmasuaksyarikat-syarikatkarajountuakmalinduangikapantiangannyo.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakuntuakbaistirahatdanliburan,tamasuakpambatasannanlayaktaradokjamkarajo,dantatapdapekupahdihariperaiataukatikocuti.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohaktaradoktarafiduiknanmanjaminkasehatandankasajahteraandirijokaluarga,tamasuakmakanan,pakaian,saratopalayanansosialnanparalu,danpunyohakjaminankatikomanganggur,sakik,cacat,marando,masotuo,ataukailangannafkahsabagaiakibathal-halnandiluakamauannyo.</p>
+    <p>Kaumibujoanak-anakpunyohakmandapeklinduangandanbantuankhusus.Sakaliananak,nandilahiakandidalammaupundiluaparkawinan,mustimandapeklinduangansosialnansamo.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakmandapekpandidikan.Pandidikanmustiperai,paliangtidaktingkeksikolarandahjopandidikandasar.Pandidikandasarmustidiwajibkan.Pandidikankajuruandankaahlianmustitasadiountuaktiokurang,baitupulopaguruantinggimustitasadiountuaktiokurangsasuaijokamampuan.</p>
+    <p>Pandidikanandaknyodiarahkanuntuakmangambangkankapribadiansapanuah-panuahnyo,danuntuakmampakokohrasohormattaradokhak-hakasasimanusiadankamardekaannanmandasar.Pandidikandiadokanuntuakmanggiatkansaliangmangarati,toleransidanpasahabatandiantarosagalobanso,kalompokras,saratoagamo,danuntuakmanunjangkagiatan-kagiatanPerserikatanBangsaBangsadalammamaliaropardamaian.</p>
+    <p>Paraurangtuosahpunyohakuntuakmamiliahjinihpandidikanuntuakanak-anaknyo.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakmardekauntuaksatodalamkahidupankabudayaanmasyarakat,baitupulountuaksatodalammamajukanilmupangatahuan,danmandapekmanfaatnyo.</p>
+    <p>Tiokurangpunyohakmandapeklinduangantaradokkapantianganmoriljomaterilbakaitanjohasilkarajoilmiah,sastraataukaseniannandiciptakannyo.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyohakmandapekkatartibansosialdankatartibaninternasionaluntuakmawujudkansaluruahhak-hakdankabebasansasuaijoDeklarasiko.</p>
+  </li>
+  <li>
+    <p>Tiokurangpunyokawajibantaradokmasyarakatnanmarupokansatu-satunyotampekkapribadiannyodapekbakambangsacarobebasdansapanuah-panuahnyo.</p>
+    <p>Bateh-batehdalammawujudkanhak-hakdankabebasantiokurangkohanyobuliahadojikoditatapkanjoundangundangnanbatujuansamato-matountuakmanjamindiharagoidandihormatinyohak-hakdankabebasan-kabebasanuranglain,sasuaijosyarat-syaratnanadildarikasusilaan,katantramandankasajahteraanumumdalamsuatumasyarakatnandemokratis.</p>
+    <p>Hak-hakdankabebasan-kabebasankojansakali-kalidipagunokanuntuaktujuannanbalawananjoprinsip-prinsipPerserikatanBangsa-Bangsa.</p>
+  </li>
+  <li>
+    <p>IndakciekpunpasaldariDeklarasikobuliahditafsirkansabagaimanyatujuiadonyohaksuatunegara,kalompokatausasaurang,untuakmalakukankagiatanapopun,ataumalakukansasuatunanbatujuanmarusakhak-hakdankabebasan-kabebasannandiuraikandalamDeklarasiko.</p>
+  </li>
+</ol>

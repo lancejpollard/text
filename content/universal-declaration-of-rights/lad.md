@@ -1,0 +1,122 @@
+<h1 align='center'>Deklarasion Universal de Derechos Umanos</h1>
+<h2 align='center'>Prefasio</h2>
+<p align='center'>Konsiderando ke la libertad, la djustisia i la paz en el mundo tienen por baza el rekonosimiento de la dinyidad propia esensial i de los derechos iguales i no violavles de todos los miembros de la famiya umana,
+Konsiderando ke el deskonosimiento i el despresio de los derechos umanos tienen kavzado aktos de barbaridad ke solevantan la konsensia de la umanidad; i ke fue proklamado komo la aspirasion mas alta del ombre, la yegada de un mundo en el kual los umanos, liberados del espanto i de la mizeria, gozen de la libertad de la palavra i de la libertad de kreensias,
+Konsiderando ke es esensial ke los derechos umanos sean protejados por un rejimen de derecho, para ke el ombre no se veyga ovligado, komo ultimo remedio, de revoltarse kontra la tirania i la opresion,
+Konsiderando tambien ke es esensial de favorizar la formasion de relasiones de amistad entre las nasiones,
+Konsiderando ke los puevlos de las Nasiones Unidas afirmaron de muevo en la Karta sus fey en los derechos fundamentales del ombre, en la dinyidad i la valor de la persona umana i en la igualdad de derechos de ombres i mujeres; i se deklararon dechididos a favorizar el progreso sosial i a elevar el nivel de vida kon un konsepto mas ancho de la libertad,
+Konsiderando ke los Estados Miembros prometieron de asegurar, en kooperasion kon la Organizasion de las Nasiones Unidas, el respekto universal i efektivo a los derechos i libertades fundamentales del ombre, i
+Konsiderando ke una konsepsion komun de estos derechos i libertades es de la mas grande importansia para kumplir kompletamente la dicha prometa,
+La Asamblea Jeneral
+Proklama la prezente Deklarasion Universal de Derechos Umanos komo ideal komun ke deven esforsarsen de alkansar todos los puevlos i todas las nasiones para ke kada persona i kada asosiasion, inspirandosen siempre de esta deklarasion, perkuren, kon la ensenyansa i la edukasion, a espandir el respekto a estos derechos i libertades, i aseguren, por mezuras progresivas nasionales i internasionales, su rekonosimiento i su aplikasion universal i efektiva, tanto entre los puevlos de los Estados Miembros komo entre los de los territorios ke estan debasho de sus juridiksion.</p>
+<ol>
+  <li>
+    <p>Todoslosumanosnasenlibresiigualesendinyidadiderechosi,komoestanekipadosderazonikonsensia,devenkomportarsenkonermandadlosunoskonlosotros.</p>
+  </li>
+  <li>
+    <p>KadapersonatienetodoslosderechosilibertadesproklamadosenestaDeklarasionsindingunadiferensiaderasa,kolor,sekso,lingua,relijion,opinionpolitika,orijinnasionalososial,situasionekonomika,nasimientookualkieraotrakondision.Indemas,noseazeradingunadiferensiabazadaenlakondisionpolitika,juridikaointernasionaldelpaizoterritorioalkualapartieneunapersona,keseaunpaizindependente,ounterritoriobashoadministrasionlegal,nootonomo,osometidoakualkieraotralimitasiondesoverania.</p>
+  </li>
+  <li>
+    <p>Kadapersonatienederechoalavida,alalibertadialaseguridaddesupersona.</p>
+  </li>
+  <li>
+    <p>Dingunoestarasometidoaesklavajeniaservidumbre;elesklavajeielkomersiodeesklavosestandefendidosentodassusformas.</p>
+  </li>
+  <li>
+    <p>Dingunoserasometidoatorturasniapenasotratamientoskrueles,inumanosodegradantes.</p>
+  </li>
+  <li>
+    <p>Kadaunotienederecho,entodaspartes,alrekonosimientodesupersonalidadfrentealaley.</p>
+  </li>
+  <li>
+    <p>Todossonigualesfrentealaleyitienenderechoalaproteksionigualdelaley.TodostienenderechoaunaproteksionigualkontratodadiskriminasionenviolasiondeestaDeklarasionikontratodaprovokasionataladiskriminasion.</p>
+  </li>
+  <li>
+    <p>Kadapersonatieneelderechodeadresarsealostribunalesnasionalesparatoparunremedyoefektivoenkavzodeviolasiondesusderechosfundamentalesrekonosidosporlakonstitusionoporlaley.</p>
+  </li>
+  <li>
+    <p>Dingunonopodraser,arbitrariamente,detenido,metidoenprezo,odeportado.</p>
+  </li>
+  <li>
+    <p>Kadapersonatienederecho,enperfektaigualidad,deserdjuzgadoaviertamenteikondjustisiaporuntribunalindependenteiimparsial,paraladeterminasiondesusderechosiovligasionesoparaexaminarkualkeraakuzasionkriminalkontrasupersona.</p>
+  </li>
+  <li>
+    <p>Todoelkeestaakuzadodeofensakeyevakastigotieneelderechodeserkonsideradoinosente,astakeesprovadokulpavle,segunlaleyieldjuisiopublikokeleasiguralasgarantiasmenesterozasparasudefensia.</p>
+    <p>Dingunoserakondenadoporkavzadealgunaktooomisionkenoerakastigavleasegunlaleynasionalointernasionalenelmomentokeelaktofuekometido.Nisepodraimpozarkastigomasgravedelkeeraaplikavleenelmomentokeelaktofuekometido.</p>
+  </li>
+  <li>
+    <p>Dingunoserasometidoaintervensionesarbitrariasensuvidaprivada,sufamiya,sukazaokorrespondensia,niaatakossovresuonorosufamiya.Todostienenelderechodeserprotejadosporlaleykontraestemododeintervensionesoatakos.</p>
+  </li>
+  <li>
+    <p>KadapersonatienederechodesirkularlivrementeielejirsumoradaadientrodelasfrontierasdeunEstado.</p>
+    <p>Todostienenelderechodesalirdekualkierpaiz,inkluyendoelsuyo,iretornarasupaiz.</p>
+  </li>
+  <li>
+    <p>Enkavzodepersekusion,kadaunotieneelderechodebushkaritoparaziloenotropaiz.</p>
+    <p>Estederechonopodraseraplikadokontraunaaksiondjuridikaenkavzosdeaktoskriminalesnon-politikos,odeaktoskekontradizenlosprinsipiosdeLasNasionesUnidas.</p>
+  </li>
+  <li>
+    <p>Kadapersonatienederechoaunanasionalidad.</p>
+    <p>Dingunonopodraserprivado,arbitrariamente,desunasionalidad,nidelderechodetrokardenasionalidad.</p>
+  </li>
+  <li>
+    <p>Losombresilasmujeresdeedaddekazarsentienenderecho,sindingunarestriksionpormotivosderasa,nasionalidadorelijion,dekazarsenifondarunafamiya.Eyostendranderechosigualesenelkazamiento,duranteelmatrimonioienkavzodedisolusiondelmatrimonio.</p>
+    <p>Elkazamientosepodraazersolokonelkonsentimientolibreikompletodelosfuturosespozos.</p>
+    <p>LafamiyaeselelementonaturalifondamentaldelasosiedaditienederechoalaproteksiondelasosiedadidelEstado.</p>
+  </li>
+  <li>
+    <p>Kadapersonatienederechodetenerunapropiedadindividualodjuntoskonotradjente.</p>
+    <p>Dingunonopodraserprivadodesupropriedadarbitrariamente.</p>
+  </li>
+  <li>
+    <p>Kadapersonatienederechoalalibertaddepensamiento,dekonsensiaiderelijion;estederechoinkluyelalibertaddetrokarderelijionodekreyensa,ilalibertaddemanifestarsurelijionosukreensia,soloodjuntoskonotros,tantoenpublikokeenprivado,paralaensenyansa,lapraktika,elkultoilaobservasion.</p>
+  </li>
+  <li>
+    <p>Kadaunoiunotienederechodelibertaddeopinionideekspresion.Estederechoinkluyeeldenoestarmolestadoakavzadesusopiniones,ibushkar,resivir,idifundirinformasioniideas,porkualkermediodekomunikasion,sinlimitasiondefrontieras.</p>
+  </li>
+  <li>
+    <p>Kadapersonatienederechodelalibertaddereunionideasosiasionpasifika.</p>
+    <p>Dingunopodraserovligadoaaparteneraunaasosiasion.</p>
+  </li>
+  <li>
+    <p>Kadapersonatienederechodepartisiparenelgovernodesupaizdirektamenteopormediodereprezentanteslibrementeeskojidos.</p>
+    <p>Kadapersonatienederechodepartisiparalgovernodesupaizenkondisionesdeigualidad.</p>
+    <p>Lavoluntaddelpuevloseralabazadelaautoridaddelgoverno.Estavoluntadseekspresarapormediodeeleksioneslegaleskeseranorganizadasregularmentekonvotasionuniversal,igualisekreta,odemaneraekivalenteenprotejandolalibertaddelvoto.</p>
+  </li>
+  <li>
+    <p>Kadapersona,komomiembradelakomunidad,tienederechoalaseguridadsosial,imerese,pormediodeesforsosnasionalesidelakooperasioninternasional,ienakordokonlaorganizasionilosrekorsosdekadaestado,alarealizasionilasatisfaksiondelosderechosekonomikos,sosialesikulturalesindispensavlesparasudinyidadiallibredezvelopamientodesupersonalidad.</p>
+  </li>
+  <li>
+    <p>Kadapersonatienederechoallavoro,aeskojersulavorolibremente,akondisionesdelavorodjuisiozasifavoravlesialaproteksionkontraladezokupasion.</p>
+    <p>Kadapersona,sindingunadiskriminasion,tieneelderechodepagamientoigualporlavoroigual.</p>
+    <p>Kadapersonakelavoratienederechoaunpagamientodjustoifavoravle,elkualasiguraraparaelisufamiyaunaexistensiakonformealadinyidadumana,ikeseraadjustado,siaymenester,porotrasformasdeproteksionsosial.</p>
+    <p>Kadapersonatieneelderechodefondaridepartisiparensendikatosparaprotejarsusinteresos.</p>
+  </li>
+  <li>
+    <p>Kadapersonatieneelderechoderepozo,degozarsedeltiempolibre,inkluzolalimitasiondjuisiozadelasorasdellavoroivakansasperiodikaspagadas.</p>
+  </li>
+  <li>
+    <p>Kadapersonatienederechoaunniveldevidaadekuadoparalasaludielbienestarsuyosidesufamiya–inkluzoelkomer,elvistir,lamorada,laasistensiamedikalilosservisiossosialesmenesterozos;demizmo,eltienederechodeserasiguradoenkavzosdedezokupasion,hazinura,invalidez,bivdez,vejeziotroskavzosdepiedritadelmantenimientoporsirkonstansiaskenodependendeel.</p>
+    <p>Lasmadresilosrezinnasidostienenderechoakudiosespesialesiaayudo.Todaslaskriaturas,nasidaskomofrutodekazamientolegal,ono,gozarandelamizmaproteksionsosial.</p>
+  </li>
+  <li>
+    <p>Kadapersonatienederechoalaedukasion.Laedukasiondeveserdebaldes,alomankoenelnivelelementarioifundamental.Laedukasionelementariaseraovligatoria.Laedukasionteknikaiprofesionaldeveserjeneralmentedisponivle;elaksesoalosestudiossuperioresseraigualparatodos,tomandoenkonsiderasionlosalkansesdekadaunoiuno.</p>
+    <p>Laedukasiontendraporbutoeldezvelopamientokompletodelapersonalidadumanaielenfortesimientodelrespektoalosderechosumanosialaslibertadesfundamentales;favorizaraelentendimiento,latolerensiailaamistadentretodaslasnasionesitodoslosgruposetnikosorelijiozos;isolevantaralasaktividadesdelasNasionesUnidasparaelmantenimientodelapaz.</p>
+    <p>Losdjenitorestendranderechoaeskojereltipodeedukasionkeeyospreferandarasusijos.</p>
+  </li>
+  <li>
+    <p>Kadapersonatienederechodetomarparte,libremente,enlavidakulturaldelakomunidad,agozardelosartesiapartisiparenelprogresosientífikoiaaprovecharsedesusrezultados.</p>
+    <p>Kadapersonatienederechoalaproteksiondelosinteresosmoralesimaterialeskerezultandelasproduksionessientifikas,literariasoartistikaskefueronsukreasion.</p>
+  </li>
+  <li>
+    <p>KadapersonatienederechoaunordensosialiinternasionalenelkualserealizarankompletamentelosderechosilibertadesproklamadosenestaDeklarasion.</p>
+  </li>
+  <li>
+    <p>Kadapersonatienedeveresenrespektoalakomunidad,porkesupersonalidadpuededezveloparsekompletamentesoloenlakomunidad.</p>
+    <p>Enelexersisiodesusderechosidesuslibertades,kadapersonaestarasolamentesujetaalaslimitasionesestablesidasporlaleykonelunikobutodeasegurarelrekonosimientoielrespketodelosderechosilibertadesdelosotros,idesatisfazerlasdjustasexijensiasdelamoral,delordenpublikoidelbienestarjeneralenunasosiedaddemokratika.</p>
+    <p>EstosderechosilibertadesnopodranenningunkavzoserexersidosenopozisionalosbutosiprinsipiosdelasNasionesUnidas.</p>
+  </li>
+  <li>
+    <p>DingunartikoloenlaprezenteDeklarasionpodraserinterpretadoenelsentidokedaderechoaalgunEstado,aungrupooaunapersona,detomarparteenaktividadesoderealizaraktoskonelbutodedestruirkualkierdelosderechosilibertadesproklamadosenestaDeklarasion.</p>
+  </li>
+</ol>

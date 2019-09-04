@@ -1,0 +1,122 @@
+<h1 align='center'>NZUO LYA MAPAPILO NYI KUSAKULA TCHA KUTESA MUKANDA UA MUTCHIFUTCHI TCHESWE YA KUSAKULA TCHA ATHU ESWE</h1>
+<h2 align='center'>Kuputhuka</h2>
+<p align='center'>Hakukonsiderala ngwo kunyinguika ya vumbi ya kusa ha usoko eswe nyi kusakula jhó jhimuwikha
+Jakulinga ye fundamentu ya kulenguluka ya ululi ya zango mutchifutchi ;
+Hakukonsiderala ngwo kanyinguikine , kupala tcha kusakula tcha athu, yatuala ku yuma yipe ize ya kuasunga mu mana jha atu nyi maliji jha tchifutchi chize atu eswe etche alingue, ahanjike ,atayze, hanga atchine mu lamba, ya isako ngue yuma yatamba kukaula athu eswe.
+Hakukonsiderala ngwo tchatamba kufunga tche kusakula tcha athu ha imwe regime ya kusakula, hanga athu atchine kulinga ize azanguile,mu kutchina, ha kuhiluka ya yuma yipe nyi matamiso;
+Hakukonsiderala ngwo tchatamba kukuasa kukolesa wue usepha hali ifuchi;
+Hakukonsiderala ngwo, ha mukanda, wua athu jha ifutchi alikuata kanambe, nawa, ngwo ufulhelo wuo ha kusakula tcha athu, ha vumbi lia athu eswe, ha kulifa ya kusakula jha malunga nyi mapwo mba yaha yuma yakulinga ha kukuasa yuma inende heswe nyi kulinga yuma yipema ha muono hua mutchima tcha kulenguluka tchinene;
+Hakukonsiderala ngwo mavungo akwo halithunjika alueze, kulikuasa nyi akuakululieka ifutchi ya linunga, lie vumbi lia mutchifutchi nyi zango lha kusakula tcha athu nyi kukola tcha kulenguluka;
+Hakukonsiderala ngwo kupwa tchimuikha tcha kusakula nyi kulenguluka ye ya ulemo inene hanga ahane kuuaha ya lhitayza tchatcho:
+Ye Asembeleia Yeswe Hakusa ye declaraçao ya mutchifutchi tcheswe ya kusakula tcha athu ngwe ipema uikha ha kuheta kuli athu eswe ku ifutchi yeswe, hangta athu eswe nyi jhe milimo,jipwe mu espiritu, alikolueze, ku ulongueso ua vumbi ya kusakula nyi kutuaka, kuluthue mu membo nyi kusuku, tche kunyinguika tcha kusa yuma kuswe nyi zango hali athu jha mue muihunda hakamuihi, tchize ngue yfutchi aysa hali akua ululi.</p>
+<ol>
+  <li>
+    <p>Athueswekakusemukangweakwo,kuvumbinyihakusakula.Kalinyimana,mbamahasakulingaumwuhalimukwonyiespirituyakulikuasa.</p>
+  </li>
+  <li>
+    <p>Athueswemahasakulingayumaanazanguenyikusakulahaynodeclaraçao,kandaalingakatondehaliathuakumavunguekha,hanjhihamalunganyimapwo,hamalinji,hangueleja,hapoliticanyihayumaikuo,hamumaihunda,haupite,hakusemukanyihesuaho.Hatchotchoketchikulinganyiumwukatondehakuputukakushimbi,yanguvulu,ululi,hanjiyfutchiikuotchipwekuzeasemukinemuthu,tchipwetchifutchitchalihandununa,hakutuamaukawohanjihaumuenguvulu.</p>
+  </li>
+  <li>
+    <p>Muthumuswemahasakusakulamuono,liberdadenyikulifunga.</p>
+  </li>
+  <li>
+    <p>Nyiumweketchikapuakapinji,hanjikulinguila,upinjinyikutalatalayatupinjihaliyuma,kakuakanjisa.</p>
+  </li>
+  <li>
+    <p>Nyiumueketchikulitualahalambanyikumutalatalatchipihitchauthuko.</p>
+  </li>
+  <li>
+    <p>Athueswemahasakusakula,hakunyinguikahayhelayesweyaathuaululi.</p>
+  </li>
+  <li>
+    <p>Esweamuikhahakutualahashimbi,hinyikatondeko,mahasakusakula,apuenyikufungashimbi.Eswemasakulakufungatchalifahalitchesuetchokutalatalamutchihandununahatchumatcheswe,akautualahatchesuatchokutalatalatchalamba.</p>
+  </li>
+  <li>
+    <p>Muthumueswemahasakusakulahangaatualekuliakuaululi,uazeanalingueyumakuyapemenekumesojanguvuluakuashimbi.</p>
+  </li>
+  <li>
+    <p>Nyiumueketchikumusamumulongahanjhimuphoso.</p>
+  </li>
+  <li>
+    <p>Muthumueswemahasakusakula,kulifanyiakuo,yumaatelaayluezekuliakuaululiuazekeshimasepha,hangaatalekuyumayenyi,hangaaytanguenguetchizeshimbiinambe.</p>
+  </li>
+  <li>
+    <p>Muthumueswemambanguoyumaypialinga,nyikaylinguile,mahasakuitahangaamufunguenyiafuphendomuzemamonayozeuailinga.</p>
+    <p>Nyiumweketchikamuambungonakuyumaanalhingue,nyikuyapemenemutchihundahanjhimuyfutchi.Tchizetchene,ketchikamusamulongaulemunguemuzealingangayuma.</p>
+  </li>
+  <li>
+    <p>Nyiumuekeshikamunjilamumuonouenyi,muusoko,hanjimunzuo,hanjimikanda,nauakumuihiavumbi.Hayumayatcho,athueswekalinyiakuaululiafungue.</p>
+  </li>
+  <li>
+    <p>Muthumuesuemahasakusakulakuzeanazanguekusanzuolienyi.</p>
+    <p>Muthumuesuemahasakuetchatchifutchitchenyi,nyimuzeathunga,mbamahasakuhilukanawamutchifutchiotchenyi.</p>
+  </li>
+  <li>
+    <p>Muthumuesuemuzemamukaula,mahasakufuphayfutchiyekhahangaathungueko.</p>
+    <p>Kusakulatchatcho,kandaatchimonanguekalingatchipikumesojamanguvulu.</p>
+  </li>
+  <li>
+    <p>Muthumuesuemahasakupuavungulienyi.</p>
+    <p>Nyiumueketchikumuambanguohangaatchinekupuanyivunguliekha.</p>
+  </li>
+  <li>
+    <p>Tchizehamiakaytangu,lunganyipfwo,mahasakulimbatanyikuthungausoko,ketchikunyongakuvunguhanjhimavungunyingeleja.Muzealhimbatandomuzemalhilakulaeswemahasakusakula.</p>
+    <p>Umbatchisoketchikuulinganyiakuakulimbatakazanguile.</p>
+    <p>Usokoueuahianamuyfutchi,nomahasakusakulayozemafungamuunguvulu.</p>
+  </li>
+  <li>
+    <p>Muthumuesue,ukhauenyihanjhinyiakuo,mahasakupuanyiupite.</p>
+    <p>Nyiumueketchikumuambilaupiteuenyi.</p>
+  </li>
+  <li>
+    <p>Muthumuesuemahasakusakulanyikunyonga,hangueleja;mahasakuyakunguelejayekha,hanjiahanjiketchekahakutualakungueleja,ukhauenyihanjinyiakuo,halhiathueswenyihaukhauenyi,hakuulongueso,hakulinga,hamalijinyiimbanda.</p>
+  </li>
+  <li>
+    <p>Muthumuesuemahasakusakulayzemamba,yzeanzajangue,inambenguoketchikumuambatchipikuyzeanyonga,nyikumufupha,hangaatambuleutelumuno.</p>
+  </li>
+  <li>
+    <p>Muthumuesuemahasakusakulanyiyozemalinungaalhingueyumaypema.</p>
+    <p>Nyiumueketchikumunumguisakuliakuonyikazanguile.</p>
+  </li>
+  <li>
+    <p>Muthumuesuawo,mahasakupuakulutueliamilhimojamutchifutchitcheny,tchipuemuenehanjiuazematongola.</p>
+    <p>Muthumuesuemahasakupua,ngueakuo,hamilimoyaathueswemutchifutchitchenyi.</p>
+    <p>Ndoathuesweapuekanaua,mbahangaahasekutongolayozemapuanguvulu,muzematongolamutukuejihatukuji,kulieswe,nguetchizeshimbiinambe.</p>
+  </li>
+  <li>
+    <p>Muthumuesuawo,mahasakupuanyiukuasouanguvulu,mahasakuitaanyinguikehakutualakuupite,hakundako,tchatambakutatamisaakuakukuasayfutchi,haukuasouaakuakulinganyiyumaylhimuyfutchi.</p>
+  </li>
+  <li>
+    <p>Muthumuesue,mahasakukilhikita,nyiyzeazangahamilhimonyihakutchinakupuanayo.</p>
+    <p>Eswemahasakupuanyimilhimonyiufetongueakuo.</p>
+    <p>Yozeuakilhikitandomamufetahangaevakuwaha,hangausokojenhiatuamekanaua,nyiafunguekuyumaykuoyeswe.</p>
+    <p>Muthumuesuemahasakuputhukanyiathuakuo,mazuwohangaatalhileyumayo.</p>
+  </li>
+  <li>
+    <p>Muthumuesuemahasakusakulanyikuhuima,hanjinyikutchinakukilikita,welondomamufetamumukanahuimi.</p>
+  </li>
+  <li>
+    <p>Muthumuesuendomapuanyimuonoupema,mbaahasekuhindukahamuikhanyiusoko,tchatambahakutualakukulha,kukuzala,kuupombelo,kumandotolonyinauahamilhimoyaakuakukuasa,nyikakilhikithiletchatambakuakuasa,kuikola,nyiuafisalunga,haushinakajinyihayumaykuoyzeketshikuhasakulhinga.</p>
+    <p>Anayenyianandomakuasa.Tuanukeeswe,asemukamutchimahanjikusukuliaatato,nondokuakuasa.</p>
+  </li>
+  <li>
+    <p>Muthumuesuendokumulonguesa.Kulhilonguesatchatamabilekutchifeta,mumutchatambaeswekunyinguika.Ndomanyinguikaeswe.kulhilonguesatchikuotchakueswe;Ndokulhilonguesanyitatchimbauazeanazangueahasekulhindotolala.</p>
+    <p>Kulonguesatchatelamuthunyimuthu,wuelondokulhikoluezambahangaahasekunhingueka,apuemasephanyimavunguakuohanjhikauangueleja,nyinauahakutualakuluthuezangomumavungueswe.</p>
+    <p>Atatoemasakulanyiananyinguika,tchizemalonguesaano.</p>
+  </li>
+  <li>
+    <p>Muthumuesuemahasakusakulayzemalhingahakutualakundakojamumaihunda,nyikukuasahangatchifutchitchilhingueyumaypema.</p>
+    <p>Eswemahasakusakulayzeyatambakukaulanyiyzemalhingangueakuamana,hanjhiakuakuimbanyikusoneka.</p>
+  </li>
+  <li>
+    <p>Muthumuesuemahasakuthumina,mutchihundanyimuyfutchi,ynoshimbimuyhasakutualahauthulhikilouaynopapilo.</p>
+  </li>
+  <li>
+    <p>Muthumuesuendomalhinguilatchihunda,nekhaketchikulhingakuekhahangaatualevumbiliajinalienyi.</p>
+    <p>Hakulhingaynoyumanyiumuekasokupuakohanjihashimbijizemakaulahangaalhingueyumatchizetchatambambahapuevumbihalieswe,hakutualakulhiyesuenyiesweatuamekanawa.</p>
+    <p>Hatchumatchesuatchotchakusakulanyikulhingayeswe,kandanukalhingayumayekhayzemavungualikuatakazanguile.</p>
+  </li>
+  <li>
+    <p>Nyimweyumayamunomukuambilaketchikaytesanyimumayhundayesuayo,muusokohanjhiumuwikhakalhinyithajhijakuhanamilhimoyesuayohanjhihakulhingayesuayoyumayakupupatchekusakulatchaathuanambeakuno.</p>
+  </li>
+</ol>

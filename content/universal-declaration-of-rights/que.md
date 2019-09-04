@@ -1,0 +1,122 @@
+<h1 align='center'>TUCUY RUNACUNAPAC HATUM RIMAY</h1>
+<h2 align='center'>CALLARI</h2>
+<p align='center'>Yuyashpa ima shina quishpiri, taripa, sumac causay pachapi, mashcanga ricsipi cusilla causayta, ayacunapi mana pi miticuchum, runacunapac ucullapi tián.
+Yuyashpa mana ricsicuna runaman millayhuán ricuchum ñausashina pishihuán. Caycuna tucuy llaquicunata apamushca; chaymantami tucuylla ninchic, runacuna, pacha callaricpi mana manchay, huaccha llaqui charic carca, quishipita munashpa, rimaytapes cusilla cacharishpa, paycunahuánmi huiñarca.
+Yuyashpa runacunapac ancha allimi taripacuna mitsachum, mana runacuna cayta ricushpa hatum piñayhuán jatarichum.
+Yuyashpa mashcanami llactacunaman, pay pura, mayjanpes cachum tandarishpa alli causayta catina.
+Yuyashpa imashinami llactacuna tinguinacushca HATUM SUYUPI, catishpa alli yuyayhuán quella rurashcata, mana astahuán runacunata llaquichichum sumaclla cari, huarmicuna shuc maquillahuán causachum; chaymanta ninchic, puricunahuán shucla pachaman chayashum quishpicunahuán.
+Yuyashpa imashina llactacunapes mingayta rurashca, tandarishca mama suyupi, rimayta cushcami tucuy runa quishpihuán causachum.
+Yuyashpa chay taripacunaca astahuán allimi tucuyllacunapac, runacunapac, maypipes tiacuchum cay ura pachapi.
+HATUM TANDARI
+Nin, cay shuricunata, tucuy runacuna uyachum, imashina llactacuna, utiuc, hatum cachum tandari quipa sumacta rimarishpa, tutamanta, punlla, chishi, tuta cachum, llactacunallatac, ayllucunaman runacunama yachay huasipi shina yachachinga cay nishcacunata. Chaymantami pacarina shina llugshinga quishpicuna, alli causaycuna tucuypaglla.</p>
+<ol>
+  <li>
+    <p>Tucuyrunacunaquishpirihuánhuiñán,pactacunahuampes,paypura,umahuán,ayahuánchayshucunashina,chaymantamishucllashinacausangacuna.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunapaycunapaccharínquishpita;rimaycunapinishcata,misho,yana,quillucachum,cayta,chaytanichum,rimachum,Pachacamaccharichummanacharichum,chariccachum,manachariccachum,caypihuiñashcacachum,shuctacllactapihuiñashcacachum.Chasnalatacmanaastahuánallillactacangachu,paypacallpacunashuctacmaquicunapitiacuc,quishpillacacpipes.Quishpicunatasisachinallami,millayrunacunamunacpi,manamunacpi.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamiquiquincausayta,quishpitacharín,manapishuashinacaminga.</p>
+  </li>
+  <li>
+    <p>Manapicaypachapiyanacuna,mitayucunacanga;yanacatucanchurichumtucuyllactacunapi.</p>
+  </li>
+  <li>
+    <p>Manapiñacaychinga,pingaymacaycunatapesmanacungachumrunacunaman.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamipaycunapacquiquincausaytacharíntaripaallichicunahuán.</p>
+  </li>
+  <li>
+    <p>Tucuymichasnallataccantaripañaupapi,tucuymipaypacallimaquipichuraringa.Tucuymishucllacausaymantahuiñarcanchic,manapicaytaquichuchum.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamitaripahuasicunamanchayanga,chaypimashcangapacmanachayshuccunamillaytamashcachum.Hatumquellacunamitucuyllactacunapicaytucuytaricungasinchiñahuihuán.</p>
+  </li>
+  <li>
+    <p>Manapiamsaucumanapanga,shuctacallpacunamantapespisurcunga.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamishinallataccangaquiquinpurashina,caypicapaynishcacunatauyangacuna,rucucunacacpi,taripacacpi,chaypimiquellacunataricungamanamillaytauyashpa.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamillaquitacharishpapaypacmillacunahuánmashcangamanachaychunishpa,imashinataripacunanin.Yayataripacunamashcangamitsata.</p>
+    <p>Manapiamsaucumanapangapandarinishcamanta,imashinaninquiquinllactacunapacquellca,mashcanacungamihaumllaquichi,tucuyllaallíricuyhuánricushpa.</p>
+  </li>
+  <li>
+    <p>Manapishuctacmiticucpiurmangaquiquincausaypi,ayllucunapipes,allishutipipesillaringachasnacunamillaytacushcanishpaca.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamimaipipespuringallami,paypacallpallactapi.</p>
+    <p>Tucuyrunacunamillugshingallashuctanllactacunaman,cutínpaypacquiquinllactamantigrangapac.</p>
+  </li>
+  <li>
+    <p>Picaticucpi,runacunamaypimiticunatamashcan,manapichaymantacallugshichinga,mayjanllactapicachum.</p>
+    <p>Caymiticunapi,masnataripanicpi,runamillaycacpipesmanallactacayahuánricunga.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunaquiquinllactatacharinga.</p>
+    <p>Manapimanquiquinllactataquichunga,nishpapesshuctalallactatamashcanga.</p>
+  </li>
+  <li>
+    <p>Caricuna,huarmicuna,longocunacashpa,manapimunashpashuctaccarahuán,shuctacllactahuántinguinacungallamiyaya,mamacangapac,chasnacausangallamiallitandarishca,tinguinacuymicari,huarmizapallasaquiricpi.</p>
+    <p>Cari,huarminicpilatinguinacungacuna.</p>
+    <p>Ayllucunañaupamantashamun,paycunamitucuyallpapitandarishpallactatarurán.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamipaycunapacquiquinallpatacharinga,paycunala,hatumtandaripacpes.</p>
+    <p>Manapaycunapacallpacunataquichunga.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunayuyayquishpita,Pachacamacyuyactacharín;chaylapitacsaquingacunaPachacamacyuyayshuctacyuyacunahuán.Caycunatacapaylatac,tandarishcacacpipeschayshuccunauyachumyuyaycunapicacharichum.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamiyuyanata,rimanataquishpichingalla.Manapipaypacyuyaycunamantacaminga,quichunga.Rimaycunatapescacharincunallamicaycunaallicacpiushacunatacatishpaimashinapescachum.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamiquishpitandaycunarurangamanapipiñachichum.</p>
+    <p>Manapicaytandaycunamanpiñanishpaapanga.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamillactacamayucunapicuragashinarurangapaylatac,shuctaccunapishutipi.</p>
+    <p>Tucuyrunacunamicamayuccunamanchayanga,manashuccunaastahuánchayshucanahuáncachum.</p>
+    <p>Ayllucunapacquiquinyuyaycunahuáncamayucunatapurichinga;chaycunatacaalliacllayhuánmashcanga;cayalliacllatandaricahuata,huataquiparuraringa,acllapicaupallashitanga,amashitayamsapichingarichum.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamiayllupaccashpacharingacunasumacricuy,llactacunallapitacquiquinpuramashcangacuna,paycunapacanchaministicuna,allíyuyaycunahuántucuycausachum.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamillangatacharingapaycunalatacmillangamaytamashcanga,manachasnallashitashcacausangapac.</p>
+    <p>Tucuyrunacunamiallicullquitajapinga,manashuccunacaalli,chayshuccunacayaricaypuchucunahuán.</p>
+    <p>Tucuyrunacunamipaypacllangacunamantacullquitajapinga,pay,huarmi,huahuaayllucunamicunapac,churanapaccharichum.</p>
+    <p>Tucuyrunacunaminishpacatandaritaruranga,paylatacchaypitandaringashuctaccunahuán.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamisamaytacharingallangaquipaca,chasnallatacpunllacunapicayta,chaytapuringa,rimangashuyunataquichungapac,chaypaccacullquitajapinga.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamiallicausaytacharinga,paypachuarmi,huahuapeschasnallataccausanga,unguytaquichushpa,micunapesallicachum,churanacuna,huasitapestucuyllamicharinga;manallangacharishpa,unguyhuán,rucuyashpa,huacchayashpahatumapucunatucuytachasnacachumricunga.</p>
+    <p>Chichuhuarmipes,llulluhuahuacunapesallicausaytamicharinga.Tucuyllulluhuahuacuna,tinguymanatinguyhuiñashca,chasnallatacshumaycausaytacharingacuna.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamiyachachihuasimanchayanga.Yachaycamanacullquihuánrandinachu,tucuypacmiyangallahuahuahuasicunamantahatumyachayhuasimanringa.</p>
+    <p>Yachachimicangaumahatumhuán,aichasinchiyachum,chaylapitacquishpitaapachumtucuyllactacunatandarichumsumaclla,quiquinpuraallicausachum.</p>
+    <p>Yayacunapaycunalatacmashcangamanashcayachachitachuri,hushushicunaman.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamipaypacayllucunapaccausaytacausanga.Hatumyachanacunatapesministishpamashcangapaypacchayshucunapapes.</p>
+    <p>Tucuyrunacunamiyachayucmantajapingamasnapaymantashuctacyachayuccuchum.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamipaypacquiquinllactapi,chayshucllactacunapipesquishpicunata,allicunatapeshatumquellcapinishcatataringa,imashinallactamamarurarca.</p>
+  </li>
+  <li>
+    <p>Tucuyrunacunamichayshuccunahuánllactamananchatacuyanga,paycunalatacquipacaquishipirichum.</p>
+    <p>Caytucuynishcacunatatucuyllamiyachan,chaymantamihuaquichinamanachingarichum;ayllucuna,llactacunasumacllatiachum,manachayshucunamanquichushpa,camishpa,millashpa.Llactacunaallashayarichum,quipamanahuacangapac.</p>
+    <p>Cayquishpicunacamanapijapingachujarcangapacmanahatumllactanishcacunata,paypachatumtandariquipa.</p>
+  </li>
+  <li>
+    <p>Manaimacayrimaycunamantarimanallachu,shuctacllactacunacamanacaytajapingachuquiquintarurangapac,runacunapes,ayllucunapesmanashinallatacpaypaccausaypichurungachayshuccunamanquichushanishpacayasumacrimayta.</p>
+  </li>
+</ol>
