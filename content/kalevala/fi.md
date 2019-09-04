@@ -459,7 +459,7 @@ itse tuon sanoiksi virkki:
 "Kave äiti, kantajani,  
 luonnotar, ylentäjäni!  
 Laitapa ve'en väkeä  
-- veessä on väkeä paljo -  
+\- veessä on väkeä paljo \-  
 tämä tammi taittamahan,  
 puu paha hävittämähän  
 eestä päivän paistavaisen,  
@@ -470,7 +470,7 @@ Ei tuo ollut suuren suuri
 eikä aivan pienen pieni:  
 miehen peukalon pituinen,  
 vaimon vaaksan korkeuinen.  
-Vaski- oli hattu hartioilla,  
+Vaski\- oli hattu hartioilla,  
 vaskisaappahat jalassa,  
 vaskikintahat käessä,  
 vaskikirjat kintahissa,  
@@ -654,7 +654,7 @@ Luojan sormien lomitse,
 käen kautta kaikkivallan  
 tälle maalle kasvavalle,  
 ahollen ylenevälle.  
-"Akka manteren-alainen,  
+"Akka manteren\-alainen,  
 mannun eukko, maan emäntä!  
 Pane nyt turve tunkemahan,  
 maa väkevä vääntämähän!  
@@ -823,7 +823,7 @@ Jo päivänä kolmantena
 päätyi Väinölän ahoille,  
 Kalevalan kankahille.  
 Vaka vanha Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 oli teittensä ajaja,  
 matkojensa mittelijä  
 noilla Väinölän ahoilla,  
@@ -867,7 +867,7 @@ muistannalta mahtavampi,
 sep' on tiellä seisokahan,  
 toinen tieltä siirtykähän.  
 Lienet vanha Väinämöinen,  
-laulaja iän-ikuinen,  
+laulaja iän\-ikuinen,  
 ruvetkamme laulamahan,  
 saakamme sanelemahan,  
 mies on miestä oppimahan,  
@@ -1084,7 +1084,7 @@ jopa tuskaksi tulevi,
 läylemmäksi lankeavi.  
 Sanan virkkoi, noin nimesi:  
 "Oi on viisas Väinämöinen,  
-tietäjä iän-ikuinen!  
+tietäjä iän\-ikuinen!  
 Pyörrytä pyhät sanasi,  
 peräytä lausehesi!  
 Päästä tästä pälkähästä,  
@@ -1159,8 +1159,8 @@ kysy en, kurja, kultiasi!
 On noita itselläniki  
 joka aitta ahtaeltu,  
 joka vakkanen varottu:  
-ne on kullat kuun-ikuiset,  
-päivän-polviset hopeat."  
+ne on kullat kuun\-ikuiset,  
+päivän\-polviset hopeat."  
 Lauloi nuoren Joukahaisen,  
 lauloi siitäki syvemmä.  
 Sanoi nuori Joukahainen:  
@@ -1189,7 +1189,7 @@ suun on suossa, sammalissa,
 hampahin haon perässä.  
 Sanoi nuori Joukahainen:  
 "Oi on viisas Väinämöinen,  
-tietäjä iän-ikuinen!  
+tietäjä iän\-ikuinen!  
 Laula jo laulusi takaisin,  
 heitä vielä heikko henki,  
 laske täältä pois minua!  
@@ -1453,7 +1453,7 @@ tulet muita sirkeämpi;
 kolmas kuorekokkaroita:  
 tulet muita kaunihimpi.  
 Astu aittahan mäelle  
-- aukaise parahin aitta - !  
+\- aukaise parahin aitta \- !  
 Siell' on arkku arkun päällä,  
 lipas lippahan lomassa.  
 Aukaise parahin arkku,  
@@ -1497,7 +1497,7 @@ kullat kulmille kohota,
 kaulahan heleät helmet,  
 kullanristit rinnoillesi!  
 Pane paita palttinainen,  
-liitä liinan-aivinainen,  
+liitä liinan\-aivinainen,  
 Hame verkainen vetäise,  
 senp' on päälle silkkivyöhyt,  
 sukat sulkkuiset koreat,  
@@ -1838,7 +1838,7 @@ Kun käki kukahtelevi,
 niin syän sykähtelevi,  
 itku silmähän tulevi,  
 ve'et poskille valuvi,  
-hereämmät herne-aarta,  
+hereämmät herne\-aarta,  
 paksummat pavun jyveä:  
 kyynärän ikä kuluvi,  
 vaaksan varsi vanhenevi,  
@@ -2186,7 +2186,7 @@ päivän koite koillisessa?"
 Ei ollut iässä pilvi,  
 päivän koite koillisessa:  
 oli vanha Väinämöinen,  
-laulaja iän-ikuinen,  
+laulaja iän\-ikuinen,  
 matkoava Pohjolahan,  
 kulkeva Pimentolahan  
 orihilla olkisella,  
@@ -2268,7 +2268,7 @@ hattaroihin pyörivihin.
 Toki ampui, ei totellut.  
 Ampui toisen nuoliansa:  
 se meni kovan alatse,  
-alaisehen maa-emähän;  
+alaisehen maa\-emähän;  
 tahtoi maa manalle mennä,  
 hietaharju halkiella.  
 Ampui kohta kolmannenki:  
@@ -2356,7 +2356,7 @@ eikä sormissa niveltä.
 Siinä vanha Väinämöinen  
 itse tuon sanoiksi virkki:  
 "Voi minä poloinen poika,  
-voi poika polon-alainen,  
+voi poika polon\-alainen,  
 kun läksin omilta mailta,  
 elomailta entisiltä  
 iäkseni ilman alle,  
@@ -2642,7 +2642,7 @@ hope'ita huovallisen?"
 Louhi, Pohjolan emäntä,  
 sanan virkkoi, noin nimesi:  
 "Ohoh viisas Väinämöinen,  
-tietäjä iän-ikuinen!  
+tietäjä iän\-ikuinen!  
 En kysele kultiasi,  
 halaja hope'itasi:  
 kullat on lasten kukkasia,  
@@ -2876,7 +2876,7 @@ Hiisi suonille sovitti:
 veri pääsi vuotamahan,  
 hurme huppelehtamahan.  
 Vaka vanha Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 tuossa tuon sanoiksi virkki,  
 noin on lausui ja pakisi:  
 "Oi sie kirves kikkanokka,  
@@ -3192,7 +3192,7 @@ käyvällä käsiasenna,
 kuin syöä omaa sukua,  
 heimoani herjaella.'  
 "Silloin seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 rauan tempasi tulesta,  
 asetti alasimelle;  
 rakentavi raukeaksi,  
@@ -3209,13 +3209,13 @@ ilman veessä kastumatta.
 itse tuota arvelevi.  
 Laati pikkuisen poroa,  
 lipeäistä liuotteli  
-teräksenteko-mujuiksi,  
-rauankarkaisu-vesiksi.  
+teräksenteko\-mujuiksi,  
+rauankarkaisu\-vesiksi.  
 "Koitti seppo kielellänsä,  
 hyvin maistoi mielellänsä;  
 itse tuon sanoiksi virkki:  
 'Ei nämät hyvät minulle  
-teräksenteko-vesiksi,  
+teräksenteko\-vesiksi,  
 rautojen rakentomaiksi.'  
 "Mehiläinen maasta nousi,  
 sinisiipi mättähästä.  
@@ -3241,8 +3241,8 @@ kantoi käärmehen kähyjä,
 maon mustia mujuja,  
 kusiaisen kutkelmoita,  
 sammakon salavihoja  
-teräksenteko-mujuihin,  
-rauankarkaisu-vetehen.  
+teräksenteko\-mujuihin,  
+rauankarkaisu\-vetehen.  
 "Itse seppo Ilmarinen,  
 takoja alinomainen,  
 luulevi, ajattelevi  
@@ -3251,7 +3251,7 @@ tuon on mettä tuoneheksi,
 kantaneheksi simoa.  
 Sanan virkkoi, noin nimesi:  
 'Kas nämät hyvät minulle  
-teräksenteko-vesiksi,  
+teräksenteko\-vesiksi,  
 rautojen rakentamiksi!'  
 "Siihen tempasi teräksen,  
 siihen kasti rauta raukan  
@@ -3271,7 +3271,7 @@ parta lauloi, pää järähti:
 tajuan tavat teräksen.  
 "Ohoh sinua, rauta raukka,  
 rauta raukka, koito kuona,  
-teräs tenhon-päivällinen!  
+teräs tenhon\-päivällinen!  
 Siitäkö sinä sikesit,  
 siitä kasvoit kauheaksi,  
 ylen suureksi sukesit?  
@@ -3314,7 +3314,7 @@ vannoit vaikean valasi
 ahjolla, alasimella,  
 vasaroilla, valkkamilla,  
 sepon seisontasijoilla,  
-takehinta-tanterilla.  
+takehinta\-tanterilla.  
 "Joko nyt suureksi sukenit,  
 äreäksi ärtelihit,  
 rikoit, vaivainen, valasi,  
@@ -3396,7 +3396,7 @@ urosta Ukon pojassa
 tämän tulvan tukkijaksi,  
 suonikosken sortajaksi,  
 onp' on taatto taivahinen,  
-pilven-päällinen jumala,  
+pilven\-päällinen jumala,  
 joka miehistä pätevi,  
 urohista kelpoavi  
 veren suuta sulkemahan,  
@@ -3500,7 +3500,7 @@ maistoi suullansa sulalla,
 tunsi katsehet hyviksi,  
 voitehet vaka'isiksi.  
 Siitä voiti Väinämöistä,  
-pahoin-tullutta paranti,  
+pahoin\-tullutta paranti,  
 voiti alta, voiti päältä,  
 kerta keskeä sivalti.  
 Sanovi sanalla tuolla,  
@@ -3631,14 +3631,14 @@ lehvät ilmoille levitti,
 halki taivahan hajotti.  
 Laulelevi, taitelevi:  
 lauloi kuun kumottamahan  
-kultalatva-kuusosehen,  
+kultalatva\-kuusosehen,  
 lauloi oksillen otavan.  
 Ajavi karettelevi  
 kohti kullaista kotia,  
 alla päin, pahoilla mielin,  
 kaiken kallella kypärin,  
 kun oli seppo Ilmarisen,  
-takojan iän-ikuisen,  
+takojan iän\-ikuisen,  
 luvannut lunastimeksi,  
 oman päänsä päästimeksi  
 pimeähän Pohjolahan,  
@@ -3668,7 +3668,7 @@ tietomiesten tienohilla."
 Siitä seppo Ilmarinen  
 sanan virkkoi, noin nimesi:  
 "Oi sie vanha Väinämöinen,  
-tietäjä iän-ikuinen!  
+tietäjä iän\-ikuinen!  
 Mitä lausut matkoiltasi  
 tultua kotituville?"  
 Virkki vanha Väinämöinen:  
@@ -3684,7 +3684,7 @@ päivä rinnoilta risotti,
 otavainen olkapäiltä,  
 seitsentähtinen selältä.  
 "Sinä, seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 lähe neittä noutamahan,  
 päätä kassa katsomahan!  
 Kun saatat takoa sammon,  
@@ -3734,19 +3734,19 @@ itse tuon sanoiksi virkki:
 "Nyt sinä, seppo veikkoseni,  
 nouse kuuta noutamahan,  
 otavaista ottamahan  
-kultalatva-kuusosesta!"  
+kultalatva\-kuusosesta!"  
 Siitä seppo Ilmarinen  
 nousi puuhun korkealle,  
 ylähäksi taivahalle,  
 nousi kuuta noutamahan,  
 otavaista ottamahan  
-kultalatva-kuusosesta.  
+kultalatva\-kuusosesta.  
 Virkki kuusi kukkalatva,  
 lausui lakkapää petäjä:  
 "Voipa miestä mieletöintä,  
 äkkioutoa urosta!  
 Nousit, outo, oksilleni,  
-lapsen-mieli, latvahani  
+lapsen\-mieli, latvahani  
 kuvakuun on nouantahan,  
 valetähtyen varahan!"  
 Silloin vanha Väinämöinen  
@@ -3822,7 +3822,7 @@ kukke'inta kulmillesi,
 poskesi punottamahan,  
 näköpääsi näyttämähän!  
 Jo on seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 saanut sammon laaintahan,  
 kirjokannen kirjantahan."  
 Tuop' on kaunis Pohjan tytti,  
@@ -3850,7 +3850,7 @@ juotti miehen juoneheksi,
 apatti ani hyväksi.  
 Sai tuosta sanelemahan:  
 "Ohoh seppo Ilmarinen,  
-takoja iän-ikuinen!  
+takoja iän\-ikuinen!  
 Saatatko takoa sammon,  
 kirjokannen kirjaella  
 joutsenen kynän nenästä,  
@@ -3898,7 +3898,7 @@ takoja tulen rakenti;
 päivän laati palkehia,  
 toisen ahjoa asetti.  
 Siitä seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 tunki ainehet tulehen,  
 takehensa alle ahjon;  
 otti orjat lietsomahan,  
@@ -3918,7 +3918,7 @@ selvinnehe valkeasta.
 Jousi tungeikse tulesta,  
 kaasi kulta kuumoksesta,  
 kaari kulta, pää hopea,  
-varsi vasken-kirjavainen.  
+varsi vasken\-kirjavainen.  
 On jousi hyvän näköinen,  
 vaan onpi pahan tapainen:  
 joka päivä pään kysyvi,  
@@ -4000,7 +4000,7 @@ ahjonsa alaista puolta:
 näki sammon syntyväksi,  
 kirjokannen kasvavaksi.  
 Siitä seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 takoa taputtelevi,  
 lyöä lynnähyttelevi.  
 Takoi sammon taitavasti:  
@@ -4054,7 +4054,7 @@ lahen rannat laulamatta,
 astumattani ahoset,  
 lehot leikin lyömättäni."  
 Siitä seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 alla päin, pahoilla mielin,  
 kaiken kallella kypärin  
 jo tuossa ajattelevi,  
@@ -4080,7 +4080,7 @@ melan vaskisen varahan;
 virkki tuulen tuulemahan,  
 pohjasen puhaltamahan.  
 Siitä seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 matkasi omille maille  
 ylitse meren sinisen.  
 Kulki päivän, kulki toisen;  
@@ -4090,7 +4090,7 @@ noille syntymäsijoille.
 Kysyi vanha Väinämöinen  
 Ilmariselta sepolta:  
 "Veli, seppo Ilmarinen,  
-takoja iän-ikuinen!  
+takoja iän\-ikuinen!  
 Joko laait uuen sammon,  
 kirjokannen kirjaelit?"  
 Sanoi seppo Ilmarinen,  
@@ -4588,7 +4588,7 @@ tapin tammisen takana;
 tuon sinulle juoaksesi,  
 josp' on joisit kaiken päivän."  
 Sanoi lieto Lemminkäinen:  
-"En huoli koto-oloista!  
+"En huoli koto\-oloista!  
 Ennen juon joesta vettä  
 melan tervaisen terältä:  
 makeamp' on juoakseni,  
@@ -4770,7 +4770,7 @@ ve'en vankan vääntehessä.
 Tuossa lieto Lemminkäinen  
 itse lausui ja saneli:  
 "Ylös maasta, miekkamiehet,  
-mannun-aikaiset urohot,  
+mannun\-aikaiset urohot,  
 kaivoloista, kalpamiehet,  
 jokiloista, jousimiehet!  
 Nouse, metsä, miehinesi,  
@@ -4807,7 +4807,7 @@ etiseltä ilmaltani,
 takaiselta puoleltani,  
 päältä pääni, viereltäni,  
 kupehelta kummaltani,  
-- kaa'an noiat nuolihinsa,  
+\- kaa'an noiat nuolihinsa,  
 velhot veitsirautoihinsa,  
 tietäjät teräksihinsä,  
 pahat miehet miekkoihinsa!"  
@@ -4952,7 +4952,7 @@ haukkujen hakattavaksi.
 "Pesipä emo minua,  
 pesi piennä hutjukkana,  
 kolmasti kesäisnä yönä,  
-yheksästi syksy-yönä,  
+yheksästi syksy\-yönä,  
 joka tielle tietäjäksi,  
 joka maalle malttajaksi,  
 kotonani laulajaksi,  
@@ -5174,7 +5174,7 @@ savu sauvojen nenistä;
 eikä nähnyt hirveänsä,  
 eip' on nähnyt eikä kuullut.  
 Liukui linnat, liukui lannat,  
-liukui maat meren-takaiset;  
+liukui maat meren\-takaiset;  
 hiihti kaikki Hiien korvet,  
 kaikki Kalman kankahatki,  
 hiihti Surman suun e'etse,  
@@ -5222,7 +5222,7 @@ vellit lietehen levitti."
 Siitä veitikkä verevä,  
 tuo on lieto Lemminkäinen,  
 lykkäsi lylyn lumelle,  
-kuni kyyn kulon-alaisen,  
+kuni kyyn kulon\-alaisen,  
 solahutti suopetäjän,  
 kuni käärmehen elävän;  
 itse virkki vierressänsä,  
@@ -5356,7 +5356,7 @@ renkahalta reieltäsi,
 aukaise Tapion aitta,  
 metsän linna liikahuta  
 minun pyytöpäivinäni,  
-eränetso-aikoinani!  
+eränetso\-aikoinani!  
 "Kunp' on et kehanne itse,  
 niin on pistä piikojasi,  
 pane palkkalaisiasi,  
@@ -5444,10 +5444,10 @@ arkipaitasi alenna!
 Lyöte lykkyvaattehisin,  
 antipaitoihin paneite  
 minun metsipäivinäni,  
-eränetso-aikoinani!  
+eränetso\-aikoinani!  
 Ikävä minun tulevi,  
 ikävä tulettelevi  
-tätä tyhjänä-oloa,  
+tätä tyhjänä\-oloa,  
 ajan kaiken annituutta,  
 kun et anna aioinkana,  
 harvoinkana hoivauta.  
@@ -5523,8 +5523,8 @@ siniviitta viian eukko,
 punasukka suon emäntä!  
 Tule jo kullan muuttelohon,  
 hopean vajehtelohon!  
-Minun on kullat kuun-ikuiset,  
-päivän-polviset hopeat,  
+Minun on kullat kuun\-ikuiset,  
+päivän\-polviset hopeat,  
 käeten soasta käymät,  
 uhotellen tappelosta;  
 ne kuluvat kukkarossa,  
@@ -5614,7 +5614,7 @@ laske jäiset jäähyttimet
 harjalle hyvän hevosen,  
 Hiien laukin lautasille!"  
 Tuo Ukko, ylinen luoja,  
-pilven-päällinen jumala,  
+pilven\-päällinen jumala,  
 ilman riehoiksi revitti,  
 taivon kannen kahtaloksi;  
 satoi hyytä, satoi jäätä,  
@@ -5972,7 +5972,7 @@ piitä piihin rautaisihin;
 piit tao satoa syltä,  
 varsi viittä valmistellos!"  
 Se on seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 vartti vaskisen haravan,  
 piitti piillä rautaisilla;  
 piit takoi satoa syltä,  
@@ -6000,7 +6000,7 @@ nukutteli nuivan joukon,
 väsytti väen Manalan,  
 nuoret miehet miekoillehen,  
 vanhat vasten sauvojansa,  
-keski-iän keihä'ille.  
+keski\-iän keihä'ille.  
 Siitä lenti lepsahutti  
 päälle taivahan tasaisen  
 entisellensä sijalle,  
@@ -6156,7 +6156,7 @@ itse lausui, noin nimesi:
 "Mistä nyt voie saatanehe,  
 simatilkka tuotanehe,  
 jolla voian voipunutta,  
-pahoin-tullutta parannan,  
+pahoin\-tullutta parannan,  
 jotta mies sanoille saisi,  
 vierähtäisi virsillehen?  
 "Mehiläinen, meiän lintu,  
@@ -6184,7 +6184,7 @@ sulkansa sulassa meessä.
 Itse äiti Lemminkäisen  
 otti noita voitehia,  
 niillä voiti voipunutta,  
-pahoin-tullutta paranti:  
+pahoin\-tullutta paranti:  
 ei tullut apua noista,  
 saanut miehelle sanoja.  
 Siitä tuon sanoiksi virkki:  
@@ -6206,7 +6206,7 @@ vammoille valellakseni!"
 Mehiläinen, mies kepeä,  
 taasen lenti liihytteli  
 ylitse meren yheksän,  
-meri-puolen kymmenettä.  
+meri\-puolen kymmenettä.  
 Lenti päivän, lenti toisen,  
 lenti kohta kolmannenki,  
 ruokosella istumatta,  
@@ -6310,7 +6310,7 @@ kaikkivallan katsehia,
 joillapa Jumala voiti,  
 Luoja vammoja valeli."  
 Siitä voiti voipunutta,  
-pahoin-tullutta paranti.  
+pahoin\-tullutta paranti.  
 Voiti luun lomia myöten,  
 jäsenten rakoja myöten,  
 voiti alta, voiti päältä,  
@@ -6424,7 +6424,7 @@ työnnän uuelle uralle.
   
   
 Vaka vanha Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 oli veistävä venoista,  
 uutta purtta puuhoava  
 nenässä utuisen niemen,  
@@ -6524,7 +6524,7 @@ lautoja epälukuisin
 laulajalle laivaksiksi,  
 Väinämöiselle venoksi.  
 Siitä vanha Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 teki tieolla venettä,  
 laati purtta laulamalla  
 yhen tammen taittumista,  
@@ -6542,7 +6542,7 @@ panemilla parraspuien,
 kokkien kohentimilla,  
 peräpään on päättimillä.  
 Vaka vanha Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 sanan virkkoi, noin nimesi:  
 "Voi poloinen, päiviäni!  
 Ei saanut veno vesille,  
@@ -6813,7 +6813,7 @@ sanovi sanalla tuolla,
 lausui tuolla lausehella:  
 "Elköhön hyvä Jumala,  
 elköhön sitä suetko,  
-itse-mennyttä Manalle,  
+itse\-mennyttä Manalle,  
 Tuonelahan tunkeinutta!  
 Äijä on sinne saanehia,  
 vähä tuolta tullehia,  
@@ -6910,7 +6910,7 @@ havuhonka hampahilla.
 Jo tulevi Väinämöinen.  
 Veti miekan, riitsi rauan  
 huotrasta huveksisesta,  
-vyöstä vennon-selkäisestä;  
+vyöstä vennon\-selkäisestä;  
 kaatoi haavan hartioilta,  
 koivut kulmilta kukisti,  
 leuoilta lepät leveät,  
@@ -6942,7 +6942,7 @@ leukaluulle luikahutti.
 Heti virsikäs Vipunen  
 avoi suunsa suuremmaksi,  
 leukapielensä levitti,  
-- nieli miehen miekkoinensa,  
+\- nieli miehen miekkoinensa,  
 kulahutti kulkkuhunsa  
 tuon on vanhan Väinämöisen.  
 Siinä virsikäs Vipunen  
@@ -7064,7 +7064,7 @@ Lapin maasta laukeasta,
 ahoilta vesattomilta,  
 mailta kyntämättömiltä;  
 suurilta sotakeoilta,  
-miehentappo-tanterilta,  
+miehentappo\-tanterilta,  
 ruohoista rohisevista,  
 hurmehista huuruvista;  
 suurilta meren seliltä,  
@@ -7102,7 +7102,7 @@ niin panen parempiani
 tämän pulman purkajaksi,  
 kauhean kaottajaksi.  
 "Nostan maasta mannun eukot,  
-pellosta peri-isännät,  
+pellosta peri\-isännät,  
 kaikki maasta miekkamiehet,  
 hiekasta hevoisurohot  
 väekseni, voimakseni,  
@@ -7141,8 +7141,8 @@ tämä jakso jaksamahan,
 puutunnainen purkamahan!  
 "Ja kun ei sitä totelle,  
 välttäne väheäkänä,  
-ukko taivahan-napainen,  
-remupilven-reunahinen,  
+ukko taivahan\-napainen,  
+remupilven\-reunahinen,  
 tule tänne tarvittaissa,  
 ajaite anottaessa,  
 työt kehnot kerittämähän,  
@@ -7260,7 +7260,7 @@ lempi liehaellaksesi:
 hirvet on puihin hirtettynä,  
 jalot peurat jaksettuna  
 syöä miehen nälkähisen,  
-haukata halun-alaisen.  
+haukata halun\-alaisen.  
 "Ja tuonne sinun manoan,  
 tuonne käsken ja kehoitan  
 Rutjan koskehen kovahan,  
@@ -7318,7 +7318,7 @@ sep' on laitahan lähetä!
 "Lähe nyt, liika, liikkumahan,  
 mies paha, pakenemahan  
 ennen päivän nousemista,  
-koi-jumalan koittamista,  
+koi\-jumalan koittamista,  
 auringon ylenemistä,  
 kukon äänen kuulumista!  
 Nyt on liian liikeaika  
@@ -7690,7 +7690,7 @@ heti joutui juoksemahan;
 tulevi sepon kotihin,  
 itse astuvi pajahan.  
 Tuo oli seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 takoi rautaista rahia,  
 hope'ista huolitteli,  
 kyynärä kyventä päässä,  
@@ -7698,7 +7698,7 @@ syli syttä hartioilla.
 Astui Annikki ovelle,  
 sanan virkkoi, noin nimesi:  
 "Veli, seppo Ilmarinen,  
-takoja iän-ikuinen!  
+takoja iän\-ikuinen!  
 Taos mulle sukkulainen,  
 tao sormukset soreat,  
 kahet, kolmet korvakullat,  
@@ -7780,7 +7780,7 @@ säihkyväistä, suihkuvaista,
 sulhon pään pesettimeksi,  
 vartalon valattimeksi.  
 Itse seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 takoi neien tarpehia,  
 päällispankoja paranti  
 yhen kylyn joutuessa,  
@@ -7804,7 +7804,7 @@ silmäkulmat kukkeaksi,
 kaulansa kananmuniksi,  
 koko varren valkeaksi.  
 Tuli saunasta tupahan,  
-- tuli tuntemattomana,  
+\- tuli tuntemattomana,  
 kasvot vallan kaunihina,  
 poskipäät punertavina.  
 Siitä tuon sanoiksi virkki:  
@@ -7892,7 +7892,7 @@ istuaksensa isännän,
 toip' on toisen, turskan taljan  
 kirjokorjan katteheksi.  
 Itse seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 Ukkoa rukoelevi,  
 Pauannetta palvoavi:  
 "Laske, Ukko, uutta lunta,  
@@ -8172,7 +8172,7 @@ lakkipäien lainehien."
 Tuopa kaunis Pohjan tytti  
 sanan virkkoi, noin nimesi:  
 "En kiitä meristä miestä,  
-aallonlaskija-urosta:  
+aallonlaskija\-urosta:  
 tuuli vie merellä mielen,  
 aivot särkevi ahava.  
 Enkä taia tullakana,  
@@ -8188,7 +8188,7 @@ päänalaisen laskijaksi."
   
   
 Siitä seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 itse tungeikse tupahan,  
 kaivaikse katoksen alle.  
 Tuotihin simoa tuoppi,  
@@ -8240,7 +8240,7 @@ käärmehisen kääntämättä."
 Antoi morsian apua,  
 työnti neito neuvokkia:  
 "Ohoh seppo Ilmarinen,  
-takoja iän-ikuinen!  
+takoja iän\-ikuinen!  
 Aura kultainen kuvoa,  
 hope'inen huolittele!  
 Sillä kynnät kyisen pellon,  
@@ -8308,7 +8308,7 @@ Manalan majan periltä."
 Antoi morsian apua,  
 työnti neito neuvokkia:  
 "Ohoh seppo Ilmarinen,  
-takoja iän-ikuinen!  
+takoja iän\-ikuinen!  
 Teräksestä tehkös suitset,  
 päitset rauasta rakenna  
 yhellä vesikivellä,  
@@ -8316,7 +8316,7 @@ kolmen kosken kuohumilla!
 Niillä tuonet Tuonen karhut,  
 suistanet suet Manalan."  
 Siitä seppo Ilmarinen,  
-akoja iän-ikuinen,  
+akoja iän\-ikuinen,  
 teräksestä suitti suitset,  
 päitset rauasta rakenti  
 yhellä vesikivellä,  
@@ -8329,7 +8329,7 @@ terhenistä tepsuttele
 viljan vierimäsijoille,  
 jottei kuule kulkevaksi  
 eik' on eestäni pakene!"  
-Sai sutosen suitsi-suuhun,  
+Sai sutosen suitsi\-suuhun,  
 karhun rautakahlehesen  
 tuolta Tuonen kankahalta,  
 sinisen salon sisästä.  
@@ -8372,7 +8372,7 @@ liikkuvan kalan lihavan,
 Tuonen mustasta joesta,  
 Manalan alantehesta."  
 Se on seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 takovi kokon tulisen,  
 vaakalinnun valke'isen;  
 kourat rauasta kuvasi,  
@@ -8453,7 +8453,7 @@ jo hauki sukeltelihe,
 ve'en venkale vetihe  
 kynsistä kokon kynimen,  
 vaakalinnun varpahista,  
-- jälet kynnen kylkiluilla,  
+\- jälet kynnen kylkiluilla,  
 halennehet hartioilla.  
 Siitä kokko rautakoura  
 kivastihe vielä kerran;  
@@ -8622,7 +8622,7 @@ impyen ylenneheksi:
 kun kävi pihatse kerran,  
 astui aittojen alatse  
 varsin aamulla varahin,  
-aivan aika-huomenessa,  
+aivan aika\-huomenessa,  
 noki nousi nuoraisesti,  
 savu paksusti pakeni  
 neien kuulusta ko'ista,  
@@ -8812,7 +8812,7 @@ rauankarva katsannolta;
 päässä paatinen kypärä,  
 jaloissa kiviset kengät,  
 veitsi kultainen käessä,  
-varsi vasken-kirjavainen.  
+varsi vasken\-kirjavainen.  
 Saip' on siitä iskijänsä,  
 tapasipa tappajansa,  
 Suomen sonni sortajansa,  
@@ -9192,7 +9192,7 @@ savun syntymäsijoa:
 ei ollut soan tulia  
 eikä vainovalke'ita;  
 olipa oluttulia,  
-kaljankeitto-valke'ita  
+kaljankeitto\-valke'ita  
 Sariolan salmen suulla,  
 niemen kaiskun kainalossa.  
 Siinä Kauko katselevi ...  
@@ -9316,7 +9316,7 @@ veitikkä vesien luona,
 laajimman lahen sivulla,  
 Kaukoniemen kainalossa."  
 Tuop' on piika pikkarainen,  
-raataja rahan-alainen,  
+raataja rahan\-alainen,  
 kantoi kutsut kuusialle,  
 keruhut kaheksialle.  
 Kutsui kaiken Pohjan kansan  
@@ -9324,7 +9324,7 @@ ja kaiken Kalevan kansan,
 nuotki hoikat huonemiehet,  
 kaitakauhtanat kasakat.  
 Yks' on aino Ahti poika,  
-- senp' on heitti kutsumatta.  
+\- senp' on heitti kutsumatta.  
   
   
   
@@ -9484,7 +9484,7 @@ lavitsat vesin valeltu,
 siivottu sileät sillat,  
 lautalattiat la'aistu!  
 "Katselen tätä tupoa  
-- enkä tuota tunnekana,  
+\- enkä tuota tunnekana,  
 mistä puist' on pirtti tehty,  
 mistä suoja tänne saatu,  
 kusta seinät seisotettu  
@@ -9576,7 +9576,7 @@ kanna kaksikorvaisella
 noille kutsuvierahille,  
 vävylleni liiatenki!"  
 Tuop' on piika pikkarainen,  
-raataja rahan-alainen,  
+raataja rahan\-alainen,  
 antoi tuopin totta tehä,  
 viisivantehen vikoa,  
 huuhtoa humalan parrat,  
@@ -9919,7 +9919,7 @@ oisit päätäsi pitempi,
 korvallista korkeampi.  
 "Tuota toivoin tuon ikäni,  
 katsoin kaiken kasvinaian  
-- vuotin kuin hyveä vuotta,  
+\- vuotin kuin hyveä vuotta,  
 katsoin kuin kesän tuloa.  
 Jo nyt on toivoni toeksi,  
 lähtöni lähemmä saanut;  
@@ -9958,7 +9958,7 @@ kuin pimeä pilven ranta,
 kuin syksyinen yö pimeä,  
 talvinen on päivä musta;  
 viel' on mustempi sitäki,  
-synkeämpi syksy-yötä."  
+synkeämpi syksy\-yötä."  
 Olipa akka, askarvaimo,  
 talon ainoinen asuja.  
 Hänpä tuon sanoiksi virkki:  
@@ -10018,7 +10018,7 @@ kokea, kovaosainen,
 apen luista leukaluuta,  
 anopin kivistä kieltä,  
 ky'yn kylmiä sanoja,  
-naon niskan-nakkeloita.  
+naon niskan\-nakkeloita.  
 "Kuules, neiti, kuin sanelen,  
 kuin sanelen, kuin puhelen!  
 Olit kukkana kotona,  
@@ -10199,7 +10199,7 @@ nämät huolet huolimahan
 ja surut sureksimahan?  
 "Mahoit ennen, maammo rukka,  
 mahoit, kaunis kantajani,  
-armas maion-antajani,  
+armas maion\-antajani,  
 ihana imettäjäni,  
 kapaloia kantosia,  
 pestä pieniä kiviä,  
@@ -10274,7 +10274,7 @@ viinet vaarnoilla venyne;
 koirat ei ne koissa maanne,  
 pennut pehkuilla levänne.  
 "Kolmasti tänä keväinä  
-aivan aika-huomenessa  
+aivan aika\-huomenessa  
 nousi nuotiotulelta,  
 havasi havusijalta;  
 kolmasti tänä keväinä  
@@ -10340,11 +10340,11 @@ kujilla kukahtaminen.
 "Kun lähet talosta tästä,  
 muista kaikki muut kalusi,  
 ne kolme kotihin heitä:  
-päivän-päälliset unoset,  
+päivän\-päälliset unoset,  
 emon armahan sanaset,  
 joka kirnun pettäjäiset!  
 "Kaikki muista muuttelosi  
-- unikonttisi unoha  
+\- unikonttisi unoha  
 kotoisille tyttärille,  
 kotiuunin korvaselle!  
 Laulut heitä lautsan päähän,  
@@ -10482,7 +10482,7 @@ tule neljänä tupahan:
 vesikappanen käessä,  
 lehtiluuta kainalossa,  
 tulitikku hampahiss  
-- itse ollet neljäntenä.  
+\- itse ollet neljäntenä.  
 "Ala sillat siivoella,  
 lautalattiat la'aista:  
 visko vettä lattialle,  
@@ -10576,7 +10576,7 @@ kivenpuussa kiikutahan,
 vielä vettä kannetahan,  
 taikinat alustetahan,  
 halot tuoahan tupahan  
-pätsin lämmitä-panoksi;  
+pätsin lämmitä\-panoksi;  
 siitä leivät leivotahan,  
 kakut paksut paistetahan,  
 astiat virutetahan,  
@@ -10641,8 +10641,8 @@ antavan kylän akoille.
 hulikkojen huuhtelohon:  
 pese kannut korvinensa,  
 tuopit uurtehuisinensa!  
-Maljat huuho - muista laiat,  
-lusikkaiset - muista varret!  
+Maljat huuho \- muista laiat,  
+lusikkaiset \- muista varret!  
 "Lusikat piä lu'ussa,  
 astiasi arvelussa,  
 ettei koirat kollottele,  
@@ -10674,7 +10674,7 @@ valeleite vallaltasi!
 Itse lienen löylyn lyöjä,  
 alla lautojen asunen.'  
 "Kun tulevi kehruuaika,  
-kankahan ku'onta-aika,  
+kankahan ku'onta\-aika,  
 käy elä kynsiä kylästä,  
 oppia ojan takoa,  
 tointa toisesta talosta,  
@@ -10827,7 +10827,7 @@ mieli neien miehelähän,
 tapa toisehen talohon.  
 Niinpä neiti luotunaki,  
 tytär tuuiteltunaki  
-- miniäksi miehelähän,  
+\- miniäksi miehelähän,  
 orjaksi anoppelahan.  
 "Jou'uin, marja, muille maille,  
 tuomi, toisille vesille,  
@@ -10869,7 +10869,7 @@ Tuolla toivoin kunniata,
 tuolla lempeä tavoitin,  
 tulen tuomalla tupahan,  
 pään päretten poimennalla  
-- pieksin otsani ovehen,  
+\- pieksin otsani ovehen,  
 pääni pihtipuolisehen:  
 oven suuss' on ouot silmät,  
 kaihat silmät karsinassa,  
@@ -11019,7 +11019,7 @@ vasten vaivaista minua.
 illalla makoamahan,  
 sulhon vierehen venähyin;  
 laski sulho vierehensä  
-- antoi kyllin kyynäspäätä,  
+\- antoi kyllin kyynäspäätä,  
 viljalta vihaista kättä,  
 paljo paksuja pajuja,  
 mursunluista ruoskan vartta.  
@@ -11219,12 +11219,12 @@ mätäs myötähän menevi,
 vesan kanta katkeavi.  
 "Kun tulevi toinen päivä,  
 hanki suora sukkulainen,  
-pirran-päällinen pätevä,  
+pirran\-päällinen pätevä,  
 käärinlauta laaullinen,  
 vuoli suksekset soreat,  
 hanki kaikki kangasneuvot!  
 Laita neiti kangaspuille,  
-pirran-päällinen piohon:  
+pirran\-päällinen piohon:  
 äsken pirta piukkoavi,  
 kangaspuut kamahtelevi,  
 kuuluvi kylähän kalske,  
@@ -11391,8 +11391,8 @@ neittä raipalla rapoa!
 viel' ei tuostana totelle,  
 veä vitsa viiakosta,  
 koivu korpinotkelmosta  
-- tuopa turkin helman alla,  
-talon toisen tietämättä - :  
+\- tuopa turkin helman alla,  
+talon toisen tietämättä \- :  
 sitä näytä neiollesi,  
 hepäise, elä sivalla!  
 "Kun ei vielä siitä huoli,  
@@ -11479,8 +11479,8 @@ tämän linnan liepeheltä,
 tämän harjun hartiolta.  
 Jo nyt luulen, jotta luovun,  
 jopa uskon ja eroan:  
-ero- on tuopit tyhjettynä,  
-ero- juotuna oluet,  
+ero\- on tuopit tyhjettynä,  
+ero\- juotuna oluet,  
 kohta korjat käännettynä  
 päin ulos, perin tupahan,  
 lappe'in ison latohon,  
@@ -11703,7 +11703,7 @@ polvet nuorilta nojuvi
 veräjillä vuottaessa,  
 lasten jalkoja paleli  
 seinuksilla seisoessa,  
-kului kengät kesk'-iältä  
+kului kengät kesk'\-iältä  
 rantasilla raittaessa.  
 Niin huomenna muutamana,  
 päivänä moniahana  
@@ -11946,7 +11946,7 @@ Tuota toivotit ikäsi,
 sanoit saavasi sataisen,  
 tuovasi tuhannen neien.  
 Jo saitki hyvän sataisen:  
-- tuon tuhannen tuppeloisen!  
+\- tuon tuhannen tuppeloisen!  
 Sait kuin suolta suovariksen,  
 aialta ajoharakan,  
 pellolta pelotuslinnun,  
@@ -12100,7 +12100,7 @@ mesi mielten kääntimeksi.
 Kukapa tuossa kukkujaksi,  
 lailliseksi laulajaksi?  
 Vaka vanha Väinämöinen,  
-laulaja iän-ikuinen,  
+laulaja iän\-ikuinen,  
 itse laululle rupesi,  
 töille virtten työntelihe.  
 Sanovi sanalla tuolla,  
@@ -12194,7 +12194,7 @@ jäänyt on kinnasta kivelle,
 hattua havun selälle,  
 suohon sukkoa vajonnut.  
 "Use'in hyvä isäntä  
-aivan aika-huomenessa  
+aivan aika\-huomenessa  
 ennen muien nousematta,  
 kyläkunnan kuulematta  
 nousnut on nuotiotulelta,  
@@ -12222,8 +12222,8 @@ kyperillä kymmenillä;
 nosti leivät leppeästi,  
 syötti vierahat välehen  
 liioilla sianlihoilla,  
-kohokuori-kokkaroilla  
-- terät vieri veitsistämme,  
+kohokuori\-kokkaroilla  
+\- terät vieri veitsistämme,  
 päät putosi puukoistamme  
 lohen päitä lohkoessa,  
 hauin päitä halkoessa.  
@@ -12326,7 +12326,7 @@ kuni Suomen sukkulainen;
 saajanaisen sirkut silmät  
 kuni tähet taivahalla;  
 saajanaisen kuulut kulmat  
-kuni kuu meren-ylinen.  
+kuni kuu meren\-ylinen.  
 "Onpa meiän saajanaisen  
 kaula kullankiehkuroissa,  
 pää kullanvipalehissa,  
@@ -12372,7 +12372,7 @@ lähtevi kohin kotia;
 laulelevi virsissänsä,  
 laulelevi, taitelevi.  
 Lauloi virren, lauloi toisen  
-- virrelläpä kolmannella  
+\- virrelläpä kolmannella  
 kilahti jalas kivehen,  
 tarttui kapla kannon päähän:  
 rikkoihe reki runolta,  
@@ -12404,7 +12404,7 @@ vääntiän Manan majoilta
 reki uusi laatiasi,  
 korjanen kohentoasi."  
 Silloin vanha Väinämöinen,  
-laulaja iän-ikuinen,  
+laulaja iän\-ikuinen,  
 läksi toiste Tuonelahan,  
 matkasi Manan majoille.  
 Toi orasen Tuonelasta,  
@@ -12428,7 +12428,7 @@ helmin lyömättä hevonen
 entisille appehille,  
 taanoisille suuruksille;  
 saattoi vanhan Väinämöisen,  
-laulajan iän-ikuisen,  
+laulajan iän\-ikuisen,  
 oman uksen aukomille,  
 oman kynnyksen etehen.  
   
@@ -12466,7 +12466,7 @@ toimitteli tultuansa:
 "Oi emoni, vaimo vanha!  
 Pane ruoka ruttoisesti  
 syöä miehen nälkähisen,  
-haukata halun-alaisen!  
+haukata halun\-alaisen!  
 Lämmitä samassa sauna,  
 pian pirtti riu'uttele,  
 missä mies puhasteleikse,  
@@ -12474,7 +12474,7 @@ sueiksen urosten sulho!"
 Tuop' on äiti Lemminkäisen  
 pani ruoan ruttoisesti  
 syöä miehen nälkähisen,  
-haukata halun-alaisen  
+haukata halun\-alaisen  
 yhen kylyn joutuessa,  
 yhen saunan saapuessa.  
 Siitä lieto Lemminkäinen  
@@ -12530,7 +12530,7 @@ Tuop' on lieto Lemminkäinen
 sanan virkkoi, noin nimesi:  
 "Kurjat kutsuen menevi,  
 hyvä ilman hyppeleikse!  
-Tuoss' on kutsut kuun-ikuiset,  
+Tuoss' on kutsut kuun\-ikuiset,  
 airuhut alinomaiset  
 miekassa tuliterässä,  
 säilässä säkenevässä."  
@@ -12646,7 +12646,7 @@ suuhun Untamon susien,
 kitahan kirokavetten.  
 "Muistan ma suelle mutkan,  
 keksin keinon karhullenki:  
-suet laulan suitsi-suuhun,  
+suet laulan suitsi\-suuhun,  
 karhut rautakahlehisin,  
 tahi rutjon ruumeniksi,  
 seulaisen sepalehiksi.  
@@ -12695,7 +12695,7 @@ valkeaisen vaivutella,
 ja tunnen maot manata,  
 käärmehyiset käännytellä.  
 Äsken päänä eilisenä  
-kynnin maata kyyn-alaista,  
+kynnin maata kyyn\-alaista,  
 käännin maata käärmehistä  
 aivan paljahin kätösin.  
 Kyyt pitelin kynsissäni,  
@@ -12719,7 +12719,7 @@ Sanoi äiti Lemminkäisen:
 menkö Pohjolan tupahan,  
 Sariolan salvoksihin!  
 Siell' on miehet miekka vyöllä,  
-urohot sota-aseissa,  
+urohot sota\-aseissa,  
 humalassa hullut miehet,  
 pahat paljo juotuansa.  
 Laulavat sinun poloisen  
@@ -12758,7 +12758,7 @@ mäki on täynnä seipähiä,
 piha täynnä pylvähiä,  
 ne on täynnä miehen päitä;  
 yks' on seiväs päätöin seiväs  
-- senpä seipähän nenähän  
+\- senpä seipähän nenähän  
 sinun pääsi leikatahan!"  
 Virkkoi lieto Lemminkäinen,  
 sanoi kaunis Kaukomieli:  
@@ -12806,7 +12806,7 @@ suorihe sotisopihin,
 puki vainovaattehisin.  
 Itse lausui orjallensa,  
 sanan virkkoi, noin nimesi:  
-"Oi on osto-orjaseni,  
+"Oi on osto\-orjaseni,  
 rahan saatu raatajani!  
 Jou'uta sotaoriini,  
 valjastele vainovarsa  
@@ -12914,7 +12914,7 @@ Kokko saatteli sanoa,
 tulikulkku kuiskahella:  
 "Lasken eelle matkamiehen,  
 Lemminkäisen liiatenki  
-- suun kautta samoamahan,  
+\- suun kautta samoamahan,  
 kautta kulkun kulkemahan:  
 siitä sulle tie menevi  
 mennä tuosta tuon hyväksi  
@@ -13067,12 +13067,12 @@ selkä seitsemän venettä.
 Siinä lieto Lemminkäinen  
 ei tohi käsiksi käyä  
 satasilmälle maolle,  
-tuhatkieli-käärmehelle.  
+tuhatkieli\-käärmehelle.  
 Virkkoi lieto Lemminkäinen,  
 sanoi kaunis Kaukomieli:  
 "Mato musta, maanalainen,  
-toukka Tuonen-karvallinen,  
-kulkija kulon-alainen,  
+toukka Tuonen\-karvallinen,  
+kulkija kulon\-alainen,  
 lehen lemmon juurehinen,  
 läpi mättähän menijä,  
 puun juuren pujottelija!  
@@ -13101,8 +13101,8 @@ sala'aite sammalehen,
 veäite villakuontalona,  
 haavan halkona kuleksi, tunge pääsi turpehesen,  
 mätä mättähän sisähän  
-- turpehessa sun tupasi,  
-alla mättähän majasi - :  
+\- turpehessa sun tupasi,  
+alla mättähän majasi \- :  
 jospa tuolta pääsi nostat,  
 Ukko pääsi särkenevi  
 neuloilla teräsnenillä,  
@@ -13196,7 +13196,7 @@ Suolet surman vyöllisestä.
 "Siin' oli sinun sukusi,  
 siinä kuulu kunniasi!  
 "Mato musta, maanalainen,  
-toukka Tuonen-karvallinen,  
+toukka Tuonen\-karvallinen,  
 maan karva, kanervan karva,  
 kaiken ilmankaaren karva!  
 Lähe nyt tieltä matkamiehen,  
@@ -13261,7 +13261,7 @@ kahen kattilan välissä,
 kolmen koukun koskevilla."  
 Siinä lieto Lemminkäinen  
 murti mustoa haventa,  
-kattilaisen-karvallista.  
+kattilaisen\-karvallista.  
 Sanan virkkoi, noin nimesi:  
 "Lempo tänne lähteköhön  
 oven suuhun seisomahan,  
@@ -13324,7 +13324,7 @@ kutsuit ruojat, kutsuit roistot,
 kaikki hoikat huonemiehet,  
 kaitakauhtanat kasakat;  
 muun on kutsuit kaiken kansan  
-- minun heitit kutsumatta!  
+\- minun heitit kutsumatta!  
 "Mintähen tämä minulle  
 omistani ohristani?  
 Muut ne kantoi kauhasilla,  
@@ -13334,7 +13334,7 @@ puolikkoisin putkaelin
 omiani ohriani,  
 kylvämiäni jyviä.  
 "En nyt liene Lemminkäinen,  
-en vieras hyvän-niminen,  
+en vieras hyvän\-niminen,  
 kun ei tuotane olutta,  
 pantane pata tulelle,  
 keittoa pa'an sisähän,  
@@ -13358,7 +13358,7 @@ kuoret leivistä kovista.
 Toi siitä olutta tuopin,  
 kannun kaljoa pahinta  
 juoa lieto Lemminkäisen,  
-appoa halun-alaisen.  
+appoa halun\-alaisen.  
 Itse tuon sanoiksi virkki:  
 "Tokko lie sinussa miestä,  
 juojoa tämän oluen,  
@@ -13399,7 +13399,7 @@ veti veitsensä terävän,
 tuon on tuiman tuppirauan,  
 sillä silpoi päät maoilta,  
 katkoi kaulat käärmehiltä  
-- joi oluen onneksensa,  
+\- joi oluen onneksensa,  
 me'en mustan mieliksensä.  
 Sanan virkkoi, noin nimesi:  
 "En mä liene lempivieras,  
@@ -13422,7 +13422,7 @@ koreampi kutsumatoin.
 Kuules, poika pohjolaisen,  
 itse Pohjolan isäntä!  
 Anna ostoa olutta,  
-juomoa rahan-alaista!"  
+juomoa rahan\-alaista!"  
 Tuopa Pohjolan isäntä  
 tuosta suuttui ja syäntyi,  
 kovin suuttui ja vihastui.  
@@ -13516,7 +13516,7 @@ lapsesta laji väheni!"
 Otti miekan, riisui rauan,  
 tempasi tuliteräisen  
 huotrasta huveksisesta,  
-vyöstä vennon-selkäisestä.  
+vyöstä vennon\-selkäisestä.  
 Mittelivät, katselivat  
 noien miekkojen pituutta:  
 olipa pikkuista pitempi  
@@ -13561,9 +13561,9 @@ Sanoi Ahti Saarelainen:
 "Kuulesta, sa Pohjan poika!  
 Sinunpa pitempi miekka,  
 sinun kalpa kauheampi  
-- ehkä tuon on tarvinnetki,  
+\- ehkä tuon on tarvinnetki,  
 ennenkuin ero tulevi  
-tahi kaula katkeavi - :  
+tahi kaula katkeavi \- :  
 iske päältä, Pohjan poika!"  
 Iski päältä Pohjan poika.  
 Iski kerran, iski toisen,  
@@ -13694,7 +13694,7 @@ tykö valtavanhempani!"
 Lenteä lekuttelevi,  
 katsoi kerran jälkehensä:  
 keksi harmoan havukan  
-- sen silmät paloi tulena  
+\- sen silmät paloi tulena  
 kuni pojan pohjolaisen,  
 Pohjan entisen isännän.  
 Sanoi harmoa havukka:  
@@ -13886,7 +13886,7 @@ paikat arvoan pahimmat,
 kussa surma suin pitäisi,  
 kova loppu loukahtaisi.  
 Oi emo, elättäjäni,  
-maammo, maion-antajani!  
+maammo, maion\-antajani!  
 Kunne käsket piilemähän,  
 kunne käsket ja kehoitat?  
 Aivan on surma suun e'essä,  
@@ -13898,7 +13898,7 @@ itse virkki, noin nimesi:
 "Sanon ma hyvänki paikan,  
 ani armahan nimitän,  
 missä piillä pillomuksen,  
-paeta pahan-alaisen:  
+paeta pahan\-alaisen:  
 muistan maata pikkuruisen,  
 tieän paikkoa palasen,  
 syömätöintä, lyömätöintä,  
@@ -13926,7 +13926,7 @@ sanan virkkoi, noin nimesi:
 "Otapa isosi pursi,  
 lähe tuonne piilemähän  
 ylitse meren yheksän,  
-meri-puolen kymmenettä,  
+meri\-puolen kymmenettä,  
 saarehen selällisehen,  
 luotohon merellisehen!  
 Siell' ennen isosi piili,  
@@ -14405,7 +14405,7 @@ tunsi vanhat valkamansa,
 entiset elosijansa;  
 mäet tunsi mäntyinensä,  
 kummut kaikki kuusinensa  
-- ei tunne tuvan aloa,  
+\- ei tunne tuvan aloa,  
 seinän seisontasijoa:  
 jo tuossa tuvan sijalla  
 nuori tuomikko tohisi,  
@@ -14457,7 +14457,7 @@ mittaelin miekkoani,
 kannoin kaunista asetta  
 noilla Pohjolan pihoilla,  
 Pimentolan pientarilla  
-- surmaksi oman sukuni,  
+\- surmaksi oman sukuni,  
 kateheksi kantajani!"  
 Katseleikse, käänteleikse:  
 näki jälkeä hitusen,  
@@ -14475,7 +14475,7 @@ Näkevi salaisen saunan,
 piilopirtin pikkaraisen  
 kahen kallion lomassa,  
 kolmen kuusen kulman alla  
-- siellä ehtoisen emonsa,  
+\- siellä ehtoisen emonsa,  
 tuon on valtavanhempansa.  
 Siinä lieto Lemminkäinen  
 ihastui ikihyväksi.  
@@ -14556,7 +14556,7 @@ havukat kylän kanoja."
 Ahti poika, aino poika,  
 lieto poika Lemminkäinen  
 aamulla ani varahin,  
-aivan aika-huomenessa  
+aivan aika\-huomenessa  
 astuihen alusmajoille,  
 läksi laivavalkamoille.  
 Siinä itki puinen pursi,  
@@ -14671,7 +14671,7 @@ sekä läksi jotta joutui
 Ahille soan avuksi.  
 Siitä Ahti Saarelainen  
 lykkäsi venon vesille  
-kuni kyyn kulon-alaisen  
+kuni kyyn kulon\-alaisen  
 eli käärmehen elävän.  
 Läksi luoen luotehesen  
 tuolle Pohjolan merelle.  
@@ -14788,7 +14788,7 @@ vilu ilma viihytteli
 pahoilla pajupuroilla,  
 here'illä hettehillä.  
 "Sai poika pahantapainen,  
-tuli turmion-alainen.  
+tuli turmion\-alainen.  
 Ei ollut nimeä vielä  
 pojalla epäpäöllä.  
 Pantihin nimi pahalle:  
@@ -14921,7 +14921,7 @@ itse lausui, noin nimesi:
 kostohon, kovaosaiset,  
 saimme suurehen sotahan  
 pimeähän Pohjolahan  
-- oman hengen heitteheksi,  
+\- oman hengen heitteheksi,  
 itsemme ikimenoksi  
 näillä paikoilla pahoilla,  
 teillä tietämättömillä.  
@@ -15190,7 +15190,7 @@ kuollut poika puolikkohon!
 Ei ole hukkunut vetehen,  
 kuollut poika puolikkohon!  
 Poika oli pääsnyt puolikosta  
-- istui aaltojen selässä  
+\- istui aaltojen selässä  
 vapa vaskinen käessä,  
 siima silkkinen perässä;  
 onkivi meren kaloja,  
@@ -15302,7 +15302,7 @@ kun saan kirvehen kätehen,
 paljo katsoa parempi,  
 entistäni armahampi:  
 lienen mies viien veroinen,  
-uros kuuen-kummallinen."  
+uros kuuen\-kummallinen."  
 Meni seppolan pajahan.  
 Sanan virkkoi, noin nimesi:  
 "Oi on seppo veikkoseni!  
@@ -15454,7 +15454,7 @@ raaolle rakentuminen!"
 Seppo Ilmarin emäntä,  
 tuopa tuossa arvelevi,  
 kulle työlle uusi orja,  
-raaolle rahan-alainen.  
+raaolle rahan\-alainen.  
 Pani orjan paimeneksi,  
 karjan suuren kaitsijaksi.  
 Tuopa ilkoinen emäntä,  
@@ -15659,10 +15659,10 @@ mairehista maaemistä,
 metisistä mättähistä,  
 nurmelta mesinukalta,  
 maalta marjanvartiselta,  
-kanervan-kukattarilta,  
-heinän-helpehettäriltä,  
+kanervan\-kukattarilta,  
+heinän\-helpehettäriltä,  
 pilven piimätyttäriltä,  
-taivahan-navattarilta,  
+taivahan\-navattarilta,  
 tuoa maitoiset maruet,  
 aina uhkuvat utaret  
 lypseä lyhyen vaimon,  
@@ -15750,7 +15750,7 @@ katajainen karjanruoska
 takoa Tapion linnan,  
 tuolta puolen Tuomivaaran!  
 Aja karja kartanolle,  
-saunan lämmitä-panolle,  
+saunan lämmitä\-panolle,  
 kotihin kotoinen karja,  
 metsän karja Metsolahan!  
 "Otsonen, metsän omena,  
@@ -15899,7 +15899,7 @@ käyä halki kämmenpääsi,
 poikki pohkealihasi,  
 sinisen salon sisässä,  
 korven kuulun kainalossa.  
-"Käpy- on kangas käyäksesi,  
+"Käpy\- on kangas käyäksesi,  
 hiekka helkytelläksesi,  
 tie on tehty mennäksesi,  
 meren ranta juostaksesi  
@@ -16000,7 +16000,7 @@ itse kangasta kapusi.
 Sanan virkki vierressänsä,  
 kertoeli käyessänsä:  
 "Voi minä poloinen poika,  
-voi poika polon-alainen!  
+voi poika polon\-alainen!  
 Jo minä johonki jou'uin,  
 jou'uin joutavan jälille,  
 härän hännän paimeneksi,  
@@ -16132,7 +16132,7 @@ karhut karjaksi rakenti,
 minkä pisti Pienikiksi,  
 kunka Kyytäksi kyhäisi.  
 Lonkui päivä lounahasen,  
-kiertyi keski-illoillensa,  
+kiertyi keski\-illoillensa,  
 kulki kuusikon tasalle,  
 lenti lehmäslypsykselle.  
 Tuo pahainen paimen raiska,  
@@ -16229,7 +16229,7 @@ Leivoit sie kivisen leivän,
 kakun paistoit kallioisen:  
 ve'in veitseni kivehen,  
 karahutin kalliohon  
-- ainoan isoni veitsen,  
+\- ainoan isoni veitsen,  
 sukukuntani kuraksen!"  
 Sanoi Ilmarin emäntä:  
 "Oi sie paimo, armas paimo!  
@@ -16287,7 +16287,7 @@ Se oli meno nuoren naisen,
 kanssa kaunihin emännän,  
 jot' oli viikon valvateltu,  
 vuosin kuusin kuulusteltu  
-Ilmarin iki-iloksi,  
+Ilmarin iki\-iloksi,  
 sepon kuulun kunniaksi.  
   
   
@@ -16394,7 +16394,7 @@ puuttui aivohon ajatus
 käyä Untamon kylähän,  
 kostoa isonsa kohlut,  
 ison kohlut, maammon mahlat,  
-itsensä pahoin-piännät.  
+itsensä pahoin\-piännät.  
 Sanan virkkoi, noin nimesi:  
 "Vuota, vuota, Untamoinen,  
 maltapa, sukuni surma!  
@@ -16474,7 +16474,7 @@ päätyi päähän pitkän niemen:
 tupa oli niemen tutkaimessa,  
 kalasauna kaiskun päässä.  
 Meni hän tupahan tuosta  
-- eipä tunneta tuvassa:  
+\- eipä tunneta tuvassa:  
 "Mistä vieras veen takoa,  
 kusta kulkijain kotoisin?"  
 "Etkö tunne poikoasi,  
@@ -16918,7 +16918,7 @@ mies katala kaatamatta,
 kostamatta taaton kohlut,  
 maammon mahlat maksamatta,  
 muistamatta muutki vaivat,  
-itseni hyvin-piännät."  
+itseni hyvin\-piännät."  
   
   
   
@@ -17549,7 +17549,7 @@ vilun huohtavi hopea."
   
   
 Tuop' on seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 heitti kultaisen kuvansa,  
 hope'isen neitosensa.  
 Pisti varsan valjahisin,  
@@ -17595,7 +17595,7 @@ sijalle sisaruensa!"
 Louhi, Pohjolan emäntä,  
 sanan virkkoi, noin nimesi:  
 "Pahoin tein minä poloinen,  
-pahoinpa, polon-alainen,  
+pahoinpa, polon\-alainen,  
 kun ma lapseni lupasin,  
 työnsin sulle toisenkana  
 nuorena nukahtamahan,  
@@ -17659,7 +17659,7 @@ isommille istuimille,
 ei sepon sysisijoille,  
 miehen tuhmaisen tulille."  
 Se on seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 murti suuta, väänti päätä,  
 murti mustoa haventa.  
 Saautti tytön samassa,  
@@ -17802,7 +17802,7 @@ Ajoa kahattelevi
 yöksi uutehen kylähän.  
 Matkalta väsynehenä  
 seppo nukkuvi sike'in  
-- toinen naista naurattavi  
+\- toinen naista naurattavi  
 mieheltä unekkahalta.  
 Siitä seppo Ilmarinen  
 aamulla havattuansa  
@@ -17947,7 +17947,7 @@ tuonne kylmähän kylähän,
 pimeähän Pohjolahan,  
 summahan Sariolahan!"  
 Tuo on seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 tunki rautoja tulehen,  
 teräksiä hiiloksehen,  
 kultia koko piosen,  
@@ -17961,7 +17961,7 @@ teräs taipui tahtahana,
 hopea vetenä välkkyi,  
 kulta läikkyi lainehena.  
 Siitä seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 katsoi alle ahjoksensa,  
 lietsimensä liepehelle:  
 näki miekan syntyväksi,  
@@ -18346,8 +18346,8 @@ käsin kääri käppyröitä,
 kourin kuohuja kohenna,  
 jottei riusko rinnoillemme  
 eikä päällemme päräjä!  
-"Akka aaltojen-alainen,  
-vaimo kuohun-korvallinen!  
+"Akka aaltojen\-alainen,  
+vaimo kuohun\-korvallinen!  
 Nouse kourin kuohun päälle,  
 yskin aallollen ylene  
 kuohuja kokoamahan,  
@@ -18361,7 +18361,7 @@ päälakensa painakohon
 matkalta punaisen purren,  
 tieltä tervaisen venehen!  
 "Kun ei tuosta kyllin liene,  
-Kivi-Kimmo, Kammon poika,  
+Kivi\-Kimmo, Kammon poika,  
 väännä reikä vääntimellä,  
 puhkaise purasimella  
 keskelle kosen kiveä,  
@@ -18374,8 +18374,8 @@ kivet saata sammaliksi,
 hauin vuoluksi venonen  
 kuohuja kulettaessa,  
 mäkipäitä mentäessä!  
-"Neiti kosken-korvallinen,  
-impi virran-vierellinen!  
+"Neiti kosken\-korvallinen,  
+impi virran\-vierellinen!  
 Kehreäs utuinen lanka  
 utuisesta kuontalosta!  
 Veä lankasi ve'elle,  
@@ -18513,7 +18513,7 @@ sepä hauki keittämähän
 murkinaisiksi muruiksi,  
 kalaisiksi lounahiksi!"  
 Kävi neiet keittämähän  
-- kävi kilvan kymmenenki.  
+\- kävi kilvan kymmenenki.  
 Siitä hauki keitetähän,  
 murkinoiahan muruina.  
 Jäipä luita luotoselle,  
@@ -18560,7 +18560,7 @@ soitto suuri hauinluinen,
 kantelo kalaneväinen.  
 Tuli tuohon nuoret miehet,  
 tuli nainehet urohot,  
-tuli pojat puol'-ikäiset  
+tuli pojat puol'\-ikäiset  
 sekä pienet piikalapset,  
 tytöt nuoret, vaimot vanhat,  
 naiset keskikertaisetki,  
@@ -18663,7 +18663,7 @@ pyytänehen polvuksille.
   
   
 Vaka vanha Väinämöinen,  
-laulaja iän-ikuinen,  
+laulaja iän\-ikuinen,  
 sormiansa suorittavi,  
 peukaloitansa pesevi.  
 Istuiksen ilokivelle,  
@@ -18841,7 +18841,7 @@ kenen syäntä ei sulannut.
 Itki nuoret, itki vanhat,  
 itki miehet naimattomat,  
 itki nainehet urohot,  
-itki pojat puol'-ikäiset,  
+itki pojat puol'\-ikäiset,  
 sekä pojat jotta neiet,  
 jotta pienet piikasetki,  
 kun oli ääni kummanlainen,  
@@ -18927,7 +18927,7 @@ kasvanehet kaunoisiksi,
 helmiksi heristynehet,  
 simpsukoiksi siintynehet,  
 kuningasten kunnioiksi,  
-valtojen iki-iloiksi.  
+valtojen iki\-iloiksi.  
   
   
   
@@ -19015,7 +19015,7 @@ sekä vaipui katselijat;
 nukkui nuoret, nukkui vanhat  
 Väinämöisen soitantohon.  
 Siitä viisas Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 tapasi on taskuhunsa,  
 kulki kukkaroisehensa.  
 Ottavi uniset neulat,  
@@ -19281,7 +19281,7 @@ ulapalle aukealle,
 jottei päästä Väinämöisen,  
 osata uvantolaisen!  
 "Kun ei tuosta kyllin tulle,  
-Iku-Turso, Äijön poika,  
+Iku\-Turso, Äijön poika,  
 nosta päätäsi merestä,  
 lakkoasi lainehesta!  
 Kaataos Kalevan miehet,  
@@ -19344,7 +19344,7 @@ Itse vanha Väinämöinen
 katsoi vierellä vesiä,  
 loi silmät sivulle purren.  
 Näki kummoa vähäisen:  
-Iku-Turso, Äijön poika,  
+Iku\-Turso, Äijön poika,  
 vieressä veno punaisen  
 nosti päätänsä merestä,  
 lakkoansa lainehesta.  
@@ -19353,22 +19353,22 @@ saipa korvat kourihinsa.
 Korvista kohottelevi,  
 kysytteli, lausutteli,  
 sanan virkkoi, noin nimesi:  
-"Iku-Turso, Äijön poika!  
+"Iku\-Turso, Äijön poika!  
 Miksi sie merestä nousit,  
 kuksi aallosta ylenit  
 etehen imehnisille,  
 saanikka Kalevan poian?"  
-Iku-Turso, Äijön poika,  
+Iku\-Turso, Äijön poika,  
 eikä tuo ihastu tuosta  
 eikä tuo kovin pelästy  
 eikä varsin vastaele.  
 Vaka vanha Väinämöinen  
 tarkoin toiste tutkaeli,  
 kolmasti kovin kysyvi:  
-"Iku-Turso, Äijön poika!  
+"Iku\-Turso, Äijön poika!  
 Miksi sie merestä nousit,  
 kuksi aallosta ylenit?"  
-Iku-Turso, Äijön poika,  
+Iku\-Turso, Äijön poika,  
 jo kerralla kolmannella  
 sanan vastaten sanovi:  
 "Siksi mie merestä nousin,  
@@ -19383,7 +19383,7 @@ etehen imehnisille."
 Silloin vanha Väinämöinen  
 heitti herjan lainehisin.  
 Itse tuon sanoiksi virkki:  
-"Iku-Turso, Äijön poika!  
+"Iku\-Turso, Äijön poika!  
 Ellös sie merestä nousko,  
 ellös aallosta yletkö  
 etehen imehnisille  
@@ -19421,7 +19421,7 @@ aallot hakkasi alusta.
 Veivät harpun hauinluisen,  
 kantelon kalaneväisen  
 väen Vellamon hyväksi,  
-Ahtolan iki-iloksi.  
+Ahtolan iki\-iloksi.  
 Ahto aalloilta havainnut,  
 Ahon lapset lainehilta;  
 ottivat sorean soiton,  
@@ -19431,7 +19431,7 @@ ve'et silmihin vetihe.
 Itse tuon sanoiksi virkki:  
 "Sinne sattui saalahani,  
 meni mielisoittimeni,  
-katosi iki-iloni!  
+katosi iki\-iloni!  
 En tuota enämpi saane  
 sinä ilmoisna ikänä  
 hauin hampahan iloa,  
@@ -19743,7 +19743,7 @@ kuunna, kymmennä kesänä
 kullankana tarpehella,  
 hopeankana halulla!"  
 Vaka vanha Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 arvasi ajan olevan,  
 tunsi hetken tulleheksi.  
 Jo veti melan merestä,  
@@ -19971,7 +19971,7 @@ kantelo tavatakseni
 kalaisesta kaartehesta,  
 lohisesta louhikosta!"  
 Se on seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 takoi rautaisen haravan  
 varren vaskisen keralla.  
 Piit takoi satoa syltä,  
@@ -20052,7 +20052,7 @@ kesän kaunihin tulevan,
 suven suuren lämpiävän.  
 Toisinpa minä typerä,  
 minä vaivainen varoan  
-- kuoreni kolottavaksi,  
+\- kuoreni kolottavaksi,  
 lehtivarvat vietäväksi!  
 "Useinpa minun utuisen,  
 use'in, utuisen raukan,  
@@ -20121,7 +20121,7 @@ emäpuun visaperästä.
 Sanoi vanha Väinämöinen,  
 itse lausui, noin nimesi:  
 "Tuoss' on koppa kanteletta,  
-emäpuu iki-iloa.  
+emäpuu iki\-iloa.  
 Mistä naulat saatanehe,  
 vääntimet perittänehe?"  
 Kasvoi tammi tanhualla,  
@@ -20171,7 +20171,7 @@ hienoja hivuksiansa;
 antoi hasta viisi, kuusi  
 sekä seitsemän hivusta:  
 siit' on kielet kantelessa,  
-ääntimet iki-ilossa.  
+ääntimet iki\-ilossa.  
 Saip' on soitto valmihiksi.  
 Siitä vanha Väinämöinen  
 istuiksen alakivelle,  
@@ -20244,9 +20244,9 @@ veen kalaset kaikenlaiset
 rantahan rakentelihe.  
 Matosetki maanalaiset  
 päälle mullan muuttelihe  
-- käänteleivät, kuuntelevat  
+\- käänteleivät, kuuntelevat  
 tuota soittoa suloista,  
-kantelen iki-iloa,  
+kantelen iki\-iloa,  
 Väinämöisen väännätystä.  
 Siinä vanha Väinämöinen  
 kyllä soitteli somasti,  
@@ -20311,7 +20311,7 @@ ilke'in manattaria,
 alku kaikille pahoille,  
 tuhansille turmioille.  
 Sill' oli muoto mustanlainen,  
-iho inhon-karvallinen.  
+iho inhon\-karvallinen.  
 Tuopa musta Tuonen tyttö,  
 ulappalan umpisilmä,  
 teki tielle vuotehensa,  
@@ -20453,7 +20453,7 @@ kunka ruohutti ruveksi,
 minkä syöjäksi sysäsi,  
 kunka ruhtosi rutoksi.  
 Jäi yksi nimittämättä,  
-poika pahnan-pohjimmainen.  
+poika pahnan\-pohjimmainen.  
 Senpä sitte käski tuonne,  
 työnti velhoiksi vesille,  
 noi'iksi noroperille,  
@@ -20473,7 +20473,7 @@ nimen tietämättömiä:
 alta lattiat lahovi,  
 päältä peite märkänevi.  
 Silloin vanha Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 läksi päitä päästämähän,  
 henkiä lunastamahan,  
 läksi Tuonelle sotahan,  
@@ -20527,7 +20527,7 @@ joka pilviä pitävi,
 poutapilvessä asuvi,  
 hattaroissa hallitsevi.  
 "Oi Ukko, ylijumala,  
-pilven-päällinen jumala!  
+pilven\-päällinen jumala!  
 Tule tänne tarvittaissa,  
 ajaite anottaessa  
 nämä tuskat tuntemahan,  
@@ -20595,7 +20595,7 @@ pakkopäivät painetahan
 öin yrittämättömiksi,  
 päivin pääsemättömiksi."  
 Siitä vanha Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 vielä voiteli vikoja,  
 noita vammoja valeli  
 yheksillä voitehilla,  
@@ -20637,7 +20637,7 @@ vaivoa vähäistäkänä
 sinä ilmoisna ikänä,  
 kuuna kullan valkeana!"  
 Vaka vanha Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 sillä riisui rikkehiä,  
 purkaeli puuttehia.  
 Poies poisti poikenluomat,  
@@ -20795,7 +20795,7 @@ kuni lumme lammin päällä,
 niin sä haihaos havulla,  
 kuni oksalla orava!"  
 Siitä vanha Väinämöinen,  
-laulaja iän-ikuinen,  
+laulaja iän\-ikuinen,  
 astui soitellen ahoja,  
 kajahellen kankahia  
 kera kuulun vierahansa,  
@@ -20943,7 +20943,7 @@ karvojen katseltavaksi!
 "Elä, otso, tuosta huoli  
 eläkä pane pahaksi,  
 jos tulevi turkin tunti,  
-karvojen katsanto-aika!  
+karvojen katsanto\-aika!  
 Ei tuhota turkkiasi,  
 karvojasi ei katsota  
 herjojen hetalehiksi,  
@@ -21214,7 +21214,7 @@ petäjähän penseähän,
 honkahan havusatahan!  
 Hyvä siin' on ollaksesi,  
 armas aikaellaksesi  
-- kuuluvilla karjan kellon,  
+\- kuuluvilla karjan kellon,  
 luona tiukujen tirinän."  
 Vaka vanha Väinämöinen  
 jo tuli kotihin tuolta.  
@@ -21531,7 +21531,7 @@ aaltoihin Aluen järven:
 se oli syttyä tulehen,  
 säkehinä säihkyellä.  
 "Kolmasti kesäisnä yönä,  
-yheksästi syksy-yönä,  
+yheksästi syksy\-yönä,  
 kuohui kuusien tasalle,  
 ärjyi päälle äyrähien  
 tuon tuiman tulen käsissä,  
@@ -21630,7 +21630,7 @@ ruskeahan ruoikkohon,
 kaunihisen kaislikkohon.  
 Pyritähän, pyyetähän,  
 ve'etähän, vellotahan  
-- nurin nuotta potketahan,  
+\- nurin nuotta potketahan,  
 väärin veetähän apaja:  
 ei saa'a sitä kaloa,  
 kuta kilvoin pyyetähän.  
@@ -21671,7 +21671,7 @@ nuotat kahta kauheammat."
   
   
 Vaka vanha Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 tuosta tuumille tulevi,  
 ajeleiksen arveloille  
 nuotan liinaisen kutoa,  
@@ -22129,7 +22129,7 @@ miehen merkkiä kysyä,
 minne meiltä päivä päätyi,  
 kunne meiltä kuu katosi."  
 Itse vanha Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 leikkasi lepästä lastut,  
 laittoi lastut laaullensa,  
 kävi arvat kääntämähän,  
@@ -22231,7 +22231,7 @@ ajoihe katoksen alle.
 Siellä miehet mettä juovat,  
 simoa sirettelevät,  
 miehet kaikki miekka vyöllä,  
-urohot sota-aseissa  
+urohot sota\-aseissa  
 pään varalle Väinämöisen,  
 surmaksi suvantolaisen.  
 Nuo kysyivät tullehelta,  
@@ -22241,7 +22241,7 @@ tuuma uinehen urohon?"
 Vaka vanha Väinämöinen  
 sanan virkkoi, noin nimesi:  
 "Kuusta on sanomat kummat,  
-päivästä iki-imehet.  
+päivästä iki\-imehet.  
 Minnes meiltä päivä päätyi,  
 kunnes meiltä kuu katosi?"  
 Pohjan poikaset sanovi,  
@@ -22321,7 +22321,7 @@ tämän päivyen perästä
 kyyt juoko olosiamme,  
 maot mallasjuomiamme!"  
 Siitä vanha Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 kourin koitteli ovia,  
 salpoja sanan väellä:  
 ei ovet käsin avau,  
@@ -22329,7 +22329,7 @@ salvat ei sanoista huoli.
 Silloin vanha Väinämöinen  
 itse tuon sanoiksi virkki:  
 "Akka mies asehitoinna,  
-konna kirves-kuokatoinna."  
+konna kirves\-kuokatoinna."  
 Kohta lähtevi kotia,  
 alla päin, pahoilla mielin,  
 kun ei vielä kuuta saanut  
@@ -22357,7 +22357,7 @@ avaimia aika kimppu,
 jolla kuun kivestä päästän,  
 päivän päästän kalliosta!"  
 Se on seppo Ilmarinen,  
-takoja iän-ikuinen,  
+takoja iän\-ikuinen,  
 takoi miehen tarpehia;  
 takoi tuuria tusinan,  
 avaimia aika kimpun,  
@@ -22435,7 +22435,7 @@ näki päivän paistavaksi.
 Meni luoksi Väinämöisen,  
 sanan virkkoi, noin nimesi:  
 "Ohoh vanha Väinämöinen,  
-laulaja iän-ikuinen!  
+laulaja iän\-ikuinen!  
 Käypä kuuta katsomahan,  
 päiveä tähyämähän!  
 Jo ovat tarkoin taivahalla,  
@@ -22491,7 +22491,7 @@ sile'illä silkillänsä,
 puolet pihtipuolisia  
 hienoilla hiansa suilla,  
 siltalaahkon lattiata  
-kautokengän-kannoillansa.  
+kautokengän\-kannoillansa.  
 Marjatta, korea kuopus,  
 tuo on piika pikkarainen,  
 piti viikoista pyhyyttä,  
@@ -22695,7 +22695,7 @@ keltä aihelen apua?"
 Sanoi meiän Marjattainen,  
 itse virkki, noin nimesi:  
 "Kysy Ruotuksen kylyä,  
-saunoa Sarajan-suista!"  
+saunoa Sarajan\-suista!"  
 Piltti, piika pikkarainen,  
 tuo oli nöyrä neuvottava,  
 kärkäs ilman käskemättä,  
@@ -22770,7 +22770,7 @@ Itse tuon sanoiksi virkki:
 "Lähteä minun tulevi  
 niinkuin muinenki kasakan  
 eli orjan palkollisen  
-- lähteä kytömäelle,  
+\- lähteä kytömäelle,  
 käyä hongikkokeolle!"  
 Käsin kääri vaattehensa,  
 kourin helmansa kokosi;  
@@ -22919,7 +22919,7 @@ tutkittane, tuomittane."
 Kenpä tuohon tutkijaksi,  
 tutkijaksi, tuomariksi?  
 Vaka vanha Väinämöinen,  
-tietäjä iän-ikuinen,  
+tietäjä iän\-ikuinen,  
 sepä tuohon tutkijaksi,  
 tutkijaksi, tuomariksi!  
 Vaka vanha Väinämöinen  
