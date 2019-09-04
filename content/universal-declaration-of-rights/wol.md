@@ -1,6 +1,6 @@
 <h1 align='center'>BATAAXAL GU MAG GI ËMB SAÑ-SAÑI DOOMI AADAMA</h1>
-<h2 align='center'></h2>
-<p align='center'>Ñu jàpp te nangu ne sagu doomi aadama ak sañ-sañam yépp-dañu yam te kenn mënukóo jalgati, te lu lépp nekk na cës laay ci taxufeex ci mbirum àtte ak jàmm ci biir àdduna.
+<h2></h2>
+<p>Ñu jàpp te nangu ne sagu doomi aadama ak sañ-sañam yépp-dañu yam te kenn mënukóo jalgati, te lu lépp nekk na cës laay ci taxufeex ci mbirum àtte ak jàmm ci biir àdduna.
 Ñu jàpp ne ñakk xam ak soofantal sañ-sañi doomi aadama indi na aymusiba yu tar tax képp kuy dund fippu. Temano egsi na ba mu nekk ci doomi aadama ñu mën a wax, xalaat, ci seen coobare, bundxatal, nàkk dëddu leen.
 Ñu jàpp ne am na solo lool ñu aar sañ-sañi doomu aadama ak ay matukaay ci wàllu yoon; ngir doomu aadama moomu kenn du ko sonal, muy fippu ci nootaange ak lu koy bunduxatal.
 Ñu jàpp ne am na solo lool ñu góor-goorlu ba gën a rataxal jokkalante gi diggante xeet yi.

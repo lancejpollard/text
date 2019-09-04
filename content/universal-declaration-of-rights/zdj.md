@@ -1,6 +1,6 @@
 <h1 align='center'>ANZIMIYO LA KILEMWENGU UHSU ZE HAKI ZAKI BINADAMU</h1>
-<h2 align='center'>Mukadima</h2>
-<p align='center'>1- Ha mwakinisho ukaya ho ukubali ye sheo shaho wo ubinadamu piya pvamwedja ne ze haki za wadjibu zaho usawa, zahao, uwo ndo mshindzi waho uhuria, no mlidzanyiso haki, ne amani yahe duniya kamili.
+<h2>Mukadima</h2>
+<p>1- Ha mwakinisho ukaya ho ukubali ye sheo shaho wo ubinadamu piya pvamwedja ne ze haki za wadjibu zaho usawa, zahao, uwo ndo mshindzi waho uhuria, no mlidzanyiso haki, ne amani yahe duniya kamili.
 2- Ha mwakinisho ukaya wo upuzi no uwoneya ze haki zaki binadamu zika tsongeza yazitrendwa zaki djinga za utunkiza na ukaya wo mzalihano wa duniya yidjo ustehi wo uhuriya wamakaulu, na imani, duniya yidjo upukana na mashangaza na usikini siki, uirendeha bombeyo la mwando la hayini mwanadamu.
 3- Ha mwakinisho ukaya zo muhimu ho uhifadhwi zehaki zaki binadamu harumwa daula yi rumiyao shariya yili ye mwanadamu yatsi djihundre harumwa wadjibu yauhima ha shari kinyume no urendzwa mvuu, no ukadamiziwa.
 4- Ha mwakinisho ukaya zo muhimu ho utriya djitihadi wo mparano no uwandzani baina yahe ze daula.

@@ -1,6 +1,6 @@
 <h1 align='center'>DICIARAÇION UNIVERSALE DI DRITI DE PERSONN-E</h1>
-<h2 align='center'>Preanbolo</h2>
-<p align='center'>Conscideròu che o riconoscimento da pròpia dignitæ e di driti pægi e inalienabili de tutti i menbri da famiggia umann-a o l’é o fondamento da libertæ, da giustiçia e da paxe into mondo,
+<h2>Preanbolo</h2>
+<p>Conscideròu che o riconoscimento da pròpia dignitæ e di driti pægi e inalienabili de tutti i menbri da famiggia umann-a o l’é o fondamento da libertæ, da giustiçia e da paxe into mondo,
 Conscideròu che a negaçion e o desprexo di driti de personn-e an acaxonòu di atti de barbaritæ che an ofeizo a coscensa de l’umanitæ; e che l’é stæto proclamòu comme ciù erta aspiraçion de l’òmmo l’arivo de ’n mondo into quæ tutti, liberæ da-a poia e da-a mizeia, gödian da libertæ de paròlla e de creddo,
 Conscideròu che l’é esensiale che i driti de personn-e segian protezui da de lezze giuridiche perché l’òmmo o no s’atreuve costreito, in urtima istansa, a-a rebelion contra a tirania e l’òprescion,
 Conscideròu che l’é esensiale promeuve o sviluppo de de relaçioin da amixi fra e naçioin,

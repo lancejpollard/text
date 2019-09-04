@@ -1,6 +1,6 @@
 <h1 align='center'>Sigai Renquan Xuanyan</h1>
-<h2 align='center'>Qianyan</h2>
-<p align='center'>Jianyu dui renlui soyou cenyuan li guyou zunlian jie qi pinden li ho bwyi li quanli li cenren, laisi sigai ziyou, zenli yu hopin li jicu,
+<h2>Qianyan</h2>
+<p>Jianyu dui renlui soyou cenyuan li guyou zunlian jie qi pinden li ho bwyi li quanli li cenren, laisi sigai ziyou, zenli yu hopin li jicu,
 Jianyu dui renquan li vusi ho vumie yi fazan wei yiman baoxin, zixi baoxin dianvu la renlui li liangxin, er yego renren xiangyou yanlun ho xinyang ziyou bin mianyu kongju ho kuifa li sigai li lailin, yi bei xuanbu wei putong renmin li zuigao yuanwang,
 Jianyu wei si renlui bwzi pae bw dae yi tin er zou xian dui baozen ho yapae jinxin fanpan, you bieyao si renquan sou fazi li baofu,
 Jianyu you bieyao cwjin go guae jian youhao guanxi li fazan,

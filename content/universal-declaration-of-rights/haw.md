@@ -1,6 +1,6 @@
 <h1 align='center'>Universal Declaration of Human Rights</h1>
-<h2 align='center'>ŌLELO MUA</h2>
-<p align='center'>‘Oiai, ‘o ka ho’omaopop ‘ana i ka hanohano, a me nā pono kīvila i kau like ma luna o nā pua apau loa o ka ‘ohana kanaka ke kumu kahua o ke kū’oko’a, ke kaulike, a me ka maluhia o ka honua, a
+<h2>ŌLELO MUA</h2>
+<p>‘Oiai, ‘o ka ho’omaopop ‘ana i ka hanohano, a me nā pono kīvila i kau like ma luna o nā pua apau loa o ka ‘ohana kanaka ke kumu kahua o ke kū’oko’a, ke kaulike, a me ka maluhia o ka honua, a
 ‘Oiai, ‘o ka hehikū a me ka ho’owahāwahā i ka pono kīvila o ke kanaka ke kumu o ka hana loko’ino, ka mea ho’i i pi’i ai ka inaina o ka luna’ikehala o kānaka, a ua kūkala ‘ia ho’i ka wehena o ke ao e noo ia nā maka ‘āinana apau me ke kū’oko’a o ka ōlelo a me ka mana’o, me ka maka’u ‘ole, a
 ‘Oiai, he mea nui ka ho’opakele ‘ana o ke kānāwai i nā pono kīvila o kānaka, inā ho pono nō e ‘imi i ke ala o ke kipi ‘ana i ka hainā a me ka ho’oluhi hewa wale, a
 ‘Oiai, he mea nui ka ho’okō ‘ana i ka pili aloha ma waena o nā aupuni, a

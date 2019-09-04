@@ -1,6 +1,6 @@
 <h1 align='center'>Deklarasyon linivèsèl Dwa Moun</h1>
-<h2 align='center'>Entwodiksyon</h2>
-<p align='center'>Lè nou sonje ke desizyon rekonèt valè chak moun genyen nan li menm-menm kòm moun, desizyon rekonèt tout moun gen menm dwa egalego, dwa pèsonn pa ka wete nan men yo, desizyon sa a se veritab baz libète, veritab baz lajistis ak lapè sou tè a.
+<h2>Entwodiksyon</h2>
+<p>Lè nou sonje ke desizyon rekonèt valè chak moun genyen nan li menm-menm kòm moun, desizyon rekonèt tout moun gen menm dwa egalego, dwa pèsonn pa ka wete nan men yo, desizyon sa a se veritab baz libète, veritab baz lajistis ak lapè sou tè a.
 Lè nou sonje ke inyorans ak mepri dwa moun, konn lakòz divès move zak sovaj, zak ki revolte konsyans mezi moun sou tè a, san nou pa bliye ke, pi gwo espwa nou kòm moun, sèke yon jou va rive lè chak kretyen-vivan va gen libète lapawòl, libète pou li gen konviksyon pèsonel li, yon jou lè tout moun va santi yo debarase ak lapèrèz ak lamizè sou tè a.
 Lè nou sonje nesesite pou gen yon seri règleman ki pou pwoteje dwa moun sou tè a, dekwa pou lèzòm pa toujou santi yo oblije pran lèzam pou delivre tèt yo anba chèf k ap kraze brize ak moun k ap fè abi.
 Lè nou sonje nesesite pou nou ankouraje tout nasyon tabli relasyon bon zanmitay antre yo.

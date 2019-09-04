@@ -1,6 +1,6 @@
 <h1 align='center'>Mulevhoguṱe wa Pfanelo dza Vhuthu</h1>
-<h2 align='center'>MVULATSWINGA</h2>
-<p align='center'>Vhunga u ḓivhea ha u dzhiela nṱha lwa mvele ya tshirunzi tsha muthu na ndingano na pfanelo dza vhathu vhoṱhe zwi murango wa mbofholowo, vhulamukanyi na mulalo ḽifhasini,
+<h2>MVULATSWINGA</h2>
+<p>Vhunga u ḓivhea ha u dzhiela nṱha lwa mvele ya tshirunzi tsha muthu na ndingano na pfanelo dza vhathu vhoṱhe zwi murango wa mbofholowo, vhulamukanyi na mulalo ḽifhasini,
 Vhunga u dzhielwa fhasi na u tsikeledzwa ha pfanelo dza vhathu ho bveledza zwiito zwa vhuveveru vhu fhandulaho luvalo lwa muthu, na u ḓa ha shango ḽine khaḽo vhathu vha ḓo ḓiphina nga mbofholowo ya u amba na u tenda kha zwine vha funa, na u vhofholowa kha nyofho na zwinyagwa ḽo ḓivhadzwaho sa dzangalelo ḽihulwane ḽa vhathu zwavho,
 Vhunga zwi zwa ndeme, arali muthu a sa faneli u kombetshedzwa nga u shaya iṅwe nḓila, u vutshela vhutambudzi na vhutsikeledzi, uri pfanelo dza vhuthu dzi tsireledzwe nga tshumiso ya mulayo,
 Vhunga zwi zwa vhuṱhogwa u ṱuṱuwedza mvelaphanḓa ya vhukonani havhuḓi vhukati ha dzitshaka,

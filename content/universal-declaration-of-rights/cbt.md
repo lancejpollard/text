@@ -1,6 +1,6 @@
 <h1 align='center'>COPIRNORO'SA' NAPORINSOPITA YA'IPI PIYAPI NOYA YA'HUËCAISO MARË'</h1>
-<h2 align='center'>SHA'HUICHINQUËMA'</h2>
-<p align='center'>Ya'ipi piyapi'sa' noya ya'huëina'. Ama incari tëranta' topinan quëran ana'inchinasohuë'. Ina quëran ya'ipi parti noya nini'tëhua' ya'huërëhua huachi.
+<h2>SHA'HUICHINQUËMA'</h2>
+<p>Ya'ipi piyapi'sa' noya ya'huëina'. Ama incari tëranta' topinan quëran ana'inchinasohuë'. Ina quëran ya'ipi parti noya nini'tëhua' ya'huërëhua huachi.
 A 'naquën piyapi 'sa' co nosorohuachinahuë', chiniquen aparësitopi. A'na tahuëri tëpapi. Inaso' pa'pi co noyahuë' tënëhua'. Nonpiso marë', yonquipiso marë' Co ana'intacaso' ya'huërinhuë'. Naporahuaton, ya'ipi piyapi ma'sha ya'huëchina' Co nohuantërëhuahuë' a nayanquënpoatëranta' pahuantinpoaso.
 Ya'ipi Copirnoro'sa' noya hua'anëntinpoaso' ya 'huërin. Ama topinan quëran ana'inchinpoasohuë'. Topinan quëran aparësitohuachinpoara, a'naquën chiniquën no'huihuachina yaahuëtopi. Ina quëran a'na copirno acopi huachi.
 Ya'ipi Copirnoro'sa' noya nini'tona' ya'huëina'. Ama nino'huiatonahuë', ama quira niinasohuë', tënëhua'. Ya'nan niyontonëhuaso' ninshitërëhua'. -Ya'ipi piyapi 'sa' noya ya'huëina', tënëhua'. Quëmapi'sa', sanapiro'santa' napopianachin Copirnoro'sari noya niina'. Ya'ipi piyapi'sa' catahua'hua' noya noya ya'huëcaiso marë', tënëhua'.

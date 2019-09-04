@@ -1,6 +1,6 @@
 <h1 align='center'>Universal Declaration of Human Rights</h1>
-<h2 align='center'>PUNTATA</h2>
-<p align='center'>Yumbay runakuna warmikunda day pachapi tiyaqkunami runakuna kanchiqllapa. Runa masikuna kashpa, ayllukunashina shumaqta tiyashun, ama piñchinakushpachu. Ancha baliqkuna kashpa dirichuyuq kanchiq may munashqanchiqpi allita tiyananchiq, munashqanchiqpi trabajananchiq. Dirichuyuqmi kanchiq allin tiñntiyuq, allin juyisniyuq kananchiqpaq. Manam allichu pwidiqkuna qesachanambaq wakin runa masindaqa. ashwanmi atumbis, takshapis ima layapis kashpa, shumaqta atinchiqllapa kawsayta.
+<h2>PUNTATA</h2>
+<p>Yumbay runakuna warmikunda day pachapi tiyaqkunami runakuna kanchiqllapa. Runa masikuna kashpa, ayllukunashina shumaqta tiyashun, ama piñchinakushpachu. Ancha baliqkuna kashpa dirichuyuq kanchiq may munashqanchiqpi allita tiyananchiq, munashqanchiqpi trabajananchiq. Dirichuyuqmi kanchiq allin tiñntiyuq, allin juyisniyuq kananchiqpaq. Manam allichu pwidiqkuna qesachanambaq wakin runa masindaqa. ashwanmi atumbis, takshapis ima layapis kashpa, shumaqta atinchiqllapa kawsayta.
 Chayshina kaptimbis, wakin wapu runakunaq runa masinda qesachashpa, ancha maqashpa waqachishqallapa. Manam shonqonllapapiqa yuyashqallapachu "paxkunapismi noqashinalla dirichuyuq", nishpaqa. Amana chayshinachu tukunqallapa.
 Kaytam ninillapa yumbay runakunata:
 Aku shumaqta tiyaq, ama pitapis manchashpachu. Krisyishun munashqanchiqpi. Parlashun kriyishqanchiqta.

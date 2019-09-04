@@ -1,6 +1,6 @@
 <h1 align='center'>Edisuan Etop Mbana Mme Unen Owo Ke Ofuri Ekondo</h1>
-<h2 align='center'>AKWA EWET NWED</h2>
-<p align='center'>Kpukpuru owo emana ye ukemukem ye asana asana unen ye ndamana uboho-ufin.
+<h2>AKWA EWET NWED</h2>
+<p>Kpukpuru owo emana ye ukemukem ye asana asana unen ye ndamana uboho-ufin.
 Mboho Edidiana Kiet Ofuri Ekondo enehede ebiere ndimum nkama, ndisuan etop mbana, nyun mkpeme mme ndamana unen kpukpuru owo. Ediyime ndinam utom emi oto ke mbet emi Mbobo Edidiana Kiet Ofuri Ekondo ekebierede emi eneherede osonode mbuotidem kpukpuru owo ke ofuri ekondo abana mme ndamana unen owo ye uku mmo ye se owo odotde.
 Ke nwed Edisuan Etop Mbana Mme Unen Owo Ke Ekondo, Mboho Edidiana Kiet Ofuri Ekondo enam anwana ke mem mem usun, mme unen emi enyenede kpukpuru owo ukem ukem.
 Mme unen emi enyene mbufo

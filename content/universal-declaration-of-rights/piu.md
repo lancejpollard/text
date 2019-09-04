@@ -1,6 +1,6 @@
 <h1 align='center'>Yara Tina Ngaatjanya Yananguku Tjukarurrulpayi Liipula Nyinanytjaku Mingarrtjuwiya</h1>
-<h2 align='center'>Ngaatja Yurrunpa Riitarripayi</h2>
-<p align='center'>Kaantjala tina (United Nations) nyinanyi yanangu yuwankarraku, pana yurungka parrari nyinapayi tjutaku. Palunya kaantjala ngurrara tjutangku kulini wati, kungka, maru tjuta, tjulkura tjuta, kutjupa tjutatarra liipula nyinanyi, wiya kutjupa tjutangku mingarrtjurringkula kutjupa tjuta pikangku pungkunytjaku. Yuwankarra kalypa kutu nyinanytjaku. Wiya kutjupa tjuta, kutjupa tjutaku mayutjurrinytjaku, yuwankarra liipula nyinanyi.
+<h2>Ngaatja Yurrunpa Riitarripayi</h2>
+<p>Kaantjala tina (United Nations) nyinanyi yanangu yuwankarraku, pana yurungka parrari nyinapayi tjutaku. Palunya kaantjala ngurrara tjutangku kulini wati, kungka, maru tjuta, tjulkura tjuta, kutjupa tjutatarra liipula nyinanyi, wiya kutjupa tjutangku mingarrtjurringkula kutjupa tjuta pikangku pungkunytjaku. Yuwankarra kalypa kutu nyinanytjaku. Wiya kutjupa tjuta, kutjupa tjutaku mayutjurrinytjaku, yuwankarra liipula nyinanyi.
 Kaantjala palunya ngurrara tjutangku kulini pana kutjupa pana kutjupangka palyaya nyinanytjaku kuutawutjutjarra. Palya luwiya tjutangku yananguku ngalkinmankunytjaku yaalytjiyaalytji yara tina ngaangku tjakultjunanyi. Piipa ngaatja ngaranyi Kapamanta ngurrara yuwankarrangku kulira tjukarurru nyinanytjaku. Yalatjingkuya ngaatja kulintjaku, kapamanta kutjupa kutjupangku, kapamanta pana kutjupa yurungka parrari nyinapayi tjutangkutarra.
 Kuwarri ngaatja United Nations mantjini, Universal Declaration of Human Rights.</p>
 <ol>

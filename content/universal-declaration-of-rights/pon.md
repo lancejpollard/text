@@ -1,6 +1,6 @@
 <h1 align='center'>POASON PWUNG EN KAWEID TOHN WEIN SAMPA KAROS</h1>
-<h2 align='center'></h2>
-<p align='center'>Pwehki eh sansalehr oh dehde me mie uhdahn kesempwelen de pwungin tohn sampa karos me duwepenehte oh ih poason en mour saledek, pwung oh meleilei nan sampa,
+<h2></h2>
+<p>Pwehki eh sansalehr oh dehde me mie uhdahn kesempwelen de pwungin tohn sampa karos me duwepenehte oh ih poason en mour saledek, pwung oh meleilei nan sampa,
 Pwehki seu petehkpen aramas de kasohwe kesempwelen aramas oh arail pwung me kahrehdahr wiewia me sohte konehng ah ngeder oh kawelahr mour mwahu en aramas, oh pil ansou mwahu oh konehng eh leledohr me aramas akan konehng ren perenki saledek en kosoia de rapahki arail pwung, oh arail saledek sang perki mehkot de masak de pil anahn akan me kosondier en wia irair keieu oh ileile nan en aramas sohte lipillipil arail mour,
 Pwehki eh ininin kesempwal mehlel pwe ma aramas sohte pahn itoitieng ren medemedewe pei de mahwin, pwehki arail solahr itar de kakehng kanengamah iong lokolok pahn kaun suwed de nan ansou suwed, ihme karheda me en aramas eh mour oh pwung pahn mihmihte pahn epwelpen kosonned akan,
 Pwehki eh kesempwal kitail en ngongki kekeirdahn nanpwung mwahu penehn tohn sampa kan,

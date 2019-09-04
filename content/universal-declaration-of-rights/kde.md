@@ -1,6 +1,6 @@
 <h1 align='center'>LILOVE LYA VILAMBO LYA WASA WA VAN</h1>
-<h2 align='center'>Pachinjililo</h2>
-<p align='center'>Lisiku lya 10 Disemba 1948, Lukumbi Lukulu lwa Umoja wa Vilambo lunihaula na kuhumya lilove lya vilambo lya wasa wa vanu. Lilove alino lihumile baada ya chilambo chohechohe kupanyana ding’ondo ding’ulu dimbili. Lukumbi anelwo lulembedile kila chilambo chihumye lilove alino livahwikile vanu vake kwa kulangudya, kusomesa, kusomela, kuhaula n’disule na n’disehemu dinji kuvele na ilimu.
+<h2>Pachinjililo</h2>
+<p>Lisiku lya 10 Disemba 1948, Lukumbi Lukulu lwa Umoja wa Vilambo lunihaula na kuhumya lilove lya vilambo lya wasa wa vanu. Lilove alino lihumile baada ya chilambo chohechohe kupanyana ding’ondo ding’ulu dimbili. Lukumbi anelwo lulembedile kila chilambo chihumye lilove alino livahwikile vanu vake kwa kulangudya, kusomesa, kusomela, kuhaula n’disule na n’disehemu dinji kuvele na ilimu.
 Ili kuhinikiha kuchidono wasa wa vanu unawuniwa, na Tansania inaunila wasa anewo, lilove alino lihumile M’chimakonde ili valembela usoma vavike wasa wene mun’tima mwavo vene na vanu vanji. Koka chive chihinde cha kukonyelela kuwuniwa kwa wasa wene m’manu na lyene lipanda.
 Vanu vohevohe vavelekwa valendene na wasa wavo unalandana. Umoja wa Vilambo uhumije lilove alino m’malove lapeyapeya na lakakamadidye ili kila munu amale wasa wake. Wasa unang’owo wako. Uumale wasa wako, yangata uvahaulila vanji vanu na uwunile wasa wene muchi wako na wa vanji vanu.</p>
 <ol>

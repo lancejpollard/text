@@ -1,6 +1,6 @@
 <h1 align='center'>LISAKOLI YA MOLƆ́NGƆ́ YA MAKOKÍ YA MOTO</h1>
-<h2 align='center'>MALOBA YA YAMBO</h2>
-<p align='center'>Na botáláká ’te kondima limɛmya ya bato nyɔ́nsɔ ya molɔ́ngɔ́ mpé makokí ma bangó óyo ezalí ndéngé mɔ̌kɔ́ mpé bakokí kopímela moto tɛ́ ezalí ntína ya bonsɔ́mí, bosémbo mpé kímyá káti ya molɔ́ngɔ́. Na botáláká ’te komɔ́na mpámba mpé kobóya kotósa esengeli ya moto ebátelama na bokonzi ya bosémbo mpɔ̂ ’te, na sima yangó, moto ákóma na botɔmbɔki esóngó na minyɔ́kɔli tɛ́,
+<h2>MALOBA YA YAMBO</h2>
+<p>Na botáláká ’te kondima limɛmya ya bato nyɔ́nsɔ ya molɔ́ngɔ́ mpé makokí ma bangó óyo ezalí ndéngé mɔ̌kɔ́ mpé bakokí kopímela moto tɛ́ ezalí ntína ya bonsɔ́mí, bosémbo mpé kímyá káti ya molɔ́ngɔ́. Na botáláká ’te komɔ́na mpámba mpé kobóya kotósa esengeli ya moto ebátelama na bokonzi ya bosémbo mpɔ̂ ’te, na sima yangó, moto ákóma na botɔmbɔki esóngó na minyɔ́kɔli tɛ́,
 Na botáláká ’te esengélí koléndisa boyókani na káti ya bikólo,
 Na botáláká ’te na káti ya Mokandá ya Mibéko ya Lisangá ya Bikólo ya Molɔ́ngɔ́, bato ya molɔ́ngɔ́ bayébísí lisúsu loléngé bandimí malɔki ya ntína ya moto, limɛmya mpé lokúmú ya moto, bokokani ya makokí ya bǎsí mpé babáli mpé na botáláká ’te bangó bayébísí ’te bazwí mokáno ya kobɔngisa ezalélí ya moto mpé kosála ’te moto azwa bomɔi malámu mpenzá na káti ya bonsɔ́mí ya monɛ́nɛ mpenzá,
 Na botáláká ’te kozala bato nyɔ́nsɔ na makanisi ndéngé mɔ̌kɔ́ mpɔ̂ na makokí mpé bonsɔ́mí yangó, ezalí na ntína monɛ́nɛ mpɔ̂ ’te óyo bakáni elónga,

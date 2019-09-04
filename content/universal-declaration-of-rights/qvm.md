@@ -1,6 +1,6 @@
 <h1 align='center'>INTËRU MUNDUCHO LAPAN RUNAKUNAPA DERËCHUNKUNANTA WILAKUSHQAN</h1>
-<h2 align='center'>KAYNOQ NIRMI QALAYKUN</h2>
-<p align='center'>Munashqantsita ruranantsipaq, runakuna ali jusgashqa kananpaq, y ali kawanantsipaqpis kay patsacho, tantyashwan imanoq lapantsikunapis bälishqantsita. Tsaynoqpa tantyashwan imanoq lapan runa mayintsikuna derëchun nishqankunata tsararaykashqanta. Manami pipis kay derëchun nishqankunata kachanmantsu.
+<h2>KAYNOQ NIRMI QALAYKUN</h2>
+<p>Munashqantsita ruranantsipaq, runakuna ali jusgashqa kananpaq, y ali kawanantsipaqpis kay patsacho, tantyashwan imanoq lapantsikunapis bälishqantsita. Tsaynoqpa tantyashwan imanoq lapan runa mayintsikuna derëchun nishqankunata tsararaykashqanta. Manami pipis kay derëchun nishqankunata kachanmantsu.
 Wakinkuna kay derëchun nishqankunata despresyar mana reqipäkushpan pasaypa mana ali kaqkunata rurapäkun. Rurapäkuptin interu munducho lapan runakuna shonqun rurincho rabyakärin. Tsawraqa lapanpita mas munashqannoq wilakärin mas alina kawapäkunanpaq kaynoq nir: "Lapan runakuna mana mantsakuypa kawanmanna y pishiychöpis manami kanmannatsu. Tsaynoqpis lapan runakuna ima yarpashqankunalatapis parlanman y munashqankunalamanpis kriyinman".
 Laykuna kanman runakunapa derëchun nishqankuna mana elqashqa kananpaq. Tsay presïsumi kaykan. Mana kaptenqa imatapis mas rurayta mana pwëdir runakuna imaykanoqpapis mana ali awturidäkunapa kontran sharkapakun y tukuynoqpa nakatsikoqkunata elqätsipäkun.
 Tsaynoqmi lapan nasyunkuna amistächo kawapäkunman. Tsaypis presïsumi.

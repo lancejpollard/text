@@ -1,6 +1,6 @@
 <h1 align='center'>Kalaenu Nu Kakarayan Kngli Nu Tamlaw Swanyam</h1>
-<h2 align='center'>Shual Nu Aayaw</h2>
-<p align='center'>Shamaanen nishinglin tu koyuay a chunyam a pingtengay putyiay kngli nu maenin a shingin nu luma nu tamlaw, kichu nu chuyu, chengyi a hoping nu kalaenu nu kakarayan,
+<h2>Shual Nu Aayaw</h2>
+<p>Shamaanen nishinglin tu koyuay a chunyam a pingtengay putyiay kngli nu maenin a shingin nu luma nu tamlaw, kichu nu chuyu, chengyi a hoping nu kalaenu nu kakarayan,
 Shamaanen masharumaay tu ku nihosu a nigome tu kngli nu tamlaw yaman a pawshing, tyamgoay kuni a pawshing tu naay a harateng nu tamlaw. Tayniay iraay a chuyu nu shual a harateng, awaay a kyongchu a kuypa kalaenu nu kakarayan, sha akawang a harateng nu potong a tamlaw han,
 Shamaanen tu chua nishetiay ku tamlaw tu pawchen a yapo, iraay mabawhu pali kngli nu tamlaw a piyaw,
 Shamaanen iraay nichuching a tu yuyi nu kwocha piyaw,

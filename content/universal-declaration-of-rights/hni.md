@@ -1,6 +1,6 @@
 <h1 align='center'>DAVQTAV COLPYUQ EILDOQ</h1>
-<h2 align='center'>BEI DOQ</h2>
-<p align='center'>Byulssaq aqnaol yoqhhovq yoqhaol e colssaq jav wuq bo e colpyuq, meeqduq, aqsol liq qiq kov bi dei e xil mol laoq,davqtav byulcol jol sal bi duv e daoqpeiq nga.
+<h2>BEI DOQ</h2>
+<p>Byulssaq aqnaol yoqhhovq yoqhaol e colssaq jav wuq bo e colpyuq, meeqduq, aqsol liq qiq kov bi dei e xil mol laoq,davqtav byulcol jol sal bi duv e daoqpeiq nga.
 Colpyuq yaol maq hu dav ssolnei hu nil zaq e taoqgao gaomiaoq xil mavq, byulssaq aqnaol e neemeeq zaolcavq lal alnei, col aqsol liq doq taol yal, aqsol liq aqsol sol e aqpyuq saolpyuq qivq ya slq, laol ngaoq aqya maq bi naqguv, maq bi saolsaq laqmeil e huvqlavq bi hev lal e xil mol laoq aolzaq ssaq laol hal pyuqzeiq e neenyuq nga leil bi eil loq.
 Byulssaq aqnaol yoqhha meeqduq haoqleev movq bal nei, ssyuqbeil cei lal e salcol naogo wuqhol jil lal e maq nyuq meil tuv kavq lei e miaoqdyul maq bi duv movq bal nei,col e colpyuq yo’liq nei haoqleev qivq laq meil e laolkaol kaol movq.
 Goqjal kalla gaqqo hhyulqoq meiqzaq zeqlal leil bo alnei, Lieiqhoqgoq goqjal e ssaqlaol lielqhoqgoq xieifzal hholqei nei yoqduhhaq e zaoma nei colpyuq,meeqyaovq ssolnei hhaqpyuq eilloq pal, miqyo qiq kov bi dei e doqcaol liq bi zil lal,xil mol lo'qo meil coljol aqzeiq bi sal e huvqlavq bi duv lal movq.

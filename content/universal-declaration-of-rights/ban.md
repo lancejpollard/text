@@ -1,6 +1,6 @@
 <h1 align='center'>Pangawedar indik Hak-Hak Azasi Manusia</h1>
-<h2 align='center'>Saracita</h2>
-<p align='center'>Manimbang riantukan pangangken ring subhakarma lan hak-hak sane pateh tur pastika saking paguyuban kulawarga manusa sami inggih punika dasar kemerdekaan, keadilan lan perdamaian ring jagat.
+<h2>Saracita</h2>
+<p>Manimbang riantukan pangangken ring subhakarma lan hak-hak sane pateh tur pastika saking paguyuban kulawarga manusa sami inggih punika dasar kemerdekaan, keadilan lan perdamaian ring jagat.
 Manimbang riantukan ngelempasang lan ngandapang hak azasi manusia janten ngawinang parilaksana-parilaksana sane kaon sane ngawinang rasa kroda sajeroning herdaya (unteng pekayunan) manusapada, tur kamanggehang jagat genah manusa pacang muponin bebas mawicara lan maagama tur luput saking rasa ajrih miwah kakirangan, punika sampun kajantenang pinaka tatujon pilih utama saking para jana.
 Manimbang riantukan hak-hak manusa patut kaayomin malarapan peraturan hukum mangda para jana nenten kadulumuk milih pamargi andaga utsaha penguntat maka panungkas kaduratmakan miwah penjajahan.
 Manimbang riantukan ngupapira paiketan pasawitran ring sajeroning negara-negara patut kautsahayang.

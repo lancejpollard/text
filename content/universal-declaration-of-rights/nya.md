@@ -1,6 +1,6 @@
 <h1 align='center'>CHIBVOMEREZO CA LAMULO LOSAMALIRA KHALIDWE LA MUNTHU PA DZIKO LONSE LA PANSI</h1>
-<h2 align='center'>CIYAMBI</h2>
-<p align='center'>Popeza kuti citsimikizo ca khalidwe loyenera la munthu mu banja lonse ndico tsinde la ufulu, ungwiro ndi mtendere pa dziko liri lonse la pansi,
+<h2>CIYAMBI</h2>
+<p>Popeza kuti citsimikizo ca khalidwe loyenera la munthu mu banja lonse ndico tsinde la ufulu, ungwiro ndi mtendere pa dziko liri lonse la pansi,
 Popeza kuti kusalabadira ufulu wa munthu kwabweretsa khalidwe la nkhalwe pa umoyo wa munthu, ndi kutinso kusintha kwa zinthu pa dziko la pansi mwakufuna kupereka ufulu weni-weni pa umoyo wa munthu aliyense ndilo funo la munthu wamba aliyense,
 Popeza kuti ndi kofunikira kuti ufulu wa munthu ucinjirizidwe ndi lamulo pofuna kupewa nkhondo yomenyera ufulu kukhala ngati njira yomwe munthu angagwiritse nchito pofuna kumasulidwa ku nsinga za nkhalwe,
 Popeza kuti ndi kofunikira kukweza umodzi pakati pa mitundu ya maiko osiyana-siyana pa dziko lonse la pansi,

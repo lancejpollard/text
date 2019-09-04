@@ -1,6 +1,6 @@
 <h1 align='center'>VŠOBECNÁ DEKLARÁCIA LUDSKÝCH PRÁV</h1>
-<h2 align='center'>Úvod</h2>
-<p align='center'>Vo vedomí že uznanie prirodzenej dôstojnosti a rovnych a neodcudzite ľných práv členov ľudskej rodiny je základom slobody, spravodlivosti a mieru na svete,
+<h2>Úvod</h2>
+<p>Vo vedomí že uznanie prirodzenej dôstojnosti a rovnych a neodcudzite ľných práv členov ľudskej rodiny je základom slobody, spravodlivosti a mieru na svete,
 že zneuznanie ľudských práv a pohrdanie nimi viedlo k barbarským činom, ktoré urážajú svedomie ľudstva, a že vybudovanie sveta, v ktorom ľudia, zbavení strachu a núdze, budú sa tešiť slobode prejavu a presvedčenia, bolo vyhlásené za najvyšší cieľ ľudu,
 že je nutné, aby sa ľudsk práva chránily zákonom, ak nemá byť človek donúteý uchýliť sa, keď všetko ostatné zlyhalo, k odboju proti tyranii a útlaku,
 že je nutné podporovať rozvoj priateľských vzťahov medzi národmi,

@@ -1,6 +1,6 @@
 <h1 align='center'>SIMEMETELO SEMHLABA WONKHE MAYELANA NEMALUNGELO EBUNTFU</h1>
-<h2 align='center'>SINGENISO</h2>
-<p align='center'>Njengoba
+<h2>SINGENISO</h2>
+<p>Njengoba
 kwatiswa ngekubakhona ngekwemvelo kwesitfunti sebuntfu, nekulingana lokufananako, nangekuba nemalungelo langenakwemukwa noma langenakutsatfwa kulelo nalelo lilunga lelingumndeni webuntfu, konkhe loku‐ke kungumgogodla noma kusisekelo senkhululeko, sekwenta lokulungile nesekuba nekuthula emhlabeni wonkhe jikelele,
 Nanjengoba
 , kunganaki nekwedzelela emalungelo ebuntfu kugcine sekudale tento letinelunya nebulwane kwabuye futsi kwatfukutselisa nembeza wesintfu sonkhe, kwashabalalisa sifiso nekulobitela kwekutsi etikhatsini letitako sintfu sitawutfokotela kuba nenkhululeko yekukhuluma, nekukholwa, nenkhululeko yekuhlala ngaphandle kokwesaba nekweswela, konkhe loku‐ke sekumenyetelwe njengetifiso letimcoka kabi eluntfwini,

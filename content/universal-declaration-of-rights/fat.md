@@ -1,6 +1,6 @@
 <h1 align='center'>ADASA NDZINOA HO DAWURBƆ</h1>
-<h2 align='center'>NYIENYIM</h2>
-<p align='center'>Ɔnam dɛ adasa hɔn enyimnyam yɛ pɛr na ndzinoa a obi nngye mmfi hɔn nsamu a wɔwɔ no ngyetomu nye wiadze yi mu fahodzi, pɛrpɛrdzi, ntsɛntsenenee na asomdwee ne fapem;
+<h2>NYIENYIM</h2>
+<p>Ɔnam dɛ adasa hɔn enyimnyam yɛ pɛr na ndzinoa a obi nngye mmfi hɔn nsamu a wɔwɔ no ngyetomu nye wiadze yi mu fahodzi, pɛrpɛrdzi, ntsɛntsenenee na asomdwee ne fapem;
 Ɔnam dɛ tsia a yetsiatsia nyimpa ne ndzinoa do no dze ewurkadze nwenwen a obiara tsia aba, na afei so wɔabɔ wiadze a ɔreba a no mu nyimpa benya fahodzi wɔ kasa, gyedzi, suro na ohia ho dawur dɛ nyimpapem nyina hɔn ahwehwɛdze tsitsir,
 Ɔnam dɛ ohia pɛpɛɛpɛ dɛ yɛmmpɛ dɛ yɛyɛ adasa ndzinoa ho mbra,
 Ɔnam dɛ ohia dɛ wotu aman na aman ntamu anyɛnkoyɛ nkitahodzi mpon,

@@ -1,6 +1,6 @@
 <h1 align='center'>Sixjiex Renvjuanv Xuanxyanv</h1>
-<h2 align='center'>Uxzzuf gax</h2>
-<p align='center'>Avzangf Cymfddov juanvtif cenvyuanv syvnax alf zunxyanv ningx pingvdengf ningx myv gaifbianx juanvlix lev cenvrenx sax, sixjiex zyxyyv, zengxyix ningx hovpingv jixcuf,
+<h2>Uxzzuf gax</h2>
+<p>Avzangf Cymfddov juanvtif cenvyuanv syvnax alf zunxyanv ningx pingvdengf ningx myv gaifbianx juanvlix lev cenvrenx sax, sixjiex zyxyyv, zengxyix ningx hovpingv jixcuf,
 Renvjuanv lev myv ccangf ningx wufmiex yefmanv boxxingv ef lungx, ccax lev boxxingv avzangf lyangvxinx lev dianxwux lungx, avzangf syvnax yanvlunx ningx xinxyangf zyxyyv alf kongfjux ningx kuixfav myvalf sixjiex avblax sax, puftongx avzangf taiftaix mrangf yuanxwangx lanx lungx,
 Avzangf pox bux dev yif tingf arx zyf xianf boxzengx ningx yaxpox lev myv fanfpanx, renvjuanv fafzyx lev bofhux bixyox alf,
 Gox guiv gamf gwanxxiv cuxjin bixyox alf,

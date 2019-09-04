@@ -1,6 +1,6 @@
 <h1 align='center'>Deklarasaun kona ba Ema tomak nia Direitu, iha mundu raiklaran</h1>
-<h2 align='center'>Lia habadak</h2>
-<p align='center'>- atu bele moris ho liberdade, ho justisa, ho damen iha mundu, ema sei hatene hodi halo tuir katak hotu hanesan, iha direitu hanesan.
+<h2>Lia habadak</h2>
+<p>- atu bele moris ho liberdade, ho justisa, ho damen iha mundu, ema sei hatene hodi halo tuir katak hotu hanesan, iha direitu hanesan.
 - tan lakohi simu, tan heuuai ema nia direitu maka ema balu halo aat, halo susar ema seluk; fo sai lia hirak ne’e atu ema tomak bele moris hakmatek, bele hateten e fiar tuir nia hakarak.
 - atu tahan ema tomak nia direitu tuir ukun ho justisa, nune’e ema lalika foti liman hodi funu hasoru ema aat, hahalok aat.
 - atu buka hametin damen iha nasaun tomak.

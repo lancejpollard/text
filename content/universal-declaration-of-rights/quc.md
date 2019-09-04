@@ -1,6 +1,6 @@
 <h1 align='center'>UQ'ALAJISAXIK PA RONOJEL UWACHULEW RI YA'TALIK KAB'AN PA RI K'ASLEMAL</h1>
-<h2 align='center'></h2>
-<p align='center'>Rumal che ri uchokonsab'exik ri ya'talik kab'anik, ri uq'atoj tzij q'atb'altzij, xuqe ri ja'maril pa ronojel we uwachulew, ruk'am uq'ab'ib'al, kuq'alajisaj ronojel uwach ri ya'talik chi pa junamam kaqab'an pa ri qak'aslemal qonojel.
+<h2></h2>
+<p>Rumal che ri uchokonsab'exik ri ya'talik kab'anik, ri uq'atoj tzij q'atb'altzij, xuqe ri ja'maril pa ronojel we uwachulew, ruk'am uq'ab'ib'al, kuq'alajisaj ronojel uwach ri ya'talik chi pa junamam kaqab'an pa ri qak'aslemal qonojel.
 Rumal che ri man qas ta eta'matalik, etzelam uwach xuq man k'amo'wan ta we kuq'alajisaj chqawach ronojel ri ya'talik kab'an pa we k'aslemal; xuqe' are wa' we no'jib'al b'anownaq k'ax chqech xuq oj tzaqownaq pa ri qak'aslemal, oj uxinom are chi na qonojel taj kaqechab'ej we utzil kariqitaj pa we uwachulew.
 Rumal che ri sib'alaj rajawaxik chi ronojel wa' we ruk'a'm we kaya uch'ob'ik, kuk'a'xik, kachajix rumal jun q'atb'altzij, are chi na kojtzaq ta pa taq ri k'axk'olil.
 Rumal che ri xuqe' nimalaj rajawaxik chi kak'oji' ch'ab'en ib' chkixo'l konojel taq ri tinamit ri keriqitaj pa we uwachulew.

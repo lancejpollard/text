@@ -1,6 +1,6 @@
 <h1 align='center'>Yïith e raan ci caal e pinynhöm</h1>
-<h2 align='center'>Ajokcok</h2>
-<p align='center'>Nä caa athëëk tö e baai thök e thai yic gäm ku yithkën thoŋ tö e nyiinkën, kek aalau enhom ku thoŋ, ku dör e pinynhom.
+<h2>Ajokcok</h2>
+<p>Nä caa athëëk tö e baai thök e thai yic gäm ku yithkën thoŋ tö e nyiinkën, kek aalau enhom ku thoŋ, ku dör e pinynhom.
 Ku nä ci yiith e raan mar ekɔc nhiim, ku dhalkek bi kuöc lööi bɛ̈i epion e raanic, ku  aye raan thök eben waai bi bɛn epinynhom bi raan liɛ̈k e lau enhom e jamdeic, ku thëëk yanhde, ku ci bën rioc, ku ŋɔŋ.
 Ku na pɛth bi lööŋ raan aaköuny, bi raan cii nyany e rin eköuc löui ye löui yën, ku tɛŋ enyin piny.
 Ku nä ci wut ethai matyiic, yen gam e cök elööŋiic lön de raan yith tëëm kua thɛ̈ɛ̈k, ku na thöŋ möc nhöm këk e tik e yithiic kua ci tëëm bik röt aaköuny bi pir piath baai ku lɛ̈u yic.

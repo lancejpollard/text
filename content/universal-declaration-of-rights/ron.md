@@ -1,6 +1,6 @@
 <h1 align='center'>DECLARAȚIA UNIVERSALĂ A DREPTURILOR OMULUI</h1>
-<h2 align='center'>Preambul</h2>
-<p align='center'>Considerând că recunoașterea demnității inerente tuturor membrilor familiei umane și a drepturilor lor egale și inalienabile constituie fundamentul libertății, dreptății și păcii în lume,
+<h2>Preambul</h2>
+<p>Considerând că recunoașterea demnității inerente tuturor membrilor familiei umane și a drepturilor lor egale și inalienabile constituie fundamentul libertății, dreptății și păcii în lume,
 Considerând că ignorarea și disprețuirea drepturilor omului au dus la acte de barbarie care revoltă conștiința omenirii și că făurirea unei lumi în care ființele umane se vor bucura de libertatea cuvântului și a convingerilor și vor fi eliberate de teamă și mizerie a fost proclamată drept cea mai înaltă aspirație a oamenilor,
 Considerând că este esențial ca drepturile omului să fie ocrotite de autoritatea legii pentru ca omul să nu fie silit să recurgă, ca soluție extremă, la revoltă împotriva tiraniei și asupririi,
 Considerând că este esențial a se încuraja dezvoltarea relațiilor prietenești între națiuni,

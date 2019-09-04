@@ -1,6 +1,6 @@
 <h1 align='center'>MATTʼAWEN GUBIN E GIDII NI NGAN NANG</h1>
-<h2 align='center'>MORNGAAGEN</h2>
-<p align='center'>Bochan ni ngan nang ni gubine gidii mabee mabay mattʼawen, meere nge taareb mattʼaw dad ngemang likʼikane puf rogon, nga gazon taab motochiyel nge gapas u faileng,
+<h2>MORNGAAGEN</h2>
+<p>Bochan ni ngan nang ni gubine gidii mabee mabay mattʼawen, meere nge taareb mattʼaw dad ngemang likʼikane puf rogon, nga gazon taab motochiyel nge gapas u faileng,
 Bochan ni yara nʼag modgun nge pimattʼawene gidii e firrʼe beawe tazil nge cham riiʼ nga lani yanne gidii ni gubin, ere chiney iyan eke taw nga napan e faileng ninge gubine gidii make puf‐puf rograd ko namon, memich mange siye modgudag u lan gumʼirachaen gubine gidii ma ngaʼun adag nimod nikan dugliy ni aram falʼngin lan yanne gidii,
 Bochan ni battʼuf maba gaafan ni faanra dab ni motogel ngakʼbee ngesul nga tomur ara ziliyeg laniyanʼ ni gomanga dakriy rebo kanowa ngabang, me pigichel ngecham ko am ara pitoogor, mabay mattʼawen gidii ni gubin nibe kele motochiyel gafalngin,
 Bochan ni battʼuf maba gaafan ni ngan obneg ziline pinam ni gubin ngara tafafel e gidii u lan mepar zilirad nib taareb,

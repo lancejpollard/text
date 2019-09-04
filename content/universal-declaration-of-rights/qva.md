@@ -1,6 +1,6 @@
 <h1 align='center'>RUNAKUNA RESPETACHIKUNANPAQ LEY RURAPÄKONQAN KAYNUYMI QALAYKUNAN</h1>
-<h2 align='center'></h2>
-<p align='center'>Lapan runa libri kananpaq, mana pipis runa masinta jarupánanpaq, juchayoqta kastigananpaq, juchaynaq mana kastigasha kananpaq, piwansi runa masinwan mana pelyar mana liytur kushisha kawapákunanpaq kay pachach'u, mayna kaykan rurashana runa kayninta mana qech'unanpaq, chaynuy lapan iwal-la kananpaq, lapan runa chay kastanuyla kananpaq;
+<h2></h2>
+<p>Lapan runa libri kananpaq, mana pipis runa masinta jarupánanpaq, juchayoqta kastigananpaq, juchaynaq mana kastigasha kananpaq, piwansi runa masinwan mana pelyar mana liytur kushisha kawapákunanpaq kay pachach'u, mayna kaykan rurashana runa kayninta mana qech'unanpaq, chaynuy lapan iwal-la kananpaq, lapan runa chay kastanuyla kananpaq;
 Runakuna respetachikunanpaq kanqanta mana reqermi y rikaykarpis jarukuypa ushayninpa mana kaqkunata rurasha, kanan chayta rikaykurmi rabyanasha. Lapan runakuna alich'u kananta munarmi kaynuy willakuykan. Kay rasunpa ali kawayman lapan runakunapis yaykunan, mana imapitasi manchakular, mana imapitapis pishipakular kushisha kawapäkuchun. Chay munanqannuy parlapäkonqan y munanqannuymi yärakärenqa.
 Kaynuymi rurakanman rasunpa runakuna respetasha kananpaq. Chaynuypa runakuna mana kontran kayta yarpanqachu mandukunapaq ali ruraptenqa. Y mana alí ruraqkunata qarqonanpaq.
 Chaynuymi imata rurananchipäsi rurakasha wakin nasyunkunawansi ali imach'üsi yanapänakur imata rurarsi kawananchipaq mana liytur mana pelyar kushisha.

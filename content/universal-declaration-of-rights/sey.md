@@ -1,6 +1,6 @@
 <h1 align='center'>SIAYËKEMACA SIABAI KËOJËNA KAYAYE KUI'NE JËNA, PAIYE KAWESOSE'EPI SIAYE TUTU PAYE JAI TSUTSUPËA OMETËKANA</h1>
-<h2 align='center'>Ja'a̱ wëoko</h2>
-<p align='center'>Kase'epi de'oye, ko̱ne kui'ne jeoñe payë jaje, sia'we'ña ñase'erepare sa'nawë payë sia'yë'kë maka tutu, kui'ne sioma'ñerepare sia'pai tsëkapë pai'ye.
+<h2>Ja'a̱ wëoko</h2>
+<p>Kase'epi de'oye, ko̱ne kui'ne jeoñe payë jaje, sia'we'ña ñase'erepare sa'nawë payë sia'yë'kë maka tutu, kui'ne sioma'ñerepare sia'pai tsëkapë pai'ye.
 Jaje paikëta'a kuasayë ñama'ayepi kui'ne oima'ayepi, pa'iji sia'paire, japi ai jaiye ñese saniwesëji pai pa'ijë kuasaye, kui'ne aijerepa kawesose'pi, jaje pa'ina kokase'e kayë de'oye pa'iye kui'ne de'oye pa'iyë kuasajë sewoye.
 Jaje paise're yure kato ñasikua'irepa kui'ne këkopakua'i pa'iye pa'iji, kua'ye pa'ise'e jeoni paimakata'a pa'iye pa'iji nejo ma'kua'i.
 Jamakata'à ñese de'oyerepa ñese saiyë siwajë kui'ne pa'iyë yekëwe'ña ñasikua'irepa.

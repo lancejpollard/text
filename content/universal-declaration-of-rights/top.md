@@ -1,6 +1,6 @@
 <h1 align='center'>LATA' TU KAMININI LAKCHIXKUWIN XLITILANKA KAKILHTAMAKU TUKU XWANA</h1>
-<h2 align='center'></h2>
-<p align='center'>K'atsikan xlakata latapulikan ka'unin, ni kgatayakan ti tlakatnan cha tlan latamakan nak k'alihtamaku tamaklakask'ini nak ixlatamatkan lakch'ixkawin na chuna tu kaminini wakg ti tawilana nak akgxtakga chu xatalakgapasni.
+<h2></h2>
+<p>K'atsikan xlakata latapulikan ka'unin, ni kgatayakan ti tlakatnan cha tlan latamakan nak k'alihtamaku tamaklakask'ini nak ixlatamatkan lakch'ixkawin na chuna tu kaminini wakg ti tawilana nak akgxtakga chu xatalakgapasni.
 K'atsikan xlakata ni wakg lakgapaskan chu matlanikan lata' tu kaminini lakchi'ixkuwin, wa ama' kalilak tayamikanit ixtalatamatkan lakch'ixkuwin; ama talakapastakni nema matlani ixlatamat lakch'ixkuwin, wa ama tokgokg'emaka xlakata tlan nalatamakan nak k'akilhtamaku chu lakgmakgankan tu nitlan la tajikuati, ta'akgxtakgajnat, nema makgalipuwanankan chu tlan nalakanajlinikan, nachuna tlan nalakgach'ixkunikan tu ch'atum ch'atum makanajli.
 K'atsikan xlakata snun makuan ama' tukaminini lakch'ixkuwin wa chi tlan limakgchiwinankan xlakata tlan namakgantuxtikan, chu ch'ali t'uxama ni nalalakatak'ikan nema ta'akgch'a panankgomona chu talaktayaminamana.
 K'atsikan xlakata ntlan putsakan katalapaxk'ilh pulataman.

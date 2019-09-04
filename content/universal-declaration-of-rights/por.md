@@ -1,6 +1,6 @@
 <h1 align='center'>Declaração Universal dos Direitos Humanos</h1>
-<h2 align='center'>Preâmbulo</h2>
-<p align='center'>Considerando que o reconhecimento da dignidade inerente a todos os membros da família humana e dos seus direitos iguais e inalienáveis constitui o fundamento da liberdade, da justiça e da paz no mundo;
+<h2>Preâmbulo</h2>
+<p>Considerando que o reconhecimento da dignidade inerente a todos os membros da família humana e dos seus direitos iguais e inalienáveis constitui o fundamento da liberdade, da justiça e da paz no mundo;
 Considerando que o desconhecimento e o desprezo dos direitos humanos conduziram a actos de barbárie que revoltam a consciência da Humanidade e que o advento de um mundo em que os seres humanos sejam livres de falar e de crer, libertos do terror e da miséria, foi proclamado como a mais alta inspiração do ser humano;
 Considerando que é essencial a protecção dos direitos humanos através de um regime de direito, para que os seres humanos não sejam compelidos, em supremo recurso, à revolta contra a tirania e a opressão;
 Considerando que é essencial encorajar o desenvolvimento de relações amistosas entre as nações;

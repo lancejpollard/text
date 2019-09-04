@@ -1,6 +1,6 @@
 <h1 align='center'>GIZA ESKUBIDEEN ALDARRIKAPEN UNIBERTSALA</h1>
-<h2 align='center'>HITZAURREA</h2>
-<p align='center'>Kontuan izanik munduko askatasuna, justizia eta bakea giza familiako kide guztien berezko duintasunean eta eskubide berdin eta ukaezinetan oinarritzen direla;
+<h2>HITZAURREA</h2>
+<p>Kontuan izanik munduko askatasuna, justizia eta bakea giza familiako kide guztien berezko duintasunean eta eskubide berdin eta ukaezinetan oinarritzen direla;
 Kontuan izanik giza eskubideak ez ezagutzearen eta gutxiestearen ondorioz, giza kontzientziari irain egiten dioten basakeriak gertatu izan direla; eta gizon-emakumeek, beldur eta gabezia orotik aske, hitz egiteko askatasuna eta sinesmen-askatasuna izango dituzten munduaren etorrera aldarrikatu dela gizakiaren helburu nagusi;
 Kontuan izanik ezinbestekoa dela giza eskubideak zuzenbidezko erregimen batek babestea, gizakia-tirania eta zapalkuntzaren aurkako azken irtenbidea den matxinadara jo beharrean aurkitu ez dadin;
 Kontuan izanik ezinbestekoa dela, baita ere, herrialdeen artean harreman lagunkoiak bultzatzea;

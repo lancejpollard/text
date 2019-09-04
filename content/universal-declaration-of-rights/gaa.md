@@ -1,6 +1,6 @@
 <h1 align='center'>JEŊJEŊ KPAŊMƆ NI KƆƆ GBƆMƆ ADESA HEGBƐI AHE</h1>
-<h2 align='center'>MLIBOTEMƆ</h2>
-<p align='center'>Akɛni aŋɔɔ nɔ akɛ afɔ gbɔmɛi adesai fɛɛ akɛ mɛi ni yeɔ egbɔ kɛ heyeli ko ni anyɛŋ ashɔ̃ yɛ amɛdɛŋ, ni nomɛi ji heyeli, jalɛsane kɛ toiŋjɔlɛ shishifãi yɛ je lɛ mli hewɔ lɛ,
+<h2>MLIBOTEMƆ</h2>
+<p>Akɛni aŋɔɔ nɔ akɛ afɔ gbɔmɛi adesai fɛɛ akɛ mɛi ni yeɔ egbɔ kɛ heyeli ko ni anyɛŋ ashɔ̃ yɛ amɛdɛŋ, ni nomɛi ji heyeli, jalɛsane kɛ toiŋjɔlɛ shishifãi yɛ je lɛ mli hewɔ lɛ,
 Akɛni bu ni abuuu, kɛ asaŋ gbɔmɔ adesa hegbɛi anɔ ni anaanaa yɛ shikpɔŋ lɛ etsɔ gbɔmɔ yitsoŋ ni eha efeɔ yiwalɛ nii, kɛ amrɔ nɛɛ gbɛgbelemɔ akɛ mɛi foji anine ashɛ amɛshweenii anɔ bɔ ni amɛaanyɛ amɛwie nɔ ni amɛsusuɔ yɛ nɔ ko he, amɛhe nɔ ni amɛsusuɔ akɛ eja gbɛ pɛ amɛye, akanyɛ awo amɛhe gbeyei dɔŋŋ, ni asaŋ akakama amɛ nɔ ko nɔ ko hewɔ lɛ,
 Akɛni suɔmɔ ni asumɔɔɔ akɛ atsɔɔ gbɛ kroko nɔ ajieɔ yiwalɛ nɔyeli ko hewɔ ni ehiaa akɛ awo mla ni baafã gbɔmɔ adesa hegbɛi ahe hewɔ lɛ,
 Akɛni ehe hiaa akɛ akã he aha naanyobɔɔ ahi maji ateŋ hewɔ lɛ,

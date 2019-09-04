@@ -1,6 +1,6 @@
 <h1 align='center'>Delaraciö' Ki' DERECHO H Ki' la' la köö jmu guue kíä guía' su'</h1>
-<h2 align='center'></h2>
-<p align='center'>KUU-DSU-DSA, e ti tíä dsa, ki' dsa tía kö ñi' jmí, nía asía jni siä la kö jmu guu; e sía: derecho ki' dsa, e jä má-já la juu dsa tíä' kö jmu guu.
+<h2></h2>
+<p>KUU-DSU-DSA, e ti tíä dsa, ki' dsa tía kö ñi' jmí, nía asía jni siä la kö jmu guu; e sía: derecho ki' dsa, e jä má-já la juu dsa tíä' kö jmu guu.
 KUU-DSU-DSA, e a s'ia dsa ñi ju o é jä' D.H. e jä la dsa nä kíä ta' a sía jmo-dsa e dsi' nía dsa kíä dsa, ma jä kö ju t'a' dsa la kua' jmu guú, a sía má gä nía roö a sïä e li goo' nía jeo dsa tä' e ja na jmo'.
 KUU-DSU-DSA, e na ki D.H. ma jä ko rue jmo dsa tä', kuu juu dso' e sía e jmo dsa esa rue lu jï kä dsa tiä' juu jï na lu' dsa ta'.
 KUU-DSU-DSA, y ná j'mo geé fuu ki' dsa e la juu' tíä' la kua' jmu güu e-jï á nía roö'.

@@ -1,6 +1,6 @@
 <h1 align='center'>UNIVERSAL - DEKLARATIOUN VUN DE MËNSCHERECHTER</h1>
-<h2 align='center'>PRÄAMBEL</h2>
-<p align='center'>Well d'Unerkennong vun der Dignitéit, déi all Mêmber vun der Mënschefamill gebuer as, a vu sénge gläichen an onersetzleche Rechter de Fëllement vun der Fräiheet, der Gerechtegkeet an dem Fridden an der Welt as,
+<h2>PRÄAMBEL</h2>
+<p>Well d'Unerkennong vun der Dignitéit, déi all Mêmber vun der Mënschefamill gebuer as, a vu sénge gläichen an onersetzleche Rechter de Fëllement vun der Fräiheet, der Gerechtegkeet an dem Fridden an der Welt as,
 Well et do, wou d'Mënscherechter nët unerkannt an nët respektéiert gin, zu barbareschen Akte koum, déi d'Gewësse vun der ganzer Mënschheet revoltéieren a well d'Schafe vun enger Welt, an deer d'Mënschen d'Fräiheet vum Wuert a vum Glaf hun, an deer se fräi si vu Fuurcht an Nout, als dem Mënsch säin héchst Striewe proklaméiert gouf,
 Well et haaptsächlech drëm geet fir duerch e Rechtssystem Hand iwwer d'Mënscherechter ze halen an datt de Mënsch doduerch nët forcéiert gët fir säi leschten Auswee an der Revolt géint d'Tyrannei an d'Ënnerdrécktgin ze sichen,
 Well et haaptsächlech drëm geet fir d'Entwécklong vun de frëndschaaftleche Relatiounen tëscht den Natiounen z'encouragéieren,

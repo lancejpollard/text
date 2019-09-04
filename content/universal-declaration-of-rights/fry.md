@@ -1,6 +1,6 @@
 <h1 align='center'>Universele ferklearring fan de rjochten fan de minske</h1>
-<h2 align='center'>Pree-ambule</h2>
-<p align='center'>Yn betinken nommen dat it erkennen fan de ynherinte weardichheid en fan de gelikense en ûnferfrjemdbere rjochten fan alle leden fan de minskemienskip grûnslach is foar de frijheid, rjochtfeardigens en frede yn 'e wrâld;
+<h2>Pree-ambule</h2>
+<p>Yn betinken nommen dat it erkennen fan de ynherinte weardichheid en fan de gelikense en ûnferfrjemdbere rjochten fan alle leden fan de minskemienskip grûnslach is foar de frijheid, rjochtfeardigens en frede yn 'e wrâld;
 Yn betinken nommen dat it oan 'e kant skowen en lytsachtsjen fan 'e rjochten fan 'e minske laat hawwe ta barbaarske dieden, dy't it gewisse fan it minskdorn faksearre hawwe en dat de komst fan in wrâld dêr't minsken frijheid fan mieningsutering en leauwe barre mei, en hja frij wêze sille fan eangst en ferlet, ferkundige is as it heechste ideaal fan elk minske;
 Yn betinken nommen dat it fan it grutste belang is dat de rjochten fan de minske beskerme wurde, troch de suppremaasje fan it rjocht, dat de minske net twongen wurde mei om yn lêste ynstânsje syn taflecht te nimmen ta opstân tsjin tyranny en ûnderdrukking;
 Yn betinken nommen dat it fan it grutste belang is de ûntjouwing fan freonskiplike betrekkings tusken de naasjes fuort te sterkjen;

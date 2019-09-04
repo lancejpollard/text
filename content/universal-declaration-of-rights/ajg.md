@@ -1,6 +1,6 @@
 <h1 align='center'>EJUKƆNWO GBEFANƉEƉE SƆSƆ ACƐ AGBETƆTƆWO ŊÚ</h1>
-<h2 align='center'>EŊYƆFƆNU</h2>
-<p align='center'>Sɔsó egbexɔxɔ do amɛnyinyi to alɔkpa ɖekpo kpwimɛ kodo enusɔsɔ ci wò yi dogù wawa do eseji ko fàfà le ègbɛ̀mɛ̀,
+<h2>EŊYƆFƆNU</h2>
+<p>Sɔsó egbexɔxɔ do amɛnyinyi to alɔkpa ɖekpo kpwimɛ kodo enusɔsɔ ci wò yi dogù wawa do eseji ko fàfà le ègbɛ̀mɛ̀,
 Sɔsó eɖemasɔ le agbetɔ yɔyɔ be agbetɔ mɛ ci yi dɔn kanlinnuwawa va egbɛmɛ, yi agbetɔ fɔn egu, yi shinxomɛ, ehɔnwo yi dɔ yi ejukɔnwo ɖé egbefan be agbetɔwo le vo a xonuxonu, a vo a xɔse, a gbédɔn a gu aya le ekɔ,
 Sɔsó agbewɔxɛ kpɔkpɔ do ese ji ɔ, e le veviɖe be wo de ɖo a ʒin amɛji; nɔ de nyi nɛnɛ ɔ, agbetɔ a va sɔ ezɔ ta, a sɔ nyidɔn le akɔn, a fɔngu do eganwuamɛ kodo amɛtafudotɔwo ji,
 Sɔsó ŋusɛndodo nɔ ɖekawawa ko exlɔdodo a yi ŋukɔ le ejukɔnwo gblamɛ,

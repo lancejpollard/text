@@ -1,8 +1,8 @@
 <h1 align='center'>SIA'YËQUËMACA SIA'BAI GUËOJËÑACAYAYE GUI'NE JËÑA,
 BAI'YE CAHUESOSE'BI SIA'YE TUTUBAYE
 JAI TSUTSUBËA OMETËCAÑA</h1>
-<h2 align='center'>Ja̱'a̱ huëoco</h2>
-<p align='center'>Case'bi deo'ye, co̱ñe gu̱i'ne jeoñe ba̱yë, ja̱je̱ sia'hue'ña ñase'erebare sa'nahuë
+<h2>Ja̱'a̱ huëoco</h2>
+<p>Case'bi deo'ye, co̱ñe gu̱i'ne jeoñe ba̱yë, ja̱je̱ sia'hue'ña ñase'erebare sa'nahuë
 bayë sia'yëo̱uë maca jëaye ba'ye gu̱i'ne sioma'ñe baiji sia'bai̱ tsëcabëa̱ bai'ye.
 Ja̱je̱ baio̱uëreta'a goachayë ñama'ñebi gu̱i'ne oima'ñebi baiji sia'bai̱re, jabi ai
 jaiye ñese sanihuesëji mai̱ baijë goachaye, gui'ne ja̱je̱ aijereba cahuesosicoa,

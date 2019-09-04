@@ -1,6 +1,6 @@
 <h1 align='center'>DÉCLARÅCION UNIVERSÈLE DÈS DREÛTS D'L'OME</h1>
-<h2 align='center'></h2>
-<p align='center'>Il a stu ad'mètu 'ne fèye po totes
+<h2></h2>
+<p>Il a stu ad'mètu 'ne fèye po totes
 Qui l'fondemint dè-l'lîbèté, dè-l djustice èt dè-l'påye tot-avå l'monde, c'èst l'rik'nohnance dè-l'dignité qu'èst l'prôpe di tos lès-omes èt dès dreûts égâls qu'ils ont èt qu'on n'èlzi pout mèskeure;
 Qui l'fêt' dè n'in rik'nohe ou dè foler ås pîds les dreûts d'l'ome ont k'dû sacwants a rabahî èt brutålizer l's-ôtes d'ine tèle manîre qui l'consyince di l'ûmanité ènn'a stu révoltêye;
 Qui l'pus grand èspwér dès djins, c'èst l'avén'mint d'on monde wice qui lès-omes sèront lîbes dè djåser èt dè creûre, tot-z-èstant d'halés dè-l'sogne èt dè-l'mizére;

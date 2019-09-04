@@ -1,6 +1,6 @@
 <h1 align='center'>MAPANGADIKA MANGATA KUDI BUKWA-BISAMBA BYA BULOBA BUJIMA PA MAKOKESHI A MUNTU YONSU</h1>
-<h2 align='center'>MBANGILU</h2>
-<p align='center'>Pa kumona ne, kwitaba se bantu bonsu ba pa buloba badi ne buneme ne makokeshi amwe ne a kashidi ke nshindamenu wa budikadidi, bwakane ne bupole pa buloba bujima;
+<h2>MBANGILU</h2>
+<p>Pa kumona ne, kwitaba se bantu bonsu ba pa buloba badi ne buneme ne makokeshi amwe ne a kashidi ke nshindamenu wa budikadidi, bwakane ne bupole pa buloba bujima;
 Pa kumona ne, dibenga kumanya ne dipepeja dya makokeshi a muntu bidi bifikisha ku ngenzelu mishadile idi mwa kunyengabaja myoyi ya munda ya bantu; pa kumona ne kufikisha bantu ku nsombelu udibo mwa kwikala bakula ne biitaba cidibo baswe, kabayi ne bowa anyi lutatu ke kiipacila kanene ka muntu yonso;
 Pa kumona ne bidi bikengela kwenza mikenji idi mwa kukuba makokeshi a muntu yonsu ne kubenga kufikisha bantu ku ditombokela dya bukalenge bwa cinyangu ne bushipyanganyi,
 Pa kumona ne matunga a Nsangila wa Buka-bisamba (ONU) adi mashindike ditaba dyawu mu makokeshi mashindame ne mushinga wa muntu yonso mu bobumwe bwa makokeshi a balume ne bakaji, mu dyangata mapangadika a kutungunuja nombelu mulenga wa bantu mu budikadidi;

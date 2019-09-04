@@ -1,6 +1,6 @@
 <h1 align='center'>Rieti yets</h1>
-<h2 align='center'>Kuan mbeʼs men yuy par diti; Kuan na mbes par luʼ</h2>
-<p align='center'>Xa ndob kan lu ngak, xa yent ndob xa yuy kinó riet kuan ngui, ba ndob diti kino kuan nlas xa gak tib par mien guets;
+<h2>Kuan mbeʼs men yuy par diti; Kuan na mbes par luʼ</h2>
+<p>Xa ndob kan lu ngak, xa yent ndob xa yuy kinó riet kuan ngui, ba ndob diti kino kuan nlas xa gak tib par mien guets;
 Xa ndob na nxab, na nlas kuan nachen xa mbes, ba mbekie par kuan xgab mien. Ta mbeʼs, kuan mien ndixi gak xa gui kuan nta juin, kuan kie guits nlas.
 Xa ndob kuan mbes gak bxen men xa yen kuan mbikie, xa mbol na ndixi par nkieʼ nguda mien.
 Xa ndob mbes kuan ngak ndixi nlás, xa kab ditimien.

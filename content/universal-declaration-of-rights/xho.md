@@ -1,6 +1,6 @@
 <h1 align='center'>INKCAZO‐JIKELELE NGEEMFANELO ZOLUNTU</h1>
-<h2 align='center'>ISINGENISO</h2>
-<p align='center'>Njengoko iimfanelo zesidima soluntu semvelo kunye neemfanelo zoluntu‐jikelele olungenakunikelwa olusisisekelo senkululeko, ubulungisa noxolo emhlabeni.
+<h2>ISINGENISO</h2>
+<p>Njengoko iimfanelo zesidima soluntu semvelo kunye neemfanelo zoluntu‐jikelele olungenakunikelwa olusisisekelo senkululeko, ubulungisa noxolo emhlabeni.
 Njengoko ukungananzi nokudelelwa kweemfanelo zoluntu ezingunobangela weziphumo zobukrwada ezithi zibangele ingcwangu kwisazela soluntu, kunye nesiqalo nokufika kwelizwe apho uluntu luza kuxhamla ukuthetha ngokukhululekileyo, inkolo nenkululeko engenaloyiko kunye neemfuno ezazisiweyo njengeminqweno yoluntu‐jikelele.
 Kwananjalo kubalulekile ke ngoko, ukuba umntu anganyanzeliswa ukufumana uncedo, okwetyeli lokugqibela, ukuchasa ubundlobongela nengcindezelo, kuba iimfanelo zesidima sobuntu mazikhuselwe ngolawulo lomthetho.
 Njengokuba kubalulekile ukukhuthaza kokwandiswa kobuhlobo nemvisiswano phakathi kwezizwe.

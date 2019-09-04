@@ -1,6 +1,6 @@
 <h1 align='center'>NZUO LYA MAPAPILO NYI KUSAKULA TCHA KUTESA MUKANDA UA MUTCHIFUTCHI TCHESWE YA KUSAKULA TCHA ATHU ESWE</h1>
-<h2 align='center'>Kuputhuka</h2>
-<p align='center'>Hakukonsiderala ngwo kunyinguika ya vumbi ya kusa ha usoko eswe nyi kusakula jhó jhimuwikha
+<h2>Kuputhuka</h2>
+<p>Hakukonsiderala ngwo kunyinguika ya vumbi ya kusa ha usoko eswe nyi kusakula jhó jhimuwikha
 Jakulinga ye fundamentu ya kulenguluka ya ululi ya zango mutchifutchi ;
 Hakukonsiderala ngwo kanyinguikine , kupala tcha kusakula tcha athu, yatuala ku yuma yipe ize ya kuasunga mu mana jha atu nyi maliji jha tchifutchi chize atu eswe etche alingue, ahanjike ,atayze, hanga atchine mu lamba, ya isako ngue yuma yatamba kukaula athu eswe.
 Hakukonsiderala ngwo tchatamba kufunga tche kusakula tcha athu ha imwe regime ya kusakula, hanga athu atchine kulinga ize azanguile,mu kutchina, ha kuhiluka ya yuma yipe nyi matamiso;

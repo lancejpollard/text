@@ -1,6 +1,6 @@
 <h1 align='center'>İNSONI HƏXON BARƏDƏ UMUMİYƏ BƏYONNOMƏ</h1>
-<h2 align='center'>Preambula</h2>
-<p align='center'>Bə insoni avlodon həmməy xasbıə ləyoğətə fikfamon iyən çəvon bərobərbıə, yəndıku conıbə həxon zıne - ozodəti, ədoləti iyən sulhbeyəti əsosinə şərtbe bə nəzə seədə;
+<h2>Preambula</h2>
+<p>Bə insoni avlodon həmməy xasbıə ləyoğətə fikfamon iyən çəvon bərobərbıə, yəndıku conıbə həxon zıne - ozodəti, ədoləti iyən sulhbeyəti əsosinə şərtbe bə nəzə seədə;
 Bə insoni həxon beitonəti iyən nifrət kardeəti bəşəriyyəti bə dəhşətvardə barbarizmi səbəb be, həmçının bə sıxankarde, etiqadbaste ozodəti malikbıə, tarsiku, ehtijociku ozodbıə dınyo ofəyemonəti çı bəşəriyyəti ən ali piyəybe bə nəzə seədə;
 İnsoni bə zılmi-istibdodi vəynə bənə oxonə vasitə bə ğıyom eşte məcbur nıbe təmin kayro insoni həxon de ğanuni hukuməti dasti mıdafiə karde zəruribe bə nəzə seədə;
 Xəlğon arədə mehribanə munasibəton oko dastək doy vacibəti bə nəzə seədə;

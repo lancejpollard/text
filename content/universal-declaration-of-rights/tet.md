@@ -1,6 +1,6 @@
 <h1 align='center'>Deklarasaun Mundu Nia Ba Direitus Ema Nia</h1>
-<h2 align='center'>Preambulu</h2>
-<p align='center'>Hanesan hatene tuir dignidade ho direitu ema hotu hanesan membru familia humanidade nia, ne'e hanesan hun ba liberdade, justisa ho damen iha mundu,
+<h2>Preambulu</h2>
+<p>Hanesan hatene tuir dignidade ho direitu ema hotu hanesan membru familia humanidade nia, ne'e hanesan hun ba liberdade, justisa ho damen iha mundu,
 Hanesan la interese ho la fo laran ba diretus ema nia, sai hahaluk barbarikus mak halu umanidade nia konsiensia hirus. Tuir idh mundu ne be ema hotu sei laran ksolok ba liberdade koalia, fiar ho liberdade husi tauk ho hakarak, foti hanesan aspirasaun as liu ba ema hotu,
 Hanesan ne'e importanti se ema la iha, ikus atu tuir sei hamrik hasoru ema at ho opresaun, katak direitus ema nia tenki satan, tuir lei,
 Hanesan importante tebes atu promove desenvolvimentu relasoens belun diak ho rai hotu,

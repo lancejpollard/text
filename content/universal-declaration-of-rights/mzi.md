@@ -1,6 +1,6 @@
 <h1 align='center'>En Xi Tikon Ngasandie Xi Fijendajo Xuta</h1>
-<h2 align='center'></h2>
-<p align='center'>Xi ijniá ko katsenda kui naxinánda xikamatikoxtin kiania ijniá xki jo ocham tjionjo,ngojo jan.nga tiesa nga kjafet’a no ngomi nijam ocham yichan jin.
+<h2></h2>
+<p>Xi ijniá ko katsenda kui naxinánda xikamatikoxtin kiania ijniá xki jo ocham tjionjo,ngojo jan.nga tiesa nga kjafet’a no ngomi nijam ocham yichan jin.
 Nixitjon Tjindo
 Ngo.-
 Ngaxkotse, tsiee nga ndakuindo ngandindie xuta xitjindo ngasandie,tjinkjua nga ngandindie xuta ngondsejen xikotse xchandikon.

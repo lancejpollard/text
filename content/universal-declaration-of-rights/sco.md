@@ -1,6 +1,6 @@
 <h1 align='center'>Universal Declaration o Human Richts</h1>
-<h2 align='center'>Inning</h2>
-<p align='center'>Forsameikle as kenning for the inherent dignity and for the richts, equal and nane-alienable, o aw members o the human faimily is the foond o freedom, justice and peace in the warld,
+<h2>Inning</h2>
+<p>Forsameikle as kenning for the inherent dignity and for the richts, equal and nane-alienable, o aw members o the human faimily is the foond o freedom, justice and peace in the warld,
 Forsameikle as misregaird and contemption for human richts hes resultit in barbour acts that hes scunnert the conscience o mankind, and the advent o a warld whaur aw human sowels enjoys freedom o thocht and speech, and quittance frae dearth and dreid hes been proclaimed the tapmaist aspiration o the commonty,
 Forsameikle as it is necessar, gin man be no gart tak recourse tae rebellion as a hinmaist resort conter tirannie and dounhaudenment, that human richts shuld be beildit by the rule o law,
 Forsameikle as it is necessar tae gar freendly relations atween nations aye win forrit,

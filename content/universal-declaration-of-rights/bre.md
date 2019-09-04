@@ -1,6 +1,6 @@
 <h1 align='center'>DISKLERIADUR HOLLVEDEL GWIRIOU MAB-DEN</h1>
-<h2 align='center'>Rakger</h2>
-<p align='center'>–O vezañ ma’z eo war anaout an dellezegezh enstag ouzh holl izili an denelezh hag o gwirioù par ha diwerzhus eo diazezet ar frankiz, ar reizhded hag ar peoc’h,
+<h2>Rakger</h2>
+<p>–O vezañ ma’z eo war anaout an dellezegezh enstag ouzh holl izili an denelezh hag o gwirioù par ha diwerzhus eo diazezet ar frankiz, ar reizhded hag ar peoc’h,
 –o vezañ ma’z eo war dizanaout ha dismegañsiñ gwirioù mab-den eo bet ganet an aktoù a varbariezh a sav koustiañs mab-den en o enep, ha ma’z eo bet embannet eo donedigezh ur bed a vo ennañ gant an dud frankiz da gomz ha da grediñ, dieubet ma vint diouzh ar spont hag an dienez, a zo mennad uhelañ mab-den,
 –o vezañ ma’z eo ret-holl diwall gwirioù mabden gant reolenn al lezenn evit na vefe ket rediet an dud d’en em sevel ouzh an tirantegezh hag ar gwaskerezh da rekour diwezhañ,
 –o vezañ ma’z eo ret-holl kas war-raok an darempredoù a vignoniezh etre ar broadoù,

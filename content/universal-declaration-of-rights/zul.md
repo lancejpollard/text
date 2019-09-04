@@ -1,6 +1,6 @@
 <h1 align='center'>UMBHALO OGCWELE WOGUNYAZO LWAMALUNGELO OLUNTU JIKELELE</h1>
-<h2 align='center'>Isandulelo</h2>
-<p align='center'>Ngokunjalo ukwamukelwa ngokuzuzwa kwesithunzi samalungelo alinganayo najwayelekile awowonke amalunga omndeni wesintu kuyisisekelo senkululeko, sobulungiswa noxolo emhlabeni,
+<h2>Isandulelo</h2>
+<p>Ngokunjalo ukwamukelwa ngokuzuzwa kwesithunzi samalungelo alinganayo najwayelekile awowonke amalunga omndeni wesintu kuyisisekelo senkululeko, sobulungiswa noxolo emhlabeni,
 Ngokunjalo ukunganakwa nokwedelelwa kwamalungelo esintu kube nomphumela wezenzo zobuqaba eseziqede unembeza kubantu, kanye nomhlaba obhekwe isintu ukuba senamele inkululeko yokukhuluma nokukholwa, inkululeko yokungesabi futhi nokufuna kugunyazwe ugqozi kubobonke abantu,
 Ngokunjalo kudingekile, uma umuntu engenakuphoqwa ukulandela umgudu othize, njengendlela yokugcina, avukele ababusi nabacindezeli, ukuze amalungelo esintu avikelwe ngokubusa ngomthetho,
 Ngokunjalo kudingekile ukuba kwenyuswe ukuthuthukiswa kobungane nobudlelwane phakathi kwezizwe,

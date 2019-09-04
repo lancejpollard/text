@@ -1,6 +1,6 @@
 <h1 align='center'>Shizhe Beyel-ngi Chuanli-tin Shuanyan</h1>
-<h2 align='center'>Zhulgide-ngi Ulgur-in</h2>
-<p align='center'>Beyel-ngi zhunyan-a-tin bineken pingdeng buyi chuanli-ye-tin chengren, shizhe zhiyu, zhengyi bineken heping-ngi chichu-tin bishin,
+<h2>Zhulgide-ngi Ulgur-in</h2>
+<p>Beyel-ngi zhunyan-a-tin bineken pingdeng buyi chuanli-ye-tin chengren, shizhe zhiyu, zhengyi bineken heping-ngi chichu-tin bishin,
 Beyel-ngi chuanli-ye-tin wushi bineken wumie yeman baoshing-shel oochaa, eril baoshing-shel
 beyel-ngi liangshin-ye-tin dianwu-choo-l. Beyel bambur yanlun bineken shinyang zhiyu bi bineken kongchu bineken kuyfa e-shi-re shizhe eme-re-n, putong beyel-ngi manii gugda yuanwang-tin bishin,
 Beyel baozheng-e bineken yapo-yo e-fanpan-kshi, beyel-ngi chuanli-tin fazhi-du baohu-ro biyao bishin,

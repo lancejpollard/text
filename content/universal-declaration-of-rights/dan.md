@@ -1,6 +1,6 @@
 <h1 align='center'>VERDENSERKLÆRINGEN OM MENNESKERETTIGHEDERNE</h1>
-<h2 align='center'>INDLEDNING</h2>
-<p align='center'>Da anerkendelse af den mennesket iboende værdighed og af de lige og ufortabelige rettigheder for alle medlemmer af den menneskelige familie er grundlaget for frihed, retfærdighed og fred i verden,
+<h2>INDLEDNING</h2>
+<p>Da anerkendelse af den mennesket iboende værdighed og af de lige og ufortabelige rettigheder for alle medlemmer af den menneskelige familie er grundlaget for frihed, retfærdighed og fred i verden,
 da tilsidesættelse af og foragt for menneskerettighederne har ført til barbariske handlinger, der har oprørt menneskehedens samvittighed, og da skabelsen af en verden, hvor menneskene nyder tale- og trosfrihed og frihed for frygt og nød, er blevet forkyndt som folkenes højeste mål,
 da det er af afgørende betydning, at menneskerettighederne beskyttes af loven, hvis ikke mennesket som en sidste udvej skal tvinges til at gøre oprør mod tyranni og undertrykkelse,
 da det er af afgørende betydning at fremme udviklingen af venskabelige forhold mellem nationerne,

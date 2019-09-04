@@ -1,6 +1,6 @@
 <h1 align='center'>PACHATIN LLAQTAKUNAPI RUNAQ ALLIN KANANPAQ JATUN KAMACHIKUY</h1>
-<h2 align='center'></h2>
-<p align='center'>Pachantin ayllu wawaq allin kausaypi kananta yuyaykuspan, kay kamachikuy paqarin. Runaq kausay qasi kusi kausaypi kananpaq, tukuy llakipi kaspapas "justicia" taripananpaq. Kikin runakayninta runa masinkunawan reqsichispa kausananpaq.
+<h2></h2>
+<p>Pachantin ayllu wawaq allin kausaypi kananta yuyaykuspan, kay kamachikuy paqarin. Runaq kausay qasi kusi kausaypi kananpaq, tukuy llakipi kaspapas "justicia" taripananpaq. Kikin runakayninta runa masinkunawan reqsichispa kausananpaq.
 Runaq runa kayninta sarunchasqata rikuspan, wakin ima mil lay salqa runakunaq runa masinta ku'muchisqanta, waqachisqanta rikuspan, kay ancha sut'i kamachikuykuna rikhurin, ashwan allin, ashwan sumaq kausay runaq taripananpaq; mana imamanta manchakuspa, mana yarqayta muchuspa, sut'i simipi rimarispa qasi kausaypi kananpaq.
 Runapaqpuni tukuy ima allinkunapas kamasqa karqan. Chay kamasqa kasqanta reqsispan; "derechon" kasqanta yachaspan kay simikuna kamakun qharipas warmipas kushkachasqalla kausanankupaq, sapa p'unchay ashwanta jananchakuspa. Kausanankupaq: paykuna ukhupipas, llapa ayllu runa uldiupipas, sapanka runataqmi tukuy llakimanta qespisqalla purikunan, llapa "mundo" pachantinman qasi kausay mast'arikunanpaq.
 Teqse muyuntin "munduq" "estadonkuna" juñuykunakuspan, ancha allinta rimanakunku "Organización de las Naciones Unidas" sutita churaykukuspa. Jina sumaqta, allinta yuyayukuspataq, ruwaspataq, juq sonqolla kamachinakunku yanapanakunankupaq, runaq runakayninta, qespesqa kayninta, tukuy "derechunta" junt'achinankupaq.

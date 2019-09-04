@@ -1,6 +1,6 @@
 <h1 align='center'>SATIIN CAA CHAURUATANE QUE NENACAAURU CACHAAURU RAl RAUHI</h1>
-<h2 align='center'>Nunue</h2>
-<p align='center'>Satiin, cachaauru raite ne rauhi. Nii jaun, nainihei chaque ereein nihacane jaannu, jiniiquiin, raotojoeein, ita cailichanaa coauquelanaala, rauhij iriin nenaa j erichaache ne. Nitohanai coitucuhin neniha cachaauruna jaunte, ita cailichairiin nihane, ichaoore cachaauru. Nii jaunna, neruujiha saain, itolere cachauru ne jerichaanu; itolere raotojoeein ichaohin aúiihaneein, niicha esenetai esenetaain, niicha coacui que ereerejeein, naojoaain niha cachaauru ne jerichaanu.
+<h2>Nunue</h2>
+<p>Satiin, cachaauru raite ne rauhi. Nii jaun, nainihei chaque ereein nihacane jaannu, jiniiquiin, raotojoeein, ita cailichanaa coauquelanaala, rauhij iriin nenaa j erichaache ne. Nitohanai coitucuhin neniha cachaauruna jaunte, ita cailichairiin nihane, ichaoore cachaauru. Nii jaunna, neruujiha saain, itolere cachauru ne jerichaanu; itolere raotojoeein ichaohin aúiihaneein, niicha esenetai esenetaain, niicha coacui que ereerejeein, naojoaain niha cachaauru ne jerichaanu.
 Saain acaauru cachaauru coroatajanemii, saain itolere gobiernooru, nabana aiha nejerateein, naojoaain niha rai cachaauru ne coataa.
 Caohachaain ita coaraain, naaojoaain neeuruhine leeocha gobierno aina itolere caa chauruatane sacutaain nenacaauru gobiernooru.
 "Caohatoha naain jeriha laurilaurichuru nenacaauru gobierno, caa canaacaanu aitoojoan que na jaun, uain caohachaain cachaauru coroataj anecurumii te, caoachaain neruujueein neeuruhine.

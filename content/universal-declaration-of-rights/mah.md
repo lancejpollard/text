@@ -1,6 +1,6 @@
 <h1 align='center'>NAN IN KWALOK EO AN LAL IN KIN MARON KO AN ARMIJ</h1>
-<h2 align='center'>Kin kwaloki</h2>
-<p align='center'>Kinke watoke utiej eo ej mottan maron ko rej jonair wot juon im rej men in letok non ro otemjej uaan bamle ko an otemjej im bwe men ekin rej einwot dreka in jabon em non anemkwoj, wanik im ainemon eo ilo lal in,
+<h2>Kin kwaloki</h2>
+<p>Kinke watoke utiej eo ej mottan maron ko rej jonair wot juon im rej men in letok non ro otemjej uaan bamle ko an otemjej im bwe men ekin rej einwot dreka in jabon em non anemkwoj, wanik im ainemon eo ilo lal in,
 Kinke ne ej ejelok lemnok kaki im kwo-wan maron ko an armij enwij an walok ilo jet wawin ko jen jerbal ko an ro dri nana im ejelok wawin mantin mour ejejjit im bwe jerbal kein rar kokkure boklikot eo an armij otemjej, im kio emwij an ijino juon bar lol eo im emwij kwalok kake bwe ilo lol in ekal ej men in kotobar eo elap tata an armij joanir wot juon bwe ren jimor jerammon jen anemkwoj in je im kwalok lemnok ko ilo burueir im tomak eo air im air anemkwoj ion mijak im aikuij,
 Kinke ekanuij in lap tokjen, elane ejelok kilen armij bwe en komone juon wawin eo, einwot men in torak eo an eliktata, non jutak mae kien eo enana im wawin ko renana tata, bwe rul eo an kien ko emwij komoni en men in kejbarok maron ko an armij,
 Kinke elap tokjen en wonmanlok im emonlok wawin jimjera eo ikotan lol ko,

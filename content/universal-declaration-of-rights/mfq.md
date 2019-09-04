@@ -1,6 +1,6 @@
 <h1 align='center'>Nifosaal yiko-nba nba g ŋanduna muand</h1>
-<h2 align='center'>Laalaal nba be kadaaɔg ne ninŋ</h2>
-<p align='center'>L gii tie k t bann g nifosaal yen u yikod n tie nil, t gii bann g lann ńtie nil yal n kua, yen u mɔni yen u mɔtaaɔg laafiɛ fiɛgl.
+<h2>Laalaal nba be kadaaɔg ne ninŋ</h2>
+<p>L gii tie k t bann g nifosaal yen u yikod n tie nil, t gii bann g lann ńtie nil yal n kua, yen u mɔni yen u mɔtaaɔg laafiɛ fiɛgl.
 L gii tie k t bann g nifosaal yikod kan cɔln, yen l tudm n te g niib suan tuonbiid g benŋ lieb pala, g biɛ tuo g dulinya kul doi taan g suol k b kpaan yen b pal kul, g nifosaal kul mɔg yiko yen wan maad u yam n, g i mɔg dindann, cicagm n ninŋ.
 L gii tie k l mɔn g doug yikoddanm ń gi guu nifosaal yiko, k tan da tie mabl nil po, k wan fiil g kɔn u kua po, g dugn b dalg u yikod. L gii tie k l mɔn, k tin tod g dingbanbudi-budi n suol dɔnnu, g tien mɔtaaɔg.
 L gii tie k kadaaɔg ne ninŋ, dingbanbudi-budi niib kul taan g ŋɔn nifosaal yikod n pugd yudand nba, g ŋɔn g jua yen puo kul mɔg yikoyenn i, g biɛ tuo k b bu taan mɔb g tod g sua kul n yal u kua, g la yanŋaal yen fuon.

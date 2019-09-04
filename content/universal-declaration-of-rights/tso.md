@@ -1,6 +1,6 @@
 <h1 align='center'>Xiboho xa Tifanelo ta Ximunhu ta Hinkwavo</h1>
-<h2 align='center'>Manghenelo</h2>
-<p align='center'>Tanihileswi ku tekeriwaka enhlokweni xindzhuti xa ntumbuluko na tifanelo leti nga susekiki eka munhu un’wana na un’wana leswi ku nga swona tshaku kumbe masungulo ya ntshuxeko, vululami na ku rhula emisaveni,
+<h2>Manghenelo</h2>
+<p>Tanihileswi ku tekeriwaka enhlokweni xindzhuti xa ntumbuluko na tifanelo leti nga susekiki eka munhu un’wana na un’wana leswi ku nga swona tshaku kumbe masungulo ya ntshuxeko, vululami na ku rhula emisaveni,
 Tanihileswi ku nga ni ku honisiwaka na ku nyadziwa ka tifanelo ta ximunhu leswi tiseke mitirho ya tihanyi leyi onheke miehleketo ya rixaka ra vanhu emikarhini leyi ehansi ka misava, laha vanhu va faneleke ku tiphina hi ntshuxeko wo vulavula leswi va swi lavaka na ripfumelo leri va tihlawulelaka rona na ntshuxeko wo kala ku chavisetiwa ni wa swinavelo swi twarisiwile tanihi xinavelo lexikulukumba ngopfu eka xitshungu,
 Tanihileswi swi nga swa nkoka loko munhu a nga heteleli a sindzisiwile hi xiyimo ku va a hlawula ku pfukela mfumo wa tihanyi na ntshikelelo, kambe tifanelo ta ximunhu ti fanele ku sirheleriwa hi mfumo wa xinawu,
 Tanihileswi swi nga swa nkoka ku tlakuseta nhluvuko wa vuxaka bya vunghana exikarhi ka matiko,

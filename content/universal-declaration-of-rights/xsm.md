@@ -1,6 +1,6 @@
 <h1 align='center'>LOGO BAŊA TIGISIM NABIINA ŊWE-LAO WADƐ</h1>
-<h2 align='center'>PULIM</h2>
-<p align='center'>De na sɛ we nabiina ŋwea de logo baŋa chega chwoŋa wadɛ maama kugu zege logo maama wopwolo, de chega de yezura baŋa ne.
+<h2>PULIM</h2>
+<p>De na sɛ we nabiina ŋwea de logo baŋa chega chwoŋa wadɛ maama kugu zege logo maama wopwolo, de chega de yezura baŋa ne.
 De na sɛ we de na ba tɔge chega chwoŋa to mo jaane nikantɔgɔ de tigura de popɔra ko twi nabiina laŋa ne, ye nabiina maama yaa lage se wopwolo de yezura yaa taa wora.
 De na sɛ we nɔɔno maama taa tei o tete se tigura de popɔra ye taa wora, fefeo de peenem ŋwaane, se wadɛ sem ja kuri.
 De na sɛ we teene maama taa jege wolim, de ni sɛɛm de mimɔrɔ.

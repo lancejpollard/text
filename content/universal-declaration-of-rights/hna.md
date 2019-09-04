@@ -1,6 +1,6 @@
 <h1 align='center'>XIXE BLIBOA BE GBEFANƉEƉE SO AMƐBUSEWO ALOGOƉOEJSEWO ŊTI</h1>
-<h2 align='center'>ŊKƆJENYA</h2>
-<p align='center'>Ke e nyi be jesinana agbetɔ xɔmɛviwo kpata le woabe nujɔnunyinyi ku le woabe goɖoejisiwo alo amɛbusewo be gbesɔɛmɛ maɖeviɖe le emɛ ye nyi ku Fafa alo tujanyi le xixea mɛ a;
+<h2>ŊKƆJENYA</h2>
+<p>Ke e nyi be jesinana agbetɔ xɔmɛviwo kpata le woabe nujɔnunyinyi ku le woabe goɖoejisiwo alo amɛbusewo be gbesɔɛmɛ maɖeviɖe le emɛ ye nyi ku Fafa alo tujanyi le xixea mɛ a;
 Ke e nyi be amɛbusewo, geɖojisewo majesi kudo woabe makanmana woe dɔ̀nna gbélán be hunyra wɔnawo kawoe zinzinna agbetɔ be cìcìnya va a, eye nɛ agbetɔ b'a vǒ le nupópò pò ku nujixɔse mɛ a, ke e nyi be vɔ́nvɔ̀n sɔyi kumɛ ŋgba le e ji o a yeŋuti wo ɖegbefan só xixe búŋuku mɛ be jɔ̀jɔ̀ ke la nɔ sigbe jíjí wuta jijiwo kpata le amɛgbetɔwo be jijiwe mɛ a;
 Ke e nyi be e le veveɖe be ɖoɖo tɔ̀xɛ̀ ɖéwo la nɔ xɔ akpo nɛ amɛbuse kea woa, goɖojise kea woa, nɛ ŋgba va nyi be ke e jo va gloe kpatatàa, agbetɔ la jeagla, la fɔngu ɖo nukeŋutia hunyra sɔ do lannuwɔwɔmɛ ku amɛjizinzin jo va wugan, jo va flaa, jo va glo a;
 Ke e nyi be enu tajitɔ̀ ba nyì be wo ɖo la de ŋsɛn abɔkamɛ nɛ dukɔnwo le xlɔnnyinyi be ka ke le woa domɛ a;

@@ -1,6 +1,6 @@
 <h1 align='center'>HUKLLAWASQA NACIONKUNAPA REQSICHISQAN LLAPA RUNAKUNAPA DERECHONKUNA</h1>
-<h2 align='center'>Qallariynin</h2>
-<p align='center'>QAWARISUNYA: Libre kawsakuywan kay pachapi tukuy imapi hawka kawsakuyqa sumaq sapichasqam kachkan kaykunapi: Lliw runakunaqa mamanchikpa wachakuwasqanchikmantapunim mana pipapas usuchisqan allin qawasqa hinaspa igual derechoyoq kananchik.
+<h2>Qallariynin</h2>
+<p>QAWARISUNYA: Libre kawsakuywan kay pachapi tukuy imapi hawka kawsakuyqa sumaq sapichasqam kachkan kaykunapi: Lliw runakunaqa mamanchikpa wachakuwasqanchikmantapunim mana pipapas usuchisqan allin qawasqa hinaspa igual derechoyoq kananchik.
 QAWARISUNYA: Runakunam tukuy mana allin ruwaykunaman chayarunku, runapa derechonkunata mana sumaqta reqsispanku otaq yachachkaspankupas chaykunata mana kaqpaqpas hapispanku, lliw runakunam munanchik hamuq punchawkunapi allin kawsakuyta; tukuy manchakuykuna hinaspa muchuyllapi wakcha kaykuna chinkaruptinqa lliw runakunam mana manchakuspaña rimarisun imam umanchikpi kaqta, mana manchakuspataqmi chaskisun imam yachay munasqanchiktapas.
 QAWARISUNYA: Kananmi Runakunapa Derechon waqaychaq munayniyoq kamachikuykuna, chay kamachikuykunam mana pimanpas sayapakuspa yanapanan derechon valechiy munaq sarutyasqa hinaspa usuchisqa runakunata.
 QAWARISUNYA: Kay pachapi nacionkuna amistadta armanankupaqmi sonqonchikpi munaypaq-munananchik hinaspam chay munayta cheqechinanchik.

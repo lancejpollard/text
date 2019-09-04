@@ -1,6 +1,6 @@
 <h1 align='center'>UNIVERSELE VERKLARING VAN DE RECHTEN VAN DE MENS</h1>
-<h2 align='center'>Preambule</h2>
-<p align='center'>Overwegende, dat erkenning van de inherente waardigheid en van de gelijke en onvervreemdbare rechten van alle leden van de mensengemeenschap grondslag is voor de vrijheid, gerechtigheid en vrede in de wereld;
+<h2>Preambule</h2>
+<p>Overwegende, dat erkenning van de inherente waardigheid en van de gelijke en onvervreemdbare rechten van alle leden van de mensengemeenschap grondslag is voor de vrijheid, gerechtigheid en vrede in de wereld;
 Overwegende, dat terzijdestelling van en minachting voor de rechten van de mens geleid hebben tot barbaarse handelingen, die het geweten van de mensheid geweld hebben aangedaan en dat de komst van een wereld, waarin de mensen vrijheid van meningsuiting en geloof zullen genieten, en vrij zullen zijn van vrees en gebrek, is verkondigd als het hoogste ideaal van iedere mens;
 Overwegende, dat het van het grootste belang is, dat de rechten van de mens beschermd worden door de suprematie van het recht, opdat de mens niet gedwongen worde om in laatste instantie zijn toevlucht te nemen tot opstand tegen tyrannie en onderdrukking;
 Overwegende, dat het van het grootste belang is om de ontwikkeling van vriendschappelijke betrekkingen tussen de naties te bevorderen;

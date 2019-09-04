@@ -1,6 +1,6 @@
 <h1 align='center'>ALIMA NUNG ALIR MEIMCHIR AJAK ATEMA KASA TEMETEN SANGDONG</h1>
-<h2 align='center'>Okila</h2>
-<p align='center'>Kechiaseralima rangben nung nung nisung ka tim temeten aser kasa alitsüsa metentepa yutsübaji meimchir kibong ochi, nüji aser yimjung tamendakdak kimung lir,
+<h2>Okila</h2>
+<p>Kechiaseralima rangben nung nung nisung ka tim temeten aser kasa alitsüsa metentepa yutsübaji meimchir kibong ochi, nüji aser yimjung tamendakdak kimung lir,
 Kechiaser mezüng meshitepba, aitsütepba, mashimalu mapa inyakba, meimchir tim tejembitsü mejembidaktsüba, aser pei tebilemba rakpoka meshidaktsüba item ya ajanga meimchir nüji tia raksatsür,
 Kechiaserkodang anema apusoba aser oshi mashi rongsen benshirtemi nüburtem temeten aser nüji tia raksatsüdir, meimchir temeten ozüng ajanga itemji kümzüka ayutsüla,
 Kechiaser kintem tsüngda yimjung yangluba ajanga alima terenlok adokdaktsür, ibaji mapang ajak nung nungittsüla,

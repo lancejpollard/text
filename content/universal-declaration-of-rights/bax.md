@@ -1,6 +1,6 @@
 <h1 align='center'>NSA‘ NGA NJÚ TE PA MFÉÉ KÊT MÚN NYÜTU</h1>
-<h2 align='center'>NJÚE ME SHÚKÉT</h2>
-<p align='center'>Lo’ te ka kúmshe nga wûme, yúe a njit ne gú púen te ngúet púen nyütu pua pa mféé kêr’ap ngúenengúe sebe, pe na yire mbe map(ureyúe’ne) kú ghét ngam pua sappé ne fúeshe te njú na, lo’ te ka fét kwen pua tâne pa mféé kêt mún nyütu kpa’ nkiére gû ngétne nga pâre yúe a mfiébe
+<h2>NJÚE ME SHÚKÉT</h2>
+<p>Lo’ te ka kúmshe nga wûme, yúe a njit ne gú púen te ngúet púen nyütu pua pa mféé kêr’ap ngúenengúe sebe, pe na yire mbe map(ureyúe’ne) kú ghét ngam pua sappé ne fúeshe te njú na, lo’ te ka fét kwen pua tâne pa mféé kêt mún nyütu kpa’ nkiére gû ngétne nga pâre yúe a mfiébe
 Wupme pa te njú na, pua ka tuo tuo njú mfé ira yúe púen nyütu ntuo pe ne kú shúkét pua kú wûshe te túm túme puô pua ngúe’, shi na mbe pô yi nsa’ me pum yu sha’ múm nyütu na,
 Lo’ te ka a nta’ mi pa mféékêt mún nyütu kpa’ mbe yu shî te nsa’ngu mféékêt me shi’ mi a me yétne yi njit mún nyütu me ndînî ne pi’ tu te nsa’kpen pua yit mún te ngu na,
 Lo’ te ka a ntá suo nshi’ shâne sun ma fâne túm túm ma,

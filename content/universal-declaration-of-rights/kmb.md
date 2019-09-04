@@ -1,6 +1,6 @@
 <h1 align='center'>KITANGELU KYA NGONGO YA ITOKELU YA MUTHU</h1>
-<h2 align='center'>DIMATEKENU</h2>
-<p align='center'>Mu kutala kuma o ujitu wa kijingu wa tokala ku phunga yose ya mwiji wa’athu ni yoso ya itokelu ya sokelela ki itena ku ilanduka idibanga dimatekenu dya ufolo, dya difundisu ni dya kutululuka mu ngongo.
+<h2>DIMATEKENU</h2>
+<p>Mu kutala kuma o ujitu wa kijingu wa tokala ku phunga yose ya mwiji wa’athu ni yoso ya itokelu ya sokelela ki itena ku ilanduka idibanga dimatekenu dya ufolo, dya difundisu ni dya kutululuka mu ngongo.
 Mu kutala kuma o kukamba kwijya ni kudituna o itokelu ya muthu ya ambata mu ibangelu ya ku dijiba kuma ifutukisa o kubhanza kwa athu ni kuma o ngongo iza mwene o athu endakala ni kubanduluka mu kuzwela ni mu kwandala, akula ku woma ni ku wadyama, yai a ikola kala o kwandala kwavulu dingi kwa muthu.
 Mu kutala kuma kyene kyawaba o kukulisa o kukula kwa kudibana kwa ukamba mukaxi kya jixi.
 Mu kutala kuma mu mukanda wa athu wa jixi jadisokeka atangela lwamukwa o kixikinu kye mu itokelu ya dyanga ya muthu, mu kijingu ni kidunda kya muthu, mu kusokela kwa itokelu ya mala ni ahatu ni kuma atangela ni kukaka o kutenesa o kukuka kwa mundu ni abeka ixexilu ya mbote ya mwenyu mu ufolo wa kulu.

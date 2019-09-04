@@ -1,6 +1,6 @@
 <h1 align='center'>AKŌK MEMVENDE ENYIŃ A MENGAN BOD</h1>
-<h2 align='center'>NTOL EBUG</h2>
-<p align='center'>Eyóñ bia noñ na fili, sosoo ai mvoe bia so bia olugu biave ekokom mod.
+<h2>NTOL EBUG</h2>
+<p>Eyóñ bia noñ na fili, sosoo ai mvoe bia so bia olugu biave ekokom mod.
 Eyóñ bia noñ na fili ya nyol ai a nsisim ene dzom ya mod ose ayi, adzeñe fe, ai na ndimi, tege yene, ebiandi y'akar so e minsingi ai minyanda a minnam.
 Eyóñ bia noñ na ngomena ayian kala enyiñ asu e na bod be za bam nge batibili bo.
 Eyóñ bia noñ na fulu mbga etam, fulu anyañ, fulu ediñ ndzo ene mfi asu mie bod ya minnam.

@@ -1,6 +1,6 @@
 <h1 align='center'>DECLARATSIA UNIVERSALÃ TI-NDREPTURLI-A OMLUI</h1>
-<h2 align='center'>ZBOR NÃINTI</h2>
-<p align='center'>Ti-atsea câ pricânushtearea-a nâmuziljei nativâ shi-ndrepturli egali shi nealienabili-a tutâlor membrilji-a taifâljei a omlui easti fimelju-a li-bertatiljei, a-ndriptatiuljei shi-a irinjiljei din lumi,
+<h2>ZBOR NÃINTI</h2>
+<p>Ti-atsea câ pricânushtearea-a nâmuziljei nativâ shi-ndrepturli egali shi nealienabili-a tutâlor membrilji-a taifâljei a omlui easti fimelju-a li-bertatiljei, a-ndriptatiuljei shi-a irinjiljei din lumi,
 Ti-atsea câ nitinjisearea shi atimusearea-a-andrepturlor a omlui dutsea la comportâri barbari cari u prusvulisea sinidisea-a uminitatiljei, sh-ti-atsea câ adrariljei lumi tu cari iatsâli umineshtsâ va s-hârseascâ di libertatea di zbor shi pisti shi va s-hibâ liberi di firca shi urfanjea easti proclamatâ ti nai ma analtul ideal a cafi unlui om,
 Ti-atsea câ important easti câ-ndrepturli-a omlui s-hibâ afiriti cu sistemlu juridic câ s-nu hibâ omlu pimtu pi-atsea ta s-mutâ contra-a tiraniiljei shi tirinsearea,
 Ti-atsea câ important easti câ sâ-lji si da indati developarea-a relatsiilor di uspitsâlji anamisa di miletsli,

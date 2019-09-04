@@ -1,6 +1,6 @@
 <h1 align='center'>Mɛ tɔnun asaria yen adunia nɔɔsiabu</h1>
-<h2 align='center'>Garin tore</h2>
-<p align='center'>Nde mɛ̀ ba doke mà tɔmbu kpuron bɛɛrɛ ka ben asaria nɛrabu sɔɔra tii mɔru ka gem wɛɛbu ka sere si na ta tasa anduniaɔ,
+<h2>Garin tore</h2>
+<p>Nde mɛ̀ ba doke mà tɔmbu kpuron bɛɛrɛ ka ben asaria nɛrabu sɔɔra tii mɔru ka gem wɛɛbu ka sere si na ta tasa anduniaɔ,
 Nde mɛ̀ dunia sɔɔ tɔmba ǹ ki bu tɔ nun asaria ka yɛru sariru dooru doke sere ba n ye tusa n dera daa kam ya dabia ma ya duniagibu daakari seeya. Yen sɔna yé tɔnu kanamɔ n kpuro kere yera ù wa u n tii mɔ kpa ù gere yè u bwisika, u tamaa doke kpa ù narùrabu ka yaaru biru ko,
 Nde mɛ̀ yè ya kere yera tem mi ba wooda swii bu tɔnum asaria nɔni doke, n wa tirasi yu ku wii deema ù ka tii yina yen sɔ ba wii yoru diisiamɔ ka ba wii takaasi mɔ̀,
 Nde mɛ̀ yè ya kere yera bu nɔɔsina ka bu bɔrɔnu dam kɛ tem baa,

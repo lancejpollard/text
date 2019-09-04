@@ -1,6 +1,6 @@
 <h1 align='center'>DATGANIAD CYFFREDINOL O HAWLIAU DYNOL</h1>
-<h2 align='center'>Rhagair</h2>
-<p align='center'>Gan mai cydnabod urddas cynhenid a hawliau cydradd a phriod holl aelodau’r teulu dynol yw sylfaen rhyddid, cyfiawnder a heddwch yn y byd,
+<h2>Rhagair</h2>
+<p>Gan mai cydnabod urddas cynhenid a hawliau cydradd a phriod holl aelodau’r teulu dynol yw sylfaen rhyddid, cyfiawnder a heddwch yn y byd,
 Gan i anwybyddu a dirmygu hawliau dynol arwain at weithredoedd barbaraidd a dreisiodd gydwybod dynolryw, a bod dyfodiad byd lle y gall pob unigolyn fwynhau rhyddid i siarad a chredu a rhyddid rhag ofn ac angau wedi ei gyhoeddi yn ddyhead uchaf y bobl gyffredin,
 Gan fod yn rhaid amddiffyn hawliau dynol a rheolaeth cyfraith, os nad yw pob unigolyn dan orfod yn y pendraw i wrthryfela yn erbyn gormes a thrais,
 Gan fod yn rhaid hyrwyddo cysylltiadau cyfeillgar rhwng Cenhedloedd,

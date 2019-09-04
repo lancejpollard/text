@@ -1,6 +1,6 @@
 <h1 align='center'>IN KIRAK -TSAPORONASOSH TPOTS ICHIGORO VANASIR TAPANA; SAMPATA MANTSIR TARINTSPA-ATCHA.</h1>
-<h2 align='center'></h2>
-<p align='center'>Mazinantsa: tpots vanasir tapi-ato ¿anoa mayamaha toxarachich? Kis tapi-ato ¿anoa mayamaha pachidchich? vatam tpotsiva. Pachidkinarich -Ancha yotarita -atiniya ichigoroní. Ichigoroní kis taravaztamam zadkini; vanasir tamam zadkini; mapironi tamam zadkiniya.
+<h2></h2>
+<p>Mazinantsa: tpots vanasir tapi-ato ¿anoa mayamaha toxarachich? Kis tapi-ato ¿anoa mayamaha pachidchich? vatam tpotsiva. Pachidkinarich -Ancha yotarita -atiniya ichigoroní. Ichigoroní kis taravaztamam zadkini; vanasir tamam zadkini; mapironi tamam zadkiniya.
 Misha mazinagtsa: tpots nia tsiyatsia da payoragosin, kizpor yotarit taragana; tpotsia natsaragana. Anomon chi vanipsha tsiyantakich. Itaro, iysha anoa zadkiazini, da. Mapironi tapani atiniya. Tpots Apallia chinapí-ato, vani chinachpa. Tpots tsiyatsia kamanpi-ato, vani kamanichpa. Tpots kis tapi-ato, xaramam vatsta atiniya. ¿Chakaha nia da zadak? Ichigoroni zadaktánicha.
 Misha mazinagtsa: gobieron ichigoro iyá kukini kamachtachpa. -Tpots ichigorosin vanasir tapana; toxararintspa -ato tayaspatachpa. Dona ashkos, paptsa; tpots varatchillinpa. Tpots kizpor tsiyantaksin -Goblernoa kapiatiani -táchpasinaya; vatam kis tapani atánava.
 Misha mazinagtsa: gobieron ichigoroní vashonad kis tayani atini. Ashirí, dona nia kukoz payokoni ¿tamayria kis tachiní? Ashirocha, ichigoroni payopani atiniya.

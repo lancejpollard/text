@@ -1,6 +1,6 @@
 <h1 align='center'>IFYASOSELE IFYALO PALWA NSAMBU SHA MUNTU</h1>
-<h2 align='center'>AMASHIWI YAKUBALILAPO</h2>
-<p align='center'>Apo kwaba ukwishiba ubucindami bwa muntu nomulinganya pamo ne nsambu shishifwile kufumyapo ku muntunse nge shinte lya buntungwa, umulinganya pamo nomutende pano isonde,
+<h2>AMASHIWI YAKUBALILAPO</h2>
+<p>Apo kwaba ukwishiba ubucindami bwa muntu nomulinganya pamo ne nsambu shishifwile kufumyapo ku muntunse nge shinte lya buntungwa, umulinganya pamo nomutende pano isonde,
 Apo uku kana posako mano nokusula insambu sha muntu fya lenga imicitile ya bunkalwe yikalifya amatontonkanyo ya bantu, elyo nokupilibula imikalile ya mu calo umo abantu bonse bengala sekelamo mu nsambu sha kulanda nokusumina ifyo balefwaya ukubikapo nokula ikala ukwabula icintinya nokubulilwa fyalisoswa nge fikabila nganshi umuntu onse,
 Apo cikankala, nga cakuti umuntu tali nokula patikishiwa ukuilubula, nge nshila yakushalikishako, ukulasangukila aba buluku nabalya banyantilila abanabo, mukuti insambu sha muntu shifwile ukucingililwa na mafunde,
 Apo caba cikankala ukutwala pantanshi icumfwano pakati ka fyalo,

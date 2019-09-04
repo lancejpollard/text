@@ -1,6 +1,6 @@
 <h1 align='center'>HAADAMA RENMUM TAQUN DORONDEN DANTAQIYE DUNA NOXO (1948)</h1>
-<h2 align='center'>JOPPAADI</h2>
-<p align='center'>O ga na a faayi nan ti saran xabiilanun doronde do I taqu tinamto ya na du-kiteye, teleŋontaaxun do jamun gondoman ŋa duna noxo.
+<h2>JOPPAADI</h2>
+<p>O ga na a faayi nan ti saran xabiilanun doronde do I taqu tinamto ya na du-kiteye, teleŋontaaxun do jamun gondoman ŋa duna noxo.
 O ga na a faayi nan ti soron taqun turvinbalaaxun do i roxomaxantaaxun yan ña sababu xonintan gollu ñanŋen dunasu maxa. Ken ya ni haadama renmum su ga natene do kiyi kurunba be i ga digaamunu, i ga batiini ti i sago, i xannun laabanto kannu do kori su da.
 O ga na a taayi nan ti haadama tenmun taqun nan siri tangeene ti tanka teleŋonte kuudo a nan maxa fiite katta gollu burn ñanŋen do marandi moxo bure.
 O ga na a faayi nan ti mejanŋaaxun nan siri ñaana jamaanun naxa.

@@ -1,6 +1,6 @@
 <h1 align='center'>AKAKITEANGA KI TE KATOATOA I TE AU TIKAANGA TANGATA</h1>
-<h2 align='center'>Akatomoanga Tuatua</h2>
-<p align='center'>I te mea oki e, ko te maramaanga e te arikianga i te tu turanga ngateitei tiratiratu tumu tikai, e te tikaanga aiteite e te mutukore o te tangata katoatoa o teianei ao, ko te tango ia o te oraanga tamanamanata kore ia, te oraanga tiratiratu e te ‘au, i roto i teianei ao,
+<h2>Akatomoanga Tuatua</h2>
+<p>I te mea oki e, ko te maramaanga e te arikianga i te tu turanga ngateitei tiratiratu tumu tikai, e te tikaanga aiteite e te mutukore o te tangata katoatoa o teianei ao, ko te tango ia o te oraanga tamanamanata kore ia, te oraanga tiratiratu e te ‘au, i roto i teianei ao,
 E i te mea oki e, ko te akangaropoinaanga e te akava’ava’aanga i te au tikaanga tangata, i tupu ei te au angaanga rikarika tikai tei akatupu i te riri otooto ki te akavangakau o te tangata tini ravarai, e ko te riro anga mai o tetai ao te ka rauka i te taangaanga i to ratou tikaanga i te tuatua e te irinakianga ma te tamanamanata kore, e te oraanga mataku kore e te ngere kore, tei akakite atea ia e ko te akakoroanga puapinga maata rava atu ia o te tangata ravarai,
 E, i te mea oki e, e mea puapinga rava atu kia paruru ia te tikaanga tangata e te mana o te ture kia kore tetai tangata kia akakeu ia ki tetai mataara ei ravenga openga kia akatupu i te orureau i te tamaki atu i te takinokino anga e te akatuika’a anga,
 E,i te mea oki e, e mea puapinga rava atu kia akamatutu ia te tupuanga o te pirianga taeake i rotopu i te au Basileia,

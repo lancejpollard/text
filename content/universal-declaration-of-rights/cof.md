@@ -1,6 +1,6 @@
 <h1 align='center'>JERA TOTE PIYANLE TSA'CHILACHI MANTA</h1>
-<h2 align='center'>Niya i'to in manta lonun pa'tinun</h2>
-<p align='center'>Ten ila inue, paka i'tuto nenanci, jera tote panshi jono, yari jeralela miranun joe, piyanle tsa'chilachi mantaka, monanti aratalu wini i'to, tsa'chi bolonlaka, yu'kapiyarechike tenfeno i'tonunka.
+<h2>Niya i'to in manta lonun pa'tinun</h2>
+<p>Ten ila inue, paka i'tuto nenanci, jera tote panshi jono, yari jeralela miranun joe, piyanle tsa'chilachi mantaka, monanti aratalu wini i'to, tsa'chi bolonlaka, yu'kapiyarechike tenfeno i'tonunka.
 Ten ila inue, piyanle tsa'chilachi mantaka, mi i'toto, junshi mira'tonan kumana kurato, layan tsa'chilaka, layan se i'ton kilakenae, junto tsa'chila fe munaranunka, panshi junshi wepanatu'to, nena'sa, tsankenan tikati ya'chi tenka janunka pano pode i'sa joe.
 Ten ila inue, piyanle tsa'chilachi mantaka, sonban manta shuwachun, yape tsa'chila, mantaminlaka be'ko pala ke'tusa.
 Ten ila inue, piyanle payila sele sonrala'sa, a'ko kuwenta jonola jonunka.

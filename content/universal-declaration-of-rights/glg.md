@@ -1,6 +1,6 @@
 <h1 align='center'>Declaración Universal dos Dereitos das Persoas</h1>
-<h2 align='center'>Preámbulo</h2>
-<p align='center'>A liberdade, a xustiza e a paz no mundo teñen por base o recoñecemento da dignidade intrínseca e dos dereitos iguais e inalienables de tódolos membros da familia humana;
+<h2>Preámbulo</h2>
+<p>A liberdade, a xustiza e a paz no mundo teñen por base o recoñecemento da dignidade intrínseca e dos dereitos iguais e inalienables de tódolos membros da familia humana;
 O descoñecemento e o menosprezo dos dereitos da persoa orixinaron actos de barbarie aldraxantes para a conciencia da humanidade; proclamouse, como a aspiración máis elevada da persoa, o advento dun mundo no que os seres humanos, liberados do temor e da miseria, disfruten da liberdade de palabra e da liberdade de crenzas;
 Esencial que os dereitos da persoa sexan protexidos por un ríxime de dereito, co fin de que a persoa non se vexa compelida ó supremo recurso da rebelión contra a tiranía e a opresión;
 Tamén esencial promover o desenvolvemento de relacións amigables entre as nacións;

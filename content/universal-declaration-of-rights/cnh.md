@@ -1,6 +1,6 @@
 <h1 align='center'>Mikip nih ngeihmi thiltikhawhnak tinvo theihternak</h1>
-<h2 align='center'>Biahmaisa</h2>
-<p align='center'>Mi vialte hmaizah upat awk le mi vialte he ai tlukmi thilti khawhnak kan ngei cio ti hngalh khawhnak cu mi vialte i zalonnak, a phungning tein thil tinak le daihnak timi hna i a hrampi a si caah siseh,
+<h2>Biahmaisa</h2>
+<p>Mi vialte hmaizah upat awk le mi vialte he ai tlukmi thilti khawhnak kan ngei cio ti hngalh khawhnak cu mi vialte i zalonnak, a phungning tein thil tinak le daihnak timi hna i a hrampi a si caah siseh,
 Mikip ngeihmi thilti khawhnak tinvo kha zeirel loin um cu mi vialte i upat awk tlak mi ziaza tha hna kha hrawkralnak a chuahter caah siseh, zalong tein biachim khawhnak, zalong tein biak khawhnak, tihphannak um lo le duhherhnak ah zalong tein um khawhnak kha mi vialte saduhthah ngan pi a si tiah thawngthanh cia a si caah siseh,
 Mi vialte hna kha a phungning lo le zawmhtaih hremuk nak kha hrial awk a that lo caah a hnu bik ah hriamnam a lak i raldohnak a um nakhnga lo mi kip nih ngeihmi thilti khawhnak tinvo kha upadi nih a runven le a khamh awk a si caah siseh,
 Ram khat le ram khat dawhria tein pehtlaihnak kha thanchoternak tuah a herh caah siseh,

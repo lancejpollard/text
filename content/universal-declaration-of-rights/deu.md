@@ -1,6 +1,6 @@
 <h1 align='center'>Die Allgemeine Erklärung der Menschenrechte</h1>
-<h2 align='center'>Präambel</h2>
-<p align='center'>Da die Anerkennung der angeborenen Würde und der gleichen und unveräußerlichen Rechte aller Mitglieder der Gemeinschaft der Menschen die Grundlage von Freiheit, Gerechtigkeit und Frieden in der Welt bildet,
+<h2>Präambel</h2>
+<p>Da die Anerkennung der angeborenen Würde und der gleichen und unveräußerlichen Rechte aller Mitglieder der Gemeinschaft der Menschen die Grundlage von Freiheit, Gerechtigkeit und Frieden in der Welt bildet,
 da die Nichtanerkennung und Verachtung der Menschenrechte zu Akten der Barbarei geführt haben, die das Gewissen der Menschheit mit Empörung erfüllen, und da verkündet worden ist, dass einer Welt, in der die Menschen Rede- und Glaubensfreiheit und Freiheit von Furcht und Not genießen, das höchste Streben des Menschen gilt,
 da es notwendig ist, die Menschenrechte durch die Herrschaft des Rechtes zu schützen, damit der Mensch nicht gezwungen wird, als letztes Mittel zum Aufstand gegen Tyrannei und Unterdrückung zu greifen,
 da es notwendig ist, die Entwicklung freundschaftlicher Beziehungen zwischen den Nationen zu fördern,

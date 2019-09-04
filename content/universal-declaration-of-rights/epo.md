@@ -1,6 +1,6 @@
 <h1 align='center'>Universala Deklaracio de Homaj Rajtoj</h1>
-<h2 align='center'>Antaŭkonsideroj</h2>
-<p align='center'>Pro tio, ke agnosko de la esenca digno kaj de la egalaj kaj nefordoneblaj rajtoj de ĉiuj membroj de la homara familio estas la fundamento de libero, justo kaj paco en la mondo,
+<h2>Antaŭkonsideroj</h2>
+<p>Pro tio, ke agnosko de la esenca digno kaj de la egalaj kaj nefordoneblaj rajtoj de ĉiuj membroj de la homara familio estas la fundamento de libero, justo kaj paco en la mondo,
 Pro tio, ke malagnosko kaj malestimo de la homaj rajtoj rezultigis barbarajn agojn, kiuj forte ofendis la konsciencon de la homaro, kaj ke la efektiviĝo de tia mondo, en kiu la homoj ĝuos liberecon de parolo kaj de kredo kaj liberiĝon el timo kaj bezono, estas proklamita kiel la plej alta aspiro de ordinaraj homoj,
 Pro tio, ke nepre necesas, se la homoj ne estu devigitaj, sen alia elektebla vojo, ribeli kontraŭ tiranismo kaj subpremo, ke la homaj rajtoj estu protektataj de la leĝo,
 Pro tio, ke nepre necesas evoluigi amikajn rilatojn inter la nacioj,

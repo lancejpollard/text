@@ -1,6 +1,6 @@
 <h1 align='center'>Fockley-Magh Cairyssyn Deiney cour y Theihll Slane</h1>
-<h2 align='center'>Roie-raa</h2>
-<p align='center'>Fakin dy nee cur enney er ooashley beayn dy chooilley oltey jeh kynney sheelnaue as er nyn gairyssyn corrym nagh vod y ve goit ersooyl undin seyrsnys, cairys as shee ayns y theihll,
+<h2>Roie-raa</h2>
+<p>Fakin dy nee cur enney er ooashley beayn dy chooilley oltey jeh kynney sheelnaue as er nyn gairyssyn corrym nagh vod y ve goit ersooyl undin seyrsnys, cairys as shee ayns y theihll,
 Fakin dy vel mee-ooashley da cairyssyn deiney as craid jeu er leeideil gys drogh-yannoo barbaragh t’er chur sneih er cooinsheanse sheelnaue, as dy vel toshiaght seihll raad ghoys deiney soylley jeh seyrsnys loayrt as credjue as seyrsnys veih aggle as egin er ve focklit magh myr yeearree syrjey yn phobble chadjin,
 Fakin dy vel eh erskyn ooilley ymmyrchagh, mannagh bee dooinney eginit dy hyndaa, ec y jerrey, gys irree-magh noi tranlaase as eiyrtys, cairyssyn deiney dy v’er nyn goadey liorish reill y leigh,
 Fakin dy vel eh ymmyrchagh dy chur kianglaghyn dy chaarjys eddyr ashoonyn er nyn doshiaght,

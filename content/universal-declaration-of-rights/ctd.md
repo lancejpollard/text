@@ -1,6 +1,6 @@
 <h1 align='center'>Leitung gambup vannuai Mihingte’ Thuneihnate Tangkokhiatna</h1>
-<h2 align='center'>Thumapi</h2>
-<p align='center'>Leitung mihing innkuan khempeuh in pianpih thupitna leh liangko kikim a thuneihnate aneih uh ciaptehsakna in mi khempeuh ii suahtakna, diktatna leh leitung ah kilemna ii abulpi ahihmah bang in,
+<h2>Thumapi</h2>
+<p>Leitung mihing innkuan khempeuh in pianpih thupitna leh liangko kikim a thuneihnate aneih uh ciaptehsakna in mi khempeuh ii suahtakna, diktatna leh leitung ah kilemna ii abulpi ahihmah bang in,
 Mihing thuneihnate thulimsim saklo-in simmawhbawl sakna hangin mite lungsimtawng sukha in thangpaihna tawh ngongtatna piangsak ahih manin, suakta takin thu gentheihna ding, upna leh kimuanna neih theih nading, lauthawnna leh giautauna omlo a nuntak theihna apiangsak leitung khat hong suah zawh nading in mikim ii lunggulh pen hi ci-in kipulak khiata ahihmah bang in,
 Mi khatpeuh in bangmah thukhuallo a, gitlohna leh zawhthawhbawlna tawh ki-ukna a deihloh manin atawpkhakna ah thauvui thautang tawh lehdona apian loh nading in upadi khutletna tawh hut zawh ding akisam ahihmah bang in,
 Gam khat leh khat kilawmtatna leh ki-itna khantoh semsem nading akisam ahihmah bang in,

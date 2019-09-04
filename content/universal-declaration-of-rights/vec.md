@@ -1,6 +1,6 @@
 <h1 align='center'>Declarasion univarsałe de i deriti umani</h1>
-<h2 align='center'>Preànboło</h2>
-<p align='center'>Considarà che el reconosimento de ła dinjità inerente a tuti i menbri de ła fameja umana e de i só deriti, conpanji e inałienàbiłi, el costituise el fondamento de ła łibartà, de ła justisia e de ła paze inte’l mondo;
+<h2>Preànboło</h2>
+<p>Considarà che el reconosimento de ła dinjità inerente a tuti i menbri de ła fameja umana e de i só deriti, conpanji e inałienàbiłi, el costituise el fondamento de ła łibartà, de ła justisia e de ła paze inte’l mondo;
 Considarà che el desconosimento e el despreso de i deriti umani i ga portà a ati de barbarità che i ofende ła cosiensa de l’umanità, e che el rivar de un mondo ndove che i èsari umani i gode de ła łibartà de paroła e de credo e de ła łibartà da ła paura e da’l bezonjo el ze stà proclamà cofà ła pì alta aspirasion de l’omo;
 Considarà ch’A ze indespensàbiłe che i deriti umani i sie protezesti da norme zurìdeghe, se A se vołe evitar che l’omo el sie costreto a recórar, cofà ùltima istansa, a ła rebełion contro de ła tiranìa e l’opresion;
 Considarà ch’A ze indespensàbiłe promóvar el dezviłupo de raporti da amighi intrà Nasion;

@@ -1,6 +1,6 @@
 <h1 align='center'>MØG-A ÁCÏMMI YI KÖMI LÄBØ KI RI GÏG-A DWADDI KIPER DHANHØ BËNE</h1>
-<h2 align='center'>THYËRØ</h2>
-<p align='center'>Ka árum yïëëyii kinni wøri bëëdi dhanhø á dhanhø pere tek, ki kinni gïn-a cwøl á dhanhø pär bëne, o di dwaddø kinni bëëd ji bënn ki kömi piny ki mër, ge gøgg-a dyër, e bong ngan geny,
+<h2>THYËRØ</h2>
+<p>Ka árum yïëëyii kinni wøri bëëdi dhanhø á dhanhø pere tek, ki kinni gïn-a cwøl á dhanhø pär bëne, o di dwaddø kinni bëëd ji bënn ki kömi piny ki mër, ge gøgg-a dyër, e bong ngan geny,
 Kà bëëd wøyi dhanhø nyii känø ki bëëdø me raj, ki liny geki rënyi rumi dhanhø, ka bëën-a di bëëd ji ge køm-a dyër e bong ngan mään kwøbi kej dhøge, o yïëye bëëde á cwagge kete, e dhanhø pa böggi rumø yïëyø kinni bene bëën-a tyer yi ji bënn,
 Kà bëëde á gïn pere tek kinni keløg dhanhø odhalø yi räji bëëdø, nyii rumø kinni óyiel-a yi ngänyi wäye kipe kà guud wange, ngan ni menani di ceg ka korrø yi cigg,
 Kà bëëde á gïn pere teg kinni bëëd pödhhi kömi piny bënn ki mër, e ri gen ngänyi yi gen,

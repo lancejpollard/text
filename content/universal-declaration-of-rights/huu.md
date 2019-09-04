@@ -1,6 +1,6 @@
 <h1 align='center'>Nana Comɨnɨ Uri Illafue</h1>
-<h2 align='center'>Nano llogafue</h2>
-<p align='center'>Biena uiño: Nana comɨnɨ jɨaɨe comɨnɨ anamo iñellena, ie fɨnua dɨese nagamɨe feiñollena, nana comɨnɨ uri illena, bie rafuena llotɨcaɨ. Comena nagamɨe jeicɨa jira, bie rafuena llotɨcaɨ. Nana comɨnɨmo bie rafue daje isoi duide.
+<h2>Nano llogafue</h2>
+<p>Biena uiño: Nana comɨnɨ jɨaɨe comɨnɨ anamo iñellena, ie fɨnua dɨese nagamɨe feiñollena, nana comɨnɨ uri illena, bie rafuena llotɨcaɨ. Comena nagamɨe jeicɨa jira, bie rafuena llotɨcaɨ. Nana comɨnɨmo bie rafue daje isoi duide.
 Biena uiño: Ailluena comɨnɨ, dɨga icaiño jɨaɨe comɨnɨmona duere sefuilla jira, nana comɨnɨ jacɨruiñeno iacana jira, naga comɨnɨ rana iacana jira, bie rafuena llotɨcaɨ. Duere sefui raillano, nana comɨnɨ nɨe isoide rafuena jacɨruiñeno llollena, bie rafuena llotɨcaɨ. Duere sefui raillano, nana comɨnɨ nɨe isoide rafuena jacɨruiñeno llollena, bie rafuena llotɨcaɨ.
 Biena uiño: Naga gobierno ie comɨnɨna canua, naimacɨmo bie isoide rafue illena. Gobierno dɨga, jobaime naimacɨ fɨnoñellena, bie isoide rafue ie comɨnɨmo illena, naga gobierno ie comɨnɨna canua.
 Biena uiño: Naga naɨraɨ jɨaɨe naɨraɨ dɨga, nabairillana caɨjɨtailla jira, bie rafuena llotɨcaɨ.

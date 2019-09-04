@@ -1,6 +1,6 @@
 <h1 align='center'>INUTTUT PISINNAATITAAFFIIT PILLUGIT SILARSUARMIOQATIGIINNUT NALUNAARUT</h1>
-<h2 align='center'>AALLAQQAASIUT</h2>
-<p align='center'>Ataqqinassusermik inuup nammineq pigisaanik aammalu anooqatigiinnut ilaasortaasut tamarmik naligiimmik annaasassaanngitsumillu pisinnaatitaaffeqarnissaannik akuersissuteqarneq nunarsuarmi kiffaanngissuseqarnermut, naapertuilluarnermut eqqissinissamullu tunngavium mata  ,
+<h2>AALLAQQAASIUT</h2>
+<p>Ataqqinassusermik inuup nammineq pigisaanik aammalu anooqatigiinnut ilaasortaasut tamarmik naligiimmik annaasassaanngitsumillu pisinnaatitaaffeqarnissaannik akuersissuteqarneq nunarsuarmi kiffaanngissuseqarnermut, naapertuilluarnermut eqqissinissamullu tunngavium mata  ,
 Inuttut pisinnaatitaaffinnik sumiginnaanerit asissuinerillu naakkittaatsuliornerujussuarnik silarsuarmiunut tarnip nalunngissusiinik aalassatsitsisartunik nassataqartarmata, aammalu nunarsuarmik inuit killilersugaanngitsumik oqalussinnaatitaaffigalugulu upperisakkut pisinnaatitaaffeqarfiannik ersiorfiginagulu atugarliorfigisassarinngisaannik pilersitsinissaq inuiaat anguniagaattut pingaarnerpaatut tusarliunneqartareersimam mat  ,
 pingaaruteqarluinnar mat  inuiaqatigiit akornanni ikinngutinnersumik pissuseqarnissaq annertusarniassallugu,
 pingaaruteqarluinnar mat  inuttut pisinnaatitaaffiit inatsisitigut illersorneqarnissaat, inuk allatut sapilerluni qunutitsinermut qunusiaanermullu akiuunniartariaqalissanngippat,

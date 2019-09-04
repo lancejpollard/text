@@ -1,6 +1,6 @@
 <h1 align='center'>OFISA O LE KOMESINA SILI O MALO AUFAATASI MO AIA TATAU A TAGATA SOIFUA</h1>
-<h2 align='center'>Faatomuaga</h2>
-<p align='center'>Ona o le taliaina aloaia o le tofi mamalu faapea aia tatau tutusa e le mafai ona liliueseina a tagata soifua uma o le lalolagi o le faavae lea o le saolotoga, amiotonu ma le filemu o le lalolagi,
+<h2>Faatomuaga</h2>
+<p>Ona o le taliaina aloaia o le tofi mamalu faapea aia tatau tutusa e le mafai ona liliueseina a tagata soifua uma o le lalolagi o le faavae lea o le saolotoga, amiotonu ma le filemu o le lalolagi,
 Ona o le le amanaiaina ma le manatu faatauvaa i aia tatau a tagata soifua o le mafuaaga lea o faiga saua ua faamanualia ai le loto fuatiaifo o tagata faapea le oo mai o se lalolagi e faapea e tatau ona ola fiafia ai tagata soifua ona ua maua le saolotoga e tautala ai, le saolotoga o talitonuga faapea le saolotoga mai le mata’u ma le mativa e pei ona ua uma ona folafolaina aloaia o le a avea ma faamoemoe autasi o tagata lautele,
 Ona ua alagatatau, pe afai e le uunaia le tagata e faaui ese mai ma avea o se avanoa mulimuli, le tetee faasaga atu i le pule saua ma sauaga, ma e faapea o aia tatau a tagata soifua e tatau ona puipuia e taiala o le tulafono,
 Ona ua alagatatau le uunaia o le atiina ae o sootaga fefaauoai i le va o malo uma o le lalolagi,

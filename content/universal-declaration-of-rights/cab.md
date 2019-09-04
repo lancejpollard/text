@@ -1,6 +1,6 @@
 <h1 align='center'>Adamuridagunt to Tagumairagüdaru Garada to Ayanuhabaun luagu le yubat haun gürigia ubauwagu</h1>
-<h2 align='center'>Tagúmeseha</h2>
-<p align='center'>Subúsewati ubauwagu, dan lan ligirún gürigia lun ladúgüni le ligundan, ibihalai le yubai lun lidan deregüdaguaü, ligia lan lagüchabai gudúmei hadan sun idúheñu.
+<h2>Tagúmeseha</h2>
+<p>Subúsewati ubauwagu, dan lan ligirún gürigia lun ladúgüni le ligundan, ibihalai le yubai lun lidan deregüdaguaü, ligia lan lagüchabai gudúmei hadan sun idúheñu.
 Subúsewatiluagu, dan lan meferen lan luma mabahüdüniwa lan le yubai lun gürigia, ru lan ubafu lun afásihani, mañuragunti giñe saminaü ubauwagu. Ligia lichigunbai subudi lun giarabailan liñúragun gürigia lidangien anúfudei labu yumúraü le gadanbalin, lun lubá gia láwagachun lau le aubai magundan lan, ariñegalai me le uáguti lafiñera;
 Subúsewatiluagu megeiwa tan aban lúrudu lun taunigiruni sun le yubai haun gürigia, lun lubá gia úalá afosuruti lun ladügüni le mabusienru lubai tanágangien lúrudu;
 Subúsewati giñe luagu megeiwa lan lahimeidun umádaguaü lidan sun ubau;

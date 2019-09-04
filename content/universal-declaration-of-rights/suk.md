@@ -1,6 +1,6 @@
 <h1 align='center'>ILAKA LYA MAHANGA LYA SEKGE YA BAMUNHU</h1>
-<h2 align='center'>MIHAYO YA GUNHONGA</h2>
-<p align='center'>GUNGUNO yimanyikile giki ikujo lya ng’wa munhu na sekge ya banhu muwelelo hu shili jandije ja wiyabi, sekge na mhola ya welelo,
+<h2>MIHAYO YA GUNHONGA</h2>
+<p>GUNGUNO yimanyikile giki ikujo lya ng’wa munhu na sekge ya banhu muwelelo hu shili jandije ja wiyabi, sekge na mhola ya welelo,
 GUNGUNO ubudalahi bo sekge ya banhu hi jile jandije ja shitwa ja bubi ha welelo, na giki yigubiho welelo iyo banhu bakwiyagalula na wiyabi bo guhaya na guzunya na gubiza badi na boba bosebose hangi, hu wisagiji bo ng’hana.
 GUNGUNO idakililwe sekge ya banhu ilang’hanwe na butongeji bo jilagilo ja nsi huna buluhiwa na wibonelwa butizubizaho na gwenheleja banhu kulema na kubagalukila batongeji ba nsi.
 GUNGUNO idakililwe kubeja bunwani bo nsi na nsi.

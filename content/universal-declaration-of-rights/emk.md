@@ -1,6 +1,6 @@
 <h1 align='center'>DUNUƝA BƐNMAKAN KA A BƐN</h1>
-<h2 align='center'>KALAMA DANTƐƐLI</h2>
-<p align='center'>Bani fabadenɲa tɔmasere le ye, hɔrɔya ni telen ani jususuma di dunuɲa dɔ,
+<h2>KALAMA DANTƐƐLI</h2>
+<p>Bani fabadenɲa tɔmasere le ye, hɔrɔya ni telen ani jususuma di dunuɲa dɔ,
 Bani adamaya lasabati lɔnbaliya ni a la gboyaɲɛ le nanin benkanni di mɛn ka mɔɔlu lamuriti, ka kɛ sababu di fana ka mɔɔlu kunna fulen, ka alu lɔ hɔrɔya ɲinina ka alu bɔ misikinaya dɔ,
 Bani adamaya lakanda ye wajibi le di, fo jamana ye kɛ jamana dafani le di sariya bolo ma, wole ye a kɛla mɔɔlu tɛ muriti ka don jɛdɛ makadan waa la,
 Bani jamanalu la tɛɛbɛn ni alu la kaninteya ye fen ne di mɛn kakan ka sɛnbɛnteya,

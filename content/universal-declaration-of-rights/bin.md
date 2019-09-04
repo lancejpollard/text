@@ -1,6 +1,6 @@
 <h1 align='center'>Iyen Emwen Etin ne O Kheke Omwan na ya wewe Vbe Uhunmwun oto-agbon hia</h1>
-<h2 align='center'>Ne o karo vbe uhunmwun emwen</h2>
-<p align='center'>Vbene a na mie wee ayere ero wee etin ne o kheke emwan hia fere oro re eyato oghe arhiegbe, emwanta kevbe ofunmwengbe vbe agbon.
+<h2>Ne o karo vbe uhunmwun emwen</h2>
+<p>Vbene a na mie wee ayere ero wee etin ne o kheke emwan hia fere oro re eyato oghe arhiegbe, emwanta kevbe ofunmwengbe vbe agbon.
 Vbene a na mie wee etin emwin ne o kheke ne omwan ne a ma ka yo, ne o si uyinmwen obuluku-obuluza, ne o rhu emwan aro ekhoe, kevbe agbon node ne emwan nagbon gha na ghao rhie orhienrhien arriegbe ne omwan ya ta emwen ne o ho ne o ta vbe uwu amuentinyan kevbe arhiegbe hin obo ohan ke aimwen rre, ne a ya wewe zeevbe ida-eho oghe emwan kekan hia,
 Vbene a ne mie wee emwin ne o kere ne o wee na ghe ye atua tua emwan, ne iran ghe ya gha gbodan ghe uyinmwen ne o wegbe kevbe oderhu emwan ne i mween ase serrio wee ne ilele, oghe uhi ru gue etin omwan ne o khekee,
 Vbene a na mie wee okere na ru alaghodaro oghe ayin-kugbe vbe ose vbe adese uhunmwun evbo hia,

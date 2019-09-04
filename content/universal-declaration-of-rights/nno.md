@@ -1,6 +1,6 @@
 <h1 align='center'>DEN INTERNASJONALE FRÅSEGNA OM MENNESKERETTANE</h1>
-<h2 align='center'>INNLEIING</h2>
-<p align='center'>Då det å godkjenne det naturlege menneskeverdet med like og umissande rettar for alle menneske på jorda er grunnlaget for fridom, rettferd og fred i verda,
+<h2>INNLEIING</h2>
+<p>Då det å godkjenne det naturlege menneskeverdet med like og umissande rettar for alle menneske på jorda er grunnlaget for fridom, rettferd og fred i verda,
 og då hån og vørdsløyse mot menneskerettane har ført til barbariske handlingar som har skaka samvitet til menneskeretta, er framvoksteren i den verda der menneska skal ha talefridom og trusfridom og vere løyste frå otte og naud, kunngjord som det høgste målet for kvart menneske,
 og då det er nødvendig at menneskerettane blir verna om av lover slik at menneska ikkje blir tvinga til å finne den siste utvegen i å gjere opprør mot tyranni og trælekår,
 og då det er nødvendig å arbeide for betre tilhøve mellom nasjonane,

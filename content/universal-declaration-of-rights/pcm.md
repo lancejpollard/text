@@ -1,6 +1,6 @@
 <h1 align='center'>Universal Declaration of Human Rights</h1>
-<h2 align='center'>Preamble</h2>
-<p align='center'>Dem recognise say human beings get dignity wey dey with us and rights wey go make all of us friendly with each other, so tay, we all come be like one family. Na dis be di foundation of our freedom and peace wey de for di whole world.
+<h2>Preamble</h2>
+<p>Dem recognise say human beings get dignity wey dey with us and rights wey go make all of us friendly with each other, so tay, we all come be like one family. Na dis be di foundation of our freedom and peace wey de for di whole world.
 Since e be like say, dem no see our right as any ting and dem come de do dem as dem like, dis come make people de behave like say dem be animals, dis come vex everibodi, so tay, dem come talk say everi human being must go get their freedom, wey go make dem talk any tink say naim be di right ting and wen dem de talk, dem no go fear to talk. Na dis be di beta ting wey all common people want.
 Since e de important say if man no go by force fight well, well, say for sake dem de oppress am or dem de treat am harshly, then de law of di society must to protect di human rights wey human beings get, e de important say make all di kontris for dis world make sure say dem be friends.
 Since dem say all di people for di meeting of di whole world talk say dem know and sure say we human beings get our right kampe, as we suppose to get, and say man and woman get equal right. Dem say all of dem don decide say dem go make sure say dem helep to see say progress de for all di kontris and beta beta life de too for everibodi.

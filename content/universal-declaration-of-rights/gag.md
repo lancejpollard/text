@@ -1,6 +1,6 @@
 <h1 align='center'>Insan Hakların Cümlä Deklaratiyası</h1>
-<h2 align='center'>Preambula</h2>
-<p align='center'>ESABA ALARAK, ani insan aylesi azaların kişilik saygılıı, onnarın birtakım hem ayırılmaz hakların tannıması serbestliin, dooruluun hem ömür-dünnää usluluun temelidir; hem
+<h2>Preambula</h2>
+<p>ESABA ALARAK, ani insan aylesi azaların kişilik saygılıı, onnarın birtakım hem ayırılmaz hakların tannıması serbestliin, dooruluun hem ömür-dünnää usluluun temelidir; hem
 ESABA ALARAK, ani insan haklarına gösterilän saygısızlıktan hem aşaalıktan kaynaklanan yabannık darıldêêr insannıın üzünü, hem ani ölä bir dünnää kurulması, nerdä insannarda olacek söz hem düşünmak serbestlii hem olmayacek korku hem sıkıntı, insannarın bir üüsek isteyişi gibi bildirildi; hem
 ESABA ALARAK, ani insan hakları lääzım korunsun kanon kuvedinnän, ani olmasın ölä, açan insan, bitki çözüm gibi, zorbalaa hem baskıya karşı istar-istemäz kalêr yapsın kalkıntı; hem
 ESABA ALARAK, ani lääzım halklar arasında dostluk baalantıların ilerlemesinä yardımcı olmaa; hem

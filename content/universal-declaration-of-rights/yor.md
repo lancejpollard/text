@@ -1,6 +1,6 @@
 <h1 align='center'>ÌKÉDE KÁRÍAYÉ FÚN È̩TÓ̩ O̩MO̩NÌYÀN</h1>
-<h2 align='center'>Ò̩RÒ̩ ÀKÓ̩SO̩</h2>
-<p align='center'>Bí ó ti jé̩ pé s̩ís̩e àkíyèsí iyì tó jé̩ àbímó̩ fún è̩dá àti ìdó̩gba è̩tó̩ t̩í kò s̩eé mú kúrò tí è̩dá kò̩ò̩kan ní, ni òkúta ìpìlè̩ fún òmìnira, ìdájó̩ òdodo àti àlàáfíà lágbàáyé,
+<h2>Ò̩RÒ̩ ÀKÓ̩SO̩</h2>
+<p>Bí ó ti jé̩ pé s̩ís̩e àkíyèsí iyì tó jé̩ àbímó̩ fún è̩dá àti ìdó̩gba è̩tó̩ t̩í kò s̩eé mú kúrò tí è̩dá kò̩ò̩kan ní, ni òkúta ìpìlè̩ fún òmìnira, ìdájó̩ òdodo àti àlàáfíà lágbàáyé,
 Bí ó ti jé̩ pé àìka àwo̩n è̩tó̩ o̩mo̩nìyàn sí àti ìké̩gàn àwo̩n è̩tó̩ wò̩nyí ti s̩e okùnfà fún àwo̩n ìwà búburú kan, tó mú è̩rí‐o̩kàn è̩dá gbo̩gbé̩, tó sì jé̩ pé ìbè̩rè̩ ìgbé ayé titun, nínú èyí tí àwo̩n ènìyàn yóò ti ní òmìnira òrò̩ síso̩ àti òmìnira láti gba ohun tó bá wù wó̩n gbó̩, òmìnira ló̩wó̩ è̩rù àti òmìnira ló̩wó̩ àìní, ni a ti kà sí àníyàn tó ga jù lo̩ ló̩kàn àwo̩n o̩mo̩‐èniyàn,
 Bí ó ti jé̩ pé ó s̩e pàtàkì kí a dáàbò bo àwo̩n è̩tó o̩mo̩nìyàn lábé̩ òfin, bí a kò bá fé̩ ti àwo̩n ènìyàn láti ko̩jú ìjà sí ìjo̩ba ipá àti ti amúnisìn, nígbà tí kò bá sí ò̩nà àbáyo̩ mìíràn fún wo̩n láti bèèrè è̩tó̩ wo̩n,
 Bí ó ti jé̩ pé ó s̩e pàtàkì kí ìdàgbàsókè ìbás̩epò̩ ti ò̩ré̩‐sí‐ò̩ré̩ wà láàrin àwo̩n orílè̩‐èdè,

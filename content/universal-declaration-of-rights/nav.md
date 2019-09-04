@@ -1,6 +1,6 @@
 <h1 align='center'>Beehazą́ą Ił Chʼétʼaah</h1>
-<h2 align='center'></h2>
-<p align='center'>Kótʼéego Hazʼaah: Baá akohwiindzingo éí ílį́go adaanisįikéesgo nihiisílá. Áadóó aheełtʼéego dóó bee niháʼahootʼiʼígíí doo handitʼáago. Bílaʼ ashdlaʼii éí tʼááʼ áłtsoni bée hółdziłgo beehwiidooʼaał tʼáá nííkʼeh dóó aheełtʼéego bee ahaanitsáhakeesgo éí bee ahihodíneʼenah nahasdzaan bikáagí.
+<h2></h2>
+<p>Kótʼéego Hazʼaah: Baá akohwiindzingo éí ílį́go adaanisįikéesgo nihiisílá. Áadóó aheełtʼéego dóó bee niháʼahootʼiʼígíí doo handitʼáago. Bílaʼ ashdlaʼii éí tʼááʼ áłtsoni bée hółdziłgo beehwiidooʼaał tʼáá nííkʼeh dóó aheełtʼéego bee ahaanitsáhakeesgo éí bee ahihodíneʼenah nahasdzaan bikáagí.
 Kótʼéego Hazʼaah: Diné doo ílį́įgo baa nitsahakeesgo adeesdeeʼ éí biniinaa tʼáá naʼníleʼdii ábiʼdilʼí. Biniinaa diné biniʼ dazlį́į́ʼ dóó nahasdzáán tʼáá níítʼéé bílaʼ bee hideeznáá ashdlaʼii tʼáá bíniikʼeh hadeesdzih nízingo bee bá hazʼą́ą́ doo dóó yoodlą́nígíí dóó doo yináldzidgo dóó doo biniʼ siʼą́ągo tʼáá ałtsoní niʼhookááʼ dineʼé aláahdi bee baʼakohwiidzin doo.
 Kótʼéego Hazʼaah: Tsíʼdó doo tʼáágéédda bílaʼ ashdlaʼiiʼ áchʼaaʼ hadeesdzih nizingo tʼáadoo leʼé bee bidiljishgo biniinaa éí bilaʼ ashdlaʼii tʼáá ałtsoní bee baahoochįʼgo beehazáanii bá alyaa.
 Kótʼéego Hazʼaah: Tsída aláahdi achʼįholʼį́ kʼé wolyé hígíí dine ałąą atʼéhígíí kéyah yee daʼahootą doo biniiyé.

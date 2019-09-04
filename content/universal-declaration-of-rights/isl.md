@@ -1,6 +1,6 @@
 <h1 align='center'>Mannréttindayfirlýsing Sameinuðo Þjóðanna.</h1>
-<h2 align='center'>Inngangsorð</h2>
-<p align='center'>Það ber að viðurkenna, að hver maður sé jafnborinn til virðingar og réttinda, er eigi verði af honum tekin, og er þetta undirstaða frelsis, réttlætis og friðar i heiminum.
+<h2>Inngangsorð</h2>
+<p>Það ber að viðurkenna, að hver maður sé jafnborinn til virðingar og réttinda, er eigi verði af honum tekin, og er þetta undirstaða frelsis, réttlætis og friðar i heiminum.
 Hafi mannréttindi verið fyrir borð borin og lítilsvirt, hefur slíkt haft í för með sér siðlausar athafnir, er ofboðið hafa samvizku mannkynsins, enda hefur því verið yfir lýst, að æðsta markmið almennings um heim allan sé að skapa veröld, þar sem menn fái notið málfrelsis , trúfrelsis og óttaleysis um einkalíf afkomu.
 Mannréttindi á að vernda með lögum. Að öðrum kosti hljóta menn að grípa til þess örþrifaráðs að rísa upp gegn kúgun og ofbeldi.
 Það er mikilsvert að efla vinsamleg samskipti þjóða í milli.

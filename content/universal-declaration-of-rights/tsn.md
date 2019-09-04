@@ -1,6 +1,6 @@
 <h1 align='center'>KGOELETSO YA MAIPOLELO A ODIT·HABAT·ABA A DITSHWANELO TSA BOTHO</h1>
-<h2 align='center'>PULAMADIBOGO</h2>
-<p align='center'>Go ntse jalo gore kamogelo ya tlhago ya seriti le tekatekano le ditshwanelo tse di sa amologanngweng tsa ditokololo tsotlhe tsa losika lwa motho ke motheo wa kgololosego, bosiamisi le kagiso mo lefatseng.
+<h2>PULAMADIBOGO</h2>
+<p>Go ntse jalo gore kamogelo ya tlhago ya seriti le tekatekano le ditshwanelo tse di sa amologanngweng tsa ditokololo tsotlhe tsa losika lwa motho ke motheo wa kgololosego, bosiamisi le kagiso mo lefatseng.
 Go ntse jalo gore go itlhokomolosa le go nyatsa ditshwanelo tsa botho go tlhotse ditiragalo tsa bolalome tse di šsakgaditseng maikutlo a batho mo tshimologong ya lefatshe le mo go lona batho ba itumelelang kgololosego ya go bua le tumedi, le kgololosego mo go boifeng le go eletseng, di goeleditswe jaaka dikeletso tse di kwa godimo tsa batho botlhe.
 Go ntse jalo gore go botlhokwa, fa motho a sa patelesege go tsaya tsela esele, jaaka ona mokgwa wa bofelo, go ema kgatlhanong le bagagapa le kgatelelo, gore ditshwanelo tsa botho di sirelediwe ke puso ya molao.
 Go ntse jalo gore go botlhokwa go tsweletsa kgolo ya dikgalologano tsa botsalano fa gare ga ditšhaba.

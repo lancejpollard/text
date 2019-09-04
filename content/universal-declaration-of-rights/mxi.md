@@ -1,6 +1,6 @@
 <h1 align='center'>Declaratione Universale de les Dretos Humanos</h1>
-<h2 align='center'>PREÀMBOLO</h2>
-<p align='center'>Considerando que la libertate, la ciustitia e la pace in el mondo tienent per basse la reconoscentia de la dignitate intrinseca e de les dretos eguales et inalienabeles de totos les membros de la familia humana,
+<h2>PREÀMBOLO</h2>
+<p>Considerando que la libertate, la ciustitia e la pace in el mondo tienent per basse la reconoscentia de la dignitate intrinseca e de les dretos eguales et inalienabeles de totos les membros de la familia humana,
 Considerando que la desconoscentia et el menospretio de les dretos humanos hant origenato actos de crudeltates bastoflantes per la conscientia de l’humanitate; e que s’ha proclammato, commo l’aspiratione plù alzata del homme, l’advenimento d’un mondo in que les esseres humanos, libberatos del pabbore e de la miseria, fruiant de la libbertate de paràvola e de la libbertate de credentias,
 Considerando essentiale que les dretos humanos siant protegiutos per un règime de Dreto, ciuscà l’homme non se veda compeluto al supremo recorso de la refetantia contra la tirania e l’opressione,
 Considerando otrossi essentiale promovere la sveloppantia de relationes amicabeles intre las nationes,

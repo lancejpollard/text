@@ -1,6 +1,6 @@
 <h1 align='center'>Fakaveaga Katoatoa he tau Tonuhia Fakatagata</h1>
-<h2 align='center'>Kamataaga</h2>
-<p align='center'>Ha kua ha ha i ai e kitiaaga ke he fakalilifu mo e fakatatai mo e nakai fakakehe he tau tonuhia he tau tutaki oti he magafaoa he tau tagata ko e matapatu he fakatokanoa, haohao mitaki mo e mafola he lalolagi.
+<h2>Kamataaga</h2>
+<p>Ha kua ha ha i ai e kitiaaga ke he fakalilifu mo e fakatatai mo e nakai fakakehe he tau tonuhia he tau tutaki oti he magafaoa he tau tagata ko e matapatu he fakatokanoa, haohao mitaki mo e mafola he lalolagi.
 Ha kua ha ha i ai e fakatikai mo e fakavihia he tau tonuhia fakatagata kua tupu mai ai e tau mahani ekefakakelea ne kua nakai fiafia e tau manamanatu he tau tagata, mo e kamata ai foki ke kitia e fakatino ma e lalolagi kua maeke ai e tau tagata ke fakaatā ke vagahau mo e talia mo e tokanoa mai he matakutaku mo e manako kua fakailoa ai ko e manako uho ha ia he tau tagata katoa oti.
 Ha kua ha ha i ai e tonuhia, kaeke kua nakai fakaohooho e tagata ke kumi lagomatai, ko e fakaotiaga ni ha ia, ke fetoko atu ke he pule kelea mo e tau eke fakakelea, ti kua lata tonu ni e tau tonuhia fakatagata ke puipui ke he levekiaga he matafakatufono,
 Ha kua ha ha i ai e tonuhia ke omoi e fakatupuaga he tau fakafetuiaga fekapitigaaki ke he tau kautu,

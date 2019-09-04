@@ -1,6 +1,6 @@
 <h1 align='center'>SEIQGYAIQ YINZGENZ SENHYENZ</h1>
-<h2 align='center'>VAH BAIHNAJ</h2>
-<p align='center'>Aenvih roxnyinh vunz lajmbwn bonilaiz couh miz naj caeuq mboujbienq dih genzll, dwg seiqgyaiq cwyouz,cingqnyi caeuq hozbingz dih gihcui,
+<h2>VAH BAIHNAJ</h2>
+<p>Aenvih roxnyinh vunz lajmbwn bonilaiz couh miz naj caeuq mboujbienq dih genzll, dwg seiqgyaiq cwyouz,cingqnyi caeuq hozbingz dih gihcui,
 Aenvih yawjsiuj vuhmez yinzgenz fazcanj baenz yejmanz bauhingz, gij bauhingz neix diemqvu liengzsaem gyofengqvunz,hoeng vunz lajmbwn muengh miz aen seiqgyaiq bouxboux mizyenzlwn cwyouz caeuq sainnyangj cwyouz, vunz mboui miz maz lau, mbouj miz bouxhoj,
 Aenvih bwh vunz lajmbwn mboujndaej mbouj vih baucing caeuq yazbwz hwnj daeuj cauxfanj, raeuz miz bizyau hawj yinzgenz ndaej fazci baujhu,
 Aenvih aeu cuzcin gakguek doxdiet youxndei dih gwanhhi,

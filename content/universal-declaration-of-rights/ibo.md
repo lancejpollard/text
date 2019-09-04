@@ -1,6 +1,6 @@
 <h1 align='center'>NKUWUWAPỤTA ỤWA NILE BANYERE IKIKE MMADỤ NWEGASỊRỊ</h1>
-<h2 align='center'>Okwu mmalite</h2>
-<p align='center'>Ebe ọ bụ na nghọta ugwu ekere uwa na ikike nha anya a pụghị ịnapụ mmadụ nke dirị onye ọ bụla bi n'ụwa bụ ntụala nke inwere onwe, ikpe nkwụmọtọ na udo n'elụ ụwa.
+<h2>Okwu mmalite</h2>
+<p>Ebe ọ bụ na nghọta ugwu ekere uwa na ikike nha anya a pụghị ịnapụ mmadụ nke dirị onye ọ bụla bi n'ụwa bụ ntụala nke inwere onwe, ikpe nkwụmọtọ na udo n'elụ ụwa.
 Ebe nleghara anya na nleli ikike mmadu nwegasịrị emeela ka e nwee akparamagwa enweghi uche nke gbawara obi mmadụ nile, a bịakwa ọbịbịa ụwa ebe ndi mmadụ ga‐enwejupụta ohere ikwu okwu na inwe nkwenye nakwa nlihapụ n'ụjọ na ụkọ, abụrụ ihe a mara n'okwa dị ka olile anya kachasị ibe ya nke mmadụ nkịtị.
 Ebe ọ dị mkpa, ma ọ bụrụ na a chọghi ikwanye mmadụ ka o were oke nnupu isi sogide ochịchị aka ike na mmegbu dị ka ihe ikpeazụ ọ pụrụ ime, na a ga‐echedo ikike mmadụ nwegasịrị site n'usoro iwu.
 Ebe ọ dị mkpa ịkwalite ọganihu mmekọrịta enyi na enyi n'etiti mba na ibe ya.

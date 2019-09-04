@@ -1,6 +1,6 @@
 <h1 align='center'>XO MAA NU XIJMOJO̱I NU KUCHTI KJA'NI</h1>
-<h2 align='center'>XO MAA</h2>
-<p align='center'>Nu ro nde̱jte̱ ka ro jiegi nu föste i nu jiegi xa'to da nu xijmojo̱i pe̱tsi i füdi ka ro mu̱i ka metsi nu yu kuchti ra gentho i jingi ne da uni gotho yu mutsi kja'ni;
+<h2>XO MAA</h2>
+<p>Nu ro nde̱jte̱ ka ro jiegi nu föste i nu jiegi xa'to da nu xijmojo̱i pe̱tsi i füdi ka ro mu̱i ka metsi nu yu kuchti ra gentho i jingi ne da uni gotho yu mutsi kja'ni;
 Nu ro nde̱jte̱ jingi pädi i jingi ne'ju nu kuchti kja'ni xo kja kosa jingi zoo pa nu yu kja'ni; i xo maa'mu, i ne'ju ra dté nu kja'ni, bi nka tse xijmojo̱i i yu kja yu kja'ni, i bi to nu tzu i ni tu'ju bi tze nu ro föste nu ro ña i nu ro föste i bi tse nu ro mu̱i;
 Nu ro nde̱jte̱ ra zoo pa nu kuchti yu kja'ni da föchte nu ajte̱ da yu kuchti, pada guani nu zoya jinda maa ra nda tze̱di i da bottu yu kja'ni i da maa tzo'ju ko nu manda ajte̱;
 Nu ro nde̱jte̱ pa nu da knja i da ye̱te, da ne ju ra zoo ko yu ra xijmojo̱i;

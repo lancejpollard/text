@@ -1,6 +1,6 @@
 <h1 align='center'>DECLARATION UNIVERSAL DEL DERECTOS HUMAN</h1>
-<h2 align='center'>PREAMBULO</h2>
-<p align='center'>Considerante que le recognoscentia del dignitate inherente a tote le membros del familia human e de lor derectos equal e inalienabile constitue le fundamento del libertate, del justitia e del pace in le mundo,
+<h2>PREAMBULO</h2>
+<p>Considerante que le recognoscentia del dignitate inherente a tote le membros del familia human e de lor derectos equal e inalienabile constitue le fundamento del libertate, del justitia e del pace in le mundo,
 Considerante que le ignorantia e le disprecio del derectos human ha resultate in actos de barbaria que ultragia le conscientia del humanitate, e que le advenimento de un mundo in le qual le esseres human essera libere de parlar e de creder, liberate del terror e del miseria, ha essite proclamate como le plus alte aspiration del homine,
 Considerante que il es essential que le derectos human es protegite per medio de un regime de derecto, a fin que le homine non es compellite al ultime recurso del rebellion contra le tyrannia e le oppression,
 Considerante que il es essential promover le disveloppamento de relationes amical inter le nationes,

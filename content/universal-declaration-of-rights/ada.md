@@ -1,6 +1,6 @@
 <h1 align='center'>JE TSUO BLƆ NYA TOMI KƐ HA ADESA HE BLƆHI</h1>
-<h2 align='center'>NYA TSƆƆMI</h2>
-<p align='center'>Be abɔ nɛ a le odehe si himi nɛ Mawu bɔ adesahi tsuo nɛ a hi si ngɛ je mi, nɛ e ha nɔ tsuaa nɔ he blɔhi sɔsɔɛ, nɛ nɔ ko be he blɔ nɛ e kpɔɔ ngɛ a dɛ ɔ, e ji he jɔmi kɛ dami same yemi kɛ tue mi jɔmi a sipoku ngɛ je mi.
+<h2>NYA TSƆƆMI</h2>
+<p>Be abɔ nɛ a le odehe si himi nɛ Mawu bɔ adesahi tsuo nɛ a hi si ngɛ je mi, nɛ e ha nɔ tsuaa nɔ he blɔhi sɔsɔɛ, nɛ nɔ ko be he blɔ nɛ e kpɔɔ ngɛ a dɛ ɔ, e ji he jɔmi kɛ dami same yemi kɛ tue mi jɔmi a sipoku ngɛ je mi.
 Be abɔ nɛ adesa he blɔhi a nɔ tue gbomi kɛ he guɛ gbemi wo basabasa ni peemihi kɛ ba gba je ɔ tsuo nya he je ɔ, a ngɔ nɔ kaa jehanɛ ɔ, adesa maa ye gbeye kɛ ohia nɔ kunimi, nɛ e ma na hemi kɛ yemi kɛ nya kɛ tu munyu, nɛ enɛ ɔmɛ ji nimli gu ɔmɛ a hiami nihi nɛ pe kulaa.
 Be abɔ nɛ, ke nɔ́ ko hɛwi nɔ ko ɔ, e be gidigidi nɔ́ ko pee kaa e nyagbe he pulemi nɔ́ kɛ si yi kpɛti wawɛ nɔ yemi kɛ nɔ nɔ nyɛmi he je ɔ, e he hia kaa a wo mlaa pɛ kɛ pee adesa he blɔhi a he fami nɔ́.
 Be abɔ nɛ kake peemi he hia he je ɔ, e sa kaa a to blɔ nya kɛ ha ma kɛ ma a kake peemi nɔ yami.

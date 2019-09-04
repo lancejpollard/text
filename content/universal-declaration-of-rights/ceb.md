@@ -1,6 +1,6 @@
 <h1 align='center'>MALUKPANONG DEKLARASYON SA TAWHANONG MGA KATUNGOD</h1>
-<h2 align='center'></h2>
-<p align='center'>Samtamg ang pag-ila sa tiunay nga kabililhon ug sa managsama ug dili maagaw nga mga katungod sa tanang sakup sa tawhanong banay mao and sukaranan sa kagawasan, hustisya ug kalinaw sa kalibutan.
+<h2></h2>
+<p>Samtamg ang pag-ila sa tiunay nga kabililhon ug sa managsama ug dili maagaw nga mga katungod sa tanang sakup sa tawhanong banay mao and sukaranan sa kagawasan, hustisya ug kalinaw sa kalibutan.
 Samtang ang wala pagtagad ug pagbiaybiay sa mga tawhanong katungod misangpot samabangis nga mga buhat nga nagbiaybiay sa tanlag sa katawhan, ug ang pag-abot sa usa ka kalibutan diin ang tanang katawhan makapahimulos/makatagamtam sa kagawasan sa pagsulti ug pagtoo ug kagawasan gikan sa kahadlok ug sa panginahanglan gimantala isip pinakahingpit nga tinguha sa yanong katawhan.
 Samtang kini gikinahanglan kung ang tawo dili mapugos sa pagdangop, isip katapusang dalangpan, sa pag-alsa batok sa pagpanglupig ug paglisudlisod, nga ang tawhanong mga katungod mapanalipdan pinaagi sa mga lagda sa balaod.
 Samtang kini gikinahanglan sa pagpauswag sa paglambo sa hinigala nga resyon tali sa mga nasud.

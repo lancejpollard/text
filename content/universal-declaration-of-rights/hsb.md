@@ -1,6 +1,6 @@
 <h1 align='center'>Powšitkowne wozjewjenje čłowjećich prawow</h1>
-<h2 align='center'>Preambla</h2>
-<p align='center'>Dokelž twori płipóznaće wšěm čłonam čłowjeskeje swójby płisłušaceje dostojnosće a jich jenakich a njeparujomnych prawow zakład swobody, sprawnosće a měra w swěće,
+<h2>Preambla</h2>
+<p>Dokelž twori płipóznaće wšěm čłonam čłowjeskeje swójby płisłušaceje dostojnosće a jich jenakich a njeparujomnych prawow zakład swobody, sprawnosće a měra w swěće,
 dokelž stej njedopóznaće a znajechanje čłowječich prawow k aktam barbarstwa wjedłoj, kotrež su swědomje člowjestwa hłuboko zranili, a dokelž je so wutworjenje swěta, w kotrymž spožči so člowjekam, swobodnym wot stracha a nuzy, swoboda rěčenja a wěry, jako najwyše prócowanje čłowjestwa wozjewiło,
 dokelž je bytostne, člowječe prawa z knjejstwom prawa škitać, zo njeby so čłowjek k zběžkej płećiwo tyranstwu a potłóčowanju jako poslednjemu srědkej nuzował,
 dokelž je bytostne, wuwiće płećelskich poćahow mjez narodami spěchować,

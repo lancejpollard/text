@@ -1,6 +1,6 @@
 <h1 align='center'>OMUSHANGWA GWAAYEHE GUUTHEMBA WOMUNTU</h1>
-<h2 align='center'>Oohaputetekeli</h2>
-<p align='center'>Uuna mpoka pwa taambwa ko esimano lyomuntu pavalo nuuthikepamwe osho wo uuthemba wopaumwene waantu ayehe yomezimo lyuuntu ogwo omukanka gwemanguluko, uuyuki nombili muuyuni.
+<h2>Oohaputetekeli</h2>
+<p>Uuna mpoka pwa taambwa ko esimano lyomuntu pavalo nuuthikepamwe osho wo uuthemba wopaumwene waantu ayehe yomezimo lyuuntu ogwo omukanka gwemanguluko, uuyuki nombili muuyuni.
 Uuna mpoka uuthemba womuntu inaau simanekwa nowa dhinika e tau tanaukile monkalo yuupwidhi mboka tau yono po eiuvo lyuuntu nonkalo moka aantu taa ka nyanyukilwa nokukala ye na emanguluko lyokupopya neitaalo osho wo emanguluko kuutile nokoompumbwe ongoshilalakanenwa sha simana shaantu ayehe.
 Uuna mpoka sha pumbiwa opo omuntu kaa thiminikwe a hogolole ongonkatu yahugunina opo a ninge oshipotha mokukondjitha uuhepeki nethiminiko, opo uuthemba wuuntu wu gamenwe pampango.
 Uuna mpoka sha pumbiwa okuhumitha komeho ekoko Iyekwatathano Iyopankalathano ewanawa pokati kiigwana.

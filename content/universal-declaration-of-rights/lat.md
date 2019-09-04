@@ -1,6 +1,6 @@
 <h1 align='center'>UNIVERSALIS DE JURE HOMINUM DECLARATIO</h1>
-<h2 align='center'>Praefatio</h2>
-<p align='center'>Cum dignitatis infixae omnibus humanae familiae partibus et eorum jurum aequalium, quae abalienari non possunt, agnitio constituat et in orbe terrarum libertatis et justitiae et pacis fundamentum,
+<h2>Praefatio</h2>
+<p>Cum dignitatis infixae omnibus humanae familiae partibus et eorum jurum aequalium, quae abalienari non possunt, agnitio constituat et in orbe terrarum libertatis et justitiae et pacis fundamentum,
 Cum hominis jurum mala cognitio contemptioque barbariae facta, quae humanitatis conscientiam ad rebellionem incitant, adduxerint, cumque mundi initium in quo homines, liberati a terrore et miseria, loquendi credendique libertatem habebunt, renuntiatum sit ut hominis altissima affectatio,
 Cum praecipuum sit hominum jura civitatis forma quae justa est tegi, ne homo cogatur, ultimo perfugio, ut rebellionem faciat in tyranniam oppressionemque,
 Cum praecipuum sit progressionem amicitiarum inter nationes incitari,

@@ -1,6 +1,6 @@
 <h1 align='center'>NUKAN MAAMƐNI YƐNƐYII ƁO PƐLƐ HU</h1>
-<h2 align='center'>Dɔn juwoo gbalatɔmaa</h2>
-<p align='center'>A kɛ kaalonna da tɔɔi gaa nukan ɲei yɛnɛ yiihu diə lɛgbɔɔɓa laa, təlinmo laa da lilaa di nwundɔɔi.
+<h2>Dɔn juwoo gbalatɔmaa</h2>
+<p>A kɛ kaalonna da tɔɔi gaa nukan ɲei yɛnɛ yiihu diə lɛgbɔɔɓa laa, təlinmo laa da lilaa di nwundɔɔi.
 A kɛ lənɛɛ nukan dɔɔi gaa maanɛ yɛnɛ nuan diə pɛli kweiwoo ɓoi, diə laa di maamɛni la, yi di hwa kɛ ɲɛimaaɲɔn da mɔnɔ di hu, ɓə kele yɛnɛnuan kaa bɔi.
 A kɛ tɔɔi gaa nukan ɲei yɛnɛyii hu ɓə maanɛ maa ə kɔnwɔ, hogɛ nukan hwəpa pənə hwə gwɛi təĝə hemɛi iɔi hu ɲɛitɔwɔnuan diə.
 A kɛ lɔiŋaa kele yepuɔ gehu ɓə maanɛ gu hwaŋa tɛĝɛ bɔi.

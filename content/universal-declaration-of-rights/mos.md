@@ -1,6 +1,6 @@
 <h1 align='center'>Ninsaal yel-segdɩ noy gãnegr sebre (yʊʊmd 1948)</h1>
-<h2 align='center'>Keoogre</h2>
-<p align='center'>B wilgame tɩ ninsaal bʊʊd fãa tara a burkĩndlim la a yel-segdɩ tõod sẽn pa yɩɩd a to, tɩ b pa tõen n dɩk tõod-bãmb n koos bɩ n tek a badawã, n yaa dũni wã bãan gãaga, ned fãa sẽn so a vɩɩm tɩ yembd kaala, la wẽg-taab kaalem dũni wã pʊgẽ yẽgrã.
+<h2>Keoogre</h2>
+<p>B wilgame tɩ ninsaal bʊʊd fãa tara a burkĩndlim la a yel-segdɩ tõod sẽn pa yɩɩd a to, tɩ b pa tõen n dɩk tõod-bãmb n koos bɩ n tek a badawã, n yaa dũni wã bãan gãaga, ned fãa sẽn so a vɩɩm tɩ yembd kaala, la wẽg-taab kaalem dũni wã pʊgẽ yẽgrã.
 B wilgame tɩ ninsaal sẽn da tog ne yel-segdɩ ninsã kaalmã waa ne bi-beelem la pãng buud toor-toor sẽn sãam dũni wã zãng sũuri, la b yãkamen moon tɩ dũni ning sẽn na n wa zĩnd-a tɩ ninsaalbã na n wa so b mense, n tõe n gom b sẽn date, n tẽ b sẽn date, n wa yi rabeem, yaeesg la far buudã fãa pʊgẽ wã, n yaa ninsaal sẽn baood ne a sũur fãa n yɩɩdã.
 Tɩ sẽn yɩɩd fãa yaa tɩ ninsaal yel-segdɩ wã tog n paamame tɩ b koglg-b ne noy buud sẽn na yɩl tɩ ned ra wa bao a sẽn na maan n põs pãn-wõrdem b sẽn maand-a n kong n wẽneg n kẽ wẽnem maan n lebs pʊgẽ wã.
 D sẽn mi tɩ segdame tɩ d keng tẽms ne taab zood yõkr zĩndgrã.

@@ -1,6 +1,6 @@
 <h1 align='center'>Dèclaråcion dès dreûts d' l'ome po tos lès payîs dè monde</h1>
-<h2 align='center'></h2>
-<p align='center'>Considèrant qui l' rèspèt dèl dignité, qu'apartint sorlon l' nateûre a tos lès-omes so l' tére, èt d' leûs dreûts égåls, qu'on n' såreût 'lzî mèskeûre, c'èst l' fondemint dèl lîberté, dèl djustice èt dèl påye è monde ètîr ;
+<h2></h2>
+<p>Considèrant qui l' rèspèt dèl dignité, qu'apartint sorlon l' nateûre a tos lès-omes so l' tére, èt d' leûs dreûts égåls, qu'on n' såreût 'lzî mèskeûre, c'èst l' fondemint dèl lîberté, dèl djustice èt dèl påye è monde ètîr ;
 considèrant qu' fåte dè k'nohe èt d' rèspècter lès dreûts d' l'ome, ènn' a dès cis qu' s'ont avili å pont d' brutålizer l' s-ôtes d'ine manîre scandaleûse po l' consyince di l'ûmånité qui l's-omes adon èspèrèt dè viker d'tot leû coûr èn-on monde wice qu'i sèrît turtos lîbes dè parler èt d' creûre, dilîbèrés qu'i sont dèl tèreûr èt dèl mizére, insi qu'il a stu prôclamé ;
 considèrant qu' s'on louke dè fwèrci l'ome a s'chèrvi dèl rèvole come dièrin mwèyin disconte di l'abus dèl pouhance èt d' l'assèrvih'mint, i fåt-st-apreume qu'on rèdjime di dreût garantih lès dreûts d' l'ome ;
 considèrant qu' lès peûpes dès Nåcions-Unèyes ont, è leû Lwè d' fondåcion, prôclamé 'ne fèye di pus' leû fwè d'vins lès dreûts naturéls di l'ome, d'vins l'dignité èt l' valeûr dès-omes èt dès feumes, qu'il ont rézoû d' favorizer l' progrès sociål èt d' mète è plèce dès mèyeûsès condicions po viker avou 'ne pus grande lîbèrté ;

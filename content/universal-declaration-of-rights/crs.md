@@ -1,6 +1,6 @@
 <h1 align='center'>Deklarasyon Iniversel Bann Drwa Imen</h1>
-<h2 align='center'>Preanbil</h2>
-<p align='center'>An rekonnesans ki dignite imen e bann drwa egal e enseparab pou tou manm lafanmiyr imen I fondasyon pou laliberte, lazistis e lape dan lemonn,
+<h2>Preanbil</h2>
+<p>An rekonnesans ki dignite imen e bann drwa egal e enseparab pou tou manm lafanmiyr imen I fondasyon pou laliberte, lazistis e lape dan lemonn,
 An konsiderasyon ki mank konnesans e respe pou bann drwa imen in okazyonn en bann aksyon barbar kiín boulvers konsyans limanite, e osi larive en monn kot imen a kapab eksprim zot lekor dan laliberte e dapre zot konsyans san okenn lafreyer obyen mank mwayen, parey in ganny proklanmen konman laspirasyon pli o pou tou imen,
 An konsiderasyon ki I esansyel ki bann drwa imen I ganny proteze par en sistenm lalwa kot dimoun pa oblize, konman en dernyen rekour, pou revolte kont la tirani e lopresyon,
 An konsiderasyon ki I esansyel pou ankouraz devlopman lanmitye ant bann nasyon,

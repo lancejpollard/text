@@ -1,6 +1,6 @@
 <h1 align='center'>JÄ KOJTSVIJJÜN JATS KOJTSMËKIN JUU’ VE’E JAYU OY TYUKJÖÖJTYKAP.</h1>
-<h2 align='center'></h2>
-<p align='center'></p>
+<h2></h2>
+<p></p>
 <ol>
   <li>
     <p>Tumakijpxaxave’ejayukye’ex,ve’emaxjö’ntyukidaakjüvatijatymëkin;ve’empaaxjö’njäjyööjtykindiyaknaxy,jatsoymyujatyöö’tëjkdimëëtnayjavajüt.</p>

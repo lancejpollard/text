@@ -1,6 +1,6 @@
 <h1 align='center'>Allgemeen Verklaren vun de Minschenrechten</h1>
-<h2 align='center'>PRÄAMBEL</h2>
-<p align='center'>Vunwegen wat dat Anerkennen vun de Wüürd, mit de all Minschen baren sünd, un de Rechten, de all Maten vun de Gemeenschupp vun de Minschen hebbt un de gliek un nich to verköpen sünd, de Grundlaag vun Frieheit un Freden in de Welt is, un wat dat recht und billig togeiht,
+<h2>PRÄAMBEL</h2>
+<p>Vunwegen wat dat Anerkennen vun de Wüürd, mit de all Minschen baren sünd, un de Rechten, de all Maten vun de Gemeenschupp vun de Minschen hebbt un de gliek un nich to verköpen sünd, de Grundlaag vun Frieheit un Freden in de Welt is, un wat dat recht und billig togeiht,
 vunwegen wat dat Verkennen un Minnachten vun de Minschen rechten to unminschlich Doon föhrt hett, un dat Geweten vun de Minschen daarvun vull is vun Schann, is dat vör nehmste Wark vun de Minschen dat Buen vun een Welt, wo elk un een seggen un gloven dröff, wat he will un he frie is vun Bang sien un Noot,
 vunwegen wat dat nödig is, de Minschenrechten dörch dat Regeern vun’t Recht Schuul  geven, dat de Minsch nich dwungen  as lest Middel Wedderpart to hollen Tyrannei un Ünnerdrücken,
 vunwegen wat dat nödig is, dat mang de Natschonen föddert ward, wat se fründlich mit eenanner ümgaht,

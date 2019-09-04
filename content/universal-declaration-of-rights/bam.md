@@ -1,6 +1,6 @@
 <h1 align='center'>Hadamaden josiraw dantigɛkan, 1948</h1>
-<h2 align='center'>ɲebila</h2>
-<p align='center'>K’a d’a kan ko dine hɔrɔnɲa ni tilennenɲa ni lafiya sintin ye hadamaden bɛɛ danbe dɔnni n’u josiraw danmakɛɲneni ye,
+<h2>ɲebila</h2>
+<p>K’a d’a kan ko dine hɔrɔnɲa ni tilennenɲa ni lafiya sintin ye hadamaden bɛɛ danbe dɔnni n’u josiraw danmakɛɲneni ye,
 K’a d’a kan ko hadamaden josiraw n’u kɔnni kɛra dannajuguya caman sababu ye minnu bɛ maaya ɲugun, ani ko hadamaden haju bɛɛ la gɛlɛnman ye de ka diɲe kura dabali min den si tɛ bali k’a hakilila fɔ nink’a dannasira batu, min den bɛɛ tangalen bɛ bagabagali ni ɲani ma,
 K’a d’a kan ko a tɛ ɲɛ fo hadamaden josiraw ka lakana sariyabatufanga de fe yaasa muruti kana kɛ mɔgɔ ma jagoya ye tɔɲɔn ni degun kanma,
 K’a d’a kan ko kanu jiidili ka kan ka kɔkɔrɔdon kabilaw ni ɲɔgɔn cɛ,

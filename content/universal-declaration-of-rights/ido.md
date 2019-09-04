@@ -1,6 +1,6 @@
 <h1 align='center'>Universal Deklaro di Homal Yuri</h1>
-<h2 align='center'>Introdukto</h2>
-<p align='center'>Konsiderante ke agnosko dil inheranta digneso e dil egala e netransferebla yuri di omna membri di la familio homal es la fundamento di libereso, yusteso e paco en la mondo,
+<h2>Introdukto</h2>
+<p>Konsiderante ke agnosko dil inheranta digneso e dil egala e netransferebla yuri di omna membri di la familio homal es la fundamento di libereso, yusteso e paco en la mondo,
 Konsiderante ke desegardo e desestimo di homal yuri rezultabas en barbara agi, qui insultis la koncienco di la homaro, e l'arivo di mondo en qua homi posedas libereso di parolo e kredo e libereso de timo e bezono esabas proklamata kom la maxim alta aspiro di la homi,
 Konsiderante ke oportas, por ke la homi ne esez koaktata rekursar, kom lasta posibleso, a rebeleso kontre tiraneso ed opreso, ke homal yuri devas esar protektata per la regno di la yuro,
 Konsiderante ke oportas avancigar la developado di amikal relati inter nacioni,

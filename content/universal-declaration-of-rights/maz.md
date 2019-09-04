@@ -1,6 +1,6 @@
 <h1 align='center'>JÑA 'A YO PJOSU̸ TEXE YE TE̱'E̱ NUYO KA̸NRA̸ A XESE NE XOÑIJOMU</h1>
-<h2 align='center'>PJU̸RU̸</h2>
-<p align='center'>Panru̸ji k'u̸ mara mimiji na joo texe yo nte̱'e̱ in dya ra chu̱nji, numa so'o k'u̸ ra mamu̸ji k'u̸ ri chjekjoji texezgoji.
+<h2>PJU̸RU̸</h2>
+<p>Panru̸ji k'u̸ mara mimiji na joo texe yo nte̱'e̱ in dya ra chu̱nji, numa so'o k'u̸ ra mamu̸ji k'u̸ ri chjekjoji texezgoji.
 Panru̸ji k'u̸ ma dya ri pjechiji texto yo jña'a nuyo nrra pjosu̸ ye nte̱'e̱, nudyama so'o k'u̸ ra potr'u̸ji yo in Kjuarma; ngek'ua nesta nura mbaraji k'u̸ ye nte̱'e̱, ma sa̸ja̸ kja ne xoñi jomu̸, na kjuana k'u̸ rambesi nura zi'i, ra so'o mamu̸ nu in jña'a ñeje ra eme nu K'inchi angeze.
 Panru̸ji k'u̸ nuyo jña'a yo pjosu̸ ye nte̱'e̱ ximi nesta ra k'uatr'u̸ kja xiskuama, ngek'ua dya ra chu̱'u̱nji.
 Panru̸ji k'u̸ nesta ra mimi na jo'o texto ye tr'ajñiñi.

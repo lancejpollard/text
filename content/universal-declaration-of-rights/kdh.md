@@ -1,6 +1,6 @@
 <h1 align='center'>Ɩrʊ́-dɛ́ɛ yíkowá-ɖɔ́ feríi-dɛ́ɛ fatɩma lɩzɩ́ɩ</h1>
-<h2 align='center'>Kabaazɩya</h2>
-<p align='center'>Á ɖɔ́ɔ́gbɔ́ɔ sɩsɩ ɩrʊ́-dɛ́ɛ kezéḿbiídi tɩjaarɛ́ɛ nɛ́ dɛ́ɛ tɩlɩ́ɩ tɩdamáána ɩráa na bɛdɛ́ɛ yíkowá ɖéyi-ɖéyi ńdɩ tɩdɛ́ndɛm nɛ́ kɛ́ɛ́na ɩrʊ́-dɛ́ɛ ɩdɩ yuú, na toovonúm, na fɛɛzɩrɛ ɖʊɖɔ dɛ́ɛ yuú,
+<h2>Kabaazɩya</h2>
+<p>Á ɖɔ́ɔ́gbɔ́ɔ sɩsɩ ɩrʊ́-dɛ́ɛ kezéḿbiídi tɩjaarɛ́ɛ nɛ́ dɛ́ɛ tɩlɩ́ɩ tɩdamáána ɩráa na bɛdɛ́ɛ yíkowá ɖéyi-ɖéyi ńdɩ tɩdɛ́ndɛm nɛ́ kɛ́ɛ́na ɩrʊ́-dɛ́ɛ ɩdɩ yuú, na toovonúm, na fɛɛzɩrɛ ɖʊɖɔ dɛ́ɛ yuú,
 Á ɖɔ́ɔ́gbɔ́ɔ sɩsɩ ɩrʊ́-dɛ́ɛ yíkowá-dɛ́ɛ sɔ́ɔ́náa na kpɛɛnáa weeyéle yóóni wɔɔgɔná ɩráa-dɛ́ɛ laakárɩ kʊsɩ́ bɩka ɖʊɖɔ iiyélé ɩráa-dɛ́ɛ lomaazɛ́ waabɩ́sɩ wenbí bɩtɛ́ bɩlá boyuú ɖúúlinya wenkí kɩdaá ɩráa wónÿuú ɖáámá báŋmátɩ káma balɩ́ɩ fitíína na kadambʊrʊ́tɩ-daá nɛ́,
 Á ɖɔ́ɔ́gbɔ́ɔ sɩsɩ bɩgɛ́ɛ ɖóóle gɛ yíkowá-dɛ́ɛ kʊjʊʊ́ dɩnáa ifére ɩráa-dɛ́ɛ yíkowá káma bɩ́kábɩ́sɩ ɩrʊ́ ɖóóle ɩsɩ ɩkpɔɔná ɖóni iyooná ɩrʊ́-dɛ́ɛ imuuliɖé na ɩdɛ́ɛ yoḿti,
 Á ɖɔ́ɔ́gbɔ́ɔ sɩsɩ bɩmɔɔ́na ɖɩsɩná wenbí bɩtɛ́ bɩlá tɛ́ɛ́dɩwá-dɛ́ɛ ɖɔ́ndɩ́rɛ-tám ɩtásɩ bɩnyɔ́ɔzɩ nɛ́,

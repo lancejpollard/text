@@ -1,6 +1,6 @@
 <h1 align='center'>KA JINGPYNBNA-ÏAR SATLAK ÏA KI HOK LONGBRIEW MANBRIEW</h1>
-<h2 align='center'>PHYLLAW PONGSHAI</h2>
-<p align='center'>Kumba ka jingithuh ïa ka kyrdan long tynrai bad ïa ki marryngkat bad bashongkhien jong baroh ki dkhot longïing u  dei ka tlong jong ka jinglaitluid, ka jingbishar hok, bad ka jingsuk shisnieh pyrthei,
+<h2>PHYLLAW PONGSHAI</h2>
+<p>Kumba ka jingithuh ïa ka kyrdan long tynrai bad ïa ki marryngkat bad bashongkhien jong baroh ki dkhot longïing u  dei ka tlong jong ka jinglaitluid, ka jingbishar hok, bad ka jingsuk shisnieh pyrthei,
 Kumba ka jingibeiñ bad jingbymsuidkhai ïa ki hok longbriew manbriew la pynkha ïa ki kam riewkhlaw kiba la pynkhih win ïa ka jingïatiplem u bynriew, bad ka jingkylla ka pyrthei ha kaba u khun bynriew un leh kmen laitluid ha ka kren ka khana bad jingngeit bad jinglaitluid na ka tieng ka syier bad ka kyrduh la pynbna kum ka jingangnud ba ha khlieh tam jong u luk u lak,
 Kumba ka long kaba donkam ba ïa u/ka briew ym dei ban pynbor ban shim ki lynti, kum ka khen khatduh, da ka jingïaleh pyrshah ïa ka jingbanbeiñ bad jingsynshar runar, ba ïa ki hok longbriew manbriew dei ban ïada da ka aiñ ka kanun,
 Kumba ka long kaba donkam ban kyntiew ïa ka jingroi ka jingïadei lok para ri,

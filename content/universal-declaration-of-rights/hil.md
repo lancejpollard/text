@@ -1,6 +1,6 @@
 <h1 align='center'>ANG KALIBUTANON NGA PAHAYAG SANG MGA KATARUNGANG PANGKATAOHAN</h1>
-<h2 align='center'></h2>
-<p align='center'>Tungod kay ang pagkilala sang duna nga dungog kag ang alalangay kag di madula nga mga katarungan sang tanan nga lahi sang tao amo ang pundasyon sang kahilwayan, katarungan kag kalinong sang kalibutan.
+<h2></h2>
+<p>Tungod kay ang pagkilala sang duna nga dungog kag ang alalangay kag di madula nga mga katarungan sang tanan nga lahi sang tao amo ang pundasyon sang kahilwayan, katarungan kag kalinong sang kalibutan.
 Tungod kay ang pagpabaya kag paghamak sa mga katarungang pangkataohan ngabunga sang mga kalapastangan nga labag sa konsyensya sang kataohan, kag ang pag-abot sang isa ka kalibutan nga maangkon sang mga tao ang kahilwayan sa paghambal kag pagsalig kag ang kaluwasan sa kahadlok kag kabudlayan nga ginpahayag ang pinakamataas nga handum sang kinaandan nga tao.
 Tungod kay ini isa ka malahalon, agod ang tao indi mapilitan nga magpamatok tuhoy sa kalupitan kag pagpigos, nga ang mga katarungang pangkataohan dapat amligan paagi sa kasuguan.
 Tungod kay pinakamalahalon nga pasanyugon ang paghanas sang malapit nga kaangtanan sang mga pungsod.

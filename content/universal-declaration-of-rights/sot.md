@@ -1,6 +1,6 @@
 <h1 align='center'>TOTOBATSO E AKARETSANG YA DITOKELO TSA BOTHO</h1>
-<h2 align='center'>TLHEKELO</h2>
-<p align='center'>Ka hona he, ho amohela seriti seo motho a tswalwang le sona ha mmoho le ditokelo tse lekanang tseo motho a ke keng a di amohuwa tsa batho bohle, ke mohlodi wa tokoloho, toka le kgotso lefatsheng.
+<h2>TLHEKELO</h2>
+<p>Ka hona he, ho amohela seriti seo motho a tswalwang le sona ha mmoho le ditokelo tse lekanang tseo motho a ke keng a di amohuwa tsa batho bohle, ke mohlodi wa tokoloho, toka le kgotso lefatsheng.
 Ka hona he, ho se natse le ho tella ditokelo tsa botho, ho tswetse diketso tsa bohlaha tse tamukantseng letswalo la batho, mme tsena di entse hore ho labalabelwe lefatshe leo ho lona batho ba tlang ho thabela bolokolohi ba ho bua le tumelo, le bolokolohi ditlamong tsa matswalo le bohloki. Tsena he ho thwe ke tabatabelo e hodimodimo ya batho ka kakaretso.
 Ka hona he, ho a hlokahala, ha motho a sa dumellwa ho ba le boipiletso, e le monyetla wa ho qetela, hore a hanane le tlatlapo le kgatello. Ka lebaka lena ditokelo tsa botho di tlamehile ho sireletswa ke taolo ya molao.
 Ka hona he, taba ya bohlokwa ke ho kgothallesta ntshetsopele ya dikamano tsa setwalle matjhabeng.

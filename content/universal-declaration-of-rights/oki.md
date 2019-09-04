@@ -1,6 +1,6 @@
 <h1 align='center'>IMANDAP KIPKOSOBEI EN NGWONDUINI</h1>
-<h2 align='center'>Yatet</h2>
-<p align='center'>En kosipet nepo kongit nebo keny ak imandap kipkosopei, ko togol kogergei ak chomiet en nguony. En kanyalet ak sosisyet chebo kipkosopei kogoibor otepto neberber ne kogoyait oteptop kipkosopei ko en iyon komuoe kasetap logoywek kaap ngoony kole nyolu kogerchi imanda nemuen kei en kayanet isomuei omu chon togol kogigemwa kele imanda nepo chitogol.
+<h2>Yatet</h2>
+<p>En kosipet nepo kongit nebo keny ak imandap kipkosopei, ko togol kogergei ak chomiet en nguony. En kanyalet ak sosisyet chebo kipkosopei kogoibor otepto neberber ne kogoyait oteptop kipkosopei ko en iyon komuoe kasetap logoywek kaap ngoony kole nyolu kogerchi imanda nemuen kei en kayanet isomuei omu chon togol kogigemwa kele imanda nepo chitogol.
 En agopo torchinet, komagikonya chi kosomei toretet keeso konyolisyet ak weket, ko en lyon konyolu komi chi ngwonyitop ripset
 En agopo torchinet nyolu choruadit kotestai ak emotinuek.
 En agapo piik chenomu ngwony,kogoyosin kokeny en kayanet nyuwan kole imandap keny, kongit ak nyigisindop kipkosepei kole en imandap chitogol,ingogergeit imanit en murenik ak tiepiosok,ko en agopo agotilsin ngolyot ak otepto nesingoi nepo koi keny.

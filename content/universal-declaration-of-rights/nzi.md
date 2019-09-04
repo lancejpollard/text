@@ -1,6 +1,6 @@
 <h1 align='center'>EWIADEAMRA NOLOBƆLƐ MƆƆ FALE SONLA NWO ADENLENYIANLƐ NE MƆ LA ANWO</h1>
-<h2 align='center'>MƆLEBƐBO</h2>
-<p align='center'>Wɔ mekɛ ala mɔɔ Maanle Maanle mɔɔ wɔ Eku ye anu la gyinlabelɛ nee pɛpɛzɛlɛ nee anwoadenlenyianlɛ a fa atianwolilɛ, pɛpɛlilɛ nee anzondwolɛ ba ewiade anu la,
+<h2>MƆLEBƐBO</h2>
+<p>Wɔ mekɛ ala mɔɔ Maanle Maanle mɔɔ wɔ Eku ye anu la gyinlabelɛ nee pɛpɛzɛlɛ nee anwoadenlenyianlɛ a fa atianwolilɛ, pɛpɛlilɛ nee anzondwolɛ ba ewiade anu la,
 Wɔ mekɛ ala mɔɔ menli ɛmbu sonla nwo adenlenyianlɛ ne mɔ bie amaa ɔlua zo nyɛleɛ mgbane mgbane dɔɔnwo ɛsisi ɛmaa menli adwenle ɛzɛkye, nee ewiade ne mɔɔ ɛlɛba mɔɔ sonla biala banyia adenle aha edwɛkɛ biala mɔɔ ɔdaye ɔkulo, nee diedi biala mɔɔ ɔdaye ɔkulo kɛ ɔdie ɔdi na ɔnzulo la, ɛmaa bɛla ye ali kɛ, ɛhye a le awienvolɛma anyelazo kpole kpalɛ la,
 Wɔ mekɛ ala mɔɔ ɔhyia, saa bɛnrɛhyɛ sonla bɛnrɛmaa ɔnrɛho ɔnrɛtia ɛsisilɛ nee atisesebɛyɛlɛ, kɛ ɔwɔ kɛ mɛla bɔ sonla nwo adenlenyianlɛ ne mɔ anwo bane la,
 Wɔ mekɛ ala mɔɔ ɔhyia kɛ bɛmaa agɔnwolɛyɛlɛ wɔ Maanle Maanle avinli kɛnyia anyuhɔlɛ la,

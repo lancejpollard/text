@@ -1,6 +1,6 @@
 <h1 align='center'>CAAMBILIZYO CA MULAWO WA MASI OONSE WA LWAANGULUKO LWA MUNTU MATALIKO</h1>
-<h2 align='center'></h2>
-<p align='center'>Mbuli mbokunga kulemeka muntu oonse ncizyalilwa ca lwaanguluko lwa mikwasyi yoonse kuba matalikilo akuliiba, kukwabililwa amulawo alimwi aluumuno munyika:
+<h2></h2>
+<p>Mbuli mbokunga kulemeka muntu oonse ncizyalilwa ca lwaanguluko lwa mikwasyi yoonse kuba matalikilo akuliiba, kukwabililwa amulawo alimwi aluumuno munyika:
 Kakuli kutalemeka alimwi akutyola milawo ya lwaanguluko lwa muntu kuleta micito yabujayi mibyaabi kulanyemya akutakkazyika kabotu bantu alimwi kwazungaanya nyika kuti ijane nzila yakwaangulula bantu kuti kabaliiba kukanana zyobayanda alimwi akutobela zyobasyoma alimwi akwaanguluka kwakutayoowa kwakaambilizyigwa kuba nenzila mpati veelede kuyumya muntu.
 Kakuli ncintu cipati, kuti muntu tasungilizyi kulomba lugwasyo kuba nenzila ilikke yamamanino, ulakonzya kucita zyintu zyimbi zyibyaabi zyakulikwabilila kudyaamininwa, kuti buumi bwa muntu weelede kukwabililwa amulawo.
 Kakuli ncintu cipati kusumpula lumvwano akati kamasi, kakuli bantu bamasi aali mu mbunga ya United Nations mu milawo ya malembo amumbunga eeyi akasyomenzya lusyomo mu milawo ya lwaanguluko lwa muntu, kubulemu alimwi abuvubi bwamuntu alimwi alwanguluko lweelene ku basankwa abakaintu alimwi akuba amakanze akusumpula bukkale bwabuumi bwabo mukuliiba kunji.

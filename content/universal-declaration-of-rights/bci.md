@@ -1,6 +1,6 @@
 <h1 align='center'>Sran mmla mun be mɛn nun jɔ bolɛ</h1>
-<h2 align='center'>Ibo bolɛ</h2>
-<p align='center'>Kɛ ɔ fin kɛ sran kwlakwa i sran bulɛ ɔ fin blɔlɔ'n ti, kɛ i sran-mmla ɔ nin sran kwlakwla liɛ'n sɛ'n ti, kɛ isɔ nin ye ɔ nin fɔundi, nanwlɛ atin, aklunjɔɛ ba mɛn nun'n ti
+<h2>Ibo bolɛ</h2>
+<p>Kɛ ɔ fin kɛ sran kwlakwa i sran bulɛ ɔ fin blɔlɔ'n ti, kɛ i sran-mmla ɔ nin sran kwlakwla liɛ'n sɛ'n ti, kɛ isɔ nin ye ɔ nin fɔundi, nanwlɛ atin, aklunjɔɛ ba mɛn nun'n ti
 Kɛ ɔ fin kɛ sɛ be si'a sran-mmla mun, nan sɛ be bu'a be like fi, i sɔ nin yɛ ɔ fa sa tɛtɛ yewa'n ba'nti, sangɛ kɛ ɔ fin kɛ be seli kɛ mɛn nga mɔ i nun sran mun be di be fɔundi, mɔ be kwla be kan be klunklo ndɛ, be kwla be sɔ be klunklo like, mɔ sɛkunlɛ ɔ nin yalɛ b'a jaso su, i sɔ mɛn mɔ be wan sran kundɛ i dan'n ti
 Kɛ ɔ fin kɛ i dan lika nin yɛ le kɛ ɔ fata kɛ mmla su awa yɛ ɔ nian sran-mmla mun be suɔ, kɛ ɔ ko yo nan b'a mianmian-man sran nan w'a faman ya w'a jaso-man be nga be fa kwlalɛ nin sran tɛtɛ yolɛ be fa be tintin i su be wun'n ti
 Kɛ ɔ fin kɛ like nga ɔ ti kpa dan yɛlɛ mɛn mun b'afiɛn janvuɛ kekle diwa'n ti

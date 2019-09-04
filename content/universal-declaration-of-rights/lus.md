@@ -1,6 +1,6 @@
 <h1 align='center'></h1>
-<h2 align='center'>Thuhma</h2>
-<p align='center'>Mihring nun zahawmna inhriatsak leh mi zawng zawngten kan pianpui dikna leh chanvote inangtlânga inngaihpawimawhsak tawnna hi zalênna, dikna leh khawvel pum pui remna leh muanna innghahna lungphûm a nih avang te,
+<h2>Thuhma</h2>
+<p>Mihring nun zahawmna inhriatsak leh mi zawng zawngten kan pianpui dikna leh chanvote inangtlânga inngaihpawimawhsak tawnna hi zalênna, dikna leh khawvel pum pui remna leh muanna innghahna lungphûm a nih avang te,
 Mihringte dikna chanvo (Human Rights)-in ngaihnêp leh ngaihthah a hlawh apianga khawvelah tawrhna nasa tak lo thleng thin a, chumi avanga mitinten kan thlâkhlelh leh kan vei zâwng sawi chhuah theihna tur leh hlauhna leh tlâkchhamna lak atanga kan fihlim theihna tur boruak te a tihchhiat thin avang te,
 Tharum hmanga inawpbeh avanga loh theih lohva mipuiten an dikna leh chanvote tharum thawha an sual chhuah a ngaihlohna tura ram rorêl khawlin mihring dikna leh chanvo humhalhna dan a lekkawh reng a ngaih a vang te,
 Ram hrang hrang leh hnam hrang hrangte inkara inunauna tha tak vawn nun reng hi thil pawimawh tak a nih avang te,

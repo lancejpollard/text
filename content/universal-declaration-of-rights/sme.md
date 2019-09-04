@@ -1,6 +1,6 @@
 <h1 align='center'>OLMMOŠVUOIGATVUOĐAID OPPAMÁILMMÁLAS JULGAŠTUS</h1>
-<h2 align='center'></h2>
-<p align='center'>Danne go friddjavuođa, vanhurskkisvuođa ja ráfi vuođđu máilmmis lea buot olmmošgoddái gullevaččaid lunddolaš olmmošárvvu dovddiidus ja sin dássásaš ja massemeahttun vuoigatvuođaid dovddiidus,
+<h2></h2>
+<p>Danne go friddjavuođa, vanhurskkisvuođa ja ráfi vuođđu máilmmis lea buot olmmošgoddái gullevaččaid lunddolaš olmmošárvvu dovddiidus ja sin dássásaš ja massemeahttun vuoigatvuođaid dovddiidus,
 danne go olgguštus olmmošvuoigatvuođain ja badjelgeahččanvuohta daid hárrái lea mielddisbuktán veahkájoaš daguid, mat leat suorggahan olmmošgotti oamedovddu, ja danne go álbmogiid alimus joksanmearrin lea dovddastuvvon dakkáraš máilmmi ovdašaddu, gos lea sárdnun- ja oskufriddjavuohta ja gos lea balus ja heađis friddjavuohta,
 danne go lea vealtameahttun dárbbašlaš suodjalit olmmošvuoigatvuođaid lága bokte, amaset olbmot fertet manimuš heađisteaset stuimádaga noastit bággoválddi ja soardu vuostá,
 danne go lea deaŧalaš ovddidit ustitlaš gaskavuođaid gárgedusa náššuvnnaid gaskkas,

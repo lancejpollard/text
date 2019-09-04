@@ -1,6 +1,6 @@
 <h1 align='center'>VISUOTINĖ ŽMOGAUS TEISIŲ DEKLARACIJA</h1>
-<h2 align='center'>PREAMBULĖ</h2>
-<p align='center'>Atsižvelgdama į tai, kad visiems žmonių giminės nariams būdingo orumo ir lygių bei neatimamų teisių pripainimas yra laisvės, teisingumo ir taikos pasaulyje pagrindas;
+<h2>PREAMBULĖ</h2>
+<p>Atsižvelgdama į tai, kad visiems žmonių giminės nariams būdingo orumo ir lygių bei neatimamų teisių pripainimas yra laisvės, teisingumo ir taikos pasaulyje pagrindas;
 atsižvelgdama į tai, kad žmogaus teisių visiškas nepaisymas ir niekinimas pastūméjo vykdyti barbariškus aktus, piktinančius žmonijos sąžinę, o sukūrimas pasaulio, kuriame žmonės turės žodžio ir įsitikinimų laisvę ir bus išlaisvinti iš baimės ir skurdo pančių, paskelbtas kaip kilniausias žmogaus siekimas;
 atsižvelgdama į tai, jog būtinai reikia, kad žmogaus teises saugotų įstaymo galia, dėl to, kad jis nebūtų priverstas imtis, kaip kraštutinės priemonės, sukilimo prieš tironiją ir priespaudą;
 atsižvelgdama į tai, jog būtinai reikia remti draugiškų santykių tarp tautų vystymą;

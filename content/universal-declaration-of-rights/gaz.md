@@ -1,6 +1,6 @@
 <h1 align='center'>Labsii Walii-gala Mirgoota Namummaa</h1>
-<h2 align='center'>SEENSA</h2>
-<p align='center'>Ulfinni fi wal-qixxummaan ilmoo namaa kan uummattoota hundaa akka ifatti kabajamu gochuun bu'ura bilisummaa, haqaa fi nageenya addunyaa waan ta'eef;
+<h2>SEENSA</h2>
+<p>Ulfinni fi wal-qixxummaan ilmoo namaa kan uummattoota hundaa akka ifatti kabajamu gochuun bu'ura bilisummaa, haqaa fi nageenya addunyaa waan ta'eef;
 Mirga namummaa irra ijjechuun yookaan tuffachuun yeroo hunda jeequmsa badiisa fidu uumee uummata kan dheekamsiisu waan ta'eef, akkasumas addunyaa haaraa kan uummanni ishee wal-qixxummaadhaan, bilisummaa yaadaa fi amantii argatanii, yaaddoo fi dhaba irraa birmaduu ta'anii gammachuudhaan akka jiraatan gochuun hawwii fi fedha uummattoota addunyaa waan ta'eef;
 Uummanni bulchiisa rooroo fi cunqursaa ofirra kuffisuuf humnaan akka hinfayyadamnetti yoo barbaachise, mirgooti namummaa seeraan akka eegamu gochuun barbaachisaa waan ta'eef;
 Biyyoota gidduutti walitti-dhufeenyi michumaa fi wal-jaalalaa akka dagaagu gochuun barbaachisaa waan ta'eef;

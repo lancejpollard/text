@@ -1,6 +1,6 @@
 <h1 align='center'>AKÜJIA SÜKUA'IPA SÜCHIKI SÜJUTU WAYUU SA'U MMAKAT</h1>
-<h2 align='center'>PÜTCHI SÜPULAPÜNA</h2>
-<p align='center'>JÜLÜJÜINJATÜ A'IN taashi, kasalajana, kamaneejirawaa, sa'u tüü mmakat kayuupalasü sünainje kajütüin atuma tüü akua'ipa wanawakat napüla napüshua naa wayuukanairua.
+<h2>PÜTCHI SÜPULAPÜNA</h2>
+<p>JÜLÜJÜINJATÜ A'IN taashi, kasalajana, kamaneejirawaa, sa'u tüü mmakat kayuupalasü sünainje kajütüin atuma tüü akua'ipa wanawakat napüla napüshua naa wayuukanairua.
 JÜLÜJÜINJATÜ A'IN aka meraajüin süma mojutüin atuma tüü pütchi aapüshika süpüla süjutu wayuu, watta saali tüü kasa mojüsü a'innaka sa'upüna na'in wayuu; aka shia'in e'itaanüin ma'aka tüü kasa müliakana ma'i e'iree naa wayuukana, süpüla nasawatüin wanee mma eere akatatnüin no'ulia tüü momoluu jeema mülia, eere taashi nakua'ipa süpüla yootoo jee müsüya süpüla anouja sünain kasa nano'ujekat anain;
 JÜLÜJÜINJATÜ A'IN a'inmajünüinjatü ma'i palaajana süchikua sujutu wayuu, sülu'u wane sükua'ipa eere neimalüinjatüin na'in sülia ashüküjawaa sünain pasalawaa sa'u nakua'ipa;
 JÜLÜJÜINJATÜ A'IN pa'inwaajiraa'injanain süchiirua aleewaa napüshüa naa sülaülayuukana alu'uwatawa sa'u tüü mmakat;

@@ -1,6 +1,6 @@
 <h1 align='center'>RUNAKUNAPAK HAYÑITA WILLAY</h1>
-<h2 align='center'>KALLARI YUYAY</h2>
-<p align='center'>Kawsaypi yuyashpa, kishpiriy, paktakay, allpapachapi kasikllakawsay tiksi
+<h2>KALLARI YUYAY</h2>
+<p>Kawsaypi yuyashpa, kishpiriy, paktakay, allpapachapi kasikllakawsay tiksi
 kakpimi tukuy runakuna sumak kawsayta charichun nishpa riksin; shinallatak
 sumaykayta(dignidad), paktapakta hayñita ayllumanta mana pi kichuchunmi
 riksin.

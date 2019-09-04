@@ -1,6 +1,6 @@
 <h1 align='center'>JEEGNIT NE ADNA FEE NDEERNA NI KE WARNA O KIIN</h1>
-<h2 align='center'></h2>
-<p align='center'>No andiɗ i jom le wiin fop a mbogna, fa ke warna den too te mbod teen keen fetu jam na adna fee,
+<h2></h2>
+<p>No andiɗ i jom le wiin fop a mbogna, fa ke warna den too te mbod teen keen fetu jam na adna fee,
 No ñak o and fo o yeesandaa ke warna in, naa ɓisiidaa fitna, fa yiif a peƭaru no ñoow in too adna faynwiin we a layaa o ngalaat dan, taamaala matee den fo ñak keen refu ke wiin we a moƴ na o mbug no ñoow,
 No Ke moƴna, ten ref a saax ake a yetooxaa ke jofna no kiin ndax jam a jeg boo muu refna yeeg o fañ o neewandel,
 No ke moƴna, ten ref ndamir a paax too moƴ o saƭkand ngaariit ndeer a caax ake,

@@ -1,6 +1,6 @@
 <h1 align='center'>VWAMBULULO VWA CIFUTI VWA VILINGA VYA VANU</h1>
-<h2 align='center'>VUPUTUKILO</h2>
-<p align='center'>Kusinganyeka ngwetu kutanekeyesa vulemu vwa kama ku voxe vapandama ku vuxoko vwa vanu co vwoxe vulemu vwavo mumo co keti vya kwaasa kujeneka vinapu vya nibangelo lya kulimanena, lya vwako ca na ciyulo mu lifuti.
+<h2>VUPUTUKILO</h2>
+<p>Kusinganyeka ngwetu kutanekeyesa vulemu vwa kama ku voxe vapandama ku vuxoko vwa vanu co vwoxe vulemu vwavo mumo co keti vya kwaasa kujeneka vinapu vya nibangelo lya kulimanena, lya vwako ca na ciyulo mu lifuti.
 Kusinganyeka ngwetu kukala ye kundzimba co na kayengu ca vulemu vwa vanu vwatwalele ku vulemu vwa kuviisa vije vikanena litoto lya vanu co nawa na kutatamena ca lifuti limo kuje vanu vakapwa kwaasa kulyendekela mu cizango co na vutava, vakuliyo vola ku vuxonde, co na kayando, vavilingile ngwe vikevyo vyakama manene ku manyonga ce vanu.
 Kusinganeka ngwetu ca kama kutakama kwaamesa vusamba vwa vusepa mukati kamafuti.
 Kusinganyenga ngwetu mu mukanda vanu vamu mafuti akulipandakana valingile nawa litavelo lyavo ku vulemu vwa mbangelo vwa vanu, na lutsimo ca kutsima ca munu ku mbunga, na kupwisa mumo vulemu vwa vanu, co na vanakazi co vije vivendeka na kulitavele kuzeyesa kutwala ku lutwe ca mbunga co na kutunga vwino vwa vuvwa vwa mwonyo mu kulimanena kwa kama.

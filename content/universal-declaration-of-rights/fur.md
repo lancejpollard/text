@@ -1,6 +1,6 @@
 <h1 align='center'>DECLARAZION UNIVERSÂL DAI DERITS DAL OM</h1>
-<h2 align='center'>Preambul</h2>
-<p align='center'>Tignût cont che il ricognossi la dignitât di ducj i membris de gjernazie umane, i lôr derits, compagns e inalienabii, e je la fonde de libertât, de justizie e de pâs tal mont;
+<h2>Preambul</h2>
+<p>Tignût cont che il ricognossi la dignitât di ducj i membris de gjernazie umane, i lôr derits, compagns e inalienabii, e je la fonde de libertât, de justizie e de pâs tal mont;
 Tignût cont che il dineâ e il spreseâ i derits dal om a an puartât a barbaretâts ch’a ufindin la cussience de umanitât e che al è stât proclamât che il divignì di un mont dulà che i oms a gjoldin la libertât di peraule e di fede e la liberazion de pôre e de miserie e je la plui grande braure dal om;
 Tignût cont che i derits dal om bisugne ch’a sein garantîts des leçs, se si intint di fâ in mût che l’om, come ultin ricors, nol scugni voltâsi cu la fuarce cuintri la tiranìe e la sclavitût;
 Tignût cont che bisugne promovi il svilup di bogns rapuarts tra lis Nazions;

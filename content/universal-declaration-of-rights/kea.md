@@ -1,6 +1,6 @@
 <h1 align='center'>Declaraçon di mundo intêro di Dréto di tudo homi co tudo mudjer</h1>
-<h2 align='center'>Primêro Comberso</h2>
-<p align='center'>Nu ta considrâ qui, riconhecimento di dignidadi qui ta fazê parti di tudo membro di família humano e di sês drêto qui ê igual e qui nu ca podê squecê, nem ficâ separado di el, ê fundamento di liberdadi, di justiça e di paz di riba di ês mundo;
+<h2>Primêro Comberso</h2>
+<p>Nu ta considrâ qui, riconhecimento di dignidadi qui ta fazê parti di tudo membro di família humano e di sês drêto qui ê igual e qui nu ca podê squecê, nem ficâ separado di el, ê fundamento di liberdadi, di justiça e di paz di riba di ês mundo;
 Nu ta considrâ qui, disconhecimento e disprezo di drêto di tudo homi e di tudo mudjer lêbanu pa fazê cusas di rundade qui bem raboltâ concença di tudo Humanidadi. Nu sa ta spèrâ pa tchigâ um mundo undi tudo ser humano ta bem podê ser libri di podê papiâ e di crêditâ, liberto di terror e sim medo di pássâ fomi e di miséria. Tudo ês cusa bem ta ser porclamado cuma um inspiraçon muto importanti pâ nôs tudo: pâ homi e pâ mudjer.
 Nu ta considrâ qui ê essencial quel porteçon di drêto di homi e di mudjer dento di um rigimi di drêto, pamodi ês ca bem ta ser impurrado, num ricurso supremo, pâ bai pa ribolta contra tirania e opresson.
 Nu ta considrâ quiê essencial si nu bem incorája quel disenvolvimemto di relaçon di amizadi di naçon co naçon.

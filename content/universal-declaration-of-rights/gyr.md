@@ -1,6 +1,6 @@
 <h1 align='center'></h1>
-<h2 align='center'></h2>
-<p align='center'></p>
+<h2></h2>
+<p></p>
 <ol>
   <li>
     <p>Opakatuavayoro’anda’eitembigwaigwaoyoyatupri,sekotupri,vaëra,imboeteisara,oikatuipi’ayemoñeta,imbaekua,ndiyaiyurekorairaiñepëipëiambuarese.</p>

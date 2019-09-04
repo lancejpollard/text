@@ -1,6 +1,6 @@
 <h1 align='center'>VISPĀRĒJĀ CILVĒKA TIESĪBU DEKLARĀCIJA</h1>
-<h2 align='center'>PREAMBULA</h2>
-<p align='center'>Ievērojot, ka visiem cilvēku sabiedrības locekļiem piemītošās pašcieņas un viņu vienlīdzīgu un neatņemamu tiesību atzīšana ir brīvības, taisnīguma un vispārēja miera pamats, un
+<h2>PREAMBULA</h2>
+<p>Ievērojot, ka visiem cilvēku sabiedrības locekļiem piemītošās pašcieņas un viņu vienlīdzīgu un neatņemamu tiesību atzīšana ir brīvības, taisnīguma un vispārēja miera pamats, un
 ievērojot, ka cilvēku tiesību necienīšana un nicināšana noved pie barbariskiem aktiem, kas izraisa sašutumu cilvēces apziņā, un ka tādas pasaules radīšana pasludināta kā cilvēku augstākie centieni, kurā cilvēkiem būs vārda un pārliecības brīvība un tie būs brīvi no bailēm un trūkuma, un
 ievērojot, ka nepieciešams, lai cilvēka tiesības aizsargātu likuma spēks un cilvēks nebūtu spiests izmantot kā pēdējo līdzekli sacelšanos pret tirāniju un apspiestību, un
 ievērojot, ka nepieciešams veicināt draudzīgu attiecību attīstību starp tautām, un

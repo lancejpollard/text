@@ -1,6 +1,6 @@
 <h1 align='center'></h1>
-<h2 align='center'>ETAHUTI</h2>
-<p align='center'>Imijaniere awana ono elotulo bwo arrijoro iko ahode hode ono awoyo
+<h2>ETAHUTI</h2>
+<p>Imijaniere awana ono elotulo bwo arrijoro iko ahode hode ono awoyo
 waati inyi asas ono ahurriya iko narrijoro ihosiere ganun etteti namuno
 otofau.
 Bwo ve ebasana iko etabalacahio ahode hode tulo iyak aati ehanita hun

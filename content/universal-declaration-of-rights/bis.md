@@ -1,6 +1,6 @@
 <h1 align='center'>Deklereisen Blong Raet Blong Evri Man Mo Woman Raon Wol</h1>
-<h2 align='center'>FESTOK</h2>
-<p align='center'>From se Jenerol Asembli i luksave respek mo ikwol raet blong man mo woman olsem stamba blong fridom, jastis mo pis long wol,
+<h2>FESTOK</h2>
+<p>From se Jenerol Asembli i luksave respek mo ikwol raet blong man mo woman olsem stamba blong fridom, jastis mo pis long wol,
 From se fasin blong no luksave mo no respektem ol raet blong man mo woman i mekem se i gat ol nogud aksen i tekemples we oli mekem se pipol i kros, mo bambae wan taem i kam we pipol bambae i glad long fridom blong toktok mo biliv blong hem, fridom blong no fraet mo wantem samting hemi kamaot olsem nambawan tingting blong ol grasrut pipol,
 From se hemi wan impoten samting, sipos man i no fos blong lukaotem help, olsem wan las aksen we hemi save mekem, blong faet agensem rabis fasin blong spoelem no fosem pipol hemia blong mekem nomo se Loa i protektem ol raet blong man mo woman,
 From se i gat nid blong promotem fasin blong developem frensip wetem ol narafala kaontri,

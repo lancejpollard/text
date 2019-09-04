@@ -1,6 +1,6 @@
 <h1 align='center'>ADAMA XAFE RAFALƐ SARIYƐE DƐNTƐGƐ</h1>
-<h2 align='center'></h2>
-<p align='center'>A kolon fera, ibunadama xa lasiriya nun axa adamaya xafe rafalɛ non findixi yɛtɛralui tigitigira, a bara masen won bɛ, a tinxinyi nun bɔɲɛ sa bara sɛnbɛ sɔtɔ dunuya birin kui.
+<h2></h2>
+<p>A kolon fera, ibunadama xa lasiriya nun axa adamaya xafe rafalɛ non findixi yɛtɛralui tigitigira, a bara masen won bɛ, a tinxinyi nun bɔɲɛ sa bara sɛnbɛ sɔtɔ dunuya birin kui.
 A kolon fera, adamaya xafe sariyɛe mu mabanbanxi han to i bunadama yira, nafe naniɲɛ xi funmalaya, gere, gbaloe nun misikinɛ ya mu ɲɔnma. Kɔnɔ xabirin bara na sariyɛe ratinmɛ, gbaloe ɲɔnmanɛ, gere ɲɔn, funmalaya nun misikinɛ ya ɲɔn. I bunadamaya bara rasabati natɛ mui.
 A kolon fera, adamaya xafe rafalɛ sariyɛe rasabatife findixi fe fanyi nan na, alanma ibunadamaya xun xa magaga mangɛ sanyi sariyɛla yira.
 A kolon fera, a ɲamanɛe xa xanunteya sɛnbɛ sofe e bore tagi, sugandi fanyi nara.

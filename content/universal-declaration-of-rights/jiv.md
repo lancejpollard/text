@@ -1,6 +1,6 @@
 <h1 align='center'>AENTSU NINIURIN CHICHAME MASHINIU AMIKTIN</h1>
-<h2 align='center'>JUÁRMA</h2>
-<p align='center'>Aents yajauch chichaman waintsuk ankán pénker pujustin aíniawai. Yajá nunkanam . aentsu chichame etsérkamu mashi paárlt ajástin aíniawai. Shuar chíkich aentsjaish nuamtak métekkrak iísma atin aíniawai.
+<h2>JUÁRMA</h2>
+<p>Aents yajauch chichaman waintsuk ankán pénker pujustin aíniawai. Yajá nunkanam . aentsu chichame etsérkamu mashi paárlt ajástin aíniawai. Shuar chíkich aentsjaish nuamtak métekkrak iísma atin aíniawai.
 Aentsu chichame pénker etsérkachma, nekáchma asamtai, shuar wishikkramu, asútiamu, eméskamu, awáttramu, yajaúch amákma aíniawai. Tuma asamtai yamaikia ukúnma aí aents nuámtak nunkanam pénker asutiachma, waíttcha pujúsat tamaiti.
 Aents yajauch nétse aínis enentaimin, aentsu chichame mashiniu amiktin, kákaram papinium aárma arantukma tama awai.
 Yajá nunka tepakmanumash ii shuarijiaish pénker nekaniar, arántunaikiar pujustin tamaiti.

@@ -1,6 +1,6 @@
 <h1 align='center'>Ɩgooyoo bɔ gbɛɛɩnɲɔ maraʋn</h1>
-<h2 align='center'></h2>
-<p align='center'>Hɛrɛ yʋʋn pɛɛ bɔ yɩnŋmɔ kaa ɩgooyoo, a hɔ gu ti a gbɛɛɩnɲɔ, lɛ kparija, lɛ totogonigo ɔn yi druɲan rɩ.
+<h2></h2>
+<p>Hɛrɛ yʋʋn pɛɛ bɔ yɩnŋmɔ kaa ɩgooyoo, a hɔ gu ti a gbɛɛɩnɲɔ, lɛ kparija, lɛ totogonigo ɔn yi druɲan rɩ.
 Hɛrɛ yʋʋn pɛɛ ji lɛɛ ɩgooyoo wɛɛ pɛɛ hʋʋn kpan  gbɛɛɩnɲɔ, lɛ ji lɛɛ mʋnm yʋʋn wɛɛ kaɩ hɛrɛ gbɛɛɩnɲɔ  wɩnnɩn,hɔ maan yiro sɛgɛdɛgɛ pooko. Hɛrɛ tiri dɛ ɩgooyoo wɛɛ pɛɛ hʋʋn kpan lɛ yɩn bɔ gbɛɛ.
 Hɛrɛ yʋʋn pɛɛ ji lɛɛ hɔ ya aban mɩnnɩn gbɛɛɩnɲɔ mara wɩnnɩn dɩ garɩyɛɛgɔ, lɛ ɩgoooyo kaa yʋgʋkaga hɔ kwanŋɔ.
 Hɛrɛ yʋʋn pɛɛ ji lɛɛ hɔ ya dunuɲan sɔgɔ pɛɛ bɔ kan wɔɔrɩ.

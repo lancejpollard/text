@@ -1,6 +1,6 @@
 <h1 align='center'>FAJUUMENUMI SIDRUWAAS SATI ANAU</h1>
-<h2 align='center'>WANDOMI :</h2>
-<p align='center'>Yíneni aat mati faŋaaf fati anau di sidruwaas soola, san umaje sirere di saasu ban poop sisofut di uceen soo silakom fujuumaf fati di malegenam, di kairaay di dúniaay búrom ;
+<h2>WANDOMI :</h2>
+<p>Yíneni aat mati faŋaaf fati anau di sidruwaas soola, san umaje sirere di saasu ban poop sisofut di uceen soo silakom fujuumaf fati di malegenam, di kairaay di dúniaay búrom ;
 Yíneni jaat anau nasonsoŋ mati kàmanjaataak di eñoosey sidruwaas sati anau soo siŋarulomi màkojiam, ban malegen munkul mujawulojaw di dúniaay man Anoosan muŋooleŋoolen usanken man súumimi nusof man súumimi, nupak di màkooleniam di bugaalab ;
 Yíneni jaat mati sensen man aakemmi mofam apooy sidruwaas sati anau, takumŋarul anau tuuñool eri manakaan wajakut ;
 Yíneni jaat mati kàliŋen bapaalaay bati sísukas jajak;

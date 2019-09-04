@@ -1,6 +1,6 @@
 <h1 align='center'>TUCUY RUNACUNAPAC HATUM RIMAY</h1>
-<h2 align='center'>CALLARI</h2>
-<p align='center'>Yuyashpa ima shina quishpiri, taripa, sumac causay pachapi, mashcanga ricsipi cusilla causayta, ayacunapi mana pi miticuchum, runacunapac ucullapi tián.
+<h2>CALLARI</h2>
+<p>Yuyashpa ima shina quishpiri, taripa, sumac causay pachapi, mashcanga ricsipi cusilla causayta, ayacunapi mana pi miticuchum, runacunapac ucullapi tián.
 Yuyashpa mana ricsicuna runaman millayhuán ricuchum ñausashina pishihuán. Caycuna tucuy llaquicunata apamushca; chaymantami tucuylla ninchic, runacuna, pacha callaricpi mana manchay, huaccha llaqui charic carca, quishipita munashpa, rimaytapes cusilla cacharishpa, paycunahuánmi huiñarca.
 Yuyashpa runacunapac ancha allimi taripacuna mitsachum, mana runacuna cayta ricushpa hatum piñayhuán jatarichum.
 Yuyashpa mashcanami llactacunaman, pay pura, mayjanpes cachum tandarishpa alli causayta catina.

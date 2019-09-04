@@ -1,6 +1,6 @@
 <h1 align='center'></h1>
-<h2 align='center'>Oro' huairi in o'nopoe̱po o'nigmadoya'ne:</h2>
-<p align='center'>Aya'da aratbut ko̱nigti huadakda o̱'nepo huadakda ka'dik o̱'ne. Kena'po oro' huadakda ka'dik o̱'e̱y huairia kanigke'. Kena'po aya'da oro'taj dakhuapa bayokdik ka'ne'. Kenpa'ti oro'taj nama'da e'magka' kahue'dik ka ne. Daka'da e'nigpee̱tada dakhuea' eka'nayo kuda̱'dik o̱'ne. Oro' huairi o'nopoe̱y.
+<h2>Oro' huairi in o'nopoe̱po o'nigmadoya'ne:</h2>
+<p>Aya'da aratbut ko̱nigti huadakda o̱'nepo huadakda ka'dik o̱'ne. Kena'po oro' huadakda ka'dik o̱'e̱y huairia kanigke'. Kena'po aya'da oro'taj dakhuapa bayokdik ka'ne'. Kenpa'ti oro'taj nama'da e'magka' kahue'dik ka ne. Daka'da e'nigpee̱tada dakhuea' eka'nayo kuda̱'dik o̱'ne. Oro' huairi o'nopoe̱y.
 Nogda nogda huadak eka' aya'da aratbut ka'dik o̱'ne. Huabokerek kenda oknopoe̱hue' o̱'nepo aratbuttaj dakhuea'da o'nogka' kenpa'ti on'barakpo. Huadak aratbut on'tiahuaypo on'diay. Kena'po,
 Do'huedbayo kenda ijnopoe̱po ja'dik o̱'e̱y kenpa'ti katetapi' oknopoe̱'diktaj o'paki oknopoe̱y kenpa'ti eme'puktaj pakhue' o̱'e̱y. Kenda huakka'da o'paki. Oro' huairi o'nopoe̱y.
 Dakhuea' huaka'eri huakka' aratbuttaj dakhuea' o̱gkika' kenpa'ti nama'da o̱gkika'. Dakhuea' huaka'eritaj aratbutnayo barakhue'dik o̱'ne. Gobierno huairi e'mana' nigmadoya'dik o̱'ne. Kenda aratbut nogda nogda huadakda ka'dik nigmadoya'dik o̱'ne.

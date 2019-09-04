@@ -1,6 +1,6 @@
 <h1 align='center'>Yirisaro fɔɔku consiroma ãduriya mii</h1>
-<h2 align='center'></h2>
-<p align='center'>Ti ka cɔɔtɛ maa yissaro Fɔɔku mii da ta nɛki sa o i se o yon; o i Fɔ da i o daari;
+<h2></h2>
+<p>Ti ka cɔɔtɛ maa yissaro Fɔɔku mii da ta nɛki sa o i se o yon; o i Fɔ da i o daari;
 Ti ka cɔɔtɛ maa nɔɔre yirisaro ta yaate kpɛɛmma boma mii, da nɛki-di panto o se o yon o i Fɔ da i o daari;
 Tika cɔɔtɛ maa yirisaro Fɔɔku ta wiri, da nɛki-dì nɛɛ yiro ta bo, o nukpiikiba ǹ yi o tetin-na;
 Ti ka turi ti cɔɔtɛ maa kpeeto tɔkitibu ta daari tinkpanne na de tɔre;

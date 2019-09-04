@@ -1,6 +1,6 @@
 <h1 align='center'>TUMELELANO YE TUNA YA SWANELO YA MUTU</h1>
-<h2 align='center'>MAKALELO</h2>
-<p align='center'>Kinto ye zibahala kuli mutu kaufela mwa lifasi ki yena makalelo a tukuluho ni koozo mwa lifasi,
+<h2>MAKALELO</h2>
+<p>Kinto ye zibahala kuli mutu kaufela mwa lifasi ki yena makalelo a tukuluho ni koozo mwa lifasi,
 Ili nto ye tisize kuli ku sa babalela liswanelo za mutu ku tisize likezo za situhu ni ku sinya minahano ya mutu ni ku ba sila sa lifasi le li tokwa ku ikola tukuluho ya ku fa maikuto ni tumelo ku sina sabo ni ye kana,
 Kinto ya butokwa kuli mutu a susuezwe ku ba ni maipilisezo, ni muhato wa mafelelezo wa ku lwanisa bahateleli ili kuli liswanelo za batu li kone ku silelezwa ka mulao,
 Mi hape inge ili nto ya butokwa ku zwiseapili silikani mwa hala' linaha,

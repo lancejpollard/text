@@ -1,6 +1,6 @@
 <h1 align='center'>KAYMI KAN LLAPAN MUNDUCHAW IMANAW KAQ RUNAKUNAPAPIS DIRICHUNKUNA</h1>
-<h2 align='center'>QALLANAN KAQ</h2>
-<p align='center'>Musyantsikmi kaynaw kanqanta: Imanaw kaq runakunapis runam kayan. Llapantsik iwal kashqaqa iwalrni dirichuntsikkuna kapamantsik. Y tsaynaw kaptinmi trankilu, libri, kawashun dirichuntsikkunawan.
+<h2>QALLANAN KAQ</h2>
+<p>Musyantsikmi kaynaw kanqanta: Imanaw kaq runakunapis runam kayan. Llapantsik iwal kashqaqa iwalrni dirichuntsikkuna kapamantsik. Y tsaynaw kaptinmi trankilu, libri, kawashun dirichuntsikkunawan.
 Y dirichukunata mana kasukurninpis mana alli runakunam allaapa ultrahayarqan wakin runakunata. Y tsaynaw ultrahayanqanta musyar llapan munduchaw runakuna llakikur rabiyakuyarqan. Y yapay mana tsaynaw kananpaqmi munantsik kay mundu kaynaw kananta:
 Parlayta rnunashqaqa llapan yarpanqantsiknaw parlashwan llapantsik runakuna. Kriyinqantsikmannawrni irnarnanpis kriyirnin kashwan llapantsik runakuna. Ni pipis mantsakutsuntsu ni imapitapis faltapukuq kanmantsu. Mana runakuna wanayananpaq shariyta allaapa mana alli awturidakunapaq kuntran, kay paapil willamañtsik y difyindimantsik. Y tsaynaw manana kananpaq willakun llapan runakunata dirichunkunata y liyninkunata y tsaynaw shurnaq takunantsikpaq.
 Kada bis mas shumaq pasakuychaw llapan nasyunkuna huknin hukninwanpis kayananmi, nir willakun.

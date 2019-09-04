@@ -1,6 +1,6 @@
 <h1 align='center'>DICHJARAZIONI UNIVIRSALI DI I DIRITTI DI L’OMU</h1>
-<h2 align='center'>Introitu</h2>
-<p align='center'>Cunsidarendu ch’ellu ci voli à ricunnoscia a dignità propria di tutti i membri di a famiglia umana è i so diritti pari ed inalienabili par ch’elli sianu fundati a libertà, a ghjustizia è a paci ind’u mondu,
+<h2>Introitu</h2>
+<p>Cunsidarendu ch’ellu ci voli à ricunnoscia a dignità propria di tutti i membri di a famiglia umana è i so diritti pari ed inalienabili par ch’elli sianu fundati a libertà, a ghjustizia è a paci ind’u mondu,
 Cunsidarendu chì, ùn cunniscendu o sprizzendu i diritti di l’omu, si hè ghjuntu à atti barbari chì a cuscenza umana ni hè rivultata, è ch’ella hè stata chjamata a spiranza più alta di l’omu quilla di fà nascia un mondu duva elli saranu libari l’omi di parlà è di creda, libarati da u tarrori è da e miseria,
 Cunsidarendu ch’ella hè una primura maiò ch’elli sianu prutetti i diritti di l’omu da un guvernu di dirittu, da ch’ellu ùn sia custrettu l’omu, ghjuntu à i punti stremi, à rivultà si contru à a tirannia è l’upprissioni,
 Cunsidarendu ch’ella hè una primura maiò di fà ch’elli si sviloppinu i leii amichevuli trà i nazioni,

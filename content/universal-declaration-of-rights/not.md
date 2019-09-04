@@ -1,6 +1,6 @@
 <h1 align='center'>IRAEGUl BOTATAIGACHA ICOMANTAIGUIRO OCA NIBARINTSICA</h1>
-<h2 align='center'></h2>
-<p align='center'>Aiti ora caninaro ora icogaigui angantaiguë antagaisati matsiguenga. Tení ongomeite queroca inintacagaigái pairo-raca anganquero ora caninaro.
+<h2></h2>
+<p>Aiti ora caninaro ora icogaigui angantaiguë antagaisati matsiguenga. Tení ongomeite queroca inintacagaigái pairo-raca anganquero ora caninaro.
 AQUENGAIGACA ora antagaisati matsiguenga aisati icantaigaca. Aroquenta ibogaiguë iriro matsiguengasonori. Iroro teni ongomeite cara paniro imeratimari ira basini. Teni ongomeite cara paniro ingantaguebiritirí catsimaro ira basiní. Aisati caninataque antagaisati matsiguenga intimasantaigue caninasati.
 AQUENGAIGACA cara tojai icantaguebiritengani ora te onganinate ira matsiguenga tenta irogóigue irirojegui matsiguengasonori. Icantaiguëri ora ogóigui eiro te ongomeite. Aquengaigaca cara iroguiaque omagaro matsiguenga intimaiguë caninasati. Teni ongomeite intsorogaigue, teatisati ongomeite iritasegue, carari caninataque antagaisati irinibataigue ora ijique caninaro, aisati caninataque inguemisantaiguë ora ijique caninaro.
 AQUENGAIGACA caninataque angábintsaigueri omagaro matsiguenga arota ingantaiguë ora ijique caninaro. Aique quero icogaigui iriocairi itingomipague.

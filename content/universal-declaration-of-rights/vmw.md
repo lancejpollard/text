@@ -1,6 +1,6 @@
 <h1 align='center'>Edeklarasau ya molumwenku ya Edireito sa Mutthu</h1>
-<h2 align='center'>WOPAJERANI</h2>
-<p align='center'>Okhala wira osaamiha n’edignidade ya kunla pinatamu n’editeito sawe soolikana ni sakhwawe eri variyari wa eliberdade, wa esaria ni murettele mulumwenkuni;
+<h2>WOPAJERANI</h2>
+<p>Okhala wira osaamiha n’edignidade ya kunla pinatamu n’editeito sawe soolikana ni sakhwawe eri variyari wa eliberdade, wa esaria ni murettele mulumwenkuni;
 Okhala wira ohisuwela n’ohisamiha edireito sa mutthu sinniiriha itthu sonanara n’ekiiso ya olumwenku onkhala awe pinatamu moota ontthuna awe, ehihasiwaka ni mutthu mukhwawe walaa ni osikhini, pihimmwe okhala etthu yulupale enlompwawe mutthu;
 Okhala wi itthu yulupale okhaviherya edireito sa mutthu variyari v’regime ya edireito, ohitthyawele ekhotto wi akhume opuro onihosiwawe;
 Okhala wi v’alupale okhaviherya makhalelo amurettele ni ilapo sikina;

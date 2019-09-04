@@ -1,6 +1,6 @@
 <h1 align='center'>ADAM HUKUKLARYNYŇ ÄHLUMUMY JARNAMASY</h1>
-<h2 align='center'>GIRIŞ</h2>
-<p align='center'>Adamzat kowmunyň agzalaryna deň derejede degişli mertebäniň we olaryň deň we aýrylmaz hukuklarynyň ykrar edilmeginiň azatlygyň, adalatyň hem‐de ählumumy dynçlygyň esasy bolup durýandygyny göz öňünde tutup; we
+<h2>GIRIŞ</h2>
+<p>Adamzat kowmunyň agzalaryna deň derejede degişli mertebäniň we olaryň deň we aýrylmaz hukuklarynyň ykrar edilmeginiň azatlygyň, adalatyň hem‐de ählumumy dynçlygyň esasy bolup durýandygyny göz öňünde tutup; we
 Adam hukuklarynyň äsgerilmezliginiň we ýigrenilmeginiň adamzat ynsabyny haýykdyrýan wagşyçylyk aktlaryna getirendigini hem‐de adamlaryň söz we wyždan azatlygyna ýe we gorkudyr mätäçlikden azat boljak dünýäsiniň döredilmeginiň adamlaryň belent ymtylyşy diýlip yglan edilendigini göz öňünde tutup; we
 Zulmuň we sütemiň garşysyna iň soňky serişde hökmünde adamynyň gozgalaňa baş götermek zerurlygyny aradan aýyrmak maksady bilen adam hukuklarynyň kanunyň häkimligi tarapyndan goralmagyny göz öňünde tutup; we
 Halklaryň arasyndaky dostlukly gatnaşyklaryň ösmegine ýardam etmek zerurlygyny göz öňünde tutup; we

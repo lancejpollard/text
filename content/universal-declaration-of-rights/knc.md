@@ -1,6 +1,6 @@
 <h1 align='center'>Hakkiwa Adamganabe Dunya Ngaro Wowurtəgənama</h1>
-<h2 align='center'>Yitagattəgə</h2>
-<p align='center'>Adəgaima tada adamganabebe nəmngalwonzə kambaata adə-a nəmnduaso kalkalnzə-a hakkiwanzə Alanjo-adə shima ferno nəmkambe-a jirebe-a nəlefabe-aro dunya ngason asutəna,
+<h2>Yitagattəgə</h2>
+<p>Adəgaima tada adamganabebe nəmngalwonzə kambaata adə-a nəmnduaso kalkalnzə-a hakkiwanzə Alanjo-adə shima ferno nəmkambe-a jirebe-a nəlefabe-aro dunya ngason asutəna,
 Adəgaima hakkiwa adamganabero cistəgə ba-a fallaktə-abe sawowuro kəndowa halye kurzənyi waazə hangal adamganabero karega rozəgəna, kuru dunya duwo suron adamganasoye tamtam hakkinza manabe-a nzasarabe-a kuru nambe duwo dalil baaro citə-a jero-abedə shima awo talaawaye təmazana woro warmowotə,
 Adəgaima awo məradətənadə susu adamganaga dunon təkkə nəmzaləm-a njokuno-a kəriwutəbedəro howum maibeye hakkiwanzaga səliwodəma,
 Adəgaima awo məradətənadə tawaa-a nəmkam-a indikate lardəwaben haptaadəma,

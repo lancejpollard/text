@@ -1,6 +1,6 @@
 <h1 align='center'>AKAPACH JAQE WALINKAÑAPATAKI INOQAT ARU</h1>
-<h2 align='center'>Qalltañataki</h2>
-<p align='center'>UNANCHASA, aka pachana jaqejh munañanïsina, cheqpacha amuyasisa, cheqa thakir sarjhatasa, jilan sullkanjama arnaqasa, jan nuwasisa utjañaru wayt'asiñ yati;
+<h2>Qalltañataki</h2>
+<p>UNANCHASA, aka pachana jaqejh munañanïsina, cheqpacha amuyasisa, cheqa thakir sarjhatasa, jilan sullkanjama arnaqasa, jan nuwasisa utjañaru wayt'asiñ yati;
 UNANCHASA, jaqen walinkañapataki wakisir arunaka armasna, yaqhep jaqejh masinakaparu khuyañ autuyi, mututanakasti, uñatatasisa, wajcha kankañapa atipasna, jan khitirus ajhsarasa, cheq-cheqa qhana arumpi arustatasjhapjhe;
 UNANCHASA, jaqen walinkañapataki inoqat arujha arjhatatäñapaw jan jaqe ñanqhachirinakaru ch'ajhwa qalítasna waninchapjhañapataki;
 UNANCHASA, taqpacha markanakajh kunti munapjhe ukanaka jikjhatañatakiejh jupanakpacha sumäñat arusthapisipjhañapaw;

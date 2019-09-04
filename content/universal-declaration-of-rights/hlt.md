@@ -1,6 +1,6 @@
 <h1 align='center'>DIKLAI PUM THLANGHING HAMHMOEL OL HOE NA CAYOL</h1>
-<h2 align='center'>Ol rhoek nah</h2>
-<p align='center'>Thlang boeihkah thlangphun rimomna thlangtom vanpitna hamhmoel boeih pompuina tah thlangboeih kah zalpo nah, duengtlangna, roepremna roek kah a kungpui la a om dong ah khaw ti saeh:
+<h2>Ol rhoek nah</h2>
+<p>Thlang boeihkah thlangphun rimomna thlangtom vanpitna hamhmoel boeih pompuina tah thlangboeih kah zalpo nah, duengtlangna, roepremna roek kah a kungpui la a om dong ah khaw ti saeh:
 Thlanghing hamhmoel cina bangla nawtsap napawt he thlangtom boeih kah singyoe te aka phaekung ka thae koek khoboe rhamlang la acoeng sak thai dong ah khaw ti saeh, alangya la thuikhan thaina, alangya la bawkthaina, rhalrih na neh khodaeng patang khang na khui lam ka loh loeih tih khosak omthenna diklai phueng na thai ham la, thlangtom boeih loh mah kah ngaihna asang koek la aphong coeng dong ah khaw ti saeh;
 Thlangtom boeih loh atuengta mueh la hnaemtaekna, ukkna, thaekhana na neh ahnukhit ah acoeng thai pawt dong ah lungpok haica neh caemthohna a om na pawt ham, thlanghing hamhmoel na te upadi neh dawndah paham la angoe dong akhaw tisaeh;
 Ramtung khat neh khat roeprem cala tukkai na u thae, pomsangna ham la bisai ham a om dong ah khaw tisaeh;

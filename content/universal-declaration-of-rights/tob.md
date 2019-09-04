@@ -1,6 +1,6 @@
 <h1 align='center'>NA NQATAXACPI NA ỸOTTA'A'T SHIỸAXAUAPI MAYI NETALEC ANA 'ALHUA</h1>
-<h2 align='center'>Na Hua'auchiguii N'aqtacpi</h2>
-<p align='center'>Cha'ayi qaỹaỹateeta de'eda huesochiguii nataxac, qataq da huo'o ca qai'ot ỹaỹamaqchiguii, qataq da nlagaxayic mayi huetalec ana 'alhua, chigoqchigui, qataq da 'eetec da qaica da huo'o ca napacalec ca lỹa, huo'otaq da qaỹacona ca lalamaxat i 'oonolec 'enauac na shiỹaxauasat.
+<h2>Na Hua'auchiguii N'aqtacpi</h2>
+<p>Cha'ayi qaỹaỹateeta de'eda huesochiguii nataxac, qataq da huo'o ca qai'ot ỹaỹamaqchiguii, qataq da nlagaxayic mayi huetalec ana 'alhua, chigoqchigui, qataq da 'eetec da qaica da huo'o ca napacalec ca lỹa, huo'otaq da qaỹacona ca lalamaxat i 'oonolec 'enauac na shiỹaxauasat.
 Qataq qaỹaỹateeta da souaxat ca saqaỹaỹateelec lataxac, qataq da qaỹI'ina 'I da lataxac ca shiỹaxaua, da nachida da chigoqchigui da qai'otec ca qauem qataq da saqaiyacnapec na ỹale, ỹoqo'oyi namayipi sa ishit da pal da lavilỹaxac, qataq souaxat da qanasachigui nagui da qalapaxai da qaỹauotaique no'on llic na shiỹaxauasat, qataq naua aq naidauo na'axa'te mayi heutoiguilo da 'enauac na shiỹaxauapi ỹataqta huesochiguii qanqoỹin, imeuo da lcolanaxa qataq da lachoxoyic, qataq sa ishit da qoỹinapega souaxat ca l'aqtac qataq souaxat ca l'amqaanataxanaxac.
 Qataq iuen da ne'ena maichi lataxac na shiỹaxauapi ỹataqta qanpaxatalec qataq qai'ot ca llic, yaqto' ca shiỹaxaua sa ishit da I'ot ca sa lhuennataxa, huaa nachi ishit da dataỹa 'aguet cam sa ishit da dechoxonnataxan huo'otaq ca huetaiya' naq'en ca lỹa.
 Qataq iuen da qalapaxai da qai'ot ca llic da yaqto' nhuoteeta't 'enauac na netalguete naua ỹotta 'a't 'ale'u.

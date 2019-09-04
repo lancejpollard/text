@@ -1,6 +1,6 @@
 <h1 align='center'>Dunya Lahi Nuvuu Lɔnyisia Va</h1>
-<h2 align='center'>Magona Yɛpei</h2>
-<p align='center'>A jifa kiliyei na kɛ numu vuu kpɛlɛɛ ti maa hɛwulei lɔ towa kpaupau le laha va, tɔnya kɛɛ ndilɛli dunyihu.
+<h2>Magona Yɛpei</h2>
+<p>A jifa kiliyei na kɛ numu vuu kpɛlɛɛ ti maa hɛwulei lɔ towa kpaupau le laha va, tɔnya kɛɛ ndilɛli dunyihu.
 A jifa ngawulɛɛhu kɛɛ baagbuala nuvugaa ti lɔnyisia ma ti wanga a pie hindangaa na hii i wotɛa a nɛmahugili waa nuvuu ma, dunya ninahu mia mahoingɔ muvuu i gu i yɛpɛ kia ngi longɔla, kɛɛ ngi lanayei kɛɛ ngi lima hinda.
 A jifa maa ii houni nu mu vuu i wote a kɔ gɔmɔ mahaya nyamu nyamu kɛɛ nduwɔ ya yeya, kɛ mahoingɔɛ sawei i nuvuu lɔnyii mavale,
 A jifa mahoingɔ ndiamɔyei na ndɔlesialuahu i lɛgulɔma,

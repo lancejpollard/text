@@ -1,6 +1,6 @@
 <h1 align='center'>TOKSAVE LONG OL RAITS BILONG OL MANMERI LONG OLGETA HAP BILONG DISPELA GIRAUN</h1>
-<h2 align='center'>AS BILONG TOKTOK</h2>
-<p align='center'>Long luksave olsem olgeta manmeri mas igat respek, na olgeta manmeri long dispela graun igat wankain raits long bihainim laik bilong ol, long gat lo na oda na gat gutpela sindaun.
+<h2>AS BILONG TOKTOK</h2>
+<p>Long luksave olsem olgeta manmeri mas igat respek, na olgeta manmeri long dispela graun igat wankain raits long bihainim laik bilong ol, long gat lo na oda na gat gutpela sindaun.
 Long ol hap nambaut taim manmeri i no luksave long raits bilong ol narapela manmeri, dispela tingting we ol manmeri mas gat fridom long toktok, gat fridom blong igat bilip, fridom long noken poret na fridom long laikim ol kainkain samting. Dispela em i bikpela samting bilong olgeta manmeri.
 Long wanem em i gutpela stret, sapos man i no inap hariapim narapela long halivim em, olsem laspela samting, long i go egensim man o meri igat olgeta pawa insait long kantri na husat i save lukautim ol pipol bilong em long nogut pasin tasol, na dispela raits blong ol manmeri em lo bai lukautim na banisim.
 Long wanem, em i gutpela stret long strongim pasin bilong kamapim gutpela sindaun namel long ol kantri.

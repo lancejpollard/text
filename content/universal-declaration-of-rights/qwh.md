@@ -1,6 +1,6 @@
 <h1 align='center'>KAQ KEYMI LLAPAN PATSACHOW IMANA KAQ NUNAKUNAPAPIS DERECHUNKUNA</h1>
-<h2 align='center'>QALLANAN KAQ</h2>
-<p align='center'>Musyantsikmi keynow kashqan ta: Imana kaq nunaku napis nunam kayan. Llapantsik tseynowlla kashqaqa tseynowllam derëchuñtsikkuna kapamantsik. I tseynow kaptinmi kushi, shumaq, allilla kawashun derëchuntsikkunawan (kikintsikpa kaqwan).
+<h2>QALLANAN KAQ</h2>
+<p>Musyantsikmi keynow kashqan ta: Imana kaq nunaku napis nunam kayan. Llapantsik tseynowlla kashqaqa tseynowllam derëchuñtsikkuna kapamantsik. I tseynow kaptinmi kushi, shumaq, allilla kawashun derëchuntsikkunawan (kikintsikpa kaqwan).
 I derëchukunata mana wiyakurninpis mana alli nunakunam allápa allqotsayarqan wakin nunakunata. I tseynow allqotsanqanta musyar llapan patsachow nunakuna llakikur ajayarqan. I yapey mana tseynow kananpaqmi munantsik key patsa keynow kananta:
 Parleyta munashqaqa yarpanqantsikmannowmi parlashwan llapantsik nunakuna. Kreyinqantsikmannowmi imamanpis kreyikurnin kashwan llapantsik nunakuna. Ama ni pipis mantsakutsuntsu ni imapitapis. I manam ni pipis pishupukoq kanmantsu.
 Allápa mana alli allqotsaq awtoridakuna kaptenqa mana meymanpis tsatakiyta, pwedirninmi awtorida wajaq sharkuyanman. I tseynow mana kananpaqmi alli kanman llapan nunakunapa derëchunkuna leykunachow alli qellqashqa kanman, llapantsik reqinapaq.

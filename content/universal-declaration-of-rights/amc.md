@@ -1,6 +1,6 @@
 <h1 align='center'></h1>
-<h2 align='center'></h2>
-<p align='center'>Hapovaun jau cuzati cunuunicun ja jahaquin jau cuzaquin jan jonivo jaton derecho jato horixonyovaatimun nutuztirazi jaha hapovohnucanpu. Jaton derecho jato respetaxonyamahaito terroristaquicavizquin hapo zinaativo shinanquin. Nutuztirazi j aharazix ravucananhi jatimunhcanquihnucanpu.
+<h2></h2>
+<p>Hapovaun jau cuzati cunuunicun ja jahaquin jau cuzaquin jan jonivo jaton derecho jato horixonyovaatimun nutuztirazi jaha hapovohnucanpu. Jaton derecho jato respetaxonyamahaito terroristaquicavizquin hapo zinaativo shinanquin. Nutuztirazi j aharazix ravucananhi jatimunhcanquihnucanpu.
 Nutuztirazinxon jaton hapovaun jato nichinha vohax hiyoohi tziztocohoonivomun "Naciones Unidas" quin yohihi nonhcanucanpu, jahonxonmun cuzaxon jau cuzatirahqui yohiquin quirica cunuucannixohqui, quiyoovi jonin janovi jau cuzatimunhquimun yohicanixohqui. Jato mucativo shinanquin tiirazi jato chituyovaatimunhquimun yohicanixohqui. Xanovomun vutzacun jonimun vutzahcanquihnuyamaquin jaacavizrazi jatimun yohicanixohqui.
 Jato hinaativo shinanquin sharaahi jaquizti janon jato jau cuzaquinxanhquinmun yohicanixohqui. Nutuztirazixon jaton hapon jato nichinha vohax "Naciones Unidas" tziztocohoohi voxonmun nutuztirazinoha jaton derecho jato respetaxonxahinnovo jato jau cuzaquinxanhquinmun yohicanixohqui, tzovan jato hinaati shinanquin.
 Ja jahaquin jau cuzati quirica cunuunivo ja jahaquin jau cuzanonvo jato joniya xanovo honanmatimunhcanquihnucanpu. Jaa jato nichinhai jonin jato chituyovaatimunhqui. Tzovanrivi jato hinaayamatimunhqui.

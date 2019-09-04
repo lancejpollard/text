@@ -1,6 +1,6 @@
 <h1 align='center'>Di Stetmɛnt Bɔt Di Rayt Dɛn We ɔlman na Di Wɔl Fɔ Gɛt</h1>
-<h2 align='center'>Wetin Kam Bifo (Introdɔkshɔn)</h2>
-<p align='center'>Soso we if wi sabi ɛn gri se if ɔlman gɛt insɛf yon rɛspɛkt, i ikwal ɛn gɛt di sem rayt lɛk ɛni ɔda pɔsin ɔloba di wɔl, dɛn di wanol wɔ1 sɛf go gɛt fridɔm, jɔstis ɛn pis; as tiŋ dɛn we wikɛd pasmak dɔn apin bikɔs pipul dɛm nɔ wan fɔ gri se ɔlman ikwal.
+<h2>Wetin Kam Bifo (Introdɔkshɔn)</h2>
+<p>Soso we if wi sabi ɛn gri se if ɔlman gɛt insɛf yon rɛspɛkt, i ikwal ɛn gɛt di sem rayt lɛk ɛni ɔda pɔsin ɔloba di wɔl, dɛn di wanol wɔ1 sɛf go gɛt fridɔm, jɔstis ɛn pis; as tiŋ dɛn we wikɛd pasmak dɔn apin bikɔs pipul dɛm nɔ wan fɔ gri se ɔlman ikwal.
 Di tiŋ we di kɔmɔn man want pas ɔltin na di wɔl tide na fɔ mek ɛvribɔdi ebul fɔ se wetin i fil, ɔ tink bay aw tiŋ de bi, fɔ biliv wetin i want fɔ biliv ɛn gɛt bɛnifit frɔm ɔl wetin i nid, wit kolat.
 If man fɔ liv wit kolat ɛn nɔ gɛt fɔ de fɛt fɔ in yon yon rayt, dɛn i impɔtant fɔ mek di lɔ protɛkt da rayt de;
 Na semweso i gud fɔ lɛ kolat ɛn frɛnship de bitwin neshɔn ɛn neshɔn dɛn.

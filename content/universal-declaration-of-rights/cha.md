@@ -1,6 +1,6 @@
 <h1 align='center'>UNIVERSAL NA DECLARASION I DERECHO SIHA PARA I TAOTAO</h1>
-<h2 align='center'>Preambulo</h2>
-<p align='center'>Asi como i recognision pot i inherente (natural)na dignidad yan pot i pareho yan inahenable (tisina maamot) na derechon todo i membron i humano na familia guiya i fundacion i liberta, justicia yan pas gi todo i tano.
+<h2>Preambulo</h2>
+<p>Asi como i recognision pot i inherente (natural)na dignidad yan pot i pareho yan inahenable (tisina maamot) na derechon todo i membron i humano na familia guiya i fundacion i liberta, justicia yan pas gi todo i tano.
 Asi como i dinisatende yan i denisprecia i derecho siha para i taotao manhuyon ti civilisao na finatinas siha ni esta hasen insulta i consencian i taotao yan i finato gi tano anai taotao siha umagosa i libertad kumentos, yan hinenge yan libertad gine minanao yan minalago esta maproclama como i mas takilo na aspirasion (tinanga) i comodo (regular) na taotao siha.
 Asi como necesario, yangin i taotao ti para uenebliga na uespiha recurso (hinagon), como i utimo na fandiskansayan gi rebulasion contra i crueldad yan bahacion enao na i derecho siha para i taotao umaprotehe nui arreglon i lai.
 Asi como necesario na umaadelanta i kinalanten i amestao (inamigo) na relasion siha entalo nasion siha. Asi como i taotao i Unidos Nasion siha guaha gi halom i Charter masasegura i hinegen niha gi fundamental na derecho siha para i taotao, gi dignidad yan chatbale ya i humano (taotao) na persona yan i pareho na derecho i lahe yan i palauan yan esta madetermina na umaadelanta progresson social yan mas prisocio na standard siha pot linala gi mas dankulo na libertad.

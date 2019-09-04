@@ -1,6 +1,6 @@
 <h1 align='center'>GAIRM CHOITCHEANN AIR COIRICHEAN A' CHINNE-DAONNA</h1>
-<h2 align='center'>ROI-RADH</h2>
-<p align='center'>Do bhrìgh 's gu bheil e air aideachadh gu bheil dualchas nàdarra agus còirichean neo-sgaraichte uile bhuill a' chinne-daonna na stèidh airson saorsa, ceartas agus sìth an t-saoghail,
+<h2>ROI-RADH</h2>
+<p>Do bhrìgh 's gu bheil e air aideachadh gu bheil dualchas nàdarra agus còirichean neo-sgaraichte uile bhuill a' chinne-daonna na stèidh airson saorsa, ceartas agus sìth an t-saoghail,
 Do bhrìgh 's gun do dh' adhbharaich a bhith a' cur còirichean dhaoine ann an suarachas gnìomhan borba a shàraich cogaisean, a bhith air an cleachdadh, agus gum bheil an latha air teachd anns am bi saor-labhartas, saor chreideamh agus saorsa bho eagal agus dìth air a ghairm mar àrd-mhiann an t-sluaigh choitcheann,
 Do bhrìgh 's gu bheil e uile do-sheachanta feumail - mas e nach bi an duine air a cho-èigneachadh mu dheireadh gu ceannairc a dhèanamh an aghaidh ain-tighearnas agus fòirneart gum bi còirichean an duine air an dìon tro riaghladh an lagha,
 Do bhrìgh 's gu bheil e do-sheachanta feumail cleamhnasan càirdeil a stèidheachadh eadar dùthchannan,

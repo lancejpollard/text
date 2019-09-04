@@ -1,6 +1,6 @@
 <h1 align='center'>Kom Mapu Fijke Az Tañi Az Mogeleam</h1>
-<h2 align='center'>Tuwvlzugun</h2>
-<p align='center'>("Preámbulo" pi ta wigka)
+<h2>Tuwvlzugun</h2>
+<p>("Preámbulo" pi ta wigka)
 Kimnieel fij mapu mew tañi kimgen kvme felen kisugvnew felen xvr kvme mvlen. Tvfaci zugu ñi mvleken mvleyem yamvwvn ka xvr kvme nor felen kom pu reñmawke ce mew.
 Gewenonmu yamuwvn, zuamgewenonmu kvme felen, goymagenmu nor felen mvley re jazkvnkawvn: Fey mew mvley xvrvmzugu kom pu ce tañi kvme mogeleam kisuke ñi feyentun mew, kisu ñi rakizuam mew ka ñi wimtun mew ñi mvleal egvn.
 Tañi mvlenoam kaiñetuwvn zugu, awkan zugu tvfeyci wezake vbmen egvn mvley tañi xvrvmuwael tvfeyci wvnenkvleci pu ce zugu mew tañi yamgeam xvr kvme nor felen.

@@ -1,6 +1,6 @@
 <h1 align='center'>FANGB DAB NONGD DAIL NAIX BANGF QUAIF LIT</h1>
-<h2 align='center'>Hveb Dangi Denx</h2>
-<p align='center'>Cenf rent laib zaid naix taix laix maix zenb nieef, maix pinf denx, maix quaif lit, laib nend ghax dios laib fangb dab nongd zit yef, zent yit haib hof pinf bangf jib eux.
+<h2>Hveb Dangi Denx</h2>
+<p>Cenf rent laib zaid naix taix laix maix zenb nieef, maix pinf denx, maix quaif lit, laib nend ghax dios laib fangb dab nongd zit yef, zent yit haib hof pinf bangf jib eux.
 Hxid ax bongf dail naix bangf quaif lit, gux dox naix jub, dol hfud gid nongd sail jangx dol gid niad, dol gid niad nongd sail ait bal dol naix bangf jox hvib vut, ait nend, hlib laib fangb dab nongd jangx ait nend: laix laix xangx vud diel xid ghax vud diel xid, laix laix at hvib hsent diel xid ghax hsent diel xid, laix laix hlib hot fangb dab nongd ax maix gid hxib, ax maix gid hxat, jox hvib hlib dol hfud gid nongd sail xuaib but jangx hot laix laix sail hsab hlib.
 Dail naix bangf quaif lit nongt dol faf lif baox fut, ait nend ib pid naix yens ghab lail zaid gux dox yangx id, jef ax peef buf deef yix hfaid lind dax.
 Laib laib gof jab nongt vel ait vel xit vut dax.

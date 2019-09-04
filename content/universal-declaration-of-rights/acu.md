@@ -1,6 +1,6 @@
 <h1 align='center'>MASH AINTSTI IWIAKMAU AYAMPRUMATI</h1>
-<h2 align='center'>ININTIMSAMU</h2>
-<p align='center'>Juu nunkanam aintsti ankant nuya mai metekrak warasar penker pujustin awai
+<h2>ININTIMSAMU</h2>
+<p>Juu nunkanam aintsti ankant nuya mai metekrak warasar penker pujustin awai
 nuka iniuiti mash aisttiniununa yasha atantin jeatsuái.
 Penker inintimsamka aintsti nekàchmaujai nuya timianchau inintimtakur aintsu
 penkeri nuya mai metekrak warasar pujutin emesmaji, tu asamti seamji ankant

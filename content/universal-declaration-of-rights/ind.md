@@ -1,6 +1,6 @@
 <h1 align='center'>Pernyataan Umum tentang Hak-Hak Asasi Manusia</h1>
-<h2 align='center'>Mukadimah</h2>
-<p align='center'>Menimbang bahwa pengakuan atas martabat alamiah dan hak-hak yang sama dan mutlak dari semua anggota keluarga manusia adalah dasar kemerdekaan, keadilan dan perdamaian di dunia,
+<h2>Mukadimah</h2>
+<p>Menimbang bahwa pengakuan atas martabat alamiah dan hak-hak yang sama dan mutlak dari semua anggota keluarga manusia adalah dasar kemerdekaan, keadilan dan perdamaian di dunia,
 Menimbang bahwa mengabaikan dan memandang rendah hak-hak asasi manusia telah mengakibatkan perbuatan-perbuatan bengis yang menimbulkan rasa kemarahan hati nurani umat manusia, dan terbentuknya suatu dunia tempat manusia akan mengecap kenikmatan kebebasan berbicara dan beragama serta kebebasan dari ketakutan dan kekurangan telah dinyatakan sebagai cita-cita tertinggi dari rakyat biasa,
 Menimbang bahwa hak-hak asasi manusia perlu dilindungi oleh peraturan hukum supaya orang tidak akan terpaksa memilih pemberontakan sebagai usaha terakhir guna menentang kelaliman dan penindasan,
 Menimbang bahwa pembangunan hubungan persahabatan antara negara-negara perlu digalakkan,

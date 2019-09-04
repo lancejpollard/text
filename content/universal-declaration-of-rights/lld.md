@@ -1,6 +1,6 @@
 <h1 align='center'>Detlaraziun Universala di Dërć dles Porsones</h1>
-<h2 align='center'>Pream</h2>
-<p align='center'>Deache le reconescimënt dla dignité de düć i mëmbri dla comunité dla jënt y di medemi dërć inalienabli, é la fondamënta dla liberté, dla iustizia y dla pêsc tl monn;
+<h2>Pream</h2>
+<p>Deache le reconescimënt dla dignité de düć i mëmbri dla comunité dla jënt y di medemi dërć inalienabli, é la fondamënta dla liberté, dla iustizia y dla pêsc tl monn;
 deache la manćianza de reconescimënt y le desprijamënt di dërć dles porsones à portè pro a ać de barbaria, che ofënn la cosciënza dles porsones y deache al é gnü anunzié che n monn, olache les porsones à la liberté de parora y de religiun y la liberté da tëma y meseria é la majera aspiraziun dla porsona;
 deache al va debojëgn da defëne i dërć dles porsones cun normes iuridiches a na moda che la porsona ne vëgnes nia sforzada da adorè la rebeliun sciöche ultimo meso cuntra la tirania y l’opresciun;
 deache al va debojëgn da sostignì le svilup di raporć d’amizizia danter les Naziuns;

@@ -1,6 +1,6 @@
 <h1 align='center'>Deklarasion Universal de Derechos Umanos</h1>
-<h2 align='center'>Prefasio</h2>
-<p align='center'>Konsiderando ke la libertad, la djustisia i la paz en el mundo tienen por baza el rekonosimiento de la dinyidad propia esensial i de los derechos iguales i no violavles de todos los miembros de la famiya umana,
+<h2>Prefasio</h2>
+<p>Konsiderando ke la libertad, la djustisia i la paz en el mundo tienen por baza el rekonosimiento de la dinyidad propia esensial i de los derechos iguales i no violavles de todos los miembros de la famiya umana,
 Konsiderando ke el deskonosimiento i el despresio de los derechos umanos tienen kavzado aktos de barbaridad ke solevantan la konsensia de la umanidad; i ke fue proklamado komo la aspirasion mas alta del ombre, la yegada de un mundo en el kual los umanos, liberados del espanto i de la mizeria, gozen de la libertad de la palavra i de la libertad de kreensias,
 Konsiderando ke es esensial ke los derechos umanos sean protejados por un rejimen de derecho, para ke el ombre no se veyga ovligado, komo ultimo remedio, de revoltarse kontra la tirania i la opresion,
 Konsiderando tambien ke es esensial de favorizar la formasion de relasiones de amistad entre las nasiones,

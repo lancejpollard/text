@@ -1,6 +1,6 @@
 <h1 align='center'>UMOJA WA MATAIFA OFISI YA IDARA YA HABARI TAARIFA YA ULIMWENGU JUU YA HAKI ZA BINADAMU</h1>
-<h2 align='center'>UTANGULIZI</h2>
-<p align='center'>Kwa kuwa kukiri heshima ya asili na haki sawa kwa binadamu wote ndio msingi wa uhuru, haki na amani duniani,
+<h2>UTANGULIZI</h2>
+<p>Kwa kuwa kukiri heshima ya asili na haki sawa kwa binadamu wote ndio msingi wa uhuru, haki na amani duniani,
 Kwa kuwa kutojali na kudharau haki za binadamu kumeletea vitendo vya kishenzi ambavyo vimeharibu dhamiri ya binadamu na kwa sababu taarifa ya ulimwengu ambayo itawafanya binadamu wafurahie uhuru wao wa kusema, kusadiki na wa kutoogopa cho chote imekwisha kutangazwa kwamba ndio hamu kuu ya watu wote,
 Kwa kuwa ni lazima, ili mtu asishurutizwe kuomba msaada kutokana na maasi ya kupinga dhuluma na uonevu, kwamba haki za binadamu ziwe chini ya ulinzi wa sheria,
 Kwa kuwa ni lazima kabisa kuendeleza uhusiano wa kirafiki kati ya mataifa,

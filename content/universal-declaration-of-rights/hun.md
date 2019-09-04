@@ -1,6 +1,6 @@
 <h1 align='center'>Az Emberi Jogok Egyetemes Nyilatkozata</h1>
-<h2 align='center'>Bevezető</h2>
-<p align='center'>Tekintettel arra, hogy az emberiség családja minden egyes tagja méltóságának, valamint egyenlő és elidegeníthetetlen jogainak elismerése alkotja a szabadság, az igazság és a béke alapját a világon,
+<h2>Bevezető</h2>
+<p>Tekintettel arra, hogy az emberiség családja minden egyes tagja méltóságának, valamint egyenlő és elidegeníthetetlen jogainak elismerése alkotja a szabadság, az igazság és a béke alapját a világon,
 Tekintettel arra, hogy az emberi jogok el nem ismerése és semmibevevése az emberiség lelkiismeretét fellázító barbár cselekményekhez vezetett, és hogy az ember legfőbb vágya egy olyan világ eljövetele, amelyben az elnyomástól, valamint a nyomortól megszabadult emberi lények szava és meggyőződése szabad lesz,
 Tekintettel annak fontosságára, hogy az emberi jogokat a jog uralma védelmezze, nehogy az ember végső szükségében a zsarnokság és az elnyomás elleni lázadásra kényszerüljön,
 Tekintettel arra, hogy igen lényeges a nemzetek közötti baráti kapcsolatok kifejeződésének előmozdítása,

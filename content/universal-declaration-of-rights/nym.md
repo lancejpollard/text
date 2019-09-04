@@ -1,6 +1,6 @@
 <h1 align='center'>IHANO LYA MAHANGA LYA HAKI YA BANHU</h1>
-<h2 align='center'></h2>
-<p align='center'>NGUNO Ubumanicha kubi banhu bose balin’ikujo na haki ja bulinganile hu chandyo cha kwiyagalula, kwenha haki na lubango,
+<h2></h2>
+<p>NGUNO Ubumanicha kubi banhu bose balin’ikujo na haki ja bulinganile hu chandyo cha kwiyagalula, kwenha haki na lubango,
 NGUNO ukwihugija na kuleka kulondalonga haki ja banhu huko kwenheleja mashito magakanazu ga kudacha na kumala masala banhu kukoba welelo i ya banhu bose balabi na buyegi wa kwiyagalula, kuyomba, kwinja boba na kupandika shose isho bushikobaga,
 NGUNO giki ulu abanhu bakasaziwagwa kuhaya basole mashilanga kuzitula bushimba, kulema kwibonelwa na bahanya ba nsi Ilagilo lya Nsi lilabade haki jabo,
 NGUNO kinhu kihannya hu kubejja na kukuja bunwani na nsi zingi,

@@ -1,6 +1,6 @@
 <h1 align='center'>AT TU'MALAAL KOPIB'IL TWI'YALAAL KAAWB'IL B'IX NIINB'IL</h1>
-<h2 align='center'></h2>
-<p align='center'>Tuj kyaqiil twitz tx'ot', aj tipamaal tu'n teetzat t-xileen tuj kyaanmi kyaqiil winaq, tu'nj juunx kyokleen b'ix milaay b'aj sla'jat kyxileen kyaqiil xjaal;
+<h2></h2>
+<p>Tuj kyaqiil twitz tx'ot', aj tipamaal tu'n teetzat t-xileen tuj kyaanmi kyaqiil winaq, tu'nj juunx kyokleen b'ix milaay b'aj sla'jat kyxileen kyaqiil xjaal;
 At tumalaal tu'n miti' tu'n took tajlaal b'ix tu'n miti' tb'aj yaajat kyokleen qe kyaqiil winaq kyja'tzan nb'ant tnaachal b'ix at ta'wa tuj kyxiinb'atz xjaal, kyja'tzan n'ook jun twi'yalaal yool ti'j kyxiixb'il b'ix kyajb'il qe xjaal, tu'ntzan miti' tuj kyaqiil twitz tx'otx' tchiyalaal b'ix ta'w wa'iij noqtzan tu'n kyeetzan b'i tu'n kyaachan ti'j kyyool b'ix noq alkyeex kyb'ee tuj okslab'il txi' kyi'n;
 Tuj tumalaal, aj kyokleen xjaal tu'n tkoolan aj twi'xaniil nintnam tu'n mi' kub' kyxi'man xjaal tu'n tjaaw kyjayo'n q'ooj ti'j b'eetx'b'il b'ix tnaachal wi'xan;
 Aax iil ti'j tu'n tteen xtaalb'il kyxool kyaqiil nintnam;

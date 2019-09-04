@@ -1,6 +1,6 @@
 <h1 align='center'></h1>
-<h2 align='center'>ANOYOMO</h2>
-<p align='center'>Ponente waa kewenge beye kekinani tomame inke tomamo anobay wadani bay adomonke kedamay ingimpa tomamo watape betente mono wenkaba waa kewegimpa.
+<h2>ANOYOMO</h2>
+<p>Ponente waa kewenge beye kekinani tomame inke tomamo anobay wadani bay adomonke kedamay ingimpa tomamo watape betente mono wenkaba waa kewegimpa.
 Tomenani eñenamay beye mono waomo kewenge beye tomenani ananipa
 wakete godominke entegoke beye ekame inke tomemoke nangi kebo imopa
 ante anamay inginani tomenani yekede ekame inani inke anamay inani

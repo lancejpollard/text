@@ -1,6 +1,6 @@
 <h1 align='center'>KURUDZIRO YEKUCHENGETEDZVA KWEKODZERO DZEVANHU PASI POSE</h1>
-<h2 align='center'>ZARURO</h2>
-<p align='center'>Sezvo kucherechedza hunhu nekodzero yakayenzana yomunhu wese pasi pose iriyo mviromviro yomutongero uri pachokwadi norunyararo panyika.
+<h2>ZARURO</h2>
+<p>Sezvo kucherechedza hunhu nekodzero yakayenzana yomunhu wese pasi pose iriyo mviromviro yomutongero uri pachokwadi norunyararo panyika.
 Sezvo kusatevera nekusvora kodzero dzevanhu zvakamboita kuti kuve noutsinye hwakarwadza pfungwa dzevanhu pasi pose, nokuuya kwenyika inevanhu vachafadzwa norusununguko nokutaura zvavanoda zvakapikirwa sezvinangwa zvinodiwa kuvanhu vese vese.
 Sezvo chiri chinhu chinokosha, kana munhu asingazomanikidzirwa kuita somukana wokupedzisira, kupandukira hutongi hwakaipa kana hudzvanyiriri, kuti, kodzero dzevanhu dzichengetedzwe nohutongi hwomutemo.
 Sezvo vanhu vese veMubatanidzwa weNyika, muchisununguko ichi, varatidzazve chitendero chavo mukodzero dzavanhu dzinokosha, uyewo muhunhu nohukoshi homunhu wega wega, munezvekodzero yakayenzana yavanhurume navanhukadzi, zvekare vazvishingisa kukurudzira budiriro mumagariro nokusimudzirwa kohupenyu huri nani murusununguko rwunokosha rwakawedzerwa.

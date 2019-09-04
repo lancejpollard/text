@@ -1,6 +1,6 @@
 <h1 align='center'>VERDENSERKLÆRINGEN OM MENNESKERETTIGHETENE</h1>
-<h2 align='center'>INNLEDNING</h2>
-<p align='center'>Da anerkjennelsen av menneskeverd og like og umistelige rettigheter for alle medlemmer av menneskeslekten er grunnlaget for frihet, rettferdighet og fred i verden,
+<h2>INNLEDNING</h2>
+<p>Da anerkjennelsen av menneskeverd og like og umistelige rettigheter for alle medlemmer av menneskeslekten er grunnlaget for frihet, rettferdighet og fred i verden,
 da tilsidesettelse av og forakt for menneskerettighetene har ført til barbariske handlinger som har rystet menneskehetens samvittighet, og da framveksten av en verden hvor menneskene har tale- og trosfrihet og frihet fra frykt og nød, er blitt kunngjort som folkenes høyeste mål,
 da det er nødvendig at menneskerettighetene blir beskyttet av loven for at menneskene ikke skal tvinges til som siste utvei å gjøre opprør mot tyranni og undertrykkelse,
 da det er viktig å fremme utviklingen av vennskapelige forhold mellom nasjonene,

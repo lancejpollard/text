@@ -1,6 +1,6 @@
 <h1 align='center'>Upla sut Raitka nani ba Tasba aiska laka ba Bapuia</h1>
-<h2 align='center'></h2>
-<p align='center'></p>
+<h2></h2>
+<p></p>
 <ol>
   <li>
     <p>Uplasutbakulkankalakara,airaitkananirabarapri,sin,aikuki,bakutakisa.Bamnasinslakabribaku,lukankabainpribakuaimuihnilakara,panapanatabaikankaiasa.</p>

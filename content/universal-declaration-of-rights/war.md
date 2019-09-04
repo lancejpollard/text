@@ -1,6 +1,6 @@
 <h1 align='center'>Sangkalibutan Nga Pag-Asoy Bahin Han Kanan Tawo Mga Katungod</h1>
-<h2 align='center'>Pasiuna</h2>
-<p align='center'>Tungod han pagkilal-a nga an tiunay nga dignidad ug katpong ngan diri-maiwasan nga mga katungod hadton mga kaapihan kanan tawo pamilya amo an pinatatamakan han katalwasan, hustisya kalinawan han kalibutan;
+<h2>Pasiuna</h2>
+<p>Tungod han pagkilal-a nga an tiunay nga dignidad ug katpong ngan diri-maiwasan nga mga katungod hadton mga kaapihan kanan tawo pamilya amo an pinatatamakan han katalwasan, hustisya kalinawan han kalibutan;
 Tungod han pagpasibaya ug pagbiay-biaya han kanan mga tawo katungod nga nahingadto hin mga magpakarima-dima nga mga buhat ug nakapahangit han katawhan, ug dumangat han pag-abot hin bag-o nga panahaon diin an mga katawhan magpapahimulos han ira katadungan pagyakan ug pagtuo hin waray ikahahadlok ug an katalwas tikang hin mga kabaraka ug pahingulang iginsaysay nga amo an pinakahitaas nga hingyap han mga molupyo;
 Tungod nga kinahanglan gud, agud an tawo diri mapiritan paggapil, ha iya katapusan nga paningkamot, pag-ato pagraugdauga ha iya, igan an mga katadungan han tawo panalipdan gud ha balaud;
 Tungod nga kinahanglanon gud an pagpaudway han nagtutubo nga pagkasarangkay han mga nasud;

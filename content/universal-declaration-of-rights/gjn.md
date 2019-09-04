@@ -1,6 +1,6 @@
 <h1 align='center'>DURNYAŊ KIKƐ BE KEYILI KPRA TA LAŊƐ DIMEDI KIKƐ BE KUMU SO BE ASHYEŊ NƐ MOBE KASHINTEŊ AKPA</h1>
-<h2 align='center'>ASHEŊFƐSO</h2>
-<p align='center'>Kepin nɛ kemaŋkura, dimedi be eyilikpa nɛ mobe kumu so be asheŋ e la mobe kashinteŋ nɛ eyur-wushi be egbel-tulwase.
+<h2>ASHEŊFƐSO</h2>
+<p>Kepin nɛ kemaŋkura, dimedi be eyilikpa nɛ mobe kumu so be asheŋ e la mobe kashinteŋ nɛ eyur-wushi be egbel-tulwase.
 Kedɔ nɛ kekplaŋ dimedi be kashinteŋ ere so e naa bra barkɔnɛ, a duu mfɛra lubi dimedi be kumu to, n naŋ shi nɛ durnyaŋ to dimedi bu kebaa malga yɛlyɛla, ebɔrɛshuŋ, kayeŋi-yeŋi nɛ kanyɛ kii asheŋ kpakpa so bebolpo kutɔ.
 Ku daga fanɛ awura-sheŋ be mbra ka bee kuŋ dimedi be kashinteŋ n sa maa shi nɛ eko maa kini mo barkasa nko a nyaŋ mo.
 A daga keteŋi efuli-ana be kakurwe kelepo so.

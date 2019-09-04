@@ -1,6 +1,6 @@
 <h1 align='center'>Mehen oiktuziden ühthine deklaracii</h1>
-<h2 align='center'>Preambul</h2>
-<p align='center'>Ottes homaitusehe, miše mez’kundan kaikiden ühtnikoiden arvokahuden i ühthižiden oiktuziden tundustamine oma valdan, oiktuden, mirun alandusen; i
+<h2>Preambul</h2>
+<p>Ottes homaitusehe, miše mez’kundan kaikiden ühtnikoiden arvokahuden i ühthižiden oiktuziden tundustamine oma valdan, oiktuden, mirun alandusen; i
 ottes homaitusehe, miše hondostamine i kacmatomuz’ mehen oiktuzihe tob varvaroiden tegoid, kudambad käregoitas mez’kundan mel’tundod, i mehiden suren tahton i takaindan om mugoman mirun tegend, kudambas mehil linneb sanavald, kacmusiden vald, ei linne varaidust i mairišt; i
 ottes homaitusehe, miše tarbiž mehiden oiktuded kaita zakonan valdal, sen täht, miše mehele ei pidaiži lopuks libuda tiranijan i ahthištusen vasthapäi; i
 ottes homaitusehe, miše tarbiž abutada sebrmeližiden kosketusiden kehitoitusele rahvahiden keskes; i

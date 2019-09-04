@@ -1,6 +1,6 @@
 <h1 align='center'>Deklarasi Sadunia Hak-Hak Asasi Manusia</h1>
-<h2 align='center'>Mukadimah</h2>
-<p align='center'>Sasungguahnyo pangakuan taradok martabat dasar dan hak-hak nan samo sarato mutlak dari tiok anggota kaluarga manusia adolah landasan dari kamardekaan, kaadilan dan pardamaian di dunia;
+<h2>Mukadimah</h2>
+<p>Sasungguahnyo pangakuan taradok martabat dasar dan hak-hak nan samo sarato mutlak dari tiok anggota kaluarga manusia adolah landasan dari kamardekaan, kaadilan dan pardamaian di dunia;
 Sasungguahnyo sikap tak paduli dan malecehkan hak-hak asasi manusia tabukti mangakibatkan parilaku biadab nan sangat malukoi nurani umat manusia, dan alah dicanangkannyo suatu dunia di ma tiok urang dapek manikmati kabebasan manyampaikan pandapek, bakayakinan, dan kabebasan dari raso takuik dan dari kakurangan, sabagai cito-cito paliang tinggi dari sadonyo urang;
 Sasungguahnyo supayo urang indak tapaso mamiliah barontak sabagai usaho pangabisan untuak manantang kazaliman dan panindasan, Hak-hak Asasi Manusia paralu dijamin malalui tartib hukum;
 Sasungguahnyo paralu bana mamajukan pangambangan hubuangan basahabat di antaro banso-banso di dunia;

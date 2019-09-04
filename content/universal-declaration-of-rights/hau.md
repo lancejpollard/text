@@ -1,6 +1,6 @@
 <h1 align='center'>Muhimmin Jawabin da Majalisar Ɗinkin Duniya ta bayyana game da Hakkokin Ƴan-adam a shekarar 1948</h1>
-<h2 align='center'>Gabatarwa</h2>
-<p align='center'>Ganin cewa ‘yanci da adalci da zaman lafiya ba za su girku a duniya ba, sai in an amince da cewa: dukkan ‘yan-adam suna da mutunci, kuma suna da hakkoki na kowa daidai da na kowa, waɗanda ba za a iya ƙwace musu ba,
+<h2>Gabatarwa</h2>
+<p>Ganin cewa ‘yanci da adalci da zaman lafiya ba za su girku a duniya ba, sai in an amince da cewa: dukkan ‘yan-adam suna da mutunci, kuma suna da hakkoki na kowa daidai da na kowa, waɗanda ba za a iya ƙwace musu ba,
 Ganin cewa ba abin da ya sa aka aikata abubuwa irin na lokacin jahiliyya waɗanda ke tada hankalin duniya gaba-ɗaya, illa rashin sanin hakkokin ɗan-adam da rena su. Ganin kuma cewa an bayyana cewa: muhimmin gurin da ‘yan-adam suka sa gaba shi ne, bayan sun kuɓuta daga tsananin iko da wahala, kowa ya sami damar faɗin ra'ayinsa kuma ya sa rai ga abin da zuciyarsa ta saka masa,
 Ganin cewa ya kamata a kafa hukumomi waɗanda za su kula da kiyayewa da hakkokin ‘yan-adam, ta hanyar girka dokoki, domin kada tsananin iko da danniya su yi yawa har su kai mutane ga yin kara ko yin tawaye,
 Ganin cewa ya kamata a ƙarfafa aminci tsakanin ƙasashe,

@@ -1,6 +1,6 @@
 <h1 align='center'>Luzayisu Ya Yinza Muvimba Ya Baluve Ya Muntu</h1>
-<h2 align='center'>Dyambu ya ntete</h2>
-<p align='center'>Nakutalaka ti kutambula ngenda ya binama nyonso ya dikanda na ya baluve ya bawu ya kudedakana mpe yina balenda kuyimina bawu ve ke lufulu ya kimpwanza, ya budedede mpe ya ngemba na kati ya yinza muvimba,
+<h2>Dyambu ya ntete</h2>
+<p>Nakutalaka ti kutambula ngenda ya binama nyonso ya dikanda na ya baluve ya bawu ya kudedakana mpe yina balenda kuyimina bawu ve ke lufulu ya kimpwanza, ya budedede mpe ya ngemba na kati ya yinza muvimba,
 Nakutalaka ti bunzimbu mpe mvwezolo baluve ya muntu metumisa kusala mavanga ya bunyama, yina ke dasukisaka bantu mpe na kutalaka dyaka ti nkwizulu ya yinza, sika bantu kevwandaka na kimpwanza ya kuzonza mpe ya kukwikila, sika bantu kekuluka na boma mpe na bumputu ya kulutila zababakana mutindu dikani mosi yanene ya muntu,
 Nakutalaka ti ya ke mfumu samu ti baluve ya muntu fwana kukengidilwa na luyalu yina kezitisaka misiku samu na kusala ti muntu fwana kutombuka ve ntangu nyonso na luyalu yina kezitisaka ve misiku,
 Nakutalaka ti ya ke mfumu na kukindisa nkudusulu ya kinkundi kati ya bayinsi,

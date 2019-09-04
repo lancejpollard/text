@@ -1,6 +1,6 @@
 <h1 align='center'>DÊPÄ TÎ PÖPÖKÖDÖRÖ TÎ NDIÄ TÏ BATA NENGÖ TERÊ TÏ ZO</h1>
-<h2 align='center'>TAKAPA</h2>
-<p align='center'>Na hïngängö bîanî atene nëngö terê tî zo na lïngbïngö terê tî ângangü tî lo laâ sï ayeke na gündâ tî zarä , tî nzönî ngbanga na tî sîrîrî na ndö tî dûnîa,
+<h2>TAKAPA</h2>
+<p>Na hïngängö bîanî atene nëngö terê tî zo na lïngbïngö terê tî ângangü tî lo laâ sï ayeke na gündâ tî zarä , tî nzönî ngbanga na tî sîrîrî na ndö tî dûnîa,
 Na hïngängö nî pëpëe na këngö ândiä tî bata nëngö terë tî zo laâ adü kpälë tî birä sô abi ngonzo na bê tî âhalëzo, ngâ sï gängö tî mbênî finî ködörö sô âhalëzo kûe alîngbi tî tene tënë tî bê tî âla, tî mäbê tî âla afa nî töngana taâ kötä bêkü tî âzo tî ndö tî gïgî,
 Ayeke kötä yê mîngi tî tene azî lë na ndö tî ândiä tî bata nëngö terê tî zo gï na lëngö mbênî gerê tî ndiä ndâli tî sïönî sêgbïä na lëngö pâsi,
 Na hïngängö nî atene ayeke kötä yê mîngi tî mû ngangü na mäïngö tî lëngö söngö na pöpö tî ködörö ndê ndê,

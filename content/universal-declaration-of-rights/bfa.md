@@ -1,6 +1,6 @@
 <h1 align='center'>LÖPUKÖ/LEUSA NA UNIVERSAL DECLARATION OF HUMAN RIGHTS I KUTUK NA BARI.</h1>
-<h2 align='center'>KWEJA ADI PETESI/KWEYESI TI TOĎIRI/ĎEKESI TI ŋutu I KAK BUKULUNŊ.</h2>
-<p align='center'>KWEJA ADI
+<h2>KWEJA ADI PETESI/KWEYESI TI TOĎIRI/ĎEKESI TI ŋutu I KAK BUKULUNŊ.</h2>
+<p>KWEJA ADI
 Denet nagwon adi kugga ko tojojo na ďekesi ti ŋutu liŋ nagwon bain titiki ŋutu. Kona kwe ŋutu ti mede/’baŋ logwon gwoďiet na tolien, toďiri ko taliŋ i kak ‘bukuluŋ.
 KWEJA ADI
 ‘Bakan na yenet ko laundya na toďiri na ŋutu aje jondia konesi narok nagwon aje toworja yeyesi ti ŋutu. Kona kwe ďurökin na kune ďekesi kwekindya adi anyen ŋutu liŋ ryeju tolien na jambu ko yenet ko yupet töki ko tolien akwe na kujönö ko ďekesi aje tokoro gwoso yenet duma na ŋutu i piritön ti kak.

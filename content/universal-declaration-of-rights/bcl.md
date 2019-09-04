@@ -1,6 +1,6 @@
 <h1 align='center'>Declaracion Universal nin mga derechos humanos</h1>
-<h2 align='center'>Preambulo</h2>
-<p align='center'>Huli ta an pagkamidbid kan dignidad intrinseca asin an parantay asin inalienableng mga derechos kan gabos na miembros kan familia humana iyo an fundacion nin katalinkasan , justicia asin katoninongan sa bilog na kinaban,
+<h2>Preambulo</h2>
+<p>Huli ta an pagkamidbid kan dignidad intrinseca asin an parantay asin inalienableng mga derechos kan gabos na miembros kan familia humana iyo an fundacion nin katalinkasan , justicia asin katoninongan sa bilog na kinaban,
 Huli ta an ginikanan nin mga makangirongirhat na mga gawe laban sa conciencia nin katawohan iyo an pagbalga asin pagmenos kan derechos humanos, asin ta sa pagpahayag na an pinakahalangkaw na kamawotan nin katawohan iyo an magkaigwa nin sarong kinaban na kun saen an gabos na tawo mayo nin pagkatakot asin miseria, asin igwang katalinkasan sa pagtaram asin man katalinkasan nin pagtubod,
 Huli ta mahalaga na mabantayan an derechos humanos sa irarom nin sistemang may pagkuyog sa ley, tanganing an tawo dai mapiritan na magrebelde, bilang ultimong paagi, laban sa tirania asin opresion,
 Huli ta mahalagang pakusogon an kaboronyogan nin mga naciones,

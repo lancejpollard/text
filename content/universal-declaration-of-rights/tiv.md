@@ -1,6 +1,6 @@
 <h1 align='center'>MYEE U GBAR-GBAR U AKAA A I DOO SHA CI U A ER A HANMAOR UMACE KENG KENG MAN A LU VOUGH Yô</h1>
-<h2 align='center'>Mnder</h2>
-<p align='center'>Er i fe er, icivir man mkpeiyol u ior mba ken tsombor u umace ka imaagh ki mlu u kpan ga man mer u ijir sha mimi man bem u tar cii,
+<h2>Mnder</h2>
+<p>Er i fe er, icivir man mkpeiyol u ior mba ken tsombor u umace ka imaagh ki mlu u kpan ga man mer u ijir sha mimi man bem u tar cii,
 Er se fe ser, mban u iko-iwan, man u nengen er, akaa a i doo u a er a orumace ve a lu vough la gba kwagh ga yô, ka i er a or caveraa je i kera bee orumace ga, sha nahan yô, isharen i vesen shin tar hegen yô, ka u umace cii ma ve lu a ian u ôron kwagh ken igbar, pasen jighjigh ve u nan, lun ken mlu u cian suluwa suluwa ga, shin ken ibanave kpaa ga,
 Er i doo u a nzughul a ma kweior zan zan je a hingir u vea kera fa kwagh ugenegh u vea er ga, saa u moughun num a mba ve lu nan ve ican yum la yô, hemba kan a inja u hanma tar u lu aa atindi aa a lu a iwasen sha u kuran ior mba ve lu isheer yô, sha hanma gbenda u bo cii,
 Er i lu semakwagh u kenden a mzehemen u mtem u bem bem u ityar sha won cii,

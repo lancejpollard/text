@@ -1,6 +1,6 @@
 <h1 align='center'>Universol Declarason lo Hiuman Raits</h1>
-<h2 align='center'>Preamble</h2>
-<p align='center'>Taem umi kam fo luk savve lo digniti en ikwol raits blo evri memba blo hiuman famili. Dis wan hemi givim fandasen fo friidom, jastis en pis insaed lo dis fala wol.
+<h2>Preamble</h2>
+<p>Taem umi kam fo luk savve lo digniti en ikwol raits blo evri memba blo hiuman famili. Dis wan hemi givim fandasen fo friidom, jastis en pis insaed lo dis fala wol.
 Taem pipol no luk savve lo dis fala hiuman raits, risalt blo hem nao pipol i no luk savve lo gud wei en rabis wei. Lo dis fala wol, olketa pipol sapos fo garem friidom fo tallem tingting blo olketa en wanem olketa believim. Olketa pipol sapos fo stap frii fo no fraet en fo stap gud. Olketa tingting ya hemi dea wea evri wan savve olsem hemi samting gud fo evri wan.
 Hemi impoten tumas dat nomata wanem hemi hapen, loa hemi mas mek sua dat hemi kipim strong disfala hiuman raits.
 Hemi impoten tumas fo buildim up gud fala relensensip mele wan oketa kantre.

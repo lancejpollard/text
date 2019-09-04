@@ -1,6 +1,6 @@
 <h1 align='center'>Inimõiguste ülddeklaratsioon</h1>
-<h2 align='center'>Preambula</h2>
-<p align='center'>Pidades silmas, et inimkonna kõigi liikmete väärikuse, nende võrdsuse ning võõrandamatute õiguste tunnustamine on vabaduse, õigluse ja üldise rahu alus; ja
+<h2>Preambula</h2>
+<p>Pidades silmas, et inimkonna kõigi liikmete väärikuse, nende võrdsuse ning võõrandamatute õiguste tunnustamine on vabaduse, õigluse ja üldise rahu alus; ja
 pidades silmas, et inimõiguste põlastamine ja hülgamine on viinud barbaarsusteni, mis piinavad inimkonna südametunnistust, ja et sellise maailma loomine, kus inimestel on veendumuste ja sõnavabadus ning kus nad ei tarvitse tunda hirmu ega puudust, on inimeste üllaks püüdluseks kuulutatud; ja
 pidades silmas vajadust, et inimõigusi kaitseks seaduse võim selleks, et inimene ei oleks sunnitud viimase abinõuna üles tõusma türannia ja rõhumise vastu; ja
 pidades silmas, et on vaja kaasa aidata sõbralike suhete arendamisele rahvaste vahel ja;

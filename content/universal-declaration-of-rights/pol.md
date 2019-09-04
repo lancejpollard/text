@@ -1,6 +1,6 @@
 <h1 align='center'>POWSZECHNA DEKLARACJA PRAW CZŁOWIEKA</h1>
-<h2 align='center'>Preambuła</h2>
-<p align='center'>ZWAŻYWSZY, że uznanie przyrodzonej godności oraz równych i niezbywalnych praw wszystkich członków wspólnoty ludzkiej jest podstawą wolności, sprawiedliwości i pokoju świata,
+<h2>Preambuła</h2>
+<p>ZWAŻYWSZY, że uznanie przyrodzonej godności oraz równych i niezbywalnych praw wszystkich członków wspólnoty ludzkiej jest podstawą wolności, sprawiedliwości i pokoju świata,
 ZWAŻYWSZY, że nieposzanowanie i nieprzestrzeganie praw człowieka doprowadziło do aktów barbarzyństwa, które wstrząsnęły sumieniem ludzkości, i że ogłoszono uroczyście jako najwznioślejszy cel ludzkości dążenie do zbudowania takiego świata, w którym ludzie korzystać będą z wolności słowa i przekonań oraz z wolności od strachu i nędzy,
 ZWAŻYWSZY, że konieczne jest zawarowanie praw człowieka przepisami prawa, aby nie musiał - doprowadzony do ostateczności - uciekać się do buntu przeciw tyranii i uciskowi,
 ZWAŻYWSZY, że konieczne jest popieranie rozwoju przyjaznych stosunków między narodami,

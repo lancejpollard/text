@@ -1,6 +1,6 @@
 <h1 align='center'>DECLARACION UNIVERSAL DI DERECHO HUMANO</h1>
-<h2 align='center'>Preambulo</h2>
-<p align='center'>Considerando cu reconocemento di e dignidad inherente y di e derechonan igual y inalienabel di tur miembro di famia humano ta base di libertad, husticia y paz na mundo;
+<h2>Preambulo</h2>
+<p>Considerando cu reconocemento di e dignidad inherente y di e derechonan igual y inalienabel di tur miembro di famia humano ta base di libertad, husticia y paz na mundo;
 Considerando cu indiferencia y menosprecio pa derecho humano a resulta den actonan di barbarie cu a agredi consenshi di humanidad, y cu a proclama, como e aspiracion mas halto di ser humano, binimento di un mundo den cua hende, libera di temor y di miseria, lo disfruta di libertad di palabra y libertad di creencia;
 Considerando cu ta esencial pa derecho humano ta protegi pa un regimen di derecho, a fin cu ser humano no haya su mes obliga di recuri, na ultimo instancia, na rebelion contra tirania y opresion;
 Considerando cu ta esencial pa promove desaroyo di relacion amistoso entre e nacionnan;

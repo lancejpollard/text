@@ -1,6 +1,6 @@
 <h1 align='center'>AMEGBETƆ ƑE ABLƆƉEVINYENYE ŊU KPEƉOƉZINYA</h1>
-<h2 align='center'>KPƆKPLƆYIƉEME</h2>
-<p align='center'>Esi woɖe dzesi kɔtɛe be, amegbetɔwo katã ƒe gomekpɔkpɔ sɔsɔe, anye gɔmeɖokpe na amegbetɔƒomea ƒe ablɔɖemenɔnɔ, nuteƒewɔwɔ kple ŋutiƒaƒa le xexeame ta la.
+<h2>KPƆKPLƆYIƉEME</h2>
+<p>Esi woɖe dzesi kɔtɛe be, amegbetɔwo katã ƒe gomekpɔkpɔ sɔsɔe, anye gɔmeɖokpe na amegbetɔƒomea ƒe ablɔɖemenɔnɔ, nuteƒewɔwɔ kple ŋutiƒaƒa le xexeame ta la.
 Esi eme va kɔ ƒãa be, ablɔɖevinyenye si nye amegbetɔ ɖesiaɖe tɔ la ŋu mabumabu akpɔ gbɔe wòtso be hlɔ̃nuwɔwɔ ɖe amegbetɔƒomea ŋu va bɔ ta la, amewo ƒe dzitsinya va tsi tre ɖe nuwɔna vloe sia ŋuti ale woɖe adzɔgbe heɖoe kplikpaa be, le egbe xexe sia me la, ele be amegbetɔ nanɔ agbe le ablɔɖe me, aɖe eƒe didi agblɔ ƒaa vɔvɔ manɔmee, asubɔ nusi dzi wòxɔ se, avo tso ŋɔdzidodoname si me eye hiãkame maganye agbenɔnɔ ƒe afɔklinu na ame hahoawo o ŋuti la,
 Esi woɖo kpe edzi be, ehiã be se nadzɔ Amegbetɔ ƒe Ablɔɖevinyenye ŋu Kpeɖodzinya la ŋu, be ameteteɖeto kple funyafunyawɔwɔ ame magawɔe be ame aɖeke nayi eɖokui ta ʋli gei la to aglãdzedze me o ŋuti la,
 Esi wohiã vevie be woado dukɔ kple dukɔwo dome kadodo ɖe ŋgɔ le xexemedukɔwo katã dome ta la,

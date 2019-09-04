@@ -1,6 +1,6 @@
 <h1 align='center'>Diklarason Mundial di Diritus di Pekadur</h1>
-<h2 align='center'>Introduson</h2>
-<p align='center'>Asembleia Jeral nota kuma, rikuñisimentu di dignidadi ku tudu pekaduris ten, ku se diritus igual ku ka pudi mudadu, i sedu alisersu di liberdadi, justisa ku pas na mundu;
+<h2>Introduson</h2>
+<p>Asembleia Jeral nota kuma, rikuñisimentu di dignidadi ku tudu pekaduris ten, ku se diritus igual ku ka pudi mudadu, i sedu alisersu di liberdadi, justisa ku pas na mundu;
 I nota kuma, falta di kunsi diritus di tudu jinti, o disprezu di ki diritus, i ta leba jintis pa atus brabu ku ta ofindi konsiensia di tudu pekadur; e nota tambi kuma, vison di un mundu nunde ku jinti sta libri pa papia i pa ten se fe, pa goza di libertadi di medu ku miseria, i proklamadu suma inspirason mas altu di pekadur;
 I nota kuma, i pirsis proteji diritus di tudu jinti atraves di sistema di sosiedadi di diritu, pa omi, ku falta di utru meiu, ka sinti obrigadu pa ravolta kontra otridadis ku na maltrata o kalka jinti;
 I nota kuma, i pirsis nkoraja disinvolvimentu di amisadi ku bon relasons na metadi di nasons;

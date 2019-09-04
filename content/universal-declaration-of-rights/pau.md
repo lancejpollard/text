@@ -1,6 +1,6 @@
 <h1 align='center'>KLOU EL SUBED RA LLEMALT RAR CHAD</h1>
-<h2 align='center'>URRENGUUL</h2>
-<p align='center'>Alewaisei ea klaolengei ra chemolt 'l omengull ma klaodengei ra ulterkokl el llemalt 'l ngarngii ra rogui el chedal a klou 'l talungalk rar chad a uchelel a ilmokl ma llemalt ma budech ra belulachad,
+<h2>URRENGUUL</h2>
+<p>Alewaisei ea klaolengei ra chemolt 'l omengull ma klaodengei ra ulterkokl el llemalt 'l ngarngii ra rogui el chedal a klou 'l talungalk rar chad a uchelel a ilmokl ma llemalt ma budech ra belulachad,
 Alewaisei ea omengitel ma temellel aikal llemalt rar chad a mla mukdubech a mekngit el omeruul el uchul a kngtil a rengul a belulachad, e dirrek el ngii a mle uchul a okedmeklel a belulachad el uchul ear chad a ngarngii er tir a ilmokl ra tegoi ma klemerang ma klisiich, e dirrek el mle uchul eng mekedmekl 'l kngmo a dakt ma klengerenger amo diak ra rengrir ar chad, a ikaikid amo moterkokl el kngmo ngii a got 'l klou a ultutelel ra urrungulir ar dertal chad,
 Alewaisei eng kngmal klou a ultutelel a lebol llach a mengkar aikal llemalt melak lebol luchul ear chad lebol losiik a ngeseu 'l kirel a mekngit el omengedereder ma mekngit 'l omeruul,
 Alewaisei eng kngmal klou 'l ungil al borngii a omengedmokl 'l kirel a ungil el delewill ra bek 'l beluu,

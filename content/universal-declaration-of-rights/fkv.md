@@ -1,6 +1,6 @@
 <h1 align='center'>IHMISOIKKEUSDEKLARASJUUNI</h1>
-<h2 align='center'>JOHATUS</h2>
-<p align='center'>Ko oon tunnustettu ette kaikila ihmissuvun jäseniilä oon syntymässä saatu sama arvo ja yhenlaiset oikkeuet, joista ei saata luoppuut, ja ko tämä oon vaphauen, oikkeuenmyötäisyyen ja rauhan pohja mailmassa,
+<h2>JOHATUS</h2>
+<p>Ko oon tunnustettu ette kaikila ihmissuvun jäseniilä oon syntymässä saatu sama arvo ja yhenlaiset oikkeuet, joista ei saata luoppuut, ja ko tämä oon vaphauen, oikkeuenmyötäisyyen ja rauhan pohja mailmassa,
 ko se, ette ihmisoikkeuet oon olheet vähemän tärkkeet ja ette niitä oon ylikattottu, oon saanu aikhaan barbaarissii toimii mikkä oon kauhistuttanheet mailman ihmisten ommaatunttoo, ja ko eläminen mailmassa missä oon puhheen- ja uskonvaphaus ja vaphaus pölöstä ja häästä, oon ilmoitettu kanssoin korkkeimaksi tahoksi,
 ko oon välttämätön ette laki suojaa ihmisoikkeuksii, niin ette ihmissii ei pakoiteta viimisennä konstina nousemhaan tyrannii ja alaspainamista vasthaan,
 ko oon tähelistä eesauttaat sitä ette kanssoinväliset ystävälliset suhtheet eistythään,

@@ -1,6 +1,6 @@
 <h1 align='center'>Decleraziun universala dals drets umans</h1>
-<h2 align='center'>Preambul da la decleraziun</h2>
-<p align='center'>Considerond cha la recugnuschentscha da la dignità da tuot ils commembers da la famiglia umana e da lur drets eguals ed inalienabels fuorma il fundamaint da la libertà, da la güstia e da la pasch i’l muond;
+<h2>Preambul da la decleraziun</h2>
+<p>Considerond cha la recugnuschentscha da la dignità da tuot ils commembers da la famiglia umana e da lur drets eguals ed inalienabels fuorma il fundamaint da la libertà, da la güstia e da la pasch i’l muond;
 considerond cha la scugnuschentscha ed il spredsch dals drets umans han manà ad acts da barbaria chi offendan la conscienza da l’umanità e cha la creaziun d’ün muond, i’l qual ils umans han la libertà da discuorrer e da crajer, libers da terrur e miseria, es gnüda proclamada sco l’aspiraziun suprema da l’uman;
 considerond chi’d es essenzial da proteger ils drets umans cun ledschas, per cha l’uman nu saja sforzà d’applichar sco ultim mez la revolta cunter la tirannia e l’oppressiun;
 considerond chi’d es essenzial da promouver las relaziuns amicablas tanter las naziuns;

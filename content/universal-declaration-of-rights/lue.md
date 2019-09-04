@@ -1,6 +1,6 @@
 <h1 align='center'>KUZANGA CHA KAYE HALUSESA LWA MUTU</h1>
-<h2 align='center'>KUPUTUKA</h2>
-<p align='center'>Chakutamo hakwitavila wulemu wa Lusesa lwa Mutu wosena mu chiyoyelo chenyi, Nakupwa nakuliyoyela chakuhona kupwa nawoma, kaha atela kupwa nachiyoyelo chakuwunda mu Kaye.
+<h2>KUPUTUKA</h2>
+<p>Chakutamo hakwitavila wulemu wa Lusesa lwa Mutu wosena mu chiyoyelo chenyi, Nakupwa nakuliyoyela chakuhona kupwa nawoma, kaha atela kupwa nachiyoyelo chakuwunda mu Kaye.
 Chapwa chakutamo kuhasa kukanyisa jijila jize jakuyanjisilamo Mutu, kaha makuwana nawa jijila jeka Mutu nahase kuyoyelamo muno mu Kaye mwahasa kupwa na Lusesa lwakuhasa kulihanjikila, kupwa nachinyingi chakutanga mazu akalunga mwazanga chakuhona kupwa nawoma.
 Chapwa chakutamo Mutu kuhona kumushinjila kulinga vyuma vyavipi navihasa kumuwanyisa kukaluhwa mu chiyoyelo chenyi kupwa nge jila yakukumishilako, Lushimbi lwakufwana ngana lwatela kupwako.
 Chapwa chakutamo kuneha chivwashano nawusepa mukachi kamafuchi.

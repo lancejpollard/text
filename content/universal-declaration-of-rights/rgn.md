@@ -1,6 +1,6 @@
 <h1 align='center'>DICHIARAZIOUN UNIVERSELA DI DIRET UMEN</h1>
-<h2 align='center'>PREAMBLI</h2>
-<p align='center'>Considerèd che u riconoscimènt dla dignità cla riguèrda tot i mémbri dla famèia umèna e di su dirét, cumpagn e irrinunciabli, e costitués e' fundamènt dla libertà, dla giustizia e dla pèsa te mand;
+<h2>PREAMBLI</h2>
+<p>Considerèd che u riconoscimènt dla dignità cla riguèrda tot i mémbri dla famèia umèna e di su dirét, cumpagn e irrinunciabli, e costitués e' fundamènt dla libertà, dla giustizia e dla pèsa te mand;
 Considerèd che la negazioun e el disprèz di dirét umèn i à port ma gist d'inciviltà che i ufènd la cuscinza dl'umanità, e che la cunquésta d'un mand duvè che al persouni al goda dla libertà at parola e at credo (foida) e dla libertà da la paura e da e' bsagn, l'è stè proclamèd cumè la piò granda aspirazioun dl'om;
 Considerèd che l'è indispensabli che i dirét umèn i sia difois da lègi, se u s vò evitè che l'om u sia custrèt a ricora, cumè utma pusibilità, m'la ribelioun countra la tirania e l'opresioun;
 Considerèd che l'è nicisèrii lavurè prì u svilòp ad relazioun d'amicizia tra toti al Nazioun;

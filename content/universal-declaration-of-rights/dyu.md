@@ -1,6 +1,6 @@
 <h1 align='center'>DUNYA’’ MUMƐ MƆƆGƆƆYA’’ HAKƐYAW DANTIIGƐLIIKAN</h1>
-<h2 align='center'>Kúmaɲabila</h2>
-<p align='center'>K’à mìna à mà kó dúnya’ mànton’ bɛɛ ká kan ni bònya ye, àni kó bɛɛ ká kan sàriya’ la làkika’ la, kó ò le be bɛɛ ya hɔrɔnya’ sàbati, kà bɛɛ kánya ɲásuma’ dúnya’ sìgi’ la.
+<h2>Kúmaɲabila</h2>
+<p>K’à mìna à mà kó dúnya’ mànton’ bɛɛ ká kan ni bònya ye, àni kó bɛɛ ká kan sàriya’ la làkika’ la, kó ò le be bɛɛ ya hɔrɔnya’ sàbati, kà bɛɛ kánya ɲásuma’ dúnya’ sìgi’ la.
 K’à mìna à mà kó mɔgɔya hákɛ lɔnbaliya’ ni à jàtebáliya’ nàna ni syáman ye dúnya kɔnɔ, minw kà hádamadenw dùsu’ kàsi, àni K’à mìna mà tèle kúra min bɔra, à fɔra kó kúma’ mín ká dí mín yé, ò bé ò fɔ, díina’ mín ká dí mín yé, ò bé ò kɛ, kó mɔgɔw kà síran ɲgɔn ɲá, ò bánna, kó fàgantánya júgu bánna, ò kùma’ kɛra bɛnkan ye min kɛra hamamadenw haminankoba ye,
 K’à mìna à mà kó kà mɔgɔya’ hákɛ’ látanga ní sàriya’ sìgili’ yé sèn kán, yé wájibi yé wálasa mɔgɔw kàna wájibiya kà múruti bènkánni’ kánma, àni fàngajúgu’ kánma,
 K’à mìna à mà à ká kán tériya’ yé kɛ jàmanaw ni ɲgɔn cɛ,

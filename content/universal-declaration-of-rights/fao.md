@@ -1,6 +1,6 @@
 <h1 align='center'>HEIMSYVIRLÝSING UM MANNARÆTTINDI</h1>
-<h2 align='center'>INNGANGUR</h2>
-<p align='center'>Tað verður at viðurkenna, at menniskjuni er virðing íborin, og at allir limir mannaættarinnar eiga somu ómissiligu rættindi, og hetta er støðið undir frælsi, rættvísi og friði í heiminum.
+<h2>INNGANGUR</h2>
+<p>Tað verður at viðurkenna, at menniskjuni er virðing íborin, og at allir limir mannaættarinnar eiga somu ómissiligu rættindi, og hetta er støðið undir frælsi, rættvísi og friði í heiminum.
 Har sum mannarættindini hava verið fyri vanbýti og vanvirðing, hevur tað havt við sær ræðuligar gerðir, sum hava skakað samvitsku mannaættarinnar, og ein heimskipan, har sum fólk nýtur talu- og trúarfrælsi og frælsi frá ótta og neyð, hevur verið boðað sum menniskjunar hægsta mið og mál.
 Tað varðar almikið um, mannarættindi verða vard við lógum, um fólk ikki skal verða noytt til sum evstu ráð at taka til uppreistur móti harðræði og kúgan.
 Tað varðar almikið um at elva og stimbra vinalag tióðanna millum.

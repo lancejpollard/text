@@ -1,6 +1,6 @@
 <h1 align='center'>ÃDUNIYA KULU BƆRƆ DAAMA BEIYANIYOM</h1>
-<h2 align='center'>SENNI ZIIGO</h2>
-<p align='center'>Ka simma nna buricinitɛrɛ ka n bɔrɔ ŋwɛnɛ iyaali bei nna daama duuri ka bɔrɔ fɔ su hini ka hoŋu n sɛ ya bara bɔŋɔ duuri nna laakari kaniyom ãduniya kuna,
+<h2>SENNI ZIIGO</h2>
+<p>Ka simma nna buricinitɛrɛ ka n bɔrɔ ŋwɛnɛ iyaali bei nna daama duuri ka bɔrɔ fɔ su hini ka hoŋu n sɛ ya bara bɔŋɔ duuri nna laakari kaniyom ãduniya kuna,
 Ka simma nna ka bɔrɔ daama duuri bara hɛi fɔ ka sariya hima a ma cɛruma ka bɔrɔ mɔrani nna tilaasi guruje nna mɛiyom bɛrɛkɛtɛ nna kwɛnɛ bɔrɔ futu,
 Ka simma nna naanɛ ka ãduniya zamaa sariya nyâ dam daama duuri ga buricinitɛrɛ nna bɔrɔ jirima bɔŋɔ nna kwɛnɛ daama ka a gono weibɔrɔ nna harubɔrɔ ciyom afɔ gonouom kuna,
 Ka simma nna ka binɛ a hima gɔ rɔkasinɛ hɛnnɔ ma gono ganna nna ganna ŋmaaniyo binni n hãnu kulu mɔɔjinɛ kweiyom dirɔu ga,

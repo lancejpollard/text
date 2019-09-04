@@ -1,6 +1,6 @@
 <h1 align='center'>Non ahuuacaimain huatiroquin ishon. Niaifofoan ichanancashon mato cunushonifo.</h1>
-<h2 align='center'></h2>
-<p align='center'>Manifoti ato niaifofoan ichanancashon iscahuanifo: -Nantifin yoran isharanonfo isharatiroquin. Tsoancai mato chaca huatatiroma. Non yoia cuscan nan manifoti ato tapimahuu. Cunuti pushu muranshorifin ato tapimahuu.
+<h2></h2>
+<p>Manifoti ato niaifofoan ichanancashon iscahuanifo: -Nantifin yoran isharanonfo isharatiroquin. Tsoancai mato chaca huatatiroma. Non yoia cuscan nan manifoti ato tapimahuu. Cunuti pushu muranshorifin ato tapimahuu.
 Tsoan mato paranonmafin non mato yosin sharaicai.
 Ahuua tsacatama rarama shara ninonfo ishon. Yora futsan ato chaca huanonma non rutunanmitsaimisi inonma. Ascahuashu non isharatiro. Non isharacun copiquirifin niaifofoan noco sharahuatirofoquin.
 Ascanrifin ratoranfoan yora chacahuapai ato onufain ato paranfain chacahuaifoan. Nantifinfain shinantaqui shinanfo, -Ascahuacai sharamafinquin. Nantifin yoran manifoanati ahuara shara yoipaiqui yoitirofoquin. icoinranhuapaiqui icoinranhuatiofoquin. Ascanhuacun futsan ato ratutiroma. Nan ahuuara yopaqui fipaiaiton, -Ma. Un mia inantiroma. Unuun oinmatifosi ato inantiro. Mato inantiromaran, ato huashon. Ascanhuatirofoma. Nan yopaifotifin ayarin inonfo.

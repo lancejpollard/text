@@ -1,6 +1,6 @@
 <h1 align='center'>KO E TOHI FAKAHAHA FAKA’UNIVEESI ‘O E NGAAHI TOTONU ‘A E TANGATA</h1>
-<h2 align='center'>TALATEU</h2>
-<p align='center'>Ko e me’a ‘i he mahino ko e ngeia fakaenatula pea mo e tatau mo ta’eue’ia ‘a e ngaahi totonu ‘a e kotoa ‘o e kau memipa ‘o e famili ‘o ha’a tangata ko e fakava’e ia ‘o e tau’ataina, fakamaau totonu mo e melino ‘i he mamani,
+<h2>TALATEU</h2>
+<p>Ko e me’a ‘i he mahino ko e ngeia fakaenatula pea mo e tatau mo ta’eue’ia ‘a e ngaahi totonu ‘a e kotoa ‘o e kau memipa ‘o e famili ‘o ha’a tangata ko e fakava’e ia ‘o e tau’ataina, fakamaau totonu mo e melino ‘i he mamani,
 Peako e me’a ‘i he mahino ko hono li’ekina mo ta’efaka’apa’apa’i ‘a e ngaahi totonu ‘a e tangata kuo iku ki he ngaahi ‘ulungaanga fakapapeliane ‘a ia na’a ne faka’ita’i ‘a e konisenisi ‘o e tangata pea toki a’usia ‘a e mamani ‘oku tali fiefia ai ‘ehe fa’ahinga ‘o e tangata ‘a e tau’ataina ‘o e lea, mo e tui faka’atamai pea mo e tau’ataina mei he nofo tailiili mo e nofo tukuhausia ke nau hoko ko e tumutumu ia ‘o e faka’amu ‘a e kakai fakalukufua,
 Peako e me’a ‘i he ta’etoeveiveiua ‘a e fiema’u, koe’uhi ke ‘oua na’a toe kouna ‘a e tangata, ‘i ha’ane ‘aliaki faka’osi, ke ne ngaue’aki ‘a e ‘ulungaanga angatu’u ke ne fakafepaki’i ‘aki ‘a e pule fakamalohi mo fakaaoao, ke malu’i ‘a e ngaahi totonu ‘a e tangata ‘aki ‘a e pule fakaleveleva ‘a e lao,
 Peako e me’a ‘i he fu’u fiema’u ke paotoloaki mo fakatupulekina ‘ a e ‘ulungaanga fakakaume’a ‘i he vaha’a ‘o e ngaahi pule’anga,

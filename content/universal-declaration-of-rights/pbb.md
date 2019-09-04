@@ -1,6 +1,6 @@
 <h1 align='center'>NASA YA'NWE'WEWA'TE NAA KIWETE UTA IPEHKSA YUWE'S NEWE'WEN'I WEH'A</h1>
-<h2 align='center'>C'HAB WALA KIWEPWES' PKHAKHENA ÜSC'A' NAWEK YAHK':</h2>
-<p align='center'>uyte maa nasapwe's'pa ewkwecehk üsni' pyakhna'wek kafize'he', sa' k'a'weyc'a ya'nwe'wewa'pa teec'sana'wcehk wehyuhpa ikuse'wa'mete hi'pun'i naa kiwete uta wët wëtte, eena' eena'te ya'fi'zewa'te iwehce',
+<h2>C'HAB WALA KIWEPWES' PKHAKHENA ÜSC'A' NAWEK YAHK':</h2>
+<p>uyte maa nasapwe's'pa ewkwecehk üsni' pyakhna'wek kafize'he', sa' k'a'weyc'a ya'nwe'wewa'pa teec'sana'wcehk wehyuhpa ikuse'wa'mete hi'pun'i naa kiwete uta wët wëtte, eena' eena'te ya'fi'zewa'te iwehce',
 ki' yahk'ku: sa' wa'ln'i, naa ya'nwe'wewa't'i taas'i'n'ik kapuyi'hi', maa üustepa thaameyuhthë'sa kühna, sa' nasa' naa kiwete uta peenayu' üukhna yüs yüsteme f'i'zewaha's pakwena üusta', sa' weh'yuhpa wec'ayuhte ma'we we'wewëc'apa we'wewa' hi'p, ma'wepa yaak'wa' hi'p f'i'zewa'ha's pakwena üsta' isateyu'.
 ki' naa sühk: ec ne'hwe's'suwe's' yuwema'kyuu, c'habwe's' üskiwe'n'i yuwe ma'kyuu napa nasa ya'nwe'wewa'ha's hi'pun'isa' sena äate ipe'he hi'pta'; nasa' ikahsa npicthë'we's' pk'uupa'ka kuk'thë' yuuwa'ha's pakwekamen, ükahyu v'ite yu'ceyu' ya'nwe'wewa'yu' meethäs,
 k'a'weyc'a naa sühu'k: kac'häc'ha'wa' usa', c'hab wala kiwwepwe's' d'i'p hiicehkyuuc'a ewtw f'i'zeya',

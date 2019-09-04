@@ -1,6 +1,6 @@
 <h1 align='center'>KUDITEJA CHA KAYI KEJIMA HA NSHIMBI JA WUNTU</h1>
-<h2 align='center'>PREAMBLE</h2>
-<p align='center'>Kuhitila mu kwiteja nakulemesha muntu, chakubuka kwambula chisaka cha muntu wejima munu mukayi hichikunku kwafuma kulubuka nakudimena, wusompeshi hamu na kuwunda munu mu kayi kejima.
+<h2>PREAMBLE</h2>
+<p>Kuhitila mu kwiteja nakulemesha muntu, chakubuka kwambula chisaka cha muntu wejima munu mukayi hichikunku kwafuma kulubuka nakudimena, wusompeshi hamu na kuwunda munu mu kayi kejima.
 Kubula kulondela nshimbi ja wuntu chinaleteshi kubula kutiyangana hakachi kwawantu atela kwikala na nshimbi jakudihoshela kuditongojokela chakadi kutiya nachu woma, chuma chalema mu kuhanda kwamuntu.
 Chekala chasweja kulema neyi abuli kunukanjikija nakukenga kufubukila akwawu adi na kumukakesha, ilanga muntu watela kukinge wa na nshimbi.
 Mu chitiyangenu chawaka United Nations, eteja chikuhwelelu chawu mu nshimbi ja wuntu, ekala iyala hela mubanda, nikumona nawu antu enjima anatwali kumbidi chahandilu.

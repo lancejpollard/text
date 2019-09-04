@@ -1,6 +1,6 @@
 <h1 align='center'>ENTUURA Y'OBUNTU AHA BANTU OMUNSI YOONA</h1>
-<h2 align='center'>EBYEBEMBERA (PREAMBLE)</h2>
-<p align='center'>Ekitiinisa ky'omuntu ekyobuhangwa nikiingana nobushoborozi obutakabaasa kwihwaho eka yabantu boona heza niyo ntandikirro y'oburinganiza omu nsi yoona.
+<h2>EBYEBEMBERA (PREAMBLE)</h2>
+<p>Ekitiinisa ky'omuntu ekyobuhangwa nikiingana nobushoborozi obutakabaasa kwihwaho eka yabantu boona heza niyo ntandikirro y'oburinganiza omu nsi yoona.
 Obutagyendera ahaabugabe bw'abantu burugiremi ebikorwa bibi ebisiisire emiteekatekyere y'abantu kandi okuhika ahabwire bw'abantu baraagirire obugabe bw'okugamba ekibarikwenda bakikiririza n'omu kibarikwenda bataine kibari kutiina nikyo abantu baburiijo bashemereire kurwanirira. Omuntu ku araabe atari wokugyemwa kugomera obutegyeki bubi nikimanyisa ngu obugabe bw'omuntu bushemerire kurindwa entegyeka ey'amateeka.
 Ekibiina ky'Amahanga Ageeteraine omu kihaandiiko kyakyo nikihamiza kimwe kukirikwikiriza omu magara g'obuntu nomukitiinisa n'omuhendo gwomuntu kandi kimaririra okukora ekikirikubaasa kureebeka ngu omutindo gwamagara obushoborozi n'amagara g'omuntu nikihuru munonga omu kuhikiriza ekigyendererwa kyekihandiko eki. Nahabwekyo Orukiiko Orwanahanga Ageeteraine (General Assembly) rurangirire ENTUURA Y'OBUNTU AHA BANTU OMUNSI YOONA.
 Abantu boona ahu bari ahabwokugira ekyetengo kimwe ekyamahanga goona bashemereire kwijuka ekirangiriro eki hamwe nokufayo munonga obwo barikwegyesa no kugunjura abantu kutamu ekitiinisa amagara gobuntu omunsi yoona.</p>

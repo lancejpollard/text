@@ -1,6 +1,6 @@
 <h1 align='center'>UANDAKUA JURHIMBEKUECHERI K'UIRIPUECHERI PARHAKPENI ANAPU</h1>
-<h2 align='center'>INCHAJPEKUA</h2>
-<p align='center'>Mitiparini eski jánguarhikua, jurhimbekua ka no jupiperakua parhakpeni jimbo jupikuarhisïndi jeioperakua jurhimbitku jangueri ka no ambe atarantskueri iamindu majku anapuecheri,
+<h2>INCHAJPEKUA</h2>
+<p>Mitiparini eski jánguarhikua, jurhimbekua ka no jupiperakua parhakpeni jimbo jupikuarhisïndi jeioperakua jurhimbitku jangueri ka no ambe atarantskueri iamindu majku anapuecheri,
 Mitiparini eski no eiangperakua ka isku eekua k'uiripuecheri jurhimbekua isï jimbosï xani no sesi kameraŋajti; ka uandaŋajti, eski sanderu k'eri ambe ukua k'uiripuecheri, erokakua materu jaso irekakueri engakso k'uiripuecha, jurhajkutini ia chékua ka komu jáangua, sesi marhuataakaksï uandakua ka mamaru járhati jakajkukuechani,
 Mitiparini sesimindu eski k'uiripuecheri jurhimbikuecha kuajpeŋaaka K'eri jurhimbikua jimbo, jimbokakso iso k'uiripuecha uatiksï no ambe jupikuarhini ka jauarani no sesi kamberakua jimbo,
 Mitiparini istu eski uetarisïnga etsekuni ka k'uiriperani iretecheri sesi pajperakua,

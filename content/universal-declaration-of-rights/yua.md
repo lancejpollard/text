@@ -1,6 +1,6 @@
 <h1 align='center'>U DZAʼABAL KʼAJÓOLTBIL U NOJ AʼALMAJ TʼAANIL U NAJMAL WÍINIKOʼOB</h1>
-<h2 align='center'></h2>
-<p align='center'>Tumeen u kuxtal wíinik x‐maʼa palitzilil, u chíimpoltaʼal yetel u chaʼabal u kuxtal yóokʼol kaab ich jedz óolal, tiʼ ku taal tu chíimpoltaʼal u noʼojaʼanil kuxtal sijnal yetel wíinik bey jeʼex xan sijnal u najmalmajil keet kuxtal, mixmáak unaj u luʼsik tiʼ tuláakal u wíinikil yóokʼol kaabeʼ,
+<h2></h2>
+<p>Tumeen u kuxtal wíinik x‐maʼa palitzilil, u chíimpoltaʼal yetel u chaʼabal u kuxtal yóokʼol kaab ich jedz óolal, tiʼ ku taal tu chíimpoltaʼal u noʼojaʼanil kuxtal sijnal yetel wíinik bey jeʼex xan sijnal u najmalmajil keet kuxtal, mixmáak unaj u luʼsik tiʼ tuláakal u wíinikil yóokʼol kaabeʼ,
 Tumeen yóoʼlal maʼ ojeltaʼan ku beetik u mixbaʼalkuunsaʼal u najmalil u kuxtal wíinik, dzoʼok u beetik u yúuchul seen kʼaakʼas baʼaloʼob tu táan u noʼajaʼanil u tuukul wíinik; yetel tumeen dzoʼok u yaʼalaʼal u jach nojochil baʼax ku dzíiboltik wíinikeʼ, u kajtal yóokʼol kaab tuʼux kaʼa kuxlak lukʼaʼan u sajakil yetel x‐maʼa óotzilil, kaʼa béeyak u yaʼalik baʼax ku tukultik yetel u kiliʼichkuunsik jeʼe máakalmáak Yumtzilil u kʼáateʼ,
 Tumeen tun le najmal sijnal yetel wíinik jach kʼaʼabet u boʼoybesaʼal tu yáanal jumpʼéel Noj Aʼalmaj Tʼaan, u tiʼal maʼ u beetaʼal u líikʼil wíinik baʼateʼel tumeen u talamil kuxtal yetel u nuunsaʼal,
 Tumeen ku tukultaʼal xan jach kʼaʼabet u kaxantaʼal bix uchak u bisikuba maʼalob tuláakal u kaajiloʼob yóokʼol kaab,

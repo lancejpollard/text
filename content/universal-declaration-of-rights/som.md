@@ -1,6 +1,6 @@
 <h1 align='center'>BAAQA CAALAMIGA EE XUQ WQDA AADANAHA</h1>
-<h2 align='center'>Hordhac</h2>
-<p align='center'>Iyadoo aqoonsiga sharafta uu ku dhashay iyo xuquuqda maguurtada ah ee ay u siman-yihiin dadweynaha adduunku uu yahay saldhigga xorriyada, caddaaladda iyo nabadda dunida.
+<h2>Hordhac</h2>
+<p>Iyadoo aqoonsiga sharafta uu ku dhashay iyo xuquuqda maguurtada ah ee ay u siman-yihiin dadweynaha adduunku uu yahay saldhigga xorriyada, caddaaladda iyo nabadda dunida.
 Iyadoo aqoonsi la'aanta iyo ku tumashada xuquuqda aadanuhu ay ka dhasheen falal waxashtinimo ah oo shucuurta aadanuhu ka danqato iyo iyadoo gaaritaanka duni aadanaha ku nooli haystaan xornimo ay ku cabbiraan fikradahooda iyo waxay aaminsan yihiin iyo iyagoon qabin cabsi iyo baahi, laguna dhawaaqay inay tahay ujeedada ugu weyn ee uu dadku leeyahay.
 Iyadoo ay tahay lagama maarmaan in xuquuqda aadanuhu ay noqdaan kuwo sharcigu dhowro, si uusan qofku, ugu dambeynta, ugu baahan inuu xoog kaga soo horjeesto cadaadiska.
 Iyadoo ay tahay lagama maarmaan in sare loo qaado horumarinta xiriirka saaxiibtinimo ee ka dhexeeya Dowladaha.

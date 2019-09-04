@@ -1,6 +1,6 @@
 <h1 align='center'>E'E JNA JAU LA KIO LE KÖ MUKUU KIO NIA NE KIO TSA RÜJNIA</h1>
-<h2 align='center'>NEBA LILIO</h2>
-<p align='center'>Kö.
+<h2>NEBA LILIO</h2>
+<p>Kö.
 Ejmo' chu e kio tsa makaloo̱ ne sia majmo'juis†̱̍kio mukuu sia maours e kio kalaküs ï sia juyi' tinei' kio jusó kia' kure ï tasia li ko' sasiá' kio lej†̍ tsa rü jnia tsa tio̱ jila suo.
 Tü.
 Ejmo' e sasno sia kalaküs ne sia i kï̱ ekio jusó e kio sou e kani male̷ ï mugu†̍ sia nioa e kio michii̱ kio mukuu ne e kio jua'ts ale kal†̱̍ jue'ga jmoo sañü' e ma kua kö mukuu e tiou jnia re lej†̍ tsa rüjnia, maka k†̍ y kö ne ekio tinï; Lii majï jau kiö ne jna l†̍ jäa soul li lijmo' jnia le nio jnia kio juise̷ kio.

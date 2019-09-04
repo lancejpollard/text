@@ -1,6 +1,6 @@
 <h1 align='center'>ALLMÄN FÖRKLARING OM DE MÄNSKLIGA RÄTTIGHETERNA</h1>
-<h2 align='center'>INLEDNING</h2>
-<p align='center'>Enär erkännandet av det inneboende värdet hos alla medlemmar av människosläktet och av deras lika och oförytterliga rättigheter är grundvalen för frihet, rättvisa och fred i världen,
+<h2>INLEDNING</h2>
+<p>Enär erkännandet av det inneboende värdet hos alla medlemmar av människosläktet och av deras lika och oförytterliga rättigheter är grundvalen för frihet, rättvisa och fred i världen,
 enär ringaktning och förakt för de mänskliga rättigheterna lett till barbariska gärningar, som upprört mänsklighetens samvete, och enär skapandet av en värld, där människorna åtnjuta yttrandefrihet, trosfrihet samt frihet från fruktan och nöd, kungjorts som folkens högsta strävan,
 enär det är väsentligt för att icke människan skall tvingas att som en sista utväg tillgripa uppror mot tyranni och förtryck, att de mänskliga rättigheterna skyddas genom lagens överhöghet,
 enär det är väsentligt att främja utvecklandet av vänskapliga förbindelser mellan nationerna,

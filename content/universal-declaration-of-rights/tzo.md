@@ -1,6 +1,6 @@
 <h1 align='center'>A’K’EL TA JAMAL OXIL SKOTOL LEYETIK SKOLTAOBIL SKOTOL KUXLEJEL TA SPEJEL BALUMIL</h1>
-<h2 align='center'>YOCHEBAL</h2>
-<p align='center'>Si’ch alel que kolemajel, lekilal y machlejel ta spejel balumile stsak spuersá va’ak’in si’ch a’k’el ta mu’k k’ux-elan yanetik stalel skuxijik ju jun kuxlejel ta spejel balumile.
+<h2>YOCHEBAL</h2>
+<p>Si’ch alel que kolemajel, lekilal y machlejel ta spejel balumile stsak spuersá va’ak’in si’ch a’k’el ta mu’k k’ux-elan yanetik stalel skuxijik ju jun kuxlejel ta spejel balumile.
 Ojtakinbil ilkoloetik syu’ va’k’in mu si’ch a’k’el ta mu’k’ lekil i’ch-vaile, ja’ skoj k’u sjalil oy vinik ta sba spejel balumile xa’beoj sjam i sigue xa’be hasta abile lekil i slekil tas kuxlejale, bujechuk spas skuxij sin xi’el i schu’uk stak’in i sbeel, bujechuk spas sk’opoj i spas xal i slok’es ta ye k’ute sk’an sch’une.
 Te-me si’ch a’k’el ta mu’k’ i si’ch cha’biel yanetik stalelik i skuxijik viniketik ta spejel balumile schi’uk jun mukta ley Derecho sbie ja jeche muk mu’ch’u va xok sba ta ilkoló ni ba xokbanuk.
 Si’ch k’anel que jak oyuk lekilbail schu’uk yanetikxa oxiletik nomik.

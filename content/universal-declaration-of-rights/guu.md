@@ -1,6 +1,6 @@
 <h1 align='center'>TOTIHITAWË THAMOTIMA THE Ã</h1>
-<h2 align='center'>PREÁMBULO</h2>
-<p align='center'>Enaha thë puhi taeo kuaai, wã rëamai thë, peheti he usukuwë thë, wã toprao thë kãi, hei thë pë nohi taemopou piyëkou, ĩhĩ thë pë nohi ĩhĩpimopouha totihitawë thamotima thë hami he usukuwë thë pë nohi taeayou totihitaopë,
+<h2>PREÁMBULO</h2>
+<p>Enaha thë puhi taeo kuaai, wã rëamai thë, peheti he usukuwë thë, wã toprao thë kãi, hei thë pë nohi taemopou piyëkou, ĩhĩ thë pë nohi ĩhĩpimopouha totihitawë thamotima thë hami he usukuwë thë pë nohi taeayou totihitaopë,
 Enaha thë puhi taeo kuaai, totihitawë thamotima thëni thë taimi ha, thë pë kãi shomiaprai ha, hei wãrĩtiwë thamotima thë kipi thaprarema. Komi pëmaki rë kui pëmaki kiriihou mai, pëmaki kãi no preaai mai pëmaki përihou piyëkopë, pëmaki ã topraopë, pëhetiapramotima thë pë hami.
 Enaha thë puhi taeo kuaai, totihitawë thamotima thë rë wã nosie huamotima thëni thë nohi thapopë, komi urihitheri thë pë no yuayou maõpë,
 Enaha thë puhi taeo kuaai, thë pë përihiwë rë piyëkëi thë pë puhi taamayõpë thë pë rĩmimayõpë,

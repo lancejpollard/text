@@ -1,6 +1,6 @@
 <h1 align='center'>LLAJTANCHEJNINTINPAJ QHELQESQA TUKUY RUNAJPA ATIYNINKUTA SUT'INCHASPA</h1>
-<h2 align='center'></h2>
-<p align='center'>Kaytaqa jatun tantakuypi, tukuynin llajtasmanta ujllachasqa runa qhelqerqanku, imakunachus kay pachapi atiyninghej kasqanta yachananchejpaj. Kay qhelqesqanku qhalichakurqa iskay chunka ujniyoj p'unchayllaña kasajtin waranqa jisq'on pachaj tawa chunka pusajniyoj wata tukukunanpaj.
+<h2></h2>
+<p>Kaytaqa jatun tantakuypi, tukuynin llajtasmanta ujllachasqa runa qhelqerqanku, imakunachus kay pachapi atiyninghej kasqanta yachananchejpaj. Kay qhelqesqanku qhalichakurqa iskay chunka ujniyoj p'unchayllaña kasajtin waranqa jisq'on pachaj tawa chunka pusajniyoj wata tukukunanpaj.
 Manaraj runaj atiynin imachus kasqanta rimayta qallarisasparaj, qhepallanpi qhelqesunchej imakunatachus runa masikuna qhatinanku kasqanta, tukuynejpi allin kay kawsayllapuni kananpaj.
 Munaspa tukuypaj walej kawsay kananpaj.
 Munaspa tukuy ujllachasqallapuni kawsakunankuta.

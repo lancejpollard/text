@@ -1,6 +1,6 @@
 <h1 align='center'>Mʌshelɔ Ma Aŋfəm ŋa Rʌru Ta Ʌmari Ma Rʌwuni Kəpet</h1>
-<h2 align='center'>KɅWASƏR ɅŊKAŊ</h2>
-<p align='center'>Ɔwa ta salata kʌsɔthnɛ ʌyiki a komʌnɛ aŋ fəm akəpet, ɔwa yi ʌmari məthənʌnɛ a komʌnɛ ŋa‐e, ŋa yi ʌŋgbeth ŋa rʌwankom, mʌlompi, yi mʌthɔfəl ka nɔru.
+<h2>KɅWASƏR ɅŊKAŊ</h2>
+<p>Ɔwa ta salata kʌsɔthnɛ ʌyiki a komʌnɛ aŋ fəm akəpet, ɔwa yi ʌmari məthənʌnɛ a komʌnɛ ŋa‐e, ŋa yi ʌŋgbeth ŋa rʌwankom, mʌlompi, yi mʌthɔfəl ka nɔru.
 Ɔwa, kʌ kʌlʌ agbʌp yi kʌsay ʌmari ma aŋfəm akəpet mʌ po kʌrʌ kʌdifəthʌnɛ ʌke po ləsər tʌtemp ta aŋfəm akəpet, ɔwa kə po kʌrʌ ka rʌru ʌre, pə yi naŋrʌ aŋfəm akəpet maŋba naŋ rʌwankom ra kʌfɔf, kʌtʌŋ ɛdina, kəte ba rənes kəpa ye, ʌŋe ŋʌ tha yi mʌfela ma aŋfəm akəpet thɔŋ bɛ nɔru. Ɔwa ɔ fisa ti, kʌmʌ a te gbɔndar aŋfəm rə tʌy o tʌy bɛ mə yɔ ŋa aŋ thʌnthonɛ tə kəfumpər aŋe bət ʌŋfɔsɔ mə thʌlər ŋa‐e, ɔwa tʌsoma, a yi təkə bot ɛthɔ məkunkəla ŋa‐e.
 Ɔwa a yi təkə sakəthi ʌkɛra ʌke dɛr o dɛr, təkə yɔ tʌthɔf ta rʌru bɛ təmanɛ. Ɔwa tʌsoma aŋfəm ŋa tʌthɔf bɛ aŋ wopʌnɛ ka rʌru, aŋ bot ka mʌsekrʌnɛ maŋ təkə beŋ kʌmʌ aŋ gbasi ɔfu fəlen malane ma kʌsɔŋ aŋfəm akəpet ʌmari akomʌnɛ ŋa, ka ayiki yi to wuni kəpet ɔ yi‐e, kəpa runiŋaŋi, yi bom ŋaŋ a thənanɛ. Ɔwa aŋ bɛŋ təkə səkʌ ro di rʌwankom yi mayi mʌkolo mʌ aŋfəm akəpet.
 Ɔwa rokɔm kati bɛ tʌthɔf ʌte yi ka ʌŋnənki aŋe, təsɔnɛ kəpa, tʌ tə wopanɛ rəkin yi tʌthɔf ta rʌru tək sakəthi yi kəwop ʌmari a komʌnɛ aŋfəm akəpet yi tʌwankom tʌŋ.

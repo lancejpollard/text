@@ -1,6 +1,6 @@
 <h1 align='center'>KAY PACHACHRU LAPAN RUNAKUNA WASHAKURKAANAPAQ ISKIRBISHAKUNA KAYKUNATA ISKIRBIPAAKURAA</h1>
-<h2 align='center'></h2>
-<p align='center'>Lapan runakuna chaynuyla washa kananpaqmi mana pisi rantisha runatanuy sirbichikunanpaqmi mana ima lutantas ruranakurkaananpaqmi, alipa rikanakurkaananpaqmi.
+<h2></h2>
+<p>Lapan runakuna chaynuyla washa kananpaqmi mana pisi rantisha runatanuy sirbichikunanpaqmi mana ima lutantas ruranakurkaananpaqmi, alipa rikanakurkaananpaqmi.
 Lapan runakuna chay washasha kapaakunanta mana musyarmi, mana kaasukurmi runakuna qalayapaakusha lutan ruranakuyta, ashlinakuyta, kaykunam juchakachimanchi lapan runakunata. Chaymi musyachipaakuu lapan runata mana manchakular, mana ima wanaychruusi kay pachachru kawapaakunanpaq. Jinamanmi "Rimashaq" nirqa, rimapaakunanpaq, naatan munanqanman, Diosmansi u jukmansi yupachikurkaananpaq.
 Maychru chaychruusi mandaqkuna ninakunqannuyla rurapaakunanpaq. Runankunata lutan runakunapa makinpitas washananpaq, lutan mandaqninta mana ima lutantas rurapaakunanpaq. Chaynuytaq lapan nasyunchru runakunas alipa rikanakur kawapaakunanpaq.
 Lapan nasuyunpita delgadukuna wamaqta qutukaanan junaqchruumi rimanakurkur iskirbipaakura lapan runa, warmis, olqos chaynuyla alipa rikasha kananpaq. Chaychruutan rimanakurkara runakunata ali kawayta yanapapaakunanpaq. Naatan mana pisi rantiyasha runawannuy piwansi sirbichinanpaq. Chaychruutan chay lapan nasyunkunapita qutukaq de!gadukuna ninakaraarira chay rimanakurkanqannuy yanapaanakur kawapaakunanpaqsi.

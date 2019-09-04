@@ -1,6 +1,6 @@
 <h1 align='center'>Splošna deklaracija človekovih pravic</h1>
-<h2 align='center'>Preambula</h2>
-<p align='center'>ker pomeni priznanje prirojenega človeškega dostojanstva vseh članov človeške družbe in njihovih enakih in neodtujljivih pravic temelj svobode, pravičnosti in miru na svetu;
+<h2>Preambula</h2>
+<p>ker pomeni priznanje prirojenega človeškega dostojanstva vseh članov človeške družbe in njihovih enakih in neodtujljivih pravic temelj svobode, pravičnosti in miru na svetu;
 ker sta zanikanje in teptanje človekovih pravic pripeljala do barbarskih dejanj, žaljivih za človeško vest, in ker je bila stvaritev sveta, v katerem bi imeli vsi ljudje svobodo govora in verovanja in v katerem ne bi živeli v strahu in pomanjkanju, spoznana za najvišje prizadevanje človeštva;
 ker je nujno potrebno, da se človekove pravice zavarujejo z močjo prava, da človek ne bi bil prisiljen zatekati se v skrajni sili k uporu zoper tiranijo in nasilje;
 ker je nujno potrebno pospeševati razvoj prijateljskih odnosov med narodi;

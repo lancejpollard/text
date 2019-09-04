@@ -1,7 +1,7 @@
 <h1 align='center'>Ristikanzan oigevuksien
 yhtehine deklaratsii</h1>
-<h2 align='center'>Preambula</h2>
-<p align='center'>Huomivoh ottajen, ku kaikile ristikanzoin pereheh kuulujile ominazen
+<h2>Preambula</h2>
+<p>Huomivoh ottajen, ku kaikile ristikanzoin pereheh kuulujile ominazen
 arvontunnon da niilöin taza-arvozien da jagamattomien oigevuksien
 tunnustamine on vällyön, oigevuksen da yhtehizen
 rauhan perusteh; da

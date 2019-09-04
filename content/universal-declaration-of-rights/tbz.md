@@ -1,6 +1,6 @@
 <h1 align='center'>Oniti ba we a kpenniti kutenku yanɖú</h1>
-<h2 align='center'>Yɛtanfɔtɛ yiɛ yiɛ mɛ</h2>
-<p align='center'>Ti ɖo kɛnyɛ kɛ tú ɖɛɛ te kɛ sɔkɛsɔkɛ yi bo kɛ kutenku naati tipiiti timɔũ, ɖɛ tú omɔũ yi ɖo nkɛ ɖi otɔu muwɛ̃rimu ŋo kpɛrɛ yĩnkɛ,
+<h2>Yɛtanfɔtɛ yiɛ yiɛ mɛ</h2>
+<p>Ti ɖo kɛnyɛ kɛ tú ɖɛɛ te kɛ sɔkɛsɔkɛ yi bo kɛ kutenku naati tipiiti timɔũ, ɖɛ tú omɔũ yi ɖo nkɛ ɖi otɔu muwɛ̃rimu ŋo kpɛrɛ yĩnkɛ,
 Ti ɖo kɛnyɛ̃ kɛ tú isɔkɛ ɔ̃ɔ̃ nyo di pɛitɛ koo mɔũ wee wɛ̃ntɛ kɛ nɖo bɛɛ itɛ koo wuu, kɛ yɛ̃ ti bo yĩmɛ kɛ nkari kɛ ɖɛ tinaati kɛ ti naa tiɖɔti, kɛ ba nɖe ti mɛ mba yo mɛsemmɛ, oniti ti ɖɛ ŋmanti, ɖɛɛ tú ketɛ,
 Ti ɖo kɛnyɛ̃ kɛ tú oniti nɛ oniti ŋmɛ, ti tũ mbo nɖe mu titɔbɛ, ociĩri nɖe okperi ko okperi ɖe ociĩri, kɛ yɛ̃ ɖɛmɔsikaanɖɛ kɔ̃ nɖɛ cooti yĩnkɛ,
 Ti ɖo kɛnyɛ̃ kɛ tú initi wuɔ nyimɔu ɖo kɛnkàri kɛ naati kɛyɛ̃ itɔbɛ kpɛi,

@@ -1,6 +1,6 @@
 <h1 align='center'>´SYALJI´BAL TO SPAMLEL TE BELUK AYKU´UNTIKE YU´UN JICH YA JKOLTABATIKA TE JPISILTIK WINIKOTIKE</h1>
-<h2 align='center'>XA´JCH´IBAL</h2>
-<p align='center'>Te jkich´tik ta muk´ te jkuxlejaltik ta jujun tul yu´un jich ya jkoltebatika, sok yu´un pajalotik jpisiltika yu´un jich lek ya jk´anbatika ta spamlel k´inal. Ja´ into jajch´em tulan sk´oplal ta jun, te a yich´elotikix ta wenta te bit´il ayotik jujun tul, sok te pajaluk ya yak´botik tu´untestik te beluk ay jku´untike, sok ja ya jk´antik te yakuk yak´botik jtukeltik te bit´il ya jk´antik xkuxinotike.
+<h2>XA´JCH´IBAL</h2>
+<p>Te jkich´tik ta muk´ te jkuxlejaltik ta jujun tul yu´un jich ya jkoltebatika, sok yu´un pajalotik jpisiltika yu´un jich lek ya jk´anbatika ta spamlel k´inal. Ja´ into jajch´em tulan sk´oplal ta jun, te a yich´elotikix ta wenta te bit´il ayotik jujun tul, sok te pajaluk ya yak´botik tu´untestik te beluk ay jku´untike, sok ja ya jk´antik te yakuk yak´botik jtukeltik te bit´il ya jk´antik xkuxinotike.
 Te ya jnatik stojol te ma ich´bil ta wenta sok te mayuk ta nael te snopjibal xk´uxul kot´antike ja´ ta stojol te bit´il sokemix joltik ta sba k´inal. Inte beluk albil ta june ta swenta te jlekibaltike ja´ te yakuk jmaletik ta k´inalil te lekil kuxinele, ta banti mayuk xiwel, mebal, sok ya jkaltik te beluk lek ya jkiltik te beluk ya jch´u´untike.
 Ja´me ya jk´antik te yakuk x-och ta ts´ibayel ta sunal Rerecho te beluk ya sk´an spasik te winiketike, yu´un jich ma x-ochik ta kera sok te ajwaliletike te ma lekuk yat´elike sok te ma xyak´ beluk ya jpastike.
 Ja´me jich tulan sk´oplal te lekuk ya jkilbatik sok te yan lumetike k´ejel aylane.

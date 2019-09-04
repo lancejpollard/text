@@ -1,6 +1,6 @@
 <h1 align='center'>TLAJTOLNEMILISTLI TLEN MOIJTOJTOK PARA MA KUALI TIMOUIKAKAJ IPAN NI TLALTIPAKTLI</h1>
-<h2 align='center'>KENKE YOLKI NI TLAJTOLI</h2>
-<p align='center'>Yolki, pampa ni tlatepanitalotl, ni tlasenkauajkayotl iuan ni kuali nemilistli ipan ni tlalpan, yaya ni moneki moixmatis uan monemilis, ijkinoj nochi kuali tiitstosej ika touampoyouaj.
+<h2>KENKE YOLKI NI TLAJTOLI</h2>
+<p>Yolki, pampa ni tlatepanitalotl, ni tlasenkauajkayotl iuan ni kuali nemilistli ipan ni tlalpan, yaya ni moneki moixmatis uan monemilis, ijkinoj nochi kuali tiitstosej ika touampoyouaj.
 Pampa tlaj amo tikixmatij tlatepanitalistli uan tlen kuali nemilistli ipan ni tlalpan, yeka onkatok kualantli, onkatok tlateuilistli, onkatok majmajtli uan sekinok tlamantli teixpanolistli; yeka moneki ma kuali timouikakaj ika nochi touampoyouaj, ma amo onkaj majmajyotl uan teixpanolistli; moneki ma onkaj yejyektlalistli, ma titlajtlajtokaj uan ma tijneltokakaj tlen tojuantij tijnekij tijneltokasej uan amo tlen ma topanti, kenke, pampa tijnekij ma onkaj tlatepanitalistli.
 Pampa ni tlatepanitalotl moneki ma tiyejyekokaj, ma tijchiuakaj uan ma tijmanauikaj; ma nojkia kiixmatikaj tekiuajtinij, uejueyij tekiuajtinij, ijkinoj amo onkas nopeka se akajya touampoj san tlen ueli kinekis techchiuilis, technauatis, kinekis technauatis ma tijchiuakaj se tlamantli tlen amo kuali; yeka ni tlatepanitalotl tlauel moneki ipan tonemilis ni tlalpan.
 Pampa nojkia tlauel moneki ma kuali timouikakaj, ma tielikaj keuak tiiknimej, nochi tlen tlakamej uan siuamej tlen tiitstokej ni tlalpan.

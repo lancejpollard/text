@@ -1,6 +1,6 @@
 <h1 align='center'>NDAX DEB NENB NDAS DOS LOL NTUAD</h1>
-<h2 align='center'>Lol daof ndex</h2>
-<p align='center'>Haik zos duef ndax deb nenb houd juab tinx id cuat lenx cuat dol druax jangs muax nit zunb yinx tab nil buab zhit zangd zhit dongf nit ndas dos nit chenx renf, yaos ndax deb dax zis, hof ged tab hox pinx nit ghangb das deut;
+<h2>Lol daof ndex</h2>
+<p>Haik zos duef ndax deb nenb houd juab tinx id cuat lenx cuat dol druax jangs muax nit zunb yinx tab nil buab zhit zangd zhit dongf nit ndas dos nit chenx renf, yaos ndax deb dax zis, hof ged tab hox pinx nit ghangb das deut;
 Haik zos duef nenb ndas dos nuaf zhit dluad muas tab qib dlangs qib dlend hlob hlangd dout uat shangb uat shud, dex uat shangb uat shud nad, muab ndax dex nenb nit liangx xinb shab nzhuk zhuak bual leuf; lb lob cuat lenx cuat dol sheuf muax nit ged haik fol suex shab, ged nzhes zit haib youx yol, zhit drous nchait zhit drous hef, zhit zhof chaib zhit zhof nkhek nit ndax deb yat lol zos, zhof ntuad haik uat ndax deb nenb nit zuef shab yinf vangf leuf;
 Haik zos wef zhit guas ndax deb nenb zhit doul del maof xind duef cangx baof zhenf zhif tab ghuab yuaf nzend shab nzend bleud, sheud bual uat shud, muax bix yaof guas nenb ndas dos sheuf ged jait ged lil baod fuf;
 Haik zos muax bix yaof ceub njet cuat lob gox juab ged mol ged lol zax nzhis nit hiob hlangd;

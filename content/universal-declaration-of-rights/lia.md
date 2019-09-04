@@ -1,6 +1,6 @@
 <h1 align='center'>Ku Koloŋ ko ka kuloho ko ka wɔɔ yo wɔ Kafaydo</h1>
-<h2 align='center'>Madɛnkɛtima:</h2>
-<p align='center'>Ba masimɔkɔ, yiki mɛnɛ/iŋ thiiya ba mandiŋ ka bɔnsɔŋ ba ka biya-mɛtiŋ, wuna madɛnkɛtima kuyankaŋ, thiiya iŋ mathɛbɛŋ ka faydo fooma, Ba maniyɔ maka biya-mɛti mathɔnkɔy ka bi tɔɔni namɛŋ, ba sisa thɔrɛ iŋ manakasi ka tha thukuma tha ka biya-mɛtiŋ be lukɛ ka faydo ba biŋ sisa mathɛbɛŋ in magbonkoli malɔhɔy, ka thana paliyande, wuŋ sise hɛlɛŋ thapɛŋ tha boyɛ ka biya-mɛtiŋ hutete
+<h2>Madɛnkɛtima:</h2>
+<p>Ba masimɔkɔ, yiki mɛnɛ/iŋ thiiya ba mandiŋ ka bɔnsɔŋ ba ka biya-mɛtiŋ, wuna madɛnkɛtima kuyankaŋ, thiiya iŋ mathɛbɛŋ ka faydo fooma, Ba maniyɔ maka biya-mɛti mathɔnkɔy ka bi tɔɔni namɛŋ, ba sisa thɔrɛ iŋ manakasi ka tha thukuma tha ka biya-mɛtiŋ be lukɛ ka faydo ba biŋ sisa mathɛbɛŋ in magbonkoli malɔhɔy, ka thana paliyande, wuŋ sise hɛlɛŋ thapɛŋ tha boyɛ ka biya-mɛtiŋ hutete
 Ba wuŋ kɔndɛɛ niyɔ wu lɔhɔy mɛnɛ wɔmɛti kɔndɛɛ pithita ba wundɛ hukɔthɔ ma niyɔ makanamaŋ ka muruthɛ wo fuŋ wundɛ.
 Baana sethiniyo wundɛ, thiiya ba ka wɔmɛti kɔndɛ niyɔ ka thɔŋ baŋ fooma.
 Wuŋ kɔlɔhɔ ba katiŋ tande mathimiyande ka biya-mɛti fooma ka faydo. Hugbɔŋho ka faydo fooma, ho dɔma na Unaytɛd Nesɔn, kɔsiniyɔkɔ ka kulaniya ko kolo.

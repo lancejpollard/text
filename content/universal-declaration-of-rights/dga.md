@@ -1,6 +1,6 @@
 <h1 align='center'>TENDAA NENSAABA ZAA YƐLƐSOOBO SOBIE MOƆLOO</h1>
-<h2 align='center'>A YƐLƐ YUOBO</h2>
-<p align='center'>A yeli nang bebe la, ka neɛ zaa bang ka nengsaala emmo ane o yelsoore seng la taa a nengsaala boorɔ poɔ; a nengsaala mengɛsoobo ane o yelmengɛ noba zie la binne eng-maarong ane yelmenne noba zie a tengazu.
+<h2>A YƐLƐ YUOBO</h2>
+<p>A yeli nang bebe la, ka neɛ zaa bang ka nengsaala emmo ane o yelsoore seng la taa a nengsaala boorɔ poɔ; a nengsaala mengɛsoobo ane o yelmengɛ noba zie la binne eng-maarong ane yelmenne noba zie a tengazu.
 Ka nengsaala kaa-ba-nyɛ e ka tongfaare tong ka noba banang nang taa teɛrong veɛle nyɛ posããna. A yɛlɛ ama eɛ la ka nengsaala zaa nang boɔrɔ bone ne ka ka bie tenga benee nengsaaba zaa nang so ba menne a yele yɛlɛ zaa ba nang boɔrɔ, a puoro puoru zaa ba nang boɔrɔ, a ta zoro bebiri kang nang.
 Ka a da sengɛɛ la ka anang ba fere neɛ kao e yeli nang fere o, a kũũ ne o baao poɔ ka o faa o mengɛ dɔgrong poɔ, ka ka a yelmenne tɔretero la guuro a tendaa zaa noba yɛlɛsoobo sobie.
 Ka a da sengɛɛ la ka to-ne-tɔ nɔmmo yɛle a tendaa za.

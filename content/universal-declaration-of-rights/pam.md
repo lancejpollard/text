@@ -1,6 +1,6 @@
 <h1 align='center'>Ding Pang Universung Karapatang Pantau A Miproklama Para Ipakilala</h1>
-<h2 align='center'>Yang Lalung Simple</h2>
-<p align='center'>Uling ing pamangilala king likas a karangalan at king pante at ding e alingad a karapatan ding sablang lahi ding tau iyang pundasyun na ning kalayaan, hustisiya at kapayapan king yatu.
+<h2>Yang Lalung Simple</h2>
+<p>Uling ing pamangilala king likas a karangalan at king pante at ding e alingad a karapatan ding sablang lahi ding tau iyang pundasyun na ning kalayaan, hustisiya at kapayapan king yatu.
 Dapat aintingdian ding sablang bibilug karing sablang pamilya king atin la naman karapatan kalupa ra ding aliwang tau. Anggang iti e tamu aintindian, e miral ing kalayan, hustisiya at kapayapan.
 Uling e tamu pa maie ulaga at pamanamak karing karapatang pantau mamungang pamaglapastangan labag king konsensiya da ring sablang tau, at dasan mu rin king yatu king atamasa ring tau ing kalayan king pamagsalita at pamaniwala at kalayan king pamagnasa, pamikakunu at kasakitan a iyang papakilala nang pekamatas a kapagnasan ning karaniwang tau.
 Lebagan do ring karapatang pantau ding dakal a tau. Ding gera at aliwa pang kararaptanan ilang bibie pasakit karing tau agpang king istorya at king mabilug a yatu. Ing yatu a nung nokaring ding tau atamasa ra ing karapatang magsalita nanu man ing a isip da, mamili king sarili rang kapaniwalan, at mangabiyayang alang takut at alang pamikakunu king nanu mang kaburian yang dapat mag-ing peka maulaga king keka tamung kapagnasan.

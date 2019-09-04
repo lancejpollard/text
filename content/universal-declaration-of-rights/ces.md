@@ -1,6 +1,6 @@
 <h1 align='center'>VŠEOBECNÁ DEKLARACE LIDSKÝCH PRÁV</h1>
-<h2 align='center'>Úvod</h2>
-<p align='center'>U vědomí toho,
+<h2>Úvod</h2>
+<p>U vědomí toho,
 že uznání přirozené důstojnosti a rovných a nezcizitelných práv členů lidské rodiny je základem svobody, spravedlnosti a míru ve světě,
 že zneuznání lidských práv a pohrdání jimi vedlo k barbarským činům, urážejícím svědomí lidstva, a že vybudování světa, ve kterém lidé, zbavení strachu a nouze, se budou těšiti svobodě projevu a přesvědčení, bylo prohlášeno za nejvyšší cíl lidu,
 že je nutné, aby lidská práva byla chráněna zákonem, nemá-li být člověk donucen uchylovat se, když vše ostatní selhalo, k odboji proti tyranii a útlaku,

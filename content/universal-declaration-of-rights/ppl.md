@@ -1,6 +1,6 @@
 <h1 align='center'>Munextia muchi ipal ne tehtechan tay tupal</h1>
-<h2 align='center'>AXTU PAL TIPEWAT</h2>
-<p align='center'>Weli muina ga ne tamagixti ne tuktiani wan ne nehmachnemit tik ne tahtal gipia pal tezilnah ne tay gichiwtuk tay gatka tesu genga tay maya tupal muchi ne pal tu iknuwan.
+<h2>AXTU PAL TIPEWAT</h2>
+<p>Weli muina ga ne tamagixti ne tuktiani wan ne nehmachnemit tik ne tahtal gipia pal tezilnah ne tay gichiwtuk tay gatka tesu genga tay maya tupal muchi ne pal tu iknuwan.
 Weli muina ga te gixmati wan ne tay gatka tesu datka tu patiw tal gichiwtiwit tesu tik tupal te geman inatiwit tay pal tehemet, wan inatiwit ga gichiwtiwit inatiwit ga ginetuyat gichiwat ne pewa muchi pal se techan gan ne tagamet teya mahmawit wan welit inat tay gichiwat tay yek.
 Weli muina ga pal ne tahtagamet nemi gah gipalewia gah gituktia pal gita ga ne tagat muita ga te weli yawit gah tesu gichiwa yek.
 Weli muina ga ne tehtechan pal ne tuhtumak sen nemit techan inatiwit tik ne amatageza inatiwit ga nemi tay ipal ne tagat gitaget geski tu patiw wan gan tigengat pal ne tagamet wan ne siwatket; wan inatiwit ga mu magixtihtiwit pal gitat tay gichiwat pal gipiat wan welit nemit ihtig ipal se mas patawak ipal ne tamagixti.

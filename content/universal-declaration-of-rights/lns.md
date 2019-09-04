@@ -1,6 +1,6 @@
 <h1 align='center'>Sá' Yeé Kitu Ke Nsay Yee Kùm Ghay Wìr Msòŋ</h1>
-<h2 align='center'>Shúu Fù</h2>
-<p align='center'>Mo kí dzəə̀n kì kiíyín ji viwìr ve vìr msòŋ ví dzə̀ á fómo Nyùy wùn à ji ghay ŋgàŋ seé kfəə wìr msòŋ sí dzə̀ kinsə̀ŋ ke vitaaví, suuyrú wùn à nyaáŋ é kitu ke nsay,
+<h2>Shúu Fù</h2>
+<p>Mo kí dzəə̀n kì kiíyín ji viwìr ve vìr msòŋ ví dzə̀ á fómo Nyùy wùn à ji ghay ŋgàŋ seé kfəə wìr msòŋ sí dzə̀ kinsə̀ŋ ke vitaaví, suuyrú wùn à nyaáŋ é kitu ke nsay,
 Mo tà’ntéŋ wùn à nyaáŋ fó ghay wìr msòŋé kù dìnèn ne laàyeé a dzè wo liì nyàm se kwa’ wo wù bivirin vifií vé wíri wùn à woŋ wo wíri kì kér fó a yu vijuŋ ve kisuŋnìn keé ŋgèŋgèr wùn à Biímée, a`fó a dzə là fan wùn à fo kitan ki siìn kì kiíyín ji dzə̀ á shií wo tavín wo wìr dzə̀m,
 Mo kí dzəə̀n é shií ji nsər kiŋ á ghay wìr msòŋ fo wíri shwiíy kilòŋ e wìy e rə̀r sí bì’ fo bó á yò’ dzəə̀ kér dzəə̀ yìmò’ fóo sə vitú vév fó sa’ vitaavií wùn á nə’sí,
 Mo kí dzəə̀n é shií fóo yiì é vitúm vi wáa kòŋnén,

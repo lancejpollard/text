@@ -1,6 +1,6 @@
 <h1 align='center'>HATUN WILLAY DERECHONCHISKUNAMANTA LLAPAN RUNAPAQ</h1>
-<h2 align='center'>WILLARIY IMAPAQCHA CHAY DERECHONCHISKUNA LEY</h2>
-<p align='center'>Llapanchis runakunaq runa kayninchis derechonchiskuna kan. Llapanchispapas kaq derechoyoqllan kanchis. Manan pipas qechuwaswanchu nitaq chinkachinmanchu.
+<h2>WILLARIY IMAPAQCHA CHAY DERECHONCHISKUNA LEY</h2>
+<p>Llapanchis runakunaq runa kayninchis derechonchiskuna kan. Llapanchispapas kaq derechoyoqllan kanchis. Manan pipas qechuwaswanchu nitaq chinkachinmanchu.
 Si chay derechonchiskuna reqsisqa kanqa, qawasqa kanqa, llapanchispa, chayqa hawkalla kawsasunchis, mana maqanakuspalla, nitaq cheqninakuspalla, nitaqmi qechupanakusunchu, hawkalla kasun.
 Ñawpaq watakuna, manaraq derechonchis ley reqsisqa kachaqtin, chay wakin munaysapa runakuna, qarí tuku runakuna, valiq tukukuná, chay derechonchiskunata sarusqaku, cheqnisqaku, mana valiqman tukuchisqaku. Hinaspa runa masinta waqachisqaku, k'umuchisqaku, cheqnisqaku, sipinankukama.
 Llapan runakuna munanchis chay derechonchiskunata, ima yuyayninchistapas piensasqanchistapas rimarinanchispaq, mayqen Diostapas khuyananchispaq, allin kawsakuypi tiyananchispaq, mana pitapas manchakuspa, hawka kusisqa tiyaspa kawsananchispaq.

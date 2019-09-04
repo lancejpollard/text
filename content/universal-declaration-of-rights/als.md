@@ -1,6 +1,6 @@
 <h1 align='center'>DEKLARATA E PERGJITHSHME MBI TE DREJTAT E NJERIUT</h1>
-<h2 align='center'>HYRJE</h2>
-<p align='center'>Mbasi njohja e dinjitetit të lindur të të drejtave të barabarta dhe të patjetërsueshme të të gjithë anëtarëve të familjes njerëzore është themeli i lirisë, drejtësisë dhe paqes në botë;
+<h2>HYRJE</h2>
+<p>Mbasi njohja e dinjitetit të lindur të të drejtave të barabarta dhe të patjetërsueshme të të gjithë anëtarëve të familjes njerëzore është themeli i lirisë, drejtësisë dhe paqes në botë;
 mbasi mosrespektimi dhe përbuzja e të drejtave të njeriut ka çuar drejt akteve barbare, të cilat kanë ofenduar ndërgjegjen e njerëzimit, dhe mbasi krijimi i botës në të cilën njerëzit do të gëzojnë lirinë e fjalës, të besimit dhe lirinë nga frika e skamja është proklamuar si dëshira më e lartë e çdo njeriu;
 mbasi është e nevojshme që të drejtat e njeriut të mbrohen me dispozita juridike, kështu që njeriu të mos jetë i shtrënguar që në pikën e fundit t'i përvishet kryengritjes kundër tiranisë dhe shtypjes;
 mbasi është e nevojshme që të nxitet zhvillimi i marrëdhënieve miqësore midis kombeve;

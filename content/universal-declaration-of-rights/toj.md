@@ -1,6 +1,6 @@
 <h1 align='center'>SPUKJEL YI’B’ANAL JA JAS OJ B’OB’</h1>
-<h2 align='center'>STULULAB’IL</h2>
-<p align='center'>Wax na’xi ja sijpanu’b’ali, ja lekilali sok ja lamaneli ja b’a lu’um k’inali tini wax tax-a ja yajni wax na’ji ja junotikxta-i ki’b’analtik ja b’a lu’um k’inali.
+<h2>STULULAB’IL</h2>
+<p>Wax na’xi ja sijpanu’b’ali, ja lekilali sok ja lamaneli ja b’a lu’um k’inali tini wax tax-a ja yajni wax na’ji ja junotikxta-i ki’b’analtik ja b’a lu’um k’inali.
 Wax na’xi ja yajni mi’ junxta wa la iljitiki, sok ja mi’ lek wa la iljitiki tini wax k’e’a ja niwan tsatsal k’umal-a, ja iti ja’ni sb’a oj na’xuk k’inal ke mi lekuk ja oj kijnajb’atiki; ja’yuj alub’al ke ja jas wax k’anxi-i ja b’a lu’um k’inali ja’ni sb’a mi oj ajyuk xiwel sok wokolal tixa-a oj b’ob’ kaltik ja jas wax k’anxi sok ja tuk tukil ja jas wax k’uaxi-i.
 Wax na’xi ke jel t’ilan ja jas wax b’ob’ k’ulaxuki oj ajyuk sju’unil b’a mi’ t’ilan t’enub’aluk ja swinkil ja lu’um k’inali oj sle’ oj sjome’ ja jas wax smaka yoki, ja jastal ixtalajel sok ja tuk wax ilwaniye’ ja tantik ma’tik ay scholi.
 Jel t’ilan ja tuktukil niwak chonab’ jumasa ja b’a lu’um k’inali oj skoltasb’aje sok jel ni t’ilan oj yil sb’aje lek.

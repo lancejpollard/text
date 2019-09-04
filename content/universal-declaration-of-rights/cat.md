@@ -1,6 +1,6 @@
 <h1 align='center'>Declaració Universal de Drets Humans</h1>
-<h2 align='center'>PREÀMBUL</h2>
-<p align='center'>Considerant que el reconeixement de la dignitat inherent i dels drets iguals i inalienables de tots els membres de la família humana és el fonament de la llibertat, la justícia i la pau en el món,
+<h2>PREÀMBUL</h2>
+<p>Considerant que el reconeixement de la dignitat inherent i dels drets iguals i inalienables de tots els membres de la família humana és el fonament de la llibertat, la justícia i la pau en el món,
 Considerant que el desconeixement i el menyspreu dels drets humans han originat actes de barbàrie que han ultratjat la consciència de la humanitat; i que s’ha proclamat com l’aspiració més elevada de tothom l’adveniment d’un món on els éssers humans, deslliurats del temor i la misèria, puguin gaudir de llibertat d’expressió i de creença,
 Considerant que és essencial que els drets humans siguin protegits per un règim de dret per tal que les persones no es vegin forçades, com a últim recurs, a la rebel·lió contra la tirania i l’opressió,
 Considerant també que és essencial de promoure el desenvolupament de relacions amistoses entre les nacions,

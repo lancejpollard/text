@@ -1,6 +1,6 @@
 <h1 align='center'>Declaraçón Universal di Dirêtu di Hómé</h1>
-<h2 align='center'>Pleâmbulo</h2>
-<p align='center'>Punda dignidade di tudo nguê di mundu e dirêtu d'inem igual e andeji cu a na pô bêndê fa sá stê di liberdade, di justiça e di paz ni mundu;
+<h2>Pleâmbulo</h2>
+<p>Punda dignidade di tudo nguê di mundu e dirêtu d'inem igual e andeji cu a na pô bêndê fa sá stê di liberdade, di justiça e di paz ni mundu;
 Punda fata di conheximentu e displêzu di dirêtu di hómé plovocá atu di malvadez cu ca revoltá cunxença di tudu hómé di mundu e punda ua mundu cu tudu nguê ca pô sa livli, pê pô flá e pê pô quêlê ni cuá cuê mêssê, sê mendu e sê miséria, fô ploclamadu cuma cuá maxi importanti cu hómé inventá;
 Punda ploteçón di dirêtu di hómé baseado ni ua ligime di dirêtu sá importante lumadu, pa hómé na sá obligado utilizá, cuma ultimu recurso, livolta contla tirania e opressón;
 Punda ê sá importante lumadu conselhá disenvolvimentu di amizade entre tudu téla;

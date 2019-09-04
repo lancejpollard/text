@@ -1,6 +1,6 @@
 <h1 align='center'></h1>
-<h2 align='center'>Aanhef</h2>
-<p align='center'>AANGESIEN erkenning vir die inherente waardigheid en die gelyke en onvervreembare reg van alle lede van die menslike ras die basis vir vryheid, geregtigheid en vrede in die wereld is;
+<h2>Aanhef</h2>
+<p>AANGESIEN erkenning vir die inherente waardigheid en die gelyke en onvervreembare reg van alle lede van die menslike ras die basis vir vryheid, geregtigheid en vrede in die wereld is;
 AANGESIEN minagting vir menseregte barbaarse dade wat die gewete van die mens aangetas het en die aanvang van ’n wereld waarin mense vryheid van spraak, geloof, vrees en behoefte het, gesien word as die hoogste aspirasie van die gemiddelde mens;
 AANGESIEN dit noodsaaklik is dat menseregte deur die wet beskerm word ten einde te voorkom dat mense nie gedwing gaan word om in opstand teen tirannie en onderdrukking te kom nie;
 AANGESIEN dit noodsaaklik is om die ontwikkeling van vriendelike bande tussen nasies aan te moedig;

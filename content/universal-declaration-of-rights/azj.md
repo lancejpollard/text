@@ -1,6 +1,6 @@
 <h1 align='center'>İNSAN HÜQUQLARI HAQQINDA ÜMUMİ BƏYANNAMƏ</h1>
-<h2 align='center'>PREAMBULA</h2>
-<p align='center'>Bəşər ailəsinin bütün üzvlərinə xas olan ləyaqət hissinin və onların bərabər və ayrılmaz hüquqlarının tanınmasının azadlıq, ədalət və ümumi sülhün əsası olduğunu nəzərə alaraq,
+<h2>PREAMBULA</h2>
+<p>Bəşər ailəsinin bütün üzvlərinə xas olan ləyaqət hissinin və onların bərabər və ayrılmaz hüquqlarının tanınmasının azadlıq, ədalət və ümumi sülhün əsası olduğunu nəzərə alaraq,
 insan hüquqlarına etinasızlıq və nifrətin bəşəriyyəti dəhşətə gətirən barbarizm hərəkətlərinə səbəb olduğunu və insanların söz və etiqad azadlığına malik, qorxu və ehtiyacdan azad olduqları dünyanın yaradılmasının bəşəriyyətin ən ali istəyi olduğunu nəzərə alaraq,
 insanın son vasitə kimi istibdad və zülmə qarşı qiyama qalxmağa məcbur olmamasını təmin etmək üçün insan hüquqlarının qanunun hakimiyyəti ilə müdafiə olunmasının zəruriliyini nəzərə alaraq,
 xalqlar arasında mehriban münasibətlərin inkişafını dəstəkləməyin vacibliyini nəzərə alaraq,

@@ -1,6 +1,6 @@
 <h1 align='center'>FASWIRI HA LUGHA YA SHIMAORE YA MUTEKELEZEO WA SHI ULEMENGU WA ZIHAKI ZA MWANADAMU (HAKI-L-ADAMI)</h1>
-<h2 align='center'>DAIƁADJI (MUKADDIMA)</h2>
-<p align='center'>Ha uwafiki amba mukuɓalio wa sheo wahuswiana na watru piya wapanga udjama wa shi ɓinadamu, na wa zihaki zao zilio sawa wala kazitriliha rahani, urendreha ɗe musingi wa unafasi,na wa haki, na wa amani hari mwa lidunia ;
+<h2>DAIƁADJI (MUKADDIMA)</h2>
+<p>Ha uwafiki amba mukuɓalio wa sheo wahuswiana na watru piya wapanga udjama wa shi ɓinadamu, na wa zihaki zao zilio sawa wala kazitriliha rahani, urendreha ɗe musingi wa unafasi,na wa haki, na wa amani hari mwa lidunia ;
 Ha uwafiki amba muharalio na mupuzisio wa zihaki za mwanadamu zitsongesha mufanyishio wa zitrendrwa za shi ukatili zikao amba zitsotso fikira ya unadamu, arudi mujilio wa ulemengu ukao amba ziumbe ɓinadamu watsokana nafasi ya ulagua na ya uamini, amba wapukamana na trisidzo na usikini, ɓasi mujilio uwo utrangiziwa mauri ɗe mataradjio maɓole kaɓisa ya mwanadamu ;
 Ha uwafiki amba irendreha muhimu zihaki za mwanadamu zihafadhwiwe na sirikali ya haki ile pare mwanadamu asulazimishihe, ha udzidailia, arumie shombo ndziro ya uwana kinyume na upeu, na unyonyozi ;
 Ha uwafiki amba irendreha muhimu mutrilio-shime wa mwendreleombeli wa mingiliano ya shi uwandzani ɓaina ya matwaifa ;

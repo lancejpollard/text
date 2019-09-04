@@ -1,6 +1,6 @@
 <h1 align='center'>PERISYTIHARAN HAK ASASI MANUSIA SEJAGAT</h1>
-<h2 align='center'>MUKADDUMAH</h2>
-<p align='center'>Bahawasanya pengiktirafan keutuhan kemuliaan dan hak samarata serta asasi yang tak terpisah bagi seluruh umat manusia adalah asas kebebasan,keadilan dan kedamaian dunia.
+<h2>MUKADDUMAH</h2>
+<p>Bahawasanya pengiktirafan keutuhan kemuliaan dan hak samarata serta asasi yang tak terpisah bagi seluruh umat manusia adalah asas kebebasan,keadilan dan kedamaian dunia.
 Bahawasanya pengabaian serta penghinaan terhadap hak asasi manusia telah pun mengakibatkan tindakan terkutuk yang telah melanggari perasaan hati umat manusia, dan munculnya sebuah dunia di mana manusia akan menikmati kebebasan berucap dan menganut kepercayaan serta kebebasan dari rasatakut dan citarasa telah pun diisytiharkan sebagai aspirasi toragung seluruh umat manusia.
 Sekiranya kita tidak mahu mendorong manusia dalam keadaan terdesak, sebagai pilihan terakhir, memberontak mementang kezaliman serta penindasan, maka adalah penting bagi hak asasi manusia dipertahankan oleh kedaulatan undang-undang.
 Bahawasanya adalah penting bagi memajukan perkembangan perhubungan persahabatan di antara negara-negara.

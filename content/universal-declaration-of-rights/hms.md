@@ -1,6 +1,6 @@
 <h1 align='center'><<ghad bob did doub nangd renl njanl xand yanl>></h1>
-<h2 align='center'>kit doux nangd daot</h2>
-<p align='center'>Ad leb ghad bob did doub nend, leb leb seat mex zend yanl gaot nianb lib, zenx renb baob nend nis ad leb ghad bob did doub nend zib youl, zhenb yib gaot hol nbinl nangd jid cut.
+<h2>kit doux nangd daot</h2>
+<p>Ad leb ghad bob did doub nend, leb leb seat mex zend yanl gaot nianb lib, zenx renb baob nend nis ad leb ghad bob did doub nend zib youl, zhenb yib gaot hol nbinl nangd jid cut.
 Jex zenx renb gaot wud miel renl njanl nangd sib nis yex manl nangd, leb leb sat jid nkiand mex ad leb max raot nangd, yanb senb ghob nhangb senb ghob nhangb nangd ghad bob did doub.
 Weib ghad mangs gangs doub nex nangd nex jex mex banb huat send hox chead mongl gaot zhenb fut jid beux jid dat, boub lies geud ful zhib lol baot hub renl njand.
 Lies gangs ghad bob did doub nangd guel giad jid khaob jid raot.

@@ -1,6 +1,6 @@
 <h1 align='center'>PEUNYATAAN UMUM TEUNTANG HAK ASASI MANUSIA</h1>
-<h2 align='center'>Mukadimah</h2>
-<p align='center'>Ta bileung‐bileung ranub lam puan han tok deulapan di dalam raga ta timang‐timang Peunyataan Umum nyan na tujoh bilangan paleng utama;
+<h2>Mukadimah</h2>
+<p>Ta bileung‐bileung ranub lam puan han tok deulapan di dalam raga ta timang‐timang Peunyataan Umum nyan na tujoh bilangan paleng utama;
 Teuseubot bak phon “martabat alamiah” hak nyang pantaih makheulok manusia hak‐hak nyang saban dan muteulak sah teumpat teumeuduk “kemerdekaan, keadilan, perdamaian dunia”;
 Suai kedua nyang ditimang‐timang dipandang hana yum oreung abeihna leu that buet awak nyan lagee binatang beungeh meuradang hatee manusia;
 Rasa teumakot tiep uroue sabee udep ngon matee hana leu bida hoe hoe nyang tajak hana bebah lee sang donya nyoe ka akhee tamong neuraka meubacut na yum di nyawong ureung peupeu meulinteung dilaboih saja nyang keuh seubab nyan hai teungku piyeung seurata ureung haroik merdeka;

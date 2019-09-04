@@ -1,6 +1,6 @@
 <h1 align='center'>dunya kishilik hoquqi xitabnamisi</h1>
-<h2 align='center'>söz béshi</h2>
-<p align='center'>insanlar ailisining barliq ezalirining özige xas izzet-hörmitini shuningdek ularning barwer we tewrenmes hoquqini etrap qilishning dunyawi erkinlik, heqqaniyet we tinchliqning asasi ikenliki.
+<h2>söz béshi</h2>
+<p>insanlar ailisining barliq ezalirining özige xas izzet-hörmitini shuningdek ularning barwer we tewrenmes hoquqini etrap qilishning dunyawi erkinlik, heqqaniyet we tinchliqning asasi ikenliki.
 kixilik hoquqigha étibarsiz qarash we haqaret kelturush ewj élip kixilerning wijdanini bulghaydighan yawuz zorawanliqqa aylan'ghanliqi, hemme adem söz erkinliki we étikad erkinlikidin behrimen bolidighan hemde wehime we namratliqtin xaliy bolidighan dunyaning yetip kélishi addiy xelqning aliy arzusi dep élan qilin'ghanliqi.
 insanlarning ilajisizliqtin zorawanliq we zulum ustide isyan köturimiz dep tewekkulige heriket qilip yurmesliki üchün, kishilik hoquqini qanun arqiliq idare qilish yoli bilen qoghdash zörür bolghanliqi,
 döletler ara dosttluq munasiwetning tereqqiyatini algha sürüsh zörürluki.

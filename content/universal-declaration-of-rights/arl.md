@@ -1,6 +1,6 @@
 <h1 align='center'>PUETUNU PUEYAPUEECUARAJANAA NIYA NAAJIOSAAREE TAA PA MIISHIYANI</h1>
-<h2 align='center'>Taricua pa Niishishano</h2>
-<p align='center'>Paa niishiyani: puetunu pajaniyajanaa cartesano quiniu paniyani maninia pa quinuria. Paa maninia jiitiasano quiniu paniyani. Paa juhuajaniya quiniu paniyani. Maja pa miaquetoonu paniniu. Pocua naa quiri paa jaara rerequeteyaquiri tamasaca, paa jaara mariyata maninia miitioya puetunujuanaa.
+<h2>Taricua pa Niishishano</h2>
+<p>Paa niishiyani: puetunu pajaniyajanaa cartesano quiniu paniyani maninia pa quinuria. Paa maninia jiitiasano quiniu paniyani. Paa juhuajaniya quiniu paniyani. Maja pa miaquetoonu paniniu. Pocua naa quiri paa jaara rerequeteyaquiri tamasaca, paa jaara mariyata maninia miitioya puetunujuanaa.
 Paa niishiyani: pueya jaara jiyaniquiaari tamasaca pueya maja maninia miishiya juhua narta pueya, nojori jiyanohua sesa na miiquiaari. Maninia pueyari shiriiquirii na niishishacari taa naquiya miishariquiaa tamasaca pueya. Pueya jaara sesa niishiyajaa naa, maja pa naata quiniu maninia mijiria. Jiyocua pa quishacari, pajaniya juhuajaniya quiniu paniyani. Paa cartesano quiniu paniyapa sequenura casaa pa sequenu paniyani, pa shipininiapa tojiniuria taa pa niishiyani. Paa cartesano quiniu paniyani pa puerenuucuaji, pa miaajenuucuajinio.
 Paa niishiyani: pueya cuaara maninia jiitiasaaria maninia rootasanota pueya mariqui miaquetooreeri tamonu jaara sesa na jiitiaa, mariyata pueya jaara maja na naata na panishano masenu.
 Paa niishiyani: pueya cuaara jiyano¿tioora tamonu jiyajinia quiniaa, juhuajaniya pa quiniuria jiyocua.

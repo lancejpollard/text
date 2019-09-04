@@ -1,6 +1,6 @@
 <h1 align='center'>PORAUSENAPAN AN ARAMAS RAIT</h1>
-<h2 align='center'>POPUN AN MAK EI PORAUS</h2>
-<p align='center'>Pokiten kich mei sinei pwe popunapen pung me kinamwe non fonufan a popuseni ukukun ach miriti nonnofengenin an aramas meinisin rait,
+<h2>POPUN AN MAK EI PORAUS</h2>
+<p>Pokiten kich mei sinei pwe popunapen pung me kinamwe non fonufan a popuseni ukukun ach miriti nonnofengenin an aramas meinisin rait,
 Pokiten a fen fis chommong fitikoko ren an akkaemon aramas atai an pwan ekkoch aramas rait nge kich mi fen sinei pwe aramasen unusen fonufan mi wesewesen mochen pwe repwe kinamwe non ar kewe rait,
 Pokiten mi auchea an aramas rait me non annuk an esap wor ariaffou are an esap wor emon epwe ariaffoua pwan emon,
 Poikiten mi fakkun namot an mu me mu repwe tongofengen,

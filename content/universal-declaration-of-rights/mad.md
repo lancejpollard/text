@@ -1,6 +1,6 @@
 <h1 align='center'>PARNYATAAN OMOM PARKARA HAK-HAK ASASI MANOSSA</h1>
-<h2 align='center'>MUKADDIMAH</h2>
-<p align='center'>Saestona pangakowan drajat secara koddrat klaban hak se dha-padha sareng muttlak dhari sadajana anggota kaluwarga manossa enggi panika dasar dhari kamardikaan, keadilan sareng perdamaian e dunnya.
+<h2>MUKADDIMAH</h2>
+<p>Saestona pangakowan drajat secara koddrat klaban hak se dha-padha sareng muttlak dhari sadajana anggota kaluwarga manossa enggi panika dasar dhari kamardikaan, keadilan sareng perdamaian e dunnya.
 Saestona manabi tak agateyagi sareng nganggep enteng hak-hak epon manossa badhi adaddiyagi kalakowan-kalakowan bengges se bisa mapeggel ate nuraniepon umat manossa; wujudepon settong dhunnya, palenggiyanna manossa se badhi arassaagi kenikmatan, kebebasan angocappagi pamanggi ban keyakinan sareng kebebasan dhari rassa tako' ban kemeskenan ampon daddi pernyataan aspirasi paleng tenggi dhari sadajana ra'yat biyasa.
 Saestona hak-hak manossa parlo e naonge kalaban peratoran hukum, sopaja oreng ta' kapaksa mele jalan berontak menangka cara paleng akher kaanguy alaban kedholiman sareng penjajahan.
 Saestona ce' parlona mamajuagi hubungan kakancaan eanterona nagara-nagara.

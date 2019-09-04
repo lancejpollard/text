@@ -1,6 +1,6 @@
 <h1 align='center'>A ÑUCAMA SINANXUN CA AXA ANU TIMËCË UNICAMAN ËSAQUIN CAXA:</h1>
-<h2 align='center'>A PAIN SINANCË BANA</h2>
-<p align='center'>CAMAXUNBI CA 'UNANIA: Camabi uni ca bëtsibë sënën 'icë quixun camaxunbi 'unancë 'aish ca camabi uni, uni itsin racueocema 'janan cëmei ami mananquin 'atimocëna 'aish chúamarua bucuti 'icën.
+<h2>A PAIN SINANCË BANA</h2>
+<p>CAMAXUNBI CA 'UNANIA: Camabi uni ca bëtsibë sënën 'icë quixun camaxunbi 'unancë 'aish ca camabi uni, uni itsin racueocema 'janan cëmei ami mananquin 'atimocëna 'aish chúamarua bucuti 'icën.
 CAMAXUNBI CA 'UNANIA: Camabi uni ca bëtsibë sënën 'icë quixun sinanti 'ainbi ca an usaquin sinancëma unicaman an sinancëx a meu 'icë uni 'aisamaira tëmëramianan paë tanmiquin 'atimoia, uni raíri usoquin uni 'ati ca 'aisama 'icë quicëbëtanbi. Usaquin bëtsi uní 'ati cuëënima ca camabi uni ësai iti 'icën: añu ñu ñui cara banaia a cupí ubíocëma ití, 'ianan añu ñu cara sinania a cupí ubíocëma 'iti, 'ianan añu cara pisa tania pianan ain cuëëncë ñu bianan uinu cara 'isa tania anu 'iabi ca bëtsi uní unin racuëotima icën.
 CAMAXUNBI CA 'UNANIA: Gobiernocaman uni upitax bucunun quixun bana mëniocëma 'ain tëmëraquin ca unicaman masá nuituquin ain 'apumibí nishi 'acananti sinanti 'icën.
 CAMAXUNBI CA 'UNANIA: Camabi netenu 'icë unicama ubíocëma 'aish chúamarua 'inun ca camabi nëtënu 'icë gobiernobë ain unicamaribi bëtsi gobierno 'imainun ain unicamabë nishananima upí iti 'icën.

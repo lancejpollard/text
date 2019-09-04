@@ -1,6 +1,6 @@
 <h1 align='center'>ADASAMMA YIEDIE HO ANODISƐM</h1>
-<h2 align='center'>NNIANIMU</h2>
-<p align='center'>Ɛsiane sɛ adasamma ahunu sɛ, yɛsusu onipa, bu no, di no ni a, ɛbɛma ahofadie, atɛntenenee ne asomdwoeɛ ase atim wɔ wiase yi mu nti,
+<h2>NNIANIMU</h2>
+<p>Ɛsiane sɛ adasamma ahunu sɛ, yɛsusu onipa, bu no, di no ni a, ɛbɛma ahofadie, atɛntenenee ne asomdwoeɛ ase atim wɔ wiase yi mu nti,
 Ɛsiane sɛ atuateɛ ne obuo a wɔammu adasamma yiedie yi de anitan ne atirimuɔden baeɛ, na abɛhwanyane nnipa ahonim de asetena foforɔ aba, ama nnipa ani aba wɔn ho so sɛ wɔwɔ ho kwan sɛ wɔka wɔn adwene a ehu biara nni mu, na wɔwɔ ho kwan sɛ wɔyɔ adwuma na ɛnhia wɔn, na ɛsiane sɛ wɔapae mu aka ato dwa sɛ yei ne nnipa anidasoɔ titre nti,
 Ɛsiane sɛ, ɛnsɛ sɛ ɛba no sɛ obi de ahomteɛ bɛyɛ nneyɛɛ bi a ɛyɛ nneyɛɛ a ɛtwa toɔ koraa, a onii bɛtumi afa so de ako atia anitan ne ahupoo, berɛ a mmara bɔ adasamma yiedie anodisɛm ho ban nti,
 Ɛsiane sɛ ɛho hia sɛ nnamfofa ba aman ahodoɔ ntam nti,

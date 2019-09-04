@@ -1,6 +1,6 @@
 <h1 align='center'>NZA-NGYAMUKUSU WU MISWA MI MUTU</h1>
-<h2 align='center'>THONONO</h2>
-<p align='center'>Mu kibila ti luzabu lu nswa lu woso mutu, mkwa dikanda di bumutu, luidi mbandu kimpwanza, mbandu budedi ayi mbandu ndembama va ntoto;
+<h2>THONONO</h2>
+<p>Mu kibila ti luzabu lu nswa lu woso mutu, mkwa dikanda di bumutu, luidi mbandu kimpwanza, mbandu budedi ayi mbandu ndembama va ntoto;
 Mu kibila ti bunzimbu ayi lulenzo lu miswa mi bumutu binnatanga ku phangulu mavanga manbayuwanga ku tsi-ntima bumutu, ayi mu kutala ti ngizulu yi nza yi bumutu bu kakuka mu matuba ayi mu ngwilukulu-zinzambi, ayi bu kakukeso mu themosono batu ayi mu buya-buphasi, yawu iyamukusu ti ngudi-lutia lu woso mutu;
 Mu kibila ti lukaku lu miswa mi bumutu mu ngolo yi butinu bu mikaka nkinza bene luidi, phasi mutu kabika kutisu kulanda nzila nganzi yi lubayusu lu mtinu ayi lubayusu lu lubyefomo;
 Mu kibila ti msamu-ngudi bene ndatusu ntwala yi bukundi ayi ngwizunu yi zitsi zioso;

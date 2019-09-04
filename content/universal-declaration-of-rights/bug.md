@@ -1,6 +1,6 @@
 <h1 align='center'>ADA ASSIMATURUSENG NASENGNGE HAK-HAK SIMULAJAJINNA PADATTA RUPA TAU</h1>
-<h2 align='center'>PADDIOLO</h2>
-<p align='center'>Pura ritimbang nasengnge dipattongengngi ri asengnge allebbireng napanjajie puang seuwae na hak-hak pada nappunnai manengnge salasureng padatta rupa tau ianaro simulangenna riasengnge merdeka e . Ade'e na atennangengnge tuo ri linoe.
+<h2>PADDIOLO</h2>
+<p>Pura ritimbang nasengnge dipattongengngi ri asengnge allebbireng napanjajie puang seuwae na hak-hak pada nappunnai manengnge salasureng padatta rupa tau ianaro simulangenna riasengnge merdeka e . Ade'e na atennangengnge tuo ri linoe.
 Pura ritimbang nasengnge gau de'e nasipakalebbireng pole padatta rupa tau ianaro mancaji pangkaukang makassara najajianni maggoppo maneng accairengnge na ajapparu'e ri laleng atina rupa tau. na ri purennuangi rijajiangi seddi lino naonroi'e padatta rupa tau ye'paneddingi'e riasengnge ininnawa mappau ada tongeng na ininawa suju'e ri Puang seuwae sibawa ininnawa leppe'e pole riasengnge akkitaureng na teggennekengnge pura mancaji seddi purennuang marilaleng pole taumaegae.
 Pura ritimbang nasengnge hak-hak padatta rupa tau parellu riatoro ri lalenna sure hukung'e, narekko de wedding seddi seddi tau nateru-terusi molai laleng salae na nasengnge laleng madeceng naola makkuraga pacelliri sifa' salae ye temmappakasitaue.
 Pura ritimbang nasengnge sipakau ripadatta massalassureng pole seddi negara sibawa negara laingne parellu ri pamasse.

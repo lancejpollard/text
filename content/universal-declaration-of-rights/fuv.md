@@ -1,6 +1,6 @@
 <h1 align='center'>NANONDIRAL WINNDEREYANKEEWAL HAKKEEJE AADE</h1>
-<h2 align='center'>NAATIRKA</h2>
-<p align='center'>E tuugnaadeko wonde keftingal horma kala neɗɗo e nder ɓesngu aadee e hakkeeji potɗi woni dnaɗɗuudi ndimaague potal e jam e nder aduna,
+<h2>NAATIRKA</h2>
+<p>E tuugnaadeko wonde keftingal horma kala neɗɗo e nder ɓesngu aadee e hakkeeji potɗi woni dnaɗɗuudi ndimaague potal e jam e nder aduna,
 E tuugnaade wonde ko baasgol heftinde kam e calogol tottude hakkeeji aade ngaddi barondiral e salaare sanndolin nde e nder aduna e kadihuccande adunam mo aade heɓi yamiroore haalde e miijiaa de no henanorii ɗum yontii ete kadi yimɓe poti jeyde koye mumen ceerta e kulol e baasal sabu aadee yiɗde ɗ um,
 E tuugnaade wonde ina teeŋti yo hakkeeji aadee ndeenire yamiroore laawɗinaande mbele aadee waasaa tonngeede e gullitaagol dowrowol so tawii fawaama kalfaandi kiisndi walla waawnere ɓ urtunde,
 E tuugnaade ina teeŋti nde ɓamtatoo ɓiyngu yummaagu hakkunde leyɗeele dimɗ uɗe,

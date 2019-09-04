@@ -1,6 +1,6 @@
 <h1 align='center'>JAVADA JUNIBUN MAl DASIBÍ AUN AKAIBUN, JATU NEMATIDUBUMAKI</h1>
-<h2 align='center'>Preambulo</h2>
-<p align='center'>Ainbu inun juni yudakuinki, yuinakamadan. Jabiaskadi xinain, pepanametidubuki, detenamemadan. Jaska xinanma, sinatakin, yuda betsa chakabu va, nuitapamisbuki. Ikunkin, yuikin, xinain, xinan pepamisbuki, dateamadan.
+<h2>Preambulo</h2>
+<p>Ainbu inun juni yudakuinki, yuinakamadan. Jabiaskadi xinain, pepanametidubuki, detenamemadan. Jaska xinanma, sinatakin, yuda betsa chakabu va, nuitapamisbuki. Ikunkin, yuikin, xinain, xinan pepamisbuki, dateamadan.
 Detenamekatsi ikama, xanen ibubun jancha pepa jau chibanunbunven. Javen nabu jivea pepa uinmatidubuki. Dasibi jau medabenamenunbunven, jaibunameidan.
 Yudabu dasibi pepa xinain, juni inun ainbu jau dua vanunbunven, jabiaskadi vakinan. Yuda dasibi pe jivenunbunan. Jaska xinankin, xanen ibun javen nabu pepa vakatsi imiski.
 Jaskaven taexun, yuda dasibibun unayan, xanen ibubu ichapa ichaxun, na jancha kenenibuki.</p>

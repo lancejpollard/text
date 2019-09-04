@@ -1,6 +1,6 @@
 <h1 align='center'>DICHIARAZIONE UNIVERSALE DEI DIRITTI UMANI</h1>
-<h2 align='center'>Preambolo</h2>
-<p align='center'>Considerato che il riconoscimento della dignità inerente a tutti i membri della famiglia umana e dei loro diritti, uguali ed inalienabili, costituisce il fondamento della libertà, della giustizia e della pace nel mondo;
+<h2>Preambolo</h2>
+<p>Considerato che il riconoscimento della dignità inerente a tutti i membri della famiglia umana e dei loro diritti, uguali ed inalienabili, costituisce il fondamento della libertà, della giustizia e della pace nel mondo;
 Considerato che il disconoscimento e il disprezzo dei diritti umani hanno portato ad atti di barbarie che offendono la coscienza dell'umanità, e che l'avvento di un mondo in cui gli esseri umani godano della libertà di parola e di credo e della libertà dal timore e dal bisogno è stato proclamato come la più alta aspirazione dell'uomo;
 Considerato che è indispensabile che i diritti umani siano protetti da norme giuridiche, se si vuole evitare che l'uomo sia costretto a ricorrere, come ultima istanza, alla ribellione contro la tirannia e l'oppressione;
 Considerato che è indispensabile promuovere lo sviluppo di rapporti amichevoli tra le Nazioni;

@@ -1,6 +1,6 @@
 <h1 align='center'>INSON HUQUQLARI UMUMJAHON DEKLARATSIYASI</h1>
-<h2 align='center'>Preambula</h2>
-<p align='center'>Inson oilasi barcha aʼzolariga hos boʻlgan qadr‐qimmat hamda ularning teng va ajralmas huquqlarini tan olish erkinlik, adolat va yalpi tinchlikning asosi boʻlishini eʼtiborga olib,
+<h2>Preambula</h2>
+<p>Inson oilasi barcha aʼzolariga hos boʻlgan qadr‐qimmat hamda ularning teng va ajralmas huquqlarini tan olish erkinlik, adolat va yalpi tinchlikning asosi boʻlishini eʼtiborga olib,
 Inson huquqlarini mensimaslik va oyoq‐osti qilish odamzod vijdonini oʻrtayotgan vahshiylarcha qilmishlarga olib kelganini hamda kishilar soʻz va maslak erkinligi sohibi boʻlib, qoʻrquv va muhtojlikdan holi boʻlib yashaydigan dunyoni bunyod etish odamlarning nufuzli intilishi, deb eʼlon qilinganligini eʼtiborga olib,
 Inson soʻnggi chora sifatida zulm va istibdodga qarshi isyon qilib bosh koʻtarishga majbur boʻlmasligining oldini olish maqsadida inson huquqlarni qonun izmi bilan muhofaza etilishi zarurligini eʼtiborga olib,
 Xalqlar oʻrtasida doʻstona munosabatlarni rivojlantirishga koʻmaklashish zarurligini eʼtiborga olib,

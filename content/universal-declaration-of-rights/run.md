@@ -1,6 +1,6 @@
 <h1 align='center'>7IBIMENYESHEJWE N'AMAKUNGU KU NGINGO ZUBAHIRIZA ZINA MUNTU WESE</h1>
-<h2 align='center'>Intangamarara</h2>
-<p align='center'>Ibonye ko kwemera ko abantu bose bategerezwa guhabwa agateka n'ukubahirizwa kimwe, ari ryo shingiro ryukwishira n'ukwizana, ubutungane n'amahoro kw'isi.
+<h2>Intangamarara</h2>
+<p>Ibonye ko kwemera ko abantu bose bategerezwa guhabwa agateka n'ukubahirizwa kimwe, ari ryo shingiro ryukwishira n'ukwizana, ubutungane n'amahoro kw'isi.
 Ibonye ko kutemera n'ukudakwirikiza ingingo zubahiriza zina muntu vyatumye hakorwa amabi atagira uko avugwa kandi ko isi izira ubwicanyi n'amaganya, abantu bose bakavuga kandi bakemera uko bavyifuza ari yo yemejwe ko zina muntu wese anyotewe imbere ya vyose.
 Ibonye ko ari nkenerwa ko ingingo zubahiriza zina muntu zubahirizwa n'amategeko atomoye kugira ngo umuntu, aburaniwe, ntaruhire kwiyamiriza agahotoro n'akarenganyo,
 Isanze ko mu Masezerano y'Ishirahamwe Mpuzamakungu, amakungu yongeye kwemeza ko ashigikiye ingingo ngenderwako zubahiriza zina muntu wese, agateka n'agaciro twiwe; ko abantu bose bangana ata kuraba umuhungu n'umukobwa, kandi ko biyemeje gushigikira iterambere ry'abanyagihugu bakarushiriza kwishira n'ukwizana,

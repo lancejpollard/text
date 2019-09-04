@@ -1,6 +1,6 @@
 <h1 align='center'>MINMURUS WANTAAWARUSPA</h1>
-<h2 align='center'>Preámbulo</h2>
-<p align='center'>Kunsiderakitpa chima lipertachan la justisiakaz y la pazkaz muntuz m+jan sun
+<h2>Preámbulo</h2>
+<p>Kunsiderakitpa chima lipertachan la justisiakaz y la pazkaz muntuz m+jan sun
 rekunusimientukaz an tiknitadkaz inteinsekakaz an nit +n kawuarus
 inalienaplekaz wantuzpa miemprokaz kualkaz humanakaz
 Kunsiterakitpamakpaz an teskunucimientoksz menuspreciukaz sun nit +m+zna

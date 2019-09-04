@@ -1,6 +1,6 @@
 <h1 align='center'>OPĆA DEKLARACIJA O PRAVIMA ČOVJEKA</h1>
-<h2 align='center'>UVOD</h2>
-<p align='center'>BUDUĆI da su priznavanje urođenog dostojanstva i jednakih i neotuđivih prava svih članova ljudske obitelji temelj slobode, pravde i mira u svijetu,
+<h2>UVOD</h2>
+<p>BUDUĆI da su priznavanje urođenog dostojanstva i jednakih i neotuđivih prava svih članova ljudske obitelji temelj slobode, pravde i mira u svijetu,
 BUDUĆI da su nepoštivanje i preziranje prava čovjeka imali za posljedicu akte, koji su grubo vrijeđali savjest čovječanstva, i budući da je stvaranje svijeta u kojem će ljudska bića uživati slobodu govora i vjerovanja i slobodu od straha i nestašice bilo proglašeno kao najviša težnja običnih ljudi,
 BUDUĆI da je bitno da prava čovjeka budu zastićena vladavinom prava, da čovjek ne bude primoran da kao posljednjem sredstvu pribjegne pobuni protiv tiranije i ugnjetavanja,
 BUDUĆI da je bitno da se unapređuje razvoj prijateljskih odnosa između naroda,

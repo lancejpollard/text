@@ -1,6 +1,6 @@
 <h1 align='center'>WHAKAPUAKITANGA WHANUI O NGA MANA O TE TANGATA - 1948</h1>
-<h2 align='center'></h2>
-<p align='center'>No te mea na te whakanoa a na te whakahawea ki nga mana o te tangata i tupu ai nga mahi whakarihariha i pouri ai te ngakau tangata, a ko te kohaetanga o tetahi ao hou e mahorahora ai te tangata ki te korero ki te whakapono, ki te noho noa i runga i te rangimarie a i te ora, kua panuitia hei taumata mo te koingotanga o te ngakau o te mano tini o te tangata.
+<h2></h2>
+<p>No te mea na te whakanoa a na te whakahawea ki nga mana o te tangata i tupu ai nga mahi whakarihariha i pouri ai te ngakau tangata, a ko te kohaetanga o tetahi ao hou e mahorahora ai te tangata ki te korero ki te whakapono, ki te noho noa i runga i te rangimarie a i te ora, kua panuitia hei taumata mo te koingotanga o te ngakau o te mano tini o te tangata.
 No te mea ki te kore te tangata ae akina kia tae ki te tino hemanawatanga kia hapai hoki i te pakanga hei turaki i te mana tukino hei pehi hoki i te iwi, he mea tika rawa kia tiakina nga mana o te tangata i raro i tenga ritenga o te ture.
 No te mea he mea tika rawa kia hapainga nga ritenga e tupu ai nga whakaaro whakawhanaunga i waenganui i nga iwi o te ao.
 No te mea ko nga iwi o te Kotahitanga kua whakaatu ki roto i te Kawenata i te tino whakapumautanga o to ratou whakapono mo te kaupapa o nga mana motuhake o te tangata, mo te ihi me te wana o te tinana tangata, a mo nga tika tauriterite o te tane me te wahine, a kua whakarite tikanga hoki kia hapainga nga ritenga toko i te ora me te whakapiki i nga ahuatanga o te oranga i tenei ao i roto i te rangatiratanga whanui.

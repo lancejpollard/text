@@ -1,6 +1,6 @@
 <h1 align='center'>LAWA RARABA NI DODONU NI LEWENIVANUA</h1>
-<h2 align='center'>IKAU</h2>
-<p align='center'>Ni yavu ni galala, lewa dodonu kei na sautu ena vuravura na noda vakadinata ni dodonu mera dokai mera raici tale ga vakatautauvata na lewe kece ga ni vuvale kawatamata,
+<h2>IKAU</h2>
+<p>Ni yavu ni galala, lewa dodonu kei na sautu ena vuravura na noda vakadinata ni dodonu mera dokai mera raici tale ga vakatautauvata na lewe kece ga ni vuvale kawatamata,
 Ni na tubu na itovo vakadomobula e sokanu kina na lewaeloma ni kawatamata ke
 vakawaleni qai beci na dodonu ni kawatamata kei na kena vakatakilai ni ka levu duadua era nuitaka tu na lewenivanua na vuravura era na marautaka kina na tamata yadua na galala ni vosa kei na galala ni vakabauta vaka kina na galala mai na rere kei na leqa,
 Ni dodonu me taqomaki vinaka ena lawa na dodonu ni lewenivanua, me kua kina ni vakasaurarataki na tamata ena nodra vaqara bula mera saqata na veiliutaki e voravora qai ca,

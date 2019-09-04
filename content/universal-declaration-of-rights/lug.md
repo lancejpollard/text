@@ -1,6 +1,6 @@
 <h1 align='center'>EKIWANDIIKO EKY'ABANTU BONNA EKIFA KU DDEMBE LY'OBUNTO</h1>
-<h2 align='center'>EBYANJURA</h2>
-<p align='center'>Ekitiibwa ky'omuntu eky'obutonde; okwenkanankana, wamu n'obuyinza obutayinza kugyibwawo ebyabantu bonna, gwe musingi gw'eddembe; obwenkanya n'emirembe mu nsi.
+<h2>EBYANJURA</h2>
+<p>Ekitiibwa ky'omuntu eky'obutonde; okwenkanankana, wamu n'obuyinza obutayinza kugyibwawo ebyabantu bonna, gwe musingi gw'eddembe; obwenkanya n'emirembe mu nsi.
 Obanga abantu sibakikozesa kujeema 'ngeky' okulwanyisa ekisembayo, okwetaasa obufuzi obukambwe okutulugunya, kyetaagisa eddembe ly'obuntu okuba nga lifugibwa amateeka.
 Ekibiina ky'amawanga amagatte, mu kiwandiiko kyakyo kikakasa nga bwekikkiririza mu ddembe ly'obuntu era ne mu kittibwa n'omuwendo gw'omuntu era kimaliridde okukubiriza abantu okugenda mu maaso n'okulwanyisa omutindo gw'embeera y'obulamu bwabwe mu ddembe erisingawo.
 Amawanga g'amemba geeyamye okukolaganira awamu n'ekibiina ky'Amawanga Amagattere mu kukubiriza abantu abali okussamu ekitiibwa n'okukuuma eddembe ly'obuntu n'emisingi gyalyo.

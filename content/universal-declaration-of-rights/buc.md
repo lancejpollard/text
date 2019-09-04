@@ -1,6 +1,6 @@
 <h1 align='center'>TAFASWIRI AN-KIƁUSHI NIM-MATEKELEZO KI DUNIA NIN-HAKI-L-ADAMÌ</h1>
-<h2 align='center'>ALUHA NIN-VUDIN’NI KURAŊA</h2>
-<p align='center'>An-fahitaŋa amba, fikuɓaliaŋa amba ɓinadamu djabi nitirahinyi ndreka usheu ndreka haki meraŋa nandzari ro musingi nin-nafasi, nin-haki ndreka usalama duniani ;
+<h2>ALUHA NIN-VUDIN’NI KURAŊA</h2>
+<p>An-fahitaŋa amba, fikuɓaliaŋa amba ɓinadamu djabi nitirahinyi ndreka usheu ndreka haki meraŋa nandzari ro musingi nin-nafasi, nin-haki ndreka usalama duniani ;
 An-fahitaŋa amba, tsifahizaŋa ndreka fipuzisaŋa haki-l-adamì ro mikutsonga faŋanovaŋa shitrendro ki katili maneitri rohu nin-umati djabi, amin’ni zenyi, fitunga nin-ulemengu mbu kuruhusu ɓinadamu ivulaŋa ndreka ikwamini aminnafasi, ɓilà tahutru wala taãɓu nin-ufukara, ro nikutekelezaŋa kirasimi, ustaãraɓu beheben-djabi ninhulumbelu ;
 An-An- fahitaŋa amba, aŋatin’ni sharia-musingi nin-ndreu, zanatani nin-Uvumoja nin-Twaifa (Shama nin-Daula nin-Ulemengu) nikutekeleza mara hafa uaminifu nin-ndreu amin’ni haki musingi nim-ɓinadamu ; amin’ni usheu ndreka kima ninhulu an-rohuni, amin’ni fihiraŋa nin-haki nin-lalahi ndreka viavi, amin’zenyi, reu nampahei amba reu nangala ãzima ampadeha aluha faŋadzarisaŋa maisha nimɓinadamu ndreka ampiditri an-lalaŋa raha mbu andei tanafu tsara am-maisha nin-nafasi nankitinyi nimɓinadamu ;ahitaŋa amba, nikulazimu natou nguvu fihavaŋana ɓainan’ni tani ndreka tani ;
 An- fahitaŋa amba, Daula Aŋatin-shama itì ndreka shama nin-Uvumoja nin-Twaifa (Shama nin-Daula nin-Ulemengu) nangala wahadi an-ndreu aŋaraka kaɓaru retu atà haki-ladamì ndreka nafasi musingi ikustehinyi nankitinyi amin’ni dunia mafia ;

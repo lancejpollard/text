@@ -1,6 +1,6 @@
 <h1 align='center'></h1>
-<h2 align='center'></h2>
-<p align='center'>Panichanu tamasa taykua kayapi kupanimajicha ikicha nuka kiniana amimaja anakijaunuka taikua inianu. Witsaka akasujunuka iya yakawi witsaja ikicha niakawiria nukaka kuakinu akasujutsaka ta nuka nukima. Panicha katsata kupanimajicha kayapi ikicha kujinianu ta nuka tina ku panimajicha nukicha nuka kayapi witsata ikicha taikua anakijaunu nuka iniaunu, panichanu injia kui akuinaja tarajita kiraka kiriiana niatajinia.
+<h2></h2>
+<p>Panichanu tamasa taykua kayapi kupanimajicha ikicha nuka kiniana amimaja anakijaunuka taikua inianu. Witsaka akasujunuka iya yakawi witsaja ikicha niakawiria nukaka kuakinu akasujutsaka ta nuka nukima. Panicha katsata kupanimajicha kayapi ikicha kujinianu ta nuka tina ku panimajicha nukicha nuka kayapi witsata ikicha taikua anakijaunu nuka iniaunu, panichanu injia kui akuinaja tarajita kiraka kiriiana niatajinia.
 Panichanu ikicha tamanu rikuanu kupanimajicha ikicha kiaraka kiniana amimaja niatajinia kayapui ikimajicha nuka kau kayapi ikinu, panicha tauku, itiumu ikicha akasujunu nishika iya nuka ta kiniana yakawiria ikicha.
 Panicha cha nuka nishima niata akuinaja aramujun tia nuka ikicha kiaraka kiniana amimaja niata jinia charanishujanu kiraitia witsaja kayapiwa.
 Panicha aramujun kiniana kupanicha majicha ikicha nuka ikicha utatinuka.

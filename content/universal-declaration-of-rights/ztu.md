@@ -1,6 +1,6 @@
 <h1 align='center'>Declarasyoony x:te:e'n Deree'ch x:te:e' Ra'ta' Bu:unny</h1>
-<h2 align='center'>Introducsyoony</h2>
-<p align='center'>Zi'cy na:a dignidaa deree'ch nah x:te:e' ra'ta' bu:unny gax:lyuh nih na:a que'ihty zi:e'd libertaa, justi'isy, cëhnn pa's na:a pahr ga'crih rreconoseer,
+<h2>Introducsyoony</h2>
+<p>Zi'cy na:a dignidaa deree'ch nah x:te:e' ra'ta' bu:unny gax:lyuh nih na:a que'ihty zi:e'd libertaa, justi'isy, cëhnn pa's na:a pahr ga'crih rreconoseer,
 Zi'cy na:a gahll quei'ty runybe:e' ra deree'ch x:te:e' bu:unny gaxlyuh guhc a bricah ra co's maal nih ruhny rtiloh bu:unny gaxlyuh, chiru' nih zi:e'd bu:unny rca:a'z te'ihby gaxlyuh lahty ra'ta' bu:unny chu'za'c, chiru' ga:a'p bu:unny deree'ch ynni:i:i' bu:unny nih rca:a'z bu:unny, ga:a'p bu:unny deree'ch x:te:e' rrelijyoony, ga:a'p bu:unny deree'ch ybaa:any bu:unny sihnng gahll nzhiiby cëhnn gallzi:i',
 Zi'cy na:a na:a pahr chu' le'i nih guuny protejeer ra deree'ch x:te:e' bu:unny tyeenn quei'ty cha's bu:unny ynna:a'az gyi:e'b ti:i'lly co'nnr wbyee'rnn nih na:a maal,
 Zi'cy na:a na:a pahr ga'c ra nasyoony amiiegw,

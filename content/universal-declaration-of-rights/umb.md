@@ -1,6 +1,6 @@
 <h1 align='center'>UNKANDA WOLWALI WOMOKO YOMUNU</h1>
-<h2 align='center'>ELOMBOLWILO</h2>
-<p align='center'>Okukolela ukulihiso ekalo lityamela kovimata mata vyepata lyomanu kwenda omoko yasoka kwavosi. Kwenda yesunga yilinga ombembwa yimwe yapana yesunga kwenda yombembwa v’olwali.
+<h2>ELOMBOLWILO</h2>
+<p>Okukolela ukulihiso ekalo lityamela kovimata mata vyepata lyomanu kwenda omoko yasoka kwavosi. Kwenda yesunga yilinga ombembwa yimwe yapana yesunga kwenda yombembwa v’olwali.
 Okukolela eci kacakulihiwile kwenda esepwiso lyomoko yomunu, lyatwala kokuponda, okungwalisa olondunge vyowiñgi kwenda ekalu lyolwali lumwe muna vakwamwenyo vakaliyela okuvangula kwenda okulitava, vayovoka kusumba kwenda kusuka , yalombolwiwa ndeyi yavelapo hayo yalelapo vali keswimo liwa lyomunu.
 Okukolela okuti cavelapo okweca ulongo kokwamako okulyeca kukamba wolofeka.
 Olukolela okuti vukanda owiñgi wofokeka vyalikongela, wasapula onjanja yokaliye etavo lyawo komoko yavelapo yomunu, kekalo kwenda esilivilo lyomwenyo womunu, okulisoka komoko yalume kwenda yakayi kwenda yilombolola utoyi wokweca okwamako kwowingi kwenda okweca ekalo lyaposoka lyomwenyo v’eyovo limwe lyavelapo.

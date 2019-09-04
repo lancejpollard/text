@@ -1,6 +1,6 @@
 <h1 align='center'>L-ISTQARRIJA UNIVERSALI DWAR IL-JEDDIJIET TAL-BNIEDEM</h1>
-<h2 align='center'>DAĦLA</h2>
-<p align='center'>Billi l-għarfien tad-dinjità proprja tal-membri kollha tal-familja umana u tad-drittijiet tagħhom ugwali li ma jistgħux jitteħdulhom hu s-sies tal-ħelsien, tal-ħaqq u tal-paċi fid-dinja,
+<h2>DAĦLA</h2>
+<p>Billi l-għarfien tad-dinjità proprja tal-membri kollha tal-familja umana u tad-drittijiet tagħhom ugwali li ma jistgħux jitteħdulhom hu s-sies tal-ħelsien, tal-ħaqq u tal-paċi fid-dinja,
 Billi t-tkasbir u ż-żebliħ tal-jeddijiet tal-bniedem ġabu magħhom għemejjel kiefra li weġġgħu l-kuxjenza tal-umanità, u l-miġja ta’ dinja fejn il-bnedmin ikunu ħielsa li jitkellmu u jemmnu, meħlusa mill-biża’ u mill-miżerja, kienet proklamata bħala l-ogħla xewqa tal-bniedem,
 Billi hu essenzjali li l-jeddijiet tal-bniedem ikunu mħarsa bil-ħakma tal-liġi biex il-bniedem ma jkunx imġiegħel, fl-aħħar mill-aħħar, li jqum kontra t-tirannija u l-moħqrija,
 Billi hu essenzjali li jkun imħeġġeġ l-iżvilupp ta’ relazzjonijiet ta’ ħbieb bejn il-ġnus,

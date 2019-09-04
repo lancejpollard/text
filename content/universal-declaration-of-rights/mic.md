@@ -1,6 +1,6 @@
 <h1 align='center'>Mtul’katlku Wjit Koqwajo’taqann Mimajulnu’k Wejkuaqml’tlj</h1>
-<h2 align='center'>Preamble</h2>
-<p align='center'>Na Ke’sk kejitastkl wkpmlte’taqn lapjiw lame’k eykl aqq nkute’jklaqq mukislkaswl’kasinukl koqwajo’taqann wejku’laqml’tl mimajulnu’k na nekmewe’l elqanetekewe’l wjit alsumsimk, koqwaja’taqan aqq wantaqo’tl wsitqamu’k.
+<h2>Preamble</h2>
+<p>Na Ke’sk kejitastkl wkpmlte’taqn lapjiw lame’k eykl aqq nkute’jklaqq mukislkaswl’kasinukl koqwajo’taqann wejku’laqml’tl mimajulnu’k na nekmewe’l elqanetekewe’l wjit alsumsimk, koqwaja’taqan aqq wantaqo’tl wsitqamu’k.
 Na Ke’sk penoqlte’taqan aqq esatite’tmaqan wjit koqwajo’taqann wejku’iaqmi’titl mimajulnu’k wetapeksi’kl elue’wuti’l ta’n msit wen poqwajite’tikl aqq wejkwite’tmk wsitqamu ta’n tett msit wen alsutk ta’n teluej aqq teli-ktlamsltasij aqq alsutk pmawsin keskmna’q we’kwata’sik kisna kewisinuk, na wla kisi tlapukuemk msit mimajulnu’k tliktantunew mawi espe’k.
 Na Ke’sk nuta’q ta’n tijiw ji’nm mu ketu’ kisa’lawt eliapsin mita kespiagewey, matneken, matnmn kestawite’taqan aqq emekwo’tasimk, na koqwajo’taqann wejku’laqmi’tl mimajulnu’k miamuj etli-ankwo’tasikl tplutaqaniktuk,
 Na Ke’sk nuta’q apoqonmatamn ta’n tela’matultljik eleke’wa’ki’l,

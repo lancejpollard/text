@@ -1,6 +1,6 @@
 <h1 align='center'>MUKAMBIZHO MUKATAMPE PA NSAMBU YAFWAINWA MUNTU</h1>
-<h2 align='center'>LULAVANANO</h2>
-<p align='center'>Byo kyayukanyikwa mba buneme ne kwesakena pamo kwa bonse bantu mubisemi byabo, kokuleta kukasuluka, bololoke ne mutende pano pa ntanda;
+<h2>LULAVANANO</h2>
+<p>Byo kyayukanyikwa mba buneme ne kwesakena pamo kwa bonse bantu mubisemi byabo, kokuleta kukasuluka, bololoke ne mutende pano pa ntanda;
 Byo kyaykanyikwa mba kubula kushingika muntu kileta byubilo byatama byalula milanguluko yanji ne ya ntanda yonse moekala kasa asangalala;
 Byokiji mba kyanema, kubula kukanjikizna muntu kuba kyatama, kubula kusatukila butangi, kyawama kumona mba nsambu iji na muntu yavimbilwa,
 Byokiji mba kyanema kuleta lumvwanano pakachi ka bantu ne mitundu,

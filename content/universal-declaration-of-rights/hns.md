@@ -1,6 +1,6 @@
 <h1 align='center'>Aadmi ke hak ka Kahna, djaun sab manai djaun doeniya me rehe ke khatien hai.</h1>
-<h2 align='center'>Soeroewaat</h2>
-<p align='center'>Bichaar kar ke, ki, ego apan ke iddjat aur ekahie aur ego basis hak ba, sab sansaar ke basis, aadjádi, niaai aur shaant hai, djaun doeniya mê hai.
+<h2>Soeroewaat</h2>
+<p>Bichaar kar ke, ki, ego apan ke iddjat aur ekahie aur ego basis hak ba, sab sansaar ke basis, aadjádi, niaai aur shaant hai, djaun doeniya mê hai.
 Bichaar kar ke, ki djaun nietchai aur thokaráe hoige hai aadmi ke hak ke, ohi bhi katthor-behwaar pais hai, djaun doeniya bhar ke insaan sab insaan ke mann (bhi) mê òtna ghoesa lail hai, aur ego doeniya aaige hai djaun mê ek aaadmi ke bole ke aur sòche ke aadjádi chaahín, aur dèrai aur djaran mê koi ke na chaahin rehke, ohi rakam ke doeniya, sab aam manai ke khatien, sab se barka samaan hai.
 Bichaar kar ke, ki kanoen ke maaren aur okar taakat se, insaan ke hak rattchá karwail hai, kaahe ke aadmi hatyachári aur nietchai ke andhiaai ke na uskái.
 Bichaar kar ke, ki basis hai, dès ke bietch mê soemmat rehke chaahin aur sab dès aapan-aapan sanghat se rehe aur karobaar ke mel-djol ke karen.

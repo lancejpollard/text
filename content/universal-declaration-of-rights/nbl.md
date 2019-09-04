@@ -1,6 +1,6 @@
 <h1 align='center'>AMALUNGELO OMUNTU WONKE EMHLABENI WONKE JIKELELE</h1>
-<h2 align='center'></h2>
-<p align='center'>Loba isimilo lenhlonipho lamalungelo agcweleyo oluntu kuyisisekelo senkululeko, lesokulunga lokuthula emhlabeni,
+<h2></h2>
+<p>Loba isimilo lenhlonipho lamalungelo agcweleyo oluntu kuyisisekelo senkululeko, lesokulunga lokuthula emhlabeni,
 Loba ukunganaki lokungahloniphi amalungelo abantu kubangele izenzo zocuku oludabula inhliziyo lenembeza, kwadala umhlaba lapha abantu abangathola khona injabulo lenkululeko yokuthi bakhulume bekhululekile bengesabi njalo kungekho ubuyanga, konke lokhu kuphakanyiswa njengento eqakathekileyo ngabantu bonke,
 Loba ukuze umuntu angavuki umphenyana ngenxa yokucindezelwa, kufanele ukuthi amalungelo abantu asekelwe ngumthetho,
 Loba kufanele ukukhulisa ubudlelwano phakathi kwezizwe,

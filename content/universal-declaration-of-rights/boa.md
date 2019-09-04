@@ -1,6 +1,6 @@
 <h1 align='center'>Muhdú pámeere páné iiñújɨri ijcyáné mɨ́amúnaa meíjcyáiyóne</h1>
-<h2 align='center'>Tujkénúeju</h2>
-<p align='center'>Ɨ́hyaamtɨ́ pañétú caatúváné páné iñújɨ́Ȉ́ne múnáadítyúu tsaate tsatsíhvú idyóbéévéne muhdú mɨ́amúnaa meijcyáiyóné pityácójcatsíñe.
+<h2>Tujkénúeju</h2>
+<p>Ɨ́hyaamtɨ́ pañétú caatúváné páné iñújɨ́Ȉ́ne múnáadítyúu tsaate tsatsíhvú idyóbéévéne muhdú mɨ́amúnaa meijcyáiyóné pityácójcatsíñe.
 Ditsiééberédípye 10-ri 1948 íjcyáné pijcyábari tsaate páné iñújɨ́Ȉ́né túkevéjtsojtédítyú píhcyaavé ipítyácójcatsí muhdú mɨ́amúnaa meíjcyáiyóne. Á;áné dobéévé "Naciones Unidas" néémeé. Aaméhjáa téijyu caatúnú 30-neva mɨ́amúnaa maávyejúúlléíyonéhjɨ. Aanéhjáa imí ɨɨ́jtsúcunúnéllii nééme ténehjɨ páné iñújɨ́Ȉ́ne múnáake iúúbállémeíki. Téhduréhjáa nééme ténehjɨ cáátúnúmeíháámɨ́ pahúllevávú pámehdívúré itsújááve téhaamɨ ditye patsɨ́hjɨvávúré iééveki.
 Á;áné boonétúhjáa iñe méiiñújɨ́ túkevéjtsojte téhdure ipíhcyáávéne néé páneere 30-neváa cáátúnúmeíñé muhdú néhdu meíjcyáiyóné méiiñújɨ́ri.
 Aane ténehjɨ méwáábyuta ijcyáhi. Á;nehjɨ múu ímíñeúvú iwáájácúne tehdu ijcyáhi. Aane tsá múu íhdyivúré pícyootúne. Múu íñahbémudívú pajtyétsó ténehjɨ ditye iwáájácúne tehdu iíjcyaki.

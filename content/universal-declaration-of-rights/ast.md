@@ -1,6 +1,6 @@
 <h1 align='center'>Declaración Universalde los Drechos Humanos</h1>
-<h2 align='center'>Considerances previes</h2>
-<p align='center'>Visto que la llibertá, la xusticia y la paz en mundu sofítense na reconocencia de la dignidá intrínseca y de los drechos iguales y inayenables de tolos miembros que formen la familia humana;
+<h2>Considerances previes</h2>
+<p>Visto que la llibertá, la xusticia y la paz en mundu sofítense na reconocencia de la dignidá intrínseca y de los drechos iguales y inayenables de tolos miembros que formen la familia humana;
 Visto que desconocer o facer de menos los drechos humanos foi la causa d'actos xabaces y dañibles pa la conciencia de la humanidá, y que se proclamó, comu aspiración cimera del home, el llogru d'un mundu onde los seres humanos, llibres del mieu y de la llaceria, gocen de la llibertá de palabra y de la llibertá de creyencies;
 Visto que ye esencial un réxime de Drechu que protexa los drechos humanos, p'asina nun se ver emburriáu l'home al recursu caberu de rebelase escontra de la tiranía y de la opresión;
 Visto que ye tamién esencial promover l'afitamientu de rellaciones amistoses ente les naciones;

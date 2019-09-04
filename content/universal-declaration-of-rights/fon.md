@@ -1,6 +1,6 @@
 <h1 align='center'>GBETA GBƐ Ɔ BI TƆN EE ƉƆ XÓ DÓ ACƐ E GBƐTƆ ƉÓ KPODO SISI E ƉO NA ƉÓ N'I LƐ KPO WU E</h1>
-<h2 align='center'>WEXWLE</h2>
-<p align='center'>Ee nyi ɖɔ hɛnnu ɖokpo mɛ ɔ, mɛ ɖokpoɖokpo ka do susu tɔn, bɔ acɛ ɖokpo ɔ wɛ mɛbi ɖo bo e ma sixu kan fɛn kpon é ɖi mɛɖesusi jijɛ, hwɛjijɔzinzan, kpodo fifa ni tiin nu wɛkɛ ɔ bi e ɔ,
+<h2>WEXWLE</h2>
+<p>Ee nyi ɖɔ hɛnnu ɖokpo mɛ ɔ, mɛ ɖokpoɖokpo ka do susu tɔn, bɔ acɛ ɖokpo ɔ wɛ mɛbi ɖo bo e ma sixu kan fɛn kpon é ɖi mɛɖesusi jijɛ, hwɛjijɔzinzan, kpodo fifa ni tiin nu wɛkɛ ɔ bi e ɔ,
 Ee nyi ɖɔ nukumamɔ jɛ numɛ kpodo wangbɛnu sɛn ɖeɖee na zɔn bɔ gbɛtɔ na do tiin nyi lɛ wɛ nɔ dɔn alannuwiwa ɖee nɔ zɔn bɔ gbɛtɔ nɔ fɔn gu e, lo bɔ nu taji ɖee hudo gbɛtɔ ɔ wɛ nyi ɖɔ gbɛ e mɛ gbɛtɔ lɛ ma na nɔ mɛkannu ɖo xoɖiɖɔ sin alinu kpodo nuɖiɖi lo bo na tɔn sin adohuhu kpodo ya kpo mɛ é ɔ,
 Ee nyi ɖɔ dandanmɛ wɛ e ɖo na jɛ hun do sɛn ɖee na zɔn bɔ gbɛtɔ na do tiin nyi le gbɔn acɛɖiɖo sin alinu se na zɔn bɔ gbɛtɔ ma na lin ɖɔ emi ɖo na ɖe emiɖee sin mɛkannu kpo yadonumɛ kpo e ɔ,
 Ee nyi ɖɔ é ɖo dandanmɛ bɔ e ɖɔ na ɖe alinu wennyinyi ee ɖo na tiin nyi ɖo to ɖokpoɖokpo tɛntin e ɔ,

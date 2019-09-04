@@ -1,6 +1,6 @@
 <h1 align='center'></h1>
-<h2 align='center'>PREAMBULO</h2>
-<p align='center'>Nüxü̃ tacua̱xgü rü guxü̃ma ĩ duü̃xü̃gü rü nawüxigu i Tupanape̱xewa rü tataxuma ya texé i togüarü yexera ixĩxẽ. Rü name nixĩ na nataãẽgüxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü. Rü ngẽmaca̱x tama tanaxwa̱xe i texé nüxü̃ tarüporamaẽ ĩ togü i duü̃xü̃gü rü e̱xna chixri namaã tachopetü.
+<h2>PREAMBULO</h2>
+<p>Nüxü̃ tacua̱xgü rü guxü̃ma ĩ duü̃xü̃gü rü nawüxigu i Tupanape̱xewa rü tataxuma ya texé i togüarü yexera ixĩxẽ. Rü name nixĩ na nataãẽgüxü̃ ĩ guxü̃ma ĩ duü̃xü̃gü. Rü ngẽmaca̱x tama tanaxwa̱xe i texé nüxü̃ tarüporamaẽ ĩ togü i duü̃xü̃gü rü e̱xna chixri namaã tachopetü.
 Nüxü̃ tacua̱xgü rü ñuxguacü rü togü i ãẽ̱xgacügü rü chixri nüxna nadau i norü duü̃xü̃gü rü chixri namaã nachopetü. Rü wüxi i taxü̃ ĩ chixexü̃ nixĩ ĩ ngẽma ĩ guxü̃ ĩ duü̃xü̃güpe̱xewa. Rü ñu̱xma tanaxwa̱xe i guxü̃ ĩ duü̃xü̃gü i guxü̃ ĩ naãnewa rü meã namaxẽ. Rü tama name na texé nachu̱xuxü̃ ĩ ngẽma nüxü̃ yaxuxchaü̃xü̃ ĩ duü̃xü̃gü. Rü tama name na texé nachu̱xuxü̃ ĩ ngẽma nüxü̃́ yaxõgüaxü̃ ĩ duü̃xü̃gü. Rü tama name ĩ togüxü̃ na namuü̃ẽxü̃ ĩ duü̃xü̃gü.
 Rü tanaxümatügü i ñaã oregü erü tanaxwa̱xe i ãẽ̱xgacügü meã nüxna nadaugüxü̃ ĩ norü duü̃xü̃gü. Erü tama tanaxwa̱xe i yixcüra ṯacü rü chixexü̃ca̱x norü ãẽ̱xgacümaã nanuẽ ĩ duü̃xü̃gü rü namaã nügü nadai.
 Tama name ĩ wüxi i nachiü̃ãne rü to i nachiü̃ãnemaã nügü na naḏaixü.

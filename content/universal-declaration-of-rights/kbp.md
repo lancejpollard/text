@@ -1,6 +1,6 @@
 <h1 align='center'>KEDEŊGA KPEEKPE YƆƆ ƐYƱ WALA TƆM</h1>
-<h2 align='center'>KUBUUZUTU</h2>
-<p align='center'>Yee ɖitisaa se pʊmʊna ɛyaa se pɛwɛɛ kɩmaŋ wala ɛsɩndaa nɛ pɩkɛna wazaɣ pʊyʊ kɔyɔ, ɖitisaa ɖɔɖɔ se peeɖe ɛjaɖɛ yɔɔ tɩ-yɔɔ wɛʊ, toovonum nɛ lahɛzɩyɛ palɩɣna;
+<h2>KUBUUZUTU</h2>
+<p>Yee ɖitisaa se pʊmʊna ɛyaa se pɛwɛɛ kɩmaŋ wala ɛsɩndaa nɛ pɩkɛna wazaɣ pʊyʊ kɔyɔ, ɖitisaa ɖɔɖɔ se peeɖe ɛjaɖɛ yɔɔ tɩ-yɔɔ wɛʊ, toovonum nɛ lahɛzɩyɛ palɩɣna;
 Ɖɩnaa se ɛyʊ wala tɔm kɩɩsɩŋ nɛ tɩ-yɔɔ kɩɩɖɔŋ palabɩna nɛ kɩwɛɛkɩm tɔyɩ nɛ pɩcɛyɩɣ ɛyaa. Mbʊ pacaɣ se ɛjaɖɛ ɛlɛɣzɩ wɛtʊ, ɛyaa wɛɛ pa-tɩ yɔɔ, pɔyɔɔdʊʊ yem faaa nɛ pɩwɩlɩ se palɩ kʊñɔŋ taa, sɔɔndʊ ɛɛtasɩɣ-wɛ kpaʊ;
 Yee waɖɛ kewiyaɣ ɛkandayɩɣ ɛyʊ wala yɔɔ camɩyɛ kɔyɔ, wiɖiyi pɩɩkaɣ ɛyʊ ɛnʊ kɛnaʊ kɩjɛyʊʊ se ɛkʊyɩ kewiyaɣ ŋga kɔ-yɔɔ se kalakɩ-ɩ ñaŋ;
 Pʊwɛ camɩyɛ se pasɩna ajɛya, akpeeti nɛ ala taabalɩyɛ ɖʊʊ tʊmɩyɛ ɖeu nɛ puhuuna-yɛ;

@@ -1,6 +1,6 @@
 <h1 align='center'>UNIVERZALNO DEKLARACIJA BAŠO ČAČIPA E MANUŠESKERE</h1>
-<h2 align='center'>PREAMBULA</h2>
-<p align='center'>Soske o mothovipe e bijande dignitetesko thaj jekhipasko si bithemale čačipa e sa dženengere ke manušengiri familija si fundamenti e tromalipasko, čačipaskoro thaj e sansareskoro ko sumnal.
+<h2>PREAMBULA</h2>
+<p>Soske o mothovipe e bijande dignitetesko thaj jekhipasko si bithemale čačipa e sa dženengere ke manušengiri familija si fundamenti e tromalipasko, čačipaskoro thaj e sansareskoro ko sumnal.
 Soske o bipaćape thaj o bidikhipe e čačipaskoro e manušesko legari sine ko varvarsko džaiba so ladžarela sine i gnd e manušipeskoro, thaj sose o kheripe e sumnalesko kaj so e manušeskiri struktura ka dživdini tromalipe ko vakeribe thaj religija thaj ka oven tromane kotar o daripa thaj o čororipa si proklamirimo sar emučo ideali sakone manušeske.
 Soske si barikano o čačipe e manušesko te oven preventirime kotar o čačipnalo sistemi te na bi ovela o manuš phaldino t ebuninipe kontra i tiranija thaj i exploatacija.
 Soske si trubutno te inicirinipe o progresi e dostengoro relacijengoro maškaro nacije.

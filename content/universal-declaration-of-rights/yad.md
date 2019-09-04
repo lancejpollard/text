@@ -1,6 +1,6 @@
 <h1 align='center'>TUCHODA TITAJU NIJYANVAJYU VURYATIDYE VICHASARA SAMIRYA VARIY</h1>
-<h2 align='center'>Tarajura Rityuchoda Darya</h2>
-<p align='center'>VUTYUVACHU RAMU JIRYA: rirvatidye vichasara nijyanvay jmurvasavay, samivye jarye, jiryatiy runuchara nutityumiy samiy riñecho, vurvama datya itjau jiryatiy vurvupedamusiy vuvyta rirvatidye jnuy tjau nijynvay samiy vuñecho;
+<h2>Tarajura Rityuchoda Darya</h2>
+<p>VUTYUVACHU RAMU JIRYA: rirvatidye vichasara nijyanvay jmurvasavay, samivye jarye, jiryatiy runuchara nutityumiy samiy riñecho, vurvama datya itjau jiryatiy vurvupedamusiy vuvyta rirvatidye jnuy tjau nijynvay samiy vuñecho;
 VUTYUVACHU RAMU JIRYANTIY: riryavatyda tavaryi nijyanvay jasicharjau riryantadeda variryi. Ridyetyisadamu yavatyadariy nijyanvay, rirvavirvutyada varirya nijyanvay vichada. Ramunjtiy vutyuchura jiryatiy nijyanvay vatasara jaryirya: nvyichary samiryamu, ne ñrvasuvuy tara, darvantyamuy jantyuyadavay. Riñiquery ntyuvachuruy variy jivyatadamusiy;
 VUTYUVACHU RAMUNTIY: jiryatiy nijyanvay jantyuyadavay vata jnutityumura jmutyada riryimya javatya tavay nijyanvantyirvi, riñuma murchenrrva yavatyasada mudodta. Ramunitiy rivyatara nutitymiy jmutyada, ribey liita jiñiquejada variy;
 VUTYUVACHU RAMUNTIY: jiryatiy raniy sitenu vatasara datyadoda jarvedo nijyanvay nutyaramusitya vuryivichasara samirya vutyunu vichavatya;

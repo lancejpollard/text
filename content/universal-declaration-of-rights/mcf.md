@@ -1,6 +1,6 @@
 <h1 align='center'>Nidaid Abitedinoësh Cho-choquidon Bëdamboec Tabadte Chiaid</h1>
-<h2 align='center'>Utsi Chuinuen Naden chuinëdash</h2>
-<p align='center'>Adashic: - Bëdamboec tabadnuna, quesho: Ai, mimbi chiac padec tabadnuna, matses abitedimbo chuinanubi:
+<h2>Utsi Chuinuen Naden chuinëdash</h2>
+<p>Adashic: - Bëdamboec tabadnuna, quesho: Ai, mimbi chiac padec tabadnuna, matses abitedimbo chuinanubi:
 Mibi bëdamboec tabashobi cueschitono, quequid nibedtsiash. Cuesnanenquio matses ictsiash. Icsauanquid chushcatsiash. Bëdambocquid bëdamboen ispatsiash - quequin chuipanedash nidaid abitedinoësh cho-choquidon.
 Adashic: - Enden: Bëdamboec tabadnu, quesho: Padi. Cueschitono, quequin icsamenëdaidi nëbi utsi uanuna. Naden chuinanuna. Mimbi tantiaidi chuita. Utsibon chuisho tantiate bonquin tantiata. Dacuëdenquiocquin nata. Mibi cuestiapimbo iquebi - quequin chuinanuna. Adec matses utsi-utsiquetsëcquiec nuquibi bëdamboec tabadtsiashe - quequin chuipanëdash nidaid abitedinoësh cho-choquidon.
 Adashic: - Bëdamboec tabadnuna, quequin neid chiaid isun chuiquid dapan: Ai, bëdamboen chiacpadec tabadnuna, aton matses chiac bëdambo ictsiash. Aid chuiquid dapa caic: Icsambo iqueque. Cuesunechitono, utsibon cac icsambo ictsiash - quequin chuipanëdash nidaid abitedinoësh cho-choquidon.

@@ -1,6 +1,6 @@
 <h1 align='center'>ITANGAZO RYAMAMAZA HOSE AGACIRO K'UMUNTU</h1>
-<h2 align='center'>Intangiliro.</h2>
-<p align='center'>Ikoraniro rusange lilibutsa ko:
+<h2>Intangiliro.</h2>
+<p>Ikoraniro rusange lilibutsa ko:
 - Ugushyira ukizana, ituze n'ubutungane mu bihugu bishingiye ku karusho ka buli muntu, kadasibangana, gahamya icyubahiro akwiye n'agaciro twese duhulijeho,
 - Gusuzugura no kwirengagiza ako gaciro n'icyubahiro bya buli muntu nibyo byateye bamwe imigenzereze isa n'iy'inyamaswa, umutima w'umuntu utakwihanganira. Nicyogituma twemeza ko icyo umuntu wese yimilije imbere y'ibindi al'ugushyira akizana, nta nkomyi mu mvugo no mu bitekerezo, akibera aho nta nduru nta butindi,
 - Ali ngombwa ko hashingwa amategeko arengera ako gaciro ka buli muntu, akamulinda ubuja n'agahato,

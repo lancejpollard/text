@@ -1,6 +1,6 @@
 <h1 align='center'>IHMISOIKEUKSIEN YLEISMAAILMALLINEN JULISTUS</h1>
-<h2 align='center'>JOHDANTO</h2>
-<p align='center'>Kun ihmiskunnan kaikkien jäsenten luonnollisen arvon ja heidän yhtäläisten ja luovuttamattomien oikeuksiensa tunnustaminen on vapauden, oikeudenmukaisuuden ja rauhan perustana maailmassa,
+<h2>JOHDANTO</h2>
+<p>Kun ihmiskunnan kaikkien jäsenten luonnollisen arvon ja heidän yhtäläisten ja luovuttamattomien oikeuksiensa tunnustaminen on vapauden, oikeudenmukaisuuden ja rauhan perustana maailmassa,
 kun ihmisoikeuksia on väheksytty tai ne on jätetty huomiota vaille, on tapahtunut raakalaistekoja, jotka ovat järkyttäneet ihmiskunnan omaatuntoa, ja kun kansojen korkeimmaksi päämääräksi on julistettu sellaisen maailman luominen, missä ihmiset voivat vapaasti nauttia sanan ja uskon vapautta sekä elää vapaina pelosta ja puutteesta,
 kun on välttämätöntä, että ihmisoikeudet turvataan oikeusjärjestyksellä, jotta ihmisten ei olisi pakko viimeisenä keinona nousta kapinaan pakkovaltaa ja sortoa vastaan,
 kun on tähdellistä edistää ystävällisten suhteiden kehittymistä kansojen välille,

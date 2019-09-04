@@ -1,6 +1,6 @@
 <h1 align='center'>BOIKANOKAKARETŠO BJA DITOKELO TŠA BOTHO</h1>
-<h2 align='center'>TEMOGO</h2>
-<p align='center'>Le ge re dutše re tseba gore seriti seo motho a belegilwego ka sona le tekatekanelo gammogo le ditokelo tšeo di sa tšeelwego kgang tša batho ka moka ke motheo wa tokologo ya toka le khutšo lefseng ka bophara.
+<h2>TEMOGO</h2>
+<p>Le ge re dutše re tseba gore seriti seo motho a belegilwego ka sona le tekatekanelo gammogo le ditokelo tšeo di sa tšeelwego kgang tša batho ka moka ke motheo wa tokologo ya toka le khutšo lefseng ka bophara.
 Le ge re dutše re tseba gore go se elwe hloko le go phaelwa ka thoko ga ditokelo tša botho go tlišitše dilešadihlong tšeo di rumutšego le go šišinya maikutlo le letswalo la botho bathong, go tla ga pono le tebelelo ye mpsha mo lefaseng yeo e ikemišeditšego go ela hloko gore batho ba swanetše go ipshina ka tokologo ya polelo, ya bodumedi gammogo le go se tšhoge selo goba gona go duma, go dirile gore se se boletšwego ka mo godimo e be dinyakwa tša maemo a godimodimo tša batho ka moka.
 Le ge re dutše re tseba gore go bohlokwa, ntle le ge motho a gapeletšwa ke mabaka, go thibela ka gohlegohle pušo ya mmušakatshipi le kgatelelo gore ditokelo tša botho di swanetše go šireletšwa ke molao.
 Le ge re dutše re tseba gore go bohlokwa go godiša tšweletšopele ya segwera magareng a ditšhaba.

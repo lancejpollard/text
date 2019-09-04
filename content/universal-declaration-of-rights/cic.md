@@ -1,6 +1,6 @@
 <h1 align='center'>Hattak Mó̱ma I̱holisso</h1>
-<h2 align='center'>Ishtaa-aya Ámmo'na Holisso</h2>
-<p align='center'>Hattakat yaakni' áyya'shakat mó̱makat ittíllawwi bíyyi'ka. Naalhpisa'at hattak mó̱makat immi'. A̱lhínchikma̱ hattak mó̱makat ishtayoppa'ni.
+<h2>Ishtaa-aya Ámmo'na Holisso</h2>
+<p>Hattakat yaakni' áyya'shakat mó̱makat ittíllawwi bíyyi'ka. Naalhpisa'at hattak mó̱makat immi'. A̱lhínchikma̱ hattak mó̱makat ishtayoppa'ni.
 Hookya nannalhpisa' ihíngbittooka̱ ittimi̱lat taha. Himmaka̱ hattakat aa-áyya'shahookano ilaapo' nanna anokfillikakoot nannikchokmoho̱ anokfillihootokoot yammako̱ yahmichi bannahoot áyya'sha.
 Nannalhpisa' ihíngbittookookano kaniya'chi ki'yo. Immoot mahá̱a'chi hattakat áyya'sha aalhlhika̱.
 Nannalhpisa' ihíngbittooka̱ immoot mahá̱ahookya hattakat ikayoppa'chokmat ibaachaffa ikbannokmat ilaapo' nanna aanokfillikakoot yahmichi bannahoot áyya'sha.

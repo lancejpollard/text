@@ -1,6 +1,6 @@
 <h1 align='center'>Danezana gerdûnî ya mafên mirov</h1>
-<h2 align='center'>Dîbaçe</h2>
-<p align='center'>Herwekî nasîna weqara pêgirê hemû endamên malbata mirovî û mafên wan ên wekhev û (jênager) bingehe azadî, dad û aşitiya cihanê pêk tîne,
+<h2>Dîbaçe</h2>
+<p>Herwekî nasîna weqara pêgirê hemû endamên malbata mirovî û mafên wan ên wekhev û (jênager) bingehe azadî, dad û aşitiya cihanê pêk tîne,
 Herwekî nenasîn û piçûkdîtina mafên mirov rê dan barbar ku wijdana mirovhiyê didin isyanê û avakirina cihaneke ku tê de ewê heyinên mirovî di peyivîn û bawerkirinê de serbest bin, ji xof û belengaziyê rizgar bin wek xweziya bilindtirîn a mirov hate îlan kirin,
 Herweki bingehî ye ku mafên mirov ji alî rejîmeke hiqûqî bên parastin ji bo ku mirov mecbûr nemîne, wek çara dawîn, li dijî zorkarî û zulmê rabe,
 Herkekî teşwîqa pêşvebirina peywendiyên dostaniyê di navbera neteweyan de bingehî ye,
