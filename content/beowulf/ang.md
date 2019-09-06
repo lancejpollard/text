@@ -1,3223 +1,3223 @@
-Hwæt! We Gardena     in geardagum,  
-þeodcyninga,     þrym gefrunon,  
-hu ða æþelingas     ellen fremedon.  
-Oft Scyld Scefing     sceaþena þreatum,  
-monegum mægþum,     meodosetla ofteah,  
-egsode eorlas.     Syððan ærest wearð  
-feasceaft funden,     he þæs frofre gebad,  
-weox under wolcnum,     weorðmyndum þah,  
-oðþæt him æghwylc     þara ymbsittendra  
-ofer hronrade     hyran scolde,  
-gomban gyldan.     Þæt wæs god cyning!  
-Ðæm eafera wæs     æfter cenned,  
-geong in geardum,     þone god sende  
-folce to frofre;     fyrenðearfe ongeat  
-þe hie ær drugon     aldorlease  
-lange hwile.     Him þæs liffrea,  
-wuldres wealdend,     woroldare forgeaf;  
-Beowulf wæs breme     (blæd wide sprang),  
-Scyldes eafera     Scedelandum in.  
-Swa sceal geong guma     gode gewyrcean,  
-fromum feohgiftum     on fæder bearme,  
-þæt hine on ylde     eft gewunigen  
-wilgesiþas,     þonne wig cume,  
-leode gelæsten;     lofdædum sceal  
-in mægþa gehwære     man geþeon.  
-Him ða Scyld gewat     to gescæphwile  
-felahror feran     on frean wære.  
-Hi hyne þa ætbæron     to brimes faroðe,  
-swæse gesiþas,     swa he selfa bæd,  
-þenden wordum weold     wine Scyldinga;  
-leof landfruma     lange ahte.  
-Þær æt hyðe stod     hringedstefna,  
-isig ond utfus,     æþelinges fær.  
-Aledon þa     leofne þeoden,  
-beaga bryttan,     on bearm scipes,  
-mærne be mæste.     Þær wæs madma fela  
-of feorwegum,     frætwa, gelæded;  
-ne hyrde ic cymlicor     ceol gegyrwan  
-hildewæpnum     ond heaðowædum,  
-billum ond byrnum;     him on bearme læg  
-madma mænigo,     þa him mid scoldon  
-on flodes æht     feor gewitan.  
-Nalæs hi hine læssan     lacum teodan,  
-þeodgestreonum,     þon þa dydon  
-þe hine æt frumsceafte     forð onsendon  
-ænne ofer yðe     umborwesende.  
-Þa gyt hie him asetton     segen geldenne  
-heah ofer heafod,     leton holm beran,  
-geafon on garsecg;     him wæs geomor sefa,  
-murnende mod.     Men ne cunnon  
-secgan to soðe,     selerædende,  
-hæleð under heofenum,     hwa þæm hlæste onfeng.  
+Hwæt! We Gardena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in geardagum,  
+þeodcyninga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þrym gefrunon,  
+hu ða æþelingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ellen fremedon.  
+Oft Scyld Scefing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceaþena þreatum,  
+monegum mægþum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meodosetla ofteah,  
+egsode eorlas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Syððan ærest wearð  
+feasceaft funden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he þæs frofre gebad,  
+weox under wolcnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorðmyndum þah,  
+oðþæt him æghwylc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara ymbsittendra  
+ofer hronrade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyran scolde,  
+gomban gyldan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs god cyning!  
+Ðæm eafera wæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfter cenned,  
+geong in geardum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone god sende  
+folce to frofre;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrenðearfe ongeat  
+þe hie ær drugon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aldorlease  
+lange hwile.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him þæs liffrea,  
+wuldres wealdend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;woroldare forgeaf;  
+Beowulf wæs breme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(blæd wide sprang),  
+Scyldes eafera&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scedelandum in.  
+Swa sceal geong guma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode gewyrcean,  
+fromum feohgiftum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on fæder bearme,  
+þæt hine on ylde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft gewunigen  
+wilgesiþas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne wig cume,  
+leode gelæsten;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lofdædum sceal  
+in mægþa gehwære&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;man geþeon.  
+Him ða Scyld gewat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to gescæphwile  
+felahror feran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on frean wære.  
+Hi hyne þa ætbæron&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to brimes faroðe,  
+swæse gesiþas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he selfa bæd,  
+þenden wordum weold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine Scyldinga;  
+leof landfruma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lange ahte.  
+Þær æt hyðe stod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringedstefna,  
+isig ond utfus,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþelinges fær.  
+Aledon þa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofne þeoden,  
+beaga bryttan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on bearm scipes,  
+mærne be mæste.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þær wæs madma fela  
+of feorwegum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frætwa, gelæded;  
+ne hyrde ic cymlicor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ceol gegyrwan  
+hildewæpnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond heaðowædum,  
+billum ond byrnum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him on bearme læg  
+madma mænigo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa him mid scoldon  
+on flodes æht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feor gewitan.  
+Nalæs hi hine læssan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lacum teodan,  
+þeodgestreonum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þon þa dydon  
+þe hine æt frumsceafte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð onsendon  
+ænne ofer yðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;umborwesende.  
+Þa gyt hie him asetton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;segen geldenne  
+heah ofer heafod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leton holm beran,  
+geafon on garsecg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him wæs geomor sefa,  
+murnende mod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Men ne cunnon  
+secgan to soðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selerædende,  
+hæleð under heofenum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwa þæm hlæste onfeng.  
   
-Ða wæs on burgum     Beowulf Scyldinga,  
-leof leodcyning,     longe þrage  
-folcum gefræge     (fæder ellor hwearf,  
-aldor of earde),     oþþæt him eft onwoc  
-heah Healfdene;     heold þenden lifde,  
-gamol ond guðreouw,     glæde Scyldingas.  
-Ðæm feower bearn     forð gerimed  
-in worold wocun,     weoroda ræswan,  
-Heorogar ond Hroðgar     ond Halga til;  
-hyrde ic þæt * * *     wæs Onelan cwen,  
-Heaðoscilfingas     healsgebedda.  
-Þa wæs Hroðgare     heresped gyfen,  
-wiges weorðmynd,     þæt him his winemagas  
-georne hyrdon,     oðð þæt seo geogoð geweox,  
-magodriht micel.     Him on mod bearn  
-þæt healreced     hatan wolde,  
-medoærn micel,     men gewyrcean  
-þonne yldo bearn     æfre gefrunon,  
-ond þær on innan     eall gedælan  
-geongum ond ealdum,     swylc him god sealde,  
-buton folcscare     ond feorum gumena.  
-Ða ic wide gefrægn     weorc gebannan  
-manigre mægþe     geond þisne middangeard,  
-folcstede frætwan.     Him on fyrste gelomp,  
-ædre mid yldum,     þæt hit wearð ealgearo,  
-healærna mæst;     scop him Heort naman  
-se þe his wordes geweald     wide hæfde.  
-He beot ne aleh,     beagas dælde,  
-sinc æt symle.     Sele hlifade,  
-heah ond horngeap,     heaðowylma bad,  
-laðan liges;     ne wæs hit lenge þa gen  
-þæt se ecghete     aþumsweorum  
-æfter wælniðe     wæcnan scolde.  
-Ða se ellengæst     earfoðlice  
-þrage geþolode,     se þe in þystrum bad,  
-þæt he dogora gehwam     dream gehyrde  
-hludne in healle;     þær wæs hearpan sweg,  
-swutol sang scopes.     Sægde se þe cuþe  
-frumsceaft fira     feorran reccan,  
-cwæð þæt se ælmihtiga     eorðan worhte,  
-wlitebeorhtne wang,     swa wæter bebugeð,  
-gesette sigehreþig     sunnan ond monan  
-leoman to leohte     landbuendum  
-ond gefrætwade     foldan sceatas  
-leomum ond leafum,     lif eac gesceop  
-cynna gehwylcum     þara ðe cwice hwyrfaþ.  
-Swa ða drihtguman     dreamum lifdon  
-eadiglice,     oððæt an ongan  
-fyrene fremman     feond on helle.  
-Wæs se grimma gæst     Grendel haten,  
-mære mearcstapa,     se þe moras heold,  
-fen ond fæsten;     fifelcynnes eard  
-wonsæli wer     weardode hwile,  
-siþðan him scyppend     forscrifen hæfde  
-in Caines cynne.     Þone cwealm gewræc  
-ece drihten,     þæs þe he Abel slog;  
-ne gefeah he þære fæhðe,     ac he hine feor forwræc,  
-metod for þy mane,     mancynne fram.  
-Þanon untydras     ealle onwocon,  
-eotenas ond ylfe     ond orcneas,  
-swylce gigantas,     þa wið gode wunnon  
-lange þrage;     he him ðæs lean forgeald.  
+Ða wæs on burgum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulf Scyldinga,  
+leof leodcyning,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;longe þrage  
+folcum gefræge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(fæder ellor hwearf,  
+aldor of earde),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt him eft onwoc  
+heah Healfdene;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heold þenden lifde,  
+gamol ond guðreouw,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;glæde Scyldingas.  
+Ðæm feower bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð gerimed  
+in worold wocun,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weoroda ræswan,  
+Heorogar ond Hroðgar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond Halga til;  
+hyrde ic þæt * * *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs Onelan cwen,  
+Heaðoscilfingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;healsgebedda.  
+Þa wæs Hroðgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heresped gyfen,  
+wiges weorðmynd,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt him his winemagas  
+georne hyrdon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðð þæt seo geogoð geweox,  
+magodriht micel.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him on mod bearn  
+þæt healreced&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hatan wolde,  
+medoærn micel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;men gewyrcean  
+þonne yldo bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfre gefrunon,  
+ond þær on innan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eall gedælan  
+geongum ond ealdum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylc him god sealde,  
+buton folcscare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond feorum gumena.  
+Ða ic wide gefrægn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorc gebannan  
+manigre mægþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geond þisne middangeard,  
+folcstede frætwan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him on fyrste gelomp,  
+ædre mid yldum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hit wearð ealgearo,  
+healærna mæst;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scop him Heort naman  
+se þe his wordes geweald&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide hæfde.  
+He beot ne aleh,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beagas dælde,  
+sinc æt symle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sele hlifade,  
+heah ond horngeap,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heaðowylma bad,  
+laðan liges;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne wæs hit lenge þa gen  
+þæt se ecghete&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aþumsweorum  
+æfter wælniðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæcnan scolde.  
+Ða se ellengæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earfoðlice  
+þrage geþolode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe in þystrum bad,  
+þæt he dogora gehwam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dream gehyrde  
+hludne in healle;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær wæs hearpan sweg,  
+swutol sang scopes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sægde se þe cuþe  
+frumsceaft fira&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorran reccan,  
+cwæð þæt se ælmihtiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorðan worhte,  
+wlitebeorhtne wang,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa wæter bebugeð,  
+gesette sigehreþig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunnan ond monan  
+leoman to leohte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;landbuendum  
+ond gefrætwade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;foldan sceatas  
+leomum ond leafum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lif eac gesceop  
+cynna gehwylcum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara ðe cwice hwyrfaþ.  
+Swa ða drihtguman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dreamum lifdon  
+eadiglice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt an ongan  
+fyrene fremman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feond on helle.  
+Wæs se grimma gæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendel haten,  
+mære mearcstapa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe moras heold,  
+fen ond fæsten;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fifelcynnes eard  
+wonsæli wer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weardode hwile,  
+siþðan him scyppend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forscrifen hæfde  
+in Caines cynne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þone cwealm gewræc  
+ece drihten,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs þe he Abel slog;  
+ne gefeah he þære fæhðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he hine feor forwræc,  
+metod for þy mane,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mancynne fram.  
+Þanon untydras&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealle onwocon,  
+eotenas ond ylfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond orcneas,  
+swylce gigantas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa wið gode wunnon  
+lange þrage;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he him ðæs lean forgeald.  
   
-Gewat ða neosian,     syþðan niht becom,  
-hean huses,     hu hit Hringdene  
-æfter beorþege     gebun hæfdon.  
-Fand þa ðær inne     æþelinga gedriht  
-swefan æfter symble;     sorge ne cuðon,  
-wonsceaft wera.     Wiht unhælo,  
-grim ond grædig,     gearo sona wæs,  
-reoc ond reþe,     ond on ræste genam  
-þritig þegna,     þanon eft gewat  
-huðe hremig     to ham faran,  
-mid þære wælfylle     wica neosan.  
-Ða wæs on uhtan     mid ærdæge  
-Grendles guðcræft     gumum undyrne;  
-þa wæs æfter wiste     wop up ahafen,  
-micel morgensweg.     Mære þeoden,  
-æþeling ærgod,     unbliðe sæt,  
-þolode ðryðswyð,     þegnsorge dreah,  
-syðþan hie þæs laðan     last sceawedon,  
-wergan gastes;     wæs þæt gewin to strang,  
-lað ond longsum.     Næs hit lengra fyrst,  
-ac ymb ane niht     eft gefremede  
-morðbeala mare     ond no mearn fore,  
-fæhðe ond fyrene;     wæs to fæst on þam.  
-Þa wæs eaðfynde     þe him elles hwær  
-gerumlicor     ræste sohte,  
-bed æfter burum,     ða him gebeacnod wæs,  
-gesægd soðlice     sweotolan tacne  
-healðegnes hete;     heold hyne syðþan  
-fyr ond fæstor     se þæm feonde ætwand.  
-Swa rixode     ond wið rihte wan,  
-ana wið eallum,     oðþæt idel stod  
-husa selest.     Wæs seo hwil micel;  
-XII wintra tid     torn geþolode  
-wine Scyldinga,     weana gehwelcne,  
-sidra sorga.     Forðam secgum wearð,  
-ylda bearnum,     undyrne cuð,  
-gyddum geomore,     þætte Grendel wan  
-hwile wið Hroþgar,     heteniðas wæg,  
-fyrene ond fæhðe     fela missera,  
-singale sæce,     sibbe ne wolde  
-wið manna hwone     mægenes Deniga,  
-feorhbealo feorran,     fea þingian,  
-ne þær nænig witena     wenan þorfte  
-beorhtre bote     to banan folmum,  
-ac se æglæca     ehtende wæs,  
-deorc deaþscua,     duguþe ond geogoþe,  
-seomade ond syrede,     sinnihte heold  
-mistige moras;     men ne cunnon  
-hwyder helrunan     hwyrftum scriþað.  
-Swa fela fyrena     feond mancynnes,  
-atol angengea,     oft gefremede,  
-heardra hynða.     Heorot eardode,  
-sincfage sel     sweartum nihtum;  
-no he þone gifstol     gretan moste,  
-maþðum for metode,     ne his myne wisse.  
-Þæt wæs wræc micel     wine Scyldinga,  
-modes brecða.     Monig oft gesæt  
-rice to rune;     ræd eahtedon  
-hwæt swiðferhðum     selest wære  
-wið færgryrum     to gefremmanne.  
-Hwilum hie geheton     æt hærgtrafum  
-wigweorþunga,     wordum bædon  
-þæt him gastbona     geoce gefremede  
-wið þeodþreaum.     Swylc wæs þeaw hyra,  
-hæþenra hyht;     helle gemundon  
-in modsefan,     metod hie ne cuþon,  
-dæda demend,     ne wiston hie drihten god,  
-ne hie huru heofena helm     herian ne cuþon,  
-wuldres waldend.     Wa bið þæm ðe sceal  
-þurh sliðne nið     sawle bescufan  
-in fyres fæþm,     frofre ne wenan,  
-wihte gewendan;     wel bið þæm þe mot  
-æfter deaðdæge     drihten secean  
-ond to fæder fæþmum     freoðo wilnian.  
+Gewat ða neosian,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syþðan niht becom,  
+hean huses,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hu hit Hringdene  
+æfter beorþege&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gebun hæfdon.  
+Fand þa ðær inne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþelinga gedriht  
+swefan æfter symble;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sorge ne cuðon,  
+wonsceaft wera.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wiht unhælo,  
+grim ond grædig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearo sona wæs,  
+reoc ond reþe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on ræste genam  
+þritig þegna,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þanon eft gewat  
+huðe hremig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to ham faran,  
+mid þære wælfylle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wica neosan.  
+Ða wæs on uhtan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid ærdæge  
+Grendles guðcræft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumum undyrne;  
+þa wæs æfter wiste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wop up ahafen,  
+micel morgensweg.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mære þeoden,  
+æþeling ærgod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unbliðe sæt,  
+þolode ðryðswyð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þegnsorge dreah,  
+syðþan hie þæs laðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;last sceawedon,  
+wergan gastes;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs þæt gewin to strang,  
+lað ond longsum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs hit lengra fyrst,  
+ac ymb ane niht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft gefremede  
+morðbeala mare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond no mearn fore,  
+fæhðe ond fyrene;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs to fæst on þam.  
+Þa wæs eaðfynde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe him elles hwær  
+gerumlicor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ræste sohte,  
+bed æfter burum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða him gebeacnod wæs,  
+gesægd soðlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweotolan tacne  
+healðegnes hete;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heold hyne syðþan  
+fyr ond fæstor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þæm feonde ætwand.  
+Swa rixode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond wið rihte wan,  
+ana wið eallum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðþæt idel stod  
+husa selest.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs seo hwil micel;  
+XII wintra tid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;torn geþolode  
+wine Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weana gehwelcne,  
+sidra sorga.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forðam secgum wearð,  
+ylda bearnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;undyrne cuð,  
+gyddum geomore,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þætte Grendel wan  
+hwile wið Hroþgar,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heteniðas wæg,  
+fyrene ond fæhðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fela missera,  
+singale sæce,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sibbe ne wolde  
+wið manna hwone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenes Deniga,  
+feorhbealo feorran,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fea þingian,  
+ne þær nænig witena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wenan þorfte  
+beorhtre bote&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to banan folmum,  
+ac se æglæca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ehtende wæs,  
+deorc deaþscua,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;duguþe ond geogoþe,  
+seomade ond syrede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sinnihte heold  
+mistige moras;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;men ne cunnon  
+hwyder helrunan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwyrftum scriþað.  
+Swa fela fyrena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feond mancynnes,  
+atol angengea,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oft gefremede,  
+heardra hynða.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heorot eardode,  
+sincfage sel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweartum nihtum;  
+no he þone gifstol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gretan moste,  
+maþðum for metode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne his myne wisse.  
+Þæt wæs wræc micel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine Scyldinga,  
+modes brecða.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monig oft gesæt  
+rice to rune;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ræd eahtedon  
+hwæt swiðferhðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selest wære  
+wið færgryrum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to gefremmanne.  
+Hwilum hie geheton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt hærgtrafum  
+wigweorþunga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordum bædon  
+þæt him gastbona&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geoce gefremede  
+wið þeodþreaum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swylc wæs þeaw hyra,  
+hæþenra hyht;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helle gemundon  
+in modsefan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;metod hie ne cuþon,  
+dæda demend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne wiston hie drihten god,  
+ne hie huru heofena helm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;herian ne cuþon,  
+wuldres waldend.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wa bið þæm ðe sceal  
+þurh sliðne nið&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sawle bescufan  
+in fyres fæþm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frofre ne wenan,  
+wihte gewendan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wel bið þæm þe mot  
+æfter deaðdæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drihten secean  
+ond to fæder fæþmum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;freoðo wilnian.  
   
-Swa ða mælceare     maga Healfdenes  
-singala seað,     ne mihte snotor hæleð  
-wean onwendan;     wæs þæt gewin to swyð,  
-laþ ond longsum,     þe on ða leode becom,  
-nydwracu niþgrim,     nihtbealwa mæst.  
-Þæt fram ham gefrægn     Higelaces þegn,  
-god mid Geatum,     Grendles dæda;  
-se wæs moncynnes     mægenes strengest  
-on þæm dæge     þysses lifes,  
-æþele ond eacen.     Het him yðlidan  
-godne gegyrwan,     cwæð, he guðcyning  
-ofer swanrade     secean wolde,  
-mærne þeoden,     þa him wæs manna þearf.  
-Ðone siðfæt him     snotere ceorlas  
-lythwon logon,     þeah he him leof wære;  
-hwetton higerofne,     hæl sceawedon.  
-Hæfde se goda     Geata leoda  
-cempan gecorone     þara þe he cenoste  
-findan mihte;     XVna sum  
-sundwudu sohte;     secg wisade,  
-lagucræftig mon,     landgemyrcu.  
-Fyrst forð gewat.     Flota wæs on yðum,  
-bat under beorge.     Beornas gearwe  
-on stefn stigon;     streamas wundon,  
-sund wið sande;     secgas bæron  
-on bearm nacan     beorhte frætwe,  
-guðsearo geatolic;     guman ut scufon,  
-weras on wilsið,     wudu bundenne.  
-Gewat þa ofer wægholm,     winde gefysed,  
-flota famiheals     fugle gelicost,  
-oðþæt ymb antid     oþres dogores  
-wundenstefna     gewaden hæfde  
-þæt ða liðende     land gesawon,  
-brimclifu blican,     beorgas steape,  
-side sænæssas;     þa wæs sund liden,  
-eoletes æt ende.     Þanon up hraðe  
-Wedera leode     on wang stigon,  
-sæwudu sældon     (syrcan hrysedon,  
-guðgewædo),     gode þancedon  
-þæs þe him yþlade     eaðe wurdon.  
-Þa of wealle geseah     weard Scildinga,  
-se þe holmclifu     healdan scolde,  
-beran ofer bolcan     beorhte randas,  
-fyrdsearu fuslicu;     hine fyrwyt bræc  
-modgehygdum,     hwæt þa men wæron.  
-Gewat him þa to waroðe     wicge ridan  
-þegn Hroðgares,     þrymmum cwehte  
-mægenwudu mundum,     meþelwordum frægn:  
-"Hwæt syndon ge     searohæbbendra,  
-byrnum werede,     þe þus brontne ceol  
-ofer lagustræte     lædan cwomon,  
-hider ofer holmas?     ...le wæs  
-endesæta,     ægwearde heold,  
-þe on land Dena     laðra nænig  
-mid scipherge     sceðþan ne meahte.  
-No her cuðlicor     cuman ongunnon  
-lindhæbbende;     ne ge leafnesword  
-guðfremmendra     gearwe ne wisson,  
-maga gemedu.     Næfre ic maran geseah  
-eorla ofer eorþan     ðonne is eower sum,  
-secg on searwum;     nis þæt seldguma,  
-wæpnum geweorðad,     næfne him his wlite leoge,  
-ænlic ansyn.     Nu ic eower sceal  
-frumcyn witan,     ær ge fyr heonan,  
-leassceaweras,     on land Dena  
-furþur feran.     Nu ge feorbuend,  
-mereliðende,     minne gehyrað  
-anfealdne geþoht:     Ofost is selest  
-to gecyðanne     hwanan eowre cyme syndon."  
+Swa ða mælceare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maga Healfdenes  
+singala seað,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne mihte snotor hæleð  
+wean onwendan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs þæt gewin to swyð,  
+laþ ond longsum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe on ða leode becom,  
+nydwracu niþgrim,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nihtbealwa mæst.  
+Þæt fram ham gefrægn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelaces þegn,  
+god mid Geatum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendles dæda;  
+se wæs moncynnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenes strengest  
+on þæm dæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þysses lifes,  
+æþele ond eacen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Het him yðlidan  
+godne gegyrwan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cwæð, he guðcyning  
+ofer swanrade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secean wolde,  
+mærne þeoden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa him wæs manna þearf.  
+Ðone siðfæt him&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snotere ceorlas  
+lythwon logon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah he him leof wære;  
+hwetton higerofne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hæl sceawedon.  
+Hæfde se goda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leoda  
+cempan gecorone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara þe he cenoste  
+findan mihte;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XVna sum  
+sundwudu sohte;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secg wisade,  
+lagucræftig mon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;landgemyrcu.  
+Fyrst forð gewat.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flota wæs on yðum,  
+bat under beorge.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beornas gearwe  
+on stefn stigon;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;streamas wundon,  
+sund wið sande;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgas bæron  
+on bearm nacan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorhte frætwe,  
+guðsearo geatolic;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guman ut scufon,  
+weras on wilsið,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wudu bundenne.  
+Gewat þa ofer wægholm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;winde gefysed,  
+flota famiheals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fugle gelicost,  
+oðþæt ymb antid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþres dogores  
+wundenstefna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gewaden hæfde  
+þæt ða liðende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;land gesawon,  
+brimclifu blican,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorgas steape,  
+side sænæssas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa wæs sund liden,  
+eoletes æt ende.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þanon up hraðe  
+Wedera leode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on wang stigon,  
+sæwudu sældon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(syrcan hrysedon,  
+guðgewædo),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode þancedon  
+þæs þe him yþlade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eaðe wurdon.  
+Þa of wealle geseah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weard Scildinga,  
+se þe holmclifu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;healdan scolde,  
+beran ofer bolcan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorhte randas,  
+fyrdsearu fuslicu;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hine fyrwyt bræc  
+modgehygdum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæt þa men wæron.  
+Gewat him þa to waroðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wicge ridan  
+þegn Hroðgares,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þrymmum cwehte  
+mægenwudu mundum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meþelwordum frægn:  
+"Hwæt syndon ge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;searohæbbendra,  
+byrnum werede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe þus brontne ceol  
+ofer lagustræte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lædan cwomon,  
+hider ofer holmas?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...le wæs  
+endesæta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ægwearde heold,  
+þe on land Dena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laðra nænig  
+mid scipherge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceðþan ne meahte.  
+No her cuðlicor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cuman ongunnon  
+lindhæbbende;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne ge leafnesword  
+guðfremmendra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearwe ne wisson,  
+maga gemedu.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næfre ic maran geseah  
+eorla ofer eorþan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne is eower sum,  
+secg on searwum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nis þæt seldguma,  
+wæpnum geweorðad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næfne him his wlite leoge,  
+ænlic ansyn.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu ic eower sceal  
+frumcyn witan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær ge fyr heonan,  
+leassceaweras,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on land Dena  
+furþur feran.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu ge feorbuend,  
+mereliðende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minne gehyrað  
+anfealdne geþoht:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ofost is selest  
+to gecyðanne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwanan eowre cyme syndon."  
   
-Him se yldesta     ondswarode,  
-werodes wisa,     wordhord onleac:  
-"We synt gumcynnes     Geata leode  
-ond Higelaces     heorðgeneatas.  
-Wæs min fæder     folcum gecyþed,  
-æþele ordfruma,     Ecgþeow haten.  
-Gebad wintra worn,     ær he on weg hwurfe,  
-gamol of geardum;     hine gearwe geman  
-witena welhwylc     wide geond eorþan.  
-We þurh holdne hige     hlaford þinne,  
-sunu Healfdenes,     secean cwomon,  
-leodgebyrgean;     wes þu us larena god.  
-Habbað we to þæm mæran     micel ærende,  
-Deniga frean,     ne sceal þær dyrne sum  
-wesan, þæs ic wene.     Þu wast (gif hit is  
-swa we soþlice     secgan hyrdon)  
-þæt mid Scyldingum     sceaðona ic nat hwylc,  
-deogol dædhata,     deorcum nihtum  
-eaweð þurh egsan     uncuðne nið,  
-hynðu ond hrafyl.     Ic þæs Hroðgar mæg  
-þurh rumne sefan     ræd gelæran,  
-hu he frod ond god     feond oferswyðeþ,  
-gyf him edwendan     æfre scolde  
-bealuwa bisigu,     bot eft cuman,  
-ond þa cearwylmas     colran wurðaþ;  
-oððe a syþðan     earfoðþrage,  
-þreanyd þolað,     þenden þær wunað  
-on heahstede     husa selest."  
-Weard maþelode,     ðær on wicge sæt,  
-ombeht unforht:     "æghwæþres sceal  
-scearp scyldwiga     gescad witan,  
-worda ond worca,     se þe wel þenceð.  
-Ic þæt gehyre,     þæt þis is hold weorod  
-frean Scyldinga.     Gewitaþ forð beran  
-wæpen ond gewædu;     ic eow wisige.  
-Swylce ic maguþegnas     mine hate  
-wið feonda gehwone     flotan eowerne,  
-niwtyrwydne     nacan on sande  
-arum healdan,     oþðæt eft byreð  
-ofer lagustreamas     leofne mannan  
-wudu wundenhals     to Wedermearce,  
-godfremmendra     swylcum gifeþe bið  
-þæt þone hilderæs     hal gedigeð."  
-Gewiton him þa feran.     Flota stille bad,  
-seomode on sale     sidfæþmed scip,  
-on ancre fæst.     Eoforlic scionon  
-ofer hleorberan     gehroden golde,  
-fah ond fyrheard;     ferhwearde heold  
-guþmod grimmon.     Guman onetton,  
-sigon ætsomne,     oþþæt hy sæl timbred,  
-geatolic ond goldfah,     ongyton mihton;  
-þæt wæs foremærost     foldbuendum  
-receda under roderum,     on þæm se rica bad;  
-lixte se leoma     ofer landa fela.  
-Him þa hildedeor     hof modigra  
-torht getæhte,     þæt hie him to mihton  
-gegnum gangan;     guðbeorna sum  
-wicg gewende,     word æfter cwæð:  
-"Mæl is me to feran;     fæder alwalda  
-mid arstafum     eowic gehealde  
-siða gesunde.     Ic to sæ wille  
-wið wrað werod     wearde healdan."  
+Him se yldesta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ondswarode,  
+werodes wisa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordhord onleac:  
+"We synt gumcynnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leode  
+ond Higelaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorðgeneatas.  
+Wæs min fæder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folcum gecyþed,  
+æþele ordfruma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ecgþeow haten.  
+Gebad wintra worn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær he on weg hwurfe,  
+gamol of geardum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hine gearwe geman  
+witena welhwylc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide geond eorþan.  
+We þurh holdne hige&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlaford þinne,  
+sunu Healfdenes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secean cwomon,  
+leodgebyrgean;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wes þu us larena god.  
+Habbað we to þæm mæran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;micel ærende,  
+Deniga frean,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne sceal þær dyrne sum  
+wesan, þæs ic wene.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þu wast (gif hit is  
+swa we soþlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgan hyrdon)  
+þæt mid Scyldingum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceaðona ic nat hwylc,  
+deogol dædhata,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deorcum nihtum  
+eaweð þurh egsan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uncuðne nið,  
+hynðu ond hrafyl.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þæs Hroðgar mæg  
+þurh rumne sefan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ræd gelæran,  
+hu he frod ond god&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feond oferswyðeþ,  
+gyf him edwendan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfre scolde  
+bealuwa bisigu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bot eft cuman,  
+ond þa cearwylmas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;colran wurðaþ;  
+oððe a syþðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earfoðþrage,  
+þreanyd þolað,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þenden þær wunað  
+on heahstede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;husa selest."  
+Weard maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær on wicge sæt,  
+ombeht unforht:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"æghwæþres sceal  
+scearp scyldwiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gescad witan,  
+worda ond worca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe wel þenceð.  
+Ic þæt gehyre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þis is hold weorod  
+frean Scyldinga.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gewitaþ forð beran  
+wæpen ond gewædu;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic eow wisige.  
+Swylce ic maguþegnas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine hate  
+wið feonda gehwone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flotan eowerne,  
+niwtyrwydne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nacan on sande  
+arum healdan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþðæt eft byreð  
+ofer lagustreamas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofne mannan  
+wudu wundenhals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to Wedermearce,  
+godfremmendra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylcum gifeþe bið  
+þæt þone hilderæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hal gedigeð."  
+Gewiton him þa feran.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flota stille bad,  
+seomode on sale&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sidfæþmed scip,  
+on ancre fæst.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eoforlic scionon  
+ofer hleorberan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gehroden golde,  
+fah ond fyrheard;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ferhwearde heold  
+guþmod grimmon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guman onetton,  
+sigon ætsomne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt hy sæl timbred,  
+geatolic ond goldfah,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongyton mihton;  
+þæt wæs foremærost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;foldbuendum  
+receda under roderum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on þæm se rica bad;  
+lixte se leoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer landa fela.  
+Him þa hildedeor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hof modigra  
+torht getæhte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie him to mihton  
+gegnum gangan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðbeorna sum  
+wicg gewende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;word æfter cwæð:  
+"Mæl is me to feran;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæder alwalda  
+mid arstafum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eowic gehealde  
+siða gesunde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic to sæ wille  
+wið wrað werod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wearde healdan."  
   
-Stræt wæs stanfah,     stig wisode  
-gumum ætgædere.     Guðbyrne scan  
-heard hondlocen,     hringiren scir  
-song in searwum,     þa hie to sele furðum  
-in hyra gryregeatwum     gangan cwomon.  
-Setton sæmeþe     side scyldas,  
-rondas regnhearde,     wið þæs recedes weal,  
-bugon þa to bence.     Byrnan hringdon,  
-guðsearo gumena;     garas stodon,  
-sæmanna searo,     samod ætgædere,  
-æscholt ufan græg;     wæs se irenþreat  
-wæpnum gewurþad.     Þa ðær wlonc hæleð  
-oretmecgas     æfter æþelum frægn:  
-"Hwanon ferigeað ge     fætte scyldas,  
-græge syrcan     ond grimhelmas,  
-heresceafta heap?     Ic eom Hroðgares  
-ar ond ombiht.     Ne seah ic elþeodige  
-þus manige men     modiglicran.  
-Wen ic þæt ge for wlenco,     nalles for wræcsiðum,  
-ac for higeþrymmum     Hroðgar sohton."  
-Him þa ellenrof     andswarode,  
-wlanc Wedera leod,     word æfter spræc,  
-heard under helme:     "We synt Higelaces  
-beodgeneatas;     Beowulf is min nama.  
-Wille ic asecgan     sunu Healfdenes,  
-mærum þeodne,     min ærende,  
-aldre þinum,     gif he us geunnan wile  
-þæt we hine swa godne     gretan moton."  
-Wulfgar maþelode     (þæt wæs Wendla leod;  
-wæs his modsefa     manegum gecyðed,  
-wig ond wisdom):     "Ic þæs wine Deniga,  
-frean Scildinga,     frinan wille,  
-beaga bryttan,     swa þu bena eart,  
-þeoden mærne,     ymb þinne sið,  
-ond þe þa ondsware     ædre gecyðan  
-ðe me se goda     agifan þenceð."  
-Hwearf þa hrædlice     þær Hroðgar sæt  
-eald ond anhar     mid his eorla gedriht;  
-eode ellenrof,     þæt he for eaxlum gestod  
-Deniga frean;     cuþe he duguðe þeaw.  
-Wulfgar maðelode     to his winedrihtne:  
-"Her syndon geferede,     feorran cumene  
-ofer geofenes begang     Geata leode;  
-þone yldestan     oretmecgas  
-Beowulf nemnað.     Hy benan synt  
-þæt hie, þeoden min,     wið þe moton  
-wordum wrixlan.     No ðu him wearne geteoh  
-ðinra gegncwida,     glædman Hroðgar.  
-Hy on wiggetawum     wyrðe þinceað  
-eorla geæhtlan;     huru se aldor deah,  
-se þæm heaðorincum     hider wisade."  
+Stræt wæs stanfah,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stig wisode  
+gumum ætgædere.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guðbyrne scan  
+heard hondlocen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringiren scir  
+song in searwum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa hie to sele furðum  
+in hyra gryregeatwum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gangan cwomon.  
+Setton sæmeþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;side scyldas,  
+rondas regnhearde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wið þæs recedes weal,  
+bugon þa to bence.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Byrnan hringdon,  
+guðsearo gumena;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;garas stodon,  
+sæmanna searo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samod ætgædere,  
+æscholt ufan græg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs se irenþreat  
+wæpnum gewurþad.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa ðær wlonc hæleð  
+oretmecgas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfter æþelum frægn:  
+"Hwanon ferigeað ge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fætte scyldas,  
+græge syrcan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond grimhelmas,  
+heresceafta heap?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic eom Hroðgares  
+ar ond ombiht.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne seah ic elþeodige  
+þus manige men&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;modiglicran.  
+Wen ic þæt ge for wlenco,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalles for wræcsiðum,  
+ac for higeþrymmum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroðgar sohton."  
+Him þa ellenrof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;andswarode,  
+wlanc Wedera leod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;word æfter spræc,  
+heard under helme:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"We synt Higelaces  
+beodgeneatas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulf is min nama.  
+Wille ic asecgan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Healfdenes,  
+mærum þeodne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;min ærende,  
+aldre þinum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif he us geunnan wile  
+þæt we hine swa godne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gretan moton."  
+Wulfgar maþelode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(þæt wæs Wendla leod;  
+wæs his modsefa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manegum gecyðed,  
+wig ond wisdom):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Ic þæs wine Deniga,  
+frean Scildinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frinan wille,  
+beaga bryttan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa þu bena eart,  
+þeoden mærne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ymb þinne sið,  
+ond þe þa ondsware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ædre gecyðan  
+ðe me se goda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;agifan þenceð."  
+Hwearf þa hrædlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær Hroðgar sæt  
+eald ond anhar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid his eorla gedriht;  
+eode ellenrof,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he for eaxlum gestod  
+Deniga frean;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cuþe he duguðe þeaw.  
+Wulfgar maðelode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to his winedrihtne:  
+"Her syndon geferede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorran cumene  
+ofer geofenes begang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leode;  
+þone yldestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oretmecgas  
+Beowulf nemnað.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hy benan synt  
+þæt hie, þeoden min,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wið þe moton  
+wordum wrixlan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No ðu him wearne geteoh  
+ðinra gegncwida,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;glædman Hroðgar.  
+Hy on wiggetawum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrðe þinceað  
+eorla geæhtlan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;huru se aldor deah,  
+se þæm heaðorincum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hider wisade."  
   
-Hroðgar maþelode,     helm Scyldinga:  
-"Ic hine cuðe     cnihtwesende.  
-Wæs his ealdfæder     Ecgþeo haten,  
-ðæm to ham forgeaf     Hreþel Geata  
-angan dohtor;     is his eafora nu  
-heard her cumen,     sohte holdne wine.  
-Ðonne sægdon þæt     sæliþende,  
-þa ðe gifsceattas     Geata fyredon  
-þyder to þance,     þæt he XXXtiges  
-manna mægencræft     on his mundgripe  
-heaþorof hæbbe.     Hine halig god  
-for arstafum     us onsende,  
-to Westdenum,     þæs ic wen hæbbe,  
-wið Grendles gryre.     Ic þæm godan sceal  
-for his modþræce     madmas beodan.  
-Beo ðu on ofeste,     hat in gan  
-seon sibbegedriht     samod ætgædere;  
-gesaga him eac wordum     þæt hie sint wilcuman  
-Deniga leodum."      
-     word inne abead:  
-"Eow het secgan     sigedrihten min,  
-aldor Eastdena,     þæt he eower æþelu can,  
-ond ge him syndon     ofer sæwylmas  
-heardhicgende     hider wilcuman.  
-Nu ge moton gangan     in eowrum guðgeatawum  
-under heregriman     Hroðgar geseon;  
-lætað hildebord     her onbidan,  
-wudu, wælsceaftas,     worda geþinges."  
-Aras þa se rica,     ymb hine rinc manig,  
-þryðlic þegna heap;     sume þær bidon,  
-heaðoreaf heoldon,     swa him se hearda bebead.  
-Snyredon ætsomne,     þa secg wisode,  
-under Heorotes hrof      
-heard under helme,     þæt he on heoðe gestod.  
-Beowulf maðelode     (on him byrne scan,  
-searonet seowed     smiþes orþancum):  
-"Wæs þu, Hroðgar, hal!     Ic eom Higelaces  
-mæg ond magoðegn;     hæbbe ic mærða fela  
-ongunnen on geogoþe.     Me wearð Grendles þing  
-on minre eþeltyrf     undyrne cuð;  
-secgað sæliðend     þæt þæs sele stande,  
-reced selesta,     rinca gehwylcum  
-idel ond unnyt,     siððan æfenleoht  
-under heofenes hador     beholen weorþeð.  
-Þa me þæt gelærdon     leode mine  
-þa selestan,     snotere ceorlas,  
-þeoden Hroðgar,     þæt ic þe sohte,  
-forþan hie mægenes cræft     minne cuþon,  
-selfe ofersawon,     ða ic of searwum cwom,  
-fah from feondum,     þær ic fife geband,  
-yðde eotena cyn     ond on yðum slog  
-niceras nihtes,     nearoþearfe dreah,  
-wræc Wedera nið     (wean ahsodon),  
-forgrand gramum,     ond nu wið Grendel sceal,  
-wið þam aglæcan,     ana gehegan  
-ðing wið þyrse.     Ic þe nu ða,  
-brego Beorhtdena,     biddan wille,  
-eodor Scyldinga,     anre bene,  
-þæt ðu me ne forwyrne,     wigendra hleo,  
-freowine folca,     nu ic þus feorran com,  
-þæt ic mote ana     ond minra eorla gedryht,  
-þes hearda heap,     Heorot fælsian.  
-Hæbbe ic eac geahsod     þæt se æglæca  
-for his wonhydum     wæpna ne recceð.  
-Ic þæt þonne forhicge     (swa me Higelac sie,  
-min mondrihten,     modes bliðe),  
-þæt ic sweord bere     oþðe sidne scyld,  
-geolorand to guþe,     ac ic mid grape sceal  
-fon wið feonde     ond ymb feorh sacan,  
-lað wið laþum;     ðær gelyfan sceal  
-dryhtnes dome     se þe hine deað nimeð.  
-Wen ic þæt he wille,     gif he wealdan mot,  
-in þæm guðsele     Geotena leode  
-etan unforhte,     swa he oft dyde,  
-mægen Hreðmanna.     Na þu minne þearft  
-hafalan hydan,     ac he me habban wile  
-dreore fahne,     gif mec deað nimeð.  
-Byreð blodig wæl,     byrgean þenceð,  
-eteð angenga     unmurnlice,  
-mearcað morhopu;     no ðu ymb mines ne þearft  
-lices feorme     leng sorgian.  
-Onsend Higelace,     gif mec hild nime,  
-beaduscruda betst,     þæt mine breost wereð,  
-hrægla selest;     þæt is Hrædlan laf,  
-Welandes geweorc.     Gæð a wyrd swa hio scel."  
+Hroðgar maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm Scyldinga:  
+"Ic hine cuðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cnihtwesende.  
+Wæs his ealdfæder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ecgþeo haten,  
+ðæm to ham forgeaf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hreþel Geata  
+angan dohtor;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;is his eafora nu  
+heard her cumen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sohte holdne wine.  
+Ðonne sægdon þæt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sæliþende,  
+þa ðe gifsceattas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata fyredon  
+þyder to þance,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he XXXtiges  
+manna mægencræft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on his mundgripe  
+heaþorof hæbbe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hine halig god  
+for arstafum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;us onsende,  
+to Westdenum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs ic wen hæbbe,  
+wið Grendles gryre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þæm godan sceal  
+for his modþræce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;madmas beodan.  
+Beo ðu on ofeste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hat in gan  
+seon sibbegedriht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samod ætgædere;  
+gesaga him eac wordum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie sint wilcuman  
+Deniga leodum."&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;word inne abead:  
+"Eow het secgan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sigedrihten min,  
+aldor Eastdena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he eower æþelu can,  
+ond ge him syndon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer sæwylmas  
+heardhicgende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hider wilcuman.  
+Nu ge moton gangan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in eowrum guðgeatawum  
+under heregriman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroðgar geseon;  
+lætað hildebord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;her onbidan,  
+wudu, wælsceaftas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worda geþinges."  
+Aras þa se rica,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ymb hine rinc manig,  
+þryðlic þegna heap;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sume þær bidon,  
+heaðoreaf heoldon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him se hearda bebead.  
+Snyredon ætsomne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa secg wisode,  
+under Heorotes hrof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+heard under helme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he on heoðe gestod.  
+Beowulf maðelode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(on him byrne scan,  
+searonet seowed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;smiþes orþancum):  
+"Wæs þu, Hroðgar, hal!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic eom Higelaces  
+mæg ond magoðegn;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hæbbe ic mærða fela  
+ongunnen on geogoþe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Me wearð Grendles þing  
+on minre eþeltyrf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;undyrne cuð;  
+secgað sæliðend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þæs sele stande,  
+reced selesta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rinca gehwylcum  
+idel ond unnyt,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siððan æfenleoht  
+under heofenes hador&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beholen weorþeð.  
+Þa me þæt gelærdon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leode mine  
+þa selestan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snotere ceorlas,  
+þeoden Hroðgar,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic þe sohte,  
+forþan hie mægenes cræft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minne cuþon,  
+selfe ofersawon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða ic of searwum cwom,  
+fah from feondum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær ic fife geband,  
+yðde eotena cyn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on yðum slog  
+niceras nihtes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nearoþearfe dreah,  
+wræc Wedera nið&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(wean ahsodon),  
+forgrand gramum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond nu wið Grendel sceal,  
+wið þam aglæcan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ana gehegan  
+ðing wið þyrse.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þe nu ða,  
+brego Beorhtdena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biddan wille,  
+eodor Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anre bene,  
+þæt ðu me ne forwyrne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigendra hleo,  
+freowine folca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nu ic þus feorran com,  
+þæt ic mote ana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond minra eorla gedryht,  
+þes hearda heap,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heorot fælsian.  
+Hæbbe ic eac geahsod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt se æglæca  
+for his wonhydum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæpna ne recceð.  
+Ic þæt þonne forhicge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(swa me Higelac sie,  
+min mondrihten,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;modes bliðe),  
+þæt ic sweord bere&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþðe sidne scyld,  
+geolorand to guþe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac ic mid grape sceal  
+fon wið feonde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond ymb feorh sacan,  
+lað wið laþum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær gelyfan sceal  
+dryhtnes dome&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe hine deað nimeð.  
+Wen ic þæt he wille,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif he wealdan mot,  
+in þæm guðsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geotena leode  
+etan unforhte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he oft dyde,  
+mægen Hreðmanna.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na þu minne þearft  
+hafalan hydan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he me habban wile  
+dreore fahne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif mec deað nimeð.  
+Byreð blodig wæl,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byrgean þenceð,  
+eteð angenga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unmurnlice,  
+mearcað morhopu;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no ðu ymb mines ne þearft  
+lices feorme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leng sorgian.  
+Onsend Higelace,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif mec hild nime,  
+beaduscruda betst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt mine breost wereð,  
+hrægla selest;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt is Hrædlan laf,  
+Welandes geweorc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gæð a wyrd swa hio scel."  
   
-Hroðgar maþelode,     helm Scyldinga:  
-"For gewyrhtum þu,     wine min Beowulf,  
-ond for arstafum     usic sohtest.  
-Gesloh þin fæder     fæhðe mæste;  
-wearþ he Heaþolafe     to handbonan  
-mid Wilfingum;     ða hine Wedera cyn  
-for herebrogan     habban ne mihte.  
-Þanon he gesohte     Suðdena folc  
-ofer yða gewealc,     Arscyldinga.  
-Ða ic furþum weold     folce Deniga  
-ond on geogoðe heold     ginne rice,  
-hordburh hæleþa;     ða wæs Heregar dead,  
-min yldra mæg     unlifigende,  
-bearn Healfdenes;     se wæs betera ðonne ic.  
-Siððan þa fæhðe     feo þingode;  
-sende ic Wylfingum     ofer wæteres hrycg  
-ealde madmas;     he me aþas swor.  
-Sorh is me to secganne     on sefan minum  
-gumena ængum     hwæt me Grendel hafað  
-hynðo on Heorote     mid his heteþancum,  
-færniða gefremed.     Is min fletwerod,  
-wigheap gewanod;     hie wyrd forsweop  
-on Grendles gryre.     God eaþe mæg  
-þone dolsceaðan     dæda getwæfan.  
-Ful oft gebeotedon     beore druncne  
-ofer ealowæge     oretmecgas  
-þæt hie in beorsele     bidan woldon  
-Grendles guþe     mid gryrum ecga.  
-Ðonne wæs þeos medoheal     on morgentid,  
-drihtsele dreorfah,     þonne dæg lixte,  
-eal bencþelu     blode bestymed,  
-heall heorudreore;     ahte ic holdra þy læs,  
-deorre duguðe,     þe þa deað fornam.  
-Site nu to symle     ond onsæl meoto,  
-sigehreð secgum,     swa þin sefa hwette."  
-Þa wæs Geatmæcgum     geador ætsomne  
-on beorsele     benc gerymed;  
-þær swiðferhþe     sittan eodon,  
-þryðum dealle.     Þegn nytte beheold,  
-se þe on handa bær     hroden ealowæge,  
-scencte scir wered.     Scop hwilum sang  
-hador on Heorote.     Þær wæs hæleða dream,  
-duguð unlytel     Dena ond Wedera.  
+Hroðgar maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm Scyldinga:  
+"For gewyrhtum þu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine min Beowulf,  
+ond for arstafum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;usic sohtest.  
+Gesloh þin fæder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæhðe mæste;  
+wearþ he Heaþolafe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to handbonan  
+mid Wilfingum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða hine Wedera cyn  
+for herebrogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;habban ne mihte.  
+Þanon he gesohte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suðdena folc  
+ofer yða gewealc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arscyldinga.  
+Ða ic furþum weold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folce Deniga  
+ond on geogoðe heold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ginne rice,  
+hordburh hæleþa;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða wæs Heregar dead,  
+min yldra mæg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unlifigende,  
+bearn Healfdenes;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se wæs betera ðonne ic.  
+Siððan þa fæhðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feo þingode;  
+sende ic Wylfingum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer wæteres hrycg  
+ealde madmas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he me aþas swor.  
+Sorh is me to secganne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sefan minum  
+gumena ængum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæt me Grendel hafað  
+hynðo on Heorote&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid his heteþancum,  
+færniða gefremed.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is min fletwerod,  
+wigheap gewanod;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hie wyrd forsweop  
+on Grendles gryre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;God eaþe mæg  
+þone dolsceaðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dæda getwæfan.  
+Ful oft gebeotedon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beore druncne  
+ofer ealowæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oretmecgas  
+þæt hie in beorsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bidan woldon  
+Grendles guþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid gryrum ecga.  
+Ðonne wæs þeos medoheal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on morgentid,  
+drihtsele dreorfah,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne dæg lixte,  
+eal bencþelu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blode bestymed,  
+heall heorudreore;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ahte ic holdra þy læs,  
+deorre duguðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe þa deað fornam.  
+Site nu to symle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond onsæl meoto,  
+sigehreð secgum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa þin sefa hwette."  
+Þa wæs Geatmæcgum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geador ætsomne  
+on beorsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;benc gerymed;  
+þær swiðferhþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sittan eodon,  
+þryðum dealle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þegn nytte beheold,  
+se þe on handa bær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hroden ealowæge,  
+scencte scir wered.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scop hwilum sang  
+hador on Heorote.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þær wæs hæleða dream,  
+duguð unlytel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dena ond Wedera.  
   
-Unferð maþelode,     Ecglafes bearn,  
-þe æt fotum sæt     frean Scyldinga,  
-onband beadurune     (wæs him Beowulfes sið,  
-modges merefaran,     micel æfþunca,  
-forþon þe he ne uþe     þæt ænig oðer man  
-æfre mærða þon ma     middangeardes  
-gehedde under heofenum     þonne he sylfa):  
-"Eart þu se Beowulf,     se þe wið Brecan wunne,  
-on sidne sæ     ymb sund flite,  
-ðær git for wlence     wada cunnedon  
-ond for dolgilpe     on deop wæter  
-aldrum neþdon?     Ne inc ænig mon,  
-ne leof ne lað,     belean mihte  
-sorhfullne sið,     þa git on sund reon.  
-Þær git eagorstream     earmum þehton,  
-mæton merestræta,     mundum brugdon,  
-glidon ofer garsecg;     geofon yþum weol,  
-wintrys wylmum.     Git on wæteres æht  
-seofon niht swuncon;     he þe æt sunde oferflat,  
-hæfde mare mægen.     Þa hine on morgentid  
-on Heaþoræmas     holm up ætbær;  
-ðonon he gesohte     swæsne ᛟ,  
-leof his leodum,     lond Brondinga,  
-freoðoburh fægere,     þær he folc ahte,  
-burh ond beagas.     Beot eal wið þe  
-sunu Beanstanes     soðe gelæste.  
-Ðonne wene ic to þe     wyrsan geþingea,  
-ðeah þu heaðoræsa     gehwær dohte,  
-grimre guðe,     gif þu Grendles dearst  
-nihtlongne fyrst     nean bidan."  
-Beowulf maþelode,     bearn Ecgþeowes:  
-"Hwæt! þu worn fela,     wine min Unferð,  
-beore druncen     ymb Brecan spræce,  
-sægdest from his siðe.     Soð ic talige,  
-þæt ic merestrengo     maran ahte,  
-earfeþo on yþum,     ðonne ænig oþer man.  
-Wit þæt gecwædon     cnihtwesende  
-ond gebeotedon     (wæron begen þa git  
-on geogoðfeore)     þæt wit on garsecg ut  
-aldrum neðdon,     ond þæt geæfndon swa.  
-Hæfdon swurd nacod,     þa wit on sund reon,  
-heard on handa;     wit unc wið hronfixas  
-werian þohton.     No he wiht fram me  
-flodyþum feor     fleotan meahte,  
-hraþor on holme;     no ic fram him wolde.  
-Ða wit ætsomne     on sæ wæron  
-fif nihta fyrst,     oþþæt unc flod todraf,  
-wado weallende,     wedera cealdost,  
-nipende niht,     ond norþanwind  
-heaðogrim ondhwearf;     hreo wæron yþa.  
-Wæs merefixa     mod onhrered;  
-þær me wið laðum     licsyrce min,  
-heard, hondlocen,     helpe gefremede,  
-beadohrægl broden     on breostum læg  
-golde gegyrwed.     Me to grunde teah  
-fah feondscaða,     fæste hæfde  
-grim on grape;     hwæþre me gyfeþe wearð  
-þæt ic aglæcan     orde geræhte,  
-hildebille;     heaþoræs fornam  
-mihtig meredeor     þurh mine hand.  
+Unferð maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ecglafes bearn,  
+þe æt fotum sæt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frean Scyldinga,  
+onband beadurune&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(wæs him Beowulfes sið,  
+modges merefaran,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;micel æfþunca,  
+forþon þe he ne uþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ænig oðer man  
+æfre mærða þon ma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;middangeardes  
+gehedde under heofenum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne he sylfa):  
+"Eart þu se Beowulf,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe wið Brecan wunne,  
+on sidne sæ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ymb sund flite,  
+ðær git for wlence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wada cunnedon  
+ond for dolgilpe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on deop wæter  
+aldrum neþdon?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne inc ænig mon,  
+ne leof ne lað,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;belean mihte  
+sorhfullne sið,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa git on sund reon.  
+Þær git eagorstream&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earmum þehton,  
+mæton merestræta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mundum brugdon,  
+glidon ofer garsecg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geofon yþum weol,  
+wintrys wylmum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git on wæteres æht  
+seofon niht swuncon;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he þe æt sunde oferflat,  
+hæfde mare mægen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa hine on morgentid  
+on Heaþoræmas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;holm up ætbær;  
+ðonon he gesohte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swæsne ᛟ,  
+leof his leodum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lond Brondinga,  
+freoðoburh fægere,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he folc ahte,  
+burh ond beagas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beot eal wið þe  
+sunu Beanstanes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;soðe gelæste.  
+Ðonne wene ic to þe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrsan geþingea,  
+ðeah þu heaðoræsa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gehwær dohte,  
+grimre guðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif þu Grendles dearst  
+nihtlongne fyrst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nean bidan."  
+Beowulf maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgþeowes:  
+"Hwæt! þu worn fela,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine min Unferð,  
+beore druncen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ymb Brecan spræce,  
+sægdest from his siðe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soð ic talige,  
+þæt ic merestrengo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maran ahte,  
+earfeþo on yþum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne ænig oþer man.  
+Wit þæt gecwædon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cnihtwesende  
+ond gebeotedon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(wæron begen þa git  
+on geogoðfeore)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt wit on garsecg ut  
+aldrum neðdon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þæt geæfndon swa.  
+Hæfdon swurd nacod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa wit on sund reon,  
+heard on handa;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wit unc wið hronfixas  
+werian þohton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No he wiht fram me  
+flodyþum feor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fleotan meahte,  
+hraþor on holme;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no ic fram him wolde.  
+Ða wit ætsomne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sæ wæron  
+fif nihta fyrst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt unc flod todraf,  
+wado weallende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wedera cealdost,  
+nipende niht,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond norþanwind  
+heaðogrim ondhwearf;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hreo wæron yþa.  
+Wæs merefixa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mod onhrered;  
+þær me wið laðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;licsyrce min,  
+heard, hondlocen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helpe gefremede,  
+beadohrægl broden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on breostum læg  
+golde gegyrwed.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Me to grunde teah  
+fah feondscaða,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæste hæfde  
+grim on grape;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæþre me gyfeþe wearð  
+þæt ic aglæcan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;orde geræhte,  
+hildebille;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heaþoræs fornam  
+mihtig meredeor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þurh mine hand.  
   
-Swa mec gelome     laðgeteonan  
-þreatedon þearle.     Ic him þenode  
-deoran sweorde,     swa hit gedefe wæs.  
-Næs hie ðære fylle     gefean hæfdon,  
-manfordædlan,     þæt hie me þegon,  
-symbel ymbsæton     sægrunde neah;  
-ac on mergenne     mecum wunde  
-be yðlafe     uppe lægon,  
-sweordum aswefede,     þæt syðþan na  
-ymb brontne ford     brimliðende  
-lade ne letton.     Leoht eastan com,  
-beorht beacen godes;     brimu swaþredon,  
-þæt ic sænæssas     geseon mihte,  
-windige weallas.     Wyrd oft nereð  
-unfægne eorl,     þonne his ellen deah.  
-Hwæþere me gesælde     þæt ic mid sweorde ofsloh  
-niceras nigene.     No ic on niht gefrægn  
-under heofones hwealf     heardran feohtan,  
-ne on egstreamum     earmran mannon;  
-hwaþere ic fara feng     feore gedigde,  
-siþes werig.     Ða mec sæ oþbær,  
-flod æfter faroðe     on Finna land,  
-wadu weallendu.     No ic wiht fram þe  
-swylcra searoniða     secgan hyrde,  
-billa brogan.     Breca næfre git  
-æt heaðolace,     ne gehwæþer incer,  
-swa deorlice     dæd gefremede  
-fagum sweordum     (no ic þæs fela gylpe),  
-þeah ðu þinum broðrum     to banan wurde,  
-heafodmægum;     þæs þu in helle scealt  
-werhðo dreogan,     þeah þin wit duge.  
-Secge ic þe to soðe,     sunu Ecglafes,  
-þæt næfre Grendel swa fela     gryra gefremede,  
-atol æglæca,     ealdre þinum,  
-hynðo on Heorote,     gif þin hige wære,  
-sefa swa searogrim,     swa þu self talast.  
-Ac he hafað onfunden     þæt he þa fæhðe ne þearf,  
-atole ecgþræce     eower leode  
-swiðe onsittan,     Sigescyldinga;  
-nymeð nydbade,     nænegum arað  
-leode Deniga,     ac he lust wigeð,  
-swefeð ond sendeþ,     secce ne weneþ  
-to Gardenum.     Ac ic him Geata sceal  
-eafoð ond ellen     ungeara nu,  
-guþe gebeodan.     Gæþ eft se þe mot  
-to medo modig,     siþþan morgenleoht  
-ofer ylda bearn     oþres dogores,  
-sunne sweglwered     suþan scineð."  
-Þa wæs on salum     sinces brytta,  
-gamolfeax ond guðrof;     geoce gelyfde  
-brego Beorhtdena,     gehyrde on Beowulfe  
-folces hyrde     fæstrædne geþoht.  
-Ðær wæs hæleþa hleahtor,     hlyn swynsode,  
-word wæron wynsume.     Eode Wealhþeow forð,  
-cwen Hroðgares,     cynna gemyndig,  
-grette goldhroden     guman on healle,  
-ond þa freolic wif     ful gesealde  
-ærest Eastdena     eþelwearde,  
-bæd hine bliðne     æt þære beorþege,  
-leodum leofne.     He on lust geþeah  
-symbel ond seleful,     sigerof kyning.  
-Ymbeode þa     ides Helminga  
-duguþe ond geogoþe     dæl æghwylcne,  
-sincfato sealde,     oþþæt sæl alamp  
-þæt hio Beowulfe,     beaghroden cwen  
-mode geþungen,     medoful ætbær;  
-grette Geata leod,     gode þancode  
-wisfæst wordum     þæs ðe hire se willa gelamp  
-þæt heo on ænigne     eorl gelyfde  
-fyrena frofre.     He þæt ful geþeah,  
-wælreow wiga,     æt Wealhþeon,  
-ond þa gyddode     guþe gefysed;  
-Beowulf maþelode,     bearn Ecgþeowes:  
-"Ic þæt hogode,     þa ic on holm gestah,  
-sæbat gesæt     mid minra secga gedriht,  
-þæt ic anunga     eowra leoda  
-willan geworhte     oþðe on wæl crunge,  
-feondgrapum fæst.     Ic gefremman sceal  
-eorlic ellen,     oþðe endedæg  
-on þisse meoduhealle     minne gebidan."  
-Ðam wife þa word     wel licodon,  
-gilpcwide Geates;     eode goldhroden  
-freolicu folccwen     to hire frean sittan.  
-Þa wæs eft swa ær     inne on healle  
-þryðword sprecen,     ðeod on sælum,  
-sigefolca sweg,     oþþæt semninga  
-sunu Healfdenes     secean wolde  
-æfenræste;     wiste þæm ahlæcan  
-to þæm heahsele     hilde geþinged,  
-siððan hie sunnan leoht     geseon ne meahton,  
-oþðe nipende     niht ofer ealle,  
-scaduhelma gesceapu     scriðan cwoman,  
-wan under wolcnum.     Werod eall aras.  
-Gegrette þa     guma oþerne,  
-Hroðgar Beowulf,     ond him hæl abead,  
-winærnes geweald,     ond þæt word acwæð:  
-"Næfre ic ænegum men     ær alyfde,  
-siþðan ic hond ond rond     hebban mihte,  
-ðryþærn Dena     buton þe nu ða.  
-Hafa nu ond geheald     husa selest,  
-gemyne mærþo,     mægenellen cyð,  
-waca wið wraþum.     Ne bið þe wilna gad,  
-gif þu þæt ellenweorc     aldre gedigest."  
+Swa mec gelome&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laðgeteonan  
+þreatedon þearle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic him þenode  
+deoran sweorde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hit gedefe wæs.  
+Næs hie ðære fylle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gefean hæfdon,  
+manfordædlan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie me þegon,  
+symbel ymbsæton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sægrunde neah;  
+ac on mergenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mecum wunde  
+be yðlafe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uppe lægon,  
+sweordum aswefede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt syðþan na  
+ymb brontne ford&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brimliðende  
+lade ne letton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leoht eastan com,  
+beorht beacen godes;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brimu swaþredon,  
+þæt ic sænæssas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon mihte,  
+windige weallas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wyrd oft nereð  
+unfægne eorl,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne his ellen deah.  
+Hwæþere me gesælde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic mid sweorde ofsloh  
+niceras nigene.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No ic on niht gefrægn  
+under heofones hwealf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heardran feohtan,  
+ne on egstreamum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earmran mannon;  
+hwaþere ic fara feng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feore gedigde,  
+siþes werig.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða mec sæ oþbær,  
+flod æfter faroðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on Finna land,  
+wadu weallendu.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No ic wiht fram þe  
+swylcra searoniða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgan hyrde,  
+billa brogan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Breca næfre git  
+æt heaðolace,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne gehwæþer incer,  
+swa deorlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dæd gefremede  
+fagum sweordum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(no ic þæs fela gylpe),  
+þeah ðu þinum broðrum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to banan wurde,  
+heafodmægum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs þu in helle scealt  
+werhðo dreogan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah þin wit duge.  
+Secge ic þe to soðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Ecglafes,  
+þæt næfre Grendel swa fela&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gryra gefremede,  
+atol æglæca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdre þinum,  
+hynðo on Heorote,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif þin hige wære,  
+sefa swa searogrim,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa þu self talast.  
+Ac he hafað onfunden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he þa fæhðe ne þearf,  
+atole ecgþræce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eower leode  
+swiðe onsittan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigescyldinga;  
+nymeð nydbade,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nænegum arað  
+leode Deniga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he lust wigeð,  
+swefeð ond sendeþ,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secce ne weneþ  
+to Gardenum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ac ic him Geata sceal  
+eafoð ond ellen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ungeara nu,  
+guþe gebeodan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gæþ eft se þe mot  
+to medo modig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siþþan morgenleoht  
+ofer ylda bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþres dogores,  
+sunne sweglwered&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;suþan scineð."  
+Þa wæs on salum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sinces brytta,  
+gamolfeax ond guðrof;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geoce gelyfde  
+brego Beorhtdena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gehyrde on Beowulfe  
+folces hyrde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæstrædne geþoht.  
+Ðær wæs hæleþa hleahtor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlyn swynsode,  
+word wæron wynsume.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eode Wealhþeow forð,  
+cwen Hroðgares,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cynna gemyndig,  
+grette goldhroden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guman on healle,  
+ond þa freolic wif&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ful gesealde  
+ærest Eastdena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eþelwearde,  
+bæd hine bliðne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt þære beorþege,  
+leodum leofne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He on lust geþeah  
+symbel ond seleful,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sigerof kyning.  
+Ymbeode þa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ides Helminga  
+duguþe ond geogoþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dæl æghwylcne,  
+sincfato sealde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt sæl alamp  
+þæt hio Beowulfe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beaghroden cwen  
+mode geþungen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;medoful ætbær;  
+grette Geata leod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode þancode  
+wisfæst wordum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs ðe hire se willa gelamp  
+þæt heo on ænigne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorl gelyfde  
+fyrena frofre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He þæt ful geþeah,  
+wælreow wiga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt Wealhþeon,  
+ond þa gyddode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guþe gefysed;  
+Beowulf maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgþeowes:  
+"Ic þæt hogode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa ic on holm gestah,  
+sæbat gesæt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid minra secga gedriht,  
+þæt ic anunga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eowra leoda  
+willan geworhte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþðe on wæl crunge,  
+feondgrapum fæst.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic gefremman sceal  
+eorlic ellen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþðe endedæg  
+on þisse meoduhealle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minne gebidan."  
+Ðam wife þa word&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wel licodon,  
+gilpcwide Geates;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eode goldhroden  
+freolicu folccwen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hire frean sittan.  
+Þa wæs eft swa ær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inne on healle  
+þryðword sprecen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðeod on sælum,  
+sigefolca sweg,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt semninga  
+sunu Healfdenes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secean wolde  
+æfenræste;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiste þæm ahlæcan  
+to þæm heahsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hilde geþinged,  
+siððan hie sunnan leoht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon ne meahton,  
+oþðe nipende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niht ofer ealle,  
+scaduhelma gesceapu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scriðan cwoman,  
+wan under wolcnum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Werod eall aras.  
+Gegrette þa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guma oþerne,  
+Hroðgar Beowulf,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond him hæl abead,  
+winærnes geweald,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þæt word acwæð:  
+"Næfre ic ænegum men&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær alyfde,  
+siþðan ic hond ond rond&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hebban mihte,  
+ðryþærn Dena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;buton þe nu ða.  
+Hafa nu ond geheald&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;husa selest,  
+gemyne mærþo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenellen cyð,  
+waca wið wraþum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne bið þe wilna gad,  
+gif þu þæt ellenweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aldre gedigest."  
   
-Ða him Hroþgar gewat     mid his hæleþa gedryht,  
-eodur Scyldinga,     ut of healle;  
-wolde wigfruma     Wealhþeo secan,  
-cwen to gebeddan.     Hæfde kyningwuldor  
-Grendle togeanes,     swa guman gefrungon,  
-seleweard aseted;     sundornytte beheold  
-ymb aldor Dena,     eotonweard abead.  
-Huru Geata leod     georne truwode  
-modgan mægnes,     metodes hyldo.  
-Ða he him of dyde     isernbyrnan,  
-helm of hafelan,     sealde his hyrsted sweord,  
-irena cyst,     ombihtþegne,  
-ond gehealdan het     hildegeatwe.  
-Gespræc þa se goda     gylpworda sum,  
-Beowulf Geata,     ær he on bed stige:  
-"No ic me an herewæsmun     hnagran talige,  
-guþgeweorca,     þonne Grendel hine;  
-forþan ic hine sweorde     swebban nelle,  
-aldre beneotan,     þeah ic eal mæge.  
-Nat he þara goda     þæt he me ongean slea,  
-rand geheawe,     þeah ðe he rof sie  
-niþgeweorca;     ac wit on niht sculon  
-secge ofersittan,     gif he gesecean dear  
-wig ofer wæpen,     ond siþðan witig god  
-on swa hwæþere hond,     halig dryhten,  
-mærðo deme,     swa him gemet þince."  
-Hylde hine þa heaþodeor,     hleorbolster onfeng  
-eorles andwlitan,     ond hine ymb monig  
-snellic særinc     selereste gebeah.  
-Nænig heora þohte     þæt he þanon scolde  
-eft eardlufan     æfre gesecean,  
-folc oþðe freoburh,     þær he afeded wæs;  
-ac hie hæfdon gefrunen     þæt hie ær to fela micles  
-in þæm winsele     wældeað fornam,  
-Denigea leode.     Ac him dryhten forgeaf  
-wigspeda gewiofu,     Wedera leodum,  
-frofor ond fultum,     þæt hie feond heora  
-ðurh anes cræft     ealle ofercomon,  
-selfes mihtum.     Soð is gecyþed  
-þæt mihtig god     manna cynnes  
-weold wideferhð.     Com on wanre niht  
-scriðan sceadugenga.     Sceotend swæfon,  
-þa þæt hornreced     healdan scoldon,  
-ealle buton anum.     Þæt wæs yldum cuþ  
-þæt hie ne moste,     þa metod nolde,  
-se scynscaþa     under sceadu bregdan;  
-ac he wæccende     wraþum on andan  
-bad bolgenmod     beadwa geþinges.  
+Ða him Hroþgar gewat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid his hæleþa gedryht,  
+eodur Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ut of healle;  
+wolde wigfruma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wealhþeo secan,  
+cwen to gebeddan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hæfde kyningwuldor  
+Grendle togeanes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa guman gefrungon,  
+seleweard aseted;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sundornytte beheold  
+ymb aldor Dena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eotonweard abead.  
+Huru Geata leod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;georne truwode  
+modgan mægnes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;metodes hyldo.  
+Ða he him of dyde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;isernbyrnan,  
+helm of hafelan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sealde his hyrsted sweord,  
+irena cyst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ombihtþegne,  
+ond gehealdan het&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildegeatwe.  
+Gespræc þa se goda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gylpworda sum,  
+Beowulf Geata,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær he on bed stige:  
+"No ic me an herewæsmun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hnagran talige,  
+guþgeweorca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne Grendel hine;  
+forþan ic hine sweorde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swebban nelle,  
+aldre beneotan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ic eal mæge.  
+Nat he þara goda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he me ongean slea,  
+rand geheawe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ðe he rof sie  
+niþgeweorca;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac wit on niht sculon  
+secge ofersittan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif he gesecean dear  
+wig ofer wæpen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond siþðan witig god  
+on swa hwæþere hond,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;halig dryhten,  
+mærðo deme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him gemet þince."  
+Hylde hine þa heaþodeor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hleorbolster onfeng  
+eorles andwlitan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond hine ymb monig  
+snellic særinc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selereste gebeah.  
+Nænig heora þohte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he þanon scolde  
+eft eardlufan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfre gesecean,  
+folc oþðe freoburh,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he afeded wæs;  
+ac hie hæfdon gefrunen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie ær to fela micles  
+in þæm winsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wældeað fornam,  
+Denigea leode.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ac him dryhten forgeaf  
+wigspeda gewiofu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedera leodum,  
+frofor ond fultum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie feond heora  
+ðurh anes cræft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealle ofercomon,  
+selfes mihtum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soð is gecyþed  
+þæt mihtig god&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna cynnes  
+weold wideferhð.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Com on wanre niht  
+scriðan sceadugenga.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sceotend swæfon,  
+þa þæt hornreced&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;healdan scoldon,  
+ealle buton anum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs yldum cuþ  
+þæt hie ne moste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa metod nolde,  
+se scynscaþa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under sceadu bregdan;  
+ac he wæccende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wraþum on andan  
+bad bolgenmod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beadwa geþinges.  
   
-Ða com of more     under misthleoþum  
-Grendel gongan,     godes yrre bær;  
-mynte se manscaða     manna cynnes  
-sumne besyrwan     in sele þam hean.  
-Wod under wolcnum     to þæs þe he winreced,  
-goldsele gumena,     gearwost wisse,  
-fættum fahne.     Ne wæs þæt forma sið  
-þæt he Hroþgares     ham gesohte;  
-næfre he on aldordagum     ær ne siþðan  
-heardran hæle,     healðegnas fand.  
-Com þa to recede     rinc siðian,  
-dreamum bedæled.     Duru sona onarn,  
-fyrbendum fæst,     syþðan he hire folmum æthran;  
-onbræd þa bealohydig,     ða he gebolgen wæs,  
-recedes muþan.     Raþe æfter þon  
-on fagne flor     feond treddode,  
-eode yrremod;     him of eagum stod  
-ligge gelicost     leoht unfæger.  
-Geseah he in recede     rinca manige,  
-swefan sibbegedriht     samod ætgædere,  
-magorinca heap.     Þa his mod ahlog;  
-mynte þæt he gedælde,     ærþon dæg cwome,  
-atol aglæca,     anra gehwylces  
-lif wið lice,     þa him alumpen wæs  
-wistfylle wen.     Ne wæs þæt wyrd þa gen  
-þæt he ma moste     manna cynnes  
-ðicgean ofer þa niht.     Þryðswyð beheold  
-mæg Higelaces,     hu se manscaða  
-under færgripum     gefaran wolde.  
-Ne þæt se aglæca     yldan þohte,  
-ac he gefeng hraðe     forman siðe  
-slæpendne rinc,     slat unwearnum,  
-bat banlocan,     blod edrum dranc,  
-synsnædum swealh;     sona hæfde  
-unlyfigendes     eal gefeormod,  
-fet ond folma.     Forð near ætstop,  
-nam þa mid handa     higeþihtigne  
-rinc on ræste,     ræhte ongean  
-feond mid folme;     he onfeng hraþe  
-inwitþancum     ond wið earm gesæt.  
-Sona þæt onfunde     fyrena hyrde  
-þæt he ne mette     middangeardes,  
-eorþan sceata,     on elran men  
-mundgripe maran.     He on mode wearð  
-forht on ferhðe;     no þy ær fram meahte.  
-Hyge wæs him hinfus,     wolde on heolster fleon,  
-secan deofla gedræg;     ne wæs his drohtoð þær  
-swylce he on ealderdagum     ær gemette.  
-Gemunde þa se goda,     mæg Higelaces,  
-æfenspræce,     uplang astod  
-ond him fæste wiðfeng;     fingras burston.  
-Eoten wæs utweard;     eorl furþur stop.  
-Mynte se mæra,     þær he meahte swa,  
-widre gewindan     ond on weg þanon  
-fleon on fenhopu;     wiste his fingra geweald  
-on grames grapum.     Þæt wæs geocor sið  
-þæt se hearmscaþa     to Heorute ateah.  
-Dryhtsele dynede;     Denum eallum wearð,  
-ceasterbuendum,     cenra gehwylcum,  
-eorlum ealuscerwen.     Yrre wæron begen,  
-reþe renweardas.     Reced hlynsode.  
-Þa wæs wundor micel     þæt se winsele  
-wiðhæfde heaþodeorum,     þæt he on hrusan ne feol,  
-fæger foldbold;     ac he þæs fæste wæs  
-innan ond utan     irenbendum  
-searoþoncum besmiþod.     Þær fram sylle abeag  
-medubenc monig,     mine gefræge,  
-golde geregnad,     þær þa graman wunnon.  
-Þæs ne wendon ær     witan Scyldinga  
-þæt hit a mid gemete     manna ænig,  
-betlic ond banfag,     tobrecan meahte,  
-listum tolucan,     nymþe liges fæþm  
-swulge on swaþule.     Sweg up astag  
-niwe geneahhe;     Norðdenum stod  
-atelic egesa,     anra gehwylcum  
-þara þe of wealle     wop gehyrdon,  
-gryreleoð galan     godes ondsacan,  
-sigeleasne sang,     sar wanigean  
-helle hæfton.     Heold hine fæste  
-se þe manna wæs     mægene strengest  
-on þæm dæge     þysses lifes.  
+Ða com of more&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under misthleoþum  
+Grendel gongan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godes yrre bær;  
+mynte se manscaða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna cynnes  
+sumne besyrwan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in sele þam hean.  
+Wod under wolcnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to þæs þe he winreced,  
+goldsele gumena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearwost wisse,  
+fættum fahne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne wæs þæt forma sið  
+þæt he Hroþgares&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ham gesohte;  
+næfre he on aldordagum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær ne siþðan  
+heardran hæle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;healðegnas fand.  
+Com þa to recede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rinc siðian,  
+dreamum bedæled.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duru sona onarn,  
+fyrbendum fæst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syþðan he hire folmum æthran;  
+onbræd þa bealohydig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða he gebolgen wæs,  
+recedes muþan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raþe æfter þon  
+on fagne flor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feond treddode,  
+eode yrremod;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him of eagum stod  
+ligge gelicost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leoht unfæger.  
+Geseah he in recede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rinca manige,  
+swefan sibbegedriht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samod ætgædere,  
+magorinca heap.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa his mod ahlog;  
+mynte þæt he gedælde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ærþon dæg cwome,  
+atol aglæca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anra gehwylces  
+lif wið lice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa him alumpen wæs  
+wistfylle wen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne wæs þæt wyrd þa gen  
+þæt he ma moste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna cynnes  
+ðicgean ofer þa niht.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þryðswyð beheold  
+mæg Higelaces,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hu se manscaða  
+under færgripum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gefaran wolde.  
+Ne þæt se aglæca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yldan þohte,  
+ac he gefeng hraðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forman siðe  
+slæpendne rinc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;slat unwearnum,  
+bat banlocan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blod edrum dranc,  
+synsnædum swealh;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sona hæfde  
+unlyfigendes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eal gefeormod,  
+fet ond folma.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forð near ætstop,  
+nam þa mid handa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;higeþihtigne  
+rinc on ræste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ræhte ongean  
+feond mid folme;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he onfeng hraþe  
+inwitþancum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond wið earm gesæt.  
+Sona þæt onfunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrena hyrde  
+þæt he ne mette&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;middangeardes,  
+eorþan sceata,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on elran men  
+mundgripe maran.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He on mode wearð  
+forht on ferhðe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no þy ær fram meahte.  
+Hyge wæs him hinfus,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wolde on heolster fleon,  
+secan deofla gedræg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne wæs his drohtoð þær  
+swylce he on ealderdagum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær gemette.  
+Gemunde þa se goda,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæg Higelaces,  
+æfenspræce,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uplang astod  
+ond him fæste wiðfeng;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fingras burston.  
+Eoten wæs utweard;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorl furþur stop.  
+Mynte se mæra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he meahte swa,  
+widre gewindan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on weg þanon  
+fleon on fenhopu;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiste his fingra geweald  
+on grames grapum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs geocor sið  
+þæt se hearmscaþa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to Heorute ateah.  
+Dryhtsele dynede;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denum eallum wearð,  
+ceasterbuendum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cenra gehwylcum,  
+eorlum ealuscerwen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yrre wæron begen,  
+reþe renweardas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reced hlynsode.  
+Þa wæs wundor micel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt se winsele  
+wiðhæfde heaþodeorum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he on hrusan ne feol,  
+fæger foldbold;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he þæs fæste wæs  
+innan ond utan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;irenbendum  
+searoþoncum besmiþod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þær fram sylle abeag  
+medubenc monig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine gefræge,  
+golde geregnad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær þa graman wunnon.  
+Þæs ne wendon ær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;witan Scyldinga  
+þæt hit a mid gemete&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna ænig,  
+betlic ond banfag,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tobrecan meahte,  
+listum tolucan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nymþe liges fæþm  
+swulge on swaþule.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweg up astag  
+niwe geneahhe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Norðdenum stod  
+atelic egesa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anra gehwylcum  
+þara þe of wealle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wop gehyrdon,  
+gryreleoð galan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godes ondsacan,  
+sigeleasne sang,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sar wanigean  
+helle hæfton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heold hine fæste  
+se þe manna wæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægene strengest  
+on þæm dæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þysses lifes.  
   
-Nolde eorla hleo     ænige þinga  
-þone cwealmcuman     cwicne forlætan,  
-ne his lifdagas     leoda ænigum  
-nytte tealde.     Þær genehost brægd  
-eorl Beowulfes     ealde lafe,  
-wolde freadrihtnes     feorh ealgian,  
-mæres þeodnes,     ðær hie meahton swa.  
-Hie þæt ne wiston,     þa hie gewin drugon,  
-heardhicgende     hildemecgas,  
-ond on healfa gehwone     heawan þohton,  
-sawle secan,     þone synscaðan  
-ænig ofer eorþan     irenna cyst,  
-guðbilla nan,     gretan nolde,  
-ac he sigewæpnum     forsworen hæfde,  
-ecga gehwylcre.     Scolde his aldorgedal  
-on ðæm dæge     þysses lifes  
-earmlic wurðan,     ond se ellorgast  
-on feonda geweald     feor siðian.  
-Ða þæt onfunde     se þe fela æror  
-modes myrðe     manna cynne,  
-fyrene gefremede     (he wæs fag wið god),  
-þæt him se lichoma     læstan nolde,  
-ac hine se modega     mæg Hygelaces  
-hæfde be honda;     wæs gehwæþer oðrum  
-lifigende lað.     Licsar gebad  
-atol æglæca;     him on eaxle wearð  
-syndolh sweotol,     seonowe onsprungon,  
-burston banlocan.     Beowulfe wearð  
-guðhreð gyfeþe;     scolde Grendel þonan  
-feorhseoc fleon     under fenhleoðu,  
-secean wynleas wic;     wiste þe geornor  
-þæt his aldres wæs     ende gegongen,  
-dogera dægrim.     Denum eallum wearð  
-æfter þam wælræse     willa gelumpen.  
-Hæfde þa gefælsod     se þe ær feorran com,  
-snotor ond swyðferhð,     sele Hroðgares,  
-genered wið niðe;     nihtweorce gefeh,  
-ellenmærþum.     Hæfde Eastdenum  
-Geatmecga leod     gilp gelæsted,  
-swylce oncyþðe     ealle gebette,  
-inwidsorge,     þe hie ær drugon  
-ond for þreanydum     þolian scoldon,  
-torn unlytel.     Þæt wæs tacen sweotol,  
-syþðan hildedeor     hond alegde,  
-earm ond eaxle     (þær wæs eal geador  
-Grendles grape)     under geapne hrof.  
+Nolde eorla hleo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænige þinga  
+þone cwealmcuman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cwicne forlætan,  
+ne his lifdagas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leoda ænigum  
+nytte tealde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þær genehost brægd  
+eorl Beowulfes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealde lafe,  
+wolde freadrihtnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorh ealgian,  
+mæres þeodnes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær hie meahton swa.  
+Hie þæt ne wiston,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa hie gewin drugon,  
+heardhicgende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildemecgas,  
+ond on healfa gehwone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heawan þohton,  
+sawle secan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone synscaðan  
+ænig ofer eorþan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;irenna cyst,  
+guðbilla nan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gretan nolde,  
+ac he sigewæpnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forsworen hæfde,  
+ecga gehwylcre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scolde his aldorgedal  
+on ðæm dæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þysses lifes  
+earmlic wurðan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond se ellorgast  
+on feonda geweald&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feor siðian.  
+Ða þæt onfunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe fela æror  
+modes myrðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna cynne,  
+fyrene gefremede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(he wæs fag wið god),  
+þæt him se lichoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læstan nolde,  
+ac hine se modega&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæg Hygelaces  
+hæfde be honda;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs gehwæþer oðrum  
+lifigende lað.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Licsar gebad  
+atol æglæca;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him on eaxle wearð  
+syndolh sweotol,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seonowe onsprungon,  
+burston banlocan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulfe wearð  
+guðhreð gyfeþe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scolde Grendel þonan  
+feorhseoc fleon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under fenhleoðu,  
+secean wynleas wic;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiste þe geornor  
+þæt his aldres wæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende gegongen,  
+dogera dægrim.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denum eallum wearð  
+æfter þam wælræse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;willa gelumpen.  
+Hæfde þa gefælsod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe ær feorran com,  
+snotor ond swyðferhð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sele Hroðgares,  
+genered wið niðe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nihtweorce gefeh,  
+ellenmærþum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hæfde Eastdenum  
+Geatmecga leod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gilp gelæsted,  
+swylce oncyþðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealle gebette,  
+inwidsorge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe hie ær drugon  
+ond for þreanydum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þolian scoldon,  
+torn unlytel.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs tacen sweotol,  
+syþðan hildedeor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hond alegde,  
+earm ond eaxle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(þær wæs eal geador  
+Grendles grape)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under geapne hrof.  
   
-Ða wæs on morgen     mine gefræge  
-ymb þa gifhealle     guðrinc monig;  
-ferdon folctogan     feorran ond nean  
-geond widwegas     wundor sceawian,  
-laþes lastas.     No his lifgedal  
-sarlic þuhte     secga ænegum  
-þara þe tirleases     trode sceawode,  
-hu he werigmod     on weg þanon,  
-niða ofercumen,     on nicera mere  
-fæge ond geflymed     feorhlastas bær.  
-Ðær wæs on blode     brim weallende,  
-atol yða geswing     eal gemenged  
-haton heolfre,     heorodreore weol.  
-Deaðfæge deog,     siððan dreama leas  
-in fenfreoðo     feorh alegde,  
-hæþene sawle;     þær him hel onfeng.  
-Þanon eft gewiton     ealdgesiðas,  
-swylce geong manig     of gomenwaþe  
-fram mere modge     mearum ridan,  
-beornas on blancum.     Ðær wæs Beowulfes  
-mærðo mæned;     monig oft gecwæð  
-þætte suð ne norð     be sæm tweonum  
-ofer eormengrund     oþer nænig  
-under swegles begong     selra nære  
-rondhæbbendra,     rices wyrðra.  
-Ne hie huru winedrihten     wiht ne logon,  
-glædne Hroðgar,     ac þæt wæs god cyning.  
-Hwilum heaþorofe     hleapan leton,  
-on geflit faran     fealwe mearas  
-ðær him foldwegas     fægere þuhton,  
-cystum cuðe.     Hwilum cyninges þegn,  
-guma gilphlæden,     gidda gemyndig,  
-se ðe ealfela     ealdgesegena  
-worn gemunde,     word oþer fand  
-soðe gebunden;     secg eft ongan  
-sið Beowulfes     snyttrum styrian  
-ond on sped wrecan     spel gerade,  
-wordum wrixlan.     Welhwylc gecwæð  
-þæt he fram Sigemundes     secgan hyrde  
-ellendædum,     uncuþes fela,  
-Wælsinges gewin,     wide siðas,  
-þara þe gumena bearn     gearwe ne wiston,  
-fæhðe ond fyrena,     buton Fitela mid hine,  
-þonne he swulces hwæt     secgan wolde,  
-eam his nefan,     swa hie a wæron  
-æt niða gehwam     nydgesteallan;  
-hæfdon ealfela     eotena cynnes  
-sweordum gesæged.     Sigemunde gesprong  
-æfter deaðdæge     dom unlytel,  
-syþðan wiges heard     wyrm acwealde,  
-hordes hyrde.     He under harne stan,  
-æþelinges bearn,     ana geneðde  
-frecne dæde,     ne wæs him Fitela mid.  
-Hwæþre him gesælde     ðæt þæt swurd þurhwod  
-wrætlicne wyrm,     þæt hit on wealle ætstod,  
-dryhtlic iren;     draca morðre swealt.  
-Hæfde aglæca     elne gegongen  
-þæt he beahhordes     brucan moste  
-selfes dome;     sæbat gehleod,  
-bær on bearm scipes     beorhte frætwa,  
-Wælses eafera.     Wyrm hat gemealt.  
-Se wæs wreccena     wide mærost  
-ofer werþeode,     wigendra hleo,  
-ellendædum     (he þæs ær onðah),  
-siððan Heremodes     hild sweðrode,  
-eafoð ond ellen.     He mid Eotenum wearð  
-on feonda geweald     forð forlacen,  
-snude forsended.     Hine sorhwylmas  
-lemede to lange;     he his leodum wearð,  
-eallum æþellingum     to aldorceare;  
-swylce oft bemearn     ærran mælum  
-swiðferhþes sið     snotor ceorl monig,  
-se þe him bealwa to     bote gelyfde,  
-þæt þæt ðeodnes bearn     geþeon scolde,  
-fæderæþelum onfon,     folc gehealdan,  
-hord ond hleoburh,     hæleþa rice,  
-ᛟ Scyldinga.     He þær eallum wearð,  
-mæg Higelaces,     manna cynne,  
-freondum gefægra;     hine fyren onwod.  
-Hwilum flitende     fealwe stræte  
-mearum mæton.     Ða wæs morgenleoht  
-scofen ond scynded.     Eode scealc monig  
-swiðhicgende     to sele þam hean  
-searowundor seon;     swylce self cyning  
-of brydbure,     beahhorda weard,  
-tryddode tirfæst     getrume micle,  
-cystum gecyþed,     ond his cwen mid him  
-medostigge mæt     mægþa hose.  
+Ða wæs on morgen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine gefræge  
+ymb þa gifhealle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðrinc monig;  
+ferdon folctogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorran ond nean  
+geond widwegas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundor sceawian,  
+laþes lastas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No his lifgedal  
+sarlic þuhte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secga ænegum  
+þara þe tirleases&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;trode sceawode,  
+hu he werigmod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on weg þanon,  
+niða ofercumen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on nicera mere  
+fæge ond geflymed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorhlastas bær.  
+Ðær wæs on blode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brim weallende,  
+atol yða geswing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eal gemenged  
+haton heolfre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorodreore weol.  
+Deaðfæge deog,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siððan dreama leas  
+in fenfreoðo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorh alegde,  
+hæþene sawle;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær him hel onfeng.  
+Þanon eft gewiton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdgesiðas,  
+swylce geong manig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of gomenwaþe  
+fram mere modge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mearum ridan,  
+beornas on blancum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ðær wæs Beowulfes  
+mærðo mæned;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;monig oft gecwæð  
+þætte suð ne norð&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be sæm tweonum  
+ofer eormengrund&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþer nænig  
+under swegles begong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selra nære  
+rondhæbbendra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rices wyrðra.  
+Ne hie huru winedrihten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiht ne logon,  
+glædne Hroðgar,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac þæt wæs god cyning.  
+Hwilum heaþorofe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hleapan leton,  
+on geflit faran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fealwe mearas  
+ðær him foldwegas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fægere þuhton,  
+cystum cuðe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hwilum cyninges þegn,  
+guma gilphlæden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gidda gemyndig,  
+se ðe ealfela&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdgesegena  
+worn gemunde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;word oþer fand  
+soðe gebunden;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secg eft ongan  
+sið Beowulfes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snyttrum styrian  
+ond on sped wrecan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spel gerade,  
+wordum wrixlan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welhwylc gecwæð  
+þæt he fram Sigemundes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgan hyrde  
+ellendædum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uncuþes fela,  
+Wælsinges gewin,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide siðas,  
+þara þe gumena bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearwe ne wiston,  
+fæhðe ond fyrena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;buton Fitela mid hine,  
+þonne he swulces hwæt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgan wolde,  
+eam his nefan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hie a wæron  
+æt niða gehwam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nydgesteallan;  
+hæfdon ealfela&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eotena cynnes  
+sweordum gesæged.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigemunde gesprong  
+æfter deaðdæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dom unlytel,  
+syþðan wiges heard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrm acwealde,  
+hordes hyrde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He under harne stan,  
+æþelinges bearn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ana geneðde  
+frecne dæde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne wæs him Fitela mid.  
+Hwæþre him gesælde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðæt þæt swurd þurhwod  
+wrætlicne wyrm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hit on wealle ætstod,  
+dryhtlic iren;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;draca morðre swealt.  
+Hæfde aglæca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;elne gegongen  
+þæt he beahhordes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brucan moste  
+selfes dome;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sæbat gehleod,  
+bær on bearm scipes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorhte frætwa,  
+Wælses eafera.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wyrm hat gemealt.  
+Se wæs wreccena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide mærost  
+ofer werþeode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigendra hleo,  
+ellendædum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(he þæs ær onðah),  
+siððan Heremodes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hild sweðrode,  
+eafoð ond ellen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He mid Eotenum wearð  
+on feonda geweald&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð forlacen,  
+snude forsended.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hine sorhwylmas  
+lemede to lange;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he his leodum wearð,  
+eallum æþellingum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to aldorceare;  
+swylce oft bemearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ærran mælum  
+swiðferhþes sið&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snotor ceorl monig,  
+se þe him bealwa to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bote gelyfde,  
+þæt þæt ðeodnes bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geþeon scolde,  
+fæderæþelum onfon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folc gehealdan,  
+hord ond hleoburh,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hæleþa rice,  
+ᛟ Scyldinga.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He þær eallum wearð,  
+mæg Higelaces,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna cynne,  
+freondum gefægra;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hine fyren onwod.  
+Hwilum flitende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fealwe stræte  
+mearum mæton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða wæs morgenleoht  
+scofen ond scynded.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eode scealc monig  
+swiðhicgende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to sele þam hean  
+searowundor seon;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce self cyning  
+of brydbure,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beahhorda weard,  
+tryddode tirfæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;getrume micle,  
+cystum gecyþed,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his cwen mid him  
+medostigge mæt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægþa hose.  
   
-Hroðgar maþelode     (he to healle geong,  
-stod on stapole,     geseah steapne hrof,  
-golde fahne,     ond Grendles hond):  
-"ðisse ansyne     alwealdan þanc  
-lungre gelimpe!     Fela ic laþes gebad,  
-grynna æt Grendle;     a mæg god wyrcan  
-wunder æfter wundre,     wuldres hyrde.  
-Ðæt wæs ungeara     þæt ic ænigra me  
-weana ne wende     to widan feore  
-bote gebidan,     þonne blode fah  
-husa selest     heorodreorig stod,  
-wea widscofen     witena gehwylcum  
-ðara þe ne wendon     þæt hie wideferhð  
-leoda landgeweorc     laþum beweredon  
-scuccum ond scinnum.     Nu scealc hafað  
-þurh drihtnes miht     dæd gefremede  
-ðe we ealle     ær ne meahton  
-snyttrum besyrwan.     Hwæt, þæt secgan mæg  
-efne swa hwylc mægþa     swa ðone magan cende  
-æfter gumcynnum,     gyf heo gyt lyfað,  
-þæt hyre ealdmetod     este wære  
-bearngebyrdo.     Nu ic, Beowulf, þec,  
-secg betsta,     me for sunu wylle  
-freogan on ferhþe;     heald forð tela  
-niwe sibbe.     Ne bið þe nænigra gad  
-worolde wilna,     þe ic geweald hæbbe.  
-Ful oft ic for læssan     lean teohhode,  
-hordweorþunge     hnahran rince,  
-sæmran æt sæcce.     Þu þe self hafast  
-dædum gefremed     þæt þin dom lyfað  
-awa to aldre.     Alwalda þec  
-gode forgylde,     swa he nu gyt dyde!"  
-Beowulf maþelode,     bearn Ecþeowes:  
-"We þæt ellenweorc     estum miclum,  
-feohtan fremedon,     frecne geneðdon  
-eafoð uncuþes.     Uþe ic swiþor  
-þæt ðu hine selfne     geseon moste,  
-feond on frætewum     fylwerigne.  
-Ic hine hrædlice     heardan clammum  
-on wælbedde     wriþan þohte,  
-þæt he for mundgripe     minum scolde  
-licgean lifbysig,     butan his lic swice.  
-Ic hine ne mihte,     þa metod nolde,  
-ganges getwæman,     no ic him þæs georne ætfealh,  
-feorhgeniðlan;     wæs to foremihtig  
-feond on feþe.     Hwæþere he his folme forlet  
-to lifwraþe     last weardian,  
-earm ond eaxle.     No þær ænige swa þeah  
-feasceaft guma     frofre gebohte;  
-no þy leng leofað     laðgeteona,  
-synnum geswenced,     ac hyne sar hafað  
-mid nydgripe     nearwe befongen,  
-balwon bendum.     Ðær abidan sceal  
-maga mane fah     miclan domes,  
-hu him scir metod     scrifan wille."  
-Ða wæs swigra secg,     sunu Eclafes,  
-on gylpspræce     guðgeweorca,  
-siþðan æþelingas     eorles cræfte  
-ofer heanne hrof     hand sceawedon,  
-feondes fingras.     Foran æghwylc wæs,  
-stiðra nægla gehwylc,     style gelicost,  
-hæþenes handsporu     hilderinces,  
-egl, unheoru.     Æghwylc gecwæð  
-þæt him heardra nan     hrinan wolde  
-iren ærgod,     þæt ðæs ahlæcan  
-blodge beadufolme     onberan wolde.  
+Hroðgar maþelode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(he to healle geong,  
+stod on stapole,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseah steapne hrof,  
+golde fahne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond Grendles hond):  
+"ðisse ansyne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alwealdan þanc  
+lungre gelimpe!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fela ic laþes gebad,  
+grynna æt Grendle;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a mæg god wyrcan  
+wunder æfter wundre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wuldres hyrde.  
+Ðæt wæs ungeara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic ænigra me  
+weana ne wende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to widan feore  
+bote gebidan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne blode fah  
+husa selest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorodreorig stod,  
+wea widscofen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;witena gehwylcum  
+ðara þe ne wendon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie wideferhð  
+leoda landgeweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laþum beweredon  
+scuccum ond scinnum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu scealc hafað  
+þurh drihtnes miht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dæd gefremede  
+ðe we ealle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær ne meahton  
+snyttrum besyrwan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hwæt, þæt secgan mæg  
+efne swa hwylc mægþa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa ðone magan cende  
+æfter gumcynnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyf heo gyt lyfað,  
+þæt hyre ealdmetod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;este wære  
+bearngebyrdo.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu ic, Beowulf, þec,  
+secg betsta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;me for sunu wylle  
+freogan on ferhþe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heald forð tela  
+niwe sibbe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne bið þe nænigra gad  
+worolde wilna,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe ic geweald hæbbe.  
+Ful oft ic for læssan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lean teohhode,  
+hordweorþunge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hnahran rince,  
+sæmran æt sæcce.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þu þe self hafast  
+dædum gefremed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þin dom lyfað  
+awa to aldre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alwalda þec  
+gode forgylde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he nu gyt dyde!"  
+Beowulf maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecþeowes:  
+"We þæt ellenweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;estum miclum,  
+feohtan fremedon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frecne geneðdon  
+eafoð uncuþes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uþe ic swiþor  
+þæt ðu hine selfne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon moste,  
+feond on frætewum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fylwerigne.  
+Ic hine hrædlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heardan clammum  
+on wælbedde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wriþan þohte,  
+þæt he for mundgripe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minum scolde  
+licgean lifbysig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;butan his lic swice.  
+Ic hine ne mihte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa metod nolde,  
+ganges getwæman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no ic him þæs georne ætfealh,  
+feorhgeniðlan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs to foremihtig  
+feond on feþe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hwæþere he his folme forlet  
+to lifwraþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;last weardian,  
+earm ond eaxle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No þær ænige swa þeah  
+feasceaft guma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frofre gebohte;  
+no þy leng leofað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laðgeteona,  
+synnum geswenced,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac hyne sar hafað  
+mid nydgripe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nearwe befongen,  
+balwon bendum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ðær abidan sceal  
+maga mane fah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;miclan domes,  
+hu him scir metod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scrifan wille."  
+Ða wæs swigra secg,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Eclafes,  
+on gylpspræce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðgeweorca,  
+siþðan æþelingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorles cræfte  
+ofer heanne hrof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hand sceawedon,  
+feondes fingras.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Foran æghwylc wæs,  
+stiðra nægla gehwylc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;style gelicost,  
+hæþenes handsporu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hilderinces,  
+egl, unheoru.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Æghwylc gecwæð  
+þæt him heardra nan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hrinan wolde  
+iren ærgod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðæs ahlæcan  
+blodge beadufolme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;onberan wolde.  
   
-Ða wæs haten hreþe     Heort innanweard  
-folmum gefrætwod.     Fela þæra wæs,  
-wera ond wifa,     þe þæt winreced,  
-gestsele gyredon.     Goldfag scinon  
-web æfter wagum,     wundorsiona fela  
-secga gehwylcum     þara þe on swylc starað.  
-Wæs þæt beorhte bold     tobrocen swiðe,  
-eal inneweard     irenbendum fæst,  
-heorras tohlidene.     Hrof ana genæs,  
-ealles ansund,     þe se aglæca,  
-fyrendædum fag,     on fleam gewand,  
-aldres orwena.     No þæt yðe byð  
-to befleonne,     fremme se þe wille,  
-ac gesecan sceal     sawlberendra,  
-nyde genydde,     niþða bearna,  
-grundbuendra     gearwe stowe,  
-þær his lichoma     legerbedde fæst  
-swefeþ æfter symle.     Þa wæs sæl ond mæl  
-þæt to healle gang     Healfdenes sunu;  
-wolde self cyning     symbel þicgan.  
-Ne gefrægen ic þa mægþe     maran weorode  
-ymb hyra sincgyfan     sel gebæran.  
-Bugon þa to bence     blædagande,  
-fylle gefægon;     fægere geþægon  
-medoful manig     magas þara  
-swiðhicgende     on sele þam hean,  
-Hroðgar ond Hroþulf.     Heorot innan wæs  
-freondum afylled;     nalles facenstafas  
-Þeodscyldingas     þenden fremedon.  
-Forgeaf þa Beowulfe     bearn Healfdenes  
-segen gyldenne     sigores to leane;  
-hroden hildecumbor,     helm ond byrnan,  
-mære maðþumsweord     manige gesawon  
-beforan beorn beran.     Beowulf geþah  
-ful on flette;     no he þære feohgyfte  
-for sceotendum     scamigan ðorfte.  
-Ne gefrægn ic freondlicor     feower madmas  
-golde gegyrede     gummanna fela  
-in ealobence     oðrum gesellan.  
-Ymb þæs helmes hrof     heafodbeorge  
-wirum bewunden     walu utan heold,  
-þæt him fela laf     frecne ne meahton  
-scurheard sceþðan,     þonne scyldfreca  
-ongean gramum     gangan scolde.  
-Heht ða eorla hleo     eahta mearas  
-fætedhleore     on flet teon,  
-in under eoderas.     Þara anum stod  
-sadol searwum fah,     since gewurþad;  
-þæt wæs hildesetl     heahcyninges,  
-ðonne sweorda gelac     sunu Healfdenes  
-efnan wolde.     Næfre on ore læg  
-widcuþes wig,     ðonne walu feollon.  
-Ond ða Beowulfe     bega gehwæþres  
-eodor Ingwina     onweald geteah,  
-wicga ond wæpna,     het hine wel brucan.  
-Swa manlice     mære þeoden,  
-hordweard hæleþa,     heaþoræsas geald  
-mearum ond madmum,     swa hy næfre man lyhð,  
-se þe secgan wile     soð æfter rihte.  
+Ða wæs haten hreþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heort innanweard  
+folmum gefrætwod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fela þæra wæs,  
+wera ond wifa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe þæt winreced,  
+gestsele gyredon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goldfag scinon  
+web æfter wagum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundorsiona fela  
+secga gehwylcum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara þe on swylc starað.  
+Wæs þæt beorhte bold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tobrocen swiðe,  
+eal inneweard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;irenbendum fæst,  
+heorras tohlidene.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hrof ana genæs,  
+ealles ansund,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe se aglæca,  
+fyrendædum fag,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on fleam gewand,  
+aldres orwena.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No þæt yðe byð  
+to befleonne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fremme se þe wille,  
+ac gesecan sceal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sawlberendra,  
+nyde genydde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niþða bearna,  
+grundbuendra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearwe stowe,  
+þær his lichoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;legerbedde fæst  
+swefeþ æfter symle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs sæl ond mæl  
+þæt to healle gang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Healfdenes sunu;  
+wolde self cyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;symbel þicgan.  
+Ne gefrægen ic þa mægþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maran weorode  
+ymb hyra sincgyfan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sel gebæran.  
+Bugon þa to bence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blædagande,  
+fylle gefægon;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fægere geþægon  
+medoful manig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;magas þara  
+swiðhicgende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sele þam hean,  
+Hroðgar ond Hroþulf.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heorot innan wæs  
+freondum afylled;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalles facenstafas  
+Þeodscyldingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þenden fremedon.  
+Forgeaf þa Beowulfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Healfdenes  
+segen gyldenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sigores to leane;  
+hroden hildecumbor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm ond byrnan,  
+mære maðþumsweord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manige gesawon  
+beforan beorn beran.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulf geþah  
+ful on flette;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no he þære feohgyfte  
+for sceotendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scamigan ðorfte.  
+Ne gefrægn ic freondlicor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feower madmas  
+golde gegyrede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gummanna fela  
+in ealobence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðrum gesellan.  
+Ymb þæs helmes hrof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heafodbeorge  
+wirum bewunden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;walu utan heold,  
+þæt him fela laf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frecne ne meahton  
+scurheard sceþðan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne scyldfreca  
+ongean gramum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gangan scolde.  
+Heht ða eorla hleo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eahta mearas  
+fætedhleore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on flet teon,  
+in under eoderas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þara anum stod  
+sadol searwum fah,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;since gewurþad;  
+þæt wæs hildesetl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heahcyninges,  
+ðonne sweorda gelac&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Healfdenes  
+efnan wolde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næfre on ore læg  
+widcuþes wig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne walu feollon.  
+Ond ða Beowulfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bega gehwæþres  
+eodor Ingwina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;onweald geteah,  
+wicga ond wæpna,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;het hine wel brucan.  
+Swa manlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mære þeoden,  
+hordweard hæleþa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heaþoræsas geald  
+mearum ond madmum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hy næfre man lyhð,  
+se þe secgan wile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;soð æfter rihte.  
   
-Ða gyt æghwylcum     eorla drihten  
-þara þe mid Beowulfe     brimlade teah  
-on þære medubence     maþðum gesealde,  
-yrfelafe,     ond þone ænne heht  
-golde forgyldan,     þone ðe Grendel ær  
-mane acwealde,     swa he hyra ma wolde,  
-nefne him witig god     wyrd forstode  
-ond ðæs mannes mod.     Metod eallum weold  
-gumena cynnes,     swa he nu git deð.  
-Forþan bið andgit     æghwær selest,  
-ferhðes foreþanc.     Fela sceal gebidan  
-leofes ond laþes     se þe longe her  
-on ðyssum windagum     worolde bruceð.  
-Þær wæs sang ond sweg     samod ætgædere  
-fore Healfdenes     hildewisan,  
-gomenwudu greted,     gid oft wrecen,  
-ðonne healgamen     Hroþgares scop  
-æfter medobence     mænan scolde  
-be Finnes eaferum,     ða hie se fær begeat,  
-hæleð Healfdena,     Hnæf Scyldinga,  
-in Freswæle     feallan scolde.  
-Ne huru Hildeburh     herian þorfte  
-Eotena treowe;     unsynnum wearð  
-beloren leofum     æt þam lindplegan,  
-bearnum ond broðrum;     hie on gebyrd hruron,  
-gare wunde.     Þæt wæs geomuru ides!  
-Nalles holinga     Hoces dohtor  
-meotodsceaft bemearn,     syþðan morgen com,  
-ða heo under swegle     geseon meahte  
-morþorbealo maga,     þær heo ær mæste heold  
-worolde wynne.     Wig ealle fornam  
-Finnes þegnas     nemne feaum anum,  
-þæt he ne mehte     on þæm meðelstede  
-wig Hengeste     wiht gefeohtan,  
-ne þa wealafe     wige forþringan  
-þeodnes ðegna;     ac hig him geþingo budon,  
-þæt hie him oðer flet     eal gerymdon,  
-healle ond heahsetl,     þæt hie healfre geweald  
-wið Eotena bearn     agan moston,  
-ond æt feohgyftum     Folcwaldan sunu  
-dogra gehwylce     Dene weorþode,  
-Hengestes heap     hringum wenede  
-efne swa swiðe     sincgestreonum  
-fættan goldes,     swa he Fresena cyn  
-on beorsele     byldan wolde.  
-Ða hie getruwedon     on twa healfa  
-fæste frioðuwære.     Fin Hengeste  
-elne, unflitme     aðum benemde  
-þæt he þa wealafe     weotena dome  
-arum heolde,     þæt ðær ænig mon  
-wordum ne worcum     wære ne bræce,  
-ne þurh inwitsearo     æfre gemænden  
-ðeah hie hira beaggyfan     banan folgedon  
-ðeodenlease,     þa him swa geþearfod wæs;  
-gyf þonne Frysna hwylc     frecnan spræce  
-ðæs morþorhetes     myndgiend wære,  
-þonne hit sweordes ecg     seðan scolde.  
-Ad wæs geæfned     ond icge gold  
-ahæfen of horde.     Herescyldinga  
-betst beadorinca     wæs on bæl gearu.  
-Æt þæm ade wæs     eþgesyne  
-swatfah syrce,     swyn ealgylden,  
-eofer irenheard,     æþeling manig  
-wundum awyrded;     sume on wæle crungon.  
-Het ða Hildeburh     æt Hnæfes ade  
-hire selfre sunu     sweoloðe befæstan,  
-banfatu bærnan     ond on bæl don  
-eame on eaxle.     Ides gnornode,  
-geomrode giddum.     Guðrinc astah.  
-Wand to wolcnum     wælfyra mæst,  
-hlynode for hlawe;     hafelan multon,  
-bengeato burston,     ðonne blod ætspranc,  
-laðbite lices.     Lig ealle forswealg,  
-gæsta gifrost,     þara ðe þær guð fornam  
-bega folces;     wæs hira blæd scacen.  
+Ða gyt æghwylcum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorla drihten  
+þara þe mid Beowulfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brimlade teah  
+on þære medubence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maþðum gesealde,  
+yrfelafe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þone ænne heht  
+golde forgyldan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone ðe Grendel ær  
+mane acwealde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he hyra ma wolde,  
+nefne him witig god&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrd forstode  
+ond ðæs mannes mod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Metod eallum weold  
+gumena cynnes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he nu git deð.  
+Forþan bið andgit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æghwær selest,  
+ferhðes foreþanc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fela sceal gebidan  
+leofes ond laþes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe longe her  
+on ðyssum windagum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worolde bruceð.  
+Þær wæs sang ond sweg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samod ætgædere  
+fore Healfdenes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildewisan,  
+gomenwudu greted,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gid oft wrecen,  
+ðonne healgamen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroþgares scop  
+æfter medobence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mænan scolde  
+be Finnes eaferum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða hie se fær begeat,  
+hæleð Healfdena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hnæf Scyldinga,  
+in Freswæle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feallan scolde.  
+Ne huru Hildeburh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;herian þorfte  
+Eotena treowe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unsynnum wearð  
+beloren leofum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt þam lindplegan,  
+bearnum ond broðrum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hie on gebyrd hruron,  
+gare wunde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs geomuru ides!  
+Nalles holinga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hoces dohtor  
+meotodsceaft bemearn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syþðan morgen com,  
+ða heo under swegle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon meahte  
+morþorbealo maga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær heo ær mæste heold  
+worolde wynne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wig ealle fornam  
+Finnes þegnas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nemne feaum anum,  
+þæt he ne mehte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on þæm meðelstede  
+wig Hengeste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiht gefeohtan,  
+ne þa wealafe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wige forþringan  
+þeodnes ðegna;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac hig him geþingo budon,  
+þæt hie him oðer flet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eal gerymdon,  
+healle ond heahsetl,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie healfre geweald  
+wið Eotena bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;agan moston,  
+ond æt feohgyftum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Folcwaldan sunu  
+dogra gehwylce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dene weorþode,  
+Hengestes heap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringum wenede  
+efne swa swiðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sincgestreonum  
+fættan goldes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he Fresena cyn  
+on beorsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byldan wolde.  
+Ða hie getruwedon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on twa healfa  
+fæste frioðuwære.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fin Hengeste  
+elne, unflitme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aðum benemde  
+þæt he þa wealafe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weotena dome  
+arum heolde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðær ænig mon  
+wordum ne worcum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wære ne bræce,  
+ne þurh inwitsearo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfre gemænden  
+ðeah hie hira beaggyfan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;banan folgedon  
+ðeodenlease,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa him swa geþearfod wæs;  
+gyf þonne Frysna hwylc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frecnan spræce  
+ðæs morþorhetes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;myndgiend wære,  
+þonne hit sweordes ecg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seðan scolde.  
+Ad wæs geæfned&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond icge gold  
+ahæfen of horde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herescyldinga  
+betst beadorinca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs on bæl gearu.  
+Æt þæm ade wæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eþgesyne  
+swatfah syrce,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swyn ealgylden,  
+eofer irenheard,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþeling manig  
+wundum awyrded;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sume on wæle crungon.  
+Het ða Hildeburh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt Hnæfes ade  
+hire selfre sunu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweoloðe befæstan,  
+banfatu bærnan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on bæl don  
+eame on eaxle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ides gnornode,  
+geomrode giddum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guðrinc astah.  
+Wand to wolcnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wælfyra mæst,  
+hlynode for hlawe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hafelan multon,  
+bengeato burston,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne blod ætspranc,  
+laðbite lices.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lig ealle forswealg,  
+gæsta gifrost,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara ðe þær guð fornam  
+bega folces;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs hira blæd scacen.  
   
-Gewiton him ða wigend     wica neosian,  
-freondum befeallen,     Frysland geseon,  
-hamas ond heaburh.     Hengest ða gyt  
-wælfagne winter     wunode mid Finne  
-eal unhlitme.     Eard gemunde,  
-þeah þe he ne meahte     on mere drifan  
-hringedstefnan;     holm storme weol,  
-won wið winde,     winter yþe beleac  
-isgebinde,     oþðæt oþer com  
-gear in geardas,     swa nu gyt deð,  
-þa ðe syngales     sele bewitiað,  
-wuldortorhtan weder.     Ða wæs winter scacen,  
-fæger foldan bearm.     Fundode wrecca,  
-gist of geardum;     he to gyrnwræce  
-swiðor þohte     þonne to sælade,  
-gif he torngemot     þurhteon mihte  
-þæt he Eotena bearn     inne gemunde.  
-Swa he ne forwyrnde     woroldrædenne,  
-þonne him Hunlafing     hildeleoman,  
-billa selest,     on bearm dyde,  
-þæs wæron mid Eotenum     ecge cuðe.  
-Swylce ferhðfrecan     Fin eft begeat  
-sweordbealo sliðen     æt his selfes ham,  
-siþðan grimne gripe     Guðlaf ond Oslaf  
-æfter sæsiðe,     sorge, mændon,  
-ætwiton weana dæl;     ne meahte wæfre mod  
-forhabban in hreþre.     Ða wæs heal roden  
-feonda feorum,     swilce Fin slægen,  
-cyning on corþre,     ond seo cwen numen.  
-Sceotend Scyldinga     to scypon feredon  
-eal ingesteald     eorðcyninges,  
-swylce hie æt Finnes ham     findan meahton  
-sigla, searogimma.     Hie on sælade  
-drihtlice wif     to Denum feredon,  
-læddon to leodum.     Leoð wæs asungen,  
-gleomannes gyd.     Gamen eft astah,  
-beorhtode bencsweg;     byrelas sealdon  
-win of wunderfatum.     Þa cwom Wealhþeo forð  
-gan under gyldnum beage,     þær þa godan twegen  
-sæton suhtergefæderan;     þa gyt wæs hiera sib ætgædere,  
-æghwylc oðrum trywe.     Swylce þær Unferþ þyle  
-æt fotum sæt frean Scyldinga;     gehwylc hiora his ferhþe treowde,  
-þæt he hæfde mod micel,     þeah þe he his magum nære  
-arfæst æt ecga gelacum.     Spræc ða ides Scyldinga:  
-"Onfoh þissum fulle,     freodrihten min,  
-sinces brytta!     þu on sælum wes,  
-goldwine gumena,     ond to Geatum spræc  
-mildum wordum,     swa sceal man don.  
-Beo wið Geatas glæd,     geofena gemyndig,  
-nean ond feorran     þu nu hafast.  
-Me man sægde     þæt þu ðe for sunu wolde  
-hererinc habban.     Heorot is gefælsod,  
-beahsele beorhta;     bruc þenden þu mote  
-manigra medo,     ond þinum magum læf  
-folc ond rice,     þonne ðu forð scyle  
-metodsceaft seon.     Ic minne can  
-glædne Hroþulf,     þæt he þa geogoðe wile  
-arum healdan,     gyf þu ær þonne he,  
-wine Scildinga,     worold oflætest;  
-wene ic þæt he mid gode     gyldan wille  
-uncran eaferan,     gif he þæt eal gemon,  
-hwæt wit to willan     ond to worðmyndum  
-umborwesendum ær     arna gefremedon."  
-Hwearf þa bi bence     þær hyre byre wæron,  
-Hreðric ond Hroðmund,     ond hæleþa bearn,  
-giogoð ætgædere;     þær se goda sæt,  
-Beowulf Geata,     be þæm gebroðrum twæm.  
+Gewiton him ða wigend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wica neosian,  
+freondum befeallen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frysland geseon,  
+hamas ond heaburh.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hengest ða gyt  
+wælfagne winter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wunode mid Finne  
+eal unhlitme.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eard gemunde,  
+þeah þe he ne meahte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on mere drifan  
+hringedstefnan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;holm storme weol,  
+won wið winde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;winter yþe beleac  
+isgebinde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþðæt oþer com  
+gear in geardas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa nu gyt deð,  
+þa ðe syngales&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sele bewitiað,  
+wuldortorhtan weder.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða wæs winter scacen,  
+fæger foldan bearm.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fundode wrecca,  
+gist of geardum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he to gyrnwræce  
+swiðor þohte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne to sælade,  
+gif he torngemot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þurhteon mihte  
+þæt he Eotena bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inne gemunde.  
+Swa he ne forwyrnde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;woroldrædenne,  
+þonne him Hunlafing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildeleoman,  
+billa selest,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on bearm dyde,  
+þæs wæron mid Eotenum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ecge cuðe.  
+Swylce ferhðfrecan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fin eft begeat  
+sweordbealo sliðen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt his selfes ham,  
+siþðan grimne gripe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guðlaf ond Oslaf  
+æfter sæsiðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sorge, mændon,  
+ætwiton weana dæl;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne meahte wæfre mod  
+forhabban in hreþre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða wæs heal roden  
+feonda feorum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swilce Fin slægen,  
+cyning on corþre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond seo cwen numen.  
+Sceotend Scyldinga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to scypon feredon  
+eal ingesteald&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorðcyninges,  
+swylce hie æt Finnes ham&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;findan meahton  
+sigla, searogimma.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hie on sælade  
+drihtlice wif&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to Denum feredon,  
+læddon to leodum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leoð wæs asungen,  
+gleomannes gyd.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gamen eft astah,  
+beorhtode bencsweg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byrelas sealdon  
+win of wunderfatum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa cwom Wealhþeo forð  
+gan under gyldnum beage,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær þa godan twegen  
+sæton suhtergefæderan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa gyt wæs hiera sib ætgædere,  
+æghwylc oðrum trywe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swylce þær Unferþ þyle  
+æt fotum sæt frean Scyldinga;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gehwylc hiora his ferhþe treowde,  
+þæt he hæfde mod micel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah þe he his magum nære  
+arfæst æt ecga gelacum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spræc ða ides Scyldinga:  
+"Onfoh þissum fulle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;freodrihten min,  
+sinces brytta!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þu on sælum wes,  
+goldwine gumena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond to Geatum spræc  
+mildum wordum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa sceal man don.  
+Beo wið Geatas glæd,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geofena gemyndig,  
+nean ond feorran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þu nu hafast.  
+Me man sægde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þu ðe for sunu wolde  
+hererinc habban.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heorot is gefælsod,  
+beahsele beorhta;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bruc þenden þu mote  
+manigra medo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þinum magum læf  
+folc ond rice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne ðu forð scyle  
+metodsceaft seon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic minne can  
+glædne Hroþulf,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he þa geogoðe wile  
+arum healdan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyf þu ær þonne he,  
+wine Scildinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worold oflætest;  
+wene ic þæt he mid gode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyldan wille  
+uncran eaferan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif he þæt eal gemon,  
+hwæt wit to willan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond to worðmyndum  
+umborwesendum ær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arna gefremedon."  
+Hwearf þa bi bence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær hyre byre wæron,  
+Hreðric ond Hroðmund,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond hæleþa bearn,  
+giogoð ætgædere;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær se goda sæt,  
+Beowulf Geata,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be þæm gebroðrum twæm.  
   
-Him wæs ful boren     ond freondlaþu  
-wordum bewægned,     ond wunden gold  
-estum geeawed,     earmreade twa,  
-hrægl ond hringas,     healsbeaga mæst  
-þara þe ic on foldan     gefrægen hæbbe.  
-Nænigne ic under swegle     selran hyrde  
-hordmaððum hæleþa,     syþðan Hama ætwæg  
-to þære byrhtan byrig     Brosinga mene,  
-sigle ond sincfæt;     searoniðas fleah  
-Eormenrices,     geceas ecne ræd.  
-Þone hring hæfde     Higelac Geata,  
-nefa Swertinges,     nyhstan siðe,  
-siðþan he under segne     sinc ealgode,  
-wælreaf werede;     hyne wyrd fornam,  
-syþðan he for wlenco     wean ahsode,  
-fæhðe to Frysum.     He þa frætwe wæg,  
-eorclanstanas     ofer yða ful,  
-rice þeoden;     he under rande gecranc.  
-Gehwearf þa in Francna fæþm     feorh cyninges,  
-breostgewædu     ond se beah somod;  
-wyrsan wigfrecan     wæl reafedon  
-æfter guðsceare,     Geata leode,  
-hreawic heoldon.     Heal swege onfeng.  
-Wealhðeo maþelode,     heo fore þæm werede spræc:  
-"Bruc ðisses beages,     Beowulf leofa,  
-hyse, mid hæle,     ond þisses hrægles neot,  
-þeodgestreona,     ond geþeoh tela,  
-cen þec mid cræfte     ond þyssum cnyhtum wes  
-lara liðe;     ic þe þæs lean geman.  
-Hafast þu gefered     þæt ðe feor ond neah  
-ealne wideferhþ     weras ehtigað,  
-efne swa side     swa sæ bebugeð,  
-windgeard, weallas.     Wes þenden þu lifige,  
-æþeling, eadig.     Ic þe an tela  
-sincgestreona.     Beo þu suna minum  
-dædum gedefe,     dreamhealdende.  
-Her is æghwylc eorl     oþrum getrywe,  
-modes milde,     mandrihtne hold;  
-þegnas syndon geþwære,     þeod ealgearo,  
-druncne dryhtguman     doð swa ic bidde."  
-Eode þa to setle.     Þær wæs symbla cyst;  
-druncon win weras.     Wyrd ne cuþon,  
-geosceaft grimme,     swa hit agangen wearð  
-eorla manegum,     syþðan æfen cwom  
-ond him Hroþgar gewat     to hofe sinum,  
-rice to ræste.     Reced weardode  
-unrim eorla,     swa hie oft ær dydon.  
-Bencþelu beredon;     hit geondbræded wearð  
-beddum ond bolstrum.     Beorscealca sum  
-fus ond fæge     fletræste gebeag.  
-Setton him to heafdon     hilderandas,  
-bordwudu beorhtan;     þær on bence wæs  
-ofer æþelinge     yþgesene  
-heaþosteapa helm,     hringed byrne,  
-þrecwudu þrymlic.     Wæs þeaw hyra  
-þæt hie oft wæron     an wig gearwe,  
-ge æt ham ge on herge,     ge gehwæþer þara,  
-efne swylce mæla     swylce hira mandryhtne  
-þearf gesælde;     wæs seo þeod tilu.  
+Him wæs ful boren&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond freondlaþu  
+wordum bewægned,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond wunden gold  
+estum geeawed,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earmreade twa,  
+hrægl ond hringas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;healsbeaga mæst  
+þara þe ic on foldan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gefrægen hæbbe.  
+Nænigne ic under swegle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selran hyrde  
+hordmaððum hæleþa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syþðan Hama ætwæg  
+to þære byrhtan byrig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brosinga mene,  
+sigle ond sincfæt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;searoniðas fleah  
+Eormenrices,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geceas ecne ræd.  
+Þone hring hæfde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelac Geata,  
+nefa Swertinges,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nyhstan siðe,  
+siðþan he under segne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sinc ealgode,  
+wælreaf werede;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyne wyrd fornam,  
+syþðan he for wlenco&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wean ahsode,  
+fæhðe to Frysum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He þa frætwe wæg,  
+eorclanstanas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer yða ful,  
+rice þeoden;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he under rande gecranc.  
+Gehwearf þa in Francna fæþm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorh cyninges,  
+breostgewædu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond se beah somod;  
+wyrsan wigfrecan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæl reafedon  
+æfter guðsceare,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leode,  
+hreawic heoldon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heal swege onfeng.  
+Wealhðeo maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heo fore þæm werede spræc:  
+"Bruc ðisses beages,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulf leofa,  
+hyse, mid hæle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þisses hrægles neot,  
+þeodgestreona,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond geþeoh tela,  
+cen þec mid cræfte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þyssum cnyhtum wes  
+lara liðe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic þe þæs lean geman.  
+Hafast þu gefered&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðe feor ond neah  
+ealne wideferhþ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weras ehtigað,  
+efne swa side&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa sæ bebugeð,  
+windgeard, weallas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wes þenden þu lifige,  
+æþeling, eadig.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þe an tela  
+sincgestreona.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beo þu suna minum  
+dædum gedefe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dreamhealdende.  
+Her is æghwylc eorl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþrum getrywe,  
+modes milde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mandrihtne hold;  
+þegnas syndon geþwære,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeod ealgearo,  
+druncne dryhtguman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doð swa ic bidde."  
+Eode þa to setle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þær wæs symbla cyst;  
+druncon win weras.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wyrd ne cuþon,  
+geosceaft grimme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hit agangen wearð  
+eorla manegum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syþðan æfen cwom  
+ond him Hroþgar gewat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hofe sinum,  
+rice to ræste.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reced weardode  
+unrim eorla,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hie oft ær dydon.  
+Bencþelu beredon;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hit geondbræded wearð  
+beddum ond bolstrum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beorscealca sum  
+fus ond fæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fletræste gebeag.  
+Setton him to heafdon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hilderandas,  
+bordwudu beorhtan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær on bence wæs  
+ofer æþelinge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yþgesene  
+heaþosteapa helm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringed byrne,  
+þrecwudu þrymlic.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs þeaw hyra  
+þæt hie oft wæron&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;an wig gearwe,  
+ge æt ham ge on herge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ge gehwæþer þara,  
+efne swylce mæla&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce hira mandryhtne  
+þearf gesælde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs seo þeod tilu.  
   
-Sigon þa to slæpe.     Sum sare angeald  
-æfenræste,     swa him ful oft gelamp,  
-siþðan goldsele     Grendel warode,  
-unriht æfnde,     oþþæt ende becwom,  
-swylt æfter synnum.     Þæt gesyne wearþ,  
-widcuþ werum,     þætte wrecend þa gyt  
-lifde æfter laþum,     lange þrage,  
-æfter guðceare.     Grendles modor,  
-ides, aglæcwif,     yrmþe gemunde,  
-se þe wæteregesan     wunian scolde,  
-cealde streamas,     siþðan Cain wearð  
-to ecgbanan     angan breþer,  
-fæderenmæge;     he þa fag gewat,  
-morþre gemearcod,     mandream fleon,  
-westen warode.     Þanon woc fela  
-geosceaftgasta;     wæs þæra Grendel sum,  
-heorowearh hetelic,     se æt Heorote fand  
-wæccendne wer     wiges bidan.  
-Þær him aglæca     ætgræpe wearð;  
-hwæþre he gemunde     mægenes strenge,  
-gimfæste gife     ðe him god sealde,  
-ond him to anwaldan     are gelyfde,  
-frofre ond fultum;     ðy he þone feond ofercwom,  
-gehnægde helle gast.     Þa he hean gewat,  
-dreame bedæled,     deaþwic seon,  
-mancynnes feond,     ond his modor þa gyt,  
-gifre ond galgmod,     gegan wolde  
-sorhfulne sið,     sunu deað wrecan.  
-Com þa to Heorote,     ðær Hringdene  
-geond þæt sæld swæfun.     Þa ðær sona wearð  
-edhwyrft eorlum,     siþðan inne fealh  
-Grendles modor.     Wæs se gryre læssa  
-efne swa micle     swa bið mægþa cræft,  
-wiggryre wifes,     be wæpnedmen,  
-þonne heoru bunden,     hamere geþuren,  
-sweord swate fah     swin ofer helme  
-ecgum dyhttig     andweard scireð.  
-Þa wæs on healle     heardecg togen  
-sweord ofer setlum,     sidrand manig  
-hafen handa fæst;     helm ne gemunde,  
-byrnan side,     þa hine se broga angeat.  
-Heo wæs on ofste,     wolde ut þanon,  
-feore beorgan,     þa heo onfunden wæs.  
-Hraðe heo æþelinga     anne hæfde  
-fæste befangen,     þa heo to fenne gang.  
-Se wæs Hroþgare     hæleþa leofost  
-on gesiðes had     be sæm tweonum,  
-rice randwiga,     þone ðe heo on ræste abreat,  
-blædfæstne beorn.     Næs Beowulf ðær,  
-ac wæs oþer in     ær geteohhod  
-æfter maþðumgife     mærum Geate.  
-Hream wearð in Heorote;     heo under heolfre genam  
-cuþe folme;     cearu wæs geniwod,  
-geworden in wicun.     Ne wæs þæt gewrixle til,  
-þæt hie on ba healfa     bicgan scoldon  
-freonda feorum.     Þa wæs frod cyning,  
-har hilderinc,     on hreon mode,  
-syðþan he aldorþegn     unlyfigendne,  
-þone deorestan     deadne wisse.  
-Hraþe wæs to bure     Beowulf fetod,  
-sigoreadig secg.     Samod ærdæge  
-eode eorla sum,     æþele cempa  
-self mid gesiðum     þær se snotera bad,  
-hwæþer him alwalda     æfre wille  
-æfter weaspelle     wyrpe gefremman.  
-Gang ða æfter flore     fyrdwyrðe man  
-mid his handscale     (healwudu dynede),  
-þæt he þone wisan     wordum nægde  
-frean Ingwina,     frægn gif him wære  
-æfter neodlaðum     niht getæse.  
+Sigon þa to slæpe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sum sare angeald  
+æfenræste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him ful oft gelamp,  
+siþðan goldsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendel warode,  
+unriht æfnde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt ende becwom,  
+swylt æfter synnum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt gesyne wearþ,  
+widcuþ werum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þætte wrecend þa gyt  
+lifde æfter laþum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lange þrage,  
+æfter guðceare.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendles modor,  
+ides, aglæcwif,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yrmþe gemunde,  
+se þe wæteregesan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wunian scolde,  
+cealde streamas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siþðan Cain wearð  
+to ecgbanan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;angan breþer,  
+fæderenmæge;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he þa fag gewat,  
+morþre gemearcod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mandream fleon,  
+westen warode.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þanon woc fela  
+geosceaftgasta;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs þæra Grendel sum,  
+heorowearh hetelic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se æt Heorote fand  
+wæccendne wer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiges bidan.  
+Þær him aglæca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ætgræpe wearð;  
+hwæþre he gemunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenes strenge,  
+gimfæste gife&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðe him god sealde,  
+ond him to anwaldan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;are gelyfde,  
+frofre ond fultum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðy he þone feond ofercwom,  
+gehnægde helle gast.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa he hean gewat,  
+dreame bedæled,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deaþwic seon,  
+mancynnes feond,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his modor þa gyt,  
+gifre ond galgmod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gegan wolde  
+sorhfulne sið,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu deað wrecan.  
+Com þa to Heorote,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær Hringdene  
+geond þæt sæld swæfun.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa ðær sona wearð  
+edhwyrft eorlum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siþðan inne fealh  
+Grendles modor.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs se gryre læssa  
+efne swa micle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa bið mægþa cræft,  
+wiggryre wifes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be wæpnedmen,  
+þonne heoru bunden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hamere geþuren,  
+sweord swate fah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swin ofer helme  
+ecgum dyhttig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;andweard scireð.  
+Þa wæs on healle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heardecg togen  
+sweord ofer setlum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sidrand manig  
+hafen handa fæst;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm ne gemunde,  
+byrnan side,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa hine se broga angeat.  
+Heo wæs on ofste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wolde ut þanon,  
+feore beorgan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa heo onfunden wæs.  
+Hraðe heo æþelinga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anne hæfde  
+fæste befangen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa heo to fenne gang.  
+Se wæs Hroþgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hæleþa leofost  
+on gesiðes had&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be sæm tweonum,  
+rice randwiga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone ðe heo on ræste abreat,  
+blædfæstne beorn.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs Beowulf ðær,  
+ac wæs oþer in&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær geteohhod  
+æfter maþðumgife&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mærum Geate.  
+Hream wearð in Heorote;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heo under heolfre genam  
+cuþe folme;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cearu wæs geniwod,  
+geworden in wicun.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne wæs þæt gewrixle til,  
+þæt hie on ba healfa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bicgan scoldon  
+freonda feorum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs frod cyning,  
+har hilderinc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on hreon mode,  
+syðþan he aldorþegn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unlyfigendne,  
+þone deorestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deadne wisse.  
+Hraþe wæs to bure&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulf fetod,  
+sigoreadig secg.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Samod ærdæge  
+eode eorla sum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþele cempa  
+self mid gesiðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær se snotera bad,  
+hwæþer him alwalda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfre wille  
+æfter weaspelle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrpe gefremman.  
+Gang ða æfter flore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrdwyrðe man  
+mid his handscale&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(healwudu dynede),  
+þæt he þone wisan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordum nægde  
+frean Ingwina,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frægn gif him wære  
+æfter neodlaðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niht getæse.  
   
-Hroðgar maþelode,     helm Scyldinga:  
-"Ne frin þu æfter sælum!     Sorh is geniwod  
-Denigea leodum.     Dead is Æschere,  
-Yrmenlafes     yldra broþor,  
-min runwita     ond min rædbora,  
-eaxlgestealla,     ðonne we on orlege  
-hafelan weredon,     þonne hniton feþan,  
-eoferas cnysedan.     Swylc scolde eorl wesan,  
-æþeling ærgod,     swylc Æschere wæs!  
-Wearð him on Heorote     to handbanan  
-wælgæst wæfre;     ic ne wat hwæder  
-atol æse wlanc     eftsiðas teah,  
-fylle gefægnod.     Heo þa fæhðe wræc  
-þe þu gystran niht     Grendel cwealdest  
-þurh hæstne had     heardum clammum,  
-forþan he to lange     leode mine  
-wanode ond wyrde.     He æt wige gecrang  
-ealdres scyldig,     ond nu oþer cwom  
-mihtig manscaða,     wolde hyre mæg wrecan,  
-ge feor hafað     fæhðe gestæled  
-(þæs þe þincean mæg     þegne monegum,  
-se þe æfter sincgyfan     on sefan greoteþ),  
-hreþerbealo hearde;     nu seo hand ligeð,  
-se þe eow welhwylcra     wilna dohte.  
-Ic þæt londbuend,     leode mine,  
-selerædende,     secgan hyrde  
-þæt hie gesawon     swylce twegen  
-micle mearcstapan     moras healdan,  
-ellorgæstas.     Ðæra oðer wæs,  
-þæs þe hie gewislicost     gewitan meahton,  
-idese onlicnæs;     oðer earmsceapen  
-on weres wæstmum     wræclastas træd,  
-næfne he wæs mara     þonne ænig man oðer;  
-þone on geardagum     Grendel nemdon  
-foldbuende.     No hie fæder cunnon,  
-hwæþer him ænig wæs     ær acenned  
-dyrnra gasta.     Hie dygel lond  
-warigeað, wulfhleoþu,     windige næssas,  
-frecne fengelad,     ðær fyrgenstream  
-under næssa genipu     niþer gewiteð,  
-flod under foldan.     Nis þæt feor heonon  
-milgemearces     þæt se mere standeð;  
-ofer þæm hongiað     hrinde bearwas,  
-wudu wyrtum fæst     wæter oferhelmað.  
-Þær mæg nihta gehwæm     niðwundor seon,  
-fyr on flode.     No þæs frod leofað  
-gumena bearna,     þæt þone grund wite;  
-ðeah þe hæðstapa     hundum geswenced,  
-heorot hornum trum,     holtwudu sece,  
-feorran geflymed,     ær he feorh seleð,  
-aldor on ofre,     ær he in wille  
-hafelan hydan.     Nis þæt heoru stow!  
-Þonon yðgeblond     up astigeð  
-won to wolcnum,     þonne wind styreþ,  
-lað gewidru,     oðþæt lyft drysmaþ,  
-roderas reotað.     Nu is se ræd gelang  
-eft æt þe anum.     Eard git ne const,  
-frecne stowe,     ðær þu findan miht  
-felasinnigne secg;     sec gif þu dyrre.  
-Ic þe þa fæhðe     feo leanige,  
-ealdgestreonum,     swa ic ær dyde,  
-wundnum golde,     gyf þu on weg cymest."  
+Hroðgar maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm Scyldinga:  
+"Ne frin þu æfter sælum!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sorh is geniwod  
+Denigea leodum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dead is Æschere,  
+Yrmenlafes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yldra broþor,  
+min runwita&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond min rædbora,  
+eaxlgestealla,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne we on orlege  
+hafelan weredon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne hniton feþan,  
+eoferas cnysedan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swylc scolde eorl wesan,  
+æþeling ærgod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylc Æschere wæs!  
+Wearð him on Heorote&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to handbanan  
+wælgæst wæfre;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic ne wat hwæder  
+atol æse wlanc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eftsiðas teah,  
+fylle gefægnod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heo þa fæhðe wræc  
+þe þu gystran niht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendel cwealdest  
+þurh hæstne had&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heardum clammum,  
+forþan he to lange&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leode mine  
+wanode ond wyrde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He æt wige gecrang  
+ealdres scyldig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond nu oþer cwom  
+mihtig manscaða,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wolde hyre mæg wrecan,  
+ge feor hafað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæhðe gestæled  
+(þæs þe þincean mæg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þegne monegum,  
+se þe æfter sincgyfan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sefan greoteþ),  
+hreþerbealo hearde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nu seo hand ligeð,  
+se þe eow welhwylcra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wilna dohte.  
+Ic þæt londbuend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leode mine,  
+selerædende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgan hyrde  
+þæt hie gesawon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce twegen  
+micle mearcstapan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;moras healdan,  
+ellorgæstas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ðæra oðer wæs,  
+þæs þe hie gewislicost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gewitan meahton,  
+idese onlicnæs;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðer earmsceapen  
+on weres wæstmum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wræclastas træd,  
+næfne he wæs mara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne ænig man oðer;  
+þone on geardagum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendel nemdon  
+foldbuende.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No hie fæder cunnon,  
+hwæþer him ænig wæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær acenned  
+dyrnra gasta.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hie dygel lond  
+warigeað, wulfhleoþu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;windige næssas,  
+frecne fengelad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær fyrgenstream  
+under næssa genipu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niþer gewiteð,  
+flod under foldan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nis þæt feor heonon  
+milgemearces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt se mere standeð;  
+ofer þæm hongiað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hrinde bearwas,  
+wudu wyrtum fæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæter oferhelmað.  
+Þær mæg nihta gehwæm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niðwundor seon,  
+fyr on flode.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No þæs frod leofað  
+gumena bearna,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þone grund wite;  
+ðeah þe hæðstapa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hundum geswenced,  
+heorot hornum trum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;holtwudu sece,  
+feorran geflymed,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær he feorh seleð,  
+aldor on ofre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær he in wille  
+hafelan hydan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nis þæt heoru stow!  
+Þonon yðgeblond&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;up astigeð  
+won to wolcnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne wind styreþ,  
+lað gewidru,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðþæt lyft drysmaþ,  
+roderas reotað.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu is se ræd gelang  
+eft æt þe anum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eard git ne const,  
+frecne stowe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær þu findan miht  
+felasinnigne secg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sec gif þu dyrre.  
+Ic þe þa fæhðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feo leanige,  
+ealdgestreonum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa ic ær dyde,  
+wundnum golde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyf þu on weg cymest."  
   
-Beowulf maþelode,     bearn Ecgþeowes:  
-"Ne sorga, snotor guma;     selre bið æghwæm  
-þæt he his freond wrece,     þonne he fela murne.  
-Ure æghwylc sceal     ende gebidan  
-worolde lifes;     wyrce se þe mote  
-domes ær deaþe;     þæt bið drihtguman  
-unlifgendum     æfter selest.  
-Aris, rices weard,     uton raþe feran  
-Grendles magan     gang sceawigan.  
-Ic hit þe gehate,     no he on helm losaþ,  
-ne on foldan fæþm,     ne on fyrgenholt,  
-ne on gyfenes grund,     ga þær he wille.  
-Ðys dogor þu     geþyld hafa  
-weana gehwylces,     swa ic þe wene to."  
-Ahleop ða se gomela,     gode þancode,  
-mihtigan drihtne,     þæs se man gespræc.  
-Þa wæs Hroðgare     hors gebæted,  
-wicg wundenfeax.     Wisa fengel  
-geatolic gende;     gumfeþa stop  
-lindhæbbendra.     Lastas wæron  
-æfter waldswaþum     wide gesyne,  
-gang ofer grundas,     þær heo gegnum for  
-ofer myrcan mor,     magoþegna bær  
-þone selestan     sawolleasne  
-þara þe mid Hroðgare     ham eahtode.  
-Ofereode þa     æþelinga bearn  
-steap stanhliðo,     stige nearwe,  
-enge anpaðas,     uncuð gelad,  
-neowle næssas,     nicorhusa fela.  
-He feara sum     beforan gengde  
-wisra monna     wong sceawian,  
-oþþæt he færinga     fyrgenbeamas  
-ofer harne stan     hleonian funde,  
-wynleasne wudu;     wæter under stod  
-dreorig ond gedrefed.     Denum eallum wæs,  
-winum Scyldinga,     weorce on mode  
-to geþolianne,     ðegne monegum,  
-oncyð eorla gehwæm,     syðþan Æscheres  
-on þam holmclife     hafelan metton.  
-Flod blode weol     (folc to sægon),  
-hatan heolfre.     Horn stundum song  
-fuslic fyrdleoð.     Feþa eal gesæt.  
-Gesawon ða æfter wætere     wyrmcynnes fela,  
-sellice sædracan,     sund cunnian,  
-swylce on næshleoðum     nicras licgean,  
-ða on undernmæl     oft bewitigað  
-sorhfulne sið     on seglrade,  
-wyrmas ond wildeor;     hie on weg hruron,  
-bitere ond gebolgne,     bearhtm ongeaton,  
-guðhorn galan.     Sumne Geata leod  
-of flanbogan     feores getwæfde,  
-yðgewinnes,     þæt him on aldre stod  
-herestræl hearda;     he on holme wæs  
-sundes þe sænra,     ðe hyne swylt fornam.  
-Hræþe wearð on yðum     mid eoferspreotum  
-heorohocyhtum     hearde genearwod,  
-niða genæged,     ond on næs togen,  
-wundorlic wægbora;     weras sceawedon  
-gryrelicne gist.     Gyrede hine Beowulf  
-eorlgewædum,     nalles for ealdre mearn.  
-Scolde herebyrne     hondum gebroden,  
-sid ond searofah,     sund cunnian,  
-seo ðe bancofan     beorgan cuþe,  
-þæt him hildegrap     hreþre ne mihte,  
-eorres inwitfeng,     aldre gesceþðan;  
-ac se hwita helm     hafelan werede,  
-se þe meregrundas     mengan scolde,  
-secan sundgebland     since geweorðad,  
-befongen freawrasnum,     swa hine fyrndagum  
-worhte wæpna smið,     wundrum teode,  
-besette swinlicum,     þæt hine syðþan no  
-brond ne beadomecas     bitan ne meahton.  
-Næs þæt þonne mætost     mægenfultuma  
-þæt him on ðearfe lah     ðyle Hroðgares;  
-wæs þæm hæftmece     Hrunting nama.  
-Þæt wæs an foran     ealdgestreona;  
-ecg wæs iren,     atertanum fah,  
-ahyrded heaþoswate;     næfre hit æt hilde ne swac  
-manna ængum     þara þe hit mid mundum bewand,  
-se ðe gryresiðas     gegan dorste,  
-folcstede fara;     næs þæt forma sið  
-þæt hit ellenweorc     æfnan scolde.  
-Huru ne gemunde     mago Ecglafes,  
-eafoþes cræftig,     þæt he ær gespræc  
-wine druncen,     þa he þæs wæpnes onlah  
-selran sweordfrecan.     Selfa ne dorste  
-under yða gewin     aldre geneþan,  
-drihtscype dreogan;     þær he dome forleas,  
-ellenmærðum.     Ne wæs þæm oðrum swa,  
-syðþan he hine to guðe     gegyred hæfde.  
+Beowulf maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgþeowes:  
+"Ne sorga, snotor guma;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selre bið æghwæm  
+þæt he his freond wrece,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne he fela murne.  
+Ure æghwylc sceal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende gebidan  
+worolde lifes;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrce se þe mote  
+domes ær deaþe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt bið drihtguman  
+unlifgendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfter selest.  
+Aris, rices weard,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uton raþe feran  
+Grendles magan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gang sceawigan.  
+Ic hit þe gehate,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no he on helm losaþ,  
+ne on foldan fæþm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne on fyrgenholt,  
+ne on gyfenes grund,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ga þær he wille.  
+Ðys dogor þu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geþyld hafa  
+weana gehwylces,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa ic þe wene to."  
+Ahleop ða se gomela,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode þancode,  
+mihtigan drihtne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs se man gespræc.  
+Þa wæs Hroðgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hors gebæted,  
+wicg wundenfeax.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wisa fengel  
+geatolic gende;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumfeþa stop  
+lindhæbbendra.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lastas wæron  
+æfter waldswaþum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide gesyne,  
+gang ofer grundas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær heo gegnum for  
+ofer myrcan mor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;magoþegna bær  
+þone selestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sawolleasne  
+þara þe mid Hroðgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ham eahtode.  
+Ofereode þa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþelinga bearn  
+steap stanhliðo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stige nearwe,  
+enge anpaðas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uncuð gelad,  
+neowle næssas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nicorhusa fela.  
+He feara sum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beforan gengde  
+wisra monna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wong sceawian,  
+oþþæt he færinga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrgenbeamas  
+ofer harne stan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hleonian funde,  
+wynleasne wudu;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæter under stod  
+dreorig ond gedrefed.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denum eallum wæs,  
+winum Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorce on mode  
+to geþolianne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðegne monegum,  
+oncyð eorla gehwæm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syðþan Æscheres  
+on þam holmclife&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hafelan metton.  
+Flod blode weol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(folc to sægon),  
+hatan heolfre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horn stundum song  
+fuslic fyrdleoð.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feþa eal gesæt.  
+Gesawon ða æfter wætere&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrmcynnes fela,  
+sellice sædracan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sund cunnian,  
+swylce on næshleoðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nicras licgean,  
+ða on undernmæl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oft bewitigað  
+sorhfulne sið&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on seglrade,  
+wyrmas ond wildeor;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hie on weg hruron,  
+bitere ond gebolgne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearhtm ongeaton,  
+guðhorn galan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sumne Geata leod  
+of flanbogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feores getwæfde,  
+yðgewinnes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt him on aldre stod  
+herestræl hearda;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he on holme wæs  
+sundes þe sænra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðe hyne swylt fornam.  
+Hræþe wearð on yðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid eoferspreotum  
+heorohocyhtum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hearde genearwod,  
+niða genæged,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on næs togen,  
+wundorlic wægbora;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weras sceawedon  
+gryrelicne gist.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gyrede hine Beowulf  
+eorlgewædum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalles for ealdre mearn.  
+Scolde herebyrne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hondum gebroden,  
+sid ond searofah,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sund cunnian,  
+seo ðe bancofan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorgan cuþe,  
+þæt him hildegrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hreþre ne mihte,  
+eorres inwitfeng,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aldre gesceþðan;  
+ac se hwita helm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hafelan werede,  
+se þe meregrundas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mengan scolde,  
+secan sundgebland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;since geweorðad,  
+befongen freawrasnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hine fyrndagum  
+worhte wæpna smið,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundrum teode,  
+besette swinlicum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hine syðþan no  
+brond ne beadomecas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bitan ne meahton.  
+Næs þæt þonne mætost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenfultuma  
+þæt him on ðearfe lah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðyle Hroðgares;  
+wæs þæm hæftmece&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hrunting nama.  
+Þæt wæs an foran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdgestreona;  
+ecg wæs iren,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;atertanum fah,  
+ahyrded heaþoswate;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næfre hit æt hilde ne swac  
+manna ængum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara þe hit mid mundum bewand,  
+se ðe gryresiðas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gegan dorste,  
+folcstede fara;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs þæt forma sið  
+þæt hit ellenweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfnan scolde.  
+Huru ne gemunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mago Ecglafes,  
+eafoþes cræftig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he ær gespræc  
+wine druncen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he þæs wæpnes onlah  
+selran sweordfrecan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selfa ne dorste  
+under yða gewin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aldre geneþan,  
+drihtscype dreogan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he dome forleas,  
+ellenmærðum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne wæs þæm oðrum swa,  
+syðþan he hine to guðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gegyred hæfde.  
   
-Beowulf maðelode,     bearn Ecgþeowes:  
-"Geþenc nu, se mæra     maga Healfdenes,  
-snottra fengel,     nu ic eom siðes fus,  
-goldwine gumena,     hwæt wit geo spræcon,  
-gif ic æt þearfe     þinre scolde  
-aldre linnan,     þæt ðu me a wære  
-forðgewitenum     on fæder stæle.  
-Wes þu mundbora     minum magoþegnum,  
-hondgesellum,     gif mec hild nime;  
-swylce þu ða madmas     þe þu me sealdest,  
-Hroðgar leofa,     Higelace onsend.  
-Mæg þonne on þæm golde ongitan     Geata dryhten,  
-geseon sunu Hrædles,     þonne he on þæt sinc starað,  
-þæt ic gumcystum     godne funde  
-beaga bryttan,     breac þonne moste.  
-Ond þu Unferð læt     ealde lafe,  
-wrætlic wægsweord,     widcuðne man  
-heardecg habban;     ic me mid Hruntinge  
-dom gewyrce,     oþðe mec deað nimeð."  
-æfter þæm wordum     Wedergeata leod  
-efste mid elne,     nalas ondsware  
-bidan wolde;     brimwylm onfeng  
-hilderince.     Ða wæs hwil dæges  
-ær he þone grundwong     ongytan mehte.  
-Sona þæt onfunde     se ðe floda begong  
-heorogifre beheold     hund missera,  
-grim ond grædig,     þæt þær gumena sum  
-ælwihta eard     ufan cunnode.  
-Grap þa togeanes,     guðrinc gefeng  
-atolan clommum.     No þy ær in gescod  
-halan lice;     hring utan ymbbearh,  
-þæt heo þone fyrdhom     ðurhfon ne mihte,  
-locene leoðosyrcan     laþan fingrum.  
-Bær þa seo brimwylf,     þa heo to botme com,  
-hringa þengel     to hofe sinum,  
-swa he ne mihte,     no he þæs modig wæs,  
-wæpna gewealdan,     ac hine wundra þæs fela  
-swencte on sunde,     sædeor monig  
-hildetuxum     heresyrcan bræc,  
-ehton aglæcan.     Ða se eorl ongeat  
-þæt he in niðsele     nathwylcum wæs,  
-þær him nænig wæter     wihte ne sceþede,  
-ne him for hrofsele     hrinan ne mehte  
-færgripe flodes;     fyrleoht geseah,  
-blacne leoman,     beorhte scinan.  
-Ongeat þa se goda     grundwyrgenne,  
-merewif mihtig;     mægenræs forgeaf  
-hildebille,     hond sweng ne ofteah,  
-þæt hire on hafelan     hringmæl agol  
-grædig guðleoð.     Ða se gist onfand  
-þæt se beadoleoma     bitan nolde,  
-aldre sceþðan,     ac seo ecg geswac  
-ðeodne æt þearfe;     ðolode ær fela  
-hondgemota,     helm oft gescær,  
-fæges fyrdhrægl;     ða wæs forma sið  
-deorum madme,     þæt his dom alæg.  
-Eft wæs anræd,     nalas elnes læt,  
-mærða gemyndig     mæg Hylaces.  
-Wearp ða wundenmæl     wrættum gebunden  
-yrre oretta,     þæt hit on eorðan læg,  
-stið ond stylecg;     strenge getruwode,  
-mundgripe mægenes.     Swa sceal man don,  
-þonne he æt guðe     gegan þenceð  
-longsumne lof,     na ymb his lif cearað.  
-Gefeng þa be eaxle     (nalas for fæhðe mearn)  
-Guðgeata leod     Grendles modor;  
-brægd þa beadwe heard,     þa he gebolgen wæs,  
-feorhgeniðlan,     þæt heo on flet gebeah.  
-Heo him eft hraþe     andlean forgeald  
-grimman grapum     ond him togeanes feng;  
-oferwearp þa werigmod     wigena strengest,  
-feþecempa,     þæt he on fylle wearð.  
-Ofsæt þa þone selegyst     ond hyre seax geteah,  
-brad ond brunecg,     wolde hire bearn wrecan,  
-angan eaferan.     Him on eaxle læg  
-breostnet broden;     þæt gebearh feore,  
-wið ord ond wið ecge     ingang forstod.  
-Hæfde ða forsiðod     sunu Ecgþeowes  
-under gynne grund,     Geata cempa,  
-nemne him heaðobyrne     helpe gefremede,  
-herenet hearde,     ond halig god  
-geweold wigsigor;     witig drihten,  
-rodera rædend,     hit on ryht gesced  
-yðelice,     syþðan he eft astod.  
+Beowulf maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgþeowes:  
+"Geþenc nu, se mæra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maga Healfdenes,  
+snottra fengel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nu ic eom siðes fus,  
+goldwine gumena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæt wit geo spræcon,  
+gif ic æt þearfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þinre scolde  
+aldre linnan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðu me a wære  
+forðgewitenum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on fæder stæle.  
+Wes þu mundbora&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minum magoþegnum,  
+hondgesellum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif mec hild nime;  
+swylce þu ða madmas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe þu me sealdest,  
+Hroðgar leofa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelace onsend.  
+Mæg þonne on þæm golde ongitan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata dryhten,  
+geseon sunu Hrædles,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne he on þæt sinc starað,  
+þæt ic gumcystum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godne funde  
+beaga bryttan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;breac þonne moste.  
+Ond þu Unferð læt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealde lafe,  
+wrætlic wægsweord,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;widcuðne man  
+heardecg habban;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic me mid Hruntinge  
+dom gewyrce,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþðe mec deað nimeð."  
+æfter þæm wordum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedergeata leod  
+efste mid elne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalas ondsware  
+bidan wolde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brimwylm onfeng  
+hilderince.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða wæs hwil dæges  
+ær he þone grundwong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongytan mehte.  
+Sona þæt onfunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe floda begong  
+heorogifre beheold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hund missera,  
+grim ond grædig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þær gumena sum  
+ælwihta eard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ufan cunnode.  
+Grap þa togeanes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðrinc gefeng  
+atolan clommum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No þy ær in gescod  
+halan lice;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hring utan ymbbearh,  
+þæt heo þone fyrdhom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðurhfon ne mihte,  
+locene leoðosyrcan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laþan fingrum.  
+Bær þa seo brimwylf,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa heo to botme com,  
+hringa þengel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hofe sinum,  
+swa he ne mihte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no he þæs modig wæs,  
+wæpna gewealdan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac hine wundra þæs fela  
+swencte on sunde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sædeor monig  
+hildetuxum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heresyrcan bræc,  
+ehton aglæcan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða se eorl ongeat  
+þæt he in niðsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nathwylcum wæs,  
+þær him nænig wæter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wihte ne sceþede,  
+ne him for hrofsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hrinan ne mehte  
+færgripe flodes;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrleoht geseah,  
+blacne leoman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorhte scinan.  
+Ongeat þa se goda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grundwyrgenne,  
+merewif mihtig;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenræs forgeaf  
+hildebille,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hond sweng ne ofteah,  
+þæt hire on hafelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringmæl agol  
+grædig guðleoð.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða se gist onfand  
+þæt se beadoleoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bitan nolde,  
+aldre sceþðan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac seo ecg geswac  
+ðeodne æt þearfe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðolode ær fela  
+hondgemota,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm oft gescær,  
+fæges fyrdhrægl;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða wæs forma sið  
+deorum madme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt his dom alæg.  
+Eft wæs anræd,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalas elnes læt,  
+mærða gemyndig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæg Hylaces.  
+Wearp ða wundenmæl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wrættum gebunden  
+yrre oretta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hit on eorðan læg,  
+stið ond stylecg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strenge getruwode,  
+mundgripe mægenes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swa sceal man don,  
+þonne he æt guðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gegan þenceð  
+longsumne lof,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;na ymb his lif cearað.  
+Gefeng þa be eaxle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(nalas for fæhðe mearn)  
+Guðgeata leod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendles modor;  
+brægd þa beadwe heard,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he gebolgen wæs,  
+feorhgeniðlan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt heo on flet gebeah.  
+Heo him eft hraþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;andlean forgeald  
+grimman grapum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond him togeanes feng;  
+oferwearp þa werigmod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigena strengest,  
+feþecempa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he on fylle wearð.  
+Ofsæt þa þone selegyst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond hyre seax geteah,  
+brad ond brunecg,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wolde hire bearn wrecan,  
+angan eaferan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him on eaxle læg  
+breostnet broden;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt gebearh feore,  
+wið ord ond wið ecge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ingang forstod.  
+Hæfde ða forsiðod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Ecgþeowes  
+under gynne grund,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata cempa,  
+nemne him heaðobyrne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helpe gefremede,  
+herenet hearde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond halig god  
+geweold wigsigor;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;witig drihten,  
+rodera rædend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hit on ryht gesced  
+yðelice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syþðan he eft astod.  
   
-Geseah ða on searwum     sigeeadig bil,  
-eald sweord eotenisc,     ecgum þyhtig,  
-wigena weorðmynd;     þæt wæs wæpna cyst,  
-buton hit wæs mare     ðonne ænig mon oðer  
-to beadulace     ætberan meahte,  
-god ond geatolic,     giganta geweorc.  
-He gefeng þa fetelhilt,     freca Scyldinga  
-hreoh ond heorogrim     hringmæl gebrægd,  
-aldres orwena,     yrringa sloh,  
-þæt hire wið halse     heard grapode,  
-banhringas bræc.     Bil eal ðurhwod  
-fægne flæschoman;     heo on flet gecrong.  
-Sweord wæs swatig,     secg weorce gefeh.  
-Lixte se leoma,     leoht inne stod,  
-efne swa of hefene     hadre scineð  
-rodores candel.     He æfter recede wlat;  
-hwearf þa be wealle,     wæpen hafenade  
-heard be hiltum     Higelaces ðegn,  
-yrre ond anræd.     Næs seo ecg fracod  
-hilderince,     ac he hraþe wolde  
-Grendle forgyldan     guðræsa fela  
-ðara þe he geworhte     to Westdenum  
-oftor micle     ðonne on ænne sið,  
-þonne he Hroðgares     heorðgeneatas  
-sloh on sweofote,     slæpende fræt  
-folces Denigea     fyftyne men  
-ond oðer swylc     ut offerede,  
-laðlicu lac.     He him þæs lean forgeald,  
-reþe cempa,     to ðæs þe he on ræste geseah  
-guðwerigne     Grendel licgan  
-aldorleasne,     swa him ær gescod  
-hild æt Heorote.     Hra wide sprong,  
-syþðan he æfter deaðe     drepe þrowade,  
-heorosweng heardne,     ond hine þa heafde becearf.  
-Sona þæt gesawon     snottre ceorlas,  
-þa ðe mid Hroðgare     on holm wliton,  
-þæt wæs yðgeblond     eal gemenged,  
-brim blode fah.     Blondenfeaxe,  
-gomele ymb godne,     ongeador spræcon  
-þæt hig þæs æðelinges     eft ne wendon  
-þæt he sigehreðig     secean come  
-mærne þeoden;     þa ðæs monige gewearð  
-þæt hine seo brimwylf     abroten hæfde.  
-Ða com non dæges.     Næs ofgeafon  
-hwate Scyldingas;     gewat him ham þonon  
-goldwine gumena.     Gistas setan  
-modes seoce     ond on mere staredon,  
-wiston ond ne wendon     þæt hie heora winedrihten  
-selfne gesawon.     Þa þæt sweord ongan  
-æfter heaþoswate     hildegicelum,  
-wigbil wanian.     Þæt wæs wundra sum,  
-þæt hit eal gemealt     ise gelicost,  
-ðonne forstes bend     fæder onlæteð,  
-onwindeð wælrapas,     se geweald hafað  
-sæla ond mæla;     þæt is soð metod.  
-Ne nom he in þæm wicum,     Wedergeata leod,  
-maðmæhta ma,     þeh he þær monige geseah,  
-buton þone hafelan     ond þa hilt somod  
-since fage.     Sweord ær gemealt,  
-forbarn brodenmæl;     wæs þæt blod to þæs hat,  
-ættren ellorgæst     se þær inne swealt.  
-Sona wæs on sunde     se þe ær æt sæcce gebad  
-wighryre wraðra,     wæter up þurhdeaf.  
-Wæron yðgebland     eal gefælsod,  
-eacne eardas,     þa se ellorgast  
-oflet lifdagas     ond þas lænan gesceaft.  
-Com þa to lande     lidmanna helm  
-swiðmod swymman;     sælace gefeah,  
-mægenbyrþenne     þara þe he him mid hæfde.  
-Eodon him þa togeanes,     gode þancodon,  
-ðryðlic þegna heap,     þeodnes gefegon,  
-þæs þe hi hyne gesundne     geseon moston.  
-Ða wæs of þæm hroran     helm ond byrne  
-lungre alysed.     Lagu drusade,  
-wæter under wolcnum,     wældreore fag.  
-Ferdon forð þonon     feþelastum  
-ferhþum fægne,     foldweg mæton,  
-cuþe stræte.     Cyningbalde men  
-from þæm holmclife     hafelan bæron  
-earfoðlice     heora æghwæþrum,  
-felamodigra;     feower scoldon  
-on þæm wælstenge     weorcum geferian  
-to þæm goldsele     Grendles heafod,  
-oþðæt semninga     to sele comon  
-frome fyrdhwate     feowertyne  
-Geata gongan;     gumdryhten mid  
-modig on gemonge     meodowongas træd.  
-Ða com in gan     ealdor ðegna,  
-dædcene mon     dome gewurþad,  
-hæle hildedeor,     Hroðgar gretan.  
-Þa wæs be feaxe     on flet boren  
-Grendles heafod,     þær guman druncon,  
-egeslic for eorlum     ond þære idese mid,  
-wliteseon wrætlic;     weras on sawon.  
+Geseah ða on searwum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sigeeadig bil,  
+eald sweord eotenisc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ecgum þyhtig,  
+wigena weorðmynd;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt wæs wæpna cyst,  
+buton hit wæs mare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne ænig mon oðer  
+to beadulace&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ætberan meahte,  
+god ond geatolic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;giganta geweorc.  
+He gefeng þa fetelhilt,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;freca Scyldinga  
+hreoh ond heorogrim&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringmæl gebrægd,  
+aldres orwena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yrringa sloh,  
+þæt hire wið halse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heard grapode,  
+banhringas bræc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bil eal ðurhwod  
+fægne flæschoman;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heo on flet gecrong.  
+Sweord wæs swatig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secg weorce gefeh.  
+Lixte se leoma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leoht inne stod,  
+efne swa of hefene&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hadre scineð  
+rodores candel.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He æfter recede wlat;  
+hwearf þa be wealle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæpen hafenade  
+heard be hiltum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelaces ðegn,  
+yrre ond anræd.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs seo ecg fracod  
+hilderince,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he hraþe wolde  
+Grendle forgyldan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðræsa fela  
+ðara þe he geworhte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to Westdenum  
+oftor micle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne on ænne sið,  
+þonne he Hroðgares&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorðgeneatas  
+sloh on sweofote,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;slæpende fræt  
+folces Denigea&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyftyne men  
+ond oðer swylc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ut offerede,  
+laðlicu lac.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He him þæs lean forgeald,  
+reþe cempa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to ðæs þe he on ræste geseah  
+guðwerigne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendel licgan  
+aldorleasne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him ær gescod  
+hild æt Heorote.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hra wide sprong,  
+syþðan he æfter deaðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drepe þrowade,  
+heorosweng heardne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond hine þa heafde becearf.  
+Sona þæt gesawon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snottre ceorlas,  
+þa ðe mid Hroðgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on holm wliton,  
+þæt wæs yðgeblond&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eal gemenged,  
+brim blode fah.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blondenfeaxe,  
+gomele ymb godne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongeador spræcon  
+þæt hig þæs æðelinges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft ne wendon  
+þæt he sigehreðig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secean come  
+mærne þeoden;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa ðæs monige gewearð  
+þæt hine seo brimwylf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;abroten hæfde.  
+Ða com non dæges.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs ofgeafon  
+hwate Scyldingas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gewat him ham þonon  
+goldwine gumena.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gistas setan  
+modes seoce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on mere staredon,  
+wiston ond ne wendon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie heora winedrihten  
+selfne gesawon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa þæt sweord ongan  
+æfter heaþoswate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildegicelum,  
+wigbil wanian.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs wundra sum,  
+þæt hit eal gemealt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ise gelicost,  
+ðonne forstes bend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæder onlæteð,  
+onwindeð wælrapas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se geweald hafað  
+sæla ond mæla;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt is soð metod.  
+Ne nom he in þæm wicum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedergeata leod,  
+maðmæhta ma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeh he þær monige geseah,  
+buton þone hafelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þa hilt somod  
+since fage.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweord ær gemealt,  
+forbarn brodenmæl;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs þæt blod to þæs hat,  
+ættren ellorgæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þær inne swealt.  
+Sona wæs on sunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe ær æt sæcce gebad  
+wighryre wraðra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæter up þurhdeaf.  
+Wæron yðgebland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eal gefælsod,  
+eacne eardas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa se ellorgast  
+oflet lifdagas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þas lænan gesceaft.  
+Com þa to lande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lidmanna helm  
+swiðmod swymman;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sælace gefeah,  
+mægenbyrþenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara þe he him mid hæfde.  
+Eodon him þa togeanes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode þancodon,  
+ðryðlic þegna heap,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeodnes gefegon,  
+þæs þe hi hyne gesundne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon moston.  
+Ða wæs of þæm hroran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm ond byrne  
+lungre alysed.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lagu drusade,  
+wæter under wolcnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wældreore fag.  
+Ferdon forð þonon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feþelastum  
+ferhþum fægne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;foldweg mæton,  
+cuþe stræte.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cyningbalde men  
+from þæm holmclife&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hafelan bæron  
+earfoðlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heora æghwæþrum,  
+felamodigra;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feower scoldon  
+on þæm wælstenge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorcum geferian  
+to þæm goldsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendles heafod,  
+oþðæt semninga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to sele comon  
+frome fyrdhwate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feowertyne  
+Geata gongan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumdryhten mid  
+modig on gemonge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meodowongas træd.  
+Ða com in gan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdor ðegna,  
+dædcene mon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dome gewurþad,  
+hæle hildedeor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroðgar gretan.  
+Þa wæs be feaxe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on flet boren  
+Grendles heafod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær guman druncon,  
+egeslic for eorlum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þære idese mid,  
+wliteseon wrætlic;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weras on sawon.  
   
-Beowulf maþelode,     bearn Ecgþeowes:  
-"Hwæt! we þe þas sælac,     sunu Healfdenes,  
-leod Scyldinga,     lustum brohton  
-tires to tacne,     þe þu her to locast.  
-Ic þæt unsofte     ealdre gedigde  
-wigge under wætere,     weorc geneþde  
-earfoðlice;     ætrihte wæs  
-guð getwæfed,     nymðe mec god scylde.  
-Ne meahte ic æt hilde     mid Hruntinge  
-wiht gewyrcan,     þeah þæt wæpen duge;  
-ac me geuðe     ylda waldend  
-þæt ic on wage geseah     wlitig hangian  
-eald sweord eacen     (oftost wisode  
-winigea leasum),     þæt ic ðy wæpne gebræd.  
-Ofsloh ða æt þære sæcce,     þa me sæl ageald,  
-huses hyrdas.     Þa þæt hildebil  
-forbarn brogdenmæl,     swa þæt blod gesprang,  
-hatost heaþoswata.     Ic þæt hilt þanan  
-feondum ætferede,     fyrendæda wræc,  
-deaðcwealm Denigea,     swa hit gedefe wæs.  
-Ic hit þe þonne gehate,     þæt þu on Heorote most  
-sorhleas swefan     mid þinra secga gedryht  
-ond þegna gehwylc     þinra leoda,  
-duguðe ond iogoþe,     þæt þu him ondrædan ne þearft,  
-þeoden Scyldinga,     on þa healfe,  
-aldorbealu eorlum,     swa þu ær dydest."  
-Ða wæs gylden hilt     gamelum rince,  
-harum hildfruman,     on hand gyfen,  
-enta ærgeweorc;     hit on æht gehwearf  
-æfter deofla hryre     Denigea frean,  
-wundorsmiþa geweorc,     ond þa þas worold ofgeaf  
-gromheort guma,     godes ondsaca,  
-morðres scyldig,     ond his modor eac,  
-on geweald gehwearf     woroldcyninga  
-ðæm selestan     be sæm tweonum  
-ðara þe on Scedenigge     sceattas dælde.  
-Hroðgar maðelode,     hylt sceawode,  
-ealde lafe,     on ðæm wæs or writen  
-fyrngewinnes,     syðþan flod ofsloh,  
-gifen geotende,     giganta cyn  
-(frecne geferdon);     þæt wæs fremde þeod  
-ecean dryhtne;     him þæs endelean  
-þurh wæteres wylm     waldend sealde.  
-Swa wæs on ðæm scennum     sciran goldes  
-þurh runstafas     rihte gemearcod,  
-geseted ond gesæd     hwam þæt sweord geworht,  
-irena cyst,     ærest wære,  
-wreoþenhilt ond wyrmfah.     Ða se wisa spræc  
-sunu Healfdenes     (swigedon ealle):  
-"þæt, la, mæg secgan     se þe soð ond riht  
-fremeð on folce,     feor eal gemon,  
-eald ᛟweard,     þæt ðes eorl wære  
-geboren betera!     Blæd is aræred  
-geond widwegas,     wine min Beowulf,  
-ðin ofer þeoda gehwylce.     Eal þu hit geþyldum healdest,  
-mægen mid modes snyttrum.     Ic þe sceal mine gelæstan  
-freode, swa wit furðum spræcon.     Ðu scealt to frofre weorþan  
-eal langtwidig     leodum þinum,  
-hæleðum to helpe.     Ne wearð Heremod swa  
-eaforum Ecgwelan,     Arscyldingum;  
-ne geweox he him to willan,     ac to wælfealle  
-ond to deaðcwalum     Deniga leodum;  
-breat bolgenmod     beodgeneatas,  
-eaxlgesteallan,     oþþæt he ana hwearf,  
-mære þeoden,     mondreamum from.  
-Ðeah þe hine mihtig god     mægenes wynnum,  
-eafeþum stepte,     ofer ealle men  
-forð gefremede,     hwæþere him on ferhþe greow  
-breosthord blodreow.     Nallas beagas geaf  
-Denum æfter dome;     dreamleas gebad  
-þæt he þæs gewinnes     weorc þrowade,  
-leodbealo longsum.     Ðu þe lær be þon,  
-gumcyste ongit;     ic þis gid be þe  
-awræc wintrum frod.     Wundor is to secganne  
-hu mihtig god     manna cynne  
-þurh sidne sefan     snyttru bryttað,  
-eard ond eorlscipe;     he ah ealra geweald.  
-Hwilum he on lufan     læteð hworfan  
-monnes modgeþonc     mæran cynnes,  
-seleð him on eþle     eorþan wynne  
-to healdanne,     hleoburh wera,  
-gedeð him swa gewealdene     worolde dælas,  
-side rice,     þæt he his selfa ne mæg  
-for his unsnyttrum     ende geþencean.  
-Wunað he on wiste;     no hine wiht dweleð  
-adl ne yldo,     ne him inwitsorh  
-on sefan sweorceð,     ne gesacu ohwær  
-ecghete eoweð,     ac him eal worold  
-wendeð on willan     (he þæt wyrse ne con),  
+Beowulf maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgþeowes:  
+"Hwæt! we þe þas sælac,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Healfdenes,  
+leod Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lustum brohton  
+tires to tacne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe þu her to locast.  
+Ic þæt unsofte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdre gedigde  
+wigge under wætere,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorc geneþde  
+earfoðlice;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ætrihte wæs  
+guð getwæfed,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nymðe mec god scylde.  
+Ne meahte ic æt hilde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid Hruntinge  
+wiht gewyrcan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah þæt wæpen duge;  
+ac me geuðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ylda waldend  
+þæt ic on wage geseah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wlitig hangian  
+eald sweord eacen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(oftost wisode  
+winigea leasum),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic ðy wæpne gebræd.  
+Ofsloh ða æt þære sæcce,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa me sæl ageald,  
+huses hyrdas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa þæt hildebil  
+forbarn brogdenmæl,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa þæt blod gesprang,  
+hatost heaþoswata.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þæt hilt þanan  
+feondum ætferede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrendæda wræc,  
+deaðcwealm Denigea,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hit gedefe wæs.  
+Ic hit þe þonne gehate,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þu on Heorote most  
+sorhleas swefan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid þinra secga gedryht  
+ond þegna gehwylc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þinra leoda,  
+duguðe ond iogoþe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þu him ondrædan ne þearft,  
+þeoden Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on þa healfe,  
+aldorbealu eorlum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa þu ær dydest."  
+Ða wæs gylden hilt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gamelum rince,  
+harum hildfruman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on hand gyfen,  
+enta ærgeweorc;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hit on æht gehwearf  
+æfter deofla hryre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denigea frean,  
+wundorsmiþa geweorc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þa þas worold ofgeaf  
+gromheort guma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godes ondsaca,  
+morðres scyldig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his modor eac,  
+on geweald gehwearf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;woroldcyninga  
+ðæm selestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be sæm tweonum  
+ðara þe on Scedenigge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceattas dælde.  
+Hroðgar maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hylt sceawode,  
+ealde lafe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on ðæm wæs or writen  
+fyrngewinnes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syðþan flod ofsloh,  
+gifen geotende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;giganta cyn  
+(frecne geferdon);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt wæs fremde þeod  
+ecean dryhtne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him þæs endelean  
+þurh wæteres wylm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;waldend sealde.  
+Swa wæs on ðæm scennum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sciran goldes  
+þurh runstafas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rihte gemearcod,  
+geseted ond gesæd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwam þæt sweord geworht,  
+irena cyst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ærest wære,  
+wreoþenhilt ond wyrmfah.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða se wisa spræc  
+sunu Healfdenes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(swigedon ealle):  
+"þæt, la, mæg secgan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe soð ond riht  
+fremeð on folce,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feor eal gemon,  
+eald ᛟweard,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðes eorl wære  
+geboren betera!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blæd is aræred  
+geond widwegas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine min Beowulf,  
+ðin ofer þeoda gehwylce.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eal þu hit geþyldum healdest,  
+mægen mid modes snyttrum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þe sceal mine gelæstan  
+freode, swa wit furðum spræcon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ðu scealt to frofre weorþan  
+eal langtwidig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leodum þinum,  
+hæleðum to helpe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne wearð Heremod swa  
+eaforum Ecgwelan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arscyldingum;  
+ne geweox he him to willan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac to wælfealle  
+ond to deaðcwalum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deniga leodum;  
+breat bolgenmod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beodgeneatas,  
+eaxlgesteallan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt he ana hwearf,  
+mære þeoden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mondreamum from.  
+Ðeah þe hine mihtig god&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenes wynnum,  
+eafeþum stepte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer ealle men  
+forð gefremede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæþere him on ferhþe greow  
+breosthord blodreow.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nallas beagas geaf  
+Denum æfter dome;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dreamleas gebad  
+þæt he þæs gewinnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorc þrowade,  
+leodbealo longsum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ðu þe lær be þon,  
+gumcyste ongit;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic þis gid be þe  
+awræc wintrum frod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wundor is to secganne  
+hu mihtig god&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna cynne  
+þurh sidne sefan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snyttru bryttað,  
+eard ond eorlscipe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he ah ealra geweald.  
+Hwilum he on lufan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læteð hworfan  
+monnes modgeþonc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæran cynnes,  
+seleð him on eþle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorþan wynne  
+to healdanne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hleoburh wera,  
+gedeð him swa gewealdene&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worolde dælas,  
+side rice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he his selfa ne mæg  
+for his unsnyttrum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende geþencean.  
+Wunað he on wiste;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no hine wiht dweleð  
+adl ne yldo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne him inwitsorh  
+on sefan sweorceð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne gesacu ohwær  
+ecghete eoweð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac him eal worold  
+wendeð on willan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(he þæt wyrse ne con),  
   
-oðþæt him on innan     oferhygda dæl  
-weaxeð ond wridað.     Þonne se weard swefeð,  
-sawele hyrde;     bið se slæp to fæst,  
-bisgum gebunden,     bona swiðe neah,  
-se þe of flanbogan     fyrenum sceoteð.  
-Þonne bið on hreþre     under helm drepen  
-biteran stræle     (him bebeorgan ne con),  
-wom wundorbebodum     wergan gastes;  
-þinceð him to lytel     þæt he lange heold,  
-gytsað gromhydig,     nallas on gylp seleð  
-fædde beagas,     ond he þa forðgesceaft  
-forgyteð ond forgymeð,     þæs þe him ær god sealde,  
-wuldres waldend,     weorðmynda dæl.  
-Hit on endestæf     eft gelimpeð  
-þæt se lichoma     læne gedreoseð,  
-fæge gefealleð;     fehð oþer to,  
-se þe unmurnlice     madmas dæleþ,  
-eorles ærgestreon,     egesan ne gymeð.  
-Bebeorh þe ðone bealonið,     Beowulf leofa,  
-secg betsta,     ond þe þæt selre geceos,  
-ece rædas;     oferhyda ne gym,  
-mære cempa.     Nu is þines mægnes blæd  
-ane hwile.     Eft sona bið  
-þæt þec adl oððe ecg     eafoþes getwæfeð,  
-oððe fyres feng,     oððe flodes wylm,  
-oððe gripe meces,     oððe gares fliht,  
-oððe atol yldo;     oððe eagena bearhtm  
-forsiteð ond forsworceð;     semninga bið  
-þæt ðec, dryhtguma,     deað oferswyðeð.  
-Swa ic Hringdena     hund missera  
-weold under wolcnum     ond hig wigge beleac  
-manigum mægþa     geond þysne middangeard,  
-æscum ond ecgum,     þæt ic me ænigne  
-under swegles begong     gesacan ne tealde.  
-Hwæt, me þæs on eþle     edwenden cwom,  
-gyrn æfter gomene,     seoþðan Grendel wearð,  
-ealdgewinna,     ingenga min;  
-ic þære socne     singales wæg  
-modceare micle.     Þæs sig metode þanc,  
-ecean dryhtne,     þæs ðe ic on aldre gebad  
-þæt ic on þone hafelan     heorodreorigne  
-ofer ealdgewin     eagum starige!  
-Ga nu to setle,     symbelwynne dreoh  
-wigge weorþad;     unc sceal worn fela  
-maþma gemænra,     siþðan morgen bið."  
-Geat wæs glædmod,     geong sona to  
-setles neosan,     swa se snottra heht.  
-Þa wæs eft swa ær     ellenrofum  
-fletsittendum     fægere gereorded  
-niowan stefne.     Nihthelm geswearc  
-deorc ofer dryhtgumum.     Duguð eal aras.  
-Wolde blondenfeax     beddes neosan,  
-gamela Scylding.     Geat unigmetes wel,  
-rofne randwigan,     restan lyste;  
-sona him seleþegn     siðes wergum,  
-feorrancundum,     forð wisade,  
-se for andrysnum     ealle beweotede  
-þegnes þearfe,     swylce þy dogore  
-heaþoliðende     habban scoldon.  
-Reste hine þa rumheort;     reced hliuade  
-geap ond goldfah;     gæst inne swæf  
-oþþæt hrefn blaca     heofones wynne  
-bliðheort bodode.     Ða com beorht scacan  
+oðþæt him on innan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oferhygda dæl  
+weaxeð ond wridað.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þonne se weard swefeð,  
+sawele hyrde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bið se slæp to fæst,  
+bisgum gebunden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bona swiðe neah,  
+se þe of flanbogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrenum sceoteð.  
+Þonne bið on hreþre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under helm drepen  
+biteran stræle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(him bebeorgan ne con),  
+wom wundorbebodum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wergan gastes;  
+þinceð him to lytel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he lange heold,  
+gytsað gromhydig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nallas on gylp seleð  
+fædde beagas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond he þa forðgesceaft  
+forgyteð ond forgymeð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs þe him ær god sealde,  
+wuldres waldend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorðmynda dæl.  
+Hit on endestæf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft gelimpeð  
+þæt se lichoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læne gedreoseð,  
+fæge gefealleð;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fehð oþer to,  
+se þe unmurnlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;madmas dæleþ,  
+eorles ærgestreon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;egesan ne gymeð.  
+Bebeorh þe ðone bealonið,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulf leofa,  
+secg betsta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þe þæt selre geceos,  
+ece rædas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oferhyda ne gym,  
+mære cempa.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu is þines mægnes blæd  
+ane hwile.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eft sona bið  
+þæt þec adl oððe ecg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eafoþes getwæfeð,  
+oððe fyres feng,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe flodes wylm,  
+oððe gripe meces,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe gares fliht,  
+oððe atol yldo;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe eagena bearhtm  
+forsiteð ond forsworceð;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;semninga bið  
+þæt ðec, dryhtguma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deað oferswyðeð.  
+Swa ic Hringdena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hund missera  
+weold under wolcnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond hig wigge beleac  
+manigum mægþa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geond þysne middangeard,  
+æscum ond ecgum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic me ænigne  
+under swegles begong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gesacan ne tealde.  
+Hwæt, me þæs on eþle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;edwenden cwom,  
+gyrn æfter gomene,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seoþðan Grendel wearð,  
+ealdgewinna,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ingenga min;  
+ic þære socne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;singales wæg  
+modceare micle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæs sig metode þanc,  
+ecean dryhtne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs ðe ic on aldre gebad  
+þæt ic on þone hafelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorodreorigne  
+ofer ealdgewin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eagum starige!  
+Ga nu to setle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;symbelwynne dreoh  
+wigge weorþad;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unc sceal worn fela  
+maþma gemænra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siþðan morgen bið."  
+Geat wæs glædmod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geong sona to  
+setles neosan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa se snottra heht.  
+Þa wæs eft swa ær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ellenrofum  
+fletsittendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fægere gereorded  
+niowan stefne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nihthelm geswearc  
+deorc ofer dryhtgumum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duguð eal aras.  
+Wolde blondenfeax&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beddes neosan,  
+gamela Scylding.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geat unigmetes wel,  
+rofne randwigan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;restan lyste;  
+sona him seleþegn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siðes wergum,  
+feorrancundum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð wisade,  
+se for andrysnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealle beweotede  
+þegnes þearfe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce þy dogore  
+heaþoliðende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;habban scoldon.  
+Reste hine þa rumheort;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reced hliuade  
+geap ond goldfah;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gæst inne swæf  
+oþþæt hrefn blaca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heofones wynne  
+bliðheort bodode.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða com beorht scacan  
     scaþan onetton,  
-wæron æþelingas     eft to leodum  
-fuse to farenne;     wolde feor þanon  
-cuma collenferhð     ceoles neosan.  
-Heht þa se hearda     Hrunting beran  
-sunu Ecglafes,     heht his sweord niman,  
-leoflic iren;     sægde him þæs leanes þanc,  
-cwæð, he þone guðwine     godne tealde,  
-wigcræftigne,     nales wordum log  
-meces ecge;     þæt wæs modig secg.  
-Ond þa siðfrome,     searwum gearwe  
-wigend wæron;     eode weorð Denum  
-æþeling to yppan,     þær se oþer wæs,  
-hæle hildedeor     Hroðgar grette.  
+wæron æþelingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft to leodum  
+fuse to farenne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wolde feor þanon  
+cuma collenferhð&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ceoles neosan.  
+Heht þa se hearda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hrunting beran  
+sunu Ecglafes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heht his sweord niman,  
+leoflic iren;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sægde him þæs leanes þanc,  
+cwæð, he þone guðwine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godne tealde,  
+wigcræftigne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nales wordum log  
+meces ecge;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt wæs modig secg.  
+Ond þa siðfrome,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;searwum gearwe  
+wigend wæron;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eode weorð Denum  
+æþeling to yppan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær se oþer wæs,  
+hæle hildedeor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroðgar grette.  
   
-Beowulf maþelode,     bearn Ecgþeowes:  
-"Nu we sæliðend     secgan wyllað,  
-feorran cumene,     þæt we fundiaþ  
-Higelac secan.     Wæron her tela  
-willum bewenede;     þu us wel dohtest.  
-Gif ic þonne on eorþan     owihte mæg  
-þinre modlufan     maran tilian,  
-gumena dryhten,     ðonne ic gyt dyde,  
-guðgeweorca,     ic beo gearo sona.  
-Gif ic þæt gefricge     ofer floda begang,  
-þæt þec ymbsittend     egesan þywað,  
-swa þec hetende     hwilum dydon,  
-ic ðe þusenda     þegna bringe,  
-hæleþa to helpe.     Ic on Higelac wat,  
-Geata dryhten,     þeah ðe he geong sy,  
-folces hyrde,     þæt he mec fremman wile  
-wordum ond worcum,     þæt ic þe wel herige  
-ond þe to geoce     garholt bere,  
-mægenes fultum,     þær ðe bið manna þearf.  
-Gif him þonne Hreþric     to hofum Geata  
-geþingeð, þeodnes bearn,     he mæg þær fela  
-freonda findan;     feorcyþðe beoð  
-selran gesohte     þæm þe him selfa deah."  
-Hroðgar maþelode     him on ondsware:  
-"þe þa wordcwydas     wigtig drihten  
-on sefan sende;     ne hyrde ic snotorlicor  
-on swa geongum feore     guman þingian.  
-Þu eart mægenes strang     ond on mode frod,  
-wis wordcwida.     Wen ic talige,  
-gif þæt gegangeð,     þæt ðe gar nymeð,  
-hild heorugrimme,     Hreþles eaferan,  
-adl oþðe iren     ealdor ðinne,  
-folces hyrde,     ond þu þin feorh hafast,  
-þæt þe Sægeatas     selran næbben  
-to geceosenne     cyning ænigne,  
-hordweard hæleþa,     gyf þu healdan wylt  
-maga rice.     Me þin modsefa  
-licað leng swa wel,     leofa Beowulf.  
-Hafast þu gefered     þæt þam folcum sceal,  
-Geata leodum     ond Gardenum,  
-sib gemæne,     ond sacu restan,  
-inwitniþas,     þe hie ær drugon,  
-wesan, þenden ic wealde     widan rices,  
-maþmas gemæne,     manig oþerne  
-godum gegretan     ofer ganotes bæð;  
-sceal hringnaca     ofer heafu bringan  
-lac ond luftacen.     Ic þa leode wat  
-ge wið feond ge wið freond     fæste geworhte,  
-æghwæs untæle     ealde wisan."  
-Ða git him eorla hleo     inne gesealde,  
-mago Healfdenes,     maþmas XII;  
-het hine mid þæm lacum     leode swæse  
-secean on gesyntum,     snude eft cuman.  
-Gecyste þa     cyning æþelum god,  
-þeoden Scyldinga,     ðegn betstan  
-ond be healse genam;     hruron him tearas,  
-blondenfeaxum.     Him wæs bega wen,  
-ealdum infrodum,     oþres swiðor,  
-þæt hie seoððan no     geseon moston,  
-modige on meþle.     Wæs him se man to þon leof  
-þæt he þone breostwylm     forberan ne mehte,  
-ac him on hreþre     hygebendum fæst  
-æfter deorum men     dyrne langað  
-beorn wið blode.     Him Beowulf þanan,  
-guðrinc goldwlanc,     græsmoldan træd  
-since hremig;     sægenga bad  
-agendfrean,     se þe on ancre rad.  
-Þa wæs on gange     gifu Hroðgares  
-oft geæhted;     þæt wæs an cyning,  
-æghwæs orleahtre,     oþþæt hine yldo benam  
-mægenes wynnum,     se þe oft manegum scod.  
+Beowulf maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgþeowes:  
+"Nu we sæliðend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgan wyllað,  
+feorran cumene,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt we fundiaþ  
+Higelac secan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæron her tela  
+willum bewenede;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þu us wel dohtest.  
+Gif ic þonne on eorþan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;owihte mæg  
+þinre modlufan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maran tilian,  
+gumena dryhten,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne ic gyt dyde,  
+guðgeweorca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic beo gearo sona.  
+Gif ic þæt gefricge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer floda begang,  
+þæt þec ymbsittend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;egesan þywað,  
+swa þec hetende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwilum dydon,  
+ic ðe þusenda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þegna bringe,  
+hæleþa to helpe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic on Higelac wat,  
+Geata dryhten,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ðe he geong sy,  
+folces hyrde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he mec fremman wile  
+wordum ond worcum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic þe wel herige  
+ond þe to geoce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;garholt bere,  
+mægenes fultum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær ðe bið manna þearf.  
+Gif him þonne Hreþric&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hofum Geata  
+geþingeð, þeodnes bearn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he mæg þær fela  
+freonda findan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorcyþðe beoð  
+selran gesohte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæm þe him selfa deah."  
+Hroðgar maþelode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him on ondsware:  
+"þe þa wordcwydas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigtig drihten  
+on sefan sende;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne hyrde ic snotorlicor  
+on swa geongum feore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guman þingian.  
+Þu eart mægenes strang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on mode frod,  
+wis wordcwida.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wen ic talige,  
+gif þæt gegangeð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðe gar nymeð,  
+hild heorugrimme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hreþles eaferan,  
+adl oþðe iren&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdor ðinne,  
+folces hyrde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þu þin feorh hafast,  
+þæt þe Sægeatas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selran næbben  
+to geceosenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cyning ænigne,  
+hordweard hæleþa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyf þu healdan wylt  
+maga rice.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Me þin modsefa  
+licað leng swa wel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofa Beowulf.  
+Hafast þu gefered&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þam folcum sceal,  
+Geata leodum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond Gardenum,  
+sib gemæne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond sacu restan,  
+inwitniþas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe hie ær drugon,  
+wesan, þenden ic wealde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;widan rices,  
+maþmas gemæne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manig oþerne  
+godum gegretan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer ganotes bæð;  
+sceal hringnaca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer heafu bringan  
+lac ond luftacen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þa leode wat  
+ge wið feond ge wið freond&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæste geworhte,  
+æghwæs untæle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealde wisan."  
+Ða git him eorla hleo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inne gesealde,  
+mago Healfdenes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maþmas XII;  
+het hine mid þæm lacum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leode swæse  
+secean on gesyntum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snude eft cuman.  
+Gecyste þa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cyning æþelum god,  
+þeoden Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðegn betstan  
+ond be healse genam;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hruron him tearas,  
+blondenfeaxum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him wæs bega wen,  
+ealdum infrodum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþres swiðor,  
+þæt hie seoððan no&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon moston,  
+modige on meþle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs him se man to þon leof  
+þæt he þone breostwylm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forberan ne mehte,  
+ac him on hreþre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hygebendum fæst  
+æfter deorum men&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dyrne langað  
+beorn wið blode.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him Beowulf þanan,  
+guðrinc goldwlanc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;græsmoldan træd  
+since hremig;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sægenga bad  
+agendfrean,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe on ancre rad.  
+Þa wæs on gange&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gifu Hroðgares  
+oft geæhted;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt wæs an cyning,  
+æghwæs orleahtre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt hine yldo benam  
+mægenes wynnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe oft manegum scod.  
   
-Cwom þa to flode     felamodigra,  
-hægstealdra heap,     hringnet bæron,  
-locene leoðosyrcan.     Landweard onfand  
-eftsið eorla,     swa he ær dyde;  
-no he mid hearme     of hliðes nosan  
-gæstas grette,     ac him togeanes rad,  
-cwæð þæt wilcuman     Wedera leodum  
-scaþan scirhame     to scipe foron.  
-Þa wæs on sande     sægeap naca  
-hladen herewædum,     hringedstefna,  
-mearum ond maðmum;     mæst hlifade  
-ofer Hroðgares     hordgestreonum.  
-He þæm batwearde     bunden golde  
-swurd gesealde,     þæt he syðþan wæs  
-on meodubence     maþme þy weorþra,  
-yrfelafe.     Gewat him on naca  
-drefan deop wæter,     Dena land ofgeaf.  
-Þa wæs be mæste     merehrægla sum,  
-segl sale fæst;     sundwudu þunede.  
-No þær wegflotan     wind ofer yðum  
-siðes getwæfde;     sægenga for,  
-fleat famigheals     forð ofer yðe,  
-bundenstefna     ofer brimstreamas,  
-þæt hie Geata clifu     ongitan meahton,  
-cuþe næssas.     Ceol up geþrang  
-lyftgeswenced,     on lande stod.  
-Hraþe wæs æt holme     hyðweard geara,  
-se þe ær lange tid     leofra manna  
-fus æt faroðe     feor wlatode;  
-sælde to sande     sidfæþme scip,  
-oncerbendum fæst,     þy læs hym yþa ðrym  
-wudu wynsuman     forwrecan meahte.  
-Het þa up beran     æþelinga gestreon,  
-frætwe ond fætgold;     næs him feor þanon  
-to gesecanne     sinces bryttan,  
-Higelac Hreþling,     þær æt ham wunað  
-selfa mid gesiðum     sæwealle neah.  
-Bold wæs betlic,     bregorof cyning,  
-heah in healle,     Hygd swiðe geong,  
-wis, welþungen,     þeah ðe wintra lyt  
-under burhlocan     gebiden hæbbe,  
-Hæreþes dohtor;     næs hio hnah swa þeah,  
-ne to gneað gifa     Geata leodum,  
-maþmgestreona.     Mod Þryðo wæg,  
-fremu folces cwen,     firen ondrysne.  
-Nænig þæt dorste     deor geneþan  
-swæsra gesiða,     nefne sinfrea,  
-þæt hire an dæges     eagum starede,  
-ac him wælbende     weotode tealde  
-handgewriþene;     hraþe seoþðan wæs  
-æfter mundgripe     mece geþinged,  
-þæt hit sceadenmæl     scyran moste,  
-cwealmbealu cyðan.     Ne bið swylc cwenlic þeaw  
-idese to efnanne,     þeah ðe hio ænlicu sy,  
-þætte freoðuwebbe     feores onsæce  
-æfter ligetorne     leofne mannan.  
-Huru þæt onhohsnode     Hemminges mæg;  
-ealodrincende     oðer sædan,  
-þæt hio leodbealewa     læs gefremede,  
-inwitniða,     syððan ærest wearð  
-gyfen goldhroden     geongum cempan,  
-æðelum diore,     syððan hio Offan flet  
-ofer fealone flod     be fæder lare  
-siðe gesohte;     ðær hio syððan well  
-in gumstole,     gode, mære,  
-lifgesceafta     lifigende breac,  
-hiold heahlufan     wið hæleþa brego,  
-ealles moncynnes     mine gefræge  
-þone selestan     bi sæm tweonum,  
-eormencynnes.     Forðam Offa wæs  
-geofum ond guðum,     garcene man,  
-wide geweorðod,     wisdome heold  
-eðel sinne;     þonon Eomer woc  
-hæleðum to helpe,     Hemminges mæg,  
-nefa Garmundes,     niða cræftig.  
+Cwom þa to flode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;felamodigra,  
+hægstealdra heap,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringnet bæron,  
+locene leoðosyrcan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Landweard onfand  
+eftsið eorla,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he ær dyde;  
+no he mid hearme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of hliðes nosan  
+gæstas grette,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac him togeanes rad,  
+cwæð þæt wilcuman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedera leodum  
+scaþan scirhame&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to scipe foron.  
+Þa wæs on sande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sægeap naca  
+hladen herewædum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringedstefna,  
+mearum ond maðmum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæst hlifade  
+ofer Hroðgares&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hordgestreonum.  
+He þæm batwearde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bunden golde  
+swurd gesealde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he syðþan wæs  
+on meodubence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maþme þy weorþra,  
+yrfelafe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gewat him on naca  
+drefan deop wæter,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dena land ofgeaf.  
+Þa wæs be mæste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;merehrægla sum,  
+segl sale fæst;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sundwudu þunede.  
+No þær wegflotan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wind ofer yðum  
+siðes getwæfde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sægenga for,  
+fleat famigheals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð ofer yðe,  
+bundenstefna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer brimstreamas,  
+þæt hie Geata clifu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongitan meahton,  
+cuþe næssas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ceol up geþrang  
+lyftgeswenced,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on lande stod.  
+Hraþe wæs æt holme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyðweard geara,  
+se þe ær lange tid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofra manna  
+fus æt faroðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feor wlatode;  
+sælde to sande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sidfæþme scip,  
+oncerbendum fæst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þy læs hym yþa ðrym  
+wudu wynsuman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forwrecan meahte.  
+Het þa up beran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþelinga gestreon,  
+frætwe ond fætgold;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs him feor þanon  
+to gesecanne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sinces bryttan,  
+Higelac Hreþling,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær æt ham wunað  
+selfa mid gesiðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sæwealle neah.  
+Bold wæs betlic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bregorof cyning,  
+heah in healle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hygd swiðe geong,  
+wis, welþungen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ðe wintra lyt  
+under burhlocan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gebiden hæbbe,  
+Hæreþes dohtor;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs hio hnah swa þeah,  
+ne to gneað gifa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leodum,  
+maþmgestreona.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mod Þryðo wæg,  
+fremu folces cwen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;firen ondrysne.  
+Nænig þæt dorste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deor geneþan  
+swæsra gesiða,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nefne sinfrea,  
+þæt hire an dæges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eagum starede,  
+ac him wælbende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weotode tealde  
+handgewriþene;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hraþe seoþðan wæs  
+æfter mundgripe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mece geþinged,  
+þæt hit sceadenmæl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scyran moste,  
+cwealmbealu cyðan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne bið swylc cwenlic þeaw  
+idese to efnanne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ðe hio ænlicu sy,  
+þætte freoðuwebbe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feores onsæce  
+æfter ligetorne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofne mannan.  
+Huru þæt onhohsnode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hemminges mæg;  
+ealodrincende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðer sædan,  
+þæt hio leodbealewa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læs gefremede,  
+inwitniða,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan ærest wearð  
+gyfen goldhroden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geongum cempan,  
+æðelum diore,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan hio Offan flet  
+ofer fealone flod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be fæder lare  
+siðe gesohte;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær hio syððan well  
+in gumstole,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode, mære,  
+lifgesceafta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lifigende breac,  
+hiold heahlufan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wið hæleþa brego,  
+ealles moncynnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine gefræge  
+þone selestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bi sæm tweonum,  
+eormencynnes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forðam Offa wæs  
+geofum ond guðum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;garcene man,  
+wide geweorðod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wisdome heold  
+eðel sinne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonon Eomer woc  
+hæleðum to helpe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hemminges mæg,  
+nefa Garmundes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niða cræftig.  
   
-Gewat him ða se hearda     mid his hondscole  
-sylf æfter sande     sæwong tredan,  
-wide waroðas.     Woruldcandel scan,  
-sigel suðan fus.     Hi sið drugon,  
-elne geeodon,     to ðæs ðe eorla hleo,  
-bonan Ongenþeoes     burgum in innan,  
-geongne guðcyning     godne gefrunon  
-hringas dælan.     Higelace wæs  
-sið Beowulfes     snude gecyðed,  
-þæt ðær on worðig     wigendra hleo,  
-lindgestealla,     lifigende cwom,  
-heaðolaces hal     to hofe gongan.  
-Hraðe wæs gerymed,     swa se rica bebead,  
-feðegestum     flet innanweard.  
-Gesæt þa wið sylfne     se ða sæcce genæs,  
-mæg wið mæge,     syððan mandryhten  
-þurh hleoðorcwyde     holdne gegrette,  
-meaglum wordum.     Meoduscencum hwearf  
-geond þæt healreced     Hæreðes dohtor,  
-lufode ða leode,     liðwæge bær  
-hæleðum to handa.     Higelac ongan  
-sinne geseldan     in sele þam hean  
-fægre fricgcean     (hyne fyrwet bræc,  
-hwylce Sægeata     siðas wæron):  
-"Hu lomp eow on lade,     leofa Biowulf,  
-þa ðu færinga     feorr gehogodest  
-sæcce secean     ofer sealt wæter,  
-hilde to Hiorote?     Ac ðu Hroðgare  
-widcuðne wean     wihte gebettest,  
-mærum ðeodne?     Ic ðæs modceare  
-sorhwylmum seað,     siðe ne truwode  
-leofes mannes;     ic ðe lange bæd  
-þæt ðu þone wælgæst     wihte ne grette,  
-lete Suðdene     sylfe geweorðan  
-guðe wið Grendel.     Gode ic þanc secge  
-þæs ðe ic ðe gesundne     geseon moste."  
-Biowulf maðelode,     bearn Ecgðioes:  
-"þæt is undyrne,     dryhten Higelac,  
-micel gemeting,     monegum fira,  
-hwylc orleghwil     uncer Grendles  
-wearð on ðam wange,     þær he worna fela  
-Sigescyldingum     sorge gefremede,  
-yrmðe to aldre.     Ic ðæt eall gewræc,  
-swa begylpan ne þearf     Grendeles maga  
-ænig ofer eorðan     uhthlem þone,  
-se ðe lengest leofað     laðan cynnes,  
-facne bifongen.     Ic ðær furðum cwom  
-to ðam hringsele     Hroðgar gretan;  
-sona me se mæra     mago Healfdenes,  
-syððan he modsefan     minne cuðe,  
-wið his sylfes sunu     setl getæhte.  
-Weorod wæs on wynne;     ne seah ic widan feorh  
-under heofones hwealf     healsittendra  
-medudream maran.     Hwilum mæru cwen,  
-friðusibb folca,     flet eall geondhwearf,  
-bædde byre geonge;     oft hio beahwriðan  
-secge sealde,     ær hie to setle geong.  
-Hwilum for duguðe     dohtor Hroðgares  
-eorlum on ende     ealuwæge bær;  
-þa ic Freaware     fletsittende  
-nemnan hyrde,     þær hio nægled sinc  
-hæleðum sealde.     Sio gehaten is,  
-geong, goldhroden,     gladum suna Frodan;  
-hafað þæs geworden     wine Scyldinga,  
-rices hyrde,     ond þæt ræd talað,  
-þæt he mid ðy wife     wælfæhða dæl,  
-sæcca gesette.     Oft seldan hwær  
-æfter leodhryre     lytle hwile  
-bongar bugeð,     þeah seo bryd duge!  
-Mæg þæs þonne ofþyncan     ðeodne Heaðobeardna  
-ond þegna gehwam     þara leoda,  
-þonne he mid fæmnan     on flett gæð,  
-dryhtbearn Dena,     duguða biwenede;  
-on him gladiað     gomelra lafe,  
-heard ond hringmæl     Heaðabeardna gestreon  
-þenden hie ðam wæpnum     wealdan moston,  
-oððæt hie forlæddan     to ðam lindplegan  
+Gewat him ða se hearda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid his hondscole  
+sylf æfter sande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sæwong tredan,  
+wide waroðas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Woruldcandel scan,  
+sigel suðan fus.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi sið drugon,  
+elne geeodon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to ðæs ðe eorla hleo,  
+bonan Ongenþeoes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;burgum in innan,  
+geongne guðcyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godne gefrunon  
+hringas dælan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelace wæs  
+sið Beowulfes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snude gecyðed,  
+þæt ðær on worðig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigendra hleo,  
+lindgestealla,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lifigende cwom,  
+heaðolaces hal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hofe gongan.  
+Hraðe wæs gerymed,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa se rica bebead,  
+feðegestum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flet innanweard.  
+Gesæt þa wið sylfne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ða sæcce genæs,  
+mæg wið mæge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan mandryhten  
+þurh hleoðorcwyde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;holdne gegrette,  
+meaglum wordum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meoduscencum hwearf  
+geond þæt healreced&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hæreðes dohtor,  
+lufode ða leode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;liðwæge bær  
+hæleðum to handa.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelac ongan  
+sinne geseldan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in sele þam hean  
+fægre fricgcean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(hyne fyrwet bræc,  
+hwylce Sægeata&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siðas wæron):  
+"Hu lomp eow on lade,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofa Biowulf,  
+þa ðu færinga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorr gehogodest  
+sæcce secean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer sealt wæter,  
+hilde to Hiorote?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ac ðu Hroðgare  
+widcuðne wean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wihte gebettest,  
+mærum ðeodne?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic ðæs modceare  
+sorhwylmum seað,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siðe ne truwode  
+leofes mannes;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic ðe lange bæd  
+þæt ðu þone wælgæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wihte ne grette,  
+lete Suðdene&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sylfe geweorðan  
+guðe wið Grendel.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gode ic þanc secge  
+þæs ðe ic ðe gesundne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon moste."  
+Biowulf maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgðioes:  
+"þæt is undyrne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dryhten Higelac,  
+micel gemeting,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;monegum fira,  
+hwylc orleghwil&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uncer Grendles  
+wearð on ðam wange,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he worna fela  
+Sigescyldingum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sorge gefremede,  
+yrmðe to aldre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic ðæt eall gewræc,  
+swa begylpan ne þearf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendeles maga  
+ænig ofer eorðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uhthlem þone,  
+se ðe lengest leofað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laðan cynnes,  
+facne bifongen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic ðær furðum cwom  
+to ðam hringsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroðgar gretan;  
+sona me se mæra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mago Healfdenes,  
+syððan he modsefan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minne cuðe,  
+wið his sylfes sunu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;setl getæhte.  
+Weorod wæs on wynne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne seah ic widan feorh  
+under heofones hwealf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;healsittendra  
+medudream maran.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hwilum mæru cwen,  
+friðusibb folca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flet eall geondhwearf,  
+bædde byre geonge;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oft hio beahwriðan  
+secge sealde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær hie to setle geong.  
+Hwilum for duguðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dohtor Hroðgares  
+eorlum on ende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealuwæge bær;  
+þa ic Freaware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fletsittende  
+nemnan hyrde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær hio nægled sinc  
+hæleðum sealde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sio gehaten is,  
+geong, goldhroden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gladum suna Frodan;  
+hafað þæs geworden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine Scyldinga,  
+rices hyrde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þæt ræd talað,  
+þæt he mid ðy wife&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wælfæhða dæl,  
+sæcca gesette.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oft seldan hwær  
+æfter leodhryre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lytle hwile  
+bongar bugeð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah seo bryd duge!  
+Mæg þæs þonne ofþyncan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðeodne Heaðobeardna  
+ond þegna gehwam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara leoda,  
+þonne he mid fæmnan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on flett gæð,  
+dryhtbearn Dena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;duguða biwenede;  
+on him gladiað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gomelra lafe,  
+heard ond hringmæl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heaðabeardna gestreon  
+þenden hie ðam wæpnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wealdan moston,  
+oððæt hie forlæddan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to ðam lindplegan  
 [–] [top]  
-swæse gesiðas     ond hyra sylfra feorh.  
-Þonne cwið æt beore     se ðe beah gesyhð,  
-eald æscwiga,     se ðe eall geman,  
-garcwealm gumena     (him bið grim sefa),  
-onginneð geomormod     geongum cempan  
-þurh hreðra gehygd     higes cunnian,  
-wigbealu weccean,     ond þæt word acwyð:  
-'Meaht ðu, min wine,     mece gecnawan  
-þone þin fæder     to gefeohte bær  
-under heregriman     hindeman siðe,  
-dyre iren,     þær hyne Dene slogon,  
-weoldon wælstowe,     syððan Wiðergyld læg,  
-æfter hæleþa hryre,     hwate Scyldungas?  
-Nu her þara banena     byre nathwylces  
-frætwum hremig     on flet gæð,  
-morðres gylpeð,     ond þone maðþum byreð,  
-þone þe ðu mid rihte     rædan sceoldest.'  
-Manað swa ond myndgað     mæla gehwylce  
-sarum wordum,     oððæt sæl cymeð  
-þæt se fæmnan þegn     fore fæder dædum  
-æfter billes bite     blodfag swefeð,  
-ealdres scyldig;     him se oðer þonan  
-losað lifigende,     con him land geare.  
-Þonne bioð abrocene     on ba healfe  
-aðsweord eorla;     syððan Ingelde  
-weallað wælniðas,     ond him wiflufan  
-æfter cearwælmum     colran weorðað.  
-Þy ic Heaðobeardna     hyldo ne telge,  
-dryhtsibbe dæl     Denum unfæcne,  
-freondscipe fæstne.     Ic sceal forð sprecan  
-gen ymbe Grendel,     þæt ðu geare cunne,  
-sinces brytta,     to hwan syððan wearð  
-hondræs hæleða.     Syððan heofones gim  
-glad ofer grundas,     gæst yrre cwom,  
-eatol, æfengrom,     user neosan,  
-ðær we gesunde     sæl weardodon.  
-Þær wæs Hondscio     hild onsæge,  
-feorhbealu fægum;     he fyrmest læg,  
-gyrded cempa;     him Grendel wearð,  
-mærum maguþegne     to muðbonan,  
-leofes mannes     lic eall forswealg.  
-No ðy ær ut ða gen     idelhende  
-bona blodigtoð,     bealewa gemyndig,  
-of ðam goldsele     gongan wolde,  
-ac he mægnes rof     min costode,  
-grapode gearofolm.     Glof hangode  
-sid ond syllic,     searobendum fæst;  
-sio wæs orðoncum     eall gegyrwed  
-deofles cræftum     ond dracan fellum.  
-He mec þær on innan     unsynnigne,  
-dior dædfruma,     gedon wolde  
-manigra sumne;     hyt ne mihte swa,  
-syððan ic on yrre     uppriht astod.  
-To lang ys to reccenne     hu ic ðam leodsceaðan  
-yfla gehwylces     ondlean forgeald;  
-þær ic, þeoden min,     þine leode  
-weorðode weorcum.     He on weg losade,  
-lytle hwile     lifwynna breac;  
-hwæþre him sio swiðre     swaðe weardade  
-hand on Hiorte,     ond he hean ðonan  
-modes geomor     meregrund gefeoll.  
-Me þone wælræs     wine Scildunga  
-fættan golde     fela leanode,  
-manegum maðmum,     syððan mergen com  
-ond we to symble     geseten hæfdon.  
-Þær wæs gidd ond gleo.     Gomela Scilding,  
-felafricgende,     feorran rehte;  
-hwilum hildedeor     hearpan wynne,  
-gomenwudu grette,     hwilum gyd awræc  
-soð ond sarlic,     hwilum syllic spell  
-rehte æfter rihte     rumheort cyning.  
-Hwilum eft ongan,     eldo gebunden,  
-gomel guðwiga     gioguðe cwiðan,  
-hildestrengo;     hreðer inne weoll,  
-þonne he wintrum frod     worn gemunde.  
-Swa we þær inne     ondlangne dæg  
-niode naman,     oððæt niht becwom  
-oðer to yldum.     Þa wæs eft hraðe  
-gearo gyrnwræce     Grendeles modor,  
-siðode sorhfull;     sunu deað fornam,  
-wighete Wedra.     Wif unhyre  
-hyre bearn gewræc,     beorn acwealde  
-ellenlice;     þær wæs Æschere,  
-frodan fyrnwitan,     feorh uðgenge.  
-Noðer hy hine ne moston,     syððan mergen cwom,  
-deaðwerigne,     Denia leode,  
-bronde forbærnan,     ne on bęl hladan  
-leofne mannan;     hio þæt lic ætbær  
-feondes fæðmum     under firgenstream.  
-Þæt wæs Hroðgare     hreowa tornost  
-þara þe leodfruman     lange begeate.  
-Þa se ðeoden mec     ðine life  
-healsode hreohmod,     þæt ic on holma geþring  
-eorlscipe efnde,     ealdre geneðde,  
-mærðo fremede;     he me mede gehet.  
-Ic ða ðæs wælmes,     þe is wide cuð,  
-grimne gryrelicne     grundhyrde fond;  
-þær unc hwile wæs     hand gemæne,  
-holm heolfre weoll,     ond ic heafde becearf  
-in ðam guðsele     Grendeles modor  
-eacnum ecgum,     unsofte þonan  
-feorh oðferede.     Næs ic fæge þa gyt,  
-ac me eorla hleo     eft gesealde  
-maðma menigeo,     maga Healfdenes.  
+swæse gesiðas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond hyra sylfra feorh.  
+Þonne cwið æt beore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe beah gesyhð,  
+eald æscwiga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe eall geman,  
+garcwealm gumena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(him bið grim sefa),  
+onginneð geomormod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geongum cempan  
+þurh hreðra gehygd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;higes cunnian,  
+wigbealu weccean,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þæt word acwyð:  
+'Meaht ðu, min wine,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mece gecnawan  
+þone þin fæder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to gefeohte bær  
+under heregriman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hindeman siðe,  
+dyre iren,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær hyne Dene slogon,  
+weoldon wælstowe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan Wiðergyld læg,  
+æfter hæleþa hryre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwate Scyldungas?  
+Nu her þara banena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byre nathwylces  
+frætwum hremig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on flet gæð,  
+morðres gylpeð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þone maðþum byreð,  
+þone þe ðu mid rihte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rædan sceoldest.'  
+Manað swa ond myndgað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæla gehwylce  
+sarum wordum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt sæl cymeð  
+þæt se fæmnan þegn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fore fæder dædum  
+æfter billes bite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blodfag swefeð,  
+ealdres scyldig;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him se oðer þonan  
+losað lifigende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;con him land geare.  
+Þonne bioð abrocene&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on ba healfe  
+aðsweord eorla;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan Ingelde  
+weallað wælniðas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond him wiflufan  
+æfter cearwælmum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;colran weorðað.  
+Þy ic Heaðobeardna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyldo ne telge,  
+dryhtsibbe dæl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denum unfæcne,  
+freondscipe fæstne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic sceal forð sprecan  
+gen ymbe Grendel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðu geare cunne,  
+sinces brytta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hwan syððan wearð  
+hondræs hæleða.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Syððan heofones gim  
+glad ofer grundas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gæst yrre cwom,  
+eatol, æfengrom,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;user neosan,  
+ðær we gesunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sæl weardodon.  
+Þær wæs Hondscio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hild onsæge,  
+feorhbealu fægum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he fyrmest læg,  
+gyrded cempa;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him Grendel wearð,  
+mærum maguþegne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to muðbonan,  
+leofes mannes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lic eall forswealg.  
+No ðy ær ut ða gen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;idelhende  
+bona blodigtoð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bealewa gemyndig,  
+of ðam goldsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gongan wolde,  
+ac he mægnes rof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;min costode,  
+grapode gearofolm.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glof hangode  
+sid ond syllic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;searobendum fæst;  
+sio wæs orðoncum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eall gegyrwed  
+deofles cræftum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond dracan fellum.  
+He mec þær on innan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unsynnigne,  
+dior dædfruma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gedon wolde  
+manigra sumne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyt ne mihte swa,  
+syððan ic on yrre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uppriht astod.  
+To lang ys to reccenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hu ic ðam leodsceaðan  
+yfla gehwylces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ondlean forgeald;  
+þær ic, þeoden min,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þine leode  
+weorðode weorcum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He on weg losade,  
+lytle hwile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lifwynna breac;  
+hwæþre him sio swiðre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swaðe weardade  
+hand on Hiorte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond he hean ðonan  
+modes geomor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meregrund gefeoll.  
+Me þone wælræs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine Scildunga  
+fættan golde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fela leanode,  
+manegum maðmum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan mergen com  
+ond we to symble&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseten hæfdon.  
+Þær wæs gidd ond gleo.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gomela Scilding,  
+felafricgende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorran rehte;  
+hwilum hildedeor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hearpan wynne,  
+gomenwudu grette,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwilum gyd awræc  
+soð ond sarlic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwilum syllic spell  
+rehte æfter rihte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rumheort cyning.  
+Hwilum eft ongan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eldo gebunden,  
+gomel guðwiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gioguðe cwiðan,  
+hildestrengo;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hreðer inne weoll,  
+þonne he wintrum frod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worn gemunde.  
+Swa we þær inne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ondlangne dæg  
+niode naman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt niht becwom  
+oðer to yldum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs eft hraðe  
+gearo gyrnwræce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendeles modor,  
+siðode sorhfull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu deað fornam,  
+wighete Wedra.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wif unhyre  
+hyre bearn gewræc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorn acwealde  
+ellenlice;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær wæs Æschere,  
+frodan fyrnwitan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorh uðgenge.  
+Noðer hy hine ne moston,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan mergen cwom,  
+deaðwerigne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denia leode,  
+bronde forbærnan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne on bęl hladan  
+leofne mannan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hio þæt lic ætbær  
+feondes fæðmum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under firgenstream.  
+Þæt wæs Hroðgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hreowa tornost  
+þara þe leodfruman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lange begeate.  
+Þa se ðeoden mec&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðine life  
+healsode hreohmod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic on holma geþring  
+eorlscipe efnde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdre geneðde,  
+mærðo fremede;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he me mede gehet.  
+Ic ða ðæs wælmes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe is wide cuð,  
+grimne gryrelicne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grundhyrde fond;  
+þær unc hwile wæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hand gemæne,  
+holm heolfre weoll,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond ic heafde becearf  
+in ðam guðsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendeles modor  
+eacnum ecgum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unsofte þonan  
+feorh oðferede.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs ic fæge þa gyt,  
+ac me eorla hleo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft gesealde  
+maðma menigeo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maga Healfdenes.  
   
-Swa se ðeodkyning     þeawum lyfde.  
-Nealles ic ðam leanum     forloren hæfde,  
-mægnes mede,     ac he me maðmas geaf,  
-sunu Healfdenes,     on minne sylfes dom;  
-ða ic ðe, beorncyning,     bringan wylle,  
-estum geywan.     Gen is eall æt ðe  
-lissa gelong;     ic lyt hafo  
-heafodmaga     nefne, Hygelac, ðec."  
-Het ða in beran     eaforheafodsegn,  
-heaðosteapne helm,     hare byrnan,  
-guðsweord geatolic,     gyd æfter wræc:  
-"Me ðis hildesceorp     Hroðgar sealde,  
-snotra fengel,     sume worde het  
-þæt ic his ærest ðe     est gesægde;  
-cwæð þæt hyt hæfde     Hiorogar cyning,  
-leod Scyldunga     lange hwile;  
-no ðy ær suna sinum     syllan wolde,  
-hwatum Heorowearde,     þeah he him hold wære,  
-breostgewædu.     Bruc ealles well!"  
-Hyrde ic þæt þam frætwum     feower mearas  
-lungre, gelice,     last weardode,  
-æppelfealuwe;     he him est geteah  
-meara ond maðma.     Swa sceal mæg don,  
-nealles inwitnet     oðrum bregdon  
-dyrnum cræfte,     deað renian  
-hondgesteallan.     Hygelace wæs,  
-niða heardum,     nefa swyðe hold,  
-ond gehwæðer oðrum     hroþra gemyndig.  
-Hyrde ic þæt he ðone healsbeah     Hygde gesealde,  
-wrætlicne wundurmaððum,     ðone þe him Wealhðeo geaf,  
-ðeodnes dohtor,     þrio wicg somod  
-swancor ond sadolbeorht;     hyre syððan wæs  
-æfter beahðege     breost geweorðod.  
-Swa bealdode     bearn Ecgðeowes,  
-guma guðum cuð,     godum dædum,  
-dreah æfter dome,     nealles druncne slog  
-heorðgeneatas;     næs him hreoh sefa,  
-ac he mancynnes     mæste cræfte  
-ginfæstan gife,     þe him god sealde,  
-heold hildedeor.     Hean wæs lange,  
-swa hyne Geata bearn     godne ne tealdon,  
-ne hyne on medobence     micles wyrðne  
-drihten Wedera     gedon wolde;  
-swyðe wendon     þæt he sleac wære,  
-æðeling unfrom.     Edwenden cwom  
-tireadigum menn     torna gehwylces.  
-Het ða eorla hleo     in gefetian,  
-heaðorof cyning,     Hreðles lafe  
-golde gegyrede;     næs mid Geatum ða  
-sincmaðþum selra     on sweordes had;  
-þæt he on Biowulfes     bearm alegde  
-ond him gesealde     seofan þusendo,  
-bold ond bregostol.     Him wæs bam samod  
-on ðam leodscipe     lond gecynde,  
-eard, eðelriht,     oðrum swiðor  
-side rice     þam ðær selra wæs.  
-Eft þæt geiode     ufaran dogrum  
-hildehlæmmum,     syððan Hygelac læg  
-ond Heardrede     hildemeceas  
-under bordhreoðan     to bonan wurdon,  
-ða hyne gesohtan     on sigeþeode  
-hearde hildefrecan,     Heaðoscilfingas,  
-niða genægdan     nefan Hererices,  
-syððan Beowulfe     brade rice  
-on hand gehwearf;     he geheold tela  
-fiftig wintra     (wæs ða frod cyning,  
-eald eþelweard),     oððæt an ongan  
-deorcum nihtum     draca ricsian,  
-se ðe on heaum hofe     hord beweotode,  
-stanbeorh steapne;     stig under læg,  
-eldum uncuð.     Þær on innan giong  
-niða nathwylc,     se ðe neh gefeng  
-hæðnum horde,     hond ......,  
-since fahne.     He þæt syððan ......,  
-þeah ðe he slæpende     besyred wurde  
-þeofes cræfte;     þæt sie ðiod onfand,  
-bufolc beorna,     þæt he gebolgen wæs.  
+Swa se ðeodkyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeawum lyfde.  
+Nealles ic ðam leanum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forloren hæfde,  
+mægnes mede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he me maðmas geaf,  
+sunu Healfdenes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on minne sylfes dom;  
+ða ic ðe, beorncyning,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bringan wylle,  
+estum geywan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gen is eall æt ðe  
+lissa gelong;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic lyt hafo  
+heafodmaga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nefne, Hygelac, ðec."  
+Het ða in beran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eaforheafodsegn,  
+heaðosteapne helm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hare byrnan,  
+guðsweord geatolic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyd æfter wræc:  
+"Me ðis hildesceorp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroðgar sealde,  
+snotra fengel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sume worde het  
+þæt ic his ærest ðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;est gesægde;  
+cwæð þæt hyt hæfde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hiorogar cyning,  
+leod Scyldunga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lange hwile;  
+no ðy ær suna sinum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syllan wolde,  
+hwatum Heorowearde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah he him hold wære,  
+breostgewædu.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bruc ealles well!"  
+Hyrde ic þæt þam frætwum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feower mearas  
+lungre, gelice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;last weardode,  
+æppelfealuwe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he him est geteah  
+meara ond maðma.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swa sceal mæg don,  
+nealles inwitnet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðrum bregdon  
+dyrnum cræfte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deað renian  
+hondgesteallan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hygelace wæs,  
+niða heardum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nefa swyðe hold,  
+ond gehwæðer oðrum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hroþra gemyndig.  
+Hyrde ic þæt he ðone healsbeah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hygde gesealde,  
+wrætlicne wundurmaððum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðone þe him Wealhðeo geaf,  
+ðeodnes dohtor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þrio wicg somod  
+swancor ond sadolbeorht;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyre syððan wæs  
+æfter beahðege&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;breost geweorðod.  
+Swa bealdode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgðeowes,  
+guma guðum cuð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godum dædum,  
+dreah æfter dome,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nealles druncne slog  
+heorðgeneatas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs him hreoh sefa,  
+ac he mancynnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæste cræfte  
+ginfæstan gife,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe him god sealde,  
+heold hildedeor.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hean wæs lange,  
+swa hyne Geata bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godne ne tealdon,  
+ne hyne on medobence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;micles wyrðne  
+drihten Wedera&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gedon wolde;  
+swyðe wendon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he sleac wære,  
+æðeling unfrom.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edwenden cwom  
+tireadigum menn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;torna gehwylces.  
+Het ða eorla hleo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in gefetian,  
+heaðorof cyning,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hreðles lafe  
+golde gegyrede;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs mid Geatum ða  
+sincmaðþum selra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sweordes had;  
+þæt he on Biowulfes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearm alegde  
+ond him gesealde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seofan þusendo,  
+bold ond bregostol.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him wæs bam samod  
+on ðam leodscipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lond gecynde,  
+eard, eðelriht,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðrum swiðor  
+side rice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þam ðær selra wæs.  
+Eft þæt geiode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ufaran dogrum  
+hildehlæmmum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan Hygelac læg  
+ond Heardrede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildemeceas  
+under bordhreoðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to bonan wurdon,  
+ða hyne gesohtan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sigeþeode  
+hearde hildefrecan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heaðoscilfingas,  
+niða genægdan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nefan Hererices,  
+syððan Beowulfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brade rice  
+on hand gehwearf;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he geheold tela  
+fiftig wintra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(wæs ða frod cyning,  
+eald eþelweard),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt an ongan  
+deorcum nihtum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;draca ricsian,  
+se ðe on heaum hofe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord beweotode,  
+stanbeorh steapne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stig under læg,  
+eldum uncuð.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þær on innan giong  
+niða nathwylc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe neh gefeng  
+hæðnum horde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hond ......,  
+since fahne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He þæt syððan ......,  
+þeah ðe he slæpende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;besyred wurde  
+þeofes cræfte;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt sie ðiod onfand,  
+bufolc beorna,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he gebolgen wæs.  
   
-Nealles mid gewealdum     wyrmhord abræc  
-sylfes willum,     se ðe him sare gesceod,  
-ac for þreanedlan     þeow nathwylces  
-hæleða bearna     heteswengeas fleah,  
-ærnes þearfa,     ond ðær inne fealh,  
-secg synbysig,     sona onfunde  
-þæt þær ðam gyste     gryrebroga stod;  
-hwæðre earmsceapen      
+Nealles mid gewealdum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrmhord abræc  
+sylfes willum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe him sare gesceod,  
+ac for þreanedlan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeow nathwylces  
+hæleða bearna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heteswengeas fleah,  
+ærnes þearfa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond ðær inne fealh,  
+secg synbysig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sona onfunde  
+þæt þær ðam gyste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gryrebroga stod;  
+hwæðre earmsceapen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
     ...sceapen  
-     þa hyne se fær begeat.  
-Sincfæt ......;     þær wæs swylcra fela  
-in ðam eorðhuse     ærgestreona,  
-swa hy on geardagum     gumena nathwylc,  
-eormenlafe     æþelan cynnes,  
-þanchycgende     þær gehydde,  
-deore maðmas.     Ealle hie deað fornam  
-ærran mælum,     ond se an ða gen  
-leoda duguðe,     se ðær lengest hwearf,  
-weard winegeomor,     wende þæs ylcan,  
-þæt he lytel fæc     longgestreona  
-brucan moste.     Beorh eallgearo  
-wunode on wonge     wæteryðum neah,  
-niwe be næsse,     nearocræftum fæst.  
-Þær on innan bær     eorlgestreona  
-hringa hyrde     hordwyrðne dæl,  
-fættan goldes,     fea worda cwæð:  
-"Heald þu nu, hruse,     nu hæleð ne moston,  
-eorla æhte!     Hwæt, hyt ær on ðe  
-gode begeaton.     Guðdeað fornam,  
-feorhbealo frecne,     fyra gehwylcne  
-leoda minra,     þara ðe þis lif ofgeaf,  
-gesawon seledream.     Ic nah hwa sweord wege  
-oððe feormie     fæted wæge,  
-dryncfæt deore;     duguð ellor sceoc.  
-Sceal se hearda helm     hyrsted golde  
-fætum befeallen;     feormynd swefað,  
-þa ðe beadogriman     bywan sceoldon,  
-ge swylce seo herepad,     sio æt hilde gebad  
-ofer borda gebræc     bite irena,  
-brosnað æfter beorne.     Ne mæg byrnan hring  
-æfter wigfruman     wide feran,  
-hæleðum be healfe.     Næs hearpan wyn,  
-gomen gleobeames,     ne god hafoc  
-geond sæl swingeð,     ne se swifta mearh  
-burhstede beateð.     Bealocwealm hafað  
-fela feorhcynna     forð onsended!"  
-Swa giomormod     giohðo mænde  
-an æfter eallum,     unbliðe hwearf  
-dæges ond nihtes,     oððæt deaðes wylm  
-hran æt heortan.     Hordwynne fond  
-eald uhtsceaða     opene standan,  
-se ðe byrnende     biorgas seceð,  
-nacod niðdraca,     nihtes fleogeð  
-fyre befangen;     hyne foldbuend  
-swiðe ondrædað.     He gesecean sceall  
-hord on hrusan,     þær he hæðen gold  
-warað wintrum frod,     ne byð him wihte ðy sel.  
-Swa se ðeodsceaða     þreo hund wintra  
-heold on hrusan     hordærna sum,  
-eacencræftig,     oððæt hyne an abealch  
-mon on mode;     mandryhtne bær  
-fæted wæge,     frioðowære bæd  
-hlaford sinne.     Ða wæs hord rasod,  
-onboren beaga hord,     bene getiðad  
-feasceaftum men.     Frea sceawode  
-fira fyrngeweorc     forman siðe.  
-Þa se wyrm onwoc,     wroht wæs geniwad;  
-stonc ða æfter stane,     stearcheort onfand  
-feondes fotlast;     he to forð gestop  
-dyrnan cræfte     dracan heafde neah.  
-Swa mæg unfæge     eaðe gedigan  
-wean ond wræcsið,     se ðe waldendes  
-hyldo gehealdeþ!     Hordweard sohte  
-georne æfter grunde,     wolde guman findan,  
-þone þe him on sweofote     sare geteode,  
-hat ond hreohmod     hlæw oft ymbehwearf  
-ealne utanweardne,     ne ðær ænig mon  
-on þære westenne;     hwæðre wiges gefeh,  
-beaduwe weorces,     hwilum on beorh æthwearf,  
-sincfæt sohte.     He þæt sona onfand  
-ðæt hæfde gumena sum     goldes gefandod,  
-heahgestreona.     Hordweard onbad  
-earfoðlice     oððæt æfen cwom;  
-wæs ða gebolgen     beorges hyrde,  
-wolde se laða     lige forgyldan  
-drincfæt dyre.     Þa wæs dæg sceacen  
-wyrme on willan;     no on wealle læg,  
-bidan wolde,     ac mid bæle for,  
-fyre gefysed.     Wæs se fruma egeslic  
-leodum on lande,     swa hyt lungre wearð  
-on hyra sincgifan     sare geendod.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa hyne se fær begeat.  
+Sincfæt ......;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær wæs swylcra fela  
+in ðam eorðhuse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ærgestreona,  
+swa hy on geardagum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumena nathwylc,  
+eormenlafe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþelan cynnes,  
+þanchycgende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær gehydde,  
+deore maðmas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ealle hie deað fornam  
+ærran mælum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond se an ða gen  
+leoda duguðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðær lengest hwearf,  
+weard winegeomor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wende þæs ylcan,  
+þæt he lytel fæc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;longgestreona  
+brucan moste.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beorh eallgearo  
+wunode on wonge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæteryðum neah,  
+niwe be næsse,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nearocræftum fæst.  
+Þær on innan bær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorlgestreona  
+hringa hyrde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hordwyrðne dæl,  
+fættan goldes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fea worda cwæð:  
+"Heald þu nu, hruse,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nu hæleð ne moston,  
+eorla æhte!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hwæt, hyt ær on ðe  
+gode begeaton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guðdeað fornam,  
+feorhbealo frecne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyra gehwylcne  
+leoda minra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara ðe þis lif ofgeaf,  
+gesawon seledream.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic nah hwa sweord wege  
+oððe feormie&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæted wæge,  
+dryncfæt deore;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;duguð ellor sceoc.  
+Sceal se hearda helm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyrsted golde  
+fætum befeallen;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feormynd swefað,  
+þa ðe beadogriman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bywan sceoldon,  
+ge swylce seo herepad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sio æt hilde gebad  
+ofer borda gebræc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bite irena,  
+brosnað æfter beorne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne mæg byrnan hring  
+æfter wigfruman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide feran,  
+hæleðum be healfe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs hearpan wyn,  
+gomen gleobeames,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne god hafoc  
+geond sæl swingeð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne se swifta mearh  
+burhstede beateð.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bealocwealm hafað  
+fela feorhcynna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð onsended!"  
+Swa giomormod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;giohðo mænde  
+an æfter eallum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unbliðe hwearf  
+dæges ond nihtes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt deaðes wylm  
+hran æt heortan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hordwynne fond  
+eald uhtsceaða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opene standan,  
+se ðe byrnende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biorgas seceð,  
+nacod niðdraca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nihtes fleogeð  
+fyre befangen;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyne foldbuend  
+swiðe ondrædað.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He gesecean sceall  
+hord on hrusan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he hæðen gold  
+warað wintrum frod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne byð him wihte ðy sel.  
+Swa se ðeodsceaða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þreo hund wintra  
+heold on hrusan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hordærna sum,  
+eacencræftig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt hyne an abealch  
+mon on mode;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mandryhtne bær  
+fæted wæge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frioðowære bæd  
+hlaford sinne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða wæs hord rasod,  
+onboren beaga hord,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bene getiðad  
+feasceaftum men.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frea sceawode  
+fira fyrngeweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forman siðe.  
+Þa se wyrm onwoc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wroht wæs geniwad;  
+stonc ða æfter stane,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stearcheort onfand  
+feondes fotlast;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he to forð gestop  
+dyrnan cræfte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dracan heafde neah.  
+Swa mæg unfæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eaðe gedigan  
+wean ond wræcsið,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe waldendes  
+hyldo gehealdeþ!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hordweard sohte  
+georne æfter grunde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wolde guman findan,  
+þone þe him on sweofote&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sare geteode,  
+hat ond hreohmod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlæw oft ymbehwearf  
+ealne utanweardne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne ðær ænig mon  
+on þære westenne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæðre wiges gefeh,  
+beaduwe weorces,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwilum on beorh æthwearf,  
+sincfæt sohte.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He þæt sona onfand  
+ðæt hæfde gumena sum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;goldes gefandod,  
+heahgestreona.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hordweard onbad  
+earfoðlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt æfen cwom;  
+wæs ða gebolgen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorges hyrde,  
+wolde se laða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lige forgyldan  
+drincfæt dyre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs dæg sceacen  
+wyrme on willan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no on wealle læg,  
+bidan wolde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac mid bæle for,  
+fyre gefysed.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs se fruma egeslic  
+leodum on lande,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hyt lungre wearð  
+on hyra sincgifan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sare geendod.  
   
-Ða se gæst ongan     gledum spiwan,  
-beorht hofu bærnan;     bryneleoma stod  
-eldum on andan.     No ðær aht cwices  
-lað lyftfloga     læfan wolde.  
-Wæs þæs wyrmes wig     wide gesyne,  
-nearofages nið     nean ond feorran,  
-hu se guðsceaða     Geata leode  
-hatode ond hynde;     hord eft gesceat,  
-dryhtsele dyrnne,     ær dæges hwile.  
-Hæfde landwara     lige befangen,  
-bæle ond bronde,     beorges getruwode,  
-wiges ond wealles;     him seo wen geleah.  
-Þa wæs Biowulfe     broga gecyðed  
-snude to soðe,     þæt his sylfes ham,  
-bolda selest,     brynewylmum mealt,  
-gifstol Geata.     Þæt ðam godan wæs  
-hreow on hreðre,     hygesorga mæst;  
-wende se wisa     þæt he wealdende  
-ofer ealde riht,     ecean dryhtne,  
-bitre gebulge.     Breost innan weoll  
-þeostrum geþoncum,     swa him geþywe ne wæs.  
-Hæfde ligdraca     leoda fæsten,  
-ealond utan,     eorðweard ðone  
-gledum forgrunden;     him ðæs guðkyning,  
-Wedera þioden,     wræce leornode.  
-Heht him þa gewyrcean     wigendra hleo  
-eallirenne,     eorla dryhten,  
-wigbord wrætlic;     wisse he gearwe  
-þæt him holtwudu     helpan ne meahte,  
-lind wið lige.     Sceolde lændaga  
-æþeling ærgod     ende gebidan,  
-worulde lifes,     ond se wyrm somod,  
-þeah ðe hordwelan     heolde lange.  
-Oferhogode ða     hringa fengel  
-þæt he þone widflogan     weorode gesohte,  
-sidan herge;     no he him þa sæcce ondred,  
-ne him þæs wyrmes wig     for wiht dyde,  
-eafoð ond ellen,     forðon he ær fela  
-nearo neðende     niða gedigde,  
-hildehlemma,     syððan he Hroðgares,  
-sigoreadig secg,     sele fælsode  
-ond æt guðe forgrap     Grendeles mægum  
-laðan cynnes.     No þæt læsest wæs  
-hondgemota,     þær mon Hygelac sloh,  
-syððan Geata cyning     guðe ræsum,  
-freawine folca     Freslondum on,  
-Hreðles eafora     hiorodryncum swealt,  
-bille gebeaten.     Þonan Biowulf com  
-sylfes cræfte,     sundnytte dreah;  
-hæfde him on earme     ana XXX  
-hildegeatwa,     þa he to holme beag.  
-Nealles Hetware     hremge þorfton  
-feðewiges,     þe him foran ongean  
-linde bæron;     lyt eft becwom  
-fram þam hildfrecan     hames niosan.  
-Oferswam ða sioleða bigong     sunu Ecgðeowes,  
-earm anhaga,     eft to leodum;  
-þær him Hygd gebead     hord ond rice,  
-beagas ond bregostol,     bearne ne truwode  
-þæt he wið ælfylcum     eþelstolas  
-healdan cuðe,     ða wæs Hygelac dead.  
-No ðy ær feasceafte     findan meahton  
-æt ðam æðelinge     ænige ðinga,  
-þæt he Heardrede     hlaford wære  
-oððe þone cynedom     ciosan wolde;  
-hwæðre he him on folce     freondlarum heold,  
-estum mid are,     oððæt he yldra wearð,  
-Wedergeatum weold.     Hyne wræcmæcgas  
-ofer sæ sohtan,     suna Ohteres;  
-hæfdon hy forhealden     helm Scylfinga,  
-þone selestan     sæcyninga  
-þara ðe in Swiorice     sinc brytnade,  
-mærne þeoden.     Him þæt to mearce wearð;  
-he þær for feorme     feorhwunde hleat  
-sweordes swengum,     sunu Hygelaces,  
-ond him eft gewat     Ongenðioes bearn  
-hames niosan,     syððan Heardred læg,  
-let ðone bregostol     Biowulf healdan,  
-Geatum wealdan.     Þæt wæs god cyning!  
+Ða se gæst ongan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gledum spiwan,  
+beorht hofu bærnan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bryneleoma stod  
+eldum on andan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No ðær aht cwices  
+lað lyftfloga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læfan wolde.  
+Wæs þæs wyrmes wig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide gesyne,  
+nearofages nið&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nean ond feorran,  
+hu se guðsceaða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leode  
+hatode ond hynde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord eft gesceat,  
+dryhtsele dyrnne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær dæges hwile.  
+Hæfde landwara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lige befangen,  
+bæle ond bronde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorges getruwode,  
+wiges ond wealles;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him seo wen geleah.  
+Þa wæs Biowulfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;broga gecyðed  
+snude to soðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt his sylfes ham,  
+bolda selest,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brynewylmum mealt,  
+gifstol Geata.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt ðam godan wæs  
+hreow on hreðre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hygesorga mæst;  
+wende se wisa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he wealdende  
+ofer ealde riht,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ecean dryhtne,  
+bitre gebulge.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Breost innan weoll  
+þeostrum geþoncum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him geþywe ne wæs.  
+Hæfde ligdraca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leoda fæsten,  
+ealond utan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorðweard ðone  
+gledum forgrunden;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him ðæs guðkyning,  
+Wedera þioden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wræce leornode.  
+Heht him þa gewyrcean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigendra hleo  
+eallirenne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorla dryhten,  
+wigbord wrætlic;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wisse he gearwe  
+þæt him holtwudu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helpan ne meahte,  
+lind wið lige.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sceolde lændaga  
+æþeling ærgod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende gebidan,  
+worulde lifes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond se wyrm somod,  
+þeah ðe hordwelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heolde lange.  
+Oferhogode ða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringa fengel  
+þæt he þone widflogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorode gesohte,  
+sidan herge;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no he him þa sæcce ondred,  
+ne him þæs wyrmes wig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for wiht dyde,  
+eafoð ond ellen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forðon he ær fela  
+nearo neðende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niða gedigde,  
+hildehlemma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan he Hroðgares,  
+sigoreadig secg,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sele fælsode  
+ond æt guðe forgrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendeles mægum  
+laðan cynnes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No þæt læsest wæs  
+hondgemota,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær mon Hygelac sloh,  
+syððan Geata cyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðe ræsum,  
+freawine folca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Freslondum on,  
+Hreðles eafora&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hiorodryncum swealt,  
+bille gebeaten.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þonan Biowulf com  
+sylfes cræfte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sundnytte dreah;  
+hæfde him on earme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ana XXX  
+hildegeatwa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he to holme beag.  
+Nealles Hetware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hremge þorfton  
+feðewiges,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe him foran ongean  
+linde bæron;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lyt eft becwom  
+fram þam hildfrecan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hames niosan.  
+Oferswam ða sioleða bigong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Ecgðeowes,  
+earm anhaga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft to leodum;  
+þær him Hygd gebead&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord ond rice,  
+beagas ond bregostol,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearne ne truwode  
+þæt he wið ælfylcum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eþelstolas  
+healdan cuðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða wæs Hygelac dead.  
+No ðy ær feasceafte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;findan meahton  
+æt ðam æðelinge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænige ðinga,  
+þæt he Heardrede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlaford wære  
+oððe þone cynedom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ciosan wolde;  
+hwæðre he him on folce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;freondlarum heold,  
+estum mid are,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt he yldra wearð,  
+Wedergeatum weold.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyne wræcmæcgas  
+ofer sæ sohtan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;suna Ohteres;  
+hæfdon hy forhealden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm Scylfinga,  
+þone selestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sæcyninga  
+þara ðe in Swiorice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sinc brytnade,  
+mærne þeoden.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him þæt to mearce wearð;  
+he þær for feorme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorhwunde hleat  
+sweordes swengum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Hygelaces,  
+ond him eft gewat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ongenðioes bearn  
+hames niosan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan Heardred læg,  
+let ðone bregostol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biowulf healdan,  
+Geatum wealdan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs god cyning!  
   
-Se ðæs leodhryres     lean gemunde  
-uferan dogrum,     Eadgilse wearð  
-feasceaftum freond,     folce gestepte  
-ofer sæ side     sunu Ohteres,  
-wigum ond wæpnum;     he gewræc syððan  
-cealdum cearsiðum,     cyning ealdre bineat.  
-Swa he niða gehwane     genesen hæfde,  
-sliðra geslyhta,     sunu Ecgðiowes,  
-ellenweorca,     oð ðone anne dæg  
-þe he wið þam wyrme     gewegan sceolde.  
-Gewat þa XIIa sum     torne gebolgen  
-dryhten Geata     dracan sceawian.  
-Hæfde þa gefrunen     hwanan sio fæhð aras,  
-bealonið biorna;     him to bearme cwom  
-maðþumfæt mære     þurh ðæs meldan hond.  
-Se wæs on ðam ðreate     þreotteoða secg,  
-se ðæs orleges     or onstealde,  
-hæft hygegiomor,     sceolde hean ðonon  
-wong wisian.     He ofer willan giong  
-to ðæs ðe he eorðsele     anne wisse,  
-hlæw under hrusan     holmwylme neh,  
-yðgewinne;     se wæs innan full  
-wrætta ond wira.     Weard unhiore,  
-gearo guðfreca,     goldmaðmas heold,  
-eald under eorðan.     Næs þæt yðe ceap  
-to gegangenne     gumena ænigum!  
-Gesæt ða on næsse     niðheard cyning,  
-þenden hælo abead     heorðgeneatum,  
-goldwine Geata.     Him wæs geomor sefa,  
-wæfre ond wælfus,     wyrd ungemete neah,  
-se ðone gomelan     gretan sceolde,  
-secean sawle hord,     sundur gedælan  
-lif wið lice,     no þon lange wæs  
-feorh æþelinges     flæsce bewunden.  
-Biowulf maþelade,     bearn Ecgðeowes:  
-"Fela ic on giogoðe     guðræsa genæs,  
-orleghwila;     ic þæt eall gemon.  
-Ic wæs syfanwintre,     þa mec sinca baldor,  
-freawine folca,     æt minum fæder genam;  
-heold mec ond hæfde     Hreðel cyning,  
-geaf me sinc ond symbel,     sibbe gemunde.  
-Næs ic him to life     laðra owihte,  
-beorn in burgum,     þonne his bearna hwylc,  
-Herebeald ond Hæðcyn     oððe Hygelac min.  
-Wæs þam yldestan     ungedefelice  
-mæges dædum     morþorbed stred,  
-syððan hyne Hæðcyn     of hornbogan,  
-his freawine,     flane geswencte,  
-miste mercelses     ond his mæg ofscet,  
-broðor oðerne     blodigan gare.  
-Þæt wæs feohleas gefeoht,     fyrenum gesyngad,  
-hreðre hygemeðe;     sceolde hwæðre swa þeah  
-æðeling unwrecen     ealdres linnan.  
-Swa bið geomorlic     gomelum ceorle  
-to gebidanne,     þæt his byre ride  
-giong on galgan,     þonne he gyd wrece,  
-sarigne sang,     þonne his sunu hangað  
-hrefne to hroðre,     ond he him helpe ne mæg,  
-eald ond infrod,     ænige gefremman.  
-Symble bið gemyndgad     morna gehwylce  
-eaforan ellorsið;     oðres ne gymeð  
-to gebidanne     burgum in innan  
-yrfeweardas,     þonne se an hafað  
-þurh deaðes nyd     dæda gefondad.  
-Gesyhð sorhcearig     on his suna bure  
-winsele westne,     windge reste  
-reote berofene.     Ridend swefað,  
-hæleð in hoðman;     nis þær hearpan sweg,  
-gomen in geardum,     swylce ðær iu wæron.  
+Se ðæs leodhryres&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lean gemunde  
+uferan dogrum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eadgilse wearð  
+feasceaftum freond,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folce gestepte  
+ofer sæ side&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Ohteres,  
+wigum ond wæpnum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he gewræc syððan  
+cealdum cearsiðum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cyning ealdre bineat.  
+Swa he niða gehwane&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;genesen hæfde,  
+sliðra geslyhta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Ecgðiowes,  
+ellenweorca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oð ðone anne dæg  
+þe he wið þam wyrme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gewegan sceolde.  
+Gewat þa XIIa sum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;torne gebolgen  
+dryhten Geata&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dracan sceawian.  
+Hæfde þa gefrunen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwanan sio fæhð aras,  
+bealonið biorna;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him to bearme cwom  
+maðþumfæt mære&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þurh ðæs meldan hond.  
+Se wæs on ðam ðreate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þreotteoða secg,  
+se ðæs orleges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or onstealde,  
+hæft hygegiomor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceolde hean ðonon  
+wong wisian.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He ofer willan giong  
+to ðæs ðe he eorðsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anne wisse,  
+hlæw under hrusan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;holmwylme neh,  
+yðgewinne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se wæs innan full  
+wrætta ond wira.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weard unhiore,  
+gearo guðfreca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;goldmaðmas heold,  
+eald under eorðan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs þæt yðe ceap  
+to gegangenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumena ænigum!  
+Gesæt ða on næsse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niðheard cyning,  
+þenden hælo abead&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorðgeneatum,  
+goldwine Geata.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him wæs geomor sefa,  
+wæfre ond wælfus,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrd ungemete neah,  
+se ðone gomelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gretan sceolde,  
+secean sawle hord,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sundur gedælan  
+lif wið lice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no þon lange wæs  
+feorh æþelinges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flæsce bewunden.  
+Biowulf maþelade,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgðeowes:  
+"Fela ic on giogoðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðræsa genæs,  
+orleghwila;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic þæt eall gemon.  
+Ic wæs syfanwintre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa mec sinca baldor,  
+freawine folca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt minum fæder genam;  
+heold mec ond hæfde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hreðel cyning,  
+geaf me sinc ond symbel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sibbe gemunde.  
+Næs ic him to life&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laðra owihte,  
+beorn in burgum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne his bearna hwylc,  
+Herebeald ond Hæðcyn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe Hygelac min.  
+Wæs þam yldestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ungedefelice  
+mæges dædum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;morþorbed stred,  
+syððan hyne Hæðcyn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of hornbogan,  
+his freawine,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flane geswencte,  
+miste mercelses&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his mæg ofscet,  
+broðor oðerne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blodigan gare.  
+Þæt wæs feohleas gefeoht,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrenum gesyngad,  
+hreðre hygemeðe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceolde hwæðre swa þeah  
+æðeling unwrecen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdres linnan.  
+Swa bið geomorlic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gomelum ceorle  
+to gebidanne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt his byre ride  
+giong on galgan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne he gyd wrece,  
+sarigne sang,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne his sunu hangað  
+hrefne to hroðre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond he him helpe ne mæg,  
+eald ond infrod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænige gefremman.  
+Symble bið gemyndgad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;morna gehwylce  
+eaforan ellorsið;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðres ne gymeð  
+to gebidanne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;burgum in innan  
+yrfeweardas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne se an hafað  
+þurh deaðes nyd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dæda gefondad.  
+Gesyhð sorhcearig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on his suna bure  
+winsele westne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;windge reste  
+reote berofene.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ridend swefað,  
+hæleð in hoðman;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nis þær hearpan sweg,  
+gomen in geardum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce ðær iu wæron.  
   
-Gewiteð þonne on sealman,     sorhleoð gæleð  
-an æfter anum;     þuhte him eall to rum,  
-wongas ond wicstede.     Swa Wedra helm  
-æfter Herebealde     heortan sorge  
-weallende wæg.     Wihte ne meahte  
-on ðam feorhbonan     fæghðe gebetan;  
-no ðy ær he þone heaðorinc     hatian ne meahte  
-laðum dædum,     þeah him leof ne wæs.  
-He ða mid þære sorhge,     þe him swa sar belamp,  
-gumdream ofgeaf,     godes leoht geceas,  
-eaferum læfde,     swa deð eadig mon,  
-lond ond leodbyrig,     þa he of life gewat.  
-Þa wæs synn ond sacu     Sweona ond Geata  
-ofer wid wæter,     wroht gemæne,  
-herenið hearda,     syððan Hreðel swealt,  
-oððe him Ongenðeowes     eaferan wæran  
-frome, fyrdhwate,     freode ne woldon  
-ofer heafo healdan,     ac ymb Hreosnabeorh  
-eatolne inwitscear     oft gefremedon.  
-Þæt mægwine     mine gewræcan,  
-fæhðe ond fyrene,     swa hyt gefræge wæs,  
-þeah ðe oðer his     ealdre gebohte,  
-heardan ceape;     Hæðcynne wearð,  
-Geata dryhtne,     guð onsæge.  
-Þa ic on morgne gefrægn     mæg oðerne  
-billes ecgum     on bonan stælan,  
-þær Ongenþeow     Eofores niosað.  
-Guðhelm toglad,     gomela Scylfing  
-hreas hildeblac;     hond gemunde  
-fæhðo genoge,     feorhsweng ne ofteah.  
-Ic him þa maðmas,     þe he me sealde,  
-geald æt guðe,     swa me gifeðe wæs,  
-leohtan sweorde;     he me lond forgeaf,  
-eard, eðelwyn.     Næs him ænig þearf  
-þæt he to Gifðum     oððe to Gardenum  
-oððe in Swiorice     secean þurfe  
-wyrsan wigfrecan,     weorðe gecypan.  
-Symle ic him on feðan     beforan wolde,  
-ana on orde,     ond swa to aldre sceall  
-sæcce fremman,     þenden þis sweord þolað,  
-þæt mec ær ond sið     oft gelæste.  
-Syððan ic for dugeðum     Dæghrefne wearð  
-to handbonan,     Huga cempan;  
-nalles he ða frætwe     Frescyninge,  
-breostweorðunge,     bringan moste,  
-ac in compe gecrong     cumbles hyrde,  
-æþeling on elne;     ne wæs ecg bona,  
-ac him hildegrap     heortan wylmas,  
-banhus gebræc.     Nu sceall billes ecg,  
-hond ond heard sweord,     ymb hord wigan."  
-Beowulf maðelode,     beotwordum spræc  
-niehstan siðe:     "Ic geneðde fela  
-guða on geogoðe;     gyt ic wylle,  
-frod folces weard,     fæhðe secan,  
-mærðu fremman,     gif mec se mansceaða  
-of eorðsele     ut geseceð."  
-Gegrette ða     gumena gehwylcne,  
-hwate helmberend,     hindeman siðe,  
-swæse gesiðas:     "Nolde ic sweord beran,  
-wæpen to wyrme,     gif ic wiste hu  
-wið ðam aglæcean     elles meahte  
-gylpe wiðgripan,     swa ic gio wið Grendle dyde.  
-Ac ic ðær heaðufyres     hates wene,  
-oreðes ond attres;     forðon ic me on hafu  
-bord ond byrnan.     Nelle ic beorges weard  
-forfleon fotes trem,     ac unc furður sceal  
-weorðan æt wealle,     swa unc wyrd geteoð,  
-metod manna gehwæs.     Ic eom on mode from  
-þæt ic wið þone guðflogan     gylp ofersitte.  
-Gebide ge on beorge     byrnum werede,  
-secgas on searwum,     hwæðer sel mæge  
-æfter wælræse     wunde gedygan  
-uncer twega.     Nis þæt eower sið  
-ne gemet mannes,     nefne min anes,  
-þæt he wið aglæcean     eofoðo dæle,  
-eorlscype efne.     Ic mid elne sceall  
-gold gegangan,     oððe guð nimeð,  
-feorhbealu frecne,     frean eowerne!"  
-Aras ða bi ronde     rof oretta,  
-heard under helme,     hiorosercean bær  
-under stancleofu,     strengo getruwode  
-anes mannes.     Ne bið swylc earges sið!  
-Geseah ða be wealle     se ðe worna fela,  
-gumcystum god,     guða gedigde,  
-hildehlemma,     þonne hnitan feðan,  
-stondan stanbogan,     stream ut þonan  
-brecan of beorge.     Wæs þære burnan wælm  
-heaðofyrum hat;     ne meahte horde neah  
-unbyrnende     ænige hwile  
-deop gedygan     for dracan lege.  
-Let ða of breostum,     ða he gebolgen wæs,  
-Wedergeata leod     word ut faran,  
-stearcheort styrmde;     stefn in becom  
-heaðotorht hlynnan     under harne stan.  
-Hete wæs onhrered,     hordweard oncniow  
-mannes reorde;     næs ðær mara fyrst  
-freode to friclan.     From ærest cwom  
-oruð aglæcean     ut of stane,  
-hat hildeswat.     Hruse dynede.  
-Biorn under beorge     bordrand onswaf  
-wið ðam gryregieste,     Geata dryhten;  
-ða wæs hringbogan     heorte gefysed  
-sæcce to seceanne.     Sweord ær gebræd  
-god guðcyning,     gomele lafe,  
-ecgum unslaw;     æghwæðrum wæs  
-bealohycgendra     broga fram oðrum.  
-Stiðmod gestod     wið steapne rond  
-winia bealdor,     ða se wyrm gebeah  
-snude tosomne;     he on searwum bad.  
-Gewat ða byrnende     gebogen scriðan,  
-to gescipe scyndan.     Scyld wel gebearg  
-life ond lice     læssan hwile  
-mærum þeodne     þonne his myne sohte,  
-ðær he þy fyrste,     forman dogore  
-wealdan moste     swa him wyrd ne gescraf  
-hreð æt hilde.     Hond up abræd  
-Geata dryhten,     gryrefahne sloh  
-incgelafe,     þæt sio ecg gewac  
-brun on bane,     bat unswiðor  
-þonne his ðiodcyning     þearfe hæfde,  
-bysigum gebæded.     Þa wæs beorges weard  
-æfter heaðuswenge     on hreoum mode,  
-wearp wælfyre;     wide sprungon  
-hildeleoman.     Hreðsigora ne gealp  
-goldwine Geata;     guðbill geswac,  
-nacod æt niðe,     swa hyt no sceolde,  
-iren ærgod.     Ne wæs þæt eðe sið,  
-þæt se mæra     maga Ecgðeowes  
-grundwong þone     ofgyfan wolde;  
-sceolde ofer willan     wic eardian  
-elles hwergen,     swa sceal æghwylc mon  
-alætan lændagas.     Næs ða long to ðon  
-þæt ða aglæcean hy     eft gemetton.  
-Hyrte hyne hordweard     (hreðer æðme weoll)  
-niwan stefne;     nearo ðrowode,  
-fyre befongen,     se ðe ær folce weold.  
-Nealles him on heape     handgesteallan,  
-æðelinga bearn,     ymbe gestodon  
-hildecystum,     ac hy on holt bugon,  
-ealdre burgan.     Hiora in anum weoll  
-sefa wið sorgum;     sibb æfre ne mæg  
-wiht onwendan     þam ðe wel þenceð.  
+Gewiteð þonne on sealman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sorhleoð gæleð  
+an æfter anum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þuhte him eall to rum,  
+wongas ond wicstede.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swa Wedra helm  
+æfter Herebealde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heortan sorge  
+weallende wæg.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wihte ne meahte  
+on ðam feorhbonan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæghðe gebetan;  
+no ðy ær he þone heaðorinc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hatian ne meahte  
+laðum dædum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah him leof ne wæs.  
+He ða mid þære sorhge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe him swa sar belamp,  
+gumdream ofgeaf,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godes leoht geceas,  
+eaferum læfde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa deð eadig mon,  
+lond ond leodbyrig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he of life gewat.  
+Þa wæs synn ond sacu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweona ond Geata  
+ofer wid wæter,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wroht gemæne,  
+herenið hearda,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan Hreðel swealt,  
+oððe him Ongenðeowes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eaferan wæran  
+frome, fyrdhwate,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;freode ne woldon  
+ofer heafo healdan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac ymb Hreosnabeorh  
+eatolne inwitscear&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oft gefremedon.  
+Þæt mægwine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine gewræcan,  
+fæhðe ond fyrene,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hyt gefræge wæs,  
+þeah ðe oðer his&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdre gebohte,  
+heardan ceape;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hæðcynne wearð,  
+Geata dryhtne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guð onsæge.  
+Þa ic on morgne gefrægn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæg oðerne  
+billes ecgum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on bonan stælan,  
+þær Ongenþeow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eofores niosað.  
+Guðhelm toglad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gomela Scylfing  
+hreas hildeblac;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hond gemunde  
+fæhðo genoge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorhsweng ne ofteah.  
+Ic him þa maðmas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe he me sealde,  
+geald æt guðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa me gifeðe wæs,  
+leohtan sweorde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he me lond forgeaf,  
+eard, eðelwyn.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs him ænig þearf  
+þæt he to Gifðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe to Gardenum  
+oððe in Swiorice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secean þurfe  
+wyrsan wigfrecan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorðe gecypan.  
+Symle ic him on feðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beforan wolde,  
+ana on orde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond swa to aldre sceall  
+sæcce fremman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þenden þis sweord þolað,  
+þæt mec ær ond sið&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oft gelæste.  
+Syððan ic for dugeðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dæghrefne wearð  
+to handbonan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Huga cempan;  
+nalles he ða frætwe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frescyninge,  
+breostweorðunge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bringan moste,  
+ac in compe gecrong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cumbles hyrde,  
+æþeling on elne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne wæs ecg bona,  
+ac him hildegrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heortan wylmas,  
+banhus gebræc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu sceall billes ecg,  
+hond ond heard sweord,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ymb hord wigan."  
+Beowulf maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beotwordum spræc  
+niehstan siðe:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Ic geneðde fela  
+guða on geogoðe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyt ic wylle,  
+frod folces weard,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæhðe secan,  
+mærðu fremman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif mec se mansceaða  
+of eorðsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ut geseceð."  
+Gegrette ða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumena gehwylcne,  
+hwate helmberend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hindeman siðe,  
+swæse gesiðas:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Nolde ic sweord beran,  
+wæpen to wyrme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif ic wiste hu  
+wið ðam aglæcean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;elles meahte  
+gylpe wiðgripan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa ic gio wið Grendle dyde.  
+Ac ic ðær heaðufyres&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hates wene,  
+oreðes ond attres;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forðon ic me on hafu  
+bord ond byrnan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nelle ic beorges weard  
+forfleon fotes trem,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac unc furður sceal  
+weorðan æt wealle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa unc wyrd geteoð,  
+metod manna gehwæs.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic eom on mode from  
+þæt ic wið þone guðflogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gylp ofersitte.  
+Gebide ge on beorge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byrnum werede,  
+secgas on searwum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæðer sel mæge  
+æfter wælræse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wunde gedygan  
+uncer twega.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nis þæt eower sið  
+ne gemet mannes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nefne min anes,  
+þæt he wið aglæcean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eofoðo dæle,  
+eorlscype efne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic mid elne sceall  
+gold gegangan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe guð nimeð,  
+feorhbealu frecne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frean eowerne!"  
+Aras ða bi ronde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rof oretta,  
+heard under helme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hiorosercean bær  
+under stancleofu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strengo getruwode  
+anes mannes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne bið swylc earges sið!  
+Geseah ða be wealle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe worna fela,  
+gumcystum god,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guða gedigde,  
+hildehlemma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne hnitan feðan,  
+stondan stanbogan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stream ut þonan  
+brecan of beorge.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs þære burnan wælm  
+heaðofyrum hat;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne meahte horde neah  
+unbyrnende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænige hwile  
+deop gedygan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for dracan lege.  
+Let ða of breostum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða he gebolgen wæs,  
+Wedergeata leod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;word ut faran,  
+stearcheort styrmde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stefn in becom  
+heaðotorht hlynnan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under harne stan.  
+Hete wæs onhrered,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hordweard oncniow  
+mannes reorde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs ðær mara fyrst  
+freode to friclan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From ærest cwom  
+oruð aglæcean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ut of stane,  
+hat hildeswat.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hruse dynede.  
+Biorn under beorge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bordrand onswaf  
+wið ðam gryregieste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata dryhten;  
+ða wæs hringbogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorte gefysed  
+sæcce to seceanne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweord ær gebræd  
+god guðcyning,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gomele lafe,  
+ecgum unslaw;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æghwæðrum wæs  
+bealohycgendra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;broga fram oðrum.  
+Stiðmod gestod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wið steapne rond  
+winia bealdor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða se wyrm gebeah  
+snude tosomne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he on searwum bad.  
+Gewat ða byrnende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gebogen scriðan,  
+to gescipe scyndan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scyld wel gebearg  
+life ond lice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læssan hwile  
+mærum þeodne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne his myne sohte,  
+ðær he þy fyrste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forman dogore  
+wealdan moste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him wyrd ne gescraf  
+hreð æt hilde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hond up abræd  
+Geata dryhten,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gryrefahne sloh  
+incgelafe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt sio ecg gewac  
+brun on bane,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bat unswiðor  
+þonne his ðiodcyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þearfe hæfde,  
+bysigum gebæded.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs beorges weard  
+æfter heaðuswenge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on hreoum mode,  
+wearp wælfyre;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide sprungon  
+hildeleoman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hreðsigora ne gealp  
+goldwine Geata;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðbill geswac,  
+nacod æt niðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hyt no sceolde,  
+iren ærgod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne wæs þæt eðe sið,  
+þæt se mæra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maga Ecgðeowes  
+grundwong þone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofgyfan wolde;  
+sceolde ofer willan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wic eardian  
+elles hwergen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa sceal æghwylc mon  
+alætan lændagas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs ða long to ðon  
+þæt ða aglæcean hy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft gemetton.  
+Hyrte hyne hordweard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(hreðer æðme weoll)  
+niwan stefne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nearo ðrowode,  
+fyre befongen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe ær folce weold.  
+Nealles him on heape&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;handgesteallan,  
+æðelinga bearn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ymbe gestodon  
+hildecystum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac hy on holt bugon,  
+ealdre burgan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hiora in anum weoll  
+sefa wið sorgum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sibb æfre ne mæg  
+wiht onwendan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þam ðe wel þenceð.  
   
-Wiglaf wæs haten     Weoxstanes sunu,  
-leoflic lindwiga,     leod Scylfinga,  
-mæg Ælfheres;     geseah his mondryhten  
-under heregriman     hat þrowian.  
-Gemunde ða ða are     þe he him ær forgeaf,  
-wicstede weligne     Wægmundinga,  
-folcrihta gehwylc,     swa his fæder ahte.  
-Ne mihte ða forhabban;     hond rond gefeng,  
-geolwe linde,     gomel swyrd geteah,  
-þæt wæs mid eldum     Eanmundes laf,  
-suna Ohteres.     þam æt sæcce wearð,  
-wræccan wineleasum,     Weohstan bana  
-meces ecgum,     ond his magum ætbær  
-brunfagne helm,     hringde byrnan,  
-eald sweord etonisc;     þæt him Onela forgeaf,  
-his gædelinges     guðgewædu,  
-fyrdsearo fuslic,     no ymbe ða fæhðe spræc,  
-þeah ðe he his broðor bearn     abredwade.  
-He frætwe geheold     fela missera,  
-bill ond byrnan,     oððæt his byre mihte  
-eorlscipe efnan     swa his ærfæder;  
-geaf him ða mid Geatum     guðgewæda,  
-æghwæs unrim,     þa he of ealdre gewat,  
-frod on forðweg.     Þa wæs forma sið  
-geongan cempan,     þæt he guðe ræs  
-mid his freodryhtne     fremman sceolde.  
-Ne gemealt him se modsefa,     ne his mæges laf  
-gewac æt wige;     þæt se wyrm onfand,  
-syððan hie togædre     gegan hæfdon.  
-Wiglaf maðelode,     wordrihta fela  
-sægde gesiðum     (him wæs sefa geomor):  
-"Ic ðæt mæl geman,     þær we medu þegun,  
-þonne we geheton     ussum hlaforde  
-in biorsele,     ðe us ðas beagas geaf,  
-þæt we him ða guðgetawa     gyldan woldon  
-gif him þyslicu     þearf gelumpe,  
-helmas ond heard sweord.     Ðe he usic on herge geceas  
-to ðyssum siðfate     sylfes willum,  
-onmunde usic mærða,     ond me þas maðmas geaf,  
-þe he usic garwigend     gode tealde,  
-hwate helmberend,     þeah ðe hlaford us  
-þis ellenweorc     ana aðohte  
-to gefremmanne,     folces hyrde,  
-for ðam he manna mæst     mærða gefremede,  
-dæda dollicra.     Nu is se dæg cumen  
-þæt ure mandryhten     mægenes behofað,  
-godra guðrinca;     wutun gongan to,  
-helpan hildfruman,     þenden hyt sy,  
-gledegesa grim.     God wat on mec  
-þæt me is micle leofre     þæt minne lichaman  
-mid minne goldgyfan     gled fæðmie.  
-Ne þynceð me gerysne     þæt we rondas beren  
-eft to earde,     nemne we æror mægen  
-fane gefyllan,     feorh ealgian  
-Wedra ðeodnes.     Ic wat geare  
-þæt næron ealdgewyrht,     þæt he ana scyle  
-Geata duguðe     gnorn þrowian,  
-gesigan æt sæcce;     urum sceal sweord ond helm,  
-byrne ond beaduscrud,     bam gemæne."  
-Wod þa þurh þone wælrec,     wigheafolan bær  
-frean on fultum,     fea worda cwæð:  
-"Leofa Biowulf,     læst eall tela,  
-swa ðu on geoguðfeore     geara gecwæde  
-þæt ðu ne alæte     be ðe lifigendum  
-dom gedreosan.     Scealt nu dædum rof,  
-æðeling anhydig,     ealle mægene  
-feorh ealgian;     ic ðe fullæstu."  
-æfter ðam wordum     wyrm yrre cwom,  
-atol inwitgæst,     oðre siðe  
-fyrwylmum fah     fionda niosian,  
-laðra manna;     ligyðum for.  
-Born bord wið rond,     byrne ne meahte  
-geongum garwigan     geoce gefremman,  
-ac se maga geonga     under his mæges scyld  
-elne geeode,     þa his agen wæs  
-gledum forgrunden.     Þa gen guðcyning  
-mærða gemunde,     mægenstrengo sloh  
-hildebille,     þæt hyt on heafolan stod  
-niþe genyded;     Nægling forbærst,  
-geswac æt sæcce     sweord Biowulfes,  
-gomol ond grægmæl.     Him þæt gifeðe ne wæs  
-þæt him irenna     ecge mihton  
-helpan æt hilde;     wæs sio hond to strong,  
-se ðe meca gehwane,     mine gefræge,  
-swenge ofersohte,     þonne he to sæcce bær  
-wæpen wundrum heard;     næs him wihte ðe sel.  
-Þa wæs þeodsceaða     þriddan siðe,  
-frecne fyrdraca,     fæhða gemyndig,  
-ræsde on ðone rofan,     þa him rum ageald,  
-hat ond heaðogrim,     heals ealne ymbefeng  
-biteran banum;     he geblodegod wearð  
-sawuldriore,     swat yðum weoll.  
+Wiglaf wæs haten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weoxstanes sunu,  
+leoflic lindwiga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leod Scylfinga,  
+mæg Ælfheres;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseah his mondryhten  
+under heregriman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hat þrowian.  
+Gemunde ða ða are&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe he him ær forgeaf,  
+wicstede weligne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wægmundinga,  
+folcrihta gehwylc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa his fæder ahte.  
+Ne mihte ða forhabban;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hond rond gefeng,  
+geolwe linde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gomel swyrd geteah,  
+þæt wæs mid eldum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eanmundes laf,  
+suna Ohteres.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þam æt sæcce wearð,  
+wræccan wineleasum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weohstan bana  
+meces ecgum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his magum ætbær  
+brunfagne helm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringde byrnan,  
+eald sweord etonisc;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt him Onela forgeaf,  
+his gædelinges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðgewædu,  
+fyrdsearo fuslic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no ymbe ða fæhðe spræc,  
+þeah ðe he his broðor bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;abredwade.  
+He frætwe geheold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fela missera,  
+bill ond byrnan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt his byre mihte  
+eorlscipe efnan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa his ærfæder;  
+geaf him ða mid Geatum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðgewæda,  
+æghwæs unrim,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he of ealdre gewat,  
+frod on forðweg.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs forma sið  
+geongan cempan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he guðe ræs  
+mid his freodryhtne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fremman sceolde.  
+Ne gemealt him se modsefa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne his mæges laf  
+gewac æt wige;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt se wyrm onfand,  
+syððan hie togædre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gegan hæfdon.  
+Wiglaf maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordrihta fela  
+sægde gesiðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(him wæs sefa geomor):  
+"Ic ðæt mæl geman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær we medu þegun,  
+þonne we geheton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ussum hlaforde  
+in biorsele,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðe us ðas beagas geaf,  
+þæt we him ða guðgetawa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyldan woldon  
+gif him þyslicu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þearf gelumpe,  
+helmas ond heard sweord.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ðe he usic on herge geceas  
+to ðyssum siðfate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sylfes willum,  
+onmunde usic mærða,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond me þas maðmas geaf,  
+þe he usic garwigend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode tealde,  
+hwate helmberend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ðe hlaford us  
+þis ellenweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ana aðohte  
+to gefremmanne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folces hyrde,  
+for ðam he manna mæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mærða gefremede,  
+dæda dollicra.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu is se dæg cumen  
+þæt ure mandryhten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenes behofað,  
+godra guðrinca;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wutun gongan to,  
+helpan hildfruman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þenden hyt sy,  
+gledegesa grim.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;God wat on mec  
+þæt me is micle leofre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt minne lichaman  
+mid minne goldgyfan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gled fæðmie.  
+Ne þynceð me gerysne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt we rondas beren  
+eft to earde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nemne we æror mægen  
+fane gefyllan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorh ealgian  
+Wedra ðeodnes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic wat geare  
+þæt næron ealdgewyrht,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he ana scyle  
+Geata duguðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gnorn þrowian,  
+gesigan æt sæcce;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;urum sceal sweord ond helm,  
+byrne ond beaduscrud,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bam gemæne."  
+Wod þa þurh þone wælrec,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigheafolan bær  
+frean on fultum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fea worda cwæð:  
+"Leofa Biowulf,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læst eall tela,  
+swa ðu on geoguðfeore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geara gecwæde  
+þæt ðu ne alæte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be ðe lifigendum  
+dom gedreosan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scealt nu dædum rof,  
+æðeling anhydig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealle mægene  
+feorh ealgian;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic ðe fullæstu."  
+æfter ðam wordum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrm yrre cwom,  
+atol inwitgæst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðre siðe  
+fyrwylmum fah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fionda niosian,  
+laðra manna;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ligyðum for.  
+Born bord wið rond,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byrne ne meahte  
+geongum garwigan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geoce gefremman,  
+ac se maga geonga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under his mæges scyld  
+elne geeode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa his agen wæs  
+gledum forgrunden.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa gen guðcyning  
+mærða gemunde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenstrengo sloh  
+hildebille,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hyt on heafolan stod  
+niþe genyded;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nægling forbærst,  
+geswac æt sæcce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweord Biowulfes,  
+gomol ond grægmæl.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him þæt gifeðe ne wæs  
+þæt him irenna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ecge mihton  
+helpan æt hilde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs sio hond to strong,  
+se ðe meca gehwane,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine gefræge,  
+swenge ofersohte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne he to sæcce bær  
+wæpen wundrum heard;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs him wihte ðe sel.  
+Þa wæs þeodsceaða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þriddan siðe,  
+frecne fyrdraca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæhða gemyndig,  
+ræsde on ðone rofan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa him rum ageald,  
+hat ond heaðogrim,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heals ealne ymbefeng  
+biteran banum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he geblodegod wearð  
+sawuldriore,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swat yðum weoll.  
   
-Ða ic æt þearfe gefrægn     þeodcyninges  
-andlongne eorl     ellen cyðan,  
-cræft ond cenðu,     swa him gecynde wæs.  
-Ne hedde he þæs heafolan,     ac sio hand gebarn  
-modiges mannes,     þær he his mæges healp,  
-þæt he þone niðgæst     nioðor hwene sloh,  
-secg on searwum,     þæt ðæt sweord gedeaf,  
-fah ond fæted,     þæt ðæt fyr ongon  
-sweðrian syððan.     Þa gen sylf cyning  
-geweold his gewitte,     wællseaxe gebræd  
-biter ond beaduscearp,     þæt he on byrnan wæg;  
-forwrat Wedra helm     wyrm on middan.  
-Feond gefyldan     (ferh ellen wræc),  
-ond hi hyne þa begen     abroten hæfdon,  
-sibæðelingas.     Swylc sceolde secg wesan,  
-þegn æt ðearfe!     þæt ðam þeodne wæs  
-siðast sigehwila     sylfes dædum,  
-worlde geweorces.     Ða sio wund ongon,  
-þe him se eorðdraca     ær geworhte,  
-swelan ond swellan;     he þæt sona onfand,  
-þæt him on breostum     bealoniðe weoll  
-attor on innan.     Ða se æðeling giong  
-þæt he bi wealle     wishycgende  
-gesæt on sesse;     seah on enta geweorc,  
-hu ða stanbogan     stapulum fæste  
-ece eorðreced     innan healde.  
-Hyne þa mid handa     heorodreorigne,  
-þeoden mærne,     þegn ungemete till  
-winedryhten his     wætere gelafede,  
-hilde sædne,     ond his helm onspeon.  
-Biowulf maþelode     (he ofer benne spræc,  
-wunde wælbleate;     wisse he gearwe  
-þæt he dæghwila     gedrogen hæfde,  
-eorðan wynne;     ða wæs eall sceacen  
-dogorgerimes,     deað ungemete neah):  
-"Nu ic suna minum     syllan wolde  
-guðgewædu,     þær me gifeðe swa  
-ænig yrfeweard     æfter wurde  
-lice gelenge.     Ic ðas leode heold  
-fiftig wintra;     næs se folccyning,  
-ymbesittendra     ænig ðara,  
-þe mec guðwinum     gretan dorste,  
-egesan ðeon.     Ic on earde bad  
-mælgesceafta,     heold min tela,  
-ne sohte searoniðas,     ne me swor fela  
-aða on unriht.     Ic ðæs ealles mæg  
-feorhbennum seoc     gefean habban;  
-for ðam me witan ne ðearf     waldend fira  
-morðorbealo maga,     þonne min sceaceð  
-lif of lice.     Nu ðu lungre geong  
-hord sceawian     under harne stan,  
-Wiglaf leofa,     nu se wyrm ligeð,  
-swefeð sare wund,     since bereafod.  
-Bio nu on ofoste,     þæt ic ærwelan,  
-goldæht ongite,     gearo sceawige  
-swegle searogimmas,     þæt ic ðy seft mæge  
-æfter maððumwelan     min alætan  
-lif ond leodscipe,     þone ic longe heold."  
+Ða ic æt þearfe gefrægn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeodcyninges  
+andlongne eorl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ellen cyðan,  
+cræft ond cenðu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him gecynde wæs.  
+Ne hedde he þæs heafolan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac sio hand gebarn  
+modiges mannes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he his mæges healp,  
+þæt he þone niðgæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nioðor hwene sloh,  
+secg on searwum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðæt sweord gedeaf,  
+fah ond fæted,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðæt fyr ongon  
+sweðrian syððan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa gen sylf cyning  
+geweold his gewitte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wællseaxe gebræd  
+biter ond beaduscearp,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he on byrnan wæg;  
+forwrat Wedra helm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrm on middan.  
+Feond gefyldan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ferh ellen wræc),  
+ond hi hyne þa begen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;abroten hæfdon,  
+sibæðelingas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swylc sceolde secg wesan,  
+þegn æt ðearfe!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðam þeodne wæs  
+siðast sigehwila&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sylfes dædum,  
+worlde geweorces.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða sio wund ongon,  
+þe him se eorðdraca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær geworhte,  
+swelan ond swellan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he þæt sona onfand,  
+þæt him on breostum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bealoniðe weoll  
+attor on innan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða se æðeling giong  
+þæt he bi wealle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wishycgende  
+gesæt on sesse;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seah on enta geweorc,  
+hu ða stanbogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stapulum fæste  
+ece eorðreced&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;innan healde.  
+Hyne þa mid handa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorodreorigne,  
+þeoden mærne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þegn ungemete till  
+winedryhten his&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wætere gelafede,  
+hilde sædne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his helm onspeon.  
+Biowulf maþelode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(he ofer benne spræc,  
+wunde wælbleate;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wisse he gearwe  
+þæt he dæghwila&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gedrogen hæfde,  
+eorðan wynne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða wæs eall sceacen  
+dogorgerimes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deað ungemete neah):  
+"Nu ic suna minum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syllan wolde  
+guðgewædu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær me gifeðe swa  
+ænig yrfeweard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfter wurde  
+lice gelenge.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic ðas leode heold  
+fiftig wintra;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs se folccyning,  
+ymbesittendra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænig ðara,  
+þe mec guðwinum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gretan dorste,  
+egesan ðeon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic on earde bad  
+mælgesceafta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heold min tela,  
+ne sohte searoniðas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne me swor fela  
+aða on unriht.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic ðæs ealles mæg  
+feorhbennum seoc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gefean habban;  
+for ðam me witan ne ðearf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;waldend fira  
+morðorbealo maga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne min sceaceð  
+lif of lice.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu ðu lungre geong  
+hord sceawian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under harne stan,  
+Wiglaf leofa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nu se wyrm ligeð,  
+swefeð sare wund,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;since bereafod.  
+Bio nu on ofoste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic ærwelan,  
+goldæht ongite,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearo sceawige  
+swegle searogimmas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic ðy seft mæge  
+æfter maððumwelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;min alætan  
+lif ond leodscipe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone ic longe heold."  
   
-Ða ic snude gefrægn     sunu Wihstanes  
-æfter wordcwydum     wundum dryhtne  
-hyran heaðosiocum,     hringnet beran,  
-brogdne beadusercean     under beorges hrof.  
-Geseah ða sigehreðig,     þa he bi sesse geong,  
-magoþegn modig     maððumsigla fealo,  
-gold glitinian     grunde getenge,  
-wundur on wealle,     ond þæs wyrmes denn,  
-ealdes uhtflogan,     orcas stondan,  
-fyrnmanna fatu     feormendlease,  
-hyrstum behrorene;     þær wæs helm monig  
-eald ond omig,     earmbeaga fela  
-searwum gesæled.     Sinc eaðe mæg,  
-gold on grunde,     gumcynnes gehwone  
-oferhigian,     hyde se ðe wylle.  
-Swylce he siomian geseah     segn eallgylden  
-heah ofer horde,     hondwundra mæst,  
-gelocen leoðocræftum;     of ðam leoma stod,  
-þæt he þone grundwong     ongitan meahte,  
-wræte giondwlitan.     Næs ðæs wyrmes þær  
-onsyn ænig,     ac hyne ecg fornam.  
-Ða ic on hlæwe gefrægn     hord reafian,  
-eald enta geweorc,     anne mannan,  
-him on bearm hladon     bunan ond discas  
-sylfes dome;     segn eac genom,  
-beacna beorhtost.     Bill ær gescod  
-(ecg wæs iren)     ealdhlafordes  
-þam ðara maðma     mundbora wæs  
-longe hwile,     ligegesan wæg  
-hatne for horde,     hioroweallende  
-middelnihtum,     oðþæt he morðre swealt.  
-Ar wæs on ofoste,     eftsiðes georn,  
-frætwum gefyrðred;     hyne fyrwet bræc,  
-hwæðer collenferð     cwicne gemette  
-in ðam wongstede     Wedra þeoden  
-ellensiocne,     þær he hine ær forlet.  
-He ða mid þam maðmum     mærne þioden,  
-dryhten sinne,     driorigne fand  
-ealdres æt ende;     he hine eft ongon  
-wæteres weorpan,     oðþæt wordes ord  
-breosthord þurhbræc.      
-gomel on giohðe     (gold sceawode):  
-"Ic ðara frætwa     frean ealles ðanc,  
-wuldurcyninge,     wordum secge,  
-ecum dryhtne,     þe ic her on starie,  
-þæs ðe ic moste     minum leodum  
-ær swyltdæge     swylc gestrynan.  
-Nu ic on maðma hord     mine bebohte  
-frode feorhlege,     fremmað gena  
-leoda þearfe;     ne mæg ic her leng wesan.  
-Hatað heaðomære     hlæw gewyrcean  
-beorhtne æfter bæle     æt brimes nosan;  
-se scel to gemyndum     minum leodum  
-heah hlifian     on Hronesnæsse,  
-þæt hit sæliðend     syððan hatan  
-Biowulfes biorh,     ða ðe brentingas  
-ofer floda genipu     feorran drifað."  
-Dyde him of healse     hring gyldenne  
-þioden þristhydig,     þegne gesealde,  
-geongum garwigan,     goldfahne helm,  
-beah ond byrnan,     het hyne brucan well:  
-"þu eart endelaf     usses cynnes,  
-Wægmundinga.     Ealle wyrd forsweop  
-mine magas     to metodsceafte,  
-eorlas on elne;     ic him æfter sceal."  
-Þæt wæs þam gomelan     gingæste word  
-breostgehygdum,     ær he bæl cure,  
-hate heaðowylmas;     him of hreðre gewat  
-sawol secean     soðfæstra dom.  
-Ða wæs gegongen     guman unfrodum  
-earfoðlice,     þæt he on eorðan geseah  
-þone leofestan     lifes æt ende  
-bleate gebæran.     Bona swylce læg,  
-egeslic eorðdraca     ealdre bereafod,  
-bealwe gebæded.     Beahhordum leng  
-wyrm wohbogen     wealdan ne moste,  
-ac hine irenna     ecga fornamon,  
-hearde, heaðoscearde     homera lafe,  
-þæt se widfloga     wundum stille  
-hreas on hrusan     hordærne neah.  
-Nalles æfter lyfte     lacende hwearf  
-middelnihtum,     maðmæhta wlonc  
-ansyn ywde,     ac he eorðan gefeoll  
-for ðæs hildfruman     hondgeweorce.  
-Huru þæt on lande     lyt manna ðah,  
-mægenagendra,     mine gefræge,  
-þeah ðe he dæda gehwæs     dyrstig wære,  
-þæt he wið attorsceaðan     oreðe geræsde,  
-oððe hringsele     hondum styrede,  
-gif he wæccende     weard onfunde  
-buon on beorge.     Biowulfe wearð  
-dryhtmaðma dæl     deaðe forgolden;  
-hæfde æghwæðer     ende gefered  
-lænan lifes.     Næs ða lang to ðon  
-þæt ða hildlatan     holt ofgefan,  
-tydre treowlogan     tyne ætsomne.  
-Ða ne dorston ær     dareðum lacan  
-on hyra mandryhtnes     miclan þearfe,  
-ac hy scamiende     scyldas bæran,  
-guðgewædu,     þær se gomela læg,  
-wlitan on Wilaf.     He gewergad sæt,  
-feðecempa,     frean eaxlum neah,  
-wehte hyne wætre;     him wiht ne speow.  
-Ne meahte he on eorðan,     ðeah he uðe wel,  
-on ðam frumgare     feorh gehealdan,  
-ne ðæs wealdendes     wiht oncirran;  
-wolde dom godes     dædum rædan  
-gumena gehwylcum,     swa he nu gen deð.  
-Þa wæs æt ðam geongan     grim ondswaru  
-eðbegete     þam ðe ær his elne forleas.  
-Wiglaf maðelode,     Weohstanes sunu,  
-sec, sarigferð     (seah on unleofe):  
-"þæt, la, mæg secgan     se ðe wyle soð specan  
-þæt se mondryhten     se eow ða maðmas geaf,  
-eoredgeatwe,     þe ge þær on standað,  
-þonne he on ealubence     oft gesealde  
-healsittendum     helm ond byrnan,  
-þeoden his þegnum,     swylce he þrydlicost  
-ower feor oððe neah     findan meahte,  
-þæt he genunga     guðgewædu  
-wraðe forwurpe,     ða hyne wig beget.  
-Nealles folccyning     fyrdgesteallum  
-gylpan þorfte;     hwæðre him god uðe,  
-sigora waldend,     þæt he hyne sylfne gewræc  
-ana mid ecge,     þa him wæs elnes þearf.  
-Ic him lifwraðe     lytle meahte  
-ætgifan æt guðe,     ond ongan swa þeah  
-ofer min gemet     mæges helpan;  
-symle wæs þy sæmra,     þonne ic sweorde drep  
-ferhðgeniðlan,     fyr unswiðor  
-weoll of gewitte.     Wergendra to lyt  
-þrong ymbe þeoden,     þa hyne sio þrag becwom.  
-Nu sceal sincþego     ond swyrdgifu,  
-eall eðelwyn     eowrum cynne,  
-lufen alicgean;     londrihtes mot  
-þære mægburge     monna æghwylc  
-idel hweorfan,     syððan æðelingas  
-feorran gefricgean     fleam eowerne,  
-domleasan dæd.     Deað bið sella  
+Ða ic snude gefrægn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Wihstanes  
+æfter wordcwydum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundum dryhtne  
+hyran heaðosiocum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringnet beran,  
+brogdne beadusercean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under beorges hrof.  
+Geseah ða sigehreðig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he bi sesse geong,  
+magoþegn modig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maððumsigla fealo,  
+gold glitinian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grunde getenge,  
+wundur on wealle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þæs wyrmes denn,  
+ealdes uhtflogan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;orcas stondan,  
+fyrnmanna fatu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feormendlease,  
+hyrstum behrorene;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær wæs helm monig  
+eald ond omig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earmbeaga fela  
+searwum gesæled.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sinc eaðe mæg,  
+gold on grunde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumcynnes gehwone  
+oferhigian,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyde se ðe wylle.  
+Swylce he siomian geseah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;segn eallgylden  
+heah ofer horde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hondwundra mæst,  
+gelocen leoðocræftum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of ðam leoma stod,  
+þæt he þone grundwong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongitan meahte,  
+wræte giondwlitan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs ðæs wyrmes þær  
+onsyn ænig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac hyne ecg fornam.  
+Ða ic on hlæwe gefrægn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord reafian,  
+eald enta geweorc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anne mannan,  
+him on bearm hladon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bunan ond discas  
+sylfes dome;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;segn eac genom,  
+beacna beorhtost.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bill ær gescod  
+(ecg wæs iren)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdhlafordes  
+þam ðara maðma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mundbora wæs  
+longe hwile,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ligegesan wæg  
+hatne for horde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hioroweallende  
+middelnihtum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðþæt he morðre swealt.  
+Ar wæs on ofoste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eftsiðes georn,  
+frætwum gefyrðred;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyne fyrwet bræc,  
+hwæðer collenferð&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cwicne gemette  
+in ðam wongstede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedra þeoden  
+ellensiocne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he hine ær forlet.  
+He ða mid þam maðmum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mærne þioden,  
+dryhten sinne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;driorigne fand  
+ealdres æt ende;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he hine eft ongon  
+wæteres weorpan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðþæt wordes ord  
+breosthord þurhbræc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+gomel on giohðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(gold sceawode):  
+"Ic ðara frætwa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frean ealles ðanc,  
+wuldurcyninge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordum secge,  
+ecum dryhtne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe ic her on starie,  
+þæs ðe ic moste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minum leodum  
+ær swyltdæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylc gestrynan.  
+Nu ic on maðma hord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine bebohte  
+frode feorhlege,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fremmað gena  
+leoda þearfe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne mæg ic her leng wesan.  
+Hatað heaðomære&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlæw gewyrcean  
+beorhtne æfter bæle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt brimes nosan;  
+se scel to gemyndum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minum leodum  
+heah hlifian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on Hronesnæsse,  
+þæt hit sæliðend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan hatan  
+Biowulfes biorh,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða ðe brentingas  
+ofer floda genipu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorran drifað."  
+Dyde him of healse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hring gyldenne  
+þioden þristhydig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þegne gesealde,  
+geongum garwigan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;goldfahne helm,  
+beah ond byrnan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;het hyne brucan well:  
+"þu eart endelaf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;usses cynnes,  
+Wægmundinga.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ealle wyrd forsweop  
+mine magas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to metodsceafte,  
+eorlas on elne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic him æfter sceal."  
+Þæt wæs þam gomelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gingæste word  
+breostgehygdum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær he bæl cure,  
+hate heaðowylmas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him of hreðre gewat  
+sawol secean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;soðfæstra dom.  
+Ða wæs gegongen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guman unfrodum  
+earfoðlice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he on eorðan geseah  
+þone leofestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lifes æt ende  
+bleate gebæran.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bona swylce læg,  
+egeslic eorðdraca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdre bereafod,  
+bealwe gebæded.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beahhordum leng  
+wyrm wohbogen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wealdan ne moste,  
+ac hine irenna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ecga fornamon,  
+hearde, heaðoscearde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;homera lafe,  
+þæt se widfloga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundum stille  
+hreas on hrusan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hordærne neah.  
+Nalles æfter lyfte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lacende hwearf  
+middelnihtum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maðmæhta wlonc  
+ansyn ywde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he eorðan gefeoll  
+for ðæs hildfruman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hondgeweorce.  
+Huru þæt on lande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lyt manna ðah,  
+mægenagendra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine gefræge,  
+þeah ðe he dæda gehwæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dyrstig wære,  
+þæt he wið attorsceaðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oreðe geræsde,  
+oððe hringsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hondum styrede,  
+gif he wæccende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weard onfunde  
+buon on beorge.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biowulfe wearð  
+dryhtmaðma dæl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deaðe forgolden;  
+hæfde æghwæðer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende gefered  
+lænan lifes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs ða lang to ðon  
+þæt ða hildlatan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;holt ofgefan,  
+tydre treowlogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tyne ætsomne.  
+Ða ne dorston ær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dareðum lacan  
+on hyra mandryhtnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;miclan þearfe,  
+ac hy scamiende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scyldas bæran,  
+guðgewædu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær se gomela læg,  
+wlitan on Wilaf.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He gewergad sæt,  
+feðecempa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frean eaxlum neah,  
+wehte hyne wætre;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him wiht ne speow.  
+Ne meahte he on eorðan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðeah he uðe wel,  
+on ðam frumgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorh gehealdan,  
+ne ðæs wealdendes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiht oncirran;  
+wolde dom godes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dædum rædan  
+gumena gehwylcum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he nu gen deð.  
+Þa wæs æt ðam geongan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grim ondswaru  
+eðbegete&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þam ðe ær his elne forleas.  
+Wiglaf maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weohstanes sunu,  
+sec, sarigferð&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(seah on unleofe):  
+"þæt, la, mæg secgan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe wyle soð specan  
+þæt se mondryhten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se eow ða maðmas geaf,  
+eoredgeatwe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe ge þær on standað,  
+þonne he on ealubence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oft gesealde  
+healsittendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm ond byrnan,  
+þeoden his þegnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce he þrydlicost  
+ower feor oððe neah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;findan meahte,  
+þæt he genunga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðgewædu  
+wraðe forwurpe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða hyne wig beget.  
+Nealles folccyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrdgesteallum  
+gylpan þorfte;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæðre him god uðe,  
+sigora waldend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he hyne sylfne gewræc  
+ana mid ecge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa him wæs elnes þearf.  
+Ic him lifwraðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lytle meahte  
+ætgifan æt guðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond ongan swa þeah  
+ofer min gemet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæges helpan;  
+symle wæs þy sæmra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne ic sweorde drep  
+ferhðgeniðlan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyr unswiðor  
+weoll of gewitte.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wergendra to lyt  
+þrong ymbe þeoden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa hyne sio þrag becwom.  
+Nu sceal sincþego&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond swyrdgifu,  
+eall eðelwyn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eowrum cynne,  
+lufen alicgean;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;londrihtes mot  
+þære mægburge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;monna æghwylc  
+idel hweorfan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan æðelingas  
+feorran gefricgean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fleam eowerne,  
+domleasan dæd.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deað bið sella  
   
-eorla gehwylcum     þonne edwitlif!"  
-Heht ða þæt heaðoweorc     to hagan biodan  
-up ofer ecgclif,     þær þæt eorlweorod  
-morgenlongne dæg     modgiomor sæt,  
-bordhæbbende,     bega on wenum,  
-endedogores     ond eftcymes  
-leofes monnes.     Lyt swigode  
-niwra spella     se ðe næs gerad,  
-ac he soðlice     sægde ofer ealle:  
-"Nu is wilgeofa     Wedra leoda,  
-dryhten Geata,     deaðbedde fæst,  
-wunað wælreste     wyrmes dædum.  
-Him on efn ligeð     ealdorgewinna  
-sexbennum seoc;     sweorde ne meahte  
-on ðam aglæcean     ænige þinga  
-wunde gewyrcean.     Wiglaf siteð  
-ofer Biowulfe,     byre Wihstanes,  
-eorl ofer oðrum     unlifigendum,  
-healdeð higemæðum     heafodwearde  
-leofes ond laðes.     Nu ys leodum wen  
-orleghwile,     syððan underne  
-Froncum ond Frysum     fyll cyninges  
-wide weorðeð.     Wæs sio wroht scepen  
-heard wið Hugas,     syððan Higelac cwom  
-faran flotherge     on Fresna land,  
-þær hyne Hetware     hilde genægdon,  
-elne geeodon     mid ofermægene,  
-þæt se byrnwiga     bugan sceolde,  
-feoll on feðan,     nalles frætwe geaf  
-ealdor dugoðe.     Us wæs a syððan  
-Merewioingas     milts ungyfeðe.  
-Ne ic to Sweoðeode     sibbe oððe treowe  
-wihte ne wene,     ac wæs wide cuð  
-þætte Ongenðio     ealdre besnyðede  
-Hæðcen Hreþling     wið Hrefnawudu,  
-þa for onmedlan     ærest gesohton  
-Geata leode     Guðscilfingas.  
-Sona him se froda     fæder Ohtheres,  
-eald ond egesfull,     ondslyht ageaf,  
-abreot brimwisan,     bryd ahredde,  
-gomela iomeowlan     golde berofene,  
-Onelan modor     ond Ohtheres,  
-ond ða folgode     feorhgeniðlan,  
-oððæt hi oðeodon     earfoðlice  
-in Hrefnesholt     hlafordlease.  
-Besæt ða sinherge     sweorda lafe,  
-wundum werge,     wean oft gehet  
-earmre teohhe     ondlonge niht,  
-cwæð, he on mergenne     meces ecgum  
-getan wolde,     sum on galgtreowum  
-fuglum to gamene.     Frofor eft gelamp  
-sarigmodum     somod ærdæge,  
-syððan hie Hygelaces     horn ond byman,  
-gealdor ongeaton,     þa se goda com  
-leoda dugoðe     on last faran.  
+eorla gehwylcum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne edwitlif!"  
+Heht ða þæt heaðoweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hagan biodan  
+up ofer ecgclif,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær þæt eorlweorod  
+morgenlongne dæg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;modgiomor sæt,  
+bordhæbbende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bega on wenum,  
+endedogores&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond eftcymes  
+leofes monnes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lyt swigode  
+niwra spella&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe næs gerad,  
+ac he soðlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sægde ofer ealle:  
+"Nu is wilgeofa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedra leoda,  
+dryhten Geata,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deaðbedde fæst,  
+wunað wælreste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrmes dædum.  
+Him on efn ligeð&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdorgewinna  
+sexbennum seoc;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweorde ne meahte  
+on ðam aglæcean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænige þinga  
+wunde gewyrcean.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wiglaf siteð  
+ofer Biowulfe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byre Wihstanes,  
+eorl ofer oðrum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unlifigendum,  
+healdeð higemæðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heafodwearde  
+leofes ond laðes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu ys leodum wen  
+orleghwile,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan underne  
+Froncum ond Frysum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyll cyninges  
+wide weorðeð.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs sio wroht scepen  
+heard wið Hugas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan Higelac cwom  
+faran flotherge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on Fresna land,  
+þær hyne Hetware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hilde genægdon,  
+elne geeodon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid ofermægene,  
+þæt se byrnwiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bugan sceolde,  
+feoll on feðan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalles frætwe geaf  
+ealdor dugoðe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Us wæs a syððan  
+Merewioingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;milts ungyfeðe.  
+Ne ic to Sweoðeode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sibbe oððe treowe  
+wihte ne wene,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac wæs wide cuð  
+þætte Ongenðio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdre besnyðede  
+Hæðcen Hreþling&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wið Hrefnawudu,  
+þa for onmedlan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ærest gesohton  
+Geata leode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guðscilfingas.  
+Sona him se froda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæder Ohtheres,  
+eald ond egesfull,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ondslyht ageaf,  
+abreot brimwisan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bryd ahredde,  
+gomela iomeowlan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;golde berofene,  
+Onelan modor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond Ohtheres,  
+ond ða folgode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorhgeniðlan,  
+oððæt hi oðeodon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earfoðlice  
+in Hrefnesholt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlafordlease.  
+Besæt ða sinherge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweorda lafe,  
+wundum werge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wean oft gehet  
+earmre teohhe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ondlonge niht,  
+cwæð, he on mergenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meces ecgum  
+getan wolde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sum on galgtreowum  
+fuglum to gamene.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frofor eft gelamp  
+sarigmodum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;somod ærdæge,  
+syððan hie Hygelaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;horn ond byman,  
+gealdor ongeaton,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa se goda com  
+leoda dugoðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on last faran.  
   
-Wæs sio swatswaðu     Sweona ond Geata,  
-wælræs weora     wide gesyne,  
-hu ða folc mid him     fæhðe towehton.  
-Gewat him ða se goda     mid his gædelingum,  
-frod, felageomor,     fæsten secean,  
-eorl Ongenþio,     ufor oncirde;  
-hæfde Higelaces     hilde gefrunen,  
-wlonces wigcræft,     wiðres ne truwode,  
-þæt he sæmannum     onsacan mihte,  
-heaðoliðendum     hord forstandan,  
-bearn ond bryde;     beah eft þonan  
-eald under eorðweall.     Þa wæs æht boden  
-Sweona leodum,     segn Higelaces  
-freoðowong þone     forð ofereodon,  
-syððan Hreðlingas     to hagan þrungon.  
-Þær wearð Ongenðiow     ecgum sweorda,  
-blondenfexa,     on bid wrecen,  
-þæt se þeodcyning     ðafian sceolde  
-Eafores anne dom.     Hyne yrringa  
-Wulf Wonreding     wæpne geræhte,  
-þæt him for swenge     swat ædrum sprong  
-forð under fexe.     Næs he forht swa ðeh,  
-gomela Scilfing,     ac forgeald hraðe  
-wyrsan wrixle     wælhlem þone,  
-syððan ðeodcyning     þyder oncirde.  
-Ne meahte se snella     sunu Wonredes  
-ealdum ceorle     ondslyht giofan,  
-ac he him on heafde     helm ær gescer,  
-þæt he blode fah     bugan sceolde,  
-feoll on foldan;     næs he fæge þa git,  
-ac he hyne gewyrpte,     þeah ðe him wund hrine.  
-Let se hearda     Higelaces þegn  
-bradne mece,     þa his broðor læg,  
-eald sweord eotonisc,     entiscne helm  
-brecan ofer bordweal;     ða gebeah cyning,  
-folces hyrde,     wæs in feorh dropen.  
-Ða wæron monige     þe his mæg wriðon,  
-ricone arærdon,     ða him gerymed wearð  
-þæt hie wælstowe     wealdan moston.  
-Þenden reafode     rinc oðerne,  
-nam on Ongenðio     irenbyrnan,  
-heard swyrd hilted     ond his helm somod,  
-hares hyrste     Higelace bær.  
-He ðam frætwum feng     ond him fægre gehet  
-leana mid leodum,     ond gelæste swa;  
-geald þone guðræs     Geata dryhten,  
-Hreðles eafora,     þa he to ham becom,  
-Iofore ond Wulfe     mid ofermaðmum,  
-sealde hiora gehwæðrum     hund þusenda  
-landes ond locenra beaga     (ne ðorfte him ða lean oðwitan  
-mon on middangearde),     syððan hie ða mærða geslogon,  
-ond ða Iofore forgeaf     angan dohtor,  
-hamweorðunge,     hyldo to wedde.  
-Þæt ys sio fæhðo     ond se feondscipe,  
-wælnið wera,     ðæs ðe ic wen hafo,  
-þe us seceað to     Sweona leoda,  
-syððan hie gefricgeað     frean userne  
-ealdorleasne,     þone ðe ær geheold  
-wið hettendum     hord ond rice  
-æfter hæleða hryre,     hwate Scildingas,  
-folcred fremede     oððe furður gen  
-eorlscipe efnde.     Nu is ofost betost  
-þæt we þeodcyning     þær sceawian  
-ond þone gebringan,     þe us beagas geaf,  
-on adfære.     Ne scel anes hwæt  
-meltan mid þam modigan,     ac þær is maðma hord,  
-gold unrime     grimme geceapod,  
-ond nu æt siðestan     sylfes feore  
-beagas gebohte.     þa sceall brond fretan,  
-æled þeccean,     nalles eorl wegan  
-maððum to gemyndum,     ne mægð scyne  
-habban on healse     hringweorðunge,  
-ac sceal geomormod,     golde bereafod,  
-oft nalles æne     elland tredan,  
-nu se herewisa     hleahtor alegde,  
-gamen ond gleodream.     Forðon sceall gar wesan  
-monig, morgenceald,     mundum bewunden,  
-hæfen on handa,     nalles hearpan sweg  
-wigend weccean,     ac se wonna hrefn  
-fus ofer fægum     fela reordian,  
-earne secgan     hu him æt æte speow,  
-þenden he wið wulf     wæl reafode."  
-Swa se secg hwata     secggende wæs  
-laðra spella;     he ne leag fela  
-wyrda ne worda.     Weorod eall aras;  
-eodon unbliðe     under Earnanæs,  
-wollenteare     wundur sceawian.  
-Fundon ða on sande     sawulleasne  
-hlimbed healdan     þone þe him hringas geaf  
-ærran mælum;     þa wæs endedæg  
-godum gegongen,     þæt se guðcyning,  
-Wedra þeoden,     wundordeaðe swealt.  
-Ær hi þær gesegan     syllicran wiht,  
-wyrm on wonge     wiðerræhtes þær  
-laðne licgean;     wæs se legdraca  
-grimlic, gryrefah,     gledum beswæled.  
-Se wæs fiftiges     fotgemearces  
-lang on legere,     lyftwynne heold  
-nihtes hwilum,     nyðer eft gewat  
-dennes niosian;     wæs ða deaðe fæst,  
-hæfde eorðscrafa     ende genyttod.  
-Him big stodan     bunan ond orcas,  
-discas lagon     ond dyre swyrd,  
-omige, þurhetone,     swa hie wið eorðan fæðm  
-þusend wintra     þær eardodon.  
-Þonne wæs þæt yrfe,     eacencræftig,  
-iumonna gold     galdre bewunden,  
-þæt ðam hringsele     hrinan ne moste  
-gumena ænig,     nefne god sylfa,  
-sigora soðcyning,     sealde þam ðe he wolde  
-(he is manna gehyld)     hord openian,  
-efne swa hwylcum manna     swa him gemet ðuhte.  
+Wæs sio swatswaðu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweona ond Geata,  
+wælræs weora&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide gesyne,  
+hu ða folc mid him&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæhðe towehton.  
+Gewat him ða se goda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid his gædelingum,  
+frod, felageomor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæsten secean,  
+eorl Ongenþio,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ufor oncirde;  
+hæfde Higelaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hilde gefrunen,  
+wlonces wigcræft,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiðres ne truwode,  
+þæt he sæmannum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;onsacan mihte,  
+heaðoliðendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord forstandan,  
+bearn ond bryde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beah eft þonan  
+eald under eorðweall.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs æht boden  
+Sweona leodum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;segn Higelaces  
+freoðowong þone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð ofereodon,  
+syððan Hreðlingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hagan þrungon.  
+Þær wearð Ongenðiow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ecgum sweorda,  
+blondenfexa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on bid wrecen,  
+þæt se þeodcyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðafian sceolde  
+Eafores anne dom.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyne yrringa  
+Wulf Wonreding&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæpne geræhte,  
+þæt him for swenge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swat ædrum sprong  
+forð under fexe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs he forht swa ðeh,  
+gomela Scilfing,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac forgeald hraðe  
+wyrsan wrixle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wælhlem þone,  
+syððan ðeodcyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þyder oncirde.  
+Ne meahte se snella&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Wonredes  
+ealdum ceorle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ondslyht giofan,  
+ac he him on heafde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm ær gescer,  
+þæt he blode fah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bugan sceolde,  
+feoll on foldan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs he fæge þa git,  
+ac he hyne gewyrpte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ðe him wund hrine.  
+Let se hearda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelaces þegn  
+bradne mece,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa his broðor læg,  
+eald sweord eotonisc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;entiscne helm  
+brecan ofer bordweal;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða gebeah cyning,  
+folces hyrde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs in feorh dropen.  
+Ða wæron monige&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe his mæg wriðon,  
+ricone arærdon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða him gerymed wearð  
+þæt hie wælstowe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wealdan moston.  
+Þenden reafode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rinc oðerne,  
+nam on Ongenðio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;irenbyrnan,  
+heard swyrd hilted&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his helm somod,  
+hares hyrste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelace bær.  
+He ðam frætwum feng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond him fægre gehet  
+leana mid leodum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond gelæste swa;  
+geald þone guðræs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata dryhten,  
+Hreðles eafora,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he to ham becom,  
+Iofore ond Wulfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid ofermaðmum,  
+sealde hiora gehwæðrum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hund þusenda  
+landes ond locenra beaga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ne ðorfte him ða lean oðwitan  
+mon on middangearde),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan hie ða mærða geslogon,  
+ond ða Iofore forgeaf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;angan dohtor,  
+hamweorðunge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyldo to wedde.  
+Þæt ys sio fæhðo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond se feondscipe,  
+wælnið wera,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðæs ðe ic wen hafo,  
+þe us seceað to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweona leoda,  
+syððan hie gefricgeað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frean userne  
+ealdorleasne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone ðe ær geheold  
+wið hettendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord ond rice  
+æfter hæleða hryre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwate Scildingas,  
+folcred fremede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe furður gen  
+eorlscipe efnde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu is ofost betost  
+þæt we þeodcyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær sceawian  
+ond þone gebringan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe us beagas geaf,  
+on adfære.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne scel anes hwæt  
+meltan mid þam modigan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac þær is maðma hord,  
+gold unrime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grimme geceapod,  
+ond nu æt siðestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sylfes feore  
+beagas gebohte.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa sceall brond fretan,  
+æled þeccean,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalles eorl wegan  
+maððum to gemyndum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne mægð scyne  
+habban on healse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringweorðunge,  
+ac sceal geomormod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;golde bereafod,  
+oft nalles æne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;elland tredan,  
+nu se herewisa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hleahtor alegde,  
+gamen ond gleodream.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forðon sceall gar wesan  
+monig, morgenceald,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mundum bewunden,  
+hæfen on handa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalles hearpan sweg  
+wigend weccean,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac se wonna hrefn  
+fus ofer fægum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fela reordian,  
+earne secgan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hu him æt æte speow,  
+þenden he wið wulf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæl reafode."  
+Swa se secg hwata&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secggende wæs  
+laðra spella;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he ne leag fela  
+wyrda ne worda.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weorod eall aras;  
+eodon unbliðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under Earnanæs,  
+wollenteare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundur sceawian.  
+Fundon ða on sande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sawulleasne  
+hlimbed healdan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone þe him hringas geaf  
+ærran mælum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa wæs endedæg  
+godum gegongen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt se guðcyning,  
+Wedra þeoden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundordeaðe swealt.  
+Ær hi þær gesegan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syllicran wiht,  
+wyrm on wonge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiðerræhtes þær  
+laðne licgean;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs se legdraca  
+grimlic, gryrefah,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gledum beswæled.  
+Se wæs fiftiges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fotgemearces  
+lang on legere,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lyftwynne heold  
+nihtes hwilum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nyðer eft gewat  
+dennes niosian;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs ða deaðe fæst,  
+hæfde eorðscrafa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende genyttod.  
+Him big stodan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bunan ond orcas,  
+discas lagon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond dyre swyrd,  
+omige, þurhetone,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hie wið eorðan fæðm  
+þusend wintra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær eardodon.  
+Þonne wæs þæt yrfe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eacencræftig,  
+iumonna gold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;galdre bewunden,  
+þæt ðam hringsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hrinan ne moste  
+gumena ænig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nefne god sylfa,  
+sigora soðcyning,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sealde þam ðe he wolde  
+(he is manna gehyld)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord openian,  
+efne swa hwylcum manna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him gemet ðuhte.  
   
-Þa wæs gesyne     þæt se sið ne ðah  
-þam ðe unrihte     inne gehydde  
-wræte under wealle.     Weard ær ofsloh  
-feara sumne;     þa sio fæhð gewearð  
-gewrecen wraðlice.     Wundur hwar þonne  
-eorl ellenrof     ende gefere  
-lifgesceafta,     þonne leng ne mæg  
-mon mid his magum     meduseld buan.  
-Swa wæs Biowulfe,     þa he biorges weard  
-sohte, searoniðas;     seolfa ne cuðe  
-þurh hwæt his worulde gedal     weorðan sceolde.  
-Swa hit oð domes dæg     diope benemdon  
-þeodnas mære,     þa ðæt þær dydon,  
-þæt se secg wære     synnum scildig,  
-hergum geheaðerod,     hellbendum fæst,  
-wommum gewitnad,     se ðone wong strude,  
-næs he goldhwæte     gearwor hæfde  
-agendes est     ær gesceawod.  
-Wiglaf maðelode,     Wihstanes sunu:  
-"Oft sceall eorl monig     anes willan  
-wræc adreogan,     swa us geworden is.  
-Ne meahton we gelæran     leofne þeoden,  
-rices hyrde,     ræd ænigne,  
-þæt he ne grette     goldweard þone,  
-lete hyne licgean     þær he longe wæs,  
-wicum wunian     oð woruldende;  
-heold on heahgesceap.     Hord ys gesceawod,  
-grimme gegongen;     wæs þæt gifeðe to swið  
-þe ðone þeodcyning     þyder ontyhte.  
-Ic wæs þær inne     ond þæt eall geondseh,  
-recedes geatwa,     þa me gerymed wæs,  
-nealles swæslice     sið alyfed  
-inn under eorðweall.     Ic on ofoste gefeng  
-micle mid mundum     mægenbyrðenne  
-hordgestreona,     hider ut ætbær  
-cyninge minum.     Cwico wæs þa gena,  
-wis ond gewittig;     worn eall gespræc  
-gomol on gehðo     ond eowic gretan het,  
-bæd þæt ge geworhton     æfter wines dædum  
-in bælstede     beorh þone hean,  
-micelne ond mærne,     swa he manna wæs  
-wigend weorðfullost     wide geond eorðan,  
-þenden he burhwelan     brucan moste.  
-Uton nu efstan     oðre siðe,  
-seon ond secean     searogimma geþræc,  
-wundur under wealle;     ic eow wisige,  
-þæt ge genoge     neon sceawiað  
-beagas ond brad gold.     Sie sio bær gearo,  
-ædre geæfned,     þonne we ut cymen,  
-ond þonne geferian     frean userne,  
-leofne mannan,     þær he longe sceal  
-on ðæs waldendes     wære geþolian."  
-Het ða gebeodan     byre Wihstanes,  
-hæle hildedior,     hæleða monegum,  
-boldagendra,     þæt hie bælwudu  
-feorran feredon,     folcagende,  
-godum togenes:     "Nu sceal gled fretan,  
-weaxan wonna leg     wigena strengel,  
-þone ðe oft gebad     isernscure,  
-þonne stræla storm     strengum gebæded  
-scoc ofer scildweall,     sceft nytte heold,  
-feðergearwum fus     flane fulleode."  
-Huru se snotra     sunu Wihstanes  
-acigde of corðre     cyninges þegnas  
-syfone tosomne,     þa selestan,  
-eode eahta sum     under inwithrof  
-hilderinca;     sum on handa bær  
-æledleoman,     se ðe on orde geong.  
-Næs ða on hlytme     hwa þæt hord strude,  
-syððan orwearde     ænigne dæl  
-secgas gesegon     on sele wunian,  
-læne licgan;     lyt ænig mearn  
-þæt hi ofostlice     ut geferedon  
-dyre maðmas.     Dracan ec scufun,  
-wyrm ofer weallclif,     leton weg niman,  
-flod fæðmian     frætwa hyrde.  
-þa wæs wunden gold     on wæn hladen,  
-æghwæs unrim,     æþeling boren,  
-har hilderinc     to Hronesnæsse.  
+Þa wæs gesyne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt se sið ne ðah  
+þam ðe unrihte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inne gehydde  
+wræte under wealle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weard ær ofsloh  
+feara sumne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa sio fæhð gewearð  
+gewrecen wraðlice.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wundur hwar þonne  
+eorl ellenrof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende gefere  
+lifgesceafta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne leng ne mæg  
+mon mid his magum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meduseld buan.  
+Swa wæs Biowulfe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he biorges weard  
+sohte, searoniðas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seolfa ne cuðe  
+þurh hwæt his worulde gedal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorðan sceolde.  
+Swa hit oð domes dæg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;diope benemdon  
+þeodnas mære,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa ðæt þær dydon,  
+þæt se secg wære&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;synnum scildig,  
+hergum geheaðerod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hellbendum fæst,  
+wommum gewitnad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðone wong strude,  
+næs he goldhwæte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearwor hæfde  
+agendes est&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær gesceawod.  
+Wiglaf maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wihstanes sunu:  
+"Oft sceall eorl monig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anes willan  
+wræc adreogan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa us geworden is.  
+Ne meahton we gelæran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofne þeoden,  
+rices hyrde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ræd ænigne,  
+þæt he ne grette&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;goldweard þone,  
+lete hyne licgean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he longe wæs,  
+wicum wunian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oð woruldende;  
+heold on heahgesceap.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hord ys gesceawod,  
+grimme gegongen;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs þæt gifeðe to swið  
+þe ðone þeodcyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þyder ontyhte.  
+Ic wæs þær inne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þæt eall geondseh,  
+recedes geatwa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa me gerymed wæs,  
+nealles swæslice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sið alyfed  
+inn under eorðweall.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic on ofoste gefeng  
+micle mid mundum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenbyrðenne  
+hordgestreona,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hider ut ætbær  
+cyninge minum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cwico wæs þa gena,  
+wis ond gewittig;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worn eall gespræc  
+gomol on gehðo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond eowic gretan het,  
+bæd þæt ge geworhton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfter wines dædum  
+in bælstede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorh þone hean,  
+micelne ond mærne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he manna wæs  
+wigend weorðfullost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide geond eorðan,  
+þenden he burhwelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brucan moste.  
+Uton nu efstan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðre siðe,  
+seon ond secean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;searogimma geþræc,  
+wundur under wealle;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic eow wisige,  
+þæt ge genoge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;neon sceawiað  
+beagas ond brad gold.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sie sio bær gearo,  
+ædre geæfned,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne we ut cymen,  
+ond þonne geferian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frean userne,  
+leofne mannan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he longe sceal  
+on ðæs waldendes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wære geþolian."  
+Het ða gebeodan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byre Wihstanes,  
+hæle hildedior,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hæleða monegum,  
+boldagendra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie bælwudu  
+feorran feredon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folcagende,  
+godum togenes:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Nu sceal gled fretan,  
+weaxan wonna leg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigena strengel,  
+þone ðe oft gebad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;isernscure,  
+þonne stræla storm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strengum gebæded  
+scoc ofer scildweall,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceft nytte heold,  
+feðergearwum fus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flane fulleode."  
+Huru se snotra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Wihstanes  
+acigde of corðre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cyninges þegnas  
+syfone tosomne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa selestan,  
+eode eahta sum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under inwithrof  
+hilderinca;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sum on handa bær  
+æledleoman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe on orde geong.  
+Næs ða on hlytme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwa þæt hord strude,  
+syððan orwearde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænigne dæl  
+secgas gesegon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sele wunian,  
+læne licgan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lyt ænig mearn  
+þæt hi ofostlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ut geferedon  
+dyre maðmas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dracan ec scufun,  
+wyrm ofer weallclif,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leton weg niman,  
+flod fæðmian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frætwa hyrde.  
+þa wæs wunden gold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on wæn hladen,  
+æghwæs unrim,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþeling boren,  
+har hilderinc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to Hronesnæsse.  
   
-Him ða gegiredan     Geata leode  
-ad on eorðan     unwaclicne,  
-helmum behongen,     hildebordum,  
-beorhtum byrnum,     swa he bena wæs;  
-alegdon ða tomiddes     mærne þeoden  
-hæleð hiofende,     hlaford leofne.  
-Ongunnon þa on beorge     bælfyra mæst  
-wigend weccan;     wudurec astah,  
-sweart ofer swioðole,     swogende leg  
-wope bewunden     (windblond gelæg),  
-oðþæt he ða banhus     gebrocen hæfde,  
-hat on hreðre.     Higum unrote  
-modceare mændon,     mondryhtnes cwealm;  
-swylce giomorgyd     Geatisc meowle  
+Him ða gegiredan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leode  
+ad on eorðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unwaclicne,  
+helmum behongen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildebordum,  
+beorhtum byrnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he bena wæs;  
+alegdon ða tomiddes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mærne þeoden  
+hæleð hiofende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlaford leofne.  
+Ongunnon þa on beorge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bælfyra mæst  
+wigend weccan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wudurec astah,  
+sweart ofer swioðole,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swogende leg  
+wope bewunden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(windblond gelæg),  
+oðþæt he ða banhus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gebrocen hæfde,  
+hat on hreðre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higum unrote  
+modceare mændon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mondryhtnes cwealm;  
+swylce giomorgyd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geatisc meowle  
     bundenheorde  
-song sorgcearig     swiðe geneahhe  
-þæt hio hyre heofungdagas     hearde ondrede,  
-wælfylla worn,     werudes egesan,  
-hynðo ond hæftnyd.     Heofon rece swealg.  
-Geworhton ða     Wedra leode  
-hleo on hoe,     se wæs heah ond brad,  
-wægliðendum     wide gesyne,  
-ond betimbredon     on tyn dagum  
-beadurofes becn,     bronda lafe  
-wealle beworhton,     swa hyt weorðlicost  
-foresnotre men     findan mihton.  
-Hi on beorg dydon     beg ond siglu,  
-eall swylce hyrsta,     swylce on horde ær  
-niðhedige men     genumen hæfdon,  
-forleton eorla gestreon     eorðan healdan,  
-gold on greote,     þær hit nu gen lifað  
-eldum swa unnyt     swa hit æror wæs.  
-Þa ymbe hlæw riodan     hildediore,  
-æþelinga bearn,     ealra twelfe,  
-woldon ceare cwiðan     ond kyning mænan,  
-wordgyd wrecan     ond ymb wer sprecan;  
-eahtodan eorlscipe     ond his ellenweorc  
-duguðum demdon,     swa hit gedefe bið  
-þæt mon his winedryhten     wordum herge,  
-ferhðum freoge,     þonne he forð scile  
-of lichaman     læded weorðan.  
-Swa begnornodon     Geata leode  
-hlafordes hryre,     heorðgeneatas,  
-cwædon þæt he wære     wyruldcyninga  
-manna mildust     ond monðwærust,  
-leodum liðost     ond lofgeornost.
+song sorgcearig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swiðe geneahhe  
+þæt hio hyre heofungdagas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hearde ondrede,  
+wælfylla worn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;werudes egesan,  
+hynðo ond hæftnyd.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heofon rece swealg.  
+Geworhton ða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedra leode  
+hleo on hoe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se wæs heah ond brad,  
+wægliðendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide gesyne,  
+ond betimbredon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on tyn dagum  
+beadurofes becn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bronda lafe  
+wealle beworhton,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hyt weorðlicost  
+foresnotre men&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;findan mihton.  
+Hi on beorg dydon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beg ond siglu,  
+eall swylce hyrsta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce on horde ær  
+niðhedige men&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;genumen hæfdon,  
+forleton eorla gestreon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorðan healdan,  
+gold on greote,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær hit nu gen lifað  
+eldum swa unnyt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hit æror wæs.  
+Þa ymbe hlæw riodan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildediore,  
+æþelinga bearn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealra twelfe,  
+woldon ceare cwiðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond kyning mænan,  
+wordgyd wrecan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond ymb wer sprecan;  
+eahtodan eorlscipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his ellenweorc  
+duguðum demdon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hit gedefe bið  
+þæt mon his winedryhten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordum herge,  
+ferhðum freoge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne he forð scile  
+of lichaman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læded weorðan.  
+Swa begnornodon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leode  
+hlafordes hryre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorðgeneatas,  
+cwædon þæt he wære&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyruldcyninga  
+manna mildust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond monðwærust,  
+leodum liðost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond lofgeornost.
