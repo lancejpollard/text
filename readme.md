@@ -103,6 +103,8 @@ This is a collection of texts from all different types of literature. Here is a 
 - Consitution
 - Thousand and One Arabian Nights
 
+### Unicode Text Collection
+
 This contains a Hebrew text collection in Unicode (UTF8), the Apocrypha text in unicode, the Talmud text in unicode, the Tanakh text in unicode, the Midrash text in unicode, and the Mishnah text in unicode.
 
 It contains a Sanskrit collection in unicode too. The Rig Veda text in sanskrit unicode, the Mahabharata text in sanskrit unicode, and the Puranas text in sanskrit unicode.
