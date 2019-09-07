@@ -21,9 +21,9 @@
 <br/>
 <br/>
 
-<h3 align="center">8</h3>
+<h3 align="center">8-text</h3>
 <p align="center">
-  Open Data Collections
+  Public Domain Text Collections
 </p>
 
 <br/>
@@ -175,3 +175,16 @@ git checkout -b enneads/english
 - https://la.wikisource.org/wiki/De_Magia
 - https://la.wikisource.org/wiki/Philosophiae_Naturalis_Principia_Mathematica
 - https://la.wikisource.org/wiki/Experimenta_circa_effectum_conflictus_electrici_in_acum_magneticam
+- https://www.fourmilab.ch/etexts/einstein/specrel/www/
+- https://sacred-texts.com/pag/index.htm
+- http://shakespeare.mit.edu/
+- https://en.wikisource.org/wiki/The_Wisdom_of_the_Ancients
+- https://en.wikisource.org/wiki/Meditationes_sacrae
+- http://www.alchemywebsite.com/bloomfld.html
+- http://www.alchemywebsite.com/paracel2.html
+- http://www.alchemywebsite.com/paracel3.html
+- http://www.alchemywebsite.com/sophfire.html
+- http://www.alchemywebsite.com/aesch.html
+- https://ganjoor.net/iqbal/payam-mashregh/
+- https://ganjoor.net/asadi/garshaspname/
+- https://ganjoor.net/jami/7ourang/kh7/
