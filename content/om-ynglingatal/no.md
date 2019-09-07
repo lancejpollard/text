@@ -3,28 +3,40 @@
 <div class='block'>
 <p class='block'>At Ynglingatal ikke er fuldstændig optaget i Ynglingasaga, turde være almindelig antaget og synes at fremgå af følgende omstændigheder.</p>
 <p class='block'>1) Ynglingatal kan, selv om det havde opstillet Fjölnir som den første i rækken (men se neden for, nr. 5), sikkert ikke have begyndt med verset Varð framgengt | þars fróði bjó osv., Ynglingasaga kap. 14, men må vistnok have haft en art indledning. At f. ex. det så kaldte Þórsdrápa savner en sådan, beviser intet herimod, da "Þórsdrápa" åbenbart kun er et brudstykke; hvilket også Wisén antager ("Carmina Norræna" side 30).</p>
+
 <p class='block'>2) Verset Þat veitk bazt | und blám himni osv., Ynglingasaga kap. 55, kan, i følge sit indhold (— det omhandler kun tilnavnet "heiðum-hár" —), neppe antages at have udgjort den hele slutning. — Hertil kommer nu, at Fríssbók's skriver har, som det synes i distraction efter hukommelsen, til dette vers føiet følgende fortsættelse:</p>
+
 <div class='block'>
 <div class='line'>z mıllð geð;</div>
 <div class='line'>mkar ð°ttíy,</div>
 </div>
+
 <p class='block'>uden at udslette denne "visufjórðungr", eller give nogen antydning af, at den burde udgå. Det lader således til, at Ynglingatal ved år 1300 ikke har været indskrænket til de 360 "vísuorð", der findes anførte i Ynglingasaga. Dog kunde de to sidste verslinier i Fríssbók's Ynglingatal naturligvis være indkomne fra et andet digt. — I forbigående bemærkes, at Flat. udg. II 6 (14-15a)  (Fms. X 209, 19-20) indskyder et liniepar imellem vísuorð 344 og 345 i Ynglingatal.</p>
+
 <p class='block'>3) Hos Oláfr hvítaskáld († 1259) findes (SnE. II 162) følgende: "þá er Metaphora aptrbeiðilig, ef hvern lut má færa til annars, þat er líkíng er á milli, sem at kalla sjóinn jörð skipa eða fiska eða sækonúnga, sem Þjóðólfr kvað:</p>
+
 <div class='block'>
 <div class='line'>Höfuðbaðm,</div>
 <div class='line'>þar er heiðsæi</div>
 <div class='line'>á Fjörnis</div>
 <div class='line'>fjöllum drygði.</div>
 </div>
+
 <p class='block'>En kalla jörð sæ dýra, sem Markús kvað:</p>
+
 <div class='block'>
 <div class='line'>Hjartfærra veit harri</div>
 <div class='line'>hreinvazta sik baztan.</div>
 </div>
+
 <p class='block'>Hér er jörð köllut vaztir, en í fyrri vísu var hafit kallat fjöll sækonúngs". — Man kender kun to skjalde af navnet Þjóðolfr, nemlig, forfatteren til Ynglingatal og Þjóðolfr Arnórsson (der, så vidt jeg husker, sidste gang omtales den 25. september 1066 i slaget ved Stamfordbridge). Da nu den sidst nævnte skjald slet ikke vides at have betjent sig af "kviðuháttr", ligger den formodning ikke fjern, at "Höfuðbaðm . . . drygði " er forfattet af Þjóðolfr ór Hvini, hvad enten det har hørt til Ynglingatal, eller til det digt om Harald hårfagre, hvoraf Flat. udg. I 567—568 citerer et par vers, vistnok i en for en del forvansket form, eller måske til et tredje nu for øvrigt forsvundet kvad.</p>
+
 <p class='block'>4) I fortalen til Heimskringla findes et sted, der i P. A. Munch's oversættelse lyder således: "Thjodolf hin Frode (den Kyndige) fra Hvin var Harald Haarfagres Skald; han digtede ogsaa et Kvæde om Kong Ragnvald Heidumhærre (højere end Heider), hvilket heder Ynglingatal... I dette Kvæde nævnes 30 af Ragnvalds Forfædre, og fortælles om enhver Enkelts Død og Gravsted". — Men det Ynglingatal, der er bevaret i Ynglingasaga, omhandler i virkeligheden kun 7 fyrsters gravsteder. (De syv fyrster ere : Vanlandi, Dómarr, Yngvarr, Halfdanr I og II, Eysteinn II, Áleifr II.) Nu er det vel så, at det sted, der gemte de andres jordiske levninger, i nogle tilfælde kan siges at være givet ved selve dødsmåden. En sten lukkede sig efter Svegðir (eller Sveigðir), der således forsvandt. Önundr blev dræbt af et stenskred, hvoraf han måske ikke kunde udgraves. Og når en mand blev indebrændt således, at der af bygning og mennesker intet blev tilbage uden aske (noget, der kan have været tilfældet med: Visburr, Eysteinn I, Ingjaldr), blev der måske ikke opkastet nogen gravhøi. Men i de tilfælde, hvor Ynglingasaga tilføier i prosa, f. ex.: "Váru þeir Álfr ok Yngvi heygðir á Fyrisvöllum" (Heimskringia ved Unger side 19, 17), "ok er hann heygðr at Uppsölum". (ib. 23, 16-17 og 25, 17), er dette dog måske taget af Ynglingatal.</p>
+
 <p class='block'>5) Det Ynglingatal, der indeholdes i Ynglingasaga, opregner ikke 30, men kun 26, af Ragnvalds forfædre, d.v.s., af hans langfeðgar (hvilket er originalens udtryk). Men formodentlig har dette digt (jf. Íslendingabók, begyndelsen af andet tillæg) begyndt med: Yngvi, Njörðr, Frayr. Og Heimskringlas forfatter synes at have medregnet Ragnvald, for at få det runde tal 30.</p>
+
 <p class='block'>Versarten i Ynglingatal er ikke "fornyrðislag", men hvad Oláfr hvítaskáld (SnE. II 98) kalder "kviðuháttr", d. v. s., den versform, Sievers, Skaldenmetrik II 291, betegner ved "Drei- und viersilbler abwechselnd". Dette verselag var ikke meget almindeligt. Men deri er dog forfattet t. ex.: 1) Ynglingatal. — 2) Háleygjatal Eyvindar. — 3) Arínbjarnardrápa Egils, — 4) Sunatorrek Egils. — 5) Glælognskviða Þórarins loftungu. — 6) Hákonarkviða Sturlu Þórðarsonar. — 7) To vers i Gislasaga ("Tvær sögur" side 39 og 124), nemlig:</p>
+
 <div class='block'>
 <div class='line'>Myndit þau</div>
 <div class='line'>á þórsnesi</div>
@@ -43,55 +55,83 @@
 <div class='line'>fjarðar dags</div>
 <div class='line'>fúlu lostnir. —</div>
 </div>
+
 <p class='block'>8) Et halvt vers (4 vísuorð) af Þorvaldr blönduskáld, SnE. I 2448-12.</p>
+
 <p class='block'>9) Femten og et halvt vers (124 vísuorð) Grett 2. side 59-60 og 120-122 (jf. Fbr. 2 side 4) og 124-125 og 143-145.</p>
+
 <p class='block'>10) Háttatal Snorra 102. — Det er åbenbart kun i mangel af en correct og bekvem betegnelse, og fordi "fornyrðislag" og "kviðuháttr' nærme sig hinanden i versliniernes korthed, at "kviða" er bleven anvendt i sammensætninger som : Hýmiskviða, Þrymskviða, osv. — Man har endog udvidet betydningen i "kviða" således, at det er bleven brugt om en versart, der i metrisk henseende er "dróttkvætt". Se benævnelsen "kviðan skjálfhenda" SnE. I 646, 10.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. (2) 1220-23 b (Ynglingatal verslinie 5-8),</p>
+
 <div class='block'>
 <div class='line'>ok sikling</div>
 <div class='line'>Svigðis geira</div>
 <div class='line'>vágr vindlauss</div>
 <div class='line'>um viða skyldi,</div>
 </div>
+
 <p class='block'>ser i de håndskrifter, jeg har anledning og leilighed til her at benytte, således ud:</p>
+
 <p class='block'>Kringla i AM. folio 35</p>
+
 <div class='block'>
 <div class='line'>z ſıc1ing</div>
 <div class='line'>Svıgþis geıra</div>
 <div class='line'>vágr vınðlvs</div>
 <div class='line'>ṽ vıða ſcylðe.</div>
 </div>
+
 <p class='block'>(Af de 7 "i"er ere, som man ser, 3 forsynede med en prik. Men den første af disse prikker står i virkeligheden ikke over "i", men over "c".)</p>
+
 <p class='block'>[AM. folio 37 er her kun en afskrift af Kringla i AM. folio 35, og uden nytte.]</p>
+
 <p class='block'>Jöfraskinna i AM. folio 38</p>
+
 <div class='block'>
 <div class='line'>oc ſık1ing</div>
 <div class='line'>ſurgþ geira</div>
 <div class='line'>vagr vinðlavſs</div>
 <div class='line'>of vıða ſkyllde.</div>
 </div>
+
 <p class='block'>(Af de 6 "i"er ere, som man ser, 3 forsynede med en prik. Men denne er overalt sat på et galt sted.)</p>
+
 <p class='block'>Fríssbók</p>
+
 <div class='block'>
 <div class='line'>z ſíg | lıńg</div>
 <div class='line'>ſvrgð geíra.</div>
 <div class='line'>vargr vindlaꜻís</div>
 <div class='line'>oF vıða ſkýllðr.</div>
 </div>
+
 <p class='block'>Det første bogstav er i skindbogen ikke "z", men et tegn, der har nogen lighed dermed. Det acuttegn, der gelder det sidste "ᛁ" i "z ſig | ńg", er kommet til at stå over det første træk af "n". Prikken over "y" står her (og mange andre steder, både i denne og andre membraner) ikke over midten, men over det første træk, af "y".</p>
+
 <p class='block'>Med hensyn til egentlige feil er forholdet imellem de tre håndskrifter i anførte vísuhelmingr følgende.</p>
+
 <p class='block'>Jöfraskinna står øverst og er vistnok uden feil. Ti det er urigtigt, når Heimskringla Kh. I 18 note 7 ligefrem angiver, at D (= Jöfraskinna i 38) har "Svigdir". Ligesom, for exempel, "ýrþ" i Konungs-edda til SnE. I 712, 1 (se nærværende Bemærkninger side 188 note 1) må læses yrðis, således må vistnok Jöfraskinnas "ſuigjþ" betyde svigðis — skønt "þ" i almindelighed ikke har samme betydning som "ꝥ"  (hvilket sidste, i øvrigt, heller ikke pleier at betyde þis eller ðis).</p>
+
 <p class='block'>Kringla frembyder "v" i steden for (Jöfraskinnas og Fríssbóks) OF, hvilket sidste synes at burde foretrækkes.</p>
+
 <p class='block'>Fríssbók har tre feil: 1) skrivefeilen i "ſig|  lrħg", hvor det første "g" synes at være en falsk reflex af det sidste; 2) "&#0383vrgð i steden for svigðis; 3) vargr i steden for vágr.</p>
+
 <p class='block'>Jeg skal ikke her indlade mig på verbet viða, hvis betydning i det væsentlige er klar. (Peringskiöld i sin latinske oversættelse [1697] synes at gengive "um viða" ved cingere lignets trabibus".)</p>
+
 <p class='block'>Andre spørgsmål træde i forgrunden. Hvad betyder Svigðis eller Svigðis? Og hvad betyder geira?</p>
+
 <p class='block'>Hvorledes have nu afskrivere, udgivere, oversættere, fortolkere, lexicographer, osv., stillet sig til disse spørgsmål?</p>
+
 <p class='block'>I Jöfraskinna og Fríssbók, hos Jens Mortensson (1594) og Peder Claussön (1638) og Jón Rugman (1670), i J. Peringskiöld's text (1697), i sammes latinske oversættelse (samme år), i Magnus Stephensen's textudgave (1804), i N. F. S. Grundtvig's oversættelse (1818) kan man ikke engang se, om svigðis er bleven opfattet som et egennavn eller som et fællesnavn. — Grundene hertil ere forskellige. 1) Ligesom andre skindbøger bruge Jöfraskinnaog Fríssbók meget ofte et lille bogstav i begyndelsen af egennavne. 2) J. Mortensson og P. Claussön og J. Rugman udelade verset. 3) I Peringskiöld's og M. Stephensen's text  begynder enhver verslinie med et stort bogstav. 4) Peringskiöld's latinske oversættelse synes at udelade ordene svigðis geira. 5) N. F. S. Grundtvig's meget frie oversættelse nøies her med at fremstille hovedsagen (i en meget tiltalende, og noget idealiseret, skikkelse).</p>
+
 <p class='block'>I AM. folio 35 (Kringla), i Hkr. ved Unger (1868), i den upsalske udgave af Heimskringla (1870), i "Monumenta historica Norvegiæ" ved G. Storm (1880) er skrevet Svigðis, og i Wisén's "Carmina Norræna" (1880) Svegðis, naturligvis uden at det kan ses, hvilken bestemt genstand der menes.</p>
+
 <p class='block'>I Heimskringla Kh. I (1777) side 18, 64 står "ſvigdis" og (vistnok som følge deraf) i den stockholmske udgave (1816) "svigdis").</p>
+
 <p class='block'>I følgende fire oversættelser</p>
+
 <div class='block'>
 <div class='line'>a) "Cum Regem</div>
 <div class='line'>Svioniæ,</div>
@@ -99,6 +139,7 @@
 <div class='line'>Cingens, letho dabat</div>
 <div class='line'>Hkr. Kh. I (1777);</div>
 </div>
+
 <div class='block'>
 <div class='line'>b) Als dem hohen</div>
 <div class='line'>Herrscher Swithjods</div>
@@ -106,6 +147,7 @@
 <div class='line'>Welle den Tod gab</div>
 <div class='line'>G. Mohnike (1837);</div>
 </div>
+
 <div class='block'>
 <div class='line'>c) And when brave Frode came, he found</div>
 <div class='line'>Swithiod's dark chief, Fiolner, drowned.</div>
@@ -113,6 +155,7 @@
 <div class='line'>Drowned in a waveless, windless sea"</div>
 <div class='line'>S. Laing (1844);</div>
 </div>
+
 <div class='block'>
 <div class='line'>d) Og Svithjods</div>
 <div class='line'>Styrer skulde</div>
@@ -120,175 +163,274 @@
 <div class='line'>sin Bane finde</div>
 <div class='line'>P. A. Munch (1859)</div>
 </div>
+
 <p class='block'>synes de ved spærret skrift udhævede ord at svare til sikling svigðis geira. Men der tilføies ingen oplysning på noget af disse steder; hvor man følgelig savner enhver antydning af, hvorledes siklingr svigðis geira kan komme til at betyde hersker over Svitjod.</p>
+
 <p class='block'>De øvrige steder ere følgende, i chronologisk orden.</p>
+
 <p class='block'>1) Peringskiöld's svenske oversættelse (1697):</p>
+
 <div class='block'>
 <div class='line'>"När Swea-Konungen</div>
 <div class='line'>Swegdis Fader</div>
 <div class='line'>I ett stilla Miöd-kar</div>
 <div class='line'>Stiälptes och drunckna"</div>
 </div>
+
 <p class='block'>2) Heimskringla Kh. I (1777):</p>
+
 <div class='block'>
 <div class='line'>"Konningen</div>
 <div class='line'>Ofuer Odins Landskab</div>
 <div class='line'>Den stille Siö (Miödkarrit)</div>
 <div class='line'>Skulde felde."</div>
 </div>
+
 <p class='block'>3) Konunga-Sagor af Snorre Sturleson. Öfwersättning. Stockholm (1816):</p>
+
 <div class='block'>
 <div class='line'>"Då Konungen</div>
 <div class='line'>Öfwer Odens Land</div>
 <div class='line'>I windlös sjö (Mjödkaret)</div>
 <div class='line'>Falla skulle."</div>
 </div>
+
 <p class='block'>4) Heimskringla Kh. VI (1826):</p>
+
 <div class='block'>
 <div class='line'>"Ordo:... oc Svegdis geira vindlaufs vagr ſkylldi of vida ſikling."</div>
 </div>
+
 <p class='block'>Versio:... et b) unda ventis inaccessa oppressit Sveciæ regem.
 Glossa: b) siklingr svegdis geira rex Sveciæ, svegdis geiri segmentum, portio Svegderis, olim Sveciæ Regis.</p>
+
 <p class='block'>5) Ferd. Wachter, Snorri Sturluson's Weltkreis übersetzt und erläutert (1835):</p>
+
 <div class='block'>
 <div class='line'>"Und den Siegerspross</div>
 <div class='line'>Der Speere Swigdir's'</div>
 <div class='line'>Die windlose Woge</div>
 <div class='line'>Abwalden sollte."</div>
 </div>
+
 <p class='block'>6) Jacob Aall's oversættelse af Heimskringla (1838):</p>
+
 <div class='block'>
 <div class='line'>"Døden fandt</div>
 <div class='line'>i vindids Vove</div>
 <div class='line'>Kongen over</div>
 <div class='line'>Svegders Kreds".</div>
 </div>
+
 <p class='block'>7) Antiquités Russes I 257—258 (1850):</p>
+
 <div class='block'>
 <div class='line'>"nam in fatis erat,</div>
 <div class='line'>ut sinus, venti expers,</div>
 <div class='line'>imperatorem agri</div>
 <div class='line'>Odinii opprimeret."</div>
 </div>
+
 <p class='block'>Hertil føies følgende "constructio" og forklaring af originalen til denne oversættelse: ok vindlaus vagrβ skyldi of viðay síkling Svigðis geirað.</p>
+
 <p class='block'>8) Carl Säve, Snorre Sturlesons Ynglinga-Saga tolkad och upplyst (1854):</p>
+
 <p class='block'>9) Lexicon poëticum 229b, 29-39 (1860): 1) geiri, m., ignis 2) segmentum panni vel terræ, figurá triquetra Germ. Gehre. — a) braccæ...  — β) terra, Svigðis geiri, terra Svigderis (Odinis), Svecia, Ý. 14 (AR (3), I  258.</p>
+
 <p class='block'>10) Samme værk 801, b,15-23: Svigðir, m., Odin, id. qu. svegðir: Svigðis geiri segmentum Odinis, pars terræ territorium Odinis, Svecia, siklingr Svigðis geira, rex Sveciæ, y. 14. Aut est id. qu. sigðir, inserto v, aut potator (Angl. swig, magnis haustihus hibere), propter mulsvm poëticum, tribus haustihus evacuatis vasis: Odrere, Sona et Bodna, SE. I 222. cfr. AR. I 254.</p>
+
 <p class='block'>11) Skalde-kvadene i Ynglinge-saga, meddelte efter Fríssbók og gengivne af G. Lund (1866):</p>
+
 <p class='block'>Hertil ere følgende anmærkninger føiede:</p>
+
 <p class='block'>"sikling" er en almind. digterisk benævnelse af "konge". Når Fjölner kaldes sikling af Svigðis ɔ: Odins land (geiri), da menes dermed Sverig. Men da navnet ellers ikke forekommer om Odin har dels Säve dels Egilsson forsøgt andre forklaringer der dog synes noget langtfra hentede. Efter Heimskr. VI (F. Magnusen) er Sv. navn på en gammel svensk konge. — For vágr har hdskr. her "vargr".</p>
+
 <p class='block'>12) Konunga-Boken öfversatt och forklarad af Hildebrand (1869):</p>
+
 <div class='block'>
 <div class='line'>På sikling öfver</div>
 <div class='line'>Svigdes land</div>
 <div class='line'>vindlös våg</div>
 <div class='line'>vinna skulle.</div>
 </div>
+
 <p class='block'>Svigde är ett af Odins namnn.</p>
+
 <p class='block'>13) Icelandic-English Dictionary side 608 a 30-31 (1874): Svegðir, m. one of the names of Odin, as also of a Swed. mythical king, Edda Yngl. S.</p>
+
 <p class='block'>Oversættelsen nr. 1 fjerner sig meget fra originalen. "Miöd-karet" hidrører sikkert fra Ynglingasagas prosaiske beretning. Og enten "Swea-" eller "Sweydis Fader" må være indsat alene for at tjene til udfyldning af den tilsigtede versform. Skal "Swea-" være en gengivelse af "Svigþis geira", er geira måske allerede her opfattet i bemærkelsen land, hvorom neden for. Men hvis det er "Swegdis Fader" der skal svare til " Svigþis geira", synes det sidste ord (geira) at være af oversætteren tænkt i etymologisk forbindelse med verbet gera (i steden for gerva) og, for så vidt betydningen angår, identificeret med gervir, som om dette nomen agentis kunde betyde genitor! Men så plumpt vilde sikkert ingen skjald have udtrykt sig i et æredigt, ja neppe i et nidvers.</p>
+
 <p class='block'>Hvad de øvrige nummere angår, gengives geira</p>
+
 <p class='block'>1) ved landskab (nr. 2) eller kreds (nr. 6) eller land (nr. 3, 8, U, 12). Men ingen har dog vel nogen sinde påstået, at enten geirr (gen. plur. geira) eller geiri (gen. sing.-plur. geira) i øvrigt ligefrem skulde have haft nogen af disse bemærkelser. Forholdet er formodentlig følgende. Oversættelsen landskab i nr. 2 er udsprunget af sammenhængens tilsyneladende nødvendighed. Nr. 3 holder sig til nr. 2. Nr. 6 holder sig, med en lille rettende forandring, til nr. 4 (se neden for). Nr. 8 vakler imellem nr. 2 og nr. 7 (se neden for) på den ene og nr. 4 eller nr. 6 på den anden side (men betræder desuden en ny vei). Nr. 11 holder sig til nr. 2 og 7 og 9—10 (se neden for), men anfører dog opfatningen i nr. 4. Nr. 12 folger nr. 2 og 7 og 9-10.</p>
+
 <p class='block'>2) ved segmentum (nr. 4). Her begynder man at gå til bunds i betydningen af geiri. Men geiri betyder ikke ligefrem segmentnm. Og det er derfor, at S. Egilsson oversatte geiri</p>
+
 <p class='block'>3) ved segmentum angulare (nr. 7), segmentum figura triquetra (nr. 9). Man tør vel sige, at geiri, uden tvivl afledet af geirr (spyd), overhovedet kan betegne "ethvert stykke, der i sin form har en vis lighed enten med en spydsod (den horizontalt afskårne spids af et spydblad) eller med et spydblad". Men herfra er der et betydeligt spring til terra (nr. 7 og 9) eller solum (nr. 7) eller ager (nr. 7) eller pars terrae (nr. 10) eller territorium (nr. 10). Når nr. 7 opstiller aparticula glebæ oblonga som en art mellemled imellem asegmentum angularen og uterra, så forekommer dette (denne opstilling) mig at være noget vildledende. Ti hvad nr. 7 betegner ved "particula glebæ oblonga" kan dog vist ikke være andet, end spydbladets langagtige form i mer eller mindre fri overførelse på et stykke jord. Man kan i virkeligheden lige så godt tale f. ex. om skygeiri, som om landgeiri eller grasgeiri. Stoffet spiller nemlig ingen rolle i betydningen af ordet geiri, hvorimod formen alene er her det bestemmende. Heraf turde nu følge, at geiri hverken kan betyde land eller landskab (eller lignende) i almindelighed, eller portio (nr. 4) i almindelighed, men kun et land — eller landskab (eller lignende) eller en portio — af den ene eller den anden af de oven for (side 198, 18— 199, 1) angivne former. Kun hvis det var givet, eller i det mindste meget sandsynligt, at Tjodolv havde tænkt sig: a) en "Svigðir" som en fyrste, der i tiden for Fjölnir havde hersket over Svitjod; b) dette Svitjod som et land af formen geiri — kunde "Svigðis geiri") antages at betyde "Svigdis land".</p>
+
 <p class='block'>4) ved der Speere (nr. 5) og spjutens (nr. 8), i det geira (på disse steder) er bleven taget som gen. plur. af geirr, spyd. Antageligheden af denne opfatning vil bero på betydningen af svigðis. — Så meget kan imidlertid her bemærkes, at "der König der Speere Swigðir´s" i intet tilfælde synes at kunne betyde den svenske konge. Nr. 5 tager ikke hensyn til kendingernes natur, og af denne grund må dette nr. i det væsentlige her forbigås. —</p>
+
 <p class='block'>Ordet "svigðir" (gen. sing. svigðis) tillægger man følgende bemærkelser.</p>
+
 <p class='block'>1) en gammel svensk konge, i nr. 4 (jf. nr. 11) i ordene "portio Svegderis, olim Sveciæ Regis". Men hvad vil dette "olim" sige? Også her (se nærværende Bemærkninger side 198 note-) er nr. 4 forvirret. Ynglingatal kender nemlig kun én fyrste af navnet Svegðir, og denne levede ikke "olim", i forhold til Fjölnir, men var en søn af denne.</p>
+
 <p class='block'>2) nys nævnte Svegðir, søn af Fjölnir. Denne opfatning findes i nr. 6 (jf. nr. 8). Men vilde det dog ikke være besynderligt — når ikke noget ganske særegent derved skulde antydes eller udtrykkes — at betegne en fyrste ved omskrivningen "hersker over sin søns land"?</p>
+
 <p class='block'>3) nr. 2—3 samt 7—12 ere enige i, at, ligesom geiri betyder land eller lign.(!), således er også svigðir et af Odens navne, og at svigðis geiri følgelig er eller kan være = Odens land = Svitjod. Lad os nu antage, at svigðir virkelig var et af Odens navne. Ynglingasaga opstiller rigtig nok Oden som stifter af riget Svitjod. Men er det gyldig grund til at antage, at Ynglingatal har gjort det samme? eller overhovedet anset Oden for at have været en svensk fyrste? Det er i alt fald overmåde tvivlsomt, om Odens land vilde passe i nærværende sammenhæng (Ynglingatal 1, 5-8).</p>
+
 <p class='block'>Ikke alene i nr. 2—3 samt 7 - 12, men også i nr. 5 (3) finder man den mening, at Oden hed blandt andet svigðir. Kilden til denne mening er, efter al sandsynlighed, selve ordrækken sikling svigðis geira, i det John Olafsen (Jón Ólafsson), da han i 1777 (eller noget før) skulde oversætte disse ord, har ment at måtte, i henhold til Ynglingasaga, tillægge dem betydningen konge over Odens landskab. Da samme forfatter, i 1786, udgav sit bekendte fortjenstfulde værk, "Nordens gamle Digtekonst", hvori han, side 132 (§ 100), havde optaget følgende "vísuhelmingr":</p>
+
 <div class='block'>
 <div class='line'>Þann er áðr frá irum</div>
 <div class='line'>id-vandr of kom ſkídum,</div>
 <div class='line'>ſalbrigdandi ſvegdis</div>
 <div class='line'>ſvan-vángs lidi þángat",</div>
 </div>
+
 <p class='block'>forklarede han, i den værket vedføiede "Mantissa", "Svegdir" ligeledes ved "Othinus" , formodentlig af den grund, at han, ligesom andre i en senere tid (Wachter, Aall, S. Egilsson, Säve), har identificeret svigðir og svegðir med hinanden. I begyndelsen har den mening, at svigðir var Oden, neppe kunnet hæve sig til at blive overbevisning. Men da man trode at have gjort den opdagelse, at svegðir var Oden, så har man fundet, det lå temmelig nær, at holde svigðir og svegðir for to udtalemåder af et og samme ord. Unegtelig er den phonetiske forskel imellem svigðir og svegðir ikke synderlig stor. Men den er ikke større, for exempel, imellem oldnord.-isl. sitja (sedere) og oldn.-isl. setja (ponere), eller imellem nht. sitzen (sedere) og nht. setzen (ponere). Det er vist heller aldrig faldet nogen ind, at svigðir og svegðir ikke kunde være to forskellige ord. Og at de ere det, fremgår deraf, at alle håndskrifter (Kringla, Jöfraskinna, Fríssbók) have svigðir i det her omhandlede første vers af Ynglingatals opbevarede del, medens intet håndskrift har svigðir på noget andet sted, hverken hvor den svenske "drot" (søn af Fjölnir) er ment, eller hvor Oden antages at være ment. Skulde svigðir (i Kringla og Jöfraskinna og Fríssbók) måske være en enstemmig skrivfeil i steden for svegðir = óðinn? Jeg vil her slet ikke tale om, at óðinn, efter min anskuelse (se oven for, side 200 note), neppe tør antages at passe i sammenhængen. Men hvor finder man svegðir som et navn på Oden? Svar: i den oven for (side 201), efter "Nordens gamle Digtekonst"), anførte "vísuhelmingr", hvor Jón Ólafsson har taget svegðir som en betegnelse for Oden, uden i øvrigt at indlade sig på nogen nærmere forklaring. Jeg har allerede (side 201 note) bemærket, at enten Finn Magnusen eller snarere Jón Ólafsson selv har opgivet denne tydning. Men S. Egilsson har igen optaget den, ikke alene på de oven for (side 195 og 196, under nr. 7 og 9—10) anførte steder, men også Lex. poët. 796 b 23-20, hvor det hedder: Svegðir, m., nomen Odinis (id. qu. Svigðir, cfr. formas sveigðir, sigðir, sigþær; Svegðis salr camera Odinis, testudo olipeorum (skjaldborg, cfr. SE. I 420), it. clipei, vide salbrigðandi, Hg. 9. Hkr. Tom. VI h. 1. Svegðir accipit de Svegdere, R. Sv.filio Fjölneris, et Svegðis salr atrium Svegderis, de montibus Norvegiæ quæ ratio mihi non satis firma videtur.  Om salbrigðandi hedder det Lex. poët. 679b 34-37: salbrigðandi, m., cameram movens, quatiens (salr, brigða); Svegðis s. clipeum movens, præliator, vir, a Svegðis salr camera Odininis, clipeus (SE, I 420), Hg. 9. — Efterser man SnE. I 420, læser man der (Skáldskaparmál kap. 49 begynd.) følgende: "Vápn ok herklæði skal kenna til orostu, ok til Óðins ok valmeyja ok herkónunga, kalla hjálm hött eða fald, en brynju serk eða skyrtu, en skjöld tjald, ok skjaldborgin er köllut höll ok ræfr, veggr ok gölf". Heraf følger, at svegðir i salbrigðandi svegðis ikke behøver at betyde Oden, men kan lige så gerne være navn på en herkonungr. At dette sidste i virkeligheden er tilfældet, synes håndskrifterne på det tydeligste at godtgøre, i det de fremstille kendingen salbrigðandi svegðis i følgende skrivemåder. 1) Kringla (i AM. folio 35): "falbrygðandi", "ſvegðıs". 2) Jöfraskinna i AM. folio 37: "falb'gþanðe ſvergðes". 3) Jöfraskinna i AM. folio 38: "ſalbrigðandi ſveigðıs". 4) Fríssbók: "fal brigðandr ſveigðıs". (Hertil slutter sig AM. folio 61, med "ſal-b´gðandr ſuergdrſ", og Flateyjarbok, med "falb'gðande fueigðizſt".) Ynglingasaga kap. 15—16 kalder nemlig den tit nævnte drot af Ynglinga-slægten, søn af Fjölnir og fader til Vanlandi: 1) i Kringla overalt svegðir, men 2) i Jöfraskinna og Fríssbók overalt sveigðir). Og det står i det mindste for mig som noget utvivlsomt, at ligesom Ynglingatal (Ynglingasaga kap. 54) bruger udtrykket herkonungr om nr. 29, 5 i Ynglinga-rækken (Aleifr geirstaðaalfr), således mener Guthormr sindri, i verset i "Hg. 9" (= Heimskr. Hák. góð. kap. 9), nr. 5 (5) i Ynglinga-rækken. Foruden denne fyrste vides intet i hele den oldnordiske litteratur at være bleven betegnet enten ved svegðir eller ved sveigðir, endsige ved begge disse former.</p>
+
 <p class='block'>Efter min anskuelse bør sigðir, sigðær, svegðir, sveigðir, svigðir adskilles på følgende måde.</p>
+
 <p class='block'>A) sigðir (SnE. II 556 = sigðær (SnE. II 472, 11b, et af Odens navne. (Lydrækken "sig" i "sigðir" = "sigðær" er måske identisk med sig f. ex. i følgende navne på Oden: sigföðr, sigmundr, sigtryggr, sigþrór. — Om dette forholder sig så, eller ikke, er i øvrigt ligegyldigt med hensyn til de her omhandlede spørgsmål.)</p>
+
 <p class='block'>B) svegðir. Således kalder Ari fróði og "Historia Norwegiæi" og Kringla den femte fyrste af  Ynglinga-slægten.</p>
+
 <p class='block'>C) sveigðir. Således kalder Jöfraskinna og Fríssbók og AM. folio 61 og Flateyjarbok den femte fyrste af Ynglinga-slægten. Navnene svegdir og sveigðir betegne altså et og det samme.</p>
+
 <p class='block'>D) svigðir, oxe. (Den etymologiske betydning af svigðir turde snarest være den krumhornede. — Men spørgsmålet herom ligger uden for nærværende undersøgelse.)</p>
+
 <p class='block'>Den så tidlig bortkaldte Carl Säve synes at være den eneste, hvem det er faldet ind, at svigðir kunde betyde oxe (se oven for, side 195—196). Skønt uenig med ham i meget angående opfatningen af "sikling svigðis geira", må jeg glæde mig over hans rigtige blik. Dog er jeg nødt til at gå et skridt videre, end Säve, og påstå, at svigðir ikke alene kunde betyde oxe, men at det endog må betyde det. Jeg kan nemlig ikke se rettere, end at denne opfatning er overhovedet den eneste mulige. Og dersom den mening virkelig indeholdes i Ynglingatal, ligesom ikke blot i Ynglingasaga, men også i "Historia Norwegiæ", at Fjölnir er omkommen i et mjødkar, er det meget usandsynligt, at den gamle skjald skulde have meddelt beretningen om en så overordentlig skebne i så skødesløse udtryk, at hørere og læsere måtte antage, at denne fyrste var druknet på søen i stille veir; og det uagtet Ynglingatals hovedopgave netop er, at fremstille hver enkelt fyrstes dødsmåde. — Man vil måske indvende, at svigðir aldrig forekommer i bemærkelsen oxe. Det er ganske rigtigt. Men det forekommer heller ikke i nogen anden betydning. Og det er slet ikke påfaldende, at en litteratur, som Nordboernes gamle poetiske, hvoraf så uendelig meget må være gået til grunde, frembyder adskillige απαξ ξοημξ. Et andet απαξ ξιρημξνον er, f. ex., sveiðuðr (Kringla) eller sveiðurr (Jöfraskinna og Fríssbók). Jeg anfører her netop dette ord, 1) fordi det, ligesom svigðir, forekommer i Ynglingatal (Ynglingasaga kap. 29); 2) fordi det, ligesom svigðir, betyder oxe — uden at (så vidt mig bekendt) nogen har forvexlet det med Oden (skønt sveiðuðr og sveiðurr har betydelig phonetisk lighed med sviður og sviðuðr, der er et af denne guds mange navne; 3) fordi det, ligesom svigðir, findes i en kending for "drikkehorn".  Så vel sveiðuðr, eller sveiðurr, som svigðir er "ókennt heiti" af den poetiske art.</p>
+
 <p class='block'>Når en skjald vilde danne en kending for "horn" (på eller af dyr) i almindelighed, lå det, som det synes, nærmest af alt, at kalde "hornet" hovedets (eller pandens, el. lign.) træ.</p>
+
 <p class='block'>Af denne art er kendingen viðr hauss, med tilføiet "sannkenning": bjúgviðr hauss, Krákumál 25, 5-6: drekkum bjór at bragði |ór bjúgviðum hausa. Det er, tror jeg, bleven ytret, at dette bjúgviðgvir  hausa kunde betyde hjerneskaller. Og husker jeg ikke feil, stammer denne ytring fra en høist udmærket mand. Men forholder det sig således, turde den bero på et løst indfald, da en slig opfatning synes aldeles uantagelig, som stridende imod kendingernes natur, på grund af den store forskel imellem formen af en hjerneskal og formen af et træ. Selv om det kunde godtgøres, at vore forfædre havde ladet Enherjerne drikke af hovedskaller, var dermed intet bevist. Udtrykket bjúgviðir hausa måtte da have sin grund i en afvigende forestillingsmåde. Der kan fremdeles neppe være tvivl om, at der med bjúgviðir hausa menes "oxehorn", skønt Krákumál 25 ikke indeholder nogen nærmere bestemmelse. I omskrivninger af "drikkehorn" føie skjaldene ellers til en kending for "horn i almindelighed", ofte genetiv af en betegnelse ("ókennt heiti" eller kenning eller lignende) for oxe. Således Egill Skallagrimsson (sagaen kap. 44 vers 2):  Þau vel ek orð til eyrna | óðs dýrs við'ar rota, hvor det synes fuldkommen klart, at, som Dr. Scheviug har antaget,  óðs dýrs svarer til yra Eg. kap. 44 vers 3.</p>
+
 <p class='block'>En hyppigere kending for drikkehorn, end oxehovedets — oxepandens — træ, synes oxehovedets eller oxepandens — oftere ligefrem oxens — sværd eller spyd at have været. Man finder således</p>
+
 <p class='block'>1) Íslendingadrápa 16: hæfis ∪  hauss ∪ fleinn. Jf. : "drekkum allt af uxa | enni geira hlenni" Fas. II 337.</p>
+
 <p class='block'>2) hos Egill Skallagrimsson (sagaen kap. 44 vers 3): ýra (uroχernes)  atgeirar (plural). — I selve det korte Ynglingatal findes (foruden svigðis∩geirr) følgende kendinger af denne art: okhreins∩ lögðir (Yngl. -saga kap. 29); sveiðuðs∩mækir (ib.); hjarðar∩ mækir (ib.) Hertil kommer nu, i samme digt, et par kendinger for "horn på en tyrs hoved", nemlig: farra ∩ trjónu∩ flæmingr´´ (hvorom neden for) og hæfis∩hjörr (Yngl.- saga kap. 30).</p>
+
 <p class='block'>Kendingen svigðis∩ geira ∩vágr stemmer overens f. ex. med: hornflæðr Gisli Súrsson (Tvær sögur side 59, 12 osv.); hornstraumr Eysteinn Valdason (SnE. I 254) osv.; horna∩brim Háttatal 25; horna∩fors Steinþórr (SnE. I 238, 4); horna∩sund Egill Skall. (sagaen kap. 74 vers 3); horna∩(hrein)tjarnir Háttatal 24; ýra∩atgeira∩ýring Eg. Skall. (sagaen kap. 44 vers 3). Med vágr især jf. allra meina (el. striða) heilivágr Sturla Þórðarson (Fms. X 20, 17 Flat. udg. III 171, 13a).</p>
+
 </div>
 <div class='block'>
 <h2 class='section'>TILLÆG.</h2>
 <p class='block'>Foruden de oven for som exempler anførte kvad, ere også følgende forfattede i kviðuháttr.</p>
+
 <p class='block'>1) Noregs-konunga tal, 83 erindi (664 vísuorð). Flat. udg. II 520—528.</p>
+
 <p class='block'>2) Fem erindi (40 vísuorð) i Stjörnuoddadraumr, NO. XXVII 116—117.</p>
+
 <p class='block'>3) To visurn (16 vísuorð) af Oddi hinn litli, Flat. udg. II 486—487. Linien "só1u signuð" må formodentlig ændres til sólu signd.</p>
+
 <p class='block'>4) En visa (8 vísuorð) af Egill Skallagrimsson (sagaen kap. 64). Denne visa har vel oprindelig lydt: Esomka leitt,  | þó at ljotr sé, | hjalma klett,  | hilmir þiggja.  | hvar's sá's gat | osv. Den fjerde verslinie, "af hilmi at þiggja", er nemlig, efter min opfatning, enten  — —  ∪, eller  —  —  ∪  (når "i" foran "at') elideres)  — —  — — ∪, altså for lang. Desuden, hvorfor skulde Egill, der står for kongen, i sit svar på dennes: "Men du, Egill" osv., omtale kongen, i steden for at tiltale ham?</p>
+
 <p class='block'>5) Fire vísuorð af Vémundr, søn af Hrolfr hoggvandi, Landnáma IV 12 ("Ek bar einn" osv.). (Her møder den uregelmæssighed, at fjerde linie kun består af tre stavelser; hvilket måske er oprindeligt, da det lille kvad kun er en "kviðlingr".)</p>
+
 <p class='block'>6) Fire vísuorð, nemlig: "Bar kappsamr | knútr hinn ríki | bjartan seim | und búendr", hvilke Fsk. 93 indskyder i det af Sighvatr digtede Knútsdrápa, og det på et sådant sted, at indholdet synes at passe lige så dårlig som versarten. Også her udgøre tre stavelser det fjerde vísuorð. Men det har vel oprindelig lydt: "und búandmenn"</p>
+
 <p class='block'>7) Tolv vísuorð i Oláfr hvitaskáld's sproglige afhandling (SnE. II 62—188). Nemlig: "Fór hvatráðr  hilmi  |at finna | áðr siklingr | til sættar gekk" (SnE. II 126—128, jf. 4139-8); " Konúngr kappgjarn (  — — —  ∪ ligesom f. ex. höfuð heiptrækt Ynglingatal 337)  | kostum betri, | allri þjóð | allframr konúngr" (SnE. II 146, jf. 4191-2); "Ok storhöggr  | stillir þrænda" (SnE. I 168, jf. 4223-2); "Í herská i hilmis riki." (SnE. II 170, jf. 423, 7-8).</p>
+
 <p class='block'>8) Ligeledes følgende fire vísuorð i samme afhandling SnE. II 124, jf. 413 5-6): "Þat hefi ek sagt | er sjálfr vissag; | duldr fer ek hins, er drengr þegir".</p>
+
 <p class='block'>9) følgende fire vísuorð i Saga Hrolfs kraka kap. 29 (Fas. I 57): "Grenjar skálm, | gengr úr slíðrum, | minnist hönd | hildarverka."</p>
+
 <p class='block'>De kvad (omtrent 246 vísuorð, Gautrekssaga kap. 3— 7 (Fas. III 16—37) tillægger Störkur (Stærkodder), ere i hovedsagen forfattede i fornyrðislag, men udmærke sig ved en stærk indblanding af kvíðuháttr. (Man finder omtrent 50 tre stavelsers frumorð, og i nogle af versene er kvíðuháttr regelmæssig gennemført.) Afset fra dette digt, finder man i fornyrðislag af og til verslinier på tre stavelser, ikke blot som frumorð. Man tør vel ikke negte, at på nogle steder kan sådant måske være oprindeligt, og hidrøre fra en tid, da poesiens form i det gamle Norden endnu ikke havde udviklet sig til den fasthed, der udmærker et senere oldnordisk stadium. Men kender man virkelig en smule til overleveringens beskaffenhed på dette område, kan den overbevisning ikke let udeblive, at mange, måske de allerfleste, af slige uregelmæssigheder ere enten kun tilsyneladende, eller en følge af forvanskning, skønt det rigtige i dette tilfælde som oftest ikke lader sig udfinde med fuldkommen sikkerhed; hvorfor man er nødt til at nøies med gisninger. Jeg tilføier et par på en måde sammenhørende exempler, der tilfældig falde mig ind.</p>
+
 <p class='block'>A.</p>
+
 <p class='block'>En udgiver er her meget heldig stillet. Meningen er særdeles klar, håndskrifterne mange og forholdsvis ypperlige. Ikke des mindre afvige disse fra hverandre, til dels i væsentlige punkter. I første visuorð har både Kringla og Jöfraskinna (det ikke aldeles absurde) Þá i steden for det naturlige Þat. Og havde man kun disse håndskrifter at holde sig til, måtte en indsigtsfuld udgiver enten beholde Þá (— der i øvrigt synes at hidrøre fra en ved det følgende vá foranlediget feilskrift: Þá ... vá —), meget imod sin overbevisning, eller ændre Þá til Þat, og derved udsætte sig for ubeføiet dadel. Andet vísuorð frembyder tvende uoverensstemmelser. Den ene i þótt og at, hvilke to ord, skønt begge i og for sig antagelige på nærværende sted, dog vel ikke have lydt samtidig fra Vitgeirs læber. Den anden i siðim og seiðim. Dette seiðim lyder ikke som det var ægte, d.v.s., som det var gammelt nok; og man er strax tilbøielig til at forandre seiðim til siðim, selv om denne sidste læsemåde ikke forelå her i noget håndskrift. Dertil kommer nu, hvis jeg ikke feiler, at det med seiðim overensstemmende seiðir gør femte vísuorð til et metrisk uhyre (— — — — ∪). Men hvis de håndskrifter, der have det rigtige siðr, ikke vare til, vilde man dog her (i det mindste i tankerne) tilråbe en emenderende udgiver: "Følg membranerne, AM. folio 61 osv. ! der har vi sort på hvidt! Eller, hvis sådanne håndskrifter ikke er dig gode nok, så tag seiðr — det står i den fortrinlige membran Stockh. qvarto 2!"</p>
+
 <p class='block'>Og nu det korte vísuorð, karla börn, der rigtig nok, som det synes, går igennem alle håndskrifter — ? Er det usandsynligt, at linieparret</p>
+
 <div class='block'>
 <div class='line'>karla börn</div>
 <div class='line'>ok kerlinga</div>
 </div>
+
 <p class='block'>ved en gammel, enten populariserende eller ved uagtsomhed fremkommen, forvanskning er sat i stedet for et oprindeligt</p>
+
 <div class='block'>
 <div class='line'>karla kindir</div>
 <div class='line'>ok kerlinga?</div>
 </div>
+
 <p class='block'>B.</p>
+
 <p class='block'>Linien "reptir Þórðr" sammenholder jeg med linien "es rögnvaldr síðr", og antager, at hin bør forandres til "es þórðr reptir". — Så vidt jeg tror, indeholder "Þóvaldarsun" en urigtig bøining ("Þorvaldar"), medens linien "Þorvaldz son" er en stavelse for kort. Det oprindelige var måske "Þorvalds arfi". — Læser man den ottende linie: "af kona sínum", er den for lang i metrisk henseende, og synes heller ikke at give nogen mening. Den anden form af dette visuorð er derimod metrisk rigtig. Udgiveren bemærker i en note: "thus" (nemlig: of kana) "by a slight emendation; af kana sinum, H, Br. ; kani or kanni means a cup, can, tankard, and occurs, besides here, in Band. MS., where it is however misspelt tani (t=c)". Men man venter egentlig ikke her at høre noget om kopper og kander. Man venter en modsætning til "af bola kjötvi". Skulde det ottende visuorð måske oprindelig have lydt: "af kúa sinum"? Meningen var da: "Jeg og mine kammerater (Þorgils Oddason's ringeste tjenere) ræbe af (spise os mætte i) oxekød, medens (høvdingen) Þórðr ræber af ko-sener (seit og dårligt kokød). Det var da over det nedsættende heri, Þórðr bleven vred.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 14, 5a (Ynglingatal verslinie 23) er kund (i "trollkund") bleven opfattet på forskellige måder. Jeg skal anføre de opfatninger, jeg nu har ved hånden, Heimskringla Kh. I (1777) gengiver "Trollkund" ved "Troldmands Dotter" og "magi filia". Heimskr. Kh. VI (1826) har oversættelsen "Veneficæ filia",  og tilføier som forklaring: "kundr filius, kund filia". Wachter (1835): "die Tröllentsprossene", med noten "trollkund, aus dem Geschlechte der Troll, der Zauberwesen"; hvorpå oversættelserne i Heimskr. Kh. I anføres. Antiquités Russes I 260 (1850): "tröllkund, giganteo genere orta". Säve (1854): "Den trollborna", med noten: "Isl. tröllkund Grimhildr, det med trollen beslägtade grymma väsendet" osv. P.A.Munch (1859) gengiver "tröll-kund grimhilldr" (i Heimskringla Kh. I) kun ved "Troldkvinden". Lex. poët. 479 b, 29-35 (1860): "kund, f., V. 16 , in voce compos. tröllkund, vertunt filia, qs. respondeat mase. kundr. Sic certe voluit hanc vocem accipi auctor Corvicinii"  str. 7: at kundar (gen.) "Nörva apud filiam Nörvi (apud Noctem). Potest tamen kund idem esse atque kynd proles, progenies (a kun = kyn genus)".  Hertil må dog bemærkes, at "kynd" kun synes at være en forvanskning af det "kind", der findes på et par steder i Hyndluljóð i Flateyjabók i formen kindar (se Flat. udg. I 15 a, 2-18) og SæmE. ved Bugge side 159 b 9 160 a 6). Lex. poët. 823a 16-14: "tröllkund, f. a gigantibus oriunda, giganteæ originis", i. e. "Finnica (tröll, kundr a kun, kyn"), Ý. 16.  Lund (1866) gengiver sin læsemåde,  "tröllkund Grimhilldr", ved "troldkvinden Grimhild". Men Th. Mobius har i sit "Altnordisches Glossar" (1866) følgende korte artikel: "'-kundr, adj. in: troll-kundr". Og denne opfatning forekommer mig at være den antageligste. Ti skulde ikke kund (i trollkund) høre til en stamme -kui da-? og skulde ikke denne stamme være identisk med det gotiske -kunda-, i: airjþa-kunda-, himina-kunda-, inua-kunda-, guma- kunda-, qina- -kunda-, go da- kunda-, osv. ? Uppsalaeddas "kynd" (i "alfkyndar", SnE.II 263 2b  jf 172 note 15), og "askyndar" SnE. II 263 b1b  jf. I 72 note b15) samt "kynþ" (i "goþkynþar"  SnE. II 262, 3 jf. I 72 note 12) vilde da være en ucorrect (måske blot graphisk) variation af kund (i trollkund). Og stammen -kunda- (i trollkund) vilde betyde det samme, som stammen -kunna- (i alfunnar, SnE. I 72,  12 efter Reg., og áskunnar SnE. I 72, 13 efter Reg.) samt stammen -kunniga- (i: alfkunngar, Fafn. 13, SnE. I 72 note 16; áskunngar, Fafn. 13, SnE. I 72 note 15; goðkunnig SnE. I 54, 11 jf. II 258,n 17-18, goðkunnigar SnE. I 72, 15,  "goþkunnigir" og  "guðkunnigir " SnE. I 82 12 med note).</p>
+
 <p class='block'>Det etymologiske forhold imellem stammerne -kunda og -kunna- er mig ikke klart. På den ene side forekommer det mig ikke ret sandsynligt, at -kunna- er afledet af  "kun, kyn" (med andre ord: at stammen -kunna- er afledet enten af den gotiske stamme kunja- eller af den oldnordiske kynja-). På den anden side tror jeg ikke, -kunna er fremkommet af -kunda- ved assimilation. Man kunde fristes til at tro, at den stammen -kunda- tilkommende betydning (prognato-, prognata)  allerede tidlig var bleven ligesom indpodet i stammen kunna (noto-, nota-). Og havde man først tildelt kunna- tillægsbemærkelsen þrognato-, prognata-, lå det nær at berige det med kunna- både i oprindelse og betydning nær beslægtede kunniga- på samme måde.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 14 25a (Y.-tal versl. 30: "á beði Skútu". Hvor der er tale om et rindende vands beðr, må dette ord, i følge sin natur, egentlig betegne bund og bredder (under ét). Dog viser, som det synes, udtrykket sævar beðjum á (SnE. I 94, 11), at betydningen (i beðr) er bleven indskrænket til bred.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 14, 25a (Y.-tal versl. 34) synes i det mindste alle de udgaver og fortolkninger, jeg nu har ved hånden, at finde udtrykket "vilja byrði" ganske i sin orden. Heimskringla Kh. I oversætter ligefrem legeme og corpus. De andre</p>
 <p class='block'>åndens (animi) — viljens — byrde, hvilket de forklare ved legeme. Af de tre håndskrifter have to "vilja byrði" (Kringla i AM. folio 35 "vilia byrðe", Fríssbók vilia  byrði). Og hvis denne kending var dannet i de senere kristelige århundreder, vilde den slet ikke være mig påfaldende. Men den lyder just ikke som en røst fra hedenskabet. I steden for "vilja byrði" har Jöfraskinna (i AM. folio 38) "vilia byrge"</p>
 <p class='block'>. Dette må vistnok være det oprindelige. I det trettende århundrede har man på Island måske haft Ynglingatal i en norsk afskrift, med en skrivemåde, der lignede den i 619, hvor man finder: "ſynðuðr" i st. for syndugr,  "ſtið"  i st. for stig,  "nærðrſe" i st. for næigisk  (= oldisl. hneigisk), "bozð" i st. for borg (stad). Ganske af samme art, som "bozð" i st. for borg, er skrivemåden "byrði" i st. for byrgi. — Kendingen "vilja byrgi" er næsten identisk med kendingen "vilja borg", der i Lex. poët. oversættes: under borg 1, a (side 68 b 14.13) ved arx voluntatis, peclus; under 3. vili 3 (side 880 a n) ved arx animi, corpus vel pectits. Denne vaklen imellem corpus og pectus har vel sin grund i, at skjaldepoesien, som det synes, ikke har kendt omskrivninger, der betegnede det hele legeme,  undtagen sådanne, der nærmest betød bryst, som den centrale del af legemet. — Kendingen "vilja borg" synes kun at forekomme Háttadal 51. Og det er slet ikke usandsynligt, at Tjodolvs "vilja byrgi" (bevidst eller ubevidst) har foresvævet Snorri, da han brugte kendingen "vilja borg".</p>
 <p class='block'>Hkr. 14, 27a (Y.-tal versl. 36) have ikke alene alle udgaver, men også alle håndskrifter, svelgja i steden for svelga. Det gamle svelga træder klart frem i et vers, der skal være digtet af Þórgils Hölluson i andet decennium af det ellevte århundrede (Laxd. 1826 side 284):</p>
+
 <div class='block'>
 <div class='line'>Sóttum heim at helga.</div>
 <div class='line'>hrafn létum ná svelga,</div>
 </div>
+
 <p class='block'>hvor svelgja umulig kunde gå an. Ja, man finder svelga endnu i gamle membraner, ikke blot i sådanne, som 645 og 677, men endog f. ex. i 519.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 15, 12 afgr (Y.-tal 49, 52) er vanskeligt sted (en vanskelig sætning), som jeg muligvis gjorde bedst i at forbigå, da måske ingen af læsemåderne vil vise sig fuldkommen tilfredsstillende, medens dog en naturlig ændring af den bedste iblandt dem ikke falder mig ind. Imidlertid kan en oversigt over læsemåder og opfatninger måske føre på det rette spor. Jeg meddeler hvad jeg har ved hånden.</p>
+
 <p class='block'>Heimskringla Kh. I. A) Text med varianter:</p>
+
 <div class='block'>
 <div class='line'>oc land her</div>
 <div class='line'>á lífs vonann</div>
 <div class='line'>drærug vapn</div>
 <div class='line'>Domallda bar.</div>
 </div>
+
 <p class='block'>B) Dansk oversættelse: "0c Landets Hær |  De blodige Vaaben | Bar paa Domalde, | Som ventede it længere Liff."</p>
+
 <p class='block'>C) Latinsk oversættelse: "Et civium exercitus | Vivere speranti, |Sparsa cruore arma | Domaldo intulit."</p>
+
 <p class='block'>Samme Værk VI. A) Text: "oc lands herr | à lífs vanan |  dreyrug vapn | Domallda bar".</p>
+
 <p class='block'>B) Oversættelse med note: ..."e populus arma cruenta inferret in c) vivere sperantem [sive: vita spoliatum)] Domaldium, c) lífs vonn, lifsvænn qui ea ætate est ut diutius vivere possit; [lifsvanr mortuus moriens]".</p>
+
 <p class='block'>Wachter: "Und des Landes Heer | An den Leben hoffenden |  Blutige Waffen\ An Domalldi brachte", med tilføiede varianter efter Heimskringla Kh. I.</p>
+
 <p class='block'>Säve : A) Text : "ok land-her| á lífs vanan | dreyrug vapn| Dómalda bar".</p>
+
 <p class='block'>B) Oversættelse med note: "oc landets här |  mot lif väntande |  Domalde bar |  blodiga vapen."</p>
+
 <p class='block'>P. A. Munch: "Og mod Domalde |  dødindviet |  blodige Vaaben | bar Landshæren."</p>
+
 <p class='block'>Lund. A) Text (efter Fríssbók): "ok landher |  á lífs vaunum |  dreyrug vápn |  Dómallda bar".</p>
+
 <p class='block'>B) Oversættelse med note: "og landshæren |  mod liv-ventende | Domalde bar | blodige våben".</p>
+
 <p class='block'>"lífs vanr ɔ: berøvet livet  aflivet; lifvænn eller lífs vænn eller vonr, den som håber at kunne leve længere. Da det første ikke passer,  er her det sidste gengivet., skønt håndskriftet ikke har det".</p>
+
 <p class='block'>Hkr. (ved Unger): "ok landherr | á lífs vanan | dreyrug vapn | Dómalda bar."</p>
+
 <p class='block'>G. Storm's  "Monumenta hist. Norv". som Hkr. — dog "landsherr" i st. for landherr.</p>
+
 <p class='block'>Wisén "Carmina Norræna" som Hkr. — dog  "lifvænan" i st. for "lífs vanan".</p>
+
 <p class='block'>Lex. poët. (517 a 15-16) har følgende artikel: "lifsvanr, adj., vitæ expers mortuus (lif, vanr), Ý. 18, Eb. 62". Og Icel.-Engl. Dict. 391b 21-22: "lifsvanr", adj. bereft of life, Ýt." —</p>
+
 <p class='block'>Her opstår nu, blandt andet, følgende spørgsmål. Hvorledes kan det hedde, at man har angrebet Domalde med "dreyrug vápn", da der ikke haves nogen antydning af, at nogen umiddelbart forud er bleven dræbt eller såret med de samme våben? Heri ligger dog måske ingen uovervindelig vanskelighed. Skjaldepoesiens sannkenningar betegne vel i almindelighed enten en fra genstanden uadskillelig egenskab (jf. t. ex. Njála 1875 kap. 133, 34-35: " nú vex blára brodda | beystisullr i fjöllum", eller en egenskab, der (under normale forhold) aldrig bør savnes (jf. t. ex. Korm. udg. side 152, 2-3: "troll hafi líf,  ef laufa | litak aldrigi bitran ", men synes alligevel på nogle steder kun at udtrykke en ofte indtrædende characteristisk tilstand, der ligger uden for den tidsdel, hvorom vedkommende fremstilling dreier sig. Pile, spyd og sværde farvedes naturligvis ofte i blod, men vare vist i regelen ikke blodige, når en kamp begyndte. Og dog finder man, t. ex. "dreyrugr" i følgende forbindelser. Höfuðlausn Egils 10, 3-4: "fleinn hitti fjör. | flugu dreyrug spjör. Hkr. 19, 23-26a (Ýnglingatal 123-128) "er döglingr  |  dreyrgra mæki  | öfundgjarn | á Yngva rauð". Jomsvikingadrápa 9 (Herr C. af Petersens: 10): " rjóðendr deyrgra darra ". (Kunde måske rjóða mæki dreyrgan, og lignende, betyde: farve et sværd rødt, således  at det bliver blodigt?) — Af en særegen art er det SnE. I 426, 11-12  (i en vísuhelmingr, der vistnok er digtet af Þjóðofr Arnórsson) forekommende "þar er samnagla siglur | sliðrdúkaðar riða"), hvor sliðrdúkaðr betyder hvis seil er skeden (jf. S. Egilsson SnE. III 80).</p>
+
 <p class='block'>Store vanskeligheder frembyder, efter min anskuelse, i alt fald den verslinie, læseren har set optræde i følgende skikkelser :</p>
+
 <div class='block'>
 <div class='line'>1. "á lífs vanan" eller "á lifsvanan"</div>
 <div class='line'>2. "á lífs vaunum" eller "á lífs vonum"</div>
@@ -297,82 +439,126 @@ Glossa: b) siklingr svegdis geira rex Sveciæ, svegdis geiri segmentum, portio S
 <div class='line'>5. "á lifvænan"</div>
 <div class='line'>6. "á lífs vænan".</div>
 </div>
+
 <p class='block'>Jeg tager først nr. 1—2. Hvad læsemåden "vanan" angår, har den egentlig ingen hjemmel i håndskrifterne. Den findes i B (d. e. Peringskiöld's udgave), hvor den åbenbart er en vilkårlig ændring af Kringlas "vonan". Den findes desuden kun i C (d. e. AM. folio 37), der på dette sted er en afskrift af Kringla i AM. folio 35, så at "vanan" (— skrevet "vanan" med tødler i 37 —) også her kun er en vilkårlig ændring af "vonan". Og nu hvad meningen angår, er den, så vidt jeg kan se, ingen, eftersom det synes meningsløst, at hugge løs på en død mand, for at dræbe ham. P. A. Munch's oversættelse "dødindviet" kan jeg ikke opfatte anderledes, end som et forsøg på at redde det på dette sted urimelige "lífs vanan". — Imod læsemåden "á lífs vaunum" kan man ikke indvende, at den ikke støtter sig til noget håndskrift. Men indholdet vinder ikke det mindste ved brugen af dativ, der, hvis jeg ikke feiler, er aldeles umulig i denne forbindelse.</p>
+
 <p class='block'>For nu at komme til nr. 3—6, må jeg bemærke, at "vonann" synes at være rigtig "málleysa", hvilket naturligvis ligeledes gelder så vel om de formodede nominativformer "vonn" og "vonri", som om (et adjectiv "vánn", sperans) acc. sg. m. "vánan". Fremdeles er ordforbindelsen "lífs vænn" (eller "lífsvænn") mig ubekendt. Men skulde den forekomme som en art compositum, vilde den sandsynligvis stå i steden for "lífvænn", der, så vidt jeg véd, aldrig bliver sat (som attribut eller prædicatsord) i forbindelse med noget substantiv, med mindre det (nemlig: det væsen), substantivet betegner, er enten så svagt af naturen (f. ex. et nyfødt barn) eller så svækket (medtaget af sår eller sygdom eller andre lidelser), at dets liv svæver i fare; hvilket ikke vides at have været tilfældet med Domalde. Desuden betyder lifvænn ikke: "som venter et længere liv", "som håber at kunne leve længere"; men det betyder: "der menes at kunne leve" (d. e. overstå sin svaghed eller sin sygdom).</p>
+
 <p class='block'>Jeg skal nu meddele håndskrifternes læsemåder i sammenhæng.</p>
+
 <p class='block'>Jöfraskinna (i AM. folio 38): "oc lanðheR | af lífs vꜹnü |dreyrug vapn |Þómalda bar".</p>
+
 <p class='block'>Fríssbók: "z lð  h'r a  lıpſ vꜹnö ðzeýrvg |vopn Ðómallða bár.</p>
+
 <p class='block'>Kringla (i AM. folio 35): "z lanðh'r a lífs vonan | ðrørug vápn  | Ðómalða bar".</p>
+
 <p class='block'>[AM. folio 37, her en afskrift af Kringla i AM. folio 35: "z | lanðherra lips vanan | ðrǫrug vapn, Ðómallda bar ".]</p>
+
 <p class='block'>I Jöfraskinna synes alt i denne sætning både lexicalsk og grammatikalsk rigtigt; hvorimod Fríssbók og Kringla synes affaldne fra det rette — begge ved "á" i steden for af, og Kringla desuden ved det besynderlige "vonan". Membranen Kringlas original har da formodentlig haft "vonum" (eller "vonom" eller "vonū" eller  "vonõ"). Ynglingatal i 35 bruger "o" i steden for "ð" på følgende steder: "ſalvorðuðr" (verslinie 11), "jotunbygðr" (19), "árgiorn" (53), "iorunðr" (137), "upſolom" (150), "jotuns" (175), "hion" (183), "ſrorvi" (202),  "ſtock" (233), "ſiollom" (248), "i ſiorvan" (258), "fiorvi" (270), "upſolum" (282), "jof"  (306), "gofug láti" (322), "jofri" (332); og man kunde anføre et eller to til.</p>
+
 <p class='block'>Grunden til den anførte forvanskning i de to håndskrifter turde nu være den, at afskrivere have kendt og ventet det hyppig forekommende "bera vápn af ehn", men derimod ikke "bera vápn af ehm", og ikke lagt mærke til, at det sidste udtryk bliver naturligt, ja smukt, når "dreyrug" føies til "vápn". Dette har så haft til følge, at ophavsmanden til den i Fríssbók foreliggende læsemåde har, næsten tankeløst, nøiedes med at forandre af til á; medens den, der har skrevet membranen Kringla — eller den, der har skrevet denne membrans original —), reflecterende, men dog uden gennemført reflexion, har forandret "af" til  "á", samt "vonum" (eller lignende) — ikke til "vanan", men — til "vonan!</p>
+
 <p class='block'>"Bera dreyrug vápn af ehm" har en ikke ringe lighed med "bera sigr af ehm" (Heimskr. Ól. helg. kap. 119) og" ganga af ehm dauðum", til hvilket sidste udtryk følgende sted i Bandadrápa slutter sig: "Stálægir nam stíga | stafns flatbalkar hrafna | af dynbeiði dauðum." — I øvrigt er "bera dreyrug vápn af ehm" ligefrem givet ved "bera vápn á ehn". Men hin ordforbindelse findes måske kun her. Og dette turde være den eneste svaghed, hvoraf Jöfraskinnas her omhandlede læsemåde kan siges at lide.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Verslinien Hkr. 18, 20b (Y.-tal, 115), "Dags frændr", er for kort, da den kun består af to stavelser, hvilket ellers ikke synes at forekomme i "kviðuháttr". Man må derfor vistnok antage, at Tjodolv har på dette sted ikke brugt frændr, men en ældre lydform "friándr" (svarende til got. frijönds), måske forkortet til friandr, i lighed med fíandr (got. fijands). Derimod tror jeg ikke, at der nogen sinde har existeret et friendr, i lighed f. ex med huggendr.</p>
+
 <p class='block'>Hkr. 18,  22-25 b (Y.-tal, 117-120: "Frát maðr áðr eykja görvi freys afspring í folk hafa".</p>
+
 <p class='block'>Dette sted er misforstået hos Peringskiöld (hvor, t. ex., den latinske oversættelse lyder: Sed nemini hoc innotuit, priusquam Freyeri posteri, equorum ornamenta publice ostenderint, men i det væsentlige rigtig opfattet allerede af Jón Ólafsson Heimskr. Kh. I: "Mand hørte ei før | At Freys Afkom |Brugte Ride-Tøi | I en Slactning.</p>
+
 <p class='block'>De fortolkninger af udtrykket "eykja görvi", jeg har ved hånden, ere følgende. 1) Peringskiöld : Sadle-tyg. 2) Samme: equorum ornamenta. 3) Jón Ólafsson (Hkr. Kh. I): Ride-Tøi. 4) Samme (Hkr. Kh. VI): apparatus eqvester. 5) Wachter: Fahrtierzeug. 6) Jacob Aall: Øge-Greie, og dertil noten: Heste-Tøi, her Bidsler.  7 ) Säve : öke -don,  og dertil noten: "Isl. eykia gervi, n. pL, ökedon, d.ä hästbetsel". 8) P. A. Munch: "Øgets Tøiler. 9) Lex. poët. 145 a 7-8 (art. eykr): adparatus eqvonim, frena. 10) Samme værk 234b 30-29 (art. gervi): ornamenta jumentorum, frena. 11) Lund: heste-bidsler, og dertil noten: "eykja-gervi, heste-redskab, töjle". 12) Icel.-English Dict., under art. eykr: "the harness of an eykr". 13) Samme værk, art. görvi: horse harness. — Nr. 1-11 samt 13 synes at lide af en unøiagtighed, der måske er en — næsten nødvendig  — følge af beskaffenheden af de sprog, hvori "eykja gervi" på disse steder er bleven oversat, nemlig, den unøiagtighed, kun at nævne eller antyde et eller andet brudstykke af den betydning, der ligger i "eykr", hvilket ord synes at omfatte ethvert dyr, der bruges til kørsel eller til at bære byrder eller til at ride på. At eykr ikke blot betød trækdyr synes at fremgå blandt andet deraf, at dromedaren henregnes til eykir (se Fritzner, art. eykr). Og ved at sammenholde selve udtrykket "eykja görvi" med "hnakkmars höfuðfetlum" (Hkr. 18, 24-25,  Y.-tal, 113-114)  føres man til den slutning, at også rideheste indbefattedes under begrebet eykr. At alle fortolkere af Ynglingatal formodentlig have antaget dette  (skønt det ikke altid træder tydelig frem i deres oversættelser, beviser nu rigtig nok intet, for så vidt de måske have holdt sig til den prosaiske fremstilling i Ynglingasaga kap. 23. Men flere af dem gå udtrykkelig ud fra sammensætningen "hnakkmarr". Således Wachter, Säve, Lund, Guðbr. Vigfússon (hnakkmarr, m. a saddle-horse,  Icel.-Engl. Dict.). Hvad Lex. poët. angår, finder man der (364 a 28-31) følgende artikel: "hnakkmarr, m., equus sagmarius (hnakkr, ephippum , = söðull, marr equus; id. qu. hodie hnakkhestr, söðulhestr", Y. 23, 1; hvormed kan jevnføres (Lex. poët. 364 a 41-47) "hnakkr..."  2) "ephippium id. qu söðull, vide hnakkmarr". Men da jeg ikke véd rettere, end at det græske ord σúyυα, lat. sagma , betyder (ikke ridesadel, men snarere) paksadel, tror jeg, oversættelsen "equus sagmarius" må bero på en forseelse. Den parenthetiske del af artikelen hnakkmarr og henvisningen under hnakkr 2 synes, hver for sig, at hæve min formodning til vished. Følgelig antager jeg, at også forfatteren til Lex. poët. har tillagt hnakkmarr betydningen ridehest; hvilken opfatning synes at måtte være den rette, skønt hnakkr i bemærkelsen sadel ellers ikke er bleven påvist i den oldnordiske litteratur.</p>
+
 <p class='block'>Oversættelserne synes at vise, at ordet "görvi" er i nr. 1-5 og 12-13 opfattet i sin fulde betydning. Det samme kan siges om nr. 6-7 og 9-10. Men de i disse sidste fire nummere tilføiede forklaringer over noget, der ser ud til at være fuldkommen klart i sig selv, synes at medføre uklarhed, nemlig, uvished om, hvorvidt meningen skal være, at "eykja görvi" her betyder bidsler; hvilket nr. 8 og 11 synes at antage — efter min mening uden berettigelse. Ti deraf, at man f. ex. om en løve kan bruge ordet dyr, følger dog vel ikke, at løve er en særskilt bemærkelse af ordet dyr!</p>
+
 <p class='block'>Ordet "görvi"i denne forbindelse stammer i øvrigt sikkert ikke fra Tjodolv. Jöfraskinna (i AM. folio 38) har "eykia greiðe", hvor det synes åbenbart, at "greiðe" er det samme ord, som det nynorske neutrum greide (greie). Men på Island har man ikke været fortrolig med et neutrum greiði, hvorfor den oprindelige læsemåde er i Frissbók forvansket til det på dette sted meningsløse "eýkra g'ðr", men i Kringla forandret (— rettet! —) til det forståelige "eykia görvi".</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 19, 19b (Y.-tal 129): Vasa þat bært. Læsemåder: Kringla (AM. folio 35) "Vara þ bęrt" ; Jöfraskinna (AM. folio 38) "Vara þ bert"; Fríssbók "Va þat beitt" (det sidste ord uden tvivl fremkommet ved forvanskning). Alle håndskrifterne have således "þat". Metrisk taget synes verslinien "Vasa þat bært" (∪ ∪ - -) fuldkommen identisk med "bana goðaugs" (Hkr. 22, 8b Y.-tal 143), og — for så vidt man synes at have betragtet (ikke alene en pyrrhichius, men også) en jambus som geldende lige med en lang stavelse i en sådan stilling — practisk taget identisk med "höfuð heiptrækt"  (∪ --- , Hkr. 40, 34b Y.- tal 327).</p>
+
 <p class='block'>Hkr. 19, 19-22b (Y.-tal 129-132). "Vasa þat bært, | at bera skyldi |  valsæfendr | vígs of hvetja". Om behandlingen af valsæfendr er følgende at bemærke. Hos Mohnike kommer dette ords indhold ikke til syne, da grundlaget for hans "beide Brüder" er Tjodolvs "bræðr tveir" (Y.-tal 133). S. Laing's meget frie oversættelse synes ikke at tage noget hensyn til valsæfendr, med mindre dette ord kan siges ligesom at afspeile sig i adjectivet murderous, medens linierne</p>
+
 <div class='block'>
 <div class='line'>The murderous brother-hands were seen</div>
 <div class='line'>Each raised against a brother's life</div>
 </div>
+
 <p class='block'>i øvrigt svare til Ynglingatals "bræðr tveir at bõnum urðusk". N. F. S. Grundtvig's "Beres Skæbne  | ser man godt, | var at væbne |  Drot mod Drot" gengiver valsæfendr ved "Drot mod Drot" , i overensstemmelse med sammenhængen og desuden med en tilnærmelse til meningen i valsæfendr, der, ligesom de fleste rosende mands-kendinger, passer særlig, hvor talen er om fyrster. Simple oversættelser af valsæfendr (d. v. s.: oversættelser, der hverken indeholde eller ledsages af noget forsøg på at fremstille ordets grundbetydning) ere følgende: "thesse Hiältar" (den svenske overs, hos Peringsk.); "viros bellicosos"  (Peringskiöld's lat. overs.); "Krigs-Menderne" i (Heimskr. Kh. I); "Hos bellatores" (ib.); "De stridande män" (Konunga-Sagor, 1816); "De  mordlystne" (Aall); "djerve Stridsmænd"  (P.A.Munch);  "de drabbnings-vældige" (Konunga-Boken, 1869). — Men jeg går nu over til forklaringerne. 1) Heimskr. Kh. VI: "stragis auctores" (d. e. "viros"). Tanken er rigtig. Men hvorledes kommer valsæfendr til at betyde "stragis auctiores"?  2) Wachter gengiver valsæfendr ved "Die Feindewürger" og føier dertil følgende note: "valsaefendur, wörtlich, Wahltödtende, Wahlschlachtende, von valr, Haufe Erschlagener, und (at) saefa, enecare, mactare, vielleicht ursprunglich soviel als die Gefangenen Opfernde, d. h. siegreiche Helden". Men "valr" betyder de faldne hvorledes de end ligge — enkeltvis eller i dynger eller (hvilket dog vel forholdsvis sjelden har været tilfældet) i en eneste dynge osv.; det betyder ikke de fangne. 3) Säve ledsager sin oversættelse, "de drabbnings väldige", med følgende forklaring: "Isl. val-sæfendr, pl., eg. val-söfvande, som göra valplatsen tyst". Men sæfa betyder ikke det samme som svæfa. Og valr betyder ikke valplads. Háttatal 25, 7-8 ("strúgs kömr í val veiga | vin kallak þat — galli") er val åbenbart ikke acc. sing. af masc. valr, men acc. sing. af neutr. val (jf. t. ex.: val fremaðr-manna, Geisli 10, samt mannval), og meningen udentvivl, prosaisk udtrykt: til disse udsøgte drikkevarer (val veiga, d. e., ol, forn bjorr, mjöðr) slutter vinen sig. 4) Lex. poët. 847a 15.13: "valsæfandi", m., homines prostratos interficiens, pugnator (valr, sæfa) : plur. valsæfendr, Y. 24, 24". Skal meningen være, at valsæfandi betyder den, der dræber sine overvundne fjender, når de ligge på valpladsen? Det er vel indtruffet nu og da, at de gamle nordiske krigere have benyttet leiligheden til at befri sig fra en på jorden liggende såret fjende.  Men en slig dåd kan ikke have avlet en rosende kending, hvilket valsæfandi åbenbart er. 5) Lund synes på en måde at slutte sig til nr. 4, i det han gengiver valsæfendr ved "valens ryddere"  og dertil føier følgende note: "valsæfenðr her om de to herskere, af sæfa (dræbe de i kampen slagne, de faldende)". — Udtrykket fella val forekommer flere steder. Hárb. 16 Bugge: "vega ver þar knattom | oc val fęlla". Rigsmål 37 Bugge: "vig nam at vekia |  vǫll nam at rioða, | val nam at fella,| van til  landa". 3 Sig. 37 Bugge: "hvart ec scylda uega | eþa val fella". Hávamål 87, 4 Bugge: "val nyfeldom". Fras. VIII 254, 5-4:  ("Nefari"): "hælumsk minnst í máli — metumsk heldr at val feldan. Det sammensatte valsæfandi forudsætter udtrykket sæfa val, der må betyde det samme som fella val, d. v. s., fælde sine fjender, så at der fremkommer valr, ligesom det hedder på dansk slå hø, d. v. s., slå græs, så at der fremkommer hø. Ikke alene udtrykket slå hø, men også udtrykket fella val, synes at indeholde hensigt. Man slår græs, for at skaffe hø, foder til visse dyr. Man fælder sine fjender, i det man har den bihensigt, at tilveiebringe valr som en art offer til Valfader. Er der nogen forskel imellem "fella val" og "sæfa val" med hensyn til betydningen, må det være den, at forestillingen om en art ofring træder klarere frem i det sidste. Jf. sæfa forn (d. e. sæfa kvikindi til fórnar), der i syntactisk henseende ganske er af samme art som t. ex. sæfa val og fella val og slå hø.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 23, 23-26a (Y.-tal 153-156): "ok þrálifr | þiggja skyldi|  jóðs aðal | öðru sinni".  "Þiggja jóðs aðal", i denne forbindelse, er vel ikke et umuligt, men dog et uventet og mistænkeligt udtryk, der ikke har noget egentligt sidestykke f. ex. i "Nv hefir h ꜻrp dǫmi |hildingr þegit"  2 Hund. 3 Bugge. Dog står aðal (— skrevet aþal —) både i Kringla (i AM. folio 35) og i Fríssbók. Men Jöfraskinna (i AM. folio 38) frembyder det rigtige "alað" anført som variant ("alað") i Heimskr. Kh. I. Dette ord forekommer ellers kun i lovenes "alaðsfestr" — alaðs må henføres til et neutrum alað (jf. t. ex.: forað, herað, unað, válað); ikke til et masc. alaðr —, men må i øvrigt være gået tidlig af brug. Ja selv alaðsfestr formåede ikke at holde sig, men forvanskedes til aðalfestr (i overensstemmelse med Kringla og Fríssbók). Se f. ex. Njála 1875 kap. 144, 28 hvor alaðs (i alaðsfestr) i tre af fire membraner er blevet til "aðal", i den fjerde (ved feilskrift) til  "aða aðal".</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 23, 27a (Y.-tal, 157) "sveiðuðs"). Denne læsemåde findes i Kringla (i AM. folio 35), hvor der står "ſverðuðs". Derimod har Jöfraskinna (i AM. folio 38) "ſverðuRS" og Fríssbók "ſverð´s", to forskellige skrivemåder, der begge betyde sveiðurs. Det phonetiske forhold imellem sveiðuðr og sveiðurr er ganske det samme, som imellem sviðuðr (et af, Odens navne) og sviðurr (der betyder det samme). Formodentlig ere sveiðuðr og sviðuðr fremgåede henholdsvis af sveiðurr og sviðurr. Under påvirkning af det "ð", der slutter første stavelse, synes det første "r" at være bleven til "ð". Afset fra den således formentlig fra "ð" udgående virkning, haves da i sveiðuðr og sviðuðr den samme overgang, som i héðan og þaðan, forudsat, at disse ord forholde sig etymologisk til hér og þar, som innan litan framan forholde sig til inn út fram. I nyere islandsk har man t. ex.: freðinn i steden for frerinn, freðfiskur i st. for frerfiskur, áfreðar i st. for áfrerar. — At ord som sveiðuðr have endelsen "s" (ikke endelsen ar) i gen. sing., synes at have sin grund i bevidstheden om (eller følelsen af) den etymologiske identitet afsveiðuðr og sveiðurr, i hvilken identitet det ligger, at stammen i sveiðuðr ikke er en stamme på u, men en stamme på a (sveiðuða-, ligesom sveiðura-).</p>
+
 <p class='block'>Hkr. 23, 22b (Y.-tal, 162) stemmer "mjóvara" overens ikke alene med Jöfraskinna, d. e., AM. folio 38, der har "miovara", men også med Fríssbók, der har "miovara". Denne læsemåde har i de nyere udgaver, fra Säve's af fortrængt Kringlas "miavara", der var optaget i de ældre (Peringskiöld's; Hkr. Kh. 1 og VI; det i Leirárgarðar udkomne hefte; det stockholmske Heimskr. 1816 — 29). Det er meget muligt, at Tjodolv selv har sagt "mævara". Men da mævara ikke står her i noget håndskrift, burde man, efter min anskuelse, ikke have opgivet "mjávara", der i alt fald er ældre end "mjóvara". Est quadam prodire tenus, si non datur ulta.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 23, 22b (Y.-tal 162) "áttunga rjoðr".  Dette udtryk må formodentlig have sin grund i et sagn, der i det mindste har haft nogen lighed med det, der fremstilles i Ynglingasaga kap. 29 (Hkr. 22, 56 —23,  16), nemlig sagnet om, hvorledes kong Aun blotede (ni af) sine sønner. Fortolkningerne dele sig i fire classer. 1) De to oversættelser hos Peringskiöld, hvor jeg ikke ser noget spor af betydningen i "áttunga rjoðr". 2) Gengivelser af "áttunga rjóðr" uden forklaring over grundbetydningen i "rjóðri". Den danske oversættelse i Heimskr. Kh. "Slectningers Morder", N. F.S.Grundtvig "Mod Ane-Sot | med Sönne- Blot | han kæmped mat i Senge". P. A. Munch "Sønners Drabmand". G. Lund "ætling-dræberen" . Hildebrand-Hildebrand "ättlinga-dräparn" . Alt dette synes i det væsentlige rigtigt. Men hvorledes kommer "rjóðr" til at betyde morder "drabmand" dræber? 3) Oversættelser af "áttunga rjóðr" , der enten forklare eller antyde, eller som ledsages af en erklæring om, hvad oversætterne have anset for at være den egentlige bemærkelse i ordet i "rjóðr"" på dette sted. Den lat. overs. Heimskr. Kh. I sangvine | Natos qvi sparsit. Oversættelsen 1816 "den, som med blod | Ättlingar färgade".  Heimskr. Kh. VI "natos cruentas"  i. e. "Filiorum immolator". Wachter "der Sprösslinge Röther" med følgende note: "áttunga riódr, der Geschlechtlinge (hier Söhne) Röther, d. h. der sie zum Opfer schlachtetet" . Mohnike "Mit Blut besudelnd | Der Söhne Leib". Jacob Aall "Han, som sin Æt | Blodstænker". S. Laing "In Upsal's town the cruel king | Slaughtered his sons at Odin's shrine — Slaughtered his sons with cruel knife, | To get from Odin length of life"; hvor ordene "Slaughtered . . . with cruel knife" sikkert antyde, at oversætteren har sat "rjóðr" i forbindelse med verbet rjóða. Säve "ättlinga-drápar'n"  og dertil noten: "Isl. áttunga rióðr, ättlinga-dräpare", eg. rödgörare, blodare, af rióða, ipf. rauð, göra röd, blodfärga. Jeg ser ikke rettere, end at alle disse forklaringer må være forfeilede. Handlingen at bestænke — eller endog overøse — med blod falder ingenlunde sammen med handlingen at dræbe, ikke engang i de tilfælde, hvor drab udføres med blanke våben. Verbet rjóða betyder derfor, som bekendt, ikke dræbe, og substantivet rjóðr følgelig ikke en dræber. Men substantivet rjóðr forholder sig, i betydning så vel som i form, til verbet rjóða, som bjóðr hrjóðr brjótr hljótr njótr þjótr forholde sig til verberne bjóða hrjóða brjóta hljóta njóta þjóta. 4) Lex. poët. 666 b, 30-33 (art. 3 rjóðr 2): ("rjóðr") qui delet, id. qu. hrjóðr a hrjóða vastare: áttunga r. interfector cognatorum (filiorum), Ý. 29, 2. At dette er den rigtige opfatning, med andre ord, at "rjóðr" i forbindelsen "áttunga rjóðr" kommer af hrjóða og betyder den, der udrydder, tror jeg må være hævet over al tvivl. Men hvorledes hænger det sammen med skrivemåden "rjóðr"? Kringla og Jöfraskinna (d. e. AM. folio 35 og AM. folio 38) have "rioðr" og Fríssbók har "rioðz". Har da Tjodolv udeladt h foran r (og 1 og n)? Så vidt jeg kan se, findes deraf intet spor, hvilket heller ikke var at vente, men derimod beviser nok for det modsatte, skønt det, der nu tillægges Tjodolv, kun udgør 311 liniepar, hvoraf en stor del er af en sådan beskaffenhed, at den kan nøies med én bistav. Jeg skal anføre som exempler på udtalen hr (osv.) i disse 311 liniepar: Ynglingatal 180-190, þann hergammr | hrægum fæti, og Haustlõng 17, 5.6 (i Wisén's "Carmina Norræna"),  "Varðat" hǫggs fra hǫrðum | hraundrengr þaðan lengi; men i øvrigt henvise til følgende steder, skønt enkelte af dem kan være forvanskede: Ynglingatal 113, 227, 275, 290  - Haustlöng 1, 7 - 4, 3-4 - 11, 1 - 20, 1 Fsk. 8, 14 (Flat. udg. 1, 574 13b (Fms. X 191, 6), Flat. udg. 567, 11a (Fms. X 178, 15) og 574, 2a (Fms. X 190, 8 — men Fsk. og Heimskringla have på dette sidste sted en anden læsemåde. Da det nu turde være aldeles åbenbart, at Tjodolv har udtalt h i forbindelserne hr,  hl,  hn, må "rjóðr" i de tre håndskrifter antages at være en fordærvet skrivemåde, uden tvivl den i slige tilfælde sædvanlige efterabelse af senere norsk. Og dette "rjóðr", Ynglingatal 162,  bør, efter min mening, ændres til "hrjóðr", ligesom man (Säve, Unger, Wisén) uden videre har læst hlut Ynglingatal 159, skønt alle tre håndskrifter også her udelade h.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 25, 18-21 a (Y.-tal 173-176): "En flæming | farra trjónu |jötuns eykr |á Agli rauð" , er i håndskrifterne skrevet på følgende måder. Kringla (i AM. folio 35) "en flæming | fana t'ono jotuns eykr | |a Agli rauð". Jöfraskinna (i AM. folio 38) "en flæmingr | fana trionu | jotuns eykr | a Agli raꜹð". Fríssbók "ey plǭmig ꝼaRa trionv 10tvns | eykr a aglr ræꜹð".</p>
+
 <p class='block'>Går man ud fra, at "jötuns eykr" betyder tyr (—Heimskr. Kh. I 38 note m henviser til fortællingen om Gevjon og hendes öxne Ynglingasaga kap. 5 —), og slutter man sig til S. Egilsson's plausible mening, at farra er gen. sing. af farri, og dette det samme ord som det tydske farre, synes den hele sætning ikke at indeholde nogen vanskelighed. Men, hvis jeg ikke feiler, skaber man en vanskelighed, i det man vil have, at trjóna skal stå i steden for horn; medens det naturligste åbenbart er, at tillægge trjóna i denne forbindelse betydningen hoved, skønt trjóna, strengt taget, vel ikke kan siges i almindelighed at betegne det hele hoved. Farra ∩ trjónu ∩  flæmingr, tyrehovedets sværd, er en rigtig kending for en tyrs horn. Så vidt man véd, har ordet flæmingr i det gamle sprog kun betydningen ensis.  Men i denne bemærkelse står ordet i "sverðaheiti" uden variant (altså i alle fire membraner: Reg., 748, 757, Ie β). Brugt om kongen vilde det nyere islandske flæmingur ikke passe; brugt om tyren, heller ikke rigtig. Og jeg tror neppe, at Ynglingatal, efter først at have kaldt tyren (dandstrygert), vilde i en hel sætning på fire vísuorð have udbredt sig om dens omflakken. Under alle omstændigheder forekommer Jöfraskinnas læsemåde "flæmingr" mig at bero på en misforståelse. Og indtil videre må jeg fastholde den i "Aarbøger f. nord. Oldkyndighed" 1869 side 52 noten fremsatte opfatning, der (hvilket jeg den gang overså) må antages at foreligge i Heimskr, Kh. VI ("enn jötuns eykr raud farra triono flæming á Agli", sed in Egillo taurinæ frontis ensem cruentavit gigantis jumentunm — og til taurinæ frontis ensemn er føiet som forklaring: ugladius capitis i. e. cornu), og hvormed oversættelserne "Doch färbte roth | Das Riesenlastvieh | Die Wehr des Hauptes | Mit Egills Blut" (Mohnike) og "Men det spidse | Pande- Sverd farved | Jötnens Ög | paa Egil rødt" (P. A. Munch) stemme overens.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 251, 14-17 b (Y.-tal. 177-180) "sá er um austmörk | áðr hafði | brúna hörg  | um borit lengi", er i håndskrifterne skrevet på følgende måder. Kringla (i AM. folio 35): "Sa e´v  ꜻftr | àðan hafði | brúna hꜻrg | um boriN lengr". Jöfraskinna (i AM. folio 38): "Sa e' of ꜻftmꜻrc | aðan hafðe | brotna hꜻrg |  ofborin lengi". Fríssbók: "Sa e' op bꜻft aðan ꜧaþðr bvnꜻvna ꜧꜻrg | op boizy lengi". —  Ordet "ꜧꜻꝼt " i Fríssbók må vel snarere skylde et utydeligt austr, end et austmörk, sin tilblivelse. Læsemåden austmörk i Jöfraskinna er måske foranlediget ved, at der i den prosaiske fremstilling (Hkr. 24, 31 - 25, 4) tales om: skógr, viðir, markir. Vel er nu overensstemmelsen imellem indholdet af prosaen og indholdet af versene i Ynglingasaga ingenlunde så stor, at en slig ændring kunde synes undskyldelig; men fremkommet ved fuldstændig tankeløshed synes austmörk ikke at være. Og muligvis har man sat brotna (opfattet i betydningen fractam i forbindelse med austmörk, uden at gøre sig rede for, hvad horg så skulde betyde, — Peringskiöld følger Kringla. Og skriver man, i væsentlig overensstemmelse med dette håndskrift, den hele sætning således: "sás of austr áan hafði | brúna hörg of boriunn lengi", turde man træffe det rette. Da håndskrifterne enstemmig frembyde borinn, formoder jeg, at borit (Hkr.) beror på en skrivfeil. Om at foretrække brúna for Jöfraskinnas brotna, er vel alle enige. I den bemærkelse, hvori det her forekommer, har áðan en så ægte klang, at man ikke tør fjerne dette ord, uden meget stærke grunde. Og hvad austr angår, synes det i den her foreliggende sammenhæng at måtte betyde østlig egn eller østlige egne, altså det samme som austrvegar, Hkr. 17, 2a (Ynglingatal 90), i sætningen "Ok þat orð | à Austrvega | vísa ferð |frá vigi bar". Jf. austrkonungr, i betydningen svensk konge, så vel hos Tjodolv selv (Hkr. 23, 27 b, Ynglingatal, 167) som hos Eyvindr (Hkr. 20, 31 a).</p>
+
 </div>
 <div class='block'>
 <h2 class='section'>TILLÆG.</h2>
 <p class='block'>Dog er det også muligt, at udeladelsen af h foran l og r, Ynglingatal 159 og 162 stammer fra et norsk håndskrift.
 Jf. side 211, 9-14.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 26 24-27 a (Y.-tal. 189-192): "þann hergammr |  hrægum fæti | viti borinn | á Vendli sparn". Jeg holder det ikke for aldeles overflødigt at vise håndskrifternes fremstilling af hele denne sætning, skønt spørgsmålet dreier sig alene om læsemåden "viti borinn". Kringla (i AM. folio 35): "þaN  h' gār  |  hrægu fött  | vitz boriN  |  a venþle fp´'n". Jöfraskinna i AM. folio 37, 3: "þa n´ h´gamr hrægum f þærı |  vitz borın |  a uænþli| ꝼp´n". Jöfraskinna i AM. folio 38: "þan h gār | hrægū færi | vitz borın | a vanþli ꝼp n". Fríssbók: "þan h´ gamr ꜧhøgv þǫ tí vítr boziy venþlr ꝼpáro". — Verslinie 19 hedder hos Peringskiöld "Viturborinn" (!) , formodentlig en følge af, at Kringlas "vitz" er bleven læst vitr, hvilket man har forandret til det nyere vitur. Heimskr. Kh. I har "vitz borinn", men oversætter denne ordforbindelse, på må og få, ved  "viis Mand" og "Sapientia ingenuum". Det er først Heimskr. Kh. VI, der optager læsemåden "viti borinn", der siden har holdt sig i udgaverne. Og skønt ordforbindelsen viti borinn ellers neppe forekommer uden tilføiet biord (vel viti borinn, svá viti borinn, og lign.), tør man ikke negte muligheden af, at det også kunde findes uden en sådan tilføining. På den anden side må det ikke overses, at i Fríssbók frembyder Ynglingatal i det hele taget en ringere text, end i de andre håndskrifter; så at man kan opstille den regel, at Fríssbók har uret, hvor den, i det nævnte digt, ikke står i samklang enten med Kringla eller med Jofraskinnna. Og desuden — hvilket er nu det sandsynligste, enten at dativen viti, et ord, hvormed alle Islændere, lige fra Islands bebyggelse til den dag i dag, må antages at have været fuldt fortrolige, er bleven forandret tiladet dunkle "vitz", eller at dette i håndskrifterne så sjeldne og vistnok allerede for år 1300 forældede "vítz" er, som uforståeligt, bleven "rettet" af den, der skrev Fríssbók, til et ord, alle kendte, og som (i forbindelse med borinn) syntes at give en antagelig mening? ligesom den samme skriver f. ex. har taget sig den frihed, at  "rette" Ynglingatal 359, heiðum hár, til det metrisk umulige "ꜧéþō ꜧørr", for at tilveiebringe overensstemmelse med Ynglingasagas prosaiske fremstilling. Frumpartar side 93, 1-14 anfører c. 40 exempler på "tsk" og "tsl" i steden for "þsk" og "þsl". Men, hvad der er vigtigere, S. Egilsson påviser brugen af ts i steden for þs (uden følgende medlyd). Og hans artikel om "vitz" (Lex. poët. 890 b) er mig en ledestjerne igennem det mørke, der synes at indhylle Ynglingatal, 191. Dette vísuorð må, i følge ham antages at give et lille glimt af dyrelivet, og altså at stå som en art sidestykke til den på grund af omstændighederne forholdsvis udførlige beskrivelse i lin. 177-180 (om tyren). Udtrykket vits borinn (d. e. borinn viðs vegar), som er fløiet vidt omkring, minder om ordene "I morgun flaug jeg vitt um velli" i et islandsk "krumma-kvæði". Om Tjodolv ved hergammr  har tænkt sig örn eller ravn er vistnok vanskeligt at afgøre. Dog tror jeg snarere det sidste. Skulde de hedenske skjalde ikke i regelen have ment, at Hugins og Munins interessante slægt var ligesom særlig berettiget til fode på valpladsen? Og skulde de ikke derfor i almindelighed nærmest have tænkt på ravnen, når de brugte kendinger som hergammr?</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 29, 3-6a (Y.-tal 217-220): "Veit ek Eysteins | enda fólginn lokinn lífs | á Lofundi", er i håndskrifterne fremstillet, som følger. Kringla (i AM. folio 35): "Veit æc Eyꝼteins enda folgin : lokins lífs | a lofunðj". Jöfraskinna i AM. folio 37: "Veitt | ek eyꝼteinꝼ enða polgiy lokin lrpꝼ  a lopunde". Jöfraskinna i AM. folio 38: "Veit ec Eyꝼteins  enda folgin | lokin lífs | alofunðe". Fríssbók: "veit ek eyꝼteins en |  ða Folg lokins lípꝼ a lopðungr". — Denne sætning forekommer mig meget simpel. Men det lader dog til, at den kan blive misforstået. Jeg anfører et par exempler, jeg netop har ved hånden. S. Laing oversætter: "For a long time none could tell  | How Eystein died — but now I know  | That at Lofond the hero fell". Og det hedder hos Säve: "Östens lífs | lönnliga ände  | dold jag vet | á Lofund vara", med følgende note til "ände": "De tryckta upplagorna hafva lokins, hvilket sål. moste hänföras till lífs, men det har här, efter två handskrifter (C, D.) som anföras i Fol.-uppL, blifvit ändradt till lokinn, då det kommer att svara till enda; ty det var icke Östens lif, utan hans ändalykt, som man icke kändet". — Med Heimskr. Kh. I og VI samt Wisén (Carmina Norræna) holder jeg mig til Kringla's og Fríssbók's lokins. Jöfraskinna's folginn lokinn beror formodentlig på en skrivefeil (af en meget almindelig art), i det folginn har bevirket, at det umiddelbart følgende lokins er bleven til lokinn. I sætningen "Veitk ... lofundi" anskues livet under form af en line (en snor), hvis ene ende, der (i lighed med endi lokins lífs kunde kaldes endi byrjaðs lífs, er fødselen, og hvis anden ende, endi lokins lífs, er døden. Udtrykket "fela enda" er uden tvivl lånt fra visse håndgreb i det daglige liv. — Jeg har i øvrigt her, uden at lægge mærke dertil, i det væsentlige fremsat S. Egilsson's opfatning, Lex. poët. 162 a 22-17 (art. fela, begynd.). — Forklaringen i Heimskr. Kh. VI ("Novi Eisteini vitæ exactæ finem occultum fuisse Lofundi" med "A parcis occulto decretum" som note til "occultum"), der synes at henholde sig til "Oc ꝼa balðri bloðgo ) tivoz oðrnꝼ barm oz log | Folgiy", Völuspá (i Cod. Reg.) 250-253 "nv er sa ormgarðr |  ycr vm folginn,  Bugge's udg. af SæmE. 286 6-7a, og lignende steder, falder for kunstig. — Man har ment, at lofundi (dat.) skulde være navn på en ø. Men denne mening kan ikke være rigtig, da der står "á lofurdi" (ikke "i lofundi"). (Derimod kunde lof. naturligvis gerne være en del af en ø.)</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 29, 27a (Y.-tal 286) "um sóat hafði", er i håndskrifterne skrevet på følgende måder. Kringla (i AM. folio 35): "um ꝼoat hefði".  Jöfraskinna i AM. folio 37: "OF fórt hapðe". Jöfraskinna i AM. folio 38: "of ꝼott hafðe". Fríssbók: "oF ꝼoat ꜧarpðr". — Det synes klart, at denne linie bör hedde: "of sóit hafði". Skrivemåden i 35 beror snarest på urigtig opløsning af "ꝼot" eller "ꝼót". Og den, der skrev Frissbok, har neppe kendt formen solt. Vi må således holde os til Jöfraskinna. At 38 har "ꝼott", finder åbenbart sin forklaring i, at it i skindbøgerne på mangfoldige steder ser ud som tt.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 361, 12-15 a (Y.-tal 261-264): "þá er húsþjofr | hyrjar leistum | goðkonung í gegnum steig", skal jeg nu meddele efter håndskrifterne. Kringla (i AM. folio 35): "þa er husþrofr | hyriar leiꝼtom  goð kg | i gognom ꝼteig". Jöfraskinna i AM. folio 37: "þa e' hþoꝼr hyriar liftu goð kynng i gꜻgnv ꝼterg". Jöfraskinna i AM. folio 38: "þa e' h' þrofr hyrr | lyftum| goðkyung | i gꜻgnu fteig". Fríssbók: "þa e' ꜧúꝼpropr ꜧýriar leíꝼtö | goð kg rgøgnō ꝼtoð."</p>
+
 <p class='block'>At "leistum" er den rigtige læsemåde, synes ikke at kunne være tvivlsomt. — Det er påfaldende, at Jöfraskinnas ene afskrift har "listum", men den anden "lystum". Jeg formoder, sammenhængen hermed er følgende. Jöfraskinna selv har, ved skrivfeil, haft "listum", hvilket Nordmanden mag. Jens Nielsson, med rette, har beholdt; hvorimod Ásgeir har forandret "listum" til "lystum", i det han om det ord, hvis rette skrivemåde er "leistr", har haft en mening, der i det mindste har været beslægtet med Björn Halldorsson's, i hvis ordbog (II 26 b g.s) man finder artikelen: "Leyꝼtr V. lyftr, m. solea, soccus, Saal, Sol, (lioftr) vid. ꝼockalyftr, (kóleyftr)." — Men hvad betyder leistr i forbindelsen "hyrjar leistum"? Det betyder ikke solea (Peringskiöld lat. overs.; Heimskr. Kh. I, lat. overs.; Heimskr. Kh. VI; Antiquités Russes; Lex. poët. 432 b 26 og 507 b 31-35), hvad enten man har taget solea i den latinske bemærkelse (altså leistar = sandaler) eller man derved har villet betegne det underste af sko eller strømper eller lignende. Det betyder heller ikke: sål eller sale (Heimskr. Kh. I, dansk overs.; P. A. Munch; G. Lund), såla (Konunga-Sagor 1816), sohle (Wachter, Mohnike); hvis disse ord skulde udtrykke det samme som solea (se nærvær, side linie 14-20). Fremdeles betyder det ikke a short sock (Icel.-Engl. Diet.). Det er nemlig åbenbart, at leistr i denne forbindelse betegner en del af selve legemet, og må være det leistr, SnE. I 542 mener: "Fætr má kalla tré ilja, rista, leista eða þvílíkt" (jf. Icel.-Engl. Diet. 383 a 24-23, leistr 1). Tjodolv personificerer ilden (húsþjófr). Og det er i sin orden. Men at give den sko eller strømper på, vilde være at svække og forvrænge billedet. —</p>
+
 <p class='block'>Ynglingatal 263 lyder "goðkonung" i alle udgaver — med mindre Heimskr. Upsala 1870 — 72, som jeg ikke har fået efterset, her skulde afvige. Dette "goðkonung" er bleven opfattet på forskellige måder, a) Det genlyder svagest hos S. Laing,  i "With fiery feet devouring flame  | Has hunted down a royal game"; hvor man ikke mærker noget til "goð-". b) Lidt stærkere hos Mohnike , i "Als der Feind der Häuser  | Mit feurigen Sohlen  | Trat auf das Haupt  | Dés hohen Königs",  hvor "des hohen" svarer til goð. c) I Peringskiöld's svenske oversættelse er "goðkonungi" bleven til "Gudarnas waktar"; hvilket måske skal sige det samme som "Regem Idola colentem" i hans latinske, d) Heimskr. Kh. VI lyder oversættelsen "regem, diis editum" , i overensstemmelse med Heimskr. Kh. I (se f, her neden for). Men dertil er føiet følgende note: "Gód-Konung, Divum Regem sive Regem deorum simul sacerdotem"  F. M.:  jf- c, her oven for. e) Aall's forklaring, "Gud-Konning . . . Enten fordi han nedstammede fra Guderne, eller fordi han var baade Gudernes Præst og Folkets Anfører", vakler ligesom "d", men slår desuden ind på en ny vei. (Mon Aall har tænkt, at "goðkonungr" måske var sammensat af goði og konungr?) f) Heimskr. Kh. I: "Konningen aff Guders Byrd" og "Deorum nepotem Regem". Konunga-Sagor (1816): "Gudättad Konung". Wachter: oversættelse "Dem göttlichen König", og i en note "god konung, dem Götter-König , das heisst, von den Göttern ab stammendem König". Säve: oversættelse "guda-kung", og i en note "gud-kungen" el. den från gudaslägt komne konungen". Til denne opfatning slutter sig formodentlig P. A. Munch's "Gudekongen" og Konunga-Bokens "gudakungen". g) Icel.-Engl. Dict.: "goð-konungr, m. (ep. Gr. δrογξνιηs βαοζενs, king,  kings being deemed the offspring of gods" Yt." ~ Hvis et "goðkonungr" virkelig existerede, måtte det snarest betyde (vel ikke det samme som et "goða-konungr", d. e., guders — gudernes — konge,  men en jordisk konge der er bleven optaget blandt guderne. Jf. goðbruðr, om Skaði, hos Þórðr Sjáreksson, SnE. I 262 . Og for et sådant ord har det gamle sprog neppe haft brug. Under alle omstændigheder synes det temmelig klart, at ingen af de anførte tydninger (a—g) træffer Tjodolvs mening aldeles nøie; medens "f" i øvrigt nærmer sig den mest. At jeg ikke står ene med denne opfattelse, vil ses af det følgende. — h) Lex. poët. 262 b 11-7: "goðkonungr, m., rex, diis ortus, (goðkonúgr), Y. 44, 1 (AR. 1267, 1 vel simpl, prognatus diis, progenies deorum, a konúngr, cognatus, prognatus, a konr (vel kyn, kon, kon, genus), ut áttungr ab átt, familias. I det nu citerede stykke, der sikkert er skrevet for året 1850, gør S. Egilsson overgangen fra f (oven for) til en opfatning, han så vistnok har fastholdt. i) I Antiquités Russes (år 1850) oversætter han "goðkonung" ved "virum diis oriundum" , og tilføier ɔ: "quatenus ab Asis originem duxit familia Yngiana". Goðkonungr, "a diis oriundus (goð, dii; konúngr, oriundus quis, a kon, kun, kyn, genus)". Det synes hævet over al tvivl, at progeniem deorum og virum dis oriundum, samt gudernes afkom, hos G. Lund, så vel som den Gude-Frænde i N. F. S. Grundtvig's oversættelse, udtrykke det indhold, Tjodolv har lagt i Ynglingatal 263. Men jeg tror ikke, det er "goðkonung", der har haft dette indhold; i det jeg nærer en meget stærk tvivl om, at der nogen sinde har existeret et konungr i betydningen descendent. Et sådant " konungr" skulde være afledet af "kon" eller "konr" eller "kun") eller kyn eller kön. Hvad "kön" angår, må jeg indtil videre betvivle, at et sådant ord har været til i oldnordisk. Og et af "køn" afledet navneord på -ungr vilde vel hedde "könungr" (ikke "konnungr"). Afledet af kyn vilde det vel snarest have lydt "kynjungr". Jf. t. ex. skeljungr, der sandsynligvis kommer af stammen skelja (se GhM. III 299 8 med note 42), og yggjungr ("yGióngr" Völuspá Reg. 220), sandsynligvis af stammen yggja. Og ved "kun" menes formodentlig kyn i en skrivemåde, der ikke udtrykker omlydsbevægelsen. Hvis det "kon", hvorpå S. Eg. har tænkt, er det kon-, der foreligger i: alls konar, hvers konar, margs konar, osv., må man indvende, at bemærkelsen ikke passer, da konar svarer i betydning til dan. slags (og lignende), men intet har at gøre med afstammelse. Endelig antages konr selv at betyde descendent; så at det vilde have været temmelig overflødigt, deraf at danne et nyt ord som betegnelse for dette begreb (descendent). Og det vilde desuden have været uheldigt, da man i forveien må have haft det almindelig bekendte, overordentlig hyppigt forekommende, konungr, konge. — Hvad nu Jöfraskinnas forkortelse, goð kyng eller goðkynng, angår, kan der, efter min mening, neppe være tvivl om, at man, med Heimskr. Kh. I, må opløse den til goðkynning (ikke — med Antiquités Russes — til "goðkyníng". I Lex. poët. lyder den umiddelbare fortsættelse af det oven for, side 239 12-15 citerede stykke: "Idem (ɔ: det samme som "goðkonúngr") "haud dubie valet var. h.L, goðkynningr, quod propius accedit ad adj. goðkunnigr, divini generisy" osv. Imidlertid tror jeg ikke, goðkynningr lader sig aflede af goðkunnigr. Men det forholder sig til adj. goðkunnr, som navneordene: blæingr, einhleypingr, gløgg vingr, gæðingr, hnøggvingr, hvítingr, illingr, mildingr, mæringr, snillingr, spekingr, svertingr, sælingr, vesalingr og veslingr, vitringr, þirfingr, osv., forholde sig til tillægsordene: blár, einhleypr, gløggr, góðr, hnøggr, hvitr, illr, mildr, mærr, snjallr, spakr, svartr, sæll, vesall, vitr, pjarfr, osv. Jeg kan ikke nære nogen tvivl om, at forholdet imellem de to læsemåder, goðkynning og goðkonung, må være følgende. Goð-kynning er det oprindelige. Men en afskriver har enten ikke kunnet læse dette ord, eller han har ikke forstået det, og, i henhold til, at Ingjaldr var konge, indsat "goð-konnungr"), der lyder så ligefrem (skønt det ellers ikke synes at forekomme), og hvori enhver kunde lægge noget, der lignede en mening. — Goðkynningr betyder naturligvis det samme, som freys áttungr Ynglingatal 207.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 36 8-11b (Y.-tal 265-268): "Ok sá urðr | allri þjóðu | sjaldgætastr | með Sviumþótti". Men Icel.-Engl. Dict. 657 b 12 (art. urðr): "en sjá urðr sjallgætust (-gætastr, Cod. wrongly) með Svium þótti". — Hvad sige nu håndskrifterne hertil? Kringla (i AM. folio 35): "Oc ꝼa urðr allri þioð  ꝼiallgæta ꝼtr með | Suium þótti". Jöfraskinna i AM. folio 37: "ℸ ꝼa yrðz allrs  proðu |ꝼangeýrpaztr  | m; ꝼnium þottr". Jöfraskinna i AM. folio 38: "Oc &#42876a prðr | allri þioðu |  ꝼangeyrvaztr | með Svium þotti". Fríssbók: "Ok ꝼa yrðz 5j allrz þioðo fay gàztr með ꝼviv þtı". Som man ser, have alle håndskrifterne, ligesom Hkr. : a) Ok; b) sá; c) superlativen i hankøn. Ere de nu ikke alle forvanskede på dette sted, og betyder det tredje ord i sætningen : undergang, død, så er "urðr" af hankøn i denne bemærkelse, der synes at foreligge ikke alene her, men også a) SæmE. ved Bugge side 245b 17.16: "vrdr ꜻdlinga hefir pv  ę veriþ", "du har altid været fyrsters fordærvelse", b) Þorbjörn skakkaskáld (Heimskr. Magn. Erl. 20, Fms. VI1 303): "Urð dro austan fjarðar  | erlingr at vikingum;" c) Sturl 1 II 213, 1 i 122 A: "vrðz mū ergr þozðaz, hvor "forðaz" synes at betyde det samme, som Konungs-skuggsjå- 75, 15 ("þá mun brátt forðask afl ráðagerðar með konungi"). I bunken står urðr da kun, når det, enten som fællesnavn eller som egennavn, betegner en norne. Jf. Lex. poët. 837 b 3-36.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 393, 34 a ígg (Y.-tal 313-3i6): ."þá er Hálfdan, | sá er á Holti bjó, |  norna dóms | um notit hafði".</p>
+
 <p class='block'>1. Verslinie 314 er i håndskrifterne skrevet som følger. Kringla (i AM. folio 35): "ꝼa e' a holti bio". Jöfraskinna i AM. folio 37: "ꝼa e' ho | kū bıo". Jöfraskinna i AM. folio 38: "ꝼa e' Soltum bio". Fríssbók: "ꝼa e'  ı  ꜧollti | bio". — Man vil udelade sá og læse "es á Holti bjó". Undertiden kan det være nødvendigt, at forlade en læsemåde, der findes i alle pågeldende håndskrifter. Men i Ynglingatal 314 savner man så, når det udelades (hvoraf ikke følger, at, f. ex., "feigðar orð, | er at Fjölni kom", Ynglingata 3-4, bør forandres til "feigðar orð, | þats . . ."). Man kommer således tilbage til "sá er á Holti bjo" (d. e. "sás á Holti bjó"; jf. Ynglingatal 321 "sás löngu vas"). Sagen er måske den, at læsemåderne "á holti" og "i holti" ere uægte, og at Ynglingatal 313-314  bør hedde: "þás halfdanr | sás holtum bjó", i overensstemmelse med begge afskrifterne af Jöfraskinna, - holtum dativ brugt som locativ. Jf. Lund,"'Oldnordisk Ordføningslære'"§ 52, b. ("ho |kū" i 37 er vistnok forvanskning af holtum.)</p>
+
 <p class='block'>2. Hvad betyder udtrykket "njóta norna dóms"?</p>
+
 <p class='block'>Ynglingatal 313-316,  "þás halfdanr, | sás holtum bjo, norna dóms | of notit hafði", er bleven oversat på følgende måder. "Der Halfdan   |  Som bode paa Holte,  |  Hafde ofuergaait |  Nornens Dom",  Heimskr. Kh. I. "Halvdan paa Holte | tog Hel nu fra Norge". N. F. S. Grundtvig. "da til Halfdan, | som paa Holte boed, |  Norners Kald | kommet var." P. A. Munch "da til Halvdan | på Holte bosat | norners dom | havde nået." G. Lund.</p>
+
 <p class='block'>Ynglingatal 315-316, "norna dóms  |  of notit hafði", er bleven oversat på følgende måder. "Af lífs-Föröderskor  |  Fördes i döden" Peringskiöld. "... Parcarum judicio parere cogereturn" samme. "Nornarum judicio | Parere fuerat coactus"  Heimskr. Kh. I. "Nornornas dom | Lyda måste". Konunga-Sagor (1816). "parcarum sententiam acceperat" med "Fatus fungeretur" tilføiet som forklaring, Heimskr. Kh. VJ. "Den Spruch der Nornen | Vernommen hatte"  Mohnike. (Nornens Dom |Adlyde maatte) Aall. "must obey grim Fate" S. Laing. "följa nöddes | nornors dom" med følgende note: "Halfdan nöddes följa nornors dom", d.d. måste dö; eg. står det: "Halfdan hade njutit nornors dom". Säve. "följa nöddes | Nornors dom" Konunga-Boken (1869).</p>
+
 <p class='block'>Selve udtrykket "njóta norna dóms" forklares ved: 1) fato fungi, morin Lex. poët. 102 b 3.2 (art. dómr); 2) fato fungin, ib. 606a5 (art. norn); 3) to fill one´s days, die,  Icel.-Engl. Diet. 457 b 29-30 (art. norn).</p>
+
 <p class='block'>Når jeg undtager Grundtvig's meget frie oversættelse, synes det fuldkommen klart, at på alle de anførte steder ere ordene "njóta norna dóms" tagne i betydningen dø. Men jeg ser ikke, hvorledes denne opfatning lader sig forsvare; da man (— afset fra andre indvendinger, der bestemt synes at frembyde sig —) ikke pleier at betragte døden som en nydelse (norna dóms of notit hafði). Den tolkning, jeg må anse for den rigtige, findes kun hos Wachter, der oversætter Ynglingatal 313 - 316 således: "als Halfdan,  | Der, der zu Hollt wohne, | Der Nornen Urthel | Abgenutzt hatte",  og føier følgende note til "Abgenutzt": "Ich habe of notit wörtlich gegeben durch "abgenutzt", (at) níóta, frui, uti, unser geniessen, nützen. Der Nornen Rechtsspruch ist das von ihnen bestimmte Lebensalter; das Urthel der Nornen verbraucht haben, heisst also soviel, als die Zeit gelebt haben, die ihm die Nornen zum Leben bestimmt hatten". Meningen i ordene "norna dóms of nótit hafði" er ligefrem: havde nydt det liv, hvis varighed og skebner nornerne havde bestemt (sammenlign "þessar meyjar skapa mönnum aldr", "meyjarskapa ok góðar nornir  ok vel ættaðar skapa góðan aldr",  så vel som f. ex. SnE. I 72, 10 - 74, 3 i det hele), men bør vistnok opfattes emphatisk, i det tanken synes at være: mæt af dage, rigdom og ære modtog Halvdan jettemøens indbydelse. "njóta norna dóms" minder om det mere prosaiske, men også i poesie brugelige, "njóta aldr". Exempler: "hon kvað engan komast yfir skapadægr sitt, kvað Ingimund hafa lengi aldrs notiðs", Fornsögur 39, 14.15. (Vatnsd. kap. 24 begynd.),"saman biuggu þau  | ok sier undu, | æitir loku | ok alldrs nutu". Rigsmål 40 Bugge. "Njóti aldrs  | ok auðsala | konungr ok jarl". Háttatal 102.</p>
+
 </div>
 <div class='block'>
 <p class='block'>Hkr. 40, 34 b (Y.-tal 327): "höfuði heiptrækt" , er skrevet: Kringla (i AM. folio 35) "hꜻf heiptrøkt"; Jöfraskinna i AM. folio 37 "hꜻp  herptrækt"; Jöfraskinna i AM. folio 38 "hꜻfut  heiftrækt"; Fríssbók "ꜧꜻþ ꜧipt   rꜻk".</p>
+
 <p class='block'>Jeg anfører i øvrigt denne verslinie, mindre for at vise, at også her udmærker Jöfraskinna sig, i nærværende tilfælde ved (— tilfældig? —) at have en rigtig skrivemåde ("æ"), i modsætning til begge de andre, end for at gøre opmærksom på en feiltagelse, der knytter sig til adjectivet "heiptrækr". I det mindste tre lærde have påstået, at i "Isländska Homilier" udg. af Wisén side 108, 1-2 bør ordet "heiftræken" forandres til "heiftrækne" eller "heiptrækni". Men efter min mening er "heiftrækne" eller "heiptrækni" ikke muligt i et så gammelt håndskrift, som det til "Isländska Homilier". Forholdet er følgende. Med adjectiverne "frændrækinn ættrækinn guðrækinn trúrækinn" (-rækinn afledt af verbet rækja), der åbenbart stemme overens med oldsproget og, ved deres dannelse, tilhøre det, ere afledningerne "frændrækni ættrækni guðrækni trúrækni" ligefrem givne. Men det gamle sprog besad desuden adjectiverne "heiptrækr langrækr skammrækr", ligesom også "goðrækr" eller (yngre) "guðrækr", (-rækr afledt af verbet reka). Og abstracta af hunkønet afledede af disse adjectiver kunde den gang ikke hedde heiptrækni osv. Senere derimod forandredes "heiptrækr" og "langrækr" til "heiptrækinn" og "langrækinn" — egentlig til "heiptrækinn" og "langrækinn", da det er klart, at tanken har identiticeret dette -rækinn med det (-rækinn), der oprindelig lod -rækinn (jf. udtrykket rækja ehð við ehn = erfa ehð við ehn). Og da først kunde abstractumet heiptrækni, egentlig heiptrækni, blive til. — Det i "Isländska Homilier" forekommende "heiftræken" er, når artikelen (-("n") fjernes, = heiptræki, afledet af heiptrækr på samme måde, som: "hviti feiti teiti sæti reiði blindi lævisi réttvisi auðryggi osv. af "hvitr feitr teitr sætr reiðr blindr læviss réttviss auðrtyggr" osv., (eller med omlyd) kæti af kátr osv.</p>
