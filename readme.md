@@ -188,3 +188,77 @@ git checkout -b enneads/english
 - https://ganjoor.net/iqbal/payam-mashregh/
 - https://ganjoor.net/asadi/garshaspname/
 - https://ganjoor.net/jami/7ourang/kh7/
+- https://www.gutenberg.org/files/2529/2529-h/2529-h.htm
+- https://www.gutenberg.org/files/37090/37090-h/37090-h.htm
+- http://www.gutenberg.org/cache/epub/17641/pg17641.html
+- http://www.rbjones.com/rbjpub/philos/classics/leibniz/monad.htm
+- https://www.gutenberg.org/files/25447/25447-h/25447-h.htm
+- https://www.gutenberg.org/files/37090/37090-h/37090-h.htm
+- https://ar.wikisource.org/wiki/%D8%B3%D9%86%D9%86_%D8%A3%D8%A8%D9%8A_%D8%AF%D8%A7%D9%88%D8%AF/%D9%83%D8%AA%D8%A7%D8%A8_%D8%A7%D9%84%D8%B2%D9%83%D8%A7%D8%A9
+- https://ar.wikisource.org/wiki/%D8%B4%D9%81%D8%A7%D8%A1_%D8%A7%D9%84%D8%B9%D9%84%D9%8A%D9%84
+- https://ar.wikisource.org/wiki/%D9%84%D8%B3%D8%A7%D9%86_%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86
+- https://ar.wikisource.org/wiki/%D8%A7%D9%84%D8%B7%D8%A8_%D8%A7%D9%84%D8%B1%D9%88%D8%AD%D8%A7%D9%86%D9%8A
+- http://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A2002.02.0006%3Asura%3D1%3Averse%3D1
+- http://www.gutenberg.org/cache/epub/2800/pg2800-images.html
+- [Chinese Quran](http://www.theholyquran.org/?x=s_main&kid=18)
+- [English Quran](http://www.theholyquran.org/?x=s_main&kid=14)
+- [Japanese Quran](http://www.theholyquran.org/?x=s_main&kid=17)
+- [Finnish Quran](http://www.theholyquran.org/?x=s_main&kid=12)
+- [Korean Quran](http://www.theholyquran.org/?x=s_main&kid=19)
+- [Russian Quran](http://www.theholyquran.org/?x=s_main&kid=10&sid=1&y=s_middl)
+- [German Quran](http://www.theholyquran.org/?x=s_main&kid=7&sid=1&y=s_middle)
+- [Urdu Quran](http://www.theholyquran.org/?x=s_main&y=s_middle&kid=37&sid=39)
+- [Hindi Quran](https://www.aquran.com/)
+- [Kannada Quran](http://quraninkannada.com)
+- https://heimskringla.no/wiki/Alv%C3%ADssm%C7%AB%CC%81l
+- https://heimskringla.no/wiki/Glymdr%C3%A1pa_(B1)
+- https://heimskringla.no/wiki/Adam_af_Bremens_Kirkehistorie
+- https://heimskringla.no/wiki/Kildeindex#Gesta_Hammaburgensis_Ecclesiae_Pontificum
+- https://heimskringla.no/wiki/G%C3%ADsla_saga_S%C3%BArssonar
+- https://heimskringla.no/wiki/Fort%C3%A6lling_om_Gisle_Sursen
+- https://heimskringla.no/wiki/Fort%C3%A6lling_om_Laksd%C3%B8lerne
+- https://heimskringla.no/wiki/Sk%C3%A1ldskaparm%C3%A1l
+- https://heimskringla.no/wiki/Gylfaginning
+- https://heimskringla.no/wiki/Eir%C3%ADksm%C3%A1l
+- https://heimskringla.no/wiki/H%C3%A1konarm%C3%A1l
+- https://heimskringla.no/wiki/Ragnarsdr%C3%A1pa
+- https://heimskringla.no/wiki/Haraldskv%C3%A6%C3%B0i
+- https://heimskringla.no/wiki/Lausav%C3%ADsur_(Korm%C3%A1kr_%C3%96gmundarson)
+- https://heimskringla.no/wiki/Vellekla
+- https://heimskringla.no/wiki/Lausav%C3%ADsur_(Hallfr%C3%B8%C3%B0r_vandr%C3%A6%C3%B0ask%C3%A1ld)
+- https://heimskringla.no/wiki/Hrynhenda
+- https://heimskringla.no/wiki/Carmina_Scaldica
+- https://heimskringla.no/wiki/S%C3%B8nnetabet
+- https://heimskringla.no/wiki/%C3%9E%C3%B3rsdr%C3%A1pa_(Eilifr_Gu%C3%B0r%C3%BAnarson)
+- https://heimskringla.no/wiki/Straalen
+- https://heimskringla.no/wiki/Oldnordiske_Sagaer,_Bind_1-12
+- https://heimskringla.no/wiki/Den_store_saga_om_Olaf_Tryggves%C3%B8n_(C.C.Rafn)
+- https://heimskringla.no/wiki/Den_store_saga_om_Olaf_den_Hellige_(C.C.Rafn)
+- https://heimskringla.no/wiki/Till%C3%A6g_til_Den_store_saga_om_Olaf_den_Hellige_(C.C.Rafn)
+- https://heimskringla.no/wiki/Magnus_den_Godes_Saga_(C.C.Rafn)
+- https://heimskringla.no/wiki/Gr%C3%ADmnism%C3%A1l
+- https://heimskringla.no/wiki/Eyrbyggja_Saga_(Dansk)
+- https://heimskringla.no/wiki/Edda_Snorra_Sturlusonar
+- https://heimskringla.no/wiki/Nials_Saga_(Dansk)
+- https://heimskringla.no/wiki/Fagrskinna
+- https://heimskringla.no/wiki/%C3%9E%C3%B3rsdr%C3%A1pa_(Eilifr_Gu%C3%B0r%C3%BAnarson)
+- https://heimskringla.no/wiki/Om_Ynglingatal
+- https://heimskringla.no/wiki/Haustl%C3%B6ng
+- https://heimskringla.no/wiki/V%C3%B6lsunga_saga
+- https://www.sacred-texts.com/neu/celt/cg1/index.htm
+- https://heimskringla.no/wiki/B%C3%B3sa_saga_ok_Herrau%C3%B0s
+- https://heimskringla.no/wiki/Egils_saga_einhenda_ok_%C3%81smundar_berserkjabana
+- https://heimskringla.no/wiki/Eireks_saga_v%C3%AD%C3%B0f%C3%B6rla
+- https://heimskringla.no/wiki/Hversu_Noregr_bygg%C3%B0ist
+- https://heimskringla.no/wiki/Ragnars_saga_lo%C3%B0br%C3%B3kar_ok_sona_hans
+- https://heimskringla.no/wiki/%C3%9E%C3%A1ttr_af_Ragnars_sonum
+- https://heimskringla.no/wiki/Gautreks_saga
+- https://heimskringla.no/wiki/Gr%C3%ADms_saga_lo%C3%B0inkinna
+- https://heimskringla.no/wiki/G%C3%B6ngu-Hr%C3%B3lfs_saga
+- https://heimskringla.no/wiki/H%C3%A1lfdanar_saga_Br%C3%B6nuf%C3%B3stra
+- https://heimskringla.no/wiki/H%C3%A1lfdanar_saga_Eysteinssonar
+- https://heimskringla.no/wiki/%C3%9E%C3%A1ttr_%C3%93lafs_Geirsta%C3%B0a_%C3%A1lfs
+- https://heimskringla.no/wiki/Helga_%C3%BE%C3%A1ttr_%C3%9E%C3%B3rissonar
+- https://heimskringla.no/wiki/Bergb%C3%BAa_%C3%BE%C3%A1ttr
+- https://heimskringla.no/wiki/T%C3%B3ka_%C3%BE%C3%A1ttr_T%C3%B3kasonar
+- https://heimskringla.no/wiki/Hrei%C3%B0ars_%C3%BE%C3%A1ttr
