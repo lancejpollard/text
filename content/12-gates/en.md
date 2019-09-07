@@ -1,7 +1,7 @@
 
 <h1>12 Gates</h1>
 
-The Compound of Alchymie. A most excellent, learned, and wor∣thie worke, written to king Edward tht fourth, by Sir George Ripley, Chanon of Bridlington in York-shire, con∣tayning twelue gates. The Prologue.
+<h2>The Prologue</h2>
 
 CHilde of this discipline incline to me thine eare<br/>
 And harkē to my doctrine with al thy diligēce<br/>
