@@ -1,3223 +1,3223 @@
-Hwæt! We Gardena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in geardagum,  
-þeodcyninga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þrym gefrunon,  
-hu ða æþelingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ellen fremedon.  
-Oft Scyld Scefing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceaþena þreatum,  
-monegum mægþum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meodosetla ofteah,  
-egsode eorlas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Syððan ærest wearð  
-feasceaft funden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he þæs frofre gebad,  
-weox under wolcnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorðmyndum þah,  
-oðþæt him æghwylc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara ymbsittendra  
-ofer hronrade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyran scolde,  
-gomban gyldan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs god cyning!  
-Ðæm eafera wæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfter cenned,  
-geong in geardum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone god sende  
-folce to frofre;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrenðearfe ongeat  
-þe hie ær drugon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aldorlease  
-lange hwile.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him þæs liffrea,  
-wuldres wealdend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;woroldare forgeaf;  
-Beowulf wæs breme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(blæd wide sprang),  
-Scyldes eafera&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scedelandum in.  
-Swa sceal geong guma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode gewyrcean,  
-fromum feohgiftum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on fæder bearme,  
-þæt hine on ylde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft gewunigen  
-wilgesiþas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne wig cume,  
-leode gelæsten;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lofdædum sceal  
-in mægþa gehwære&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;man geþeon.  
-Him ða Scyld gewat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to gescæphwile  
-felahror feran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on frean wære.  
-Hi hyne þa ætbæron&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to brimes faroðe,  
-swæse gesiþas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he selfa bæd,  
-þenden wordum weold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine Scyldinga;  
-leof landfruma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lange ahte.  
-Þær æt hyðe stod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringedstefna,  
-isig ond utfus,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþelinges fær.  
-Aledon þa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofne þeoden,  
-beaga bryttan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on bearm scipes,  
-mærne be mæste.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þær wæs madma fela  
-of feorwegum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frætwa, gelæded;  
-ne hyrde ic cymlicor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ceol gegyrwan  
-hildewæpnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond heaðowædum,  
-billum ond byrnum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him on bearme læg  
-madma mænigo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa him mid scoldon  
-on flodes æht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feor gewitan.  
-Nalæs hi hine læssan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lacum teodan,  
-þeodgestreonum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þon þa dydon  
-þe hine æt frumsceafte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð onsendon  
-ænne ofer yðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;umborwesende.  
-Þa gyt hie him asetton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;segen geldenne  
-heah ofer heafod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leton holm beran,  
-geafon on garsecg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him wæs geomor sefa,  
-murnende mod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Men ne cunnon  
-secgan to soðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selerædende,  
-hæleð under heofenum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwa þæm hlæste onfeng.  
+<div class='line'>Hwæt! We Gardena<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>in geardagum,</div>
+<div class='line'>þeodcyninga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þrym gefrunon,</div>
+<div class='line'>hu ða æþelingas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ellen fremedon.</div>
+<div class='line'>Oft Scyld Scefing<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sceaþena þreatum,</div>
+<div class='line'>monegum mægþum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>meodosetla ofteah,</div>
+<div class='line'>egsode eorlas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Syððan ærest wearð</div>
+<div class='line'>feasceaft funden,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he þæs frofre gebad,</div>
+<div class='line'>weox under wolcnum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weorðmyndum þah,</div>
+<div class='line'>oðþæt him æghwylc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þara ymbsittendra</div>
+<div class='line'>ofer hronrade<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hyran scolde,</div>
+<div class='line'>gomban gyldan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þæt wæs god cyning!</div>
+<div class='line'>Ðæm eafera wæs<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æfter cenned,</div>
+<div class='line'>geong in geardum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þone god sende</div>
+<div class='line'>folce to frofre;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fyrenðearfe ongeat</div>
+<div class='line'>þe hie ær drugon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>aldorlease</div>
+<div class='line'>lange hwile.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Him þæs liffrea,</div>
+<div class='line'>wuldres wealdend,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>woroldare forgeaf;</div>
+<div class='line'>Beowulf wæs breme<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(blæd wide sprang),</div>
+<div class='line'>Scyldes eafera<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Scedelandum in.</div>
+<div class='line'>Swa sceal geong guma<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gode gewyrcean,</div>
+<div class='line'>fromum feohgiftum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on fæder bearme,</div>
+<div class='line'>þæt hine on ylde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eft gewunigen</div>
+<div class='line'>wilgesiþas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne wig cume,</div>
+<div class='line'>leode gelæsten;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lofdædum sceal</div>
+<div class='line'>in mægþa gehwære<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>man geþeon.</div>
+<div class='line'>Him ða Scyld gewat<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to gescæphwile</div>
+<div class='line'>felahror feran<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on frean wære.</div>
+<div class='line'>Hi hyne þa ætbæron<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to brimes faroðe,</div>
+<div class='line'>swæse gesiþas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa he selfa bæd,</div>
+<div class='line'>þenden wordum weold<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wine Scyldinga;</div>
+<div class='line'>leof landfruma<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lange ahte.</div>
+<div class='line'>Þær æt hyðe stod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hringedstefna,</div>
+<div class='line'>isig ond utfus,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æþelinges fær.</div>
+<div class='line'>Aledon þa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leofne þeoden,</div>
+<div class='line'>beaga bryttan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on bearm scipes,</div>
+<div class='line'>mærne be mæste.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þær wæs madma fela</div>
+<div class='line'>of feorwegum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frætwa, gelæded;</div>
+<div class='line'>ne hyrde ic cymlicor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ceol gegyrwan</div>
+<div class='line'>hildewæpnum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond heaðowædum,</div>
+<div class='line'>billum ond byrnum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>him on bearme læg</div>
+<div class='line'>madma mænigo,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa him mid scoldon</div>
+<div class='line'>on flodes æht<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feor gewitan.</div>
+<div class='line'>Nalæs hi hine læssan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lacum teodan,</div>
+<div class='line'>þeodgestreonum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þon þa dydon</div>
+<div class='line'>þe hine æt frumsceafte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forð onsendon</div>
+<div class='line'>ænne ofer yðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>umborwesende.</div>
+<div class='line'>Þa gyt hie him asetton<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>segen geldenne</div>
+<div class='line'>heah ofer heafod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leton holm beran,</div>
+<div class='line'>geafon on garsecg;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>him wæs geomor sefa,</div>
+<div class='line'>murnende mod.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Men ne cunnon</div>
+<div class='line'>secgan to soðe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>selerædende,</div>
+<div class='line'>hæleð under heofenum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwa þæm hlæste onfeng.</div>
   
-Ða wæs on burgum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulf Scyldinga,  
-leof leodcyning,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;longe þrage  
-folcum gefræge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(fæder ellor hwearf,  
-aldor of earde),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt him eft onwoc  
-heah Healfdene;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heold þenden lifde,  
-gamol ond guðreouw,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;glæde Scyldingas.  
-Ðæm feower bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð gerimed  
-in worold wocun,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weoroda ræswan,  
-Heorogar ond Hroðgar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond Halga til;  
-hyrde ic þæt * * *&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs Onelan cwen,  
-Heaðoscilfingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;healsgebedda.  
-Þa wæs Hroðgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heresped gyfen,  
-wiges weorðmynd,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt him his winemagas  
-georne hyrdon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðð þæt seo geogoð geweox,  
-magodriht micel.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him on mod bearn  
-þæt healreced&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hatan wolde,  
-medoærn micel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;men gewyrcean  
-þonne yldo bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfre gefrunon,  
-ond þær on innan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eall gedælan  
-geongum ond ealdum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylc him god sealde,  
-buton folcscare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond feorum gumena.  
-Ða ic wide gefrægn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorc gebannan  
-manigre mægþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geond þisne middangeard,  
-folcstede frætwan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him on fyrste gelomp,  
-ædre mid yldum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hit wearð ealgearo,  
-healærna mæst;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scop him Heort naman  
-se þe his wordes geweald&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide hæfde.  
-He beot ne aleh,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beagas dælde,  
-sinc æt symle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sele hlifade,  
-heah ond horngeap,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heaðowylma bad,  
-laðan liges;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne wæs hit lenge þa gen  
-þæt se ecghete&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aþumsweorum  
-æfter wælniðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæcnan scolde.  
-Ða se ellengæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earfoðlice  
-þrage geþolode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe in þystrum bad,  
-þæt he dogora gehwam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dream gehyrde  
-hludne in healle;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær wæs hearpan sweg,  
-swutol sang scopes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sægde se þe cuþe  
-frumsceaft fira&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorran reccan,  
-cwæð þæt se ælmihtiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorðan worhte,  
-wlitebeorhtne wang,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa wæter bebugeð,  
-gesette sigehreþig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunnan ond monan  
-leoman to leohte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;landbuendum  
-ond gefrætwade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;foldan sceatas  
-leomum ond leafum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lif eac gesceop  
-cynna gehwylcum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara ðe cwice hwyrfaþ.  
-Swa ða drihtguman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dreamum lifdon  
-eadiglice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt an ongan  
-fyrene fremman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feond on helle.  
-Wæs se grimma gæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendel haten,  
-mære mearcstapa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe moras heold,  
-fen ond fæsten;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fifelcynnes eard  
-wonsæli wer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weardode hwile,  
-siþðan him scyppend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forscrifen hæfde  
-in Caines cynne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þone cwealm gewræc  
-ece drihten,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs þe he Abel slog;  
-ne gefeah he þære fæhðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he hine feor forwræc,  
-metod for þy mane,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mancynne fram.  
-Þanon untydras&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealle onwocon,  
-eotenas ond ylfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond orcneas,  
-swylce gigantas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa wið gode wunnon  
-lange þrage;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he him ðæs lean forgeald.  
+<div class='line'>Ða wæs on burgum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Beowulf Scyldinga,</div>
+<div class='line'>leof leodcyning,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>longe þrage</div>
+<div class='line'>folcum gefræge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(fæder ellor hwearf,</div>
+<div class='line'>aldor of earde),<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþþæt him eft onwoc</div>
+<div class='line'>heah Healfdene;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heold þenden lifde,</div>
+<div class='line'>gamol ond guðreouw,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>glæde Scyldingas.</div>
+<div class='line'>Ðæm feower bearn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forð gerimed</div>
+<div class='line'>in worold wocun,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weoroda ræswan,</div>
+<div class='line'>Heorogar ond Hroðgar<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond Halga til;</div>
+<div class='line'>hyrde ic þæt * * *<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs Onelan cwen,</div>
+<div class='line'>Heaðoscilfingas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>healsgebedda.</div>
+<div class='line'>Þa wæs Hroðgare<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heresped gyfen,</div>
+<div class='line'>wiges weorðmynd,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt him his winemagas</div>
+<div class='line'>georne hyrdon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oðð þæt seo geogoð geweox,</div>
+<div class='line'>magodriht micel.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Him on mod bearn</div>
+<div class='line'>þæt healreced<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hatan wolde,</div>
+<div class='line'>medoærn micel,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>men gewyrcean</div>
+<div class='line'>þonne yldo bearn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æfre gefrunon,</div>
+<div class='line'>ond þær on innan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eall gedælan</div>
+<div class='line'>geongum ond ealdum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swylc him god sealde,</div>
+<div class='line'>buton folcscare<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond feorum gumena.</div>
+<div class='line'>Ða ic wide gefrægn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weorc gebannan</div>
+<div class='line'>manigre mægþe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geond þisne middangeard,</div>
+<div class='line'>folcstede frætwan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Him on fyrste gelomp,</div>
+<div class='line'>ædre mid yldum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hit wearð ealgearo,</div>
+<div class='line'>healærna mæst;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>scop him Heort naman</div>
+<div class='line'>se þe his wordes geweald<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wide hæfde.</div>
+<div class='line'>He beot ne aleh,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beagas dælde,</div>
+<div class='line'>sinc æt symle.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sele hlifade,</div>
+<div class='line'>heah ond horngeap,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heaðowylma bad,</div>
+<div class='line'>laðan liges;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne wæs hit lenge þa gen</div>
+<div class='line'>þæt se ecghete<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>aþumsweorum</div>
+<div class='line'>æfter wælniðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæcnan scolde.</div>
+<div class='line'>Ða se ellengæst<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>earfoðlice</div>
+<div class='line'>þrage geþolode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þe in þystrum bad,</div>
+<div class='line'>þæt he dogora gehwam<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dream gehyrde</div>
+<div class='line'>hludne in healle;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær wæs hearpan sweg,</div>
+<div class='line'>swutol sang scopes.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sægde se þe cuþe</div>
+<div class='line'>frumsceaft fira<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorran reccan,</div>
+<div class='line'>cwæð þæt se ælmihtiga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eorðan worhte,</div>
+<div class='line'>wlitebeorhtne wang,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa wæter bebugeð,</div>
+<div class='line'>gesette sigehreþig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunnan ond monan</div>
+<div class='line'>leoman to leohte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>landbuendum</div>
+<div class='line'>ond gefrætwade<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>foldan sceatas</div>
+<div class='line'>leomum ond leafum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lif eac gesceop</div>
+<div class='line'>cynna gehwylcum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þara ðe cwice hwyrfaþ.</div>
+<div class='line'>Swa ða drihtguman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dreamum lifdon</div>
+<div class='line'>eadiglice,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððæt an ongan</div>
+<div class='line'>fyrene fremman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feond on helle.</div>
+<div class='line'>Wæs se grimma gæst<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Grendel haten,</div>
+<div class='line'>mære mearcstapa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þe moras heold,</div>
+<div class='line'>fen ond fæsten;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fifelcynnes eard</div>
+<div class='line'>wonsæli wer<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weardode hwile,</div>
+<div class='line'>siþðan him scyppend<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forscrifen hæfde</div>
+<div class='line'>in Caines cynne.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þone cwealm gewræc</div>
+<div class='line'>ece drihten,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæs þe he Abel slog;</div>
+<div class='line'>ne gefeah he þære fæhðe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac he hine feor forwræc,</div>
+<div class='line'>metod for þy mane,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mancynne fram.</div>
+<div class='line'>Þanon untydras<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealle onwocon,</div>
+<div class='line'>eotenas ond ylfe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond orcneas,</div>
+<div class='line'>swylce gigantas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa wið gode wunnon</div>
+<div class='line'>lange þrage;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he him ðæs lean forgeald.</div>
   
-Gewat ða neosian,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syþðan niht becom,  
-hean huses,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hu hit Hringdene  
-æfter beorþege&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gebun hæfdon.  
-Fand þa ðær inne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþelinga gedriht  
-swefan æfter symble;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sorge ne cuðon,  
-wonsceaft wera.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wiht unhælo,  
-grim ond grædig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearo sona wæs,  
-reoc ond reþe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on ræste genam  
-þritig þegna,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þanon eft gewat  
-huðe hremig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to ham faran,  
-mid þære wælfylle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wica neosan.  
-Ða wæs on uhtan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid ærdæge  
-Grendles guðcræft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumum undyrne;  
-þa wæs æfter wiste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wop up ahafen,  
-micel morgensweg.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mære þeoden,  
-æþeling ærgod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unbliðe sæt,  
-þolode ðryðswyð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þegnsorge dreah,  
-syðþan hie þæs laðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;last sceawedon,  
-wergan gastes;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs þæt gewin to strang,  
-lað ond longsum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs hit lengra fyrst,  
-ac ymb ane niht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft gefremede  
-morðbeala mare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond no mearn fore,  
-fæhðe ond fyrene;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs to fæst on þam.  
-Þa wæs eaðfynde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe him elles hwær  
-gerumlicor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ræste sohte,  
-bed æfter burum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða him gebeacnod wæs,  
-gesægd soðlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweotolan tacne  
-healðegnes hete;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heold hyne syðþan  
-fyr ond fæstor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þæm feonde ætwand.  
-Swa rixode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond wið rihte wan,  
-ana wið eallum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðþæt idel stod  
-husa selest.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs seo hwil micel;  
-XII wintra tid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;torn geþolode  
-wine Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weana gehwelcne,  
-sidra sorga.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forðam secgum wearð,  
-ylda bearnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;undyrne cuð,  
-gyddum geomore,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þætte Grendel wan  
-hwile wið Hroþgar,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heteniðas wæg,  
-fyrene ond fæhðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fela missera,  
-singale sæce,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sibbe ne wolde  
-wið manna hwone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenes Deniga,  
-feorhbealo feorran,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fea þingian,  
-ne þær nænig witena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wenan þorfte  
-beorhtre bote&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to banan folmum,  
-ac se æglæca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ehtende wæs,  
-deorc deaþscua,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;duguþe ond geogoþe,  
-seomade ond syrede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sinnihte heold  
-mistige moras;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;men ne cunnon  
-hwyder helrunan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwyrftum scriþað.  
-Swa fela fyrena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feond mancynnes,  
-atol angengea,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oft gefremede,  
-heardra hynða.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heorot eardode,  
-sincfage sel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweartum nihtum;  
-no he þone gifstol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gretan moste,  
-maþðum for metode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne his myne wisse.  
-Þæt wæs wræc micel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine Scyldinga,  
-modes brecða.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Monig oft gesæt  
-rice to rune;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ræd eahtedon  
-hwæt swiðferhðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selest wære  
-wið færgryrum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to gefremmanne.  
-Hwilum hie geheton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt hærgtrafum  
-wigweorþunga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordum bædon  
-þæt him gastbona&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geoce gefremede  
-wið þeodþreaum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swylc wæs þeaw hyra,  
-hæþenra hyht;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helle gemundon  
-in modsefan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;metod hie ne cuþon,  
-dæda demend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne wiston hie drihten god,  
-ne hie huru heofena helm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;herian ne cuþon,  
-wuldres waldend.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wa bið þæm ðe sceal  
-þurh sliðne nið&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sawle bescufan  
-in fyres fæþm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frofre ne wenan,  
-wihte gewendan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wel bið þæm þe mot  
-æfter deaðdæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drihten secean  
-ond to fæder fæþmum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;freoðo wilnian.  
+<div class='line'>Gewat ða neosian,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syþðan niht becom,</div>
+<div class='line'>hean huses,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hu hit Hringdene</div>
+<div class='line'>æfter beorþege<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gebun hæfdon.</div>
+<div class='line'>Fand þa ðær inne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æþelinga gedriht</div>
+<div class='line'>swefan æfter symble;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sorge ne cuðon,</div>
+<div class='line'>wonsceaft wera.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wiht unhælo,</div>
+<div class='line'>grim ond grædig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gearo sona wæs,</div>
+<div class='line'>reoc ond reþe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond on ræste genam</div>
+<div class='line'>þritig þegna,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þanon eft gewat</div>
+<div class='line'>huðe hremig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to ham faran,</div>
+<div class='line'>mid þære wælfylle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wica neosan.</div>
+<div class='line'>Ða wæs on uhtan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mid ærdæge</div>
+<div class='line'>Grendles guðcræft<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gumum undyrne;</div>
+<div class='line'>þa wæs æfter wiste<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wop up ahafen,</div>
+<div class='line'>micel morgensweg.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Mære þeoden,</div>
+<div class='line'>æþeling ærgod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>unbliðe sæt,</div>
+<div class='line'>þolode ðryðswyð,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þegnsorge dreah,</div>
+<div class='line'>syðþan hie þæs laðan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>last sceawedon,</div>
+<div class='line'>wergan gastes;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs þæt gewin to strang,</div>
+<div class='line'>lað ond longsum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næs hit lengra fyrst,</div>
+<div class='line'>ac ymb ane niht<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eft gefremede</div>
+<div class='line'>morðbeala mare<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond no mearn fore,</div>
+<div class='line'>fæhðe ond fyrene;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs to fæst on þam.</div>
+<div class='line'>Þa wæs eaðfynde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe him elles hwær</div>
+<div class='line'>gerumlicor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ræste sohte,</div>
+<div class='line'>bed æfter burum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða him gebeacnod wæs,</div>
+<div class='line'>gesægd soðlice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sweotolan tacne</div>
+<div class='line'>healðegnes hete;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heold hyne syðþan</div>
+<div class='line'>fyr ond fæstor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þæm feonde ætwand.</div>
+<div class='line'>Swa rixode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond wið rihte wan,</div>
+<div class='line'>ana wið eallum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oðþæt idel stod</div>
+<div class='line'>husa selest.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wæs seo hwil micel;</div>
+<div class='line'>XII wintra tid<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>torn geþolode</div>
+<div class='line'>wine Scyldinga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weana gehwelcne,</div>
+<div class='line'>sidra sorga.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Forðam secgum wearð,</div>
+<div class='line'>ylda bearnum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>undyrne cuð,</div>
+<div class='line'>gyddum geomore,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þætte Grendel wan</div>
+<div class='line'>hwile wið Hroþgar,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heteniðas wæg,</div>
+<div class='line'>fyrene ond fæhðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fela missera,</div>
+<div class='line'>singale sæce,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sibbe ne wolde</div>
+<div class='line'>wið manna hwone<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mægenes Deniga,</div>
+<div class='line'>feorhbealo feorran,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fea þingian,</div>
+<div class='line'>ne þær nænig witena<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wenan þorfte</div>
+<div class='line'>beorhtre bote<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to banan folmum,</div>
+<div class='line'>ac se æglæca<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ehtende wæs,</div>
+<div class='line'>deorc deaþscua,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>duguþe ond geogoþe,</div>
+<div class='line'>seomade ond syrede,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sinnihte heold</div>
+<div class='line'>mistige moras;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>men ne cunnon</div>
+<div class='line'>hwyder helrunan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwyrftum scriþað.</div>
+<div class='line'>Swa fela fyrena<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feond mancynnes,</div>
+<div class='line'>atol angengea,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oft gefremede,</div>
+<div class='line'>heardra hynða.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Heorot eardode,</div>
+<div class='line'>sincfage sel<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sweartum nihtum;</div>
+<div class='line'>no he þone gifstol<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gretan moste,</div>
+<div class='line'>maþðum for metode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne his myne wisse.</div>
+<div class='line'>Þæt wæs wræc micel<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wine Scyldinga,</div>
+<div class='line'>modes brecða.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Monig oft gesæt</div>
+<div class='line'>rice to rune;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ræd eahtedon</div>
+<div class='line'>hwæt swiðferhðum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>selest wære</div>
+<div class='line'>wið færgryrum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to gefremmanne.</div>
+<div class='line'>Hwilum hie geheton<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æt hærgtrafum</div>
+<div class='line'>wigweorþunga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wordum bædon</div>
+<div class='line'>þæt him gastbona<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geoce gefremede</div>
+<div class='line'>wið þeodþreaum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Swylc wæs þeaw hyra,</div>
+<div class='line'>hæþenra hyht;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helle gemundon</div>
+<div class='line'>in modsefan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>metod hie ne cuþon,</div>
+<div class='line'>dæda demend,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne wiston hie drihten god,</div>
+<div class='line'>ne hie huru heofena helm<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>herian ne cuþon,</div>
+<div class='line'>wuldres waldend.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wa bið þæm ðe sceal</div>
+<div class='line'>þurh sliðne nið<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sawle bescufan</div>
+<div class='line'>in fyres fæþm,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frofre ne wenan,</div>
+<div class='line'>wihte gewendan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wel bið þæm þe mot</div>
+<div class='line'>æfter deaðdæge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>drihten secean</div>
+<div class='line'>ond to fæder fæþmum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>freoðo wilnian.</div>
   
-Swa ða mælceare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maga Healfdenes  
-singala seað,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne mihte snotor hæleð  
-wean onwendan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs þæt gewin to swyð,  
-laþ ond longsum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe on ða leode becom,  
-nydwracu niþgrim,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nihtbealwa mæst.  
-Þæt fram ham gefrægn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelaces þegn,  
-god mid Geatum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendles dæda;  
-se wæs moncynnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenes strengest  
-on þæm dæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þysses lifes,  
-æþele ond eacen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Het him yðlidan  
-godne gegyrwan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cwæð, he guðcyning  
-ofer swanrade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secean wolde,  
-mærne þeoden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa him wæs manna þearf.  
-Ðone siðfæt him&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snotere ceorlas  
-lythwon logon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah he him leof wære;  
-hwetton higerofne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hæl sceawedon.  
-Hæfde se goda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leoda  
-cempan gecorone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara þe he cenoste  
-findan mihte;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;XVna sum  
-sundwudu sohte;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secg wisade,  
-lagucræftig mon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;landgemyrcu.  
-Fyrst forð gewat.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flota wæs on yðum,  
-bat under beorge.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beornas gearwe  
-on stefn stigon;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;streamas wundon,  
-sund wið sande;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgas bæron  
-on bearm nacan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorhte frætwe,  
-guðsearo geatolic;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guman ut scufon,  
-weras on wilsið,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wudu bundenne.  
-Gewat þa ofer wægholm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;winde gefysed,  
-flota famiheals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fugle gelicost,  
-oðþæt ymb antid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþres dogores  
-wundenstefna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gewaden hæfde  
-þæt ða liðende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;land gesawon,  
-brimclifu blican,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorgas steape,  
-side sænæssas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa wæs sund liden,  
-eoletes æt ende.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þanon up hraðe  
-Wedera leode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on wang stigon,  
-sæwudu sældon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(syrcan hrysedon,  
-guðgewædo),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode þancedon  
-þæs þe him yþlade&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eaðe wurdon.  
-Þa of wealle geseah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weard Scildinga,  
-se þe holmclifu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;healdan scolde,  
-beran ofer bolcan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorhte randas,  
-fyrdsearu fuslicu;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hine fyrwyt bræc  
-modgehygdum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæt þa men wæron.  
-Gewat him þa to waroðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wicge ridan  
-þegn Hroðgares,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þrymmum cwehte  
-mægenwudu mundum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meþelwordum frægn:  
-"Hwæt syndon ge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;searohæbbendra,  
-byrnum werede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe þus brontne ceol  
-ofer lagustræte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lædan cwomon,  
-hider ofer holmas?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...le wæs  
-endesæta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ægwearde heold,  
-þe on land Dena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laðra nænig  
-mid scipherge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceðþan ne meahte.  
-No her cuðlicor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cuman ongunnon  
-lindhæbbende;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne ge leafnesword  
-guðfremmendra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearwe ne wisson,  
-maga gemedu.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næfre ic maran geseah  
-eorla ofer eorþan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne is eower sum,  
-secg on searwum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nis þæt seldguma,  
-wæpnum geweorðad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næfne him his wlite leoge,  
-ænlic ansyn.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu ic eower sceal  
-frumcyn witan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær ge fyr heonan,  
-leassceaweras,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on land Dena  
-furþur feran.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu ge feorbuend,  
-mereliðende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minne gehyrað  
-anfealdne geþoht:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ofost is selest  
-to gecyðanne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwanan eowre cyme syndon."  
+<div class='line'>Swa ða mælceare<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>maga Healfdenes</div>
+<div class='line'>singala seað,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne mihte snotor hæleð</div>
+<div class='line'>wean onwendan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs þæt gewin to swyð,</div>
+<div class='line'>laþ ond longsum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe on ða leode becom,</div>
+<div class='line'>nydwracu niþgrim,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nihtbealwa mæst.</div>
+<div class='line'>Þæt fram ham gefrægn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Higelaces þegn,</div>
+<div class='line'>god mid Geatum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Grendles dæda;</div>
+<div class='line'>se wæs moncynnes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mægenes strengest</div>
+<div class='line'>on þæm dæge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þysses lifes,</div>
+<div class='line'>æþele ond eacen.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Het him yðlidan</div>
+<div class='line'>godne gegyrwan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cwæð, he guðcyning</div>
+<div class='line'>ofer swanrade<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secean wolde,</div>
+<div class='line'>mærne þeoden,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa him wæs manna þearf.</div>
+<div class='line'>Ðone siðfæt him<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>snotere ceorlas</div>
+<div class='line'>lythwon logon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah he him leof wære;</div>
+<div class='line'>hwetton higerofne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hæl sceawedon.</div>
+<div class='line'>Hæfde se goda<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geata leoda</div>
+<div class='line'>cempan gecorone<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þara þe he cenoste</div>
+<div class='line'>findan mihte;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>XVna sum</div>
+<div class='line'>sundwudu sohte;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secg wisade,</div>
+<div class='line'>lagucræftig mon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>landgemyrcu.</div>
+<div class='line'>Fyrst forð gewat.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Flota wæs on yðum,</div>
+<div class='line'>bat under beorge.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Beornas gearwe</div>
+<div class='line'>on stefn stigon;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>streamas wundon,</div>
+<div class='line'>sund wið sande;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secgas bæron</div>
+<div class='line'>on bearm nacan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beorhte frætwe,</div>
+<div class='line'>guðsearo geatolic;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guman ut scufon,</div>
+<div class='line'>weras on wilsið,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wudu bundenne.</div>
+<div class='line'>Gewat þa ofer wægholm,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>winde gefysed,</div>
+<div class='line'>flota famiheals<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fugle gelicost,</div>
+<div class='line'>oðþæt ymb antid<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþres dogores</div>
+<div class='line'>wundenstefna<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gewaden hæfde</div>
+<div class='line'>þæt ða liðende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>land gesawon,</div>
+<div class='line'>brimclifu blican,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beorgas steape,</div>
+<div class='line'>side sænæssas;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa wæs sund liden,</div>
+<div class='line'>eoletes æt ende.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þanon up hraðe</div>
+<div class='line'>Wedera leode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on wang stigon,</div>
+<div class='line'>sæwudu sældon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(syrcan hrysedon,</div>
+<div class='line'>guðgewædo),<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gode þancedon</div>
+<div class='line'>þæs þe him yþlade<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eaðe wurdon.</div>
+<div class='line'>Þa of wealle geseah<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weard Scildinga,</div>
+<div class='line'>se þe holmclifu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>healdan scolde,</div>
+<div class='line'>beran ofer bolcan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beorhte randas,</div>
+<div class='line'>fyrdsearu fuslicu;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hine fyrwyt bræc</div>
+<div class='line'>modgehygdum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwæt þa men wæron.</div>
+<div class='line'>Gewat him þa to waroðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wicge ridan</div>
+<div class='line'>þegn Hroðgares,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þrymmum cwehte</div>
+<div class='line'>mægenwudu mundum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>meþelwordum frægn:</div>
+<div class='line'>"Hwæt syndon ge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>searohæbbendra,</div>
+<div class='line'>byrnum werede,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe þus brontne ceol</div>
+<div class='line'>ofer lagustræte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lædan cwomon,</div>
+<div class='line'>hider ofer holmas?<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>...le wæs</div>
+<div class='line'>endesæta,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ægwearde heold,</div>
+<div class='line'>þe on land Dena<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>laðra nænig</div>
+<div class='line'>mid scipherge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sceðþan ne meahte.</div>
+<div class='line'>No her cuðlicor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cuman ongunnon</div>
+<div class='line'>lindhæbbende;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne ge leafnesword</div>
+<div class='line'>guðfremmendra<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gearwe ne wisson,</div>
+<div class='line'>maga gemedu.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næfre ic maran geseah</div>
+<div class='line'>eorla ofer eorþan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðonne is eower sum,</div>
+<div class='line'>secg on searwum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nis þæt seldguma,</div>
+<div class='line'>wæpnum geweorðad,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>næfne him his wlite leoge,</div>
+<div class='line'>ænlic ansyn.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nu ic eower sceal</div>
+<div class='line'>frumcyn witan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær ge fyr heonan,</div>
+<div class='line'>leassceaweras,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on land Dena</div>
+<div class='line'>furþur feran.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nu ge feorbuend,</div>
+<div class='line'>mereliðende,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>minne gehyrað</div>
+<div class='line'>anfealdne geþoht:<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ofost is selest</div>
+<div class='line'>to gecyðanne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwanan eowre cyme syndon."</div>
   
-Him se yldesta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ondswarode,  
-werodes wisa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordhord onleac:  
-"We synt gumcynnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leode  
-ond Higelaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorðgeneatas.  
-Wæs min fæder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folcum gecyþed,  
-æþele ordfruma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ecgþeow haten.  
-Gebad wintra worn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær he on weg hwurfe,  
-gamol of geardum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hine gearwe geman  
-witena welhwylc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide geond eorþan.  
-We þurh holdne hige&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlaford þinne,  
-sunu Healfdenes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secean cwomon,  
-leodgebyrgean;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wes þu us larena god.  
-Habbað we to þæm mæran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;micel ærende,  
-Deniga frean,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne sceal þær dyrne sum  
-wesan, þæs ic wene.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þu wast (gif hit is  
-swa we soþlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgan hyrdon)  
-þæt mid Scyldingum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceaðona ic nat hwylc,  
-deogol dædhata,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deorcum nihtum  
-eaweð þurh egsan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uncuðne nið,  
-hynðu ond hrafyl.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þæs Hroðgar mæg  
-þurh rumne sefan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ræd gelæran,  
-hu he frod ond god&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feond oferswyðeþ,  
-gyf him edwendan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfre scolde  
-bealuwa bisigu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bot eft cuman,  
-ond þa cearwylmas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;colran wurðaþ;  
-oððe a syþðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earfoðþrage,  
-þreanyd þolað,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þenden þær wunað  
-on heahstede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;husa selest."  
-Weard maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær on wicge sæt,  
-ombeht unforht:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"æghwæþres sceal  
-scearp scyldwiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gescad witan,  
-worda ond worca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe wel þenceð.  
-Ic þæt gehyre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þis is hold weorod  
-frean Scyldinga.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gewitaþ forð beran  
-wæpen ond gewædu;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic eow wisige.  
-Swylce ic maguþegnas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine hate  
-wið feonda gehwone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flotan eowerne,  
-niwtyrwydne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nacan on sande  
-arum healdan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþðæt eft byreð  
-ofer lagustreamas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofne mannan  
-wudu wundenhals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to Wedermearce,  
-godfremmendra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylcum gifeþe bið  
-þæt þone hilderæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hal gedigeð."  
-Gewiton him þa feran.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Flota stille bad,  
-seomode on sale&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sidfæþmed scip,  
-on ancre fæst.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eoforlic scionon  
-ofer hleorberan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gehroden golde,  
-fah ond fyrheard;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ferhwearde heold  
-guþmod grimmon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guman onetton,  
-sigon ætsomne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt hy sæl timbred,  
-geatolic ond goldfah,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongyton mihton;  
-þæt wæs foremærost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;foldbuendum  
-receda under roderum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on þæm se rica bad;  
-lixte se leoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer landa fela.  
-Him þa hildedeor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hof modigra  
-torht getæhte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie him to mihton  
-gegnum gangan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðbeorna sum  
-wicg gewende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;word æfter cwæð:  
-"Mæl is me to feran;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæder alwalda  
-mid arstafum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eowic gehealde  
-siða gesunde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic to sæ wille  
-wið wrað werod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wearde healdan."  
+<div class='line'>Him se yldesta<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ondswarode,</div>
+<div class='line'>werodes wisa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wordhord onleac:</div>
+<div class='line'>"We synt gumcynnes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geata leode</div>
+<div class='line'>ond Higelaces<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heorðgeneatas.</div>
+<div class='line'>Wæs min fæder<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>folcum gecyþed,</div>
+<div class='line'>æþele ordfruma,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ecgþeow haten.</div>
+<div class='line'>Gebad wintra worn,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær he on weg hwurfe,</div>
+<div class='line'>gamol of geardum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hine gearwe geman</div>
+<div class='line'>witena welhwylc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wide geond eorþan.</div>
+<div class='line'>We þurh holdne hige<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hlaford þinne,</div>
+<div class='line'>sunu Healfdenes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secean cwomon,</div>
+<div class='line'>leodgebyrgean;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wes þu us larena god.</div>
+<div class='line'>Habbað we to þæm mæran<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>micel ærende,</div>
+<div class='line'>Deniga frean,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne sceal þær dyrne sum</div>
+<div class='line'>wesan, þæs ic wene.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þu wast (gif hit is</div>
+<div class='line'>swa we soþlice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secgan hyrdon)</div>
+<div class='line'>þæt mid Scyldingum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sceaðona ic nat hwylc,</div>
+<div class='line'>deogol dædhata,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>deorcum nihtum</div>
+<div class='line'>eaweð þurh egsan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>uncuðne nið,</div>
+<div class='line'>hynðu ond hrafyl.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic þæs Hroðgar mæg</div>
+<div class='line'>þurh rumne sefan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ræd gelæran,</div>
+<div class='line'>hu he frod ond god<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feond oferswyðeþ,</div>
+<div class='line'>gyf him edwendan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æfre scolde</div>
+<div class='line'>bealuwa bisigu,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bot eft cuman,</div>
+<div class='line'>ond þa cearwylmas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>colran wurðaþ;</div>
+<div class='line'>oððe a syþðan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>earfoðþrage,</div>
+<div class='line'>þreanyd þolað,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þenden þær wunað</div>
+<div class='line'>on heahstede<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>husa selest."</div>
+<div class='line'>Weard maþelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðær on wicge sæt,</div>
+<div class='line'>ombeht unforht:<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>"æghwæþres sceal</div>
+<div class='line'>scearp scyldwiga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gescad witan,</div>
+<div class='line'>worda ond worca,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þe wel þenceð.</div>
+<div class='line'>Ic þæt gehyre,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt þis is hold weorod</div>
+<div class='line'>frean Scyldinga.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Gewitaþ forð beran</div>
+<div class='line'>wæpen ond gewædu;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ic eow wisige.</div>
+<div class='line'>Swylce ic maguþegnas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mine hate</div>
+<div class='line'>wið feonda gehwone<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>flotan eowerne,</div>
+<div class='line'>niwtyrwydne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nacan on sande</div>
+<div class='line'>arum healdan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþðæt eft byreð</div>
+<div class='line'>ofer lagustreamas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leofne mannan</div>
+<div class='line'>wudu wundenhals<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to Wedermearce,</div>
+<div class='line'>godfremmendra<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swylcum gifeþe bið</div>
+<div class='line'>þæt þone hilderæs<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hal gedigeð."</div>
+<div class='line'>Gewiton him þa feran.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Flota stille bad,</div>
+<div class='line'>seomode on sale<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sidfæþmed scip,</div>
+<div class='line'>on ancre fæst.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Eoforlic scionon</div>
+<div class='line'>ofer hleorberan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gehroden golde,</div>
+<div class='line'>fah ond fyrheard;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ferhwearde heold</div>
+<div class='line'>guþmod grimmon.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Guman onetton,</div>
+<div class='line'>sigon ætsomne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþþæt hy sæl timbred,</div>
+<div class='line'>geatolic ond goldfah,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ongyton mihton;</div>
+<div class='line'>þæt wæs foremærost<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>foldbuendum</div>
+<div class='line'>receda under roderum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on þæm se rica bad;</div>
+<div class='line'>lixte se leoma<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ofer landa fela.</div>
+<div class='line'>Him þa hildedeor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hof modigra</div>
+<div class='line'>torht getæhte,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hie him to mihton</div>
+<div class='line'>gegnum gangan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guðbeorna sum</div>
+<div class='line'>wicg gewende,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>word æfter cwæð:</div>
+<div class='line'>"Mæl is me to feran;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæder alwalda</div>
+<div class='line'>mid arstafum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eowic gehealde</div>
+<div class='line'>siða gesunde.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic to sæ wille</div>
+<div class='line'>wið wrað werod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wearde healdan."</div>
   
-Stræt wæs stanfah,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stig wisode  
-gumum ætgædere.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guðbyrne scan  
-heard hondlocen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringiren scir  
-song in searwum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa hie to sele furðum  
-in hyra gryregeatwum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gangan cwomon.  
-Setton sæmeþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;side scyldas,  
-rondas regnhearde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wið þæs recedes weal,  
-bugon þa to bence.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Byrnan hringdon,  
-guðsearo gumena;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;garas stodon,  
-sæmanna searo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samod ætgædere,  
-æscholt ufan græg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs se irenþreat  
-wæpnum gewurþad.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa ðær wlonc hæleð  
-oretmecgas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfter æþelum frægn:  
-"Hwanon ferigeað ge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fætte scyldas,  
-græge syrcan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond grimhelmas,  
-heresceafta heap?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic eom Hroðgares  
-ar ond ombiht.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne seah ic elþeodige  
-þus manige men&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;modiglicran.  
-Wen ic þæt ge for wlenco,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalles for wræcsiðum,  
-ac for higeþrymmum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroðgar sohton."  
-Him þa ellenrof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;andswarode,  
-wlanc Wedera leod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;word æfter spræc,  
-heard under helme:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"We synt Higelaces  
-beodgeneatas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulf is min nama.  
-Wille ic asecgan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Healfdenes,  
-mærum þeodne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;min ærende,  
-aldre þinum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif he us geunnan wile  
-þæt we hine swa godne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gretan moton."  
-Wulfgar maþelode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(þæt wæs Wendla leod;  
-wæs his modsefa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manegum gecyðed,  
-wig ond wisdom):&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Ic þæs wine Deniga,  
-frean Scildinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frinan wille,  
-beaga bryttan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa þu bena eart,  
-þeoden mærne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ymb þinne sið,  
-ond þe þa ondsware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ædre gecyðan  
-ðe me se goda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;agifan þenceð."  
-Hwearf þa hrædlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær Hroðgar sæt  
-eald ond anhar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid his eorla gedriht;  
-eode ellenrof,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he for eaxlum gestod  
-Deniga frean;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cuþe he duguðe þeaw.  
-Wulfgar maðelode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to his winedrihtne:  
-"Her syndon geferede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorran cumene  
-ofer geofenes begang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leode;  
-þone yldestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oretmecgas  
-Beowulf nemnað.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hy benan synt  
-þæt hie, þeoden min,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wið þe moton  
-wordum wrixlan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No ðu him wearne geteoh  
-ðinra gegncwida,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;glædman Hroðgar.  
-Hy on wiggetawum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrðe þinceað  
-eorla geæhtlan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;huru se aldor deah,  
-se þæm heaðorincum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hider wisade."  
+<div class='line'>Stræt wæs stanfah,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>stig wisode</div>
+<div class='line'>gumum ætgædere.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Guðbyrne scan</div>
+<div class='line'>heard hondlocen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hringiren scir</div>
+<div class='line'>song in searwum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa hie to sele furðum</div>
+<div class='line'>in hyra gryregeatwum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gangan cwomon.</div>
+<div class='line'>Setton sæmeþe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>side scyldas,</div>
+<div class='line'>rondas regnhearde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wið þæs recedes weal,</div>
+<div class='line'>bugon þa to bence.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Byrnan hringdon,</div>
+<div class='line'>guðsearo gumena;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>garas stodon,</div>
+<div class='line'>sæmanna searo,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>samod ætgædere,</div>
+<div class='line'>æscholt ufan græg;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs se irenþreat</div>
+<div class='line'>wæpnum gewurþad.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa ðær wlonc hæleð</div>
+<div class='line'>oretmecgas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æfter æþelum frægn:</div>
+<div class='line'>"Hwanon ferigeað ge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fætte scyldas,</div>
+<div class='line'>græge syrcan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond grimhelmas,</div>
+<div class='line'>heresceafta heap?<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic eom Hroðgares</div>
+<div class='line'>ar ond ombiht.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne seah ic elþeodige</div>
+<div class='line'>þus manige men<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>modiglicran.</div>
+<div class='line'>Wen ic þæt ge for wlenco,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nalles for wræcsiðum,</div>
+<div class='line'>ac for higeþrymmum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hroðgar sohton."</div>
+<div class='line'>Him þa ellenrof<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>andswarode,</div>
+<div class='line'>wlanc Wedera leod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>word æfter spræc,</div>
+<div class='line'>heard under helme:<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>"We synt Higelaces</div>
+<div class='line'>beodgeneatas;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Beowulf is min nama.</div>
+<div class='line'>Wille ic asecgan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu Healfdenes,</div>
+<div class='line'>mærum þeodne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>min ærende,</div>
+<div class='line'>aldre þinum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gif he us geunnan wile</div>
+<div class='line'>þæt we hine swa godne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gretan moton."</div>
+<div class='line'>Wulfgar maþelode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(þæt wæs Wendla leod;</div>
+<div class='line'>wæs his modsefa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>manegum gecyðed,</div>
+<div class='line'>wig ond wisdom):<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>"Ic þæs wine Deniga,</div>
+<div class='line'>frean Scildinga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frinan wille,</div>
+<div class='line'>beaga bryttan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa þu bena eart,</div>
+<div class='line'>þeoden mærne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ymb þinne sið,</div>
+<div class='line'>ond þe þa ondsware<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ædre gecyðan</div>
+<div class='line'>ðe me se goda<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>agifan þenceð."</div>
+<div class='line'>Hwearf þa hrædlice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær Hroðgar sæt</div>
+<div class='line'>eald ond anhar<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mid his eorla gedriht;</div>
+<div class='line'>eode ellenrof,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he for eaxlum gestod</div>
+<div class='line'>Deniga frean;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cuþe he duguðe þeaw.</div>
+<div class='line'>Wulfgar maðelode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to his winedrihtne:</div>
+<div class='line'>"Her syndon geferede,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorran cumene</div>
+<div class='line'>ofer geofenes begang<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geata leode;</div>
+<div class='line'>þone yldestan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oretmecgas</div>
+<div class='line'>Beowulf nemnað.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hy benan synt</div>
+<div class='line'>þæt hie, þeoden min,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wið þe moton</div>
+<div class='line'>wordum wrixlan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>No ðu him wearne geteoh</div>
+<div class='line'>ðinra gegncwida,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>glædman Hroðgar.</div>
+<div class='line'>Hy on wiggetawum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wyrðe þinceað</div>
+<div class='line'>eorla geæhtlan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>huru se aldor deah,</div>
+<div class='line'>se þæm heaðorincum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hider wisade."</div>
   
-Hroðgar maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm Scyldinga:  
-"Ic hine cuðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cnihtwesende.  
-Wæs his ealdfæder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ecgþeo haten,  
-ðæm to ham forgeaf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hreþel Geata  
-angan dohtor;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;is his eafora nu  
-heard her cumen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sohte holdne wine.  
-Ðonne sægdon þæt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sæliþende,  
-þa ðe gifsceattas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata fyredon  
-þyder to þance,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he XXXtiges  
-manna mægencræft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on his mundgripe  
-heaþorof hæbbe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hine halig god  
-for arstafum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;us onsende,  
-to Westdenum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs ic wen hæbbe,  
-wið Grendles gryre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þæm godan sceal  
-for his modþræce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;madmas beodan.  
-Beo ðu on ofeste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hat in gan  
-seon sibbegedriht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samod ætgædere;  
-gesaga him eac wordum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie sint wilcuman  
-Deniga leodum."&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<div class='line'>Hroðgar maþelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helm Scyldinga:</div>
+<div class='line'>"Ic hine cuðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cnihtwesende.</div>
+<div class='line'>Wæs his ealdfæder<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ecgþeo haten,</div>
+<div class='line'>ðæm to ham forgeaf<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hreþel Geata</div>
+<div class='line'>angan dohtor;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>is his eafora nu</div>
+<div class='line'>heard her cumen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sohte holdne wine.</div>
+<div class='line'>Ðonne sægdon þæt<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sæliþende,</div>
+<div class='line'>þa ðe gifsceattas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geata fyredon</div>
+<div class='line'>þyder to þance,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he XXXtiges</div>
+<div class='line'>manna mægencræft<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on his mundgripe</div>
+<div class='line'>heaþorof hæbbe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hine halig god</div>
+<div class='line'>for arstafum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>us onsende,</div>
+<div class='line'>to Westdenum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæs ic wen hæbbe,</div>
+<div class='line'>wið Grendles gryre.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic þæm godan sceal</div>
+<div class='line'>for his modþræce<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>madmas beodan.</div>
+<div class='line'>Beo ðu on ofeste,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hat in gan</div>
+<div class='line'>seon sibbegedriht<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>samod ætgædere;</div>
+<div class='line'>gesaga him eac wordum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hie sint wilcuman</div>
+<div class='line'>Deniga leodum."<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;word inne abead:  
-"Eow het secgan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sigedrihten min,  
-aldor Eastdena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he eower æþelu can,  
-ond ge him syndon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer sæwylmas  
-heardhicgende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hider wilcuman.  
-Nu ge moton gangan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in eowrum guðgeatawum  
-under heregriman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroðgar geseon;  
-lætað hildebord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;her onbidan,  
-wudu, wælsceaftas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worda geþinges."  
-Aras þa se rica,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ymb hine rinc manig,  
-þryðlic þegna heap;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sume þær bidon,  
-heaðoreaf heoldon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him se hearda bebead.  
-Snyredon ætsomne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa secg wisode,  
-under Heorotes hrof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-heard under helme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he on heoðe gestod.  
-Beowulf maðelode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(on him byrne scan,  
-searonet seowed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;smiþes orþancum):  
-"Wæs þu, Hroðgar, hal!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic eom Higelaces  
-mæg ond magoðegn;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hæbbe ic mærða fela  
-ongunnen on geogoþe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Me wearð Grendles þing  
-on minre eþeltyrf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;undyrne cuð;  
-secgað sæliðend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þæs sele stande,  
-reced selesta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rinca gehwylcum  
-idel ond unnyt,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siððan æfenleoht  
-under heofenes hador&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beholen weorþeð.  
-Þa me þæt gelærdon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leode mine  
-þa selestan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snotere ceorlas,  
-þeoden Hroðgar,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic þe sohte,  
-forþan hie mægenes cræft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minne cuþon,  
-selfe ofersawon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða ic of searwum cwom,  
-fah from feondum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær ic fife geband,  
-yðde eotena cyn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on yðum slog  
-niceras nihtes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nearoþearfe dreah,  
-wræc Wedera nið&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(wean ahsodon),  
-forgrand gramum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond nu wið Grendel sceal,  
-wið þam aglæcan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ana gehegan  
-ðing wið þyrse.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þe nu ða,  
-brego Beorhtdena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biddan wille,  
-eodor Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anre bene,  
-þæt ðu me ne forwyrne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigendra hleo,  
-freowine folca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nu ic þus feorran com,  
-þæt ic mote ana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond minra eorla gedryht,  
-þes hearda heap,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heorot fælsian.  
-Hæbbe ic eac geahsod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt se æglæca  
-for his wonhydum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæpna ne recceð.  
-Ic þæt þonne forhicge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(swa me Higelac sie,  
-min mondrihten,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;modes bliðe),  
-þæt ic sweord bere&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþðe sidne scyld,  
-geolorand to guþe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac ic mid grape sceal  
-fon wið feonde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond ymb feorh sacan,  
-lað wið laþum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær gelyfan sceal  
-dryhtnes dome&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe hine deað nimeð.  
-Wen ic þæt he wille,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif he wealdan mot,  
-in þæm guðsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geotena leode  
-etan unforhte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he oft dyde,  
-mægen Hreðmanna.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na þu minne þearft  
-hafalan hydan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he me habban wile  
-dreore fahne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif mec deað nimeð.  
-Byreð blodig wæl,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byrgean þenceð,  
-eteð angenga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unmurnlice,  
-mearcað morhopu;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no ðu ymb mines ne þearft  
-lices feorme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leng sorgian.  
-Onsend Higelace,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif mec hild nime,  
-beaduscruda betst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt mine breost wereð,  
-hrægla selest;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt is Hrædlan laf,  
-Welandes geweorc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gæð a wyrd swa hio scel."  
+<div class='line'>"Eow het secgan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sigedrihten min,</div>
+<div class='line'>aldor Eastdena,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he eower æþelu can,</div>
+<div class='line'>ond ge him syndon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ofer sæwylmas</div>
+<div class='line'>heardhicgende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hider wilcuman.</div>
+<div class='line'>Nu ge moton gangan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>in eowrum guðgeatawum</div>
+<div class='line'>under heregriman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hroðgar geseon;</div>
+<div class='line'>lætað hildebord<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>her onbidan,</div>
+<div class='line'>wudu, wælsceaftas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>worda geþinges."</div>
+<div class='line'>Aras þa se rica,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ymb hine rinc manig,</div>
+<div class='line'>þryðlic þegna heap;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sume þær bidon,</div>
+<div class='line'>heaðoreaf heoldon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa him se hearda bebead.</div>
+<div class='line'>Snyredon ætsomne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa secg wisode,</div>
+<div class='line'>under Heorotes hrof<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+<div class='line'>heard under helme,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he on heoðe gestod.</div>
+<div class='line'>Beowulf maðelode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(on him byrne scan,</div>
+<div class='line'>searonet seowed<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>smiþes orþancum):</div>
+<div class='line'>"Wæs þu, Hroðgar, hal!<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic eom Higelaces</div>
+<div class='line'>mæg ond magoðegn;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hæbbe ic mærða fela</div>
+<div class='line'>ongunnen on geogoþe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Me wearð Grendles þing</div>
+<div class='line'>on minre eþeltyrf<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>undyrne cuð;</div>
+<div class='line'>secgað sæliðend<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt þæs sele stande,</div>
+<div class='line'>reced selesta,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>rinca gehwylcum</div>
+<div class='line'>idel ond unnyt,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>siððan æfenleoht</div>
+<div class='line'>under heofenes hador<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beholen weorþeð.</div>
+<div class='line'>Þa me þæt gelærdon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leode mine</div>
+<div class='line'>þa selestan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>snotere ceorlas,</div>
+<div class='line'>þeoden Hroðgar,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ic þe sohte,</div>
+<div class='line'>forþan hie mægenes cræft<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>minne cuþon,</div>
+<div class='line'>selfe ofersawon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða ic of searwum cwom,</div>
+<div class='line'>fah from feondum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær ic fife geband,</div>
+<div class='line'>yðde eotena cyn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond on yðum slog</div>
+<div class='line'>niceras nihtes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nearoþearfe dreah,</div>
+<div class='line'>wræc Wedera nið<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(wean ahsodon),</div>
+<div class='line'>forgrand gramum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond nu wið Grendel sceal,</div>
+<div class='line'>wið þam aglæcan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ana gehegan</div>
+<div class='line'>ðing wið þyrse.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic þe nu ða,</div>
+<div class='line'>brego Beorhtdena,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>biddan wille,</div>
+<div class='line'>eodor Scyldinga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>anre bene,</div>
+<div class='line'>þæt ðu me ne forwyrne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wigendra hleo,</div>
+<div class='line'>freowine folca,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nu ic þus feorran com,</div>
+<div class='line'>þæt ic mote ana<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond minra eorla gedryht,</div>
+<div class='line'>þes hearda heap,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Heorot fælsian.</div>
+<div class='line'>Hæbbe ic eac geahsod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt se æglæca</div>
+<div class='line'>for his wonhydum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæpna ne recceð.</div>
+<div class='line'>Ic þæt þonne forhicge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(swa me Higelac sie,</div>
+<div class='line'>min mondrihten,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>modes bliðe),</div>
+<div class='line'>þæt ic sweord bere<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþðe sidne scyld,</div>
+<div class='line'>geolorand to guþe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac ic mid grape sceal</div>
+<div class='line'>fon wið feonde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond ymb feorh sacan,</div>
+<div class='line'>lað wið laþum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðær gelyfan sceal</div>
+<div class='line'>dryhtnes dome<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þe hine deað nimeð.</div>
+<div class='line'>Wen ic þæt he wille,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gif he wealdan mot,</div>
+<div class='line'>in þæm guðsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geotena leode</div>
+<div class='line'>etan unforhte,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa he oft dyde,</div>
+<div class='line'>mægen Hreðmanna.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Na þu minne þearft</div>
+<div class='line'>hafalan hydan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac he me habban wile</div>
+<div class='line'>dreore fahne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gif mec deað nimeð.</div>
+<div class='line'>Byreð blodig wæl,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>byrgean þenceð,</div>
+<div class='line'>eteð angenga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>unmurnlice,</div>
+<div class='line'>mearcað morhopu;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>no ðu ymb mines ne þearft</div>
+<div class='line'>lices feorme<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leng sorgian.</div>
+<div class='line'>Onsend Higelace,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gif mec hild nime,</div>
+<div class='line'>beaduscruda betst,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt mine breost wereð,</div>
+<div class='line'>hrægla selest;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt is Hrædlan laf,</div>
+<div class='line'>Welandes geweorc.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Gæð a wyrd swa hio scel."</div>
   
-Hroðgar maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm Scyldinga:  
-"For gewyrhtum þu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine min Beowulf,  
-ond for arstafum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;usic sohtest.  
-Gesloh þin fæder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæhðe mæste;  
-wearþ he Heaþolafe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to handbonan  
-mid Wilfingum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða hine Wedera cyn  
-for herebrogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;habban ne mihte.  
-Þanon he gesohte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Suðdena folc  
-ofer yða gewealc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arscyldinga.  
-Ða ic furþum weold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folce Deniga  
-ond on geogoðe heold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ginne rice,  
-hordburh hæleþa;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða wæs Heregar dead,  
-min yldra mæg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unlifigende,  
-bearn Healfdenes;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se wæs betera ðonne ic.  
-Siððan þa fæhðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feo þingode;  
-sende ic Wylfingum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer wæteres hrycg  
-ealde madmas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he me aþas swor.  
-Sorh is me to secganne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sefan minum  
-gumena ængum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæt me Grendel hafað  
-hynðo on Heorote&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid his heteþancum,  
-færniða gefremed.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Is min fletwerod,  
-wigheap gewanod;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hie wyrd forsweop  
-on Grendles gryre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;God eaþe mæg  
-þone dolsceaðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dæda getwæfan.  
-Ful oft gebeotedon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beore druncne  
-ofer ealowæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oretmecgas  
-þæt hie in beorsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bidan woldon  
-Grendles guþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid gryrum ecga.  
-Ðonne wæs þeos medoheal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on morgentid,  
-drihtsele dreorfah,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne dæg lixte,  
-eal bencþelu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blode bestymed,  
-heall heorudreore;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ahte ic holdra þy læs,  
-deorre duguðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe þa deað fornam.  
-Site nu to symle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond onsæl meoto,  
-sigehreð secgum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa þin sefa hwette."  
-Þa wæs Geatmæcgum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geador ætsomne  
-on beorsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;benc gerymed;  
-þær swiðferhþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sittan eodon,  
-þryðum dealle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þegn nytte beheold,  
-se þe on handa bær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hroden ealowæge,  
-scencte scir wered.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scop hwilum sang  
-hador on Heorote.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þær wæs hæleða dream,  
-duguð unlytel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dena ond Wedera.  
+<div class='line'>Hroðgar maþelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helm Scyldinga:</div>
+<div class='line'>"For gewyrhtum þu,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wine min Beowulf,</div>
+<div class='line'>ond for arstafum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>usic sohtest.</div>
+<div class='line'>Gesloh þin fæder<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæhðe mæste;</div>
+<div class='line'>wearþ he Heaþolafe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to handbonan</div>
+<div class='line'>mid Wilfingum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða hine Wedera cyn</div>
+<div class='line'>for herebrogan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>habban ne mihte.</div>
+<div class='line'>Þanon he gesohte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Suðdena folc</div>
+<div class='line'>ofer yða gewealc,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Arscyldinga.</div>
+<div class='line'>Ða ic furþum weold<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>folce Deniga</div>
+<div class='line'>ond on geogoðe heold<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ginne rice,</div>
+<div class='line'>hordburh hæleþa;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða wæs Heregar dead,</div>
+<div class='line'>min yldra mæg<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>unlifigende,</div>
+<div class='line'>bearn Healfdenes;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se wæs betera ðonne ic.</div>
+<div class='line'>Siððan þa fæhðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feo þingode;</div>
+<div class='line'>sende ic Wylfingum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ofer wæteres hrycg</div>
+<div class='line'>ealde madmas;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he me aþas swor.</div>
+<div class='line'>Sorh is me to secganne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on sefan minum</div>
+<div class='line'>gumena ængum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwæt me Grendel hafað</div>
+<div class='line'>hynðo on Heorote<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mid his heteþancum,</div>
+<div class='line'>færniða gefremed.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Is min fletwerod,</div>
+<div class='line'>wigheap gewanod;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hie wyrd forsweop</div>
+<div class='line'>on Grendles gryre.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>God eaþe mæg</div>
+<div class='line'>þone dolsceaðan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dæda getwæfan.</div>
+<div class='line'>Ful oft gebeotedon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beore druncne</div>
+<div class='line'>ofer ealowæge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oretmecgas</div>
+<div class='line'>þæt hie in beorsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bidan woldon</div>
+<div class='line'>Grendles guþe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mid gryrum ecga.</div>
+<div class='line'>Ðonne wæs þeos medoheal<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on morgentid,</div>
+<div class='line'>drihtsele dreorfah,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne dæg lixte,</div>
+<div class='line'>eal bencþelu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>blode bestymed,</div>
+<div class='line'>heall heorudreore;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ahte ic holdra þy læs,</div>
+<div class='line'>deorre duguðe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe þa deað fornam.</div>
+<div class='line'>Site nu to symle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond onsæl meoto,</div>
+<div class='line'>sigehreð secgum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa þin sefa hwette."</div>
+<div class='line'>Þa wæs Geatmæcgum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geador ætsomne</div>
+<div class='line'>on beorsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>benc gerymed;</div>
+<div class='line'>þær swiðferhþe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sittan eodon,</div>
+<div class='line'>þryðum dealle.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þegn nytte beheold,</div>
+<div class='line'>se þe on handa bær<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hroden ealowæge,</div>
+<div class='line'>scencte scir wered.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Scop hwilum sang</div>
+<div class='line'>hador on Heorote.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þær wæs hæleða dream,</div>
+<div class='line'>duguð unlytel<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Dena ond Wedera.</div>
   
-Unferð maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ecglafes bearn,  
-þe æt fotum sæt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frean Scyldinga,  
-onband beadurune&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(wæs him Beowulfes sið,  
-modges merefaran,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;micel æfþunca,  
-forþon þe he ne uþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ænig oðer man  
-æfre mærða þon ma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;middangeardes  
-gehedde under heofenum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne he sylfa):  
-"Eart þu se Beowulf,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe wið Brecan wunne,  
-on sidne sæ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ymb sund flite,  
-ðær git for wlence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wada cunnedon  
-ond for dolgilpe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on deop wæter  
-aldrum neþdon?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne inc ænig mon,  
-ne leof ne lað,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;belean mihte  
-sorhfullne sið,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa git on sund reon.  
-Þær git eagorstream&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earmum þehton,  
-mæton merestræta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mundum brugdon,  
-glidon ofer garsecg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geofon yþum weol,  
-wintrys wylmum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Git on wæteres æht  
-seofon niht swuncon;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he þe æt sunde oferflat,  
-hæfde mare mægen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa hine on morgentid  
-on Heaþoræmas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;holm up ætbær;  
-ðonon he gesohte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swæsne ᛟ,  
-leof his leodum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lond Brondinga,  
-freoðoburh fægere,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he folc ahte,  
-burh ond beagas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beot eal wið þe  
-sunu Beanstanes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;soðe gelæste.  
-Ðonne wene ic to þe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrsan geþingea,  
-ðeah þu heaðoræsa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gehwær dohte,  
-grimre guðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif þu Grendles dearst  
-nihtlongne fyrst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nean bidan."  
-Beowulf maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgþeowes:  
-"Hwæt! þu worn fela,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine min Unferð,  
-beore druncen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ymb Brecan spræce,  
-sægdest from his siðe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soð ic talige,  
-þæt ic merestrengo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maran ahte,  
-earfeþo on yþum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne ænig oþer man.  
-Wit þæt gecwædon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cnihtwesende  
-ond gebeotedon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(wæron begen þa git  
-on geogoðfeore)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt wit on garsecg ut  
-aldrum neðdon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þæt geæfndon swa.  
-Hæfdon swurd nacod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa wit on sund reon,  
-heard on handa;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wit unc wið hronfixas  
-werian þohton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No he wiht fram me  
-flodyþum feor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fleotan meahte,  
-hraþor on holme;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no ic fram him wolde.  
-Ða wit ætsomne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sæ wæron  
-fif nihta fyrst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt unc flod todraf,  
-wado weallende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wedera cealdost,  
-nipende niht,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond norþanwind  
-heaðogrim ondhwearf;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hreo wæron yþa.  
-Wæs merefixa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mod onhrered;  
-þær me wið laðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;licsyrce min,  
-heard, hondlocen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helpe gefremede,  
-beadohrægl broden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on breostum læg  
-golde gegyrwed.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Me to grunde teah  
-fah feondscaða,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæste hæfde  
-grim on grape;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæþre me gyfeþe wearð  
-þæt ic aglæcan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;orde geræhte,  
-hildebille;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heaþoræs fornam  
-mihtig meredeor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þurh mine hand.  
+<div class='line'>Unferð maþelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ecglafes bearn,</div>
+<div class='line'>þe æt fotum sæt<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frean Scyldinga,</div>
+<div class='line'>onband beadurune<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(wæs him Beowulfes sið,</div>
+<div class='line'>modges merefaran,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>micel æfþunca,</div>
+<div class='line'>forþon þe he ne uþe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ænig oðer man</div>
+<div class='line'>æfre mærða þon ma<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>middangeardes</div>
+<div class='line'>gehedde under heofenum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne he sylfa):</div>
+<div class='line'>"Eart þu se Beowulf,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þe wið Brecan wunne,</div>
+<div class='line'>on sidne sæ<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ymb sund flite,</div>
+<div class='line'>ðær git for wlence<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wada cunnedon</div>
+<div class='line'>ond for dolgilpe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on deop wæter</div>
+<div class='line'>aldrum neþdon?<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne inc ænig mon,</div>
+<div class='line'>ne leof ne lað,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>belean mihte</div>
+<div class='line'>sorhfullne sið,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa git on sund reon.</div>
+<div class='line'>Þær git eagorstream<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>earmum þehton,</div>
+<div class='line'>mæton merestræta,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mundum brugdon,</div>
+<div class='line'>glidon ofer garsecg;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geofon yþum weol,</div>
+<div class='line'>wintrys wylmum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Git on wæteres æht</div>
+<div class='line'>seofon niht swuncon;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he þe æt sunde oferflat,</div>
+<div class='line'>hæfde mare mægen.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa hine on morgentid</div>
+<div class='line'>on Heaþoræmas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>holm up ætbær;</div>
+<div class='line'>ðonon he gesohte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swæsne ᛟ,</div>
+<div class='line'>leof his leodum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lond Brondinga,</div>
+<div class='line'>freoðoburh fægere,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær he folc ahte,</div>
+<div class='line'>burh ond beagas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Beot eal wið þe</div>
+<div class='line'>sunu Beanstanes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>soðe gelæste.</div>
+<div class='line'>Ðonne wene ic to þe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wyrsan geþingea,</div>
+<div class='line'>ðeah þu heaðoræsa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gehwær dohte,</div>
+<div class='line'>grimre guðe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gif þu Grendles dearst</div>
+<div class='line'>nihtlongne fyrst<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nean bidan."</div>
+<div class='line'>Beowulf maþelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearn Ecgþeowes:</div>
+<div class='line'>"Hwæt! þu worn fela,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wine min Unferð,</div>
+<div class='line'>beore druncen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ymb Brecan spræce,</div>
+<div class='line'>sægdest from his siðe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Soð ic talige,</div>
+<div class='line'>þæt ic merestrengo<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>maran ahte,</div>
+<div class='line'>earfeþo on yþum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðonne ænig oþer man.</div>
+<div class='line'>Wit þæt gecwædon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cnihtwesende</div>
+<div class='line'>ond gebeotedon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(wæron begen þa git</div>
+<div class='line'>on geogoðfeore)<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt wit on garsecg ut</div>
+<div class='line'>aldrum neðdon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þæt geæfndon swa.</div>
+<div class='line'>Hæfdon swurd nacod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa wit on sund reon,</div>
+<div class='line'>heard on handa;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wit unc wið hronfixas</div>
+<div class='line'>werian þohton.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>No he wiht fram me</div>
+<div class='line'>flodyþum feor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fleotan meahte,</div>
+<div class='line'>hraþor on holme;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>no ic fram him wolde.</div>
+<div class='line'>Ða wit ætsomne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on sæ wæron</div>
+<div class='line'>fif nihta fyrst,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþþæt unc flod todraf,</div>
+<div class='line'>wado weallende,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wedera cealdost,</div>
+<div class='line'>nipende niht,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond norþanwind</div>
+<div class='line'>heaðogrim ondhwearf;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hreo wæron yþa.</div>
+<div class='line'>Wæs merefixa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mod onhrered;</div>
+<div class='line'>þær me wið laðum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>licsyrce min,</div>
+<div class='line'>heard, hondlocen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helpe gefremede,</div>
+<div class='line'>beadohrægl broden<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on breostum læg</div>
+<div class='line'>golde gegyrwed.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Me to grunde teah</div>
+<div class='line'>fah feondscaða,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæste hæfde</div>
+<div class='line'>grim on grape;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwæþre me gyfeþe wearð</div>
+<div class='line'>þæt ic aglæcan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>orde geræhte,</div>
+<div class='line'>hildebille;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heaþoræs fornam</div>
+<div class='line'>mihtig meredeor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þurh mine hand.</div>
   
-Swa mec gelome&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laðgeteonan  
-þreatedon þearle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic him þenode  
-deoran sweorde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hit gedefe wæs.  
-Næs hie ðære fylle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gefean hæfdon,  
-manfordædlan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie me þegon,  
-symbel ymbsæton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sægrunde neah;  
-ac on mergenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mecum wunde  
-be yðlafe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uppe lægon,  
-sweordum aswefede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt syðþan na  
-ymb brontne ford&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brimliðende  
-lade ne letton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leoht eastan com,  
-beorht beacen godes;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brimu swaþredon,  
-þæt ic sænæssas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon mihte,  
-windige weallas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wyrd oft nereð  
-unfægne eorl,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne his ellen deah.  
-Hwæþere me gesælde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic mid sweorde ofsloh  
-niceras nigene.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No ic on niht gefrægn  
-under heofones hwealf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heardran feohtan,  
-ne on egstreamum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earmran mannon;  
-hwaþere ic fara feng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feore gedigde,  
-siþes werig.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða mec sæ oþbær,  
-flod æfter faroðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on Finna land,  
-wadu weallendu.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No ic wiht fram þe  
-swylcra searoniða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgan hyrde,  
-billa brogan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Breca næfre git  
-æt heaðolace,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne gehwæþer incer,  
-swa deorlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dæd gefremede  
-fagum sweordum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(no ic þæs fela gylpe),  
-þeah ðu þinum broðrum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to banan wurde,  
-heafodmægum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs þu in helle scealt  
-werhðo dreogan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah þin wit duge.  
-Secge ic þe to soðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Ecglafes,  
-þæt næfre Grendel swa fela&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gryra gefremede,  
-atol æglæca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdre þinum,  
-hynðo on Heorote,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif þin hige wære,  
-sefa swa searogrim,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa þu self talast.  
-Ac he hafað onfunden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he þa fæhðe ne þearf,  
-atole ecgþræce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eower leode  
-swiðe onsittan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigescyldinga;  
-nymeð nydbade,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nænegum arað  
-leode Deniga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he lust wigeð,  
-swefeð ond sendeþ,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secce ne weneþ  
-to Gardenum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ac ic him Geata sceal  
-eafoð ond ellen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ungeara nu,  
-guþe gebeodan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gæþ eft se þe mot  
-to medo modig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siþþan morgenleoht  
-ofer ylda bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþres dogores,  
-sunne sweglwered&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;suþan scineð."  
-Þa wæs on salum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sinces brytta,  
-gamolfeax ond guðrof;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geoce gelyfde  
-brego Beorhtdena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gehyrde on Beowulfe  
-folces hyrde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæstrædne geþoht.  
-Ðær wæs hæleþa hleahtor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlyn swynsode,  
-word wæron wynsume.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eode Wealhþeow forð,  
-cwen Hroðgares,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cynna gemyndig,  
-grette goldhroden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guman on healle,  
-ond þa freolic wif&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ful gesealde  
-ærest Eastdena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eþelwearde,  
-bæd hine bliðne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt þære beorþege,  
-leodum leofne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He on lust geþeah  
-symbel ond seleful,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sigerof kyning.  
-Ymbeode þa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ides Helminga  
-duguþe ond geogoþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dæl æghwylcne,  
-sincfato sealde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt sæl alamp  
-þæt hio Beowulfe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beaghroden cwen  
-mode geþungen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;medoful ætbær;  
-grette Geata leod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode þancode  
-wisfæst wordum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs ðe hire se willa gelamp  
-þæt heo on ænigne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorl gelyfde  
-fyrena frofre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He þæt ful geþeah,  
-wælreow wiga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt Wealhþeon,  
-ond þa gyddode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guþe gefysed;  
-Beowulf maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgþeowes:  
-"Ic þæt hogode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa ic on holm gestah,  
-sæbat gesæt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid minra secga gedriht,  
-þæt ic anunga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eowra leoda  
-willan geworhte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþðe on wæl crunge,  
-feondgrapum fæst.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic gefremman sceal  
-eorlic ellen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþðe endedæg  
-on þisse meoduhealle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minne gebidan."  
-Ðam wife þa word&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wel licodon,  
-gilpcwide Geates;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eode goldhroden  
-freolicu folccwen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hire frean sittan.  
-Þa wæs eft swa ær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inne on healle  
-þryðword sprecen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðeod on sælum,  
-sigefolca sweg,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt semninga  
-sunu Healfdenes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secean wolde  
-æfenræste;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiste þæm ahlæcan  
-to þæm heahsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hilde geþinged,  
-siððan hie sunnan leoht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon ne meahton,  
-oþðe nipende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niht ofer ealle,  
-scaduhelma gesceapu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scriðan cwoman,  
-wan under wolcnum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Werod eall aras.  
-Gegrette þa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guma oþerne,  
-Hroðgar Beowulf,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond him hæl abead,  
-winærnes geweald,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þæt word acwæð:  
-"Næfre ic ænegum men&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær alyfde,  
-siþðan ic hond ond rond&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hebban mihte,  
-ðryþærn Dena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;buton þe nu ða.  
-Hafa nu ond geheald&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;husa selest,  
-gemyne mærþo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenellen cyð,  
-waca wið wraþum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne bið þe wilna gad,  
-gif þu þæt ellenweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aldre gedigest."  
+<div class='line'>Swa mec gelome<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>laðgeteonan</div>
+<div class='line'>þreatedon þearle.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic him þenode</div>
+<div class='line'>deoran sweorde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hit gedefe wæs.</div>
+<div class='line'>Næs hie ðære fylle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gefean hæfdon,</div>
+<div class='line'>manfordædlan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hie me þegon,</div>
+<div class='line'>symbel ymbsæton<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sægrunde neah;</div>
+<div class='line'>ac on mergenne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mecum wunde</div>
+<div class='line'>be yðlafe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>uppe lægon,</div>
+<div class='line'>sweordum aswefede,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt syðþan na</div>
+<div class='line'>ymb brontne ford<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>brimliðende</div>
+<div class='line'>lade ne letton.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Leoht eastan com,</div>
+<div class='line'>beorht beacen godes;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>brimu swaþredon,</div>
+<div class='line'>þæt ic sænæssas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geseon mihte,</div>
+<div class='line'>windige weallas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wyrd oft nereð</div>
+<div class='line'>unfægne eorl,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne his ellen deah.</div>
+<div class='line'>Hwæþere me gesælde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ic mid sweorde ofsloh</div>
+<div class='line'>niceras nigene.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>No ic on niht gefrægn</div>
+<div class='line'>under heofones hwealf<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heardran feohtan,</div>
+<div class='line'>ne on egstreamum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>earmran mannon;</div>
+<div class='line'>hwaþere ic fara feng<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feore gedigde,</div>
+<div class='line'>siþes werig.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ða mec sæ oþbær,</div>
+<div class='line'>flod æfter faroðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on Finna land,</div>
+<div class='line'>wadu weallendu.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>No ic wiht fram þe</div>
+<div class='line'>swylcra searoniða<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secgan hyrde,</div>
+<div class='line'>billa brogan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Breca næfre git</div>
+<div class='line'>æt heaðolace,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne gehwæþer incer,</div>
+<div class='line'>swa deorlice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dæd gefremede</div>
+<div class='line'>fagum sweordum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(no ic þæs fela gylpe),</div>
+<div class='line'>þeah ðu þinum broðrum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to banan wurde,</div>
+<div class='line'>heafodmægum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæs þu in helle scealt</div>
+<div class='line'>werhðo dreogan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah þin wit duge.</div>
+<div class='line'>Secge ic þe to soðe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu Ecglafes,</div>
+<div class='line'>þæt næfre Grendel swa fela<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gryra gefremede,</div>
+<div class='line'>atol æglæca,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdre þinum,</div>
+<div class='line'>hynðo on Heorote,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gif þin hige wære,</div>
+<div class='line'>sefa swa searogrim,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa þu self talast.</div>
+<div class='line'>Ac he hafað onfunden<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he þa fæhðe ne þearf,</div>
+<div class='line'>atole ecgþræce<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eower leode</div>
+<div class='line'>swiðe onsittan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sigescyldinga;</div>
+<div class='line'>nymeð nydbade,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nænegum arað</div>
+<div class='line'>leode Deniga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac he lust wigeð,</div>
+<div class='line'>swefeð ond sendeþ,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secce ne weneþ</div>
+<div class='line'>to Gardenum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ac ic him Geata sceal</div>
+<div class='line'>eafoð ond ellen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ungeara nu,</div>
+<div class='line'>guþe gebeodan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Gæþ eft se þe mot</div>
+<div class='line'>to medo modig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>siþþan morgenleoht</div>
+<div class='line'>ofer ylda bearn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþres dogores,</div>
+<div class='line'>sunne sweglwered<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>suþan scineð."</div>
+<div class='line'>Þa wæs on salum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sinces brytta,</div>
+<div class='line'>gamolfeax ond guðrof;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geoce gelyfde</div>
+<div class='line'>brego Beorhtdena,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gehyrde on Beowulfe</div>
+<div class='line'>folces hyrde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæstrædne geþoht.</div>
+<div class='line'>Ðær wæs hæleþa hleahtor,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hlyn swynsode,</div>
+<div class='line'>word wæron wynsume.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Eode Wealhþeow forð,</div>
+<div class='line'>cwen Hroðgares,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cynna gemyndig,</div>
+<div class='line'>grette goldhroden<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guman on healle,</div>
+<div class='line'>ond þa freolic wif<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ful gesealde</div>
+<div class='line'>ærest Eastdena<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eþelwearde,</div>
+<div class='line'>bæd hine bliðne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æt þære beorþege,</div>
+<div class='line'>leodum leofne.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He on lust geþeah</div>
+<div class='line'>symbel ond seleful,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sigerof kyning.</div>
+<div class='line'>Ymbeode þa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ides Helminga</div>
+<div class='line'>duguþe ond geogoþe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dæl æghwylcne,</div>
+<div class='line'>sincfato sealde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþþæt sæl alamp</div>
+<div class='line'>þæt hio Beowulfe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beaghroden cwen</div>
+<div class='line'>mode geþungen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>medoful ætbær;</div>
+<div class='line'>grette Geata leod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gode þancode</div>
+<div class='line'>wisfæst wordum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæs ðe hire se willa gelamp</div>
+<div class='line'>þæt heo on ænigne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eorl gelyfde</div>
+<div class='line'>fyrena frofre.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He þæt ful geþeah,</div>
+<div class='line'>wælreow wiga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æt Wealhþeon,</div>
+<div class='line'>ond þa gyddode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guþe gefysed;</div>
+<div class='line'>Beowulf maþelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearn Ecgþeowes:</div>
+<div class='line'>"Ic þæt hogode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa ic on holm gestah,</div>
+<div class='line'>sæbat gesæt<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mid minra secga gedriht,</div>
+<div class='line'>þæt ic anunga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eowra leoda</div>
+<div class='line'>willan geworhte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþðe on wæl crunge,</div>
+<div class='line'>feondgrapum fæst.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic gefremman sceal</div>
+<div class='line'>eorlic ellen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþðe endedæg</div>
+<div class='line'>on þisse meoduhealle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>minne gebidan."</div>
+<div class='line'>Ðam wife þa word<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wel licodon,</div>
+<div class='line'>gilpcwide Geates;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eode goldhroden</div>
+<div class='line'>freolicu folccwen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to hire frean sittan.</div>
+<div class='line'>Þa wæs eft swa ær<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>inne on healle</div>
+<div class='line'>þryðword sprecen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðeod on sælum,</div>
+<div class='line'>sigefolca sweg,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþþæt semninga</div>
+<div class='line'>sunu Healfdenes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secean wolde</div>
+<div class='line'>æfenræste;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wiste þæm ahlæcan</div>
+<div class='line'>to þæm heahsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hilde geþinged,</div>
+<div class='line'>siððan hie sunnan leoht<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geseon ne meahton,</div>
+<div class='line'>oþðe nipende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>niht ofer ealle,</div>
+<div class='line'>scaduhelma gesceapu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>scriðan cwoman,</div>
+<div class='line'>wan under wolcnum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Werod eall aras.</div>
+<div class='line'>Gegrette þa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guma oþerne,</div>
+<div class='line'>Hroðgar Beowulf,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond him hæl abead,</div>
+<div class='line'>winærnes geweald,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þæt word acwæð:</div>
+<div class='line'>"Næfre ic ænegum men<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær alyfde,</div>
+<div class='line'>siþðan ic hond ond rond<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hebban mihte,</div>
+<div class='line'>ðryþærn Dena<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>buton þe nu ða.</div>
+<div class='line'>Hafa nu ond geheald<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>husa selest,</div>
+<div class='line'>gemyne mærþo,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mægenellen cyð,</div>
+<div class='line'>waca wið wraþum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne bið þe wilna gad,</div>
+<div class='line'>gif þu þæt ellenweorc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>aldre gedigest."</div>
   
-Ða him Hroþgar gewat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid his hæleþa gedryht,  
-eodur Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ut of healle;  
-wolde wigfruma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wealhþeo secan,  
-cwen to gebeddan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hæfde kyningwuldor  
-Grendle togeanes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa guman gefrungon,  
-seleweard aseted;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sundornytte beheold  
-ymb aldor Dena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eotonweard abead.  
-Huru Geata leod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;georne truwode  
-modgan mægnes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;metodes hyldo.  
-Ða he him of dyde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;isernbyrnan,  
-helm of hafelan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sealde his hyrsted sweord,  
-irena cyst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ombihtþegne,  
-ond gehealdan het&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildegeatwe.  
-Gespræc þa se goda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gylpworda sum,  
-Beowulf Geata,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær he on bed stige:  
-"No ic me an herewæsmun&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hnagran talige,  
-guþgeweorca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne Grendel hine;  
-forþan ic hine sweorde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swebban nelle,  
-aldre beneotan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ic eal mæge.  
-Nat he þara goda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he me ongean slea,  
-rand geheawe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ðe he rof sie  
-niþgeweorca;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac wit on niht sculon  
-secge ofersittan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif he gesecean dear  
-wig ofer wæpen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond siþðan witig god  
-on swa hwæþere hond,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;halig dryhten,  
-mærðo deme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him gemet þince."  
-Hylde hine þa heaþodeor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hleorbolster onfeng  
-eorles andwlitan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond hine ymb monig  
-snellic særinc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selereste gebeah.  
-Nænig heora þohte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he þanon scolde  
-eft eardlufan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfre gesecean,  
-folc oþðe freoburh,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he afeded wæs;  
-ac hie hæfdon gefrunen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie ær to fela micles  
-in þæm winsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wældeað fornam,  
-Denigea leode.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ac him dryhten forgeaf  
-wigspeda gewiofu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedera leodum,  
-frofor ond fultum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie feond heora  
-ðurh anes cræft&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealle ofercomon,  
-selfes mihtum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Soð is gecyþed  
-þæt mihtig god&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna cynnes  
-weold wideferhð.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Com on wanre niht  
-scriðan sceadugenga.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sceotend swæfon,  
-þa þæt hornreced&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;healdan scoldon,  
-ealle buton anum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs yldum cuþ  
-þæt hie ne moste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa metod nolde,  
-se scynscaþa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under sceadu bregdan;  
-ac he wæccende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wraþum on andan  
-bad bolgenmod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beadwa geþinges.  
+<div class='line'>Ða him Hroþgar gewat<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mid his hæleþa gedryht,</div>
+<div class='line'>eodur Scyldinga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ut of healle;</div>
+<div class='line'>wolde wigfruma<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wealhþeo secan,</div>
+<div class='line'>cwen to gebeddan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hæfde kyningwuldor</div>
+<div class='line'>Grendle togeanes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa guman gefrungon,</div>
+<div class='line'>seleweard aseted;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sundornytte beheold</div>
+<div class='line'>ymb aldor Dena,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eotonweard abead.</div>
+<div class='line'>Huru Geata leod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>georne truwode</div>
+<div class='line'>modgan mægnes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>metodes hyldo.</div>
+<div class='line'>Ða he him of dyde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>isernbyrnan,</div>
+<div class='line'>helm of hafelan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sealde his hyrsted sweord,</div>
+<div class='line'>irena cyst,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ombihtþegne,</div>
+<div class='line'>ond gehealdan het<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hildegeatwe.</div>
+<div class='line'>Gespræc þa se goda<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gylpworda sum,</div>
+<div class='line'>Beowulf Geata,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær he on bed stige:</div>
+<div class='line'>"No ic me an herewæsmun<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hnagran talige,</div>
+<div class='line'>guþgeweorca,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne Grendel hine;</div>
+<div class='line'>forþan ic hine sweorde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swebban nelle,</div>
+<div class='line'>aldre beneotan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah ic eal mæge.</div>
+<div class='line'>Nat he þara goda<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he me ongean slea,</div>
+<div class='line'>rand geheawe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah ðe he rof sie</div>
+<div class='line'>niþgeweorca;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac wit on niht sculon</div>
+<div class='line'>secge ofersittan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gif he gesecean dear</div>
+<div class='line'>wig ofer wæpen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond siþðan witig god</div>
+<div class='line'>on swa hwæþere hond,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>halig dryhten,</div>
+<div class='line'>mærðo deme,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa him gemet þince."</div>
+<div class='line'>Hylde hine þa heaþodeor,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hleorbolster onfeng</div>
+<div class='line'>eorles andwlitan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond hine ymb monig</div>
+<div class='line'>snellic særinc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>selereste gebeah.</div>
+<div class='line'>Nænig heora þohte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he þanon scolde</div>
+<div class='line'>eft eardlufan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æfre gesecean,</div>
+<div class='line'>folc oþðe freoburh,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær he afeded wæs;</div>
+<div class='line'>ac hie hæfdon gefrunen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hie ær to fela micles</div>
+<div class='line'>in þæm winsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wældeað fornam,</div>
+<div class='line'>Denigea leode.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ac him dryhten forgeaf</div>
+<div class='line'>wigspeda gewiofu,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wedera leodum,</div>
+<div class='line'>frofor ond fultum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hie feond heora</div>
+<div class='line'>ðurh anes cræft<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealle ofercomon,</div>
+<div class='line'>selfes mihtum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Soð is gecyþed</div>
+<div class='line'>þæt mihtig god<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>manna cynnes</div>
+<div class='line'>weold wideferhð.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Com on wanre niht</div>
+<div class='line'>scriðan sceadugenga.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sceotend swæfon,</div>
+<div class='line'>þa þæt hornreced<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>healdan scoldon,</div>
+<div class='line'>ealle buton anum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þæt wæs yldum cuþ</div>
+<div class='line'>þæt hie ne moste,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa metod nolde,</div>
+<div class='line'>se scynscaþa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>under sceadu bregdan;</div>
+<div class='line'>ac he wæccende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wraþum on andan</div>
+<div class='line'>bad bolgenmod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beadwa geþinges.</div>
   
-Ða com of more&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under misthleoþum  
-Grendel gongan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godes yrre bær;  
-mynte se manscaða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna cynnes  
-sumne besyrwan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in sele þam hean.  
-Wod under wolcnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to þæs þe he winreced,  
-goldsele gumena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearwost wisse,  
-fættum fahne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne wæs þæt forma sið  
-þæt he Hroþgares&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ham gesohte;  
-næfre he on aldordagum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær ne siþðan  
-heardran hæle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;healðegnas fand.  
-Com þa to recede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rinc siðian,  
-dreamum bedæled.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duru sona onarn,  
-fyrbendum fæst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syþðan he hire folmum æthran;  
-onbræd þa bealohydig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða he gebolgen wæs,  
-recedes muþan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Raþe æfter þon  
-on fagne flor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feond treddode,  
-eode yrremod;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him of eagum stod  
-ligge gelicost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leoht unfæger.  
-Geseah he in recede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rinca manige,  
-swefan sibbegedriht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samod ætgædere,  
-magorinca heap.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa his mod ahlog;  
-mynte þæt he gedælde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ærþon dæg cwome,  
-atol aglæca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anra gehwylces  
-lif wið lice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa him alumpen wæs  
-wistfylle wen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne wæs þæt wyrd þa gen  
-þæt he ma moste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna cynnes  
-ðicgean ofer þa niht.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þryðswyð beheold  
-mæg Higelaces,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hu se manscaða  
-under færgripum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gefaran wolde.  
-Ne þæt se aglæca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yldan þohte,  
-ac he gefeng hraðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forman siðe  
-slæpendne rinc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;slat unwearnum,  
-bat banlocan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blod edrum dranc,  
-synsnædum swealh;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sona hæfde  
-unlyfigendes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eal gefeormod,  
-fet ond folma.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forð near ætstop,  
-nam þa mid handa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;higeþihtigne  
-rinc on ræste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ræhte ongean  
-feond mid folme;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he onfeng hraþe  
-inwitþancum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond wið earm gesæt.  
-Sona þæt onfunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrena hyrde  
-þæt he ne mette&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;middangeardes,  
-eorþan sceata,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on elran men  
-mundgripe maran.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He on mode wearð  
-forht on ferhðe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no þy ær fram meahte.  
-Hyge wæs him hinfus,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wolde on heolster fleon,  
-secan deofla gedræg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne wæs his drohtoð þær  
-swylce he on ealderdagum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær gemette.  
-Gemunde þa se goda,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæg Higelaces,  
-æfenspræce,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uplang astod  
-ond him fæste wiðfeng;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fingras burston.  
-Eoten wæs utweard;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorl furþur stop.  
-Mynte se mæra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he meahte swa,  
-widre gewindan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on weg þanon  
-fleon on fenhopu;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiste his fingra geweald  
-on grames grapum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs geocor sið  
-þæt se hearmscaþa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to Heorute ateah.  
-Dryhtsele dynede;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denum eallum wearð,  
-ceasterbuendum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cenra gehwylcum,  
-eorlum ealuscerwen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Yrre wæron begen,  
-reþe renweardas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reced hlynsode.  
-Þa wæs wundor micel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt se winsele  
-wiðhæfde heaþodeorum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he on hrusan ne feol,  
-fæger foldbold;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he þæs fæste wæs  
-innan ond utan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;irenbendum  
-searoþoncum besmiþod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þær fram sylle abeag  
-medubenc monig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine gefræge,  
-golde geregnad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær þa graman wunnon.  
-Þæs ne wendon ær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;witan Scyldinga  
-þæt hit a mid gemete&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna ænig,  
-betlic ond banfag,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tobrecan meahte,  
-listum tolucan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nymþe liges fæþm  
-swulge on swaþule.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweg up astag  
-niwe geneahhe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Norðdenum stod  
-atelic egesa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anra gehwylcum  
-þara þe of wealle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wop gehyrdon,  
-gryreleoð galan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godes ondsacan,  
-sigeleasne sang,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sar wanigean  
-helle hæfton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heold hine fæste  
-se þe manna wæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægene strengest  
-on þæm dæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þysses lifes.  
+<div class='line'>Ða com of more<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>under misthleoþum</div>
+<div class='line'>Grendel gongan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>godes yrre bær;</div>
+<div class='line'>mynte se manscaða<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>manna cynnes</div>
+<div class='line'>sumne besyrwan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>in sele þam hean.</div>
+<div class='line'>Wod under wolcnum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to þæs þe he winreced,</div>
+<div class='line'>goldsele gumena,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gearwost wisse,</div>
+<div class='line'>fættum fahne.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne wæs þæt forma sið</div>
+<div class='line'>þæt he Hroþgares<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ham gesohte;</div>
+<div class='line'>næfre he on aldordagum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær ne siþðan</div>
+<div class='line'>heardran hæle,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>healðegnas fand.</div>
+<div class='line'>Com þa to recede<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>rinc siðian,</div>
+<div class='line'>dreamum bedæled.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Duru sona onarn,</div>
+<div class='line'>fyrbendum fæst,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syþðan he hire folmum æthran;</div>
+<div class='line'>onbræd þa bealohydig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða he gebolgen wæs,</div>
+<div class='line'>recedes muþan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Raþe æfter þon</div>
+<div class='line'>on fagne flor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feond treddode,</div>
+<div class='line'>eode yrremod;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>him of eagum stod</div>
+<div class='line'>ligge gelicost<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leoht unfæger.</div>
+<div class='line'>Geseah he in recede<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>rinca manige,</div>
+<div class='line'>swefan sibbegedriht<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>samod ætgædere,</div>
+<div class='line'>magorinca heap.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa his mod ahlog;</div>
+<div class='line'>mynte þæt he gedælde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ærþon dæg cwome,</div>
+<div class='line'>atol aglæca,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>anra gehwylces</div>
+<div class='line'>lif wið lice,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa him alumpen wæs</div>
+<div class='line'>wistfylle wen.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne wæs þæt wyrd þa gen</div>
+<div class='line'>þæt he ma moste<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>manna cynnes</div>
+<div class='line'>ðicgean ofer þa niht.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þryðswyð beheold</div>
+<div class='line'>mæg Higelaces,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hu se manscaða</div>
+<div class='line'>under færgripum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gefaran wolde.</div>
+<div class='line'>Ne þæt se aglæca<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>yldan þohte,</div>
+<div class='line'>ac he gefeng hraðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forman siðe</div>
+<div class='line'>slæpendne rinc,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>slat unwearnum,</div>
+<div class='line'>bat banlocan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>blod edrum dranc,</div>
+<div class='line'>synsnædum swealh;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sona hæfde</div>
+<div class='line'>unlyfigendes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eal gefeormod,</div>
+<div class='line'>fet ond folma.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Forð near ætstop,</div>
+<div class='line'>nam þa mid handa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>higeþihtigne</div>
+<div class='line'>rinc on ræste,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ræhte ongean</div>
+<div class='line'>feond mid folme;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he onfeng hraþe</div>
+<div class='line'>inwitþancum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond wið earm gesæt.</div>
+<div class='line'>Sona þæt onfunde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fyrena hyrde</div>
+<div class='line'>þæt he ne mette<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>middangeardes,</div>
+<div class='line'>eorþan sceata,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on elran men</div>
+<div class='line'>mundgripe maran.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He on mode wearð</div>
+<div class='line'>forht on ferhðe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>no þy ær fram meahte.</div>
+<div class='line'>Hyge wæs him hinfus,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wolde on heolster fleon,</div>
+<div class='line'>secan deofla gedræg;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne wæs his drohtoð þær</div>
+<div class='line'>swylce he on ealderdagum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær gemette.</div>
+<div class='line'>Gemunde þa se goda,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mæg Higelaces,</div>
+<div class='line'>æfenspræce,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>uplang astod</div>
+<div class='line'>ond him fæste wiðfeng;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fingras burston.</div>
+<div class='line'>Eoten wæs utweard;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eorl furþur stop.</div>
+<div class='line'>Mynte se mæra,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær he meahte swa,</div>
+<div class='line'>widre gewindan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond on weg þanon</div>
+<div class='line'>fleon on fenhopu;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wiste his fingra geweald</div>
+<div class='line'>on grames grapum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þæt wæs geocor sið</div>
+<div class='line'>þæt se hearmscaþa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to Heorute ateah.</div>
+<div class='line'>Dryhtsele dynede;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Denum eallum wearð,</div>
+<div class='line'>ceasterbuendum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cenra gehwylcum,</div>
+<div class='line'>eorlum ealuscerwen.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Yrre wæron begen,</div>
+<div class='line'>reþe renweardas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Reced hlynsode.</div>
+<div class='line'>Þa wæs wundor micel<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt se winsele</div>
+<div class='line'>wiðhæfde heaþodeorum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he on hrusan ne feol,</div>
+<div class='line'>fæger foldbold;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac he þæs fæste wæs</div>
+<div class='line'>innan ond utan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>irenbendum</div>
+<div class='line'>searoþoncum besmiþod.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þær fram sylle abeag</div>
+<div class='line'>medubenc monig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mine gefræge,</div>
+<div class='line'>golde geregnad,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær þa graman wunnon.</div>
+<div class='line'>Þæs ne wendon ær<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>witan Scyldinga</div>
+<div class='line'>þæt hit a mid gemete<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>manna ænig,</div>
+<div class='line'>betlic ond banfag,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>tobrecan meahte,</div>
+<div class='line'>listum tolucan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nymþe liges fæþm</div>
+<div class='line'>swulge on swaþule.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sweg up astag</div>
+<div class='line'>niwe geneahhe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Norðdenum stod</div>
+<div class='line'>atelic egesa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>anra gehwylcum</div>
+<div class='line'>þara þe of wealle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wop gehyrdon,</div>
+<div class='line'>gryreleoð galan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>godes ondsacan,</div>
+<div class='line'>sigeleasne sang,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sar wanigean</div>
+<div class='line'>helle hæfton.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Heold hine fæste</div>
+<div class='line'>se þe manna wæs<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mægene strengest</div>
+<div class='line'>on þæm dæge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þysses lifes.</div>
   
-Nolde eorla hleo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænige þinga  
-þone cwealmcuman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cwicne forlætan,  
-ne his lifdagas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leoda ænigum  
-nytte tealde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þær genehost brægd  
-eorl Beowulfes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealde lafe,  
-wolde freadrihtnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorh ealgian,  
-mæres þeodnes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær hie meahton swa.  
-Hie þæt ne wiston,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa hie gewin drugon,  
-heardhicgende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildemecgas,  
-ond on healfa gehwone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heawan þohton,  
-sawle secan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone synscaðan  
-ænig ofer eorþan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;irenna cyst,  
-guðbilla nan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gretan nolde,  
-ac he sigewæpnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forsworen hæfde,  
-ecga gehwylcre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scolde his aldorgedal  
-on ðæm dæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þysses lifes  
-earmlic wurðan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond se ellorgast  
-on feonda geweald&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feor siðian.  
-Ða þæt onfunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe fela æror  
-modes myrðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna cynne,  
-fyrene gefremede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(he wæs fag wið god),  
-þæt him se lichoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læstan nolde,  
-ac hine se modega&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæg Hygelaces  
-hæfde be honda;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs gehwæþer oðrum  
-lifigende lað.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Licsar gebad  
-atol æglæca;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him on eaxle wearð  
-syndolh sweotol,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seonowe onsprungon,  
-burston banlocan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulfe wearð  
-guðhreð gyfeþe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scolde Grendel þonan  
-feorhseoc fleon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under fenhleoðu,  
-secean wynleas wic;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiste þe geornor  
-þæt his aldres wæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende gegongen,  
-dogera dægrim.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denum eallum wearð  
-æfter þam wælræse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;willa gelumpen.  
-Hæfde þa gefælsod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe ær feorran com,  
-snotor ond swyðferhð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sele Hroðgares,  
-genered wið niðe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nihtweorce gefeh,  
-ellenmærþum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hæfde Eastdenum  
-Geatmecga leod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gilp gelæsted,  
-swylce oncyþðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealle gebette,  
-inwidsorge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe hie ær drugon  
-ond for þreanydum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þolian scoldon,  
-torn unlytel.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs tacen sweotol,  
-syþðan hildedeor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hond alegde,  
-earm ond eaxle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(þær wæs eal geador  
-Grendles grape)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under geapne hrof.  
+<div class='line'>Nolde eorla hleo<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ænige þinga</div>
+<div class='line'>þone cwealmcuman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cwicne forlætan,</div>
+<div class='line'>ne his lifdagas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leoda ænigum</div>
+<div class='line'>nytte tealde.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þær genehost brægd</div>
+<div class='line'>eorl Beowulfes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealde lafe,</div>
+<div class='line'>wolde freadrihtnes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorh ealgian,</div>
+<div class='line'>mæres þeodnes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðær hie meahton swa.</div>
+<div class='line'>Hie þæt ne wiston,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa hie gewin drugon,</div>
+<div class='line'>heardhicgende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hildemecgas,</div>
+<div class='line'>ond on healfa gehwone<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heawan þohton,</div>
+<div class='line'>sawle secan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þone synscaðan</div>
+<div class='line'>ænig ofer eorþan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>irenna cyst,</div>
+<div class='line'>guðbilla nan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gretan nolde,</div>
+<div class='line'>ac he sigewæpnum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forsworen hæfde,</div>
+<div class='line'>ecga gehwylcre.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Scolde his aldorgedal</div>
+<div class='line'>on ðæm dæge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þysses lifes</div>
+<div class='line'>earmlic wurðan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond se ellorgast</div>
+<div class='line'>on feonda geweald<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feor siðian.</div>
+<div class='line'>Ða þæt onfunde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þe fela æror</div>
+<div class='line'>modes myrðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>manna cynne,</div>
+<div class='line'>fyrene gefremede<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(he wæs fag wið god),</div>
+<div class='line'>þæt him se lichoma<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>læstan nolde,</div>
+<div class='line'>ac hine se modega<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mæg Hygelaces</div>
+<div class='line'>hæfde be honda;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs gehwæþer oðrum</div>
+<div class='line'>lifigende lað.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Licsar gebad</div>
+<div class='line'>atol æglæca;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>him on eaxle wearð</div>
+<div class='line'>syndolh sweotol,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>seonowe onsprungon,</div>
+<div class='line'>burston banlocan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Beowulfe wearð</div>
+<div class='line'>guðhreð gyfeþe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>scolde Grendel þonan</div>
+<div class='line'>feorhseoc fleon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>under fenhleoðu,</div>
+<div class='line'>secean wynleas wic;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wiste þe geornor</div>
+<div class='line'>þæt his aldres wæs<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ende gegongen,</div>
+<div class='line'>dogera dægrim.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Denum eallum wearð</div>
+<div class='line'>æfter þam wælræse<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>willa gelumpen.</div>
+<div class='line'>Hæfde þa gefælsod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þe ær feorran com,</div>
+<div class='line'>snotor ond swyðferhð,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sele Hroðgares,</div>
+<div class='line'>genered wið niðe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nihtweorce gefeh,</div>
+<div class='line'>ellenmærþum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hæfde Eastdenum</div>
+<div class='line'>Geatmecga leod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gilp gelæsted,</div>
+<div class='line'>swylce oncyþðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealle gebette,</div>
+<div class='line'>inwidsorge,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe hie ær drugon</div>
+<div class='line'>ond for þreanydum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þolian scoldon,</div>
+<div class='line'>torn unlytel.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þæt wæs tacen sweotol,</div>
+<div class='line'>syþðan hildedeor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hond alegde,</div>
+<div class='line'>earm ond eaxle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(þær wæs eal geador</div>
+<div class='line'>Grendles grape)<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>under geapne hrof.</div>
   
-Ða wæs on morgen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine gefræge  
-ymb þa gifhealle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðrinc monig;  
-ferdon folctogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorran ond nean  
-geond widwegas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundor sceawian,  
-laþes lastas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No his lifgedal  
-sarlic þuhte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secga ænegum  
-þara þe tirleases&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;trode sceawode,  
-hu he werigmod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on weg þanon,  
-niða ofercumen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on nicera mere  
-fæge ond geflymed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorhlastas bær.  
-Ðær wæs on blode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brim weallende,  
-atol yða geswing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eal gemenged  
-haton heolfre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorodreore weol.  
-Deaðfæge deog,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siððan dreama leas  
-in fenfreoðo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorh alegde,  
-hæþene sawle;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær him hel onfeng.  
-Þanon eft gewiton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdgesiðas,  
-swylce geong manig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of gomenwaþe  
-fram mere modge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mearum ridan,  
-beornas on blancum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ðær wæs Beowulfes  
-mærðo mæned;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;monig oft gecwæð  
-þætte suð ne norð&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be sæm tweonum  
-ofer eormengrund&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþer nænig  
-under swegles begong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selra nære  
-rondhæbbendra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rices wyrðra.  
-Ne hie huru winedrihten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiht ne logon,  
-glædne Hroðgar,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac þæt wæs god cyning.  
-Hwilum heaþorofe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hleapan leton,  
-on geflit faran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fealwe mearas  
-ðær him foldwegas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fægere þuhton,  
-cystum cuðe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hwilum cyninges þegn,  
-guma gilphlæden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gidda gemyndig,  
-se ðe ealfela&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdgesegena  
-worn gemunde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;word oþer fand  
-soðe gebunden;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secg eft ongan  
-sið Beowulfes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snyttrum styrian  
-ond on sped wrecan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;spel gerade,  
-wordum wrixlan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welhwylc gecwæð  
-þæt he fram Sigemundes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgan hyrde  
-ellendædum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uncuþes fela,  
-Wælsinges gewin,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide siðas,  
-þara þe gumena bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearwe ne wiston,  
-fæhðe ond fyrena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;buton Fitela mid hine,  
-þonne he swulces hwæt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgan wolde,  
-eam his nefan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hie a wæron  
-æt niða gehwam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nydgesteallan;  
-hæfdon ealfela&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eotena cynnes  
-sweordum gesæged.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sigemunde gesprong  
-æfter deaðdæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dom unlytel,  
-syþðan wiges heard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrm acwealde,  
-hordes hyrde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He under harne stan,  
-æþelinges bearn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ana geneðde  
-frecne dæde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne wæs him Fitela mid.  
-Hwæþre him gesælde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðæt þæt swurd þurhwod  
-wrætlicne wyrm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hit on wealle ætstod,  
-dryhtlic iren;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;draca morðre swealt.  
-Hæfde aglæca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;elne gegongen  
-þæt he beahhordes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brucan moste  
-selfes dome;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sæbat gehleod,  
-bær on bearm scipes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorhte frætwa,  
-Wælses eafera.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wyrm hat gemealt.  
-Se wæs wreccena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide mærost  
-ofer werþeode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigendra hleo,  
-ellendædum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(he þæs ær onðah),  
-siððan Heremodes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hild sweðrode,  
-eafoð ond ellen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He mid Eotenum wearð  
-on feonda geweald&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð forlacen,  
-snude forsended.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hine sorhwylmas  
-lemede to lange;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he his leodum wearð,  
-eallum æþellingum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to aldorceare;  
-swylce oft bemearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ærran mælum  
-swiðferhþes sið&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snotor ceorl monig,  
-se þe him bealwa to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bote gelyfde,  
-þæt þæt ðeodnes bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geþeon scolde,  
-fæderæþelum onfon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folc gehealdan,  
-hord ond hleoburh,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hæleþa rice,  
-ᛟ Scyldinga.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He þær eallum wearð,  
-mæg Higelaces,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna cynne,  
-freondum gefægra;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hine fyren onwod.  
-Hwilum flitende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fealwe stræte  
-mearum mæton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða wæs morgenleoht  
-scofen ond scynded.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eode scealc monig  
-swiðhicgende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to sele þam hean  
-searowundor seon;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce self cyning  
-of brydbure,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beahhorda weard,  
-tryddode tirfæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;getrume micle,  
-cystum gecyþed,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his cwen mid him  
-medostigge mæt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægþa hose.  
+<div class='line'>Ða wæs on morgen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mine gefræge</div>
+<div class='line'>ymb þa gifhealle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guðrinc monig;</div>
+<div class='line'>ferdon folctogan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorran ond nean</div>
+<div class='line'>geond widwegas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wundor sceawian,</div>
+<div class='line'>laþes lastas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>No his lifgedal</div>
+<div class='line'>sarlic þuhte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secga ænegum</div>
+<div class='line'>þara þe tirleases<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>trode sceawode,</div>
+<div class='line'>hu he werigmod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on weg þanon,</div>
+<div class='line'>niða ofercumen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on nicera mere</div>
+<div class='line'>fæge ond geflymed<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorhlastas bær.</div>
+<div class='line'>Ðær wæs on blode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>brim weallende,</div>
+<div class='line'>atol yða geswing<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eal gemenged</div>
+<div class='line'>haton heolfre,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heorodreore weol.</div>
+<div class='line'>Deaðfæge deog,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>siððan dreama leas</div>
+<div class='line'>in fenfreoðo<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorh alegde,</div>
+<div class='line'>hæþene sawle;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær him hel onfeng.</div>
+<div class='line'>Þanon eft gewiton<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdgesiðas,</div>
+<div class='line'>swylce geong manig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>of gomenwaþe</div>
+<div class='line'>fram mere modge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mearum ridan,</div>
+<div class='line'>beornas on blancum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ðær wæs Beowulfes</div>
+<div class='line'>mærðo mæned;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>monig oft gecwæð</div>
+<div class='line'>þætte suð ne norð<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>be sæm tweonum</div>
+<div class='line'>ofer eormengrund<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþer nænig</div>
+<div class='line'>under swegles begong<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>selra nære</div>
+<div class='line'>rondhæbbendra,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>rices wyrðra.</div>
+<div class='line'>Ne hie huru winedrihten<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wiht ne logon,</div>
+<div class='line'>glædne Hroðgar,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac þæt wæs god cyning.</div>
+<div class='line'>Hwilum heaþorofe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hleapan leton,</div>
+<div class='line'>on geflit faran<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fealwe mearas</div>
+<div class='line'>ðær him foldwegas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fægere þuhton,</div>
+<div class='line'>cystum cuðe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hwilum cyninges þegn,</div>
+<div class='line'>guma gilphlæden,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gidda gemyndig,</div>
+<div class='line'>se ðe ealfela<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdgesegena</div>
+<div class='line'>worn gemunde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>word oþer fand</div>
+<div class='line'>soðe gebunden;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secg eft ongan</div>
+<div class='line'>sið Beowulfes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>snyttrum styrian</div>
+<div class='line'>ond on sped wrecan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>spel gerade,</div>
+<div class='line'>wordum wrixlan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Welhwylc gecwæð</div>
+<div class='line'>þæt he fram Sigemundes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secgan hyrde</div>
+<div class='line'>ellendædum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>uncuþes fela,</div>
+<div class='line'>Wælsinges gewin,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wide siðas,</div>
+<div class='line'>þara þe gumena bearn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gearwe ne wiston,</div>
+<div class='line'>fæhðe ond fyrena,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>buton Fitela mid hine,</div>
+<div class='line'>þonne he swulces hwæt<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secgan wolde,</div>
+<div class='line'>eam his nefan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hie a wæron</div>
+<div class='line'>æt niða gehwam<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nydgesteallan;</div>
+<div class='line'>hæfdon ealfela<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eotena cynnes</div>
+<div class='line'>sweordum gesæged.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sigemunde gesprong</div>
+<div class='line'>æfter deaðdæge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dom unlytel,</div>
+<div class='line'>syþðan wiges heard<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wyrm acwealde,</div>
+<div class='line'>hordes hyrde.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He under harne stan,</div>
+<div class='line'>æþelinges bearn,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ana geneðde</div>
+<div class='line'>frecne dæde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne wæs him Fitela mid.</div>
+<div class='line'>Hwæþre him gesælde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðæt þæt swurd þurhwod</div>
+<div class='line'>wrætlicne wyrm,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hit on wealle ætstod,</div>
+<div class='line'>dryhtlic iren;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>draca morðre swealt.</div>
+<div class='line'>Hæfde aglæca<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>elne gegongen</div>
+<div class='line'>þæt he beahhordes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>brucan moste</div>
+<div class='line'>selfes dome;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sæbat gehleod,</div>
+<div class='line'>bær on bearm scipes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beorhte frætwa,</div>
+<div class='line'>Wælses eafera.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wyrm hat gemealt.</div>
+<div class='line'>Se wæs wreccena<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wide mærost</div>
+<div class='line'>ofer werþeode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wigendra hleo,</div>
+<div class='line'>ellendædum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(he þæs ær onðah),</div>
+<div class='line'>siððan Heremodes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hild sweðrode,</div>
+<div class='line'>eafoð ond ellen.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He mid Eotenum wearð</div>
+<div class='line'>on feonda geweald<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forð forlacen,</div>
+<div class='line'>snude forsended.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hine sorhwylmas</div>
+<div class='line'>lemede to lange;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he his leodum wearð,</div>
+<div class='line'>eallum æþellingum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to aldorceare;</div>
+<div class='line'>swylce oft bemearn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ærran mælum</div>
+<div class='line'>swiðferhþes sið<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>snotor ceorl monig,</div>
+<div class='line'>se þe him bealwa to<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bote gelyfde,</div>
+<div class='line'>þæt þæt ðeodnes bearn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geþeon scolde,</div>
+<div class='line'>fæderæþelum onfon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>folc gehealdan,</div>
+<div class='line'>hord ond hleoburh,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hæleþa rice,</div>
+<div class='line'>ᛟ Scyldinga.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He þær eallum wearð,</div>
+<div class='line'>mæg Higelaces,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>manna cynne,</div>
+<div class='line'>freondum gefægra;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hine fyren onwod.</div>
+<div class='line'>Hwilum flitende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fealwe stræte</div>
+<div class='line'>mearum mæton.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ða wæs morgenleoht</div>
+<div class='line'>scofen ond scynded.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Eode scealc monig</div>
+<div class='line'>swiðhicgende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to sele þam hean</div>
+<div class='line'>searowundor seon;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swylce self cyning</div>
+<div class='line'>of brydbure,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beahhorda weard,</div>
+<div class='line'>tryddode tirfæst<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>getrume micle,</div>
+<div class='line'>cystum gecyþed,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond his cwen mid him</div>
+<div class='line'>medostigge mæt<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mægþa hose.</div>
   
-Hroðgar maþelode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(he to healle geong,  
-stod on stapole,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseah steapne hrof,  
-golde fahne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond Grendles hond):  
-"ðisse ansyne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alwealdan þanc  
-lungre gelimpe!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fela ic laþes gebad,  
-grynna æt Grendle;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a mæg god wyrcan  
-wunder æfter wundre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wuldres hyrde.  
-Ðæt wæs ungeara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic ænigra me  
-weana ne wende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to widan feore  
-bote gebidan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne blode fah  
-husa selest&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorodreorig stod,  
-wea widscofen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;witena gehwylcum  
-ðara þe ne wendon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie wideferhð  
-leoda landgeweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laþum beweredon  
-scuccum ond scinnum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu scealc hafað  
-þurh drihtnes miht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dæd gefremede  
-ðe we ealle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær ne meahton  
-snyttrum besyrwan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hwæt, þæt secgan mæg  
-efne swa hwylc mægþa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa ðone magan cende  
-æfter gumcynnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyf heo gyt lyfað,  
-þæt hyre ealdmetod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;este wære  
-bearngebyrdo.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu ic, Beowulf, þec,  
-secg betsta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;me for sunu wylle  
-freogan on ferhþe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heald forð tela  
-niwe sibbe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne bið þe nænigra gad  
-worolde wilna,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe ic geweald hæbbe.  
-Ful oft ic for læssan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lean teohhode,  
-hordweorþunge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hnahran rince,  
-sæmran æt sæcce.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þu þe self hafast  
-dædum gefremed&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þin dom lyfað  
-awa to aldre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Alwalda þec  
-gode forgylde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he nu gyt dyde!"  
-Beowulf maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecþeowes:  
-"We þæt ellenweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;estum miclum,  
-feohtan fremedon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frecne geneðdon  
-eafoð uncuþes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Uþe ic swiþor  
-þæt ðu hine selfne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon moste,  
-feond on frætewum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fylwerigne.  
-Ic hine hrædlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heardan clammum  
-on wælbedde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wriþan þohte,  
-þæt he for mundgripe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minum scolde  
-licgean lifbysig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;butan his lic swice.  
-Ic hine ne mihte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa metod nolde,  
-ganges getwæman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no ic him þæs georne ætfealh,  
-feorhgeniðlan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs to foremihtig  
-feond on feþe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hwæþere he his folme forlet  
-to lifwraþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;last weardian,  
-earm ond eaxle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No þær ænige swa þeah  
-feasceaft guma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frofre gebohte;  
-no þy leng leofað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laðgeteona,  
-synnum geswenced,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac hyne sar hafað  
-mid nydgripe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nearwe befongen,  
-balwon bendum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ðær abidan sceal  
-maga mane fah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;miclan domes,  
-hu him scir metod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scrifan wille."  
-Ða wæs swigra secg,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Eclafes,  
-on gylpspræce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðgeweorca,  
-siþðan æþelingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorles cræfte  
-ofer heanne hrof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hand sceawedon,  
-feondes fingras.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Foran æghwylc wæs,  
-stiðra nægla gehwylc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;style gelicost,  
-hæþenes handsporu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hilderinces,  
-egl, unheoru.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Æghwylc gecwæð  
-þæt him heardra nan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hrinan wolde  
-iren ærgod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðæs ahlæcan  
-blodge beadufolme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;onberan wolde.  
+<div class='line'>Hroðgar maþelode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(he to healle geong,</div>
+<div class='line'>stod on stapole,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geseah steapne hrof,</div>
+<div class='line'>golde fahne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond Grendles hond):</div>
+<div class='line'>"ðisse ansyne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>alwealdan þanc</div>
+<div class='line'>lungre gelimpe!<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Fela ic laþes gebad,</div>
+<div class='line'>grynna æt Grendle;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>a mæg god wyrcan</div>
+<div class='line'>wunder æfter wundre,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wuldres hyrde.</div>
+<div class='line'>Ðæt wæs ungeara<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ic ænigra me</div>
+<div class='line'>weana ne wende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to widan feore</div>
+<div class='line'>bote gebidan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne blode fah</div>
+<div class='line'>husa selest<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heorodreorig stod,</div>
+<div class='line'>wea widscofen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>witena gehwylcum</div>
+<div class='line'>ðara þe ne wendon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hie wideferhð</div>
+<div class='line'>leoda landgeweorc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>laþum beweredon</div>
+<div class='line'>scuccum ond scinnum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nu scealc hafað</div>
+<div class='line'>þurh drihtnes miht<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dæd gefremede</div>
+<div class='line'>ðe we ealle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær ne meahton</div>
+<div class='line'>snyttrum besyrwan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hwæt, þæt secgan mæg</div>
+<div class='line'>efne swa hwylc mægþa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa ðone magan cende</div>
+<div class='line'>æfter gumcynnum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gyf heo gyt lyfað,</div>
+<div class='line'>þæt hyre ealdmetod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>este wære</div>
+<div class='line'>bearngebyrdo.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nu ic, Beowulf, þec,</div>
+<div class='line'>secg betsta,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>me for sunu wylle</div>
+<div class='line'>freogan on ferhþe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heald forð tela</div>
+<div class='line'>niwe sibbe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne bið þe nænigra gad</div>
+<div class='line'>worolde wilna,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe ic geweald hæbbe.</div>
+<div class='line'>Ful oft ic for læssan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lean teohhode,</div>
+<div class='line'>hordweorþunge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hnahran rince,</div>
+<div class='line'>sæmran æt sæcce.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þu þe self hafast</div>
+<div class='line'>dædum gefremed<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt þin dom lyfað</div>
+<div class='line'>awa to aldre.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Alwalda þec</div>
+<div class='line'>gode forgylde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa he nu gyt dyde!"</div>
+<div class='line'>Beowulf maþelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearn Ecþeowes:</div>
+<div class='line'>"We þæt ellenweorc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>estum miclum,</div>
+<div class='line'>feohtan fremedon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frecne geneðdon</div>
+<div class='line'>eafoð uncuþes.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Uþe ic swiþor</div>
+<div class='line'>þæt ðu hine selfne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geseon moste,</div>
+<div class='line'>feond on frætewum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fylwerigne.</div>
+<div class='line'>Ic hine hrædlice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heardan clammum</div>
+<div class='line'>on wælbedde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wriþan þohte,</div>
+<div class='line'>þæt he for mundgripe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>minum scolde</div>
+<div class='line'>licgean lifbysig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>butan his lic swice.</div>
+<div class='line'>Ic hine ne mihte,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa metod nolde,</div>
+<div class='line'>ganges getwæman,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>no ic him þæs georne ætfealh,</div>
+<div class='line'>feorhgeniðlan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs to foremihtig</div>
+<div class='line'>feond on feþe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hwæþere he his folme forlet</div>
+<div class='line'>to lifwraþe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>last weardian,</div>
+<div class='line'>earm ond eaxle.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>No þær ænige swa þeah</div>
+<div class='line'>feasceaft guma<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frofre gebohte;</div>
+<div class='line'>no þy leng leofað<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>laðgeteona,</div>
+<div class='line'>synnum geswenced,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac hyne sar hafað</div>
+<div class='line'>mid nydgripe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nearwe befongen,</div>
+<div class='line'>balwon bendum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ðær abidan sceal</div>
+<div class='line'>maga mane fah<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>miclan domes,</div>
+<div class='line'>hu him scir metod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>scrifan wille."</div>
+<div class='line'>Ða wæs swigra secg,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu Eclafes,</div>
+<div class='line'>on gylpspræce<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guðgeweorca,</div>
+<div class='line'>siþðan æþelingas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eorles cræfte</div>
+<div class='line'>ofer heanne hrof<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hand sceawedon,</div>
+<div class='line'>feondes fingras.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Foran æghwylc wæs,</div>
+<div class='line'>stiðra nægla gehwylc,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>style gelicost,</div>
+<div class='line'>hæþenes handsporu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hilderinces,</div>
+<div class='line'>egl, unheoru.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Æghwylc gecwæð</div>
+<div class='line'>þæt him heardra nan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hrinan wolde</div>
+<div class='line'>iren ærgod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ðæs ahlæcan</div>
+<div class='line'>blodge beadufolme<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>onberan wolde.</div>
   
-Ða wæs haten hreþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heort innanweard  
-folmum gefrætwod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fela þæra wæs,  
-wera ond wifa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe þæt winreced,  
-gestsele gyredon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Goldfag scinon  
-web æfter wagum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundorsiona fela  
-secga gehwylcum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara þe on swylc starað.  
-Wæs þæt beorhte bold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tobrocen swiðe,  
-eal inneweard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;irenbendum fæst,  
-heorras tohlidene.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hrof ana genæs,  
-ealles ansund,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe se aglæca,  
-fyrendædum fag,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on fleam gewand,  
-aldres orwena.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No þæt yðe byð  
-to befleonne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fremme se þe wille,  
-ac gesecan sceal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sawlberendra,  
-nyde genydde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niþða bearna,  
-grundbuendra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearwe stowe,  
-þær his lichoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;legerbedde fæst  
-swefeþ æfter symle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs sæl ond mæl  
-þæt to healle gang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Healfdenes sunu;  
-wolde self cyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;symbel þicgan.  
-Ne gefrægen ic þa mægþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maran weorode  
-ymb hyra sincgyfan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sel gebæran.  
-Bugon þa to bence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blædagande,  
-fylle gefægon;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fægere geþægon  
-medoful manig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;magas þara  
-swiðhicgende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sele þam hean,  
-Hroðgar ond Hroþulf.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heorot innan wæs  
-freondum afylled;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalles facenstafas  
-Þeodscyldingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þenden fremedon.  
-Forgeaf þa Beowulfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Healfdenes  
-segen gyldenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sigores to leane;  
-hroden hildecumbor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm ond byrnan,  
-mære maðþumsweord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manige gesawon  
-beforan beorn beran.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulf geþah  
-ful on flette;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no he þære feohgyfte  
-for sceotendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scamigan ðorfte.  
-Ne gefrægn ic freondlicor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feower madmas  
-golde gegyrede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gummanna fela  
-in ealobence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðrum gesellan.  
-Ymb þæs helmes hrof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heafodbeorge  
-wirum bewunden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;walu utan heold,  
-þæt him fela laf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frecne ne meahton  
-scurheard sceþðan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne scyldfreca  
-ongean gramum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gangan scolde.  
-Heht ða eorla hleo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eahta mearas  
-fætedhleore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on flet teon,  
-in under eoderas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þara anum stod  
-sadol searwum fah,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;since gewurþad;  
-þæt wæs hildesetl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heahcyninges,  
-ðonne sweorda gelac&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Healfdenes  
-efnan wolde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næfre on ore læg  
-widcuþes wig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne walu feollon.  
-Ond ða Beowulfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bega gehwæþres  
-eodor Ingwina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;onweald geteah,  
-wicga ond wæpna,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;het hine wel brucan.  
-Swa manlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mære þeoden,  
-hordweard hæleþa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heaþoræsas geald  
-mearum ond madmum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hy næfre man lyhð,  
-se þe secgan wile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;soð æfter rihte.  
+<div class='line'>Ða wæs haten hreþe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Heort innanweard</div>
+<div class='line'>folmum gefrætwod.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Fela þæra wæs,</div>
+<div class='line'>wera ond wifa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe þæt winreced,</div>
+<div class='line'>gestsele gyredon.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Goldfag scinon</div>
+<div class='line'>web æfter wagum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wundorsiona fela</div>
+<div class='line'>secga gehwylcum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þara þe on swylc starað.</div>
+<div class='line'>Wæs þæt beorhte bold<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>tobrocen swiðe,</div>
+<div class='line'>eal inneweard<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>irenbendum fæst,</div>
+<div class='line'>heorras tohlidene.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hrof ana genæs,</div>
+<div class='line'>ealles ansund,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe se aglæca,</div>
+<div class='line'>fyrendædum fag,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on fleam gewand,</div>
+<div class='line'>aldres orwena.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>No þæt yðe byð</div>
+<div class='line'>to befleonne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fremme se þe wille,</div>
+<div class='line'>ac gesecan sceal<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sawlberendra,</div>
+<div class='line'>nyde genydde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>niþða bearna,</div>
+<div class='line'>grundbuendra<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gearwe stowe,</div>
+<div class='line'>þær his lichoma<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>legerbedde fæst</div>
+<div class='line'>swefeþ æfter symle.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa wæs sæl ond mæl</div>
+<div class='line'>þæt to healle gang<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Healfdenes sunu;</div>
+<div class='line'>wolde self cyning<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>symbel þicgan.</div>
+<div class='line'>Ne gefrægen ic þa mægþe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>maran weorode</div>
+<div class='line'>ymb hyra sincgyfan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sel gebæran.</div>
+<div class='line'>Bugon þa to bence<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>blædagande,</div>
+<div class='line'>fylle gefægon;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fægere geþægon</div>
+<div class='line'>medoful manig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>magas þara</div>
+<div class='line'>swiðhicgende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on sele þam hean,</div>
+<div class='line'>Hroðgar ond Hroþulf.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Heorot innan wæs</div>
+<div class='line'>freondum afylled;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nalles facenstafas</div>
+<div class='line'>Þeodscyldingas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þenden fremedon.</div>
+<div class='line'>Forgeaf þa Beowulfe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearn Healfdenes</div>
+<div class='line'>segen gyldenne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sigores to leane;</div>
+<div class='line'>hroden hildecumbor,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helm ond byrnan,</div>
+<div class='line'>mære maðþumsweord<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>manige gesawon</div>
+<div class='line'>beforan beorn beran.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Beowulf geþah</div>
+<div class='line'>ful on flette;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>no he þære feohgyfte</div>
+<div class='line'>for sceotendum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>scamigan ðorfte.</div>
+<div class='line'>Ne gefrægn ic freondlicor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feower madmas</div>
+<div class='line'>golde gegyrede<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gummanna fela</div>
+<div class='line'>in ealobence<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oðrum gesellan.</div>
+<div class='line'>Ymb þæs helmes hrof<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heafodbeorge</div>
+<div class='line'>wirum bewunden<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>walu utan heold,</div>
+<div class='line'>þæt him fela laf<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frecne ne meahton</div>
+<div class='line'>scurheard sceþðan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne scyldfreca</div>
+<div class='line'>ongean gramum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gangan scolde.</div>
+<div class='line'>Heht ða eorla hleo<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eahta mearas</div>
+<div class='line'>fætedhleore<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on flet teon,</div>
+<div class='line'>in under eoderas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þara anum stod</div>
+<div class='line'>sadol searwum fah,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>since gewurþad;</div>
+<div class='line'>þæt wæs hildesetl<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heahcyninges,</div>
+<div class='line'>ðonne sweorda gelac<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu Healfdenes</div>
+<div class='line'>efnan wolde.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næfre on ore læg</div>
+<div class='line'>widcuþes wig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðonne walu feollon.</div>
+<div class='line'>Ond ða Beowulfe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bega gehwæþres</div>
+<div class='line'>eodor Ingwina<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>onweald geteah,</div>
+<div class='line'>wicga ond wæpna,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>het hine wel brucan.</div>
+<div class='line'>Swa manlice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mære þeoden,</div>
+<div class='line'>hordweard hæleþa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heaþoræsas geald</div>
+<div class='line'>mearum ond madmum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hy næfre man lyhð,</div>
+<div class='line'>se þe secgan wile<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>soð æfter rihte.</div>
   
-Ða gyt æghwylcum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorla drihten  
-þara þe mid Beowulfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brimlade teah  
-on þære medubence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maþðum gesealde,  
-yrfelafe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þone ænne heht  
-golde forgyldan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone ðe Grendel ær  
-mane acwealde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he hyra ma wolde,  
-nefne him witig god&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrd forstode  
-ond ðæs mannes mod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Metod eallum weold  
-gumena cynnes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he nu git deð.  
-Forþan bið andgit&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æghwær selest,  
-ferhðes foreþanc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fela sceal gebidan  
-leofes ond laþes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe longe her  
-on ðyssum windagum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worolde bruceð.  
-Þær wæs sang ond sweg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;samod ætgædere  
-fore Healfdenes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildewisan,  
-gomenwudu greted,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gid oft wrecen,  
-ðonne healgamen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroþgares scop  
-æfter medobence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mænan scolde  
-be Finnes eaferum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða hie se fær begeat,  
-hæleð Healfdena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hnæf Scyldinga,  
-in Freswæle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feallan scolde.  
-Ne huru Hildeburh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;herian þorfte  
-Eotena treowe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unsynnum wearð  
-beloren leofum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt þam lindplegan,  
-bearnum ond broðrum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hie on gebyrd hruron,  
-gare wunde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs geomuru ides!  
-Nalles holinga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hoces dohtor  
-meotodsceaft bemearn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syþðan morgen com,  
-ða heo under swegle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon meahte  
-morþorbealo maga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær heo ær mæste heold  
-worolde wynne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wig ealle fornam  
-Finnes þegnas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nemne feaum anum,  
-þæt he ne mehte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on þæm meðelstede  
-wig Hengeste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiht gefeohtan,  
-ne þa wealafe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wige forþringan  
-þeodnes ðegna;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac hig him geþingo budon,  
-þæt hie him oðer flet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eal gerymdon,  
-healle ond heahsetl,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie healfre geweald  
-wið Eotena bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;agan moston,  
-ond æt feohgyftum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Folcwaldan sunu  
-dogra gehwylce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dene weorþode,  
-Hengestes heap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringum wenede  
-efne swa swiðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sincgestreonum  
-fættan goldes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he Fresena cyn  
-on beorsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byldan wolde.  
-Ða hie getruwedon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on twa healfa  
-fæste frioðuwære.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fin Hengeste  
-elne, unflitme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aðum benemde  
-þæt he þa wealafe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weotena dome  
-arum heolde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðær ænig mon  
-wordum ne worcum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wære ne bræce,  
-ne þurh inwitsearo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfre gemænden  
-ðeah hie hira beaggyfan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;banan folgedon  
-ðeodenlease,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa him swa geþearfod wæs;  
-gyf þonne Frysna hwylc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frecnan spræce  
-ðæs morþorhetes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;myndgiend wære,  
-þonne hit sweordes ecg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seðan scolde.  
-Ad wæs geæfned&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond icge gold  
-ahæfen of horde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Herescyldinga  
-betst beadorinca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs on bæl gearu.  
-Æt þæm ade wæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eþgesyne  
-swatfah syrce,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swyn ealgylden,  
-eofer irenheard,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþeling manig  
-wundum awyrded;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sume on wæle crungon.  
-Het ða Hildeburh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt Hnæfes ade  
-hire selfre sunu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweoloðe befæstan,  
-banfatu bærnan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on bæl don  
-eame on eaxle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ides gnornode,  
-geomrode giddum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guðrinc astah.  
-Wand to wolcnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wælfyra mæst,  
-hlynode for hlawe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hafelan multon,  
-bengeato burston,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne blod ætspranc,  
-laðbite lices.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lig ealle forswealg,  
-gæsta gifrost,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara ðe þær guð fornam  
-bega folces;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs hira blæd scacen.  
+<div class='line'>Ða gyt æghwylcum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eorla drihten</div>
+<div class='line'>þara þe mid Beowulfe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>brimlade teah</div>
+<div class='line'>on þære medubence<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>maþðum gesealde,</div>
+<div class='line'>yrfelafe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þone ænne heht</div>
+<div class='line'>golde forgyldan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þone ðe Grendel ær</div>
+<div class='line'>mane acwealde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa he hyra ma wolde,</div>
+<div class='line'>nefne him witig god<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wyrd forstode</div>
+<div class='line'>ond ðæs mannes mod.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Metod eallum weold</div>
+<div class='line'>gumena cynnes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa he nu git deð.</div>
+<div class='line'>Forþan bið andgit<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æghwær selest,</div>
+<div class='line'>ferhðes foreþanc.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Fela sceal gebidan</div>
+<div class='line'>leofes ond laþes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þe longe her</div>
+<div class='line'>on ðyssum windagum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>worolde bruceð.</div>
+<div class='line'>Þær wæs sang ond sweg<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>samod ætgædere</div>
+<div class='line'>fore Healfdenes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hildewisan,</div>
+<div class='line'>gomenwudu greted,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gid oft wrecen,</div>
+<div class='line'>ðonne healgamen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hroþgares scop</div>
+<div class='line'>æfter medobence<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mænan scolde</div>
+<div class='line'>be Finnes eaferum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða hie se fær begeat,</div>
+<div class='line'>hæleð Healfdena,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hnæf Scyldinga,</div>
+<div class='line'>in Freswæle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feallan scolde.</div>
+<div class='line'>Ne huru Hildeburh<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>herian þorfte</div>
+<div class='line'>Eotena treowe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>unsynnum wearð</div>
+<div class='line'>beloren leofum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æt þam lindplegan,</div>
+<div class='line'>bearnum ond broðrum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hie on gebyrd hruron,</div>
+<div class='line'>gare wunde.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þæt wæs geomuru ides!</div>
+<div class='line'>Nalles holinga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hoces dohtor</div>
+<div class='line'>meotodsceaft bemearn,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syþðan morgen com,</div>
+<div class='line'>ða heo under swegle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geseon meahte</div>
+<div class='line'>morþorbealo maga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær heo ær mæste heold</div>
+<div class='line'>worolde wynne.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wig ealle fornam</div>
+<div class='line'>Finnes þegnas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nemne feaum anum,</div>
+<div class='line'>þæt he ne mehte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on þæm meðelstede</div>
+<div class='line'>wig Hengeste<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wiht gefeohtan,</div>
+<div class='line'>ne þa wealafe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wige forþringan</div>
+<div class='line'>þeodnes ðegna;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac hig him geþingo budon,</div>
+<div class='line'>þæt hie him oðer flet<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eal gerymdon,</div>
+<div class='line'>healle ond heahsetl,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hie healfre geweald</div>
+<div class='line'>wið Eotena bearn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>agan moston,</div>
+<div class='line'>ond æt feohgyftum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Folcwaldan sunu</div>
+<div class='line'>dogra gehwylce<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Dene weorþode,</div>
+<div class='line'>Hengestes heap<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hringum wenede</div>
+<div class='line'>efne swa swiðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sincgestreonum</div>
+<div class='line'>fættan goldes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa he Fresena cyn</div>
+<div class='line'>on beorsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>byldan wolde.</div>
+<div class='line'>Ða hie getruwedon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on twa healfa</div>
+<div class='line'>fæste frioðuwære.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Fin Hengeste</div>
+<div class='line'>elne, unflitme<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>aðum benemde</div>
+<div class='line'>þæt he þa wealafe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weotena dome</div>
+<div class='line'>arum heolde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ðær ænig mon</div>
+<div class='line'>wordum ne worcum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wære ne bræce,</div>
+<div class='line'>ne þurh inwitsearo<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æfre gemænden</div>
+<div class='line'>ðeah hie hira beaggyfan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>banan folgedon</div>
+<div class='line'>ðeodenlease,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa him swa geþearfod wæs;</div>
+<div class='line'>gyf þonne Frysna hwylc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frecnan spræce</div>
+<div class='line'>ðæs morþorhetes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>myndgiend wære,</div>
+<div class='line'>þonne hit sweordes ecg<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>seðan scolde.</div>
+<div class='line'>Ad wæs geæfned<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond icge gold</div>
+<div class='line'>ahæfen of horde.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Herescyldinga</div>
+<div class='line'>betst beadorinca<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs on bæl gearu.</div>
+<div class='line'>Æt þæm ade wæs<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eþgesyne</div>
+<div class='line'>swatfah syrce,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swyn ealgylden,</div>
+<div class='line'>eofer irenheard,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æþeling manig</div>
+<div class='line'>wundum awyrded;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sume on wæle crungon.</div>
+<div class='line'>Het ða Hildeburh<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æt Hnæfes ade</div>
+<div class='line'>hire selfre sunu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sweoloðe befæstan,</div>
+<div class='line'>banfatu bærnan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond on bæl don</div>
+<div class='line'>eame on eaxle.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ides gnornode,</div>
+<div class='line'>geomrode giddum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Guðrinc astah.</div>
+<div class='line'>Wand to wolcnum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wælfyra mæst,</div>
+<div class='line'>hlynode for hlawe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hafelan multon,</div>
+<div class='line'>bengeato burston,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðonne blod ætspranc,</div>
+<div class='line'>laðbite lices.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Lig ealle forswealg,</div>
+<div class='line'>gæsta gifrost,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þara ðe þær guð fornam</div>
+<div class='line'>bega folces;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs hira blæd scacen.</div>
   
-Gewiton him ða wigend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wica neosian,  
-freondum befeallen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frysland geseon,  
-hamas ond heaburh.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hengest ða gyt  
-wælfagne winter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wunode mid Finne  
-eal unhlitme.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eard gemunde,  
-þeah þe he ne meahte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on mere drifan  
-hringedstefnan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;holm storme weol,  
-won wið winde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;winter yþe beleac  
-isgebinde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþðæt oþer com  
-gear in geardas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa nu gyt deð,  
-þa ðe syngales&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sele bewitiað,  
-wuldortorhtan weder.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða wæs winter scacen,  
-fæger foldan bearm.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fundode wrecca,  
-gist of geardum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he to gyrnwræce  
-swiðor þohte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne to sælade,  
-gif he torngemot&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þurhteon mihte  
-þæt he Eotena bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inne gemunde.  
-Swa he ne forwyrnde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;woroldrædenne,  
-þonne him Hunlafing&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildeleoman,  
-billa selest,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on bearm dyde,  
-þæs wæron mid Eotenum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ecge cuðe.  
-Swylce ferhðfrecan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Fin eft begeat  
-sweordbealo sliðen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt his selfes ham,  
-siþðan grimne gripe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guðlaf ond Oslaf  
-æfter sæsiðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sorge, mændon,  
-ætwiton weana dæl;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne meahte wæfre mod  
-forhabban in hreþre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða wæs heal roden  
-feonda feorum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swilce Fin slægen,  
-cyning on corþre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond seo cwen numen.  
-Sceotend Scyldinga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to scypon feredon  
-eal ingesteald&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorðcyninges,  
-swylce hie æt Finnes ham&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;findan meahton  
-sigla, searogimma.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hie on sælade  
-drihtlice wif&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to Denum feredon,  
-læddon to leodum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Leoð wæs asungen,  
-gleomannes gyd.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gamen eft astah,  
-beorhtode bencsweg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byrelas sealdon  
-win of wunderfatum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa cwom Wealhþeo forð  
-gan under gyldnum beage,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær þa godan twegen  
-sæton suhtergefæderan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa gyt wæs hiera sib ætgædere,  
-æghwylc oðrum trywe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swylce þær Unferþ þyle  
-æt fotum sæt frean Scyldinga;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gehwylc hiora his ferhþe treowde,  
-þæt he hæfde mod micel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah þe he his magum nære  
-arfæst æt ecga gelacum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Spræc ða ides Scyldinga:  
-"Onfoh þissum fulle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;freodrihten min,  
-sinces brytta!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þu on sælum wes,  
-goldwine gumena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond to Geatum spræc  
-mildum wordum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa sceal man don.  
-Beo wið Geatas glæd,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geofena gemyndig,  
-nean ond feorran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þu nu hafast.  
-Me man sægde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þu ðe for sunu wolde  
-hererinc habban.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heorot is gefælsod,  
-beahsele beorhta;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bruc þenden þu mote  
-manigra medo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þinum magum læf  
-folc ond rice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne ðu forð scyle  
-metodsceaft seon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic minne can  
-glædne Hroþulf,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he þa geogoðe wile  
-arum healdan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyf þu ær þonne he,  
-wine Scildinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worold oflætest;  
-wene ic þæt he mid gode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyldan wille  
-uncran eaferan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif he þæt eal gemon,  
-hwæt wit to willan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond to worðmyndum  
-umborwesendum ær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;arna gefremedon."  
-Hwearf þa bi bence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær hyre byre wæron,  
-Hreðric ond Hroðmund,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond hæleþa bearn,  
-giogoð ætgædere;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær se goda sæt,  
-Beowulf Geata,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be þæm gebroðrum twæm.  
+<div class='line'>Gewiton him ða wigend<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wica neosian,</div>
+<div class='line'>freondum befeallen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Frysland geseon,</div>
+<div class='line'>hamas ond heaburh.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hengest ða gyt</div>
+<div class='line'>wælfagne winter<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wunode mid Finne</div>
+<div class='line'>eal unhlitme.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Eard gemunde,</div>
+<div class='line'>þeah þe he ne meahte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on mere drifan</div>
+<div class='line'>hringedstefnan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>holm storme weol,</div>
+<div class='line'>won wið winde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>winter yþe beleac</div>
+<div class='line'>isgebinde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþðæt oþer com</div>
+<div class='line'>gear in geardas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa nu gyt deð,</div>
+<div class='line'>þa ðe syngales<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sele bewitiað,</div>
+<div class='line'>wuldortorhtan weder.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ða wæs winter scacen,</div>
+<div class='line'>fæger foldan bearm.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Fundode wrecca,</div>
+<div class='line'>gist of geardum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he to gyrnwræce</div>
+<div class='line'>swiðor þohte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne to sælade,</div>
+<div class='line'>gif he torngemot<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þurhteon mihte</div>
+<div class='line'>þæt he Eotena bearn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>inne gemunde.</div>
+<div class='line'>Swa he ne forwyrnde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>woroldrædenne,</div>
+<div class='line'>þonne him Hunlafing<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hildeleoman,</div>
+<div class='line'>billa selest,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on bearm dyde,</div>
+<div class='line'>þæs wæron mid Eotenum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ecge cuðe.</div>
+<div class='line'>Swylce ferhðfrecan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Fin eft begeat</div>
+<div class='line'>sweordbealo sliðen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æt his selfes ham,</div>
+<div class='line'>siþðan grimne gripe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Guðlaf ond Oslaf</div>
+<div class='line'>æfter sæsiðe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sorge, mændon,</div>
+<div class='line'>ætwiton weana dæl;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne meahte wæfre mod</div>
+<div class='line'>forhabban in hreþre.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ða wæs heal roden</div>
+<div class='line'>feonda feorum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swilce Fin slægen,</div>
+<div class='line'>cyning on corþre,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond seo cwen numen.</div>
+<div class='line'>Sceotend Scyldinga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to scypon feredon</div>
+<div class='line'>eal ingesteald<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eorðcyninges,</div>
+<div class='line'>swylce hie æt Finnes ham<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>findan meahton</div>
+<div class='line'>sigla, searogimma.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hie on sælade</div>
+<div class='line'>drihtlice wif<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to Denum feredon,</div>
+<div class='line'>læddon to leodum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Leoð wæs asungen,</div>
+<div class='line'>gleomannes gyd.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Gamen eft astah,</div>
+<div class='line'>beorhtode bencsweg;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>byrelas sealdon</div>
+<div class='line'>win of wunderfatum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa cwom Wealhþeo forð</div>
+<div class='line'>gan under gyldnum beage,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær þa godan twegen</div>
+<div class='line'>sæton suhtergefæderan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa gyt wæs hiera sib ætgædere,</div>
+<div class='line'>æghwylc oðrum trywe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Swylce þær Unferþ þyle</div>
+<div class='line'>æt fotum sæt frean Scyldinga;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gehwylc hiora his ferhþe treowde,</div>
+<div class='line'>þæt he hæfde mod micel,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah þe he his magum nære</div>
+<div class='line'>arfæst æt ecga gelacum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Spræc ða ides Scyldinga:</div>
+<div class='line'>"Onfoh þissum fulle,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>freodrihten min,</div>
+<div class='line'>sinces brytta!<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þu on sælum wes,</div>
+<div class='line'>goldwine gumena,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond to Geatum spræc</div>
+<div class='line'>mildum wordum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa sceal man don.</div>
+<div class='line'>Beo wið Geatas glæd,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geofena gemyndig,</div>
+<div class='line'>nean ond feorran<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þu nu hafast.</div>
+<div class='line'>Me man sægde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt þu ðe for sunu wolde</div>
+<div class='line'>hererinc habban.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Heorot is gefælsod,</div>
+<div class='line'>beahsele beorhta;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bruc þenden þu mote</div>
+<div class='line'>manigra medo,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þinum magum læf</div>
+<div class='line'>folc ond rice,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne ðu forð scyle</div>
+<div class='line'>metodsceaft seon.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic minne can</div>
+<div class='line'>glædne Hroþulf,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he þa geogoðe wile</div>
+<div class='line'>arum healdan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gyf þu ær þonne he,</div>
+<div class='line'>wine Scildinga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>worold oflætest;</div>
+<div class='line'>wene ic þæt he mid gode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gyldan wille</div>
+<div class='line'>uncran eaferan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gif he þæt eal gemon,</div>
+<div class='line'>hwæt wit to willan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond to worðmyndum</div>
+<div class='line'>umborwesendum ær<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>arna gefremedon."</div>
+<div class='line'>Hwearf þa bi bence<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær hyre byre wæron,</div>
+<div class='line'>Hreðric ond Hroðmund,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond hæleþa bearn,</div>
+<div class='line'>giogoð ætgædere;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær se goda sæt,</div>
+<div class='line'>Beowulf Geata,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>be þæm gebroðrum twæm.</div>
   
-Him wæs ful boren&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond freondlaþu  
-wordum bewægned,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond wunden gold  
-estum geeawed,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earmreade twa,  
-hrægl ond hringas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;healsbeaga mæst  
-þara þe ic on foldan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gefrægen hæbbe.  
-Nænigne ic under swegle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selran hyrde  
-hordmaððum hæleþa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syþðan Hama ætwæg  
-to þære byrhtan byrig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Brosinga mene,  
-sigle ond sincfæt;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;searoniðas fleah  
-Eormenrices,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geceas ecne ræd.  
-Þone hring hæfde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelac Geata,  
-nefa Swertinges,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nyhstan siðe,  
-siðþan he under segne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sinc ealgode,  
-wælreaf werede;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyne wyrd fornam,  
-syþðan he for wlenco&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wean ahsode,  
-fæhðe to Frysum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He þa frætwe wæg,  
-eorclanstanas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer yða ful,  
-rice þeoden;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he under rande gecranc.  
-Gehwearf þa in Francna fæþm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorh cyninges,  
-breostgewædu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond se beah somod;  
-wyrsan wigfrecan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæl reafedon  
-æfter guðsceare,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leode,  
-hreawic heoldon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heal swege onfeng.  
-Wealhðeo maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heo fore þæm werede spræc:  
-"Bruc ðisses beages,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulf leofa,  
-hyse, mid hæle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þisses hrægles neot,  
-þeodgestreona,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond geþeoh tela,  
-cen þec mid cræfte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þyssum cnyhtum wes  
-lara liðe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic þe þæs lean geman.  
-Hafast þu gefered&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðe feor ond neah  
-ealne wideferhþ&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weras ehtigað,  
-efne swa side&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa sæ bebugeð,  
-windgeard, weallas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wes þenden þu lifige,  
-æþeling, eadig.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þe an tela  
-sincgestreona.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beo þu suna minum  
-dædum gedefe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dreamhealdende.  
-Her is æghwylc eorl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþrum getrywe,  
-modes milde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mandrihtne hold;  
-þegnas syndon geþwære,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeod ealgearo,  
-druncne dryhtguman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;doð swa ic bidde."  
-Eode þa to setle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þær wæs symbla cyst;  
-druncon win weras.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wyrd ne cuþon,  
-geosceaft grimme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hit agangen wearð  
-eorla manegum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syþðan æfen cwom  
-ond him Hroþgar gewat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hofe sinum,  
-rice to ræste.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reced weardode  
-unrim eorla,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hie oft ær dydon.  
-Bencþelu beredon;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hit geondbræded wearð  
-beddum ond bolstrum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beorscealca sum  
-fus ond fæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fletræste gebeag.  
-Setton him to heafdon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hilderandas,  
-bordwudu beorhtan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær on bence wæs  
-ofer æþelinge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yþgesene  
-heaþosteapa helm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringed byrne,  
-þrecwudu þrymlic.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs þeaw hyra  
-þæt hie oft wæron&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;an wig gearwe,  
-ge æt ham ge on herge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ge gehwæþer þara,  
-efne swylce mæla&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce hira mandryhtne  
-þearf gesælde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs seo þeod tilu.  
+<div class='line'>Him wæs ful boren<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond freondlaþu</div>
+<div class='line'>wordum bewægned,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond wunden gold</div>
+<div class='line'>estum geeawed,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>earmreade twa,</div>
+<div class='line'>hrægl ond hringas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>healsbeaga mæst</div>
+<div class='line'>þara þe ic on foldan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gefrægen hæbbe.</div>
+<div class='line'>Nænigne ic under swegle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>selran hyrde</div>
+<div class='line'>hordmaððum hæleþa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syþðan Hama ætwæg</div>
+<div class='line'>to þære byrhtan byrig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Brosinga mene,</div>
+<div class='line'>sigle ond sincfæt;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>searoniðas fleah</div>
+<div class='line'>Eormenrices,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geceas ecne ræd.</div>
+<div class='line'>Þone hring hæfde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Higelac Geata,</div>
+<div class='line'>nefa Swertinges,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nyhstan siðe,</div>
+<div class='line'>siðþan he under segne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sinc ealgode,</div>
+<div class='line'>wælreaf werede;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hyne wyrd fornam,</div>
+<div class='line'>syþðan he for wlenco<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wean ahsode,</div>
+<div class='line'>fæhðe to Frysum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He þa frætwe wæg,</div>
+<div class='line'>eorclanstanas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ofer yða ful,</div>
+<div class='line'>rice þeoden;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he under rande gecranc.</div>
+<div class='line'>Gehwearf þa in Francna fæþm<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorh cyninges,</div>
+<div class='line'>breostgewædu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond se beah somod;</div>
+<div class='line'>wyrsan wigfrecan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæl reafedon</div>
+<div class='line'>æfter guðsceare,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geata leode,</div>
+<div class='line'>hreawic heoldon.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Heal swege onfeng.</div>
+<div class='line'>Wealhðeo maþelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heo fore þæm werede spræc:</div>
+<div class='line'>"Bruc ðisses beages,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Beowulf leofa,</div>
+<div class='line'>hyse, mid hæle,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þisses hrægles neot,</div>
+<div class='line'>þeodgestreona,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond geþeoh tela,</div>
+<div class='line'>cen þec mid cræfte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þyssum cnyhtum wes</div>
+<div class='line'>lara liðe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ic þe þæs lean geman.</div>
+<div class='line'>Hafast þu gefered<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ðe feor ond neah</div>
+<div class='line'>ealne wideferhþ<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weras ehtigað,</div>
+<div class='line'>efne swa side<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa sæ bebugeð,</div>
+<div class='line'>windgeard, weallas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wes þenden þu lifige,</div>
+<div class='line'>æþeling, eadig.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic þe an tela</div>
+<div class='line'>sincgestreona.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Beo þu suna minum</div>
+<div class='line'>dædum gedefe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dreamhealdende.</div>
+<div class='line'>Her is æghwylc eorl<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþrum getrywe,</div>
+<div class='line'>modes milde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mandrihtne hold;</div>
+<div class='line'>þegnas syndon geþwære,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeod ealgearo,</div>
+<div class='line'>druncne dryhtguman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>doð swa ic bidde."</div>
+<div class='line'>Eode þa to setle.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þær wæs symbla cyst;</div>
+<div class='line'>druncon win weras.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wyrd ne cuþon,</div>
+<div class='line'>geosceaft grimme,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hit agangen wearð</div>
+<div class='line'>eorla manegum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syþðan æfen cwom</div>
+<div class='line'>ond him Hroþgar gewat<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to hofe sinum,</div>
+<div class='line'>rice to ræste.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Reced weardode</div>
+<div class='line'>unrim eorla,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hie oft ær dydon.</div>
+<div class='line'>Bencþelu beredon;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hit geondbræded wearð</div>
+<div class='line'>beddum ond bolstrum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Beorscealca sum</div>
+<div class='line'>fus ond fæge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fletræste gebeag.</div>
+<div class='line'>Setton him to heafdon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hilderandas,</div>
+<div class='line'>bordwudu beorhtan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær on bence wæs</div>
+<div class='line'>ofer æþelinge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>yþgesene</div>
+<div class='line'>heaþosteapa helm,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hringed byrne,</div>
+<div class='line'>þrecwudu þrymlic.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wæs þeaw hyra</div>
+<div class='line'>þæt hie oft wæron<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>an wig gearwe,</div>
+<div class='line'>ge æt ham ge on herge,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ge gehwæþer þara,</div>
+<div class='line'>efne swylce mæla<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swylce hira mandryhtne</div>
+<div class='line'>þearf gesælde;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs seo þeod tilu.</div>
   
-Sigon þa to slæpe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sum sare angeald  
-æfenræste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him ful oft gelamp,  
-siþðan goldsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendel warode,  
-unriht æfnde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt ende becwom,  
-swylt æfter synnum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt gesyne wearþ,  
-widcuþ werum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þætte wrecend þa gyt  
-lifde æfter laþum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lange þrage,  
-æfter guðceare.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendles modor,  
-ides, aglæcwif,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yrmþe gemunde,  
-se þe wæteregesan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wunian scolde,  
-cealde streamas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siþðan Cain wearð  
-to ecgbanan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;angan breþer,  
-fæderenmæge;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he þa fag gewat,  
-morþre gemearcod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mandream fleon,  
-westen warode.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þanon woc fela  
-geosceaftgasta;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs þæra Grendel sum,  
-heorowearh hetelic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se æt Heorote fand  
-wæccendne wer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiges bidan.  
-Þær him aglæca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ætgræpe wearð;  
-hwæþre he gemunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenes strenge,  
-gimfæste gife&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðe him god sealde,  
-ond him to anwaldan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;are gelyfde,  
-frofre ond fultum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðy he þone feond ofercwom,  
-gehnægde helle gast.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa he hean gewat,  
-dreame bedæled,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deaþwic seon,  
-mancynnes feond,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his modor þa gyt,  
-gifre ond galgmod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gegan wolde  
-sorhfulne sið,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu deað wrecan.  
-Com þa to Heorote,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær Hringdene  
-geond þæt sæld swæfun.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa ðær sona wearð  
-edhwyrft eorlum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siþðan inne fealh  
-Grendles modor.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs se gryre læssa  
-efne swa micle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa bið mægþa cræft,  
-wiggryre wifes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be wæpnedmen,  
-þonne heoru bunden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hamere geþuren,  
-sweord swate fah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swin ofer helme  
-ecgum dyhttig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;andweard scireð.  
-Þa wæs on healle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heardecg togen  
-sweord ofer setlum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sidrand manig  
-hafen handa fæst;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm ne gemunde,  
-byrnan side,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa hine se broga angeat.  
-Heo wæs on ofste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wolde ut þanon,  
-feore beorgan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa heo onfunden wæs.  
-Hraðe heo æþelinga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anne hæfde  
-fæste befangen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa heo to fenne gang.  
-Se wæs Hroþgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hæleþa leofost  
-on gesiðes had&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be sæm tweonum,  
-rice randwiga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone ðe heo on ræste abreat,  
-blædfæstne beorn.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs Beowulf ðær,  
-ac wæs oþer in&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær geteohhod  
-æfter maþðumgife&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mærum Geate.  
-Hream wearð in Heorote;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heo under heolfre genam  
-cuþe folme;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cearu wæs geniwod,  
-geworden in wicun.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne wæs þæt gewrixle til,  
-þæt hie on ba healfa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bicgan scoldon  
-freonda feorum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs frod cyning,  
-har hilderinc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on hreon mode,  
-syðþan he aldorþegn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unlyfigendne,  
-þone deorestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deadne wisse.  
-Hraþe wæs to bure&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulf fetod,  
-sigoreadig secg.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Samod ærdæge  
-eode eorla sum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþele cempa  
-self mid gesiðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær se snotera bad,  
-hwæþer him alwalda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfre wille  
-æfter weaspelle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrpe gefremman.  
-Gang ða æfter flore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrdwyrðe man  
-mid his handscale&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(healwudu dynede),  
-þæt he þone wisan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordum nægde  
-frean Ingwina,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frægn gif him wære  
-æfter neodlaðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niht getæse.  
+<div class='line'>Sigon þa to slæpe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sum sare angeald</div>
+<div class='line'>æfenræste,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa him ful oft gelamp,</div>
+<div class='line'>siþðan goldsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Grendel warode,</div>
+<div class='line'>unriht æfnde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþþæt ende becwom,</div>
+<div class='line'>swylt æfter synnum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þæt gesyne wearþ,</div>
+<div class='line'>widcuþ werum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þætte wrecend þa gyt</div>
+<div class='line'>lifde æfter laþum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lange þrage,</div>
+<div class='line'>æfter guðceare.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Grendles modor,</div>
+<div class='line'>ides, aglæcwif,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>yrmþe gemunde,</div>
+<div class='line'>se þe wæteregesan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wunian scolde,</div>
+<div class='line'>cealde streamas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>siþðan Cain wearð</div>
+<div class='line'>to ecgbanan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>angan breþer,</div>
+<div class='line'>fæderenmæge;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he þa fag gewat,</div>
+<div class='line'>morþre gemearcod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mandream fleon,</div>
+<div class='line'>westen warode.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þanon woc fela</div>
+<div class='line'>geosceaftgasta;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs þæra Grendel sum,</div>
+<div class='line'>heorowearh hetelic,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se æt Heorote fand</div>
+<div class='line'>wæccendne wer<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wiges bidan.</div>
+<div class='line'>Þær him aglæca<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ætgræpe wearð;</div>
+<div class='line'>hwæþre he gemunde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mægenes strenge,</div>
+<div class='line'>gimfæste gife<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðe him god sealde,</div>
+<div class='line'>ond him to anwaldan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>are gelyfde,</div>
+<div class='line'>frofre ond fultum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðy he þone feond ofercwom,</div>
+<div class='line'>gehnægde helle gast.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa he hean gewat,</div>
+<div class='line'>dreame bedæled,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>deaþwic seon,</div>
+<div class='line'>mancynnes feond,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond his modor þa gyt,</div>
+<div class='line'>gifre ond galgmod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gegan wolde</div>
+<div class='line'>sorhfulne sið,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu deað wrecan.</div>
+<div class='line'>Com þa to Heorote,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðær Hringdene</div>
+<div class='line'>geond þæt sæld swæfun.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa ðær sona wearð</div>
+<div class='line'>edhwyrft eorlum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>siþðan inne fealh</div>
+<div class='line'>Grendles modor.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wæs se gryre læssa</div>
+<div class='line'>efne swa micle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa bið mægþa cræft,</div>
+<div class='line'>wiggryre wifes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>be wæpnedmen,</div>
+<div class='line'>þonne heoru bunden,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hamere geþuren,</div>
+<div class='line'>sweord swate fah<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swin ofer helme</div>
+<div class='line'>ecgum dyhttig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>andweard scireð.</div>
+<div class='line'>Þa wæs on healle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heardecg togen</div>
+<div class='line'>sweord ofer setlum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sidrand manig</div>
+<div class='line'>hafen handa fæst;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helm ne gemunde,</div>
+<div class='line'>byrnan side,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa hine se broga angeat.</div>
+<div class='line'>Heo wæs on ofste,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wolde ut þanon,</div>
+<div class='line'>feore beorgan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa heo onfunden wæs.</div>
+<div class='line'>Hraðe heo æþelinga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>anne hæfde</div>
+<div class='line'>fæste befangen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa heo to fenne gang.</div>
+<div class='line'>Se wæs Hroþgare<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hæleþa leofost</div>
+<div class='line'>on gesiðes had<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>be sæm tweonum,</div>
+<div class='line'>rice randwiga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þone ðe heo on ræste abreat,</div>
+<div class='line'>blædfæstne beorn.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næs Beowulf ðær,</div>
+<div class='line'>ac wæs oþer in<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær geteohhod</div>
+<div class='line'>æfter maþðumgife<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mærum Geate.</div>
+<div class='line'>Hream wearð in Heorote;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heo under heolfre genam</div>
+<div class='line'>cuþe folme;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cearu wæs geniwod,</div>
+<div class='line'>geworden in wicun.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne wæs þæt gewrixle til,</div>
+<div class='line'>þæt hie on ba healfa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bicgan scoldon</div>
+<div class='line'>freonda feorum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa wæs frod cyning,</div>
+<div class='line'>har hilderinc,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on hreon mode,</div>
+<div class='line'>syðþan he aldorþegn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>unlyfigendne,</div>
+<div class='line'>þone deorestan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>deadne wisse.</div>
+<div class='line'>Hraþe wæs to bure<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Beowulf fetod,</div>
+<div class='line'>sigoreadig secg.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Samod ærdæge</div>
+<div class='line'>eode eorla sum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æþele cempa</div>
+<div class='line'>self mid gesiðum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær se snotera bad,</div>
+<div class='line'>hwæþer him alwalda<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æfre wille</div>
+<div class='line'>æfter weaspelle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wyrpe gefremman.</div>
+<div class='line'>Gang ða æfter flore<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fyrdwyrðe man</div>
+<div class='line'>mid his handscale<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(healwudu dynede),</div>
+<div class='line'>þæt he þone wisan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wordum nægde</div>
+<div class='line'>frean Ingwina,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frægn gif him wære</div>
+<div class='line'>æfter neodlaðum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>niht getæse.</div>
   
-Hroðgar maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm Scyldinga:  
-"Ne frin þu æfter sælum!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sorh is geniwod  
-Denigea leodum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dead is Æschere,  
-Yrmenlafes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yldra broþor,  
-min runwita&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond min rædbora,  
-eaxlgestealla,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne we on orlege  
-hafelan weredon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne hniton feþan,  
-eoferas cnysedan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swylc scolde eorl wesan,  
-æþeling ærgod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylc Æschere wæs!  
-Wearð him on Heorote&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to handbanan  
-wælgæst wæfre;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic ne wat hwæder  
-atol æse wlanc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eftsiðas teah,  
-fylle gefægnod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heo þa fæhðe wræc  
-þe þu gystran niht&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendel cwealdest  
-þurh hæstne had&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heardum clammum,  
-forþan he to lange&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leode mine  
-wanode ond wyrde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He æt wige gecrang  
-ealdres scyldig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond nu oþer cwom  
-mihtig manscaða,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wolde hyre mæg wrecan,  
-ge feor hafað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæhðe gestæled  
-(þæs þe þincean mæg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þegne monegum,  
-se þe æfter sincgyfan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sefan greoteþ),  
-hreþerbealo hearde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nu seo hand ligeð,  
-se þe eow welhwylcra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wilna dohte.  
-Ic þæt londbuend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leode mine,  
-selerædende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgan hyrde  
-þæt hie gesawon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce twegen  
-micle mearcstapan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;moras healdan,  
-ellorgæstas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ðæra oðer wæs,  
-þæs þe hie gewislicost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gewitan meahton,  
-idese onlicnæs;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðer earmsceapen  
-on weres wæstmum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wræclastas træd,  
-næfne he wæs mara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne ænig man oðer;  
-þone on geardagum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendel nemdon  
-foldbuende.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No hie fæder cunnon,  
-hwæþer him ænig wæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær acenned  
-dyrnra gasta.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hie dygel lond  
-warigeað, wulfhleoþu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;windige næssas,  
-frecne fengelad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær fyrgenstream  
-under næssa genipu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niþer gewiteð,  
-flod under foldan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nis þæt feor heonon  
-milgemearces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt se mere standeð;  
-ofer þæm hongiað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hrinde bearwas,  
-wudu wyrtum fæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæter oferhelmað.  
-Þær mæg nihta gehwæm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niðwundor seon,  
-fyr on flode.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No þæs frod leofað  
-gumena bearna,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þone grund wite;  
-ðeah þe hæðstapa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hundum geswenced,  
-heorot hornum trum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;holtwudu sece,  
-feorran geflymed,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær he feorh seleð,  
-aldor on ofre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær he in wille  
-hafelan hydan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nis þæt heoru stow!  
-Þonon yðgeblond&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;up astigeð  
-won to wolcnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne wind styreþ,  
-lað gewidru,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðþæt lyft drysmaþ,  
-roderas reotað.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu is se ræd gelang  
-eft æt þe anum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eard git ne const,  
-frecne stowe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær þu findan miht  
-felasinnigne secg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sec gif þu dyrre.  
-Ic þe þa fæhðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feo leanige,  
-ealdgestreonum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa ic ær dyde,  
-wundnum golde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyf þu on weg cymest."  
+<div class='line'>Hroðgar maþelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helm Scyldinga:</div>
+<div class='line'>"Ne frin þu æfter sælum!<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sorh is geniwod</div>
+<div class='line'>Denigea leodum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Dead is Æschere,</div>
+<div class='line'>Yrmenlafes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>yldra broþor,</div>
+<div class='line'>min runwita<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond min rædbora,</div>
+<div class='line'>eaxlgestealla,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðonne we on orlege</div>
+<div class='line'>hafelan weredon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne hniton feþan,</div>
+<div class='line'>eoferas cnysedan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Swylc scolde eorl wesan,</div>
+<div class='line'>æþeling ærgod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swylc Æschere wæs!</div>
+<div class='line'>Wearð him on Heorote<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to handbanan</div>
+<div class='line'>wælgæst wæfre;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ic ne wat hwæder</div>
+<div class='line'>atol æse wlanc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eftsiðas teah,</div>
+<div class='line'>fylle gefægnod.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Heo þa fæhðe wræc</div>
+<div class='line'>þe þu gystran niht<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Grendel cwealdest</div>
+<div class='line'>þurh hæstne had<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heardum clammum,</div>
+<div class='line'>forþan he to lange<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leode mine</div>
+<div class='line'>wanode ond wyrde.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He æt wige gecrang</div>
+<div class='line'>ealdres scyldig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond nu oþer cwom</div>
+<div class='line'>mihtig manscaða,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wolde hyre mæg wrecan,</div>
+<div class='line'>ge feor hafað<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæhðe gestæled</div>
+<div class='line'>(þæs þe þincean mæg<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þegne monegum,</div>
+<div class='line'>se þe æfter sincgyfan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on sefan greoteþ),</div>
+<div class='line'>hreþerbealo hearde;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nu seo hand ligeð,</div>
+<div class='line'>se þe eow welhwylcra<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wilna dohte.</div>
+<div class='line'>Ic þæt londbuend,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leode mine,</div>
+<div class='line'>selerædende,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secgan hyrde</div>
+<div class='line'>þæt hie gesawon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swylce twegen</div>
+<div class='line'>micle mearcstapan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>moras healdan,</div>
+<div class='line'>ellorgæstas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ðæra oðer wæs,</div>
+<div class='line'>þæs þe hie gewislicost<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gewitan meahton,</div>
+<div class='line'>idese onlicnæs;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oðer earmsceapen</div>
+<div class='line'>on weres wæstmum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wræclastas træd,</div>
+<div class='line'>næfne he wæs mara<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne ænig man oðer;</div>
+<div class='line'>þone on geardagum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Grendel nemdon</div>
+<div class='line'>foldbuende.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>No hie fæder cunnon,</div>
+<div class='line'>hwæþer him ænig wæs<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær acenned</div>
+<div class='line'>dyrnra gasta.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hie dygel lond</div>
+<div class='line'>warigeað, wulfhleoþu,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>windige næssas,</div>
+<div class='line'>frecne fengelad,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðær fyrgenstream</div>
+<div class='line'>under næssa genipu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>niþer gewiteð,</div>
+<div class='line'>flod under foldan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nis þæt feor heonon</div>
+<div class='line'>milgemearces<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt se mere standeð;</div>
+<div class='line'>ofer þæm hongiað<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hrinde bearwas,</div>
+<div class='line'>wudu wyrtum fæst<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæter oferhelmað.</div>
+<div class='line'>Þær mæg nihta gehwæm<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>niðwundor seon,</div>
+<div class='line'>fyr on flode.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>No þæs frod leofað</div>
+<div class='line'>gumena bearna,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt þone grund wite;</div>
+<div class='line'>ðeah þe hæðstapa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hundum geswenced,</div>
+<div class='line'>heorot hornum trum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>holtwudu sece,</div>
+<div class='line'>feorran geflymed,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær he feorh seleð,</div>
+<div class='line'>aldor on ofre,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær he in wille</div>
+<div class='line'>hafelan hydan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nis þæt heoru stow!</div>
+<div class='line'>Þonon yðgeblond<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>up astigeð</div>
+<div class='line'>won to wolcnum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne wind styreþ,</div>
+<div class='line'>lað gewidru,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oðþæt lyft drysmaþ,</div>
+<div class='line'>roderas reotað.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nu is se ræd gelang</div>
+<div class='line'>eft æt þe anum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Eard git ne const,</div>
+<div class='line'>frecne stowe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðær þu findan miht</div>
+<div class='line'>felasinnigne secg;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sec gif þu dyrre.</div>
+<div class='line'>Ic þe þa fæhðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feo leanige,</div>
+<div class='line'>ealdgestreonum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa ic ær dyde,</div>
+<div class='line'>wundnum golde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gyf þu on weg cymest."</div>
   
-Beowulf maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgþeowes:  
-"Ne sorga, snotor guma;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selre bið æghwæm  
-þæt he his freond wrece,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne he fela murne.  
-Ure æghwylc sceal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende gebidan  
-worolde lifes;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrce se þe mote  
-domes ær deaþe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt bið drihtguman  
-unlifgendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfter selest.  
-Aris, rices weard,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uton raþe feran  
-Grendles magan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gang sceawigan.  
-Ic hit þe gehate,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no he on helm losaþ,  
-ne on foldan fæþm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne on fyrgenholt,  
-ne on gyfenes grund,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ga þær he wille.  
-Ðys dogor þu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geþyld hafa  
-weana gehwylces,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa ic þe wene to."  
-Ahleop ða se gomela,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode þancode,  
-mihtigan drihtne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs se man gespræc.  
-Þa wæs Hroðgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hors gebæted,  
-wicg wundenfeax.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wisa fengel  
-geatolic gende;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumfeþa stop  
-lindhæbbendra.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lastas wæron  
-æfter waldswaþum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide gesyne,  
-gang ofer grundas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær heo gegnum for  
-ofer myrcan mor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;magoþegna bær  
-þone selestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sawolleasne  
-þara þe mid Hroðgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ham eahtode.  
-Ofereode þa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþelinga bearn  
-steap stanhliðo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stige nearwe,  
-enge anpaðas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uncuð gelad,  
-neowle næssas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nicorhusa fela.  
-He feara sum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beforan gengde  
-wisra monna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wong sceawian,  
-oþþæt he færinga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrgenbeamas  
-ofer harne stan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hleonian funde,  
-wynleasne wudu;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæter under stod  
-dreorig ond gedrefed.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denum eallum wæs,  
-winum Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorce on mode  
-to geþolianne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðegne monegum,  
-oncyð eorla gehwæm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syðþan Æscheres  
-on þam holmclife&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hafelan metton.  
-Flod blode weol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(folc to sægon),  
-hatan heolfre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Horn stundum song  
-fuslic fyrdleoð.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Feþa eal gesæt.  
-Gesawon ða æfter wætere&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrmcynnes fela,  
-sellice sædracan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sund cunnian,  
-swylce on næshleoðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nicras licgean,  
-ða on undernmæl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oft bewitigað  
-sorhfulne sið&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on seglrade,  
-wyrmas ond wildeor;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hie on weg hruron,  
-bitere ond gebolgne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearhtm ongeaton,  
-guðhorn galan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sumne Geata leod  
-of flanbogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feores getwæfde,  
-yðgewinnes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt him on aldre stod  
-herestræl hearda;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he on holme wæs  
-sundes þe sænra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðe hyne swylt fornam.  
-Hræþe wearð on yðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid eoferspreotum  
-heorohocyhtum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hearde genearwod,  
-niða genæged,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on næs togen,  
-wundorlic wægbora;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weras sceawedon  
-gryrelicne gist.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gyrede hine Beowulf  
-eorlgewædum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalles for ealdre mearn.  
-Scolde herebyrne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hondum gebroden,  
-sid ond searofah,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sund cunnian,  
-seo ðe bancofan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorgan cuþe,  
-þæt him hildegrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hreþre ne mihte,  
-eorres inwitfeng,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aldre gesceþðan;  
-ac se hwita helm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hafelan werede,  
-se þe meregrundas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mengan scolde,  
-secan sundgebland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;since geweorðad,  
-befongen freawrasnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hine fyrndagum  
-worhte wæpna smið,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundrum teode,  
-besette swinlicum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hine syðþan no  
-brond ne beadomecas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bitan ne meahton.  
-Næs þæt þonne mætost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenfultuma  
-þæt him on ðearfe lah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðyle Hroðgares;  
-wæs þæm hæftmece&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hrunting nama.  
-Þæt wæs an foran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdgestreona;  
-ecg wæs iren,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;atertanum fah,  
-ahyrded heaþoswate;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næfre hit æt hilde ne swac  
-manna ængum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara þe hit mid mundum bewand,  
-se ðe gryresiðas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gegan dorste,  
-folcstede fara;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs þæt forma sið  
-þæt hit ellenweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfnan scolde.  
-Huru ne gemunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mago Ecglafes,  
-eafoþes cræftig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he ær gespræc  
-wine druncen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he þæs wæpnes onlah  
-selran sweordfrecan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Selfa ne dorste  
-under yða gewin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;aldre geneþan,  
-drihtscype dreogan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he dome forleas,  
-ellenmærðum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne wæs þæm oðrum swa,  
-syðþan he hine to guðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gegyred hæfde.  
+<div class='line'>Beowulf maþelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearn Ecgþeowes:</div>
+<div class='line'>"Ne sorga, snotor guma;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>selre bið æghwæm</div>
+<div class='line'>þæt he his freond wrece,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne he fela murne.</div>
+<div class='line'>Ure æghwylc sceal<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ende gebidan</div>
+<div class='line'>worolde lifes;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wyrce se þe mote</div>
+<div class='line'>domes ær deaþe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt bið drihtguman</div>
+<div class='line'>unlifgendum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æfter selest.</div>
+<div class='line'>Aris, rices weard,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>uton raþe feran</div>
+<div class='line'>Grendles magan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gang sceawigan.</div>
+<div class='line'>Ic hit þe gehate,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>no he on helm losaþ,</div>
+<div class='line'>ne on foldan fæþm,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne on fyrgenholt,</div>
+<div class='line'>ne on gyfenes grund,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ga þær he wille.</div>
+<div class='line'>Ðys dogor þu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geþyld hafa</div>
+<div class='line'>weana gehwylces,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa ic þe wene to."</div>
+<div class='line'>Ahleop ða se gomela,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gode þancode,</div>
+<div class='line'>mihtigan drihtne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæs se man gespræc.</div>
+<div class='line'>Þa wæs Hroðgare<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hors gebæted,</div>
+<div class='line'>wicg wundenfeax.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wisa fengel</div>
+<div class='line'>geatolic gende;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gumfeþa stop</div>
+<div class='line'>lindhæbbendra.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Lastas wæron</div>
+<div class='line'>æfter waldswaþum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wide gesyne,</div>
+<div class='line'>gang ofer grundas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær heo gegnum for</div>
+<div class='line'>ofer myrcan mor,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>magoþegna bær</div>
+<div class='line'>þone selestan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sawolleasne</div>
+<div class='line'>þara þe mid Hroðgare<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ham eahtode.</div>
+<div class='line'>Ofereode þa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æþelinga bearn</div>
+<div class='line'>steap stanhliðo,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>stige nearwe,</div>
+<div class='line'>enge anpaðas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>uncuð gelad,</div>
+<div class='line'>neowle næssas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nicorhusa fela.</div>
+<div class='line'>He feara sum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beforan gengde</div>
+<div class='line'>wisra monna<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wong sceawian,</div>
+<div class='line'>oþþæt he færinga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fyrgenbeamas</div>
+<div class='line'>ofer harne stan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hleonian funde,</div>
+<div class='line'>wynleasne wudu;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæter under stod</div>
+<div class='line'>dreorig ond gedrefed.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Denum eallum wæs,</div>
+<div class='line'>winum Scyldinga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weorce on mode</div>
+<div class='line'>to geþolianne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðegne monegum,</div>
+<div class='line'>oncyð eorla gehwæm,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syðþan Æscheres</div>
+<div class='line'>on þam holmclife<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hafelan metton.</div>
+<div class='line'>Flod blode weol<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(folc to sægon),</div>
+<div class='line'>hatan heolfre.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Horn stundum song</div>
+<div class='line'>fuslic fyrdleoð.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Feþa eal gesæt.</div>
+<div class='line'>Gesawon ða æfter wætere<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wyrmcynnes fela,</div>
+<div class='line'>sellice sædracan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sund cunnian,</div>
+<div class='line'>swylce on næshleoðum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nicras licgean,</div>
+<div class='line'>ða on undernmæl<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oft bewitigað</div>
+<div class='line'>sorhfulne sið<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on seglrade,</div>
+<div class='line'>wyrmas ond wildeor;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hie on weg hruron,</div>
+<div class='line'>bitere ond gebolgne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearhtm ongeaton,</div>
+<div class='line'>guðhorn galan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sumne Geata leod</div>
+<div class='line'>of flanbogan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feores getwæfde,</div>
+<div class='line'>yðgewinnes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt him on aldre stod</div>
+<div class='line'>herestræl hearda;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he on holme wæs</div>
+<div class='line'>sundes þe sænra,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðe hyne swylt fornam.</div>
+<div class='line'>Hræþe wearð on yðum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mid eoferspreotum</div>
+<div class='line'>heorohocyhtum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hearde genearwod,</div>
+<div class='line'>niða genæged,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond on næs togen,</div>
+<div class='line'>wundorlic wægbora;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weras sceawedon</div>
+<div class='line'>gryrelicne gist.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Gyrede hine Beowulf</div>
+<div class='line'>eorlgewædum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nalles for ealdre mearn.</div>
+<div class='line'>Scolde herebyrne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hondum gebroden,</div>
+<div class='line'>sid ond searofah,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sund cunnian,</div>
+<div class='line'>seo ðe bancofan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beorgan cuþe,</div>
+<div class='line'>þæt him hildegrap<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hreþre ne mihte,</div>
+<div class='line'>eorres inwitfeng,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>aldre gesceþðan;</div>
+<div class='line'>ac se hwita helm<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hafelan werede,</div>
+<div class='line'>se þe meregrundas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mengan scolde,</div>
+<div class='line'>secan sundgebland<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>since geweorðad,</div>
+<div class='line'>befongen freawrasnum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hine fyrndagum</div>
+<div class='line'>worhte wæpna smið,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wundrum teode,</div>
+<div class='line'>besette swinlicum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hine syðþan no</div>
+<div class='line'>brond ne beadomecas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bitan ne meahton.</div>
+<div class='line'>Næs þæt þonne mætost<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mægenfultuma</div>
+<div class='line'>þæt him on ðearfe lah<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðyle Hroðgares;</div>
+<div class='line'>wæs þæm hæftmece<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hrunting nama.</div>
+<div class='line'>Þæt wæs an foran<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdgestreona;</div>
+<div class='line'>ecg wæs iren,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>atertanum fah,</div>
+<div class='line'>ahyrded heaþoswate;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>næfre hit æt hilde ne swac</div>
+<div class='line'>manna ængum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þara þe hit mid mundum bewand,</div>
+<div class='line'>se ðe gryresiðas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gegan dorste,</div>
+<div class='line'>folcstede fara;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>næs þæt forma sið</div>
+<div class='line'>þæt hit ellenweorc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æfnan scolde.</div>
+<div class='line'>Huru ne gemunde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mago Ecglafes,</div>
+<div class='line'>eafoþes cræftig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he ær gespræc</div>
+<div class='line'>wine druncen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa he þæs wæpnes onlah</div>
+<div class='line'>selran sweordfrecan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Selfa ne dorste</div>
+<div class='line'>under yða gewin<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>aldre geneþan,</div>
+<div class='line'>drihtscype dreogan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær he dome forleas,</div>
+<div class='line'>ellenmærðum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne wæs þæm oðrum swa,</div>
+<div class='line'>syðþan he hine to guðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gegyred hæfde.</div>
   
-Beowulf maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgþeowes:  
-"Geþenc nu, se mæra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maga Healfdenes,  
-snottra fengel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nu ic eom siðes fus,  
-goldwine gumena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæt wit geo spræcon,  
-gif ic æt þearfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þinre scolde  
-aldre linnan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðu me a wære  
-forðgewitenum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on fæder stæle.  
-Wes þu mundbora&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minum magoþegnum,  
-hondgesellum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif mec hild nime;  
-swylce þu ða madmas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe þu me sealdest,  
-Hroðgar leofa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelace onsend.  
-Mæg þonne on þæm golde ongitan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata dryhten,  
-geseon sunu Hrædles,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne he on þæt sinc starað,  
-þæt ic gumcystum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godne funde  
-beaga bryttan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;breac þonne moste.  
-Ond þu Unferð læt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealde lafe,  
-wrætlic wægsweord,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;widcuðne man  
-heardecg habban;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic me mid Hruntinge  
-dom gewyrce,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþðe mec deað nimeð."  
-æfter þæm wordum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedergeata leod  
-efste mid elne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalas ondsware  
-bidan wolde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brimwylm onfeng  
-hilderince.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða wæs hwil dæges  
-ær he þone grundwong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongytan mehte.  
-Sona þæt onfunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe floda begong  
-heorogifre beheold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hund missera,  
-grim ond grædig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þær gumena sum  
-ælwihta eard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ufan cunnode.  
-Grap þa togeanes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðrinc gefeng  
-atolan clommum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No þy ær in gescod  
-halan lice;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hring utan ymbbearh,  
-þæt heo þone fyrdhom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðurhfon ne mihte,  
-locene leoðosyrcan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laþan fingrum.  
-Bær þa seo brimwylf,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa heo to botme com,  
-hringa þengel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hofe sinum,  
-swa he ne mihte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no he þæs modig wæs,  
-wæpna gewealdan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac hine wundra þæs fela  
-swencte on sunde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sædeor monig  
-hildetuxum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heresyrcan bræc,  
-ehton aglæcan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða se eorl ongeat  
-þæt he in niðsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nathwylcum wæs,  
-þær him nænig wæter&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wihte ne sceþede,  
-ne him for hrofsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hrinan ne mehte  
-færgripe flodes;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrleoht geseah,  
-blacne leoman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorhte scinan.  
-Ongeat þa se goda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grundwyrgenne,  
-merewif mihtig;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenræs forgeaf  
-hildebille,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hond sweng ne ofteah,  
-þæt hire on hafelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringmæl agol  
-grædig guðleoð.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða se gist onfand  
-þæt se beadoleoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bitan nolde,  
-aldre sceþðan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac seo ecg geswac  
-ðeodne æt þearfe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðolode ær fela  
-hondgemota,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm oft gescær,  
-fæges fyrdhrægl;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða wæs forma sið  
-deorum madme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt his dom alæg.  
-Eft wæs anræd,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalas elnes læt,  
-mærða gemyndig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæg Hylaces.  
-Wearp ða wundenmæl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wrættum gebunden  
-yrre oretta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hit on eorðan læg,  
-stið ond stylecg;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strenge getruwode,  
-mundgripe mægenes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swa sceal man don,  
-þonne he æt guðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gegan þenceð  
-longsumne lof,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;na ymb his lif cearað.  
-Gefeng þa be eaxle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(nalas for fæhðe mearn)  
-Guðgeata leod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendles modor;  
-brægd þa beadwe heard,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he gebolgen wæs,  
-feorhgeniðlan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt heo on flet gebeah.  
-Heo him eft hraþe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;andlean forgeald  
-grimman grapum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond him togeanes feng;  
-oferwearp þa werigmod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigena strengest,  
-feþecempa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he on fylle wearð.  
-Ofsæt þa þone selegyst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond hyre seax geteah,  
-brad ond brunecg,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wolde hire bearn wrecan,  
-angan eaferan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him on eaxle læg  
-breostnet broden;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt gebearh feore,  
-wið ord ond wið ecge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ingang forstod.  
-Hæfde ða forsiðod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Ecgþeowes  
-under gynne grund,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata cempa,  
-nemne him heaðobyrne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helpe gefremede,  
-herenet hearde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond halig god  
-geweold wigsigor;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;witig drihten,  
-rodera rædend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hit on ryht gesced  
-yðelice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syþðan he eft astod.  
+<div class='line'>Beowulf maðelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearn Ecgþeowes:</div>
+<div class='line'>"Geþenc nu, se mæra<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>maga Healfdenes,</div>
+<div class='line'>snottra fengel,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nu ic eom siðes fus,</div>
+<div class='line'>goldwine gumena,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwæt wit geo spræcon,</div>
+<div class='line'>gif ic æt þearfe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þinre scolde</div>
+<div class='line'>aldre linnan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ðu me a wære</div>
+<div class='line'>forðgewitenum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on fæder stæle.</div>
+<div class='line'>Wes þu mundbora<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>minum magoþegnum,</div>
+<div class='line'>hondgesellum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gif mec hild nime;</div>
+<div class='line'>swylce þu ða madmas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe þu me sealdest,</div>
+<div class='line'>Hroðgar leofa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Higelace onsend.</div>
+<div class='line'>Mæg þonne on þæm golde ongitan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geata dryhten,</div>
+<div class='line'>geseon sunu Hrædles,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne he on þæt sinc starað,</div>
+<div class='line'>þæt ic gumcystum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>godne funde</div>
+<div class='line'>beaga bryttan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>breac þonne moste.</div>
+<div class='line'>Ond þu Unferð læt<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealde lafe,</div>
+<div class='line'>wrætlic wægsweord,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>widcuðne man</div>
+<div class='line'>heardecg habban;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ic me mid Hruntinge</div>
+<div class='line'>dom gewyrce,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþðe mec deað nimeð."</div>
+<div class='line'>æfter þæm wordum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wedergeata leod</div>
+<div class='line'>efste mid elne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nalas ondsware</div>
+<div class='line'>bidan wolde;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>brimwylm onfeng</div>
+<div class='line'>hilderince.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ða wæs hwil dæges</div>
+<div class='line'>ær he þone grundwong<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ongytan mehte.</div>
+<div class='line'>Sona þæt onfunde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ðe floda begong</div>
+<div class='line'>heorogifre beheold<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hund missera,</div>
+<div class='line'>grim ond grædig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt þær gumena sum</div>
+<div class='line'>ælwihta eard<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ufan cunnode.</div>
+<div class='line'>Grap þa togeanes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guðrinc gefeng</div>
+<div class='line'>atolan clommum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>No þy ær in gescod</div>
+<div class='line'>halan lice;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hring utan ymbbearh,</div>
+<div class='line'>þæt heo þone fyrdhom<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðurhfon ne mihte,</div>
+<div class='line'>locene leoðosyrcan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>laþan fingrum.</div>
+<div class='line'>Bær þa seo brimwylf,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa heo to botme com,</div>
+<div class='line'>hringa þengel<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to hofe sinum,</div>
+<div class='line'>swa he ne mihte,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>no he þæs modig wæs,</div>
+<div class='line'>wæpna gewealdan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac hine wundra þæs fela</div>
+<div class='line'>swencte on sunde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sædeor monig</div>
+<div class='line'>hildetuxum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heresyrcan bræc,</div>
+<div class='line'>ehton aglæcan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ða se eorl ongeat</div>
+<div class='line'>þæt he in niðsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nathwylcum wæs,</div>
+<div class='line'>þær him nænig wæter<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wihte ne sceþede,</div>
+<div class='line'>ne him for hrofsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hrinan ne mehte</div>
+<div class='line'>færgripe flodes;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fyrleoht geseah,</div>
+<div class='line'>blacne leoman,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beorhte scinan.</div>
+<div class='line'>Ongeat þa se goda<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>grundwyrgenne,</div>
+<div class='line'>merewif mihtig;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mægenræs forgeaf</div>
+<div class='line'>hildebille,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hond sweng ne ofteah,</div>
+<div class='line'>þæt hire on hafelan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hringmæl agol</div>
+<div class='line'>grædig guðleoð.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ða se gist onfand</div>
+<div class='line'>þæt se beadoleoma<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bitan nolde,</div>
+<div class='line'>aldre sceþðan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac seo ecg geswac</div>
+<div class='line'>ðeodne æt þearfe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðolode ær fela</div>
+<div class='line'>hondgemota,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helm oft gescær,</div>
+<div class='line'>fæges fyrdhrægl;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða wæs forma sið</div>
+<div class='line'>deorum madme,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt his dom alæg.</div>
+<div class='line'>Eft wæs anræd,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nalas elnes læt,</div>
+<div class='line'>mærða gemyndig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mæg Hylaces.</div>
+<div class='line'>Wearp ða wundenmæl<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wrættum gebunden</div>
+<div class='line'>yrre oretta,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hit on eorðan læg,</div>
+<div class='line'>stið ond stylecg;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>strenge getruwode,</div>
+<div class='line'>mundgripe mægenes.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Swa sceal man don,</div>
+<div class='line'>þonne he æt guðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gegan þenceð</div>
+<div class='line'>longsumne lof,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>na ymb his lif cearað.</div>
+<div class='line'>Gefeng þa be eaxle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(nalas for fæhðe mearn)</div>
+<div class='line'>Guðgeata leod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Grendles modor;</div>
+<div class='line'>brægd þa beadwe heard,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa he gebolgen wæs,</div>
+<div class='line'>feorhgeniðlan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt heo on flet gebeah.</div>
+<div class='line'>Heo him eft hraþe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>andlean forgeald</div>
+<div class='line'>grimman grapum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond him togeanes feng;</div>
+<div class='line'>oferwearp þa werigmod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wigena strengest,</div>
+<div class='line'>feþecempa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he on fylle wearð.</div>
+<div class='line'>Ofsæt þa þone selegyst<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond hyre seax geteah,</div>
+<div class='line'>brad ond brunecg,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wolde hire bearn wrecan,</div>
+<div class='line'>angan eaferan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Him on eaxle læg</div>
+<div class='line'>breostnet broden;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt gebearh feore,</div>
+<div class='line'>wið ord ond wið ecge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ingang forstod.</div>
+<div class='line'>Hæfde ða forsiðod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu Ecgþeowes</div>
+<div class='line'>under gynne grund,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geata cempa,</div>
+<div class='line'>nemne him heaðobyrne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helpe gefremede,</div>
+<div class='line'>herenet hearde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond halig god</div>
+<div class='line'>geweold wigsigor;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>witig drihten,</div>
+<div class='line'>rodera rædend,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hit on ryht gesced</div>
+<div class='line'>yðelice,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syþðan he eft astod.</div>
   
-Geseah ða on searwum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sigeeadig bil,  
-eald sweord eotenisc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ecgum þyhtig,  
-wigena weorðmynd;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt wæs wæpna cyst,  
-buton hit wæs mare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne ænig mon oðer  
-to beadulace&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ætberan meahte,  
-god ond geatolic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;giganta geweorc.  
-He gefeng þa fetelhilt,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;freca Scyldinga  
-hreoh ond heorogrim&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringmæl gebrægd,  
-aldres orwena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;yrringa sloh,  
-þæt hire wið halse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heard grapode,  
-banhringas bræc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bil eal ðurhwod  
-fægne flæschoman;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heo on flet gecrong.  
-Sweord wæs swatig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secg weorce gefeh.  
-Lixte se leoma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leoht inne stod,  
-efne swa of hefene&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hadre scineð  
-rodores candel.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He æfter recede wlat;  
-hwearf þa be wealle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæpen hafenade  
-heard be hiltum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelaces ðegn,  
-yrre ond anræd.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs seo ecg fracod  
-hilderince,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he hraþe wolde  
-Grendle forgyldan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðræsa fela  
-ðara þe he geworhte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to Westdenum  
-oftor micle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne on ænne sið,  
-þonne he Hroðgares&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorðgeneatas  
-sloh on sweofote,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;slæpende fræt  
-folces Denigea&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyftyne men  
-ond oðer swylc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ut offerede,  
-laðlicu lac.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He him þæs lean forgeald,  
-reþe cempa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to ðæs þe he on ræste geseah  
-guðwerigne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendel licgan  
-aldorleasne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him ær gescod  
-hild æt Heorote.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hra wide sprong,  
-syþðan he æfter deaðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;drepe þrowade,  
-heorosweng heardne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond hine þa heafde becearf.  
-Sona þæt gesawon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snottre ceorlas,  
-þa ðe mid Hroðgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on holm wliton,  
-þæt wæs yðgeblond&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eal gemenged,  
-brim blode fah.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blondenfeaxe,  
-gomele ymb godne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongeador spræcon  
-þæt hig þæs æðelinges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft ne wendon  
-þæt he sigehreðig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secean come  
-mærne þeoden;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa ðæs monige gewearð  
-þæt hine seo brimwylf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;abroten hæfde.  
-Ða com non dæges.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs ofgeafon  
-hwate Scyldingas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gewat him ham þonon  
-goldwine gumena.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gistas setan  
-modes seoce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on mere staredon,  
-wiston ond ne wendon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie heora winedrihten  
-selfne gesawon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa þæt sweord ongan  
-æfter heaþoswate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildegicelum,  
-wigbil wanian.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs wundra sum,  
-þæt hit eal gemealt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ise gelicost,  
-ðonne forstes bend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæder onlæteð,  
-onwindeð wælrapas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se geweald hafað  
-sæla ond mæla;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt is soð metod.  
-Ne nom he in þæm wicum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedergeata leod,  
-maðmæhta ma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeh he þær monige geseah,  
-buton þone hafelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þa hilt somod  
-since fage.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweord ær gemealt,  
-forbarn brodenmæl;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs þæt blod to þæs hat,  
-ættren ellorgæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þær inne swealt.  
-Sona wæs on sunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe ær æt sæcce gebad  
-wighryre wraðra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæter up þurhdeaf.  
-Wæron yðgebland&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eal gefælsod,  
-eacne eardas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa se ellorgast  
-oflet lifdagas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þas lænan gesceaft.  
-Com þa to lande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lidmanna helm  
-swiðmod swymman;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sælace gefeah,  
-mægenbyrþenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara þe he him mid hæfde.  
-Eodon him þa togeanes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode þancodon,  
-ðryðlic þegna heap,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeodnes gefegon,  
-þæs þe hi hyne gesundne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon moston.  
-Ða wæs of þæm hroran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm ond byrne  
-lungre alysed.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lagu drusade,  
-wæter under wolcnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wældreore fag.  
-Ferdon forð þonon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feþelastum  
-ferhþum fægne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;foldweg mæton,  
-cuþe stræte.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cyningbalde men  
-from þæm holmclife&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hafelan bæron  
-earfoðlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heora æghwæþrum,  
-felamodigra;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feower scoldon  
-on þæm wælstenge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorcum geferian  
-to þæm goldsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendles heafod,  
-oþðæt semninga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to sele comon  
-frome fyrdhwate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feowertyne  
-Geata gongan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumdryhten mid  
-modig on gemonge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meodowongas træd.  
-Ða com in gan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdor ðegna,  
-dædcene mon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dome gewurþad,  
-hæle hildedeor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroðgar gretan.  
-Þa wæs be feaxe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on flet boren  
-Grendles heafod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær guman druncon,  
-egeslic for eorlum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þære idese mid,  
-wliteseon wrætlic;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weras on sawon.  
+<div class='line'>Geseah ða on searwum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sigeeadig bil,</div>
+<div class='line'>eald sweord eotenisc,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ecgum þyhtig,</div>
+<div class='line'>wigena weorðmynd;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt wæs wæpna cyst,</div>
+<div class='line'>buton hit wæs mare<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðonne ænig mon oðer</div>
+<div class='line'>to beadulace<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ætberan meahte,</div>
+<div class='line'>god ond geatolic,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>giganta geweorc.</div>
+<div class='line'>He gefeng þa fetelhilt,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>freca Scyldinga</div>
+<div class='line'>hreoh ond heorogrim<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hringmæl gebrægd,</div>
+<div class='line'>aldres orwena,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>yrringa sloh,</div>
+<div class='line'>þæt hire wið halse<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heard grapode,</div>
+<div class='line'>banhringas bræc.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Bil eal ðurhwod</div>
+<div class='line'>fægne flæschoman;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heo on flet gecrong.</div>
+<div class='line'>Sweord wæs swatig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secg weorce gefeh.</div>
+<div class='line'>Lixte se leoma,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leoht inne stod,</div>
+<div class='line'>efne swa of hefene<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hadre scineð</div>
+<div class='line'>rodores candel.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He æfter recede wlat;</div>
+<div class='line'>hwearf þa be wealle,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæpen hafenade</div>
+<div class='line'>heard be hiltum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Higelaces ðegn,</div>
+<div class='line'>yrre ond anræd.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næs seo ecg fracod</div>
+<div class='line'>hilderince,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac he hraþe wolde</div>
+<div class='line'>Grendle forgyldan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guðræsa fela</div>
+<div class='line'>ðara þe he geworhte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to Westdenum</div>
+<div class='line'>oftor micle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðonne on ænne sið,</div>
+<div class='line'>þonne he Hroðgares<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heorðgeneatas</div>
+<div class='line'>sloh on sweofote,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>slæpende fræt</div>
+<div class='line'>folces Denigea<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fyftyne men</div>
+<div class='line'>ond oðer swylc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ut offerede,</div>
+<div class='line'>laðlicu lac.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He him þæs lean forgeald,</div>
+<div class='line'>reþe cempa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to ðæs þe he on ræste geseah</div>
+<div class='line'>guðwerigne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Grendel licgan</div>
+<div class='line'>aldorleasne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa him ær gescod</div>
+<div class='line'>hild æt Heorote.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hra wide sprong,</div>
+<div class='line'>syþðan he æfter deaðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>drepe þrowade,</div>
+<div class='line'>heorosweng heardne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond hine þa heafde becearf.</div>
+<div class='line'>Sona þæt gesawon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>snottre ceorlas,</div>
+<div class='line'>þa ðe mid Hroðgare<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on holm wliton,</div>
+<div class='line'>þæt wæs yðgeblond<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eal gemenged,</div>
+<div class='line'>brim blode fah.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Blondenfeaxe,</div>
+<div class='line'>gomele ymb godne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ongeador spræcon</div>
+<div class='line'>þæt hig þæs æðelinges<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eft ne wendon</div>
+<div class='line'>þæt he sigehreðig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secean come</div>
+<div class='line'>mærne þeoden;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa ðæs monige gewearð</div>
+<div class='line'>þæt hine seo brimwylf<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>abroten hæfde.</div>
+<div class='line'>Ða com non dæges.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næs ofgeafon</div>
+<div class='line'>hwate Scyldingas;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gewat him ham þonon</div>
+<div class='line'>goldwine gumena.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Gistas setan</div>
+<div class='line'>modes seoce<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond on mere staredon,</div>
+<div class='line'>wiston ond ne wendon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hie heora winedrihten</div>
+<div class='line'>selfne gesawon.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa þæt sweord ongan</div>
+<div class='line'>æfter heaþoswate<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hildegicelum,</div>
+<div class='line'>wigbil wanian.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þæt wæs wundra sum,</div>
+<div class='line'>þæt hit eal gemealt<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ise gelicost,</div>
+<div class='line'>ðonne forstes bend<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæder onlæteð,</div>
+<div class='line'>onwindeð wælrapas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se geweald hafað</div>
+<div class='line'>sæla ond mæla;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt is soð metod.</div>
+<div class='line'>Ne nom he in þæm wicum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wedergeata leod,</div>
+<div class='line'>maðmæhta ma,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeh he þær monige geseah,</div>
+<div class='line'>buton þone hafelan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þa hilt somod</div>
+<div class='line'>since fage.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sweord ær gemealt,</div>
+<div class='line'>forbarn brodenmæl;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs þæt blod to þæs hat,</div>
+<div class='line'>ættren ellorgæst<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þær inne swealt.</div>
+<div class='line'>Sona wæs on sunde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þe ær æt sæcce gebad</div>
+<div class='line'>wighryre wraðra,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæter up þurhdeaf.</div>
+<div class='line'>Wæron yðgebland<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eal gefælsod,</div>
+<div class='line'>eacne eardas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa se ellorgast</div>
+<div class='line'>oflet lifdagas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þas lænan gesceaft.</div>
+<div class='line'>Com þa to lande<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lidmanna helm</div>
+<div class='line'>swiðmod swymman;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sælace gefeah,</div>
+<div class='line'>mægenbyrþenne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þara þe he him mid hæfde.</div>
+<div class='line'>Eodon him þa togeanes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gode þancodon,</div>
+<div class='line'>ðryðlic þegna heap,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeodnes gefegon,</div>
+<div class='line'>þæs þe hi hyne gesundne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geseon moston.</div>
+<div class='line'>Ða wæs of þæm hroran<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helm ond byrne</div>
+<div class='line'>lungre alysed.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Lagu drusade,</div>
+<div class='line'>wæter under wolcnum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wældreore fag.</div>
+<div class='line'>Ferdon forð þonon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feþelastum</div>
+<div class='line'>ferhþum fægne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>foldweg mæton,</div>
+<div class='line'>cuþe stræte.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Cyningbalde men</div>
+<div class='line'>from þæm holmclife<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hafelan bæron</div>
+<div class='line'>earfoðlice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heora æghwæþrum,</div>
+<div class='line'>felamodigra;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feower scoldon</div>
+<div class='line'>on þæm wælstenge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weorcum geferian</div>
+<div class='line'>to þæm goldsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Grendles heafod,</div>
+<div class='line'>oþðæt semninga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to sele comon</div>
+<div class='line'>frome fyrdhwate<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feowertyne</div>
+<div class='line'>Geata gongan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gumdryhten mid</div>
+<div class='line'>modig on gemonge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>meodowongas træd.</div>
+<div class='line'>Ða com in gan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdor ðegna,</div>
+<div class='line'>dædcene mon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dome gewurþad,</div>
+<div class='line'>hæle hildedeor,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hroðgar gretan.</div>
+<div class='line'>Þa wæs be feaxe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on flet boren</div>
+<div class='line'>Grendles heafod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær guman druncon,</div>
+<div class='line'>egeslic for eorlum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þære idese mid,</div>
+<div class='line'>wliteseon wrætlic;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weras on sawon.</div>
   
-Beowulf maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgþeowes:  
-"Hwæt! we þe þas sælac,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Healfdenes,  
-leod Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lustum brohton  
-tires to tacne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe þu her to locast.  
-Ic þæt unsofte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdre gedigde  
-wigge under wætere,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorc geneþde  
-earfoðlice;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ætrihte wæs  
-guð getwæfed,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nymðe mec god scylde.  
-Ne meahte ic æt hilde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid Hruntinge  
-wiht gewyrcan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah þæt wæpen duge;  
-ac me geuðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ylda waldend  
-þæt ic on wage geseah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wlitig hangian  
-eald sweord eacen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(oftost wisode  
-winigea leasum),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic ðy wæpne gebræd.  
-Ofsloh ða æt þære sæcce,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa me sæl ageald,  
-huses hyrdas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa þæt hildebil  
-forbarn brogdenmæl,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa þæt blod gesprang,  
-hatost heaþoswata.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þæt hilt þanan  
-feondum ætferede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrendæda wræc,  
-deaðcwealm Denigea,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hit gedefe wæs.  
-Ic hit þe þonne gehate,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þu on Heorote most  
-sorhleas swefan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid þinra secga gedryht  
-ond þegna gehwylc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þinra leoda,  
-duguðe ond iogoþe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þu him ondrædan ne þearft,  
-þeoden Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on þa healfe,  
-aldorbealu eorlum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa þu ær dydest."  
-Ða wæs gylden hilt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gamelum rince,  
-harum hildfruman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on hand gyfen,  
-enta ærgeweorc;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hit on æht gehwearf  
-æfter deofla hryre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denigea frean,  
-wundorsmiþa geweorc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þa þas worold ofgeaf  
-gromheort guma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godes ondsaca,  
-morðres scyldig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his modor eac,  
-on geweald gehwearf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;woroldcyninga  
-ðæm selestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be sæm tweonum  
-ðara þe on Scedenigge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceattas dælde.  
-Hroðgar maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hylt sceawode,  
-ealde lafe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on ðæm wæs or writen  
-fyrngewinnes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syðþan flod ofsloh,  
-gifen geotende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;giganta cyn  
-(frecne geferdon);&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt wæs fremde þeod  
-ecean dryhtne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him þæs endelean  
-þurh wæteres wylm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;waldend sealde.  
-Swa wæs on ðæm scennum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sciran goldes  
-þurh runstafas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rihte gemearcod,  
-geseted ond gesæd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwam þæt sweord geworht,  
-irena cyst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ærest wære,  
-wreoþenhilt ond wyrmfah.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða se wisa spræc  
-sunu Healfdenes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(swigedon ealle):  
-"þæt, la, mæg secgan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe soð ond riht  
-fremeð on folce,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feor eal gemon,  
-eald ᛟweard,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðes eorl wære  
-geboren betera!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Blæd is aræred  
-geond widwegas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine min Beowulf,  
-ðin ofer þeoda gehwylce.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eal þu hit geþyldum healdest,  
-mægen mid modes snyttrum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þe sceal mine gelæstan  
-freode, swa wit furðum spræcon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ðu scealt to frofre weorþan  
-eal langtwidig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leodum þinum,  
-hæleðum to helpe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne wearð Heremod swa  
-eaforum Ecgwelan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Arscyldingum;  
-ne geweox he him to willan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac to wælfealle  
-ond to deaðcwalum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deniga leodum;  
-breat bolgenmod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beodgeneatas,  
-eaxlgesteallan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt he ana hwearf,  
-mære þeoden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mondreamum from.  
-Ðeah þe hine mihtig god&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenes wynnum,  
-eafeþum stepte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer ealle men  
-forð gefremede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæþere him on ferhþe greow  
-breosthord blodreow.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nallas beagas geaf  
-Denum æfter dome;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dreamleas gebad  
-þæt he þæs gewinnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorc þrowade,  
-leodbealo longsum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ðu þe lær be þon,  
-gumcyste ongit;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic þis gid be þe  
-awræc wintrum frod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wundor is to secganne  
-hu mihtig god&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manna cynne  
-þurh sidne sefan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snyttru bryttað,  
-eard ond eorlscipe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he ah ealra geweald.  
-Hwilum he on lufan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læteð hworfan  
-monnes modgeþonc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæran cynnes,  
-seleð him on eþle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorþan wynne  
-to healdanne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hleoburh wera,  
-gedeð him swa gewealdene&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worolde dælas,  
-side rice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he his selfa ne mæg  
-for his unsnyttrum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende geþencean.  
-Wunað he on wiste;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no hine wiht dweleð  
-adl ne yldo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne him inwitsorh  
-on sefan sweorceð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne gesacu ohwær  
-ecghete eoweð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac him eal worold  
-wendeð on willan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(he þæt wyrse ne con),  
+<div class='line'>Beowulf maþelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearn Ecgþeowes:</div>
+<div class='line'>"Hwæt! we þe þas sælac,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu Healfdenes,</div>
+<div class='line'>leod Scyldinga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lustum brohton</div>
+<div class='line'>tires to tacne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe þu her to locast.</div>
+<div class='line'>Ic þæt unsofte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdre gedigde</div>
+<div class='line'>wigge under wætere,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weorc geneþde</div>
+<div class='line'>earfoðlice;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ætrihte wæs</div>
+<div class='line'>guð getwæfed,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nymðe mec god scylde.</div>
+<div class='line'>Ne meahte ic æt hilde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mid Hruntinge</div>
+<div class='line'>wiht gewyrcan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah þæt wæpen duge;</div>
+<div class='line'>ac me geuðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ylda waldend</div>
+<div class='line'>þæt ic on wage geseah<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wlitig hangian</div>
+<div class='line'>eald sweord eacen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(oftost wisode</div>
+<div class='line'>winigea leasum),<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ic ðy wæpne gebræd.</div>
+<div class='line'>Ofsloh ða æt þære sæcce,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa me sæl ageald,</div>
+<div class='line'>huses hyrdas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa þæt hildebil</div>
+<div class='line'>forbarn brogdenmæl,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa þæt blod gesprang,</div>
+<div class='line'>hatost heaþoswata.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic þæt hilt þanan</div>
+<div class='line'>feondum ætferede,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fyrendæda wræc,</div>
+<div class='line'>deaðcwealm Denigea,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hit gedefe wæs.</div>
+<div class='line'>Ic hit þe þonne gehate,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt þu on Heorote most</div>
+<div class='line'>sorhleas swefan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mid þinra secga gedryht</div>
+<div class='line'>ond þegna gehwylc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þinra leoda,</div>
+<div class='line'>duguðe ond iogoþe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt þu him ondrædan ne þearft,</div>
+<div class='line'>þeoden Scyldinga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on þa healfe,</div>
+<div class='line'>aldorbealu eorlum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa þu ær dydest."</div>
+<div class='line'>Ða wæs gylden hilt<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gamelum rince,</div>
+<div class='line'>harum hildfruman,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on hand gyfen,</div>
+<div class='line'>enta ærgeweorc;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hit on æht gehwearf</div>
+<div class='line'>æfter deofla hryre<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Denigea frean,</div>
+<div class='line'>wundorsmiþa geweorc,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þa þas worold ofgeaf</div>
+<div class='line'>gromheort guma,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>godes ondsaca,</div>
+<div class='line'>morðres scyldig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond his modor eac,</div>
+<div class='line'>on geweald gehwearf<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>woroldcyninga</div>
+<div class='line'>ðæm selestan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>be sæm tweonum</div>
+<div class='line'>ðara þe on Scedenigge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sceattas dælde.</div>
+<div class='line'>Hroðgar maðelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hylt sceawode,</div>
+<div class='line'>ealde lafe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on ðæm wæs or writen</div>
+<div class='line'>fyrngewinnes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syðþan flod ofsloh,</div>
+<div class='line'>gifen geotende,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>giganta cyn</div>
+<div class='line'>(frecne geferdon);<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt wæs fremde þeod</div>
+<div class='line'>ecean dryhtne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>him þæs endelean</div>
+<div class='line'>þurh wæteres wylm<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>waldend sealde.</div>
+<div class='line'>Swa wæs on ðæm scennum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sciran goldes</div>
+<div class='line'>þurh runstafas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>rihte gemearcod,</div>
+<div class='line'>geseted ond gesæd<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwam þæt sweord geworht,</div>
+<div class='line'>irena cyst,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ærest wære,</div>
+<div class='line'>wreoþenhilt ond wyrmfah.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ða se wisa spræc</div>
+<div class='line'>sunu Healfdenes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(swigedon ealle):</div>
+<div class='line'>"þæt, la, mæg secgan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þe soð ond riht</div>
+<div class='line'>fremeð on folce,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feor eal gemon,</div>
+<div class='line'>eald ᛟweard,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ðes eorl wære</div>
+<div class='line'>geboren betera!<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Blæd is aræred</div>
+<div class='line'>geond widwegas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wine min Beowulf,</div>
+<div class='line'>ðin ofer þeoda gehwylce.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Eal þu hit geþyldum healdest,</div>
+<div class='line'>mægen mid modes snyttrum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic þe sceal mine gelæstan</div>
+<div class='line'>freode, swa wit furðum spræcon.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ðu scealt to frofre weorþan</div>
+<div class='line'>eal langtwidig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leodum þinum,</div>
+<div class='line'>hæleðum to helpe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne wearð Heremod swa</div>
+<div class='line'>eaforum Ecgwelan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Arscyldingum;</div>
+<div class='line'>ne geweox he him to willan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac to wælfealle</div>
+<div class='line'>ond to deaðcwalum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Deniga leodum;</div>
+<div class='line'>breat bolgenmod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beodgeneatas,</div>
+<div class='line'>eaxlgesteallan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþþæt he ana hwearf,</div>
+<div class='line'>mære þeoden,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mondreamum from.</div>
+<div class='line'>Ðeah þe hine mihtig god<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mægenes wynnum,</div>
+<div class='line'>eafeþum stepte,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ofer ealle men</div>
+<div class='line'>forð gefremede,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwæþere him on ferhþe greow</div>
+<div class='line'>breosthord blodreow.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nallas beagas geaf</div>
+<div class='line'>Denum æfter dome;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dreamleas gebad</div>
+<div class='line'>þæt he þæs gewinnes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weorc þrowade,</div>
+<div class='line'>leodbealo longsum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ðu þe lær be þon,</div>
+<div class='line'>gumcyste ongit;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ic þis gid be þe</div>
+<div class='line'>awræc wintrum frod.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wundor is to secganne</div>
+<div class='line'>hu mihtig god<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>manna cynne</div>
+<div class='line'>þurh sidne sefan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>snyttru bryttað,</div>
+<div class='line'>eard ond eorlscipe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he ah ealra geweald.</div>
+<div class='line'>Hwilum he on lufan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>læteð hworfan</div>
+<div class='line'>monnes modgeþonc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mæran cynnes,</div>
+<div class='line'>seleð him on eþle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eorþan wynne</div>
+<div class='line'>to healdanne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hleoburh wera,</div>
+<div class='line'>gedeð him swa gewealdene<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>worolde dælas,</div>
+<div class='line'>side rice,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he his selfa ne mæg</div>
+<div class='line'>for his unsnyttrum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ende geþencean.</div>
+<div class='line'>Wunað he on wiste;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>no hine wiht dweleð</div>
+<div class='line'>adl ne yldo,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne him inwitsorh</div>
+<div class='line'>on sefan sweorceð,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne gesacu ohwær</div>
+<div class='line'>ecghete eoweð,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac him eal worold</div>
+<div class='line'>wendeð on willan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(he þæt wyrse ne con),</div>
   
-oðþæt him on innan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oferhygda dæl  
-weaxeð ond wridað.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þonne se weard swefeð,  
-sawele hyrde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bið se slæp to fæst,  
-bisgum gebunden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bona swiðe neah,  
-se þe of flanbogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrenum sceoteð.  
-Þonne bið on hreþre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under helm drepen  
-biteran stræle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(him bebeorgan ne con),  
-wom wundorbebodum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wergan gastes;  
-þinceð him to lytel&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he lange heold,  
-gytsað gromhydig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nallas on gylp seleð  
-fædde beagas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond he þa forðgesceaft  
-forgyteð ond forgymeð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs þe him ær god sealde,  
-wuldres waldend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorðmynda dæl.  
-Hit on endestæf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft gelimpeð  
-þæt se lichoma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læne gedreoseð,  
-fæge gefealleð;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fehð oþer to,  
-se þe unmurnlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;madmas dæleþ,  
-eorles ærgestreon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;egesan ne gymeð.  
-Bebeorh þe ðone bealonið,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beowulf leofa,  
-secg betsta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þe þæt selre geceos,  
-ece rædas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oferhyda ne gym,  
-mære cempa.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu is þines mægnes blæd  
-ane hwile.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eft sona bið  
-þæt þec adl oððe ecg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eafoþes getwæfeð,  
-oððe fyres feng,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe flodes wylm,  
-oððe gripe meces,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe gares fliht,  
-oððe atol yldo;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe eagena bearhtm  
-forsiteð ond forsworceð;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;semninga bið  
-þæt ðec, dryhtguma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deað oferswyðeð.  
-Swa ic Hringdena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hund missera  
-weold under wolcnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond hig wigge beleac  
-manigum mægþa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geond þysne middangeard,  
-æscum ond ecgum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic me ænigne  
-under swegles begong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gesacan ne tealde.  
-Hwæt, me þæs on eþle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;edwenden cwom,  
-gyrn æfter gomene,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seoþðan Grendel wearð,  
-ealdgewinna,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ingenga min;  
-ic þære socne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;singales wæg  
-modceare micle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæs sig metode þanc,  
-ecean dryhtne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæs ðe ic on aldre gebad  
-þæt ic on þone hafelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorodreorigne  
-ofer ealdgewin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eagum starige!  
-Ga nu to setle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;symbelwynne dreoh  
-wigge weorþad;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unc sceal worn fela  
-maþma gemænra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siþðan morgen bið."  
-Geat wæs glædmod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geong sona to  
-setles neosan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa se snottra heht.  
-Þa wæs eft swa ær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ellenrofum  
-fletsittendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fægere gereorded  
-niowan stefne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nihthelm geswearc  
-deorc ofer dryhtgumum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Duguð eal aras.  
-Wolde blondenfeax&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beddes neosan,  
-gamela Scylding.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geat unigmetes wel,  
-rofne randwigan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;restan lyste;  
-sona him seleþegn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siðes wergum,  
-feorrancundum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð wisade,  
-se for andrysnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealle beweotede  
-þegnes þearfe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce þy dogore  
-heaþoliðende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;habban scoldon.  
-Reste hine þa rumheort;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;reced hliuade  
-geap ond goldfah;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gæst inne swæf  
-oþþæt hrefn blaca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heofones wynne  
-bliðheort bodode.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða com beorht scacan  
+<div class='line'>oðþæt him on innan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oferhygda dæl</div>
+<div class='line'>weaxeð ond wridað.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þonne se weard swefeð,</div>
+<div class='line'>sawele hyrde;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bið se slæp to fæst,</div>
+<div class='line'>bisgum gebunden,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bona swiðe neah,</div>
+<div class='line'>se þe of flanbogan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fyrenum sceoteð.</div>
+<div class='line'>Þonne bið on hreþre<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>under helm drepen</div>
+<div class='line'>biteran stræle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(him bebeorgan ne con),</div>
+<div class='line'>wom wundorbebodum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wergan gastes;</div>
+<div class='line'>þinceð him to lytel<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he lange heold,</div>
+<div class='line'>gytsað gromhydig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nallas on gylp seleð</div>
+<div class='line'>fædde beagas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond he þa forðgesceaft</div>
+<div class='line'>forgyteð ond forgymeð,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæs þe him ær god sealde,</div>
+<div class='line'>wuldres waldend,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weorðmynda dæl.</div>
+<div class='line'>Hit on endestæf<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eft gelimpeð</div>
+<div class='line'>þæt se lichoma<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>læne gedreoseð,</div>
+<div class='line'>fæge gefealleð;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fehð oþer to,</div>
+<div class='line'>se þe unmurnlice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>madmas dæleþ,</div>
+<div class='line'>eorles ærgestreon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>egesan ne gymeð.</div>
+<div class='line'>Bebeorh þe ðone bealonið,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Beowulf leofa,</div>
+<div class='line'>secg betsta,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þe þæt selre geceos,</div>
+<div class='line'>ece rædas;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oferhyda ne gym,</div>
+<div class='line'>mære cempa.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nu is þines mægnes blæd</div>
+<div class='line'>ane hwile.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Eft sona bið</div>
+<div class='line'>þæt þec adl oððe ecg<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eafoþes getwæfeð,</div>
+<div class='line'>oððe fyres feng,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððe flodes wylm,</div>
+<div class='line'>oððe gripe meces,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððe gares fliht,</div>
+<div class='line'>oððe atol yldo;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððe eagena bearhtm</div>
+<div class='line'>forsiteð ond forsworceð;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>semninga bið</div>
+<div class='line'>þæt ðec, dryhtguma,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>deað oferswyðeð.</div>
+<div class='line'>Swa ic Hringdena<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hund missera</div>
+<div class='line'>weold under wolcnum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond hig wigge beleac</div>
+<div class='line'>manigum mægþa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geond þysne middangeard,</div>
+<div class='line'>æscum ond ecgum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ic me ænigne</div>
+<div class='line'>under swegles begong<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gesacan ne tealde.</div>
+<div class='line'>Hwæt, me þæs on eþle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>edwenden cwom,</div>
+<div class='line'>gyrn æfter gomene,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>seoþðan Grendel wearð,</div>
+<div class='line'>ealdgewinna,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ingenga min;</div>
+<div class='line'>ic þære socne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>singales wæg</div>
+<div class='line'>modceare micle.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þæs sig metode þanc,</div>
+<div class='line'>ecean dryhtne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæs ðe ic on aldre gebad</div>
+<div class='line'>þæt ic on þone hafelan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heorodreorigne</div>
+<div class='line'>ofer ealdgewin<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eagum starige!</div>
+<div class='line'>Ga nu to setle,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>symbelwynne dreoh</div>
+<div class='line'>wigge weorþad;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>unc sceal worn fela</div>
+<div class='line'>maþma gemænra,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>siþðan morgen bið."</div>
+<div class='line'>Geat wæs glædmod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geong sona to</div>
+<div class='line'>setles neosan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa se snottra heht.</div>
+<div class='line'>Þa wæs eft swa ær<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ellenrofum</div>
+<div class='line'>fletsittendum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fægere gereorded</div>
+<div class='line'>niowan stefne.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nihthelm geswearc</div>
+<div class='line'>deorc ofer dryhtgumum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Duguð eal aras.</div>
+<div class='line'>Wolde blondenfeax<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beddes neosan,</div>
+<div class='line'>gamela Scylding.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geat unigmetes wel,</div>
+<div class='line'>rofne randwigan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>restan lyste;</div>
+<div class='line'>sona him seleþegn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>siðes wergum,</div>
+<div class='line'>feorrancundum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forð wisade,</div>
+<div class='line'>se for andrysnum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealle beweotede</div>
+<div class='line'>þegnes þearfe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swylce þy dogore</div>
+<div class='line'>heaþoliðende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>habban scoldon.</div>
+<div class='line'>Reste hine þa rumheort;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>reced hliuade</div>
+<div class='line'>geap ond goldfah;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gæst inne swæf</div>
+<div class='line'>oþþæt hrefn blaca<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heofones wynne</div>
+<div class='line'>bliðheort bodode.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ða com beorht scacan</div>
     scaþan onetton,  
-wæron æþelingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft to leodum  
-fuse to farenne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wolde feor þanon  
-cuma collenferhð&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ceoles neosan.  
-Heht þa se hearda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hrunting beran  
-sunu Ecglafes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heht his sweord niman,  
-leoflic iren;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sægde him þæs leanes þanc,  
-cwæð, he þone guðwine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godne tealde,  
-wigcræftigne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nales wordum log  
-meces ecge;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt wæs modig secg.  
-Ond þa siðfrome,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;searwum gearwe  
-wigend wæron;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eode weorð Denum  
-æþeling to yppan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær se oþer wæs,  
-hæle hildedeor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroðgar grette.  
+<div class='line'>wæron æþelingas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eft to leodum</div>
+<div class='line'>fuse to farenne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wolde feor þanon</div>
+<div class='line'>cuma collenferhð<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ceoles neosan.</div>
+<div class='line'>Heht þa se hearda<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hrunting beran</div>
+<div class='line'>sunu Ecglafes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heht his sweord niman,</div>
+<div class='line'>leoflic iren;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sægde him þæs leanes þanc,</div>
+<div class='line'>cwæð, he þone guðwine<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>godne tealde,</div>
+<div class='line'>wigcræftigne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nales wordum log</div>
+<div class='line'>meces ecge;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt wæs modig secg.</div>
+<div class='line'>Ond þa siðfrome,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>searwum gearwe</div>
+<div class='line'>wigend wæron;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eode weorð Denum</div>
+<div class='line'>æþeling to yppan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær se oþer wæs,</div>
+<div class='line'>hæle hildedeor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hroðgar grette.</div>
   
-Beowulf maþelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgþeowes:  
-"Nu we sæliðend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secgan wyllað,  
-feorran cumene,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt we fundiaþ  
-Higelac secan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæron her tela  
-willum bewenede;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þu us wel dohtest.  
-Gif ic þonne on eorþan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;owihte mæg  
-þinre modlufan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maran tilian,  
-gumena dryhten,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðonne ic gyt dyde,  
-guðgeweorca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic beo gearo sona.  
-Gif ic þæt gefricge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer floda begang,  
-þæt þec ymbsittend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;egesan þywað,  
-swa þec hetende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwilum dydon,  
-ic ðe þusenda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þegna bringe,  
-hæleþa to helpe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic on Higelac wat,  
-Geata dryhten,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ðe he geong sy,  
-folces hyrde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he mec fremman wile  
-wordum ond worcum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic þe wel herige  
-ond þe to geoce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;garholt bere,  
-mægenes fultum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær ðe bið manna þearf.  
-Gif him þonne Hreþric&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hofum Geata  
-geþingeð, þeodnes bearn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he mæg þær fela  
-freonda findan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorcyþðe beoð  
-selran gesohte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæm þe him selfa deah."  
-Hroðgar maþelode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him on ondsware:  
-"þe þa wordcwydas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigtig drihten  
-on sefan sende;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne hyrde ic snotorlicor  
-on swa geongum feore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guman þingian.  
-Þu eart mægenes strang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond on mode frod,  
-wis wordcwida.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wen ic talige,  
-gif þæt gegangeð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðe gar nymeð,  
-hild heorugrimme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hreþles eaferan,  
-adl oþðe iren&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdor ðinne,  
-folces hyrde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þu þin feorh hafast,  
-þæt þe Sægeatas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;selran næbben  
-to geceosenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cyning ænigne,  
-hordweard hæleþa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyf þu healdan wylt  
-maga rice.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Me þin modsefa  
-licað leng swa wel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofa Beowulf.  
-Hafast þu gefered&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt þam folcum sceal,  
-Geata leodum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond Gardenum,  
-sib gemæne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond sacu restan,  
-inwitniþas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe hie ær drugon,  
-wesan, þenden ic wealde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;widan rices,  
-maþmas gemæne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;manig oþerne  
-godum gegretan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer ganotes bæð;  
-sceal hringnaca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer heafu bringan  
-lac ond luftacen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic þa leode wat  
-ge wið feond ge wið freond&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæste geworhte,  
-æghwæs untæle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealde wisan."  
-Ða git him eorla hleo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inne gesealde,  
-mago Healfdenes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maþmas XII;  
-het hine mid þæm lacum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leode swæse  
-secean on gesyntum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snude eft cuman.  
-Gecyste þa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cyning æþelum god,  
-þeoden Scyldinga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðegn betstan  
-ond be healse genam;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hruron him tearas,  
-blondenfeaxum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him wæs bega wen,  
-ealdum infrodum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþres swiðor,  
-þæt hie seoððan no&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon moston,  
-modige on meþle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs him se man to þon leof  
-þæt he þone breostwylm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forberan ne mehte,  
-ac him on hreþre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hygebendum fæst  
-æfter deorum men&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dyrne langað  
-beorn wið blode.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him Beowulf þanan,  
-guðrinc goldwlanc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;græsmoldan træd  
-since hremig;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sægenga bad  
-agendfrean,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe on ancre rad.  
-Þa wæs on gange&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gifu Hroðgares  
-oft geæhted;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt wæs an cyning,  
-æghwæs orleahtre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oþþæt hine yldo benam  
-mægenes wynnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se þe oft manegum scod.  
+<div class='line'>Beowulf maþelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearn Ecgþeowes:</div>
+<div class='line'>"Nu we sæliðend<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secgan wyllað,</div>
+<div class='line'>feorran cumene,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt we fundiaþ</div>
+<div class='line'>Higelac secan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wæron her tela</div>
+<div class='line'>willum bewenede;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þu us wel dohtest.</div>
+<div class='line'>Gif ic þonne on eorþan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>owihte mæg</div>
+<div class='line'>þinre modlufan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>maran tilian,</div>
+<div class='line'>gumena dryhten,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðonne ic gyt dyde,</div>
+<div class='line'>guðgeweorca,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ic beo gearo sona.</div>
+<div class='line'>Gif ic þæt gefricge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ofer floda begang,</div>
+<div class='line'>þæt þec ymbsittend<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>egesan þywað,</div>
+<div class='line'>swa þec hetende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwilum dydon,</div>
+<div class='line'>ic ðe þusenda<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þegna bringe,</div>
+<div class='line'>hæleþa to helpe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic on Higelac wat,</div>
+<div class='line'>Geata dryhten,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah ðe he geong sy,</div>
+<div class='line'>folces hyrde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he mec fremman wile</div>
+<div class='line'>wordum ond worcum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ic þe wel herige</div>
+<div class='line'>ond þe to geoce<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>garholt bere,</div>
+<div class='line'>mægenes fultum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær ðe bið manna þearf.</div>
+<div class='line'>Gif him þonne Hreþric<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to hofum Geata</div>
+<div class='line'>geþingeð, þeodnes bearn,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he mæg þær fela</div>
+<div class='line'>freonda findan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorcyþðe beoð</div>
+<div class='line'>selran gesohte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæm þe him selfa deah."</div>
+<div class='line'>Hroðgar maþelode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>him on ondsware:</div>
+<div class='line'>"þe þa wordcwydas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wigtig drihten</div>
+<div class='line'>on sefan sende;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne hyrde ic snotorlicor</div>
+<div class='line'>on swa geongum feore<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guman þingian.</div>
+<div class='line'>Þu eart mægenes strang<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond on mode frod,</div>
+<div class='line'>wis wordcwida.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wen ic talige,</div>
+<div class='line'>gif þæt gegangeð,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ðe gar nymeð,</div>
+<div class='line'>hild heorugrimme,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hreþles eaferan,</div>
+<div class='line'>adl oþðe iren<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdor ðinne,</div>
+<div class='line'>folces hyrde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þu þin feorh hafast,</div>
+<div class='line'>þæt þe Sægeatas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>selran næbben</div>
+<div class='line'>to geceosenne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cyning ænigne,</div>
+<div class='line'>hordweard hæleþa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gyf þu healdan wylt</div>
+<div class='line'>maga rice.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Me þin modsefa</div>
+<div class='line'>licað leng swa wel,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leofa Beowulf.</div>
+<div class='line'>Hafast þu gefered<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt þam folcum sceal,</div>
+<div class='line'>Geata leodum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond Gardenum,</div>
+<div class='line'>sib gemæne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond sacu restan,</div>
+<div class='line'>inwitniþas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe hie ær drugon,</div>
+<div class='line'>wesan, þenden ic wealde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>widan rices,</div>
+<div class='line'>maþmas gemæne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>manig oþerne</div>
+<div class='line'>godum gegretan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ofer ganotes bæð;</div>
+<div class='line'>sceal hringnaca<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ofer heafu bringan</div>
+<div class='line'>lac ond luftacen.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic þa leode wat</div>
+<div class='line'>ge wið feond ge wið freond<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæste geworhte,</div>
+<div class='line'>æghwæs untæle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealde wisan."</div>
+<div class='line'>Ða git him eorla hleo<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>inne gesealde,</div>
+<div class='line'>mago Healfdenes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>maþmas XII;</div>
+<div class='line'>het hine mid þæm lacum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leode swæse</div>
+<div class='line'>secean on gesyntum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>snude eft cuman.</div>
+<div class='line'>Gecyste þa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cyning æþelum god,</div>
+<div class='line'>þeoden Scyldinga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðegn betstan</div>
+<div class='line'>ond be healse genam;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hruron him tearas,</div>
+<div class='line'>blondenfeaxum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Him wæs bega wen,</div>
+<div class='line'>ealdum infrodum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþres swiðor,</div>
+<div class='line'>þæt hie seoððan no<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geseon moston,</div>
+<div class='line'>modige on meþle.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wæs him se man to þon leof</div>
+<div class='line'>þæt he þone breostwylm<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forberan ne mehte,</div>
+<div class='line'>ac him on hreþre<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hygebendum fæst</div>
+<div class='line'>æfter deorum men<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dyrne langað</div>
+<div class='line'>beorn wið blode.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Him Beowulf þanan,</div>
+<div class='line'>guðrinc goldwlanc,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>græsmoldan træd</div>
+<div class='line'>since hremig;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sægenga bad</div>
+<div class='line'>agendfrean,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þe on ancre rad.</div>
+<div class='line'>Þa wæs on gange<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gifu Hroðgares</div>
+<div class='line'>oft geæhted;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt wæs an cyning,</div>
+<div class='line'>æghwæs orleahtre,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oþþæt hine yldo benam</div>
+<div class='line'>mægenes wynnum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se þe oft manegum scod.</div>
   
-Cwom þa to flode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;felamodigra,  
-hægstealdra heap,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringnet bæron,  
-locene leoðosyrcan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Landweard onfand  
-eftsið eorla,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he ær dyde;  
-no he mid hearme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of hliðes nosan  
-gæstas grette,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac him togeanes rad,  
-cwæð þæt wilcuman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedera leodum  
-scaþan scirhame&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to scipe foron.  
-Þa wæs on sande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sægeap naca  
-hladen herewædum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringedstefna,  
-mearum ond maðmum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæst hlifade  
-ofer Hroðgares&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hordgestreonum.  
-He þæm batwearde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bunden golde  
-swurd gesealde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he syðþan wæs  
-on meodubence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maþme þy weorþra,  
-yrfelafe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gewat him on naca  
-drefan deop wæter,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dena land ofgeaf.  
-Þa wæs be mæste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;merehrægla sum,  
-segl sale fæst;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sundwudu þunede.  
-No þær wegflotan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wind ofer yðum  
-siðes getwæfde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sægenga for,  
-fleat famigheals&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð ofer yðe,  
-bundenstefna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer brimstreamas,  
-þæt hie Geata clifu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongitan meahton,  
-cuþe næssas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ceol up geþrang  
-lyftgeswenced,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on lande stod.  
-Hraþe wæs æt holme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyðweard geara,  
-se þe ær lange tid&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofra manna  
-fus æt faroðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feor wlatode;  
-sælde to sande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sidfæþme scip,  
-oncerbendum fæst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þy læs hym yþa ðrym  
-wudu wynsuman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forwrecan meahte.  
-Het þa up beran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþelinga gestreon,  
-frætwe ond fætgold;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs him feor þanon  
-to gesecanne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sinces bryttan,  
-Higelac Hreþling,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær æt ham wunað  
-selfa mid gesiðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sæwealle neah.  
-Bold wæs betlic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bregorof cyning,  
-heah in healle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hygd swiðe geong,  
-wis, welþungen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ðe wintra lyt  
-under burhlocan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gebiden hæbbe,  
-Hæreþes dohtor;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs hio hnah swa þeah,  
-ne to gneað gifa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leodum,  
-maþmgestreona.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Mod Þryðo wæg,  
-fremu folces cwen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;firen ondrysne.  
-Nænig þæt dorste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deor geneþan  
-swæsra gesiða,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nefne sinfrea,  
-þæt hire an dæges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eagum starede,  
-ac him wælbende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weotode tealde  
-handgewriþene;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hraþe seoþðan wæs  
-æfter mundgripe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mece geþinged,  
-þæt hit sceadenmæl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scyran moste,  
-cwealmbealu cyðan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne bið swylc cwenlic þeaw  
-idese to efnanne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ðe hio ænlicu sy,  
-þætte freoðuwebbe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feores onsæce  
-æfter ligetorne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofne mannan.  
-Huru þæt onhohsnode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hemminges mæg;  
-ealodrincende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðer sædan,  
-þæt hio leodbealewa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læs gefremede,  
-inwitniða,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan ærest wearð  
-gyfen goldhroden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geongum cempan,  
-æðelum diore,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan hio Offan flet  
-ofer fealone flod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be fæder lare  
-siðe gesohte;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðær hio syððan well  
-in gumstole,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode, mære,  
-lifgesceafta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lifigende breac,  
-hiold heahlufan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wið hæleþa brego,  
-ealles moncynnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine gefræge  
-þone selestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bi sæm tweonum,  
-eormencynnes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forðam Offa wæs  
-geofum ond guðum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;garcene man,  
-wide geweorðod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wisdome heold  
-eðel sinne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonon Eomer woc  
-hæleðum to helpe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hemminges mæg,  
-nefa Garmundes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niða cræftig.  
+<div class='line'>Cwom þa to flode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>felamodigra,</div>
+<div class='line'>hægstealdra heap,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hringnet bæron,</div>
+<div class='line'>locene leoðosyrcan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Landweard onfand</div>
+<div class='line'>eftsið eorla,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa he ær dyde;</div>
+<div class='line'>no he mid hearme<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>of hliðes nosan</div>
+<div class='line'>gæstas grette,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac him togeanes rad,</div>
+<div class='line'>cwæð þæt wilcuman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wedera leodum</div>
+<div class='line'>scaþan scirhame<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to scipe foron.</div>
+<div class='line'>Þa wæs on sande<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sægeap naca</div>
+<div class='line'>hladen herewædum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hringedstefna,</div>
+<div class='line'>mearum ond maðmum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mæst hlifade</div>
+<div class='line'>ofer Hroðgares<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hordgestreonum.</div>
+<div class='line'>He þæm batwearde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bunden golde</div>
+<div class='line'>swurd gesealde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he syðþan wæs</div>
+<div class='line'>on meodubence<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>maþme þy weorþra,</div>
+<div class='line'>yrfelafe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Gewat him on naca</div>
+<div class='line'>drefan deop wæter,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Dena land ofgeaf.</div>
+<div class='line'>Þa wæs be mæste<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>merehrægla sum,</div>
+<div class='line'>segl sale fæst;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sundwudu þunede.</div>
+<div class='line'>No þær wegflotan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wind ofer yðum</div>
+<div class='line'>siðes getwæfde;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sægenga for,</div>
+<div class='line'>fleat famigheals<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forð ofer yðe,</div>
+<div class='line'>bundenstefna<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ofer brimstreamas,</div>
+<div class='line'>þæt hie Geata clifu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ongitan meahton,</div>
+<div class='line'>cuþe næssas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ceol up geþrang</div>
+<div class='line'>lyftgeswenced,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on lande stod.</div>
+<div class='line'>Hraþe wæs æt holme<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hyðweard geara,</div>
+<div class='line'>se þe ær lange tid<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leofra manna</div>
+<div class='line'>fus æt faroðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feor wlatode;</div>
+<div class='line'>sælde to sande<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sidfæþme scip,</div>
+<div class='line'>oncerbendum fæst,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þy læs hym yþa ðrym</div>
+<div class='line'>wudu wynsuman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forwrecan meahte.</div>
+<div class='line'>Het þa up beran<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æþelinga gestreon,</div>
+<div class='line'>frætwe ond fætgold;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>næs him feor þanon</div>
+<div class='line'>to gesecanne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sinces bryttan,</div>
+<div class='line'>Higelac Hreþling,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær æt ham wunað</div>
+<div class='line'>selfa mid gesiðum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sæwealle neah.</div>
+<div class='line'>Bold wæs betlic,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bregorof cyning,</div>
+<div class='line'>heah in healle,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hygd swiðe geong,</div>
+<div class='line'>wis, welþungen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah ðe wintra lyt</div>
+<div class='line'>under burhlocan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gebiden hæbbe,</div>
+<div class='line'>Hæreþes dohtor;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>næs hio hnah swa þeah,</div>
+<div class='line'>ne to gneað gifa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geata leodum,</div>
+<div class='line'>maþmgestreona.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Mod Þryðo wæg,</div>
+<div class='line'>fremu folces cwen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>firen ondrysne.</div>
+<div class='line'>Nænig þæt dorste<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>deor geneþan</div>
+<div class='line'>swæsra gesiða,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nefne sinfrea,</div>
+<div class='line'>þæt hire an dæges<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eagum starede,</div>
+<div class='line'>ac him wælbende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weotode tealde</div>
+<div class='line'>handgewriþene;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hraþe seoþðan wæs</div>
+<div class='line'>æfter mundgripe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mece geþinged,</div>
+<div class='line'>þæt hit sceadenmæl<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>scyran moste,</div>
+<div class='line'>cwealmbealu cyðan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne bið swylc cwenlic þeaw</div>
+<div class='line'>idese to efnanne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah ðe hio ænlicu sy,</div>
+<div class='line'>þætte freoðuwebbe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feores onsæce</div>
+<div class='line'>æfter ligetorne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leofne mannan.</div>
+<div class='line'>Huru þæt onhohsnode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hemminges mæg;</div>
+<div class='line'>ealodrincende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oðer sædan,</div>
+<div class='line'>þæt hio leodbealewa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>læs gefremede,</div>
+<div class='line'>inwitniða,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan ærest wearð</div>
+<div class='line'>gyfen goldhroden<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geongum cempan,</div>
+<div class='line'>æðelum diore,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan hio Offan flet</div>
+<div class='line'>ofer fealone flod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>be fæder lare</div>
+<div class='line'>siðe gesohte;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðær hio syððan well</div>
+<div class='line'>in gumstole,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gode, mære,</div>
+<div class='line'>lifgesceafta<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lifigende breac,</div>
+<div class='line'>hiold heahlufan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wið hæleþa brego,</div>
+<div class='line'>ealles moncynnes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mine gefræge</div>
+<div class='line'>þone selestan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bi sæm tweonum,</div>
+<div class='line'>eormencynnes.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Forðam Offa wæs</div>
+<div class='line'>geofum ond guðum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>garcene man,</div>
+<div class='line'>wide geweorðod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wisdome heold</div>
+<div class='line'>eðel sinne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonon Eomer woc</div>
+<div class='line'>hæleðum to helpe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hemminges mæg,</div>
+<div class='line'>nefa Garmundes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>niða cræftig.</div>
   
-Gewat him ða se hearda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid his hondscole  
-sylf æfter sande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sæwong tredan,  
-wide waroðas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Woruldcandel scan,  
-sigel suðan fus.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hi sið drugon,  
-elne geeodon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to ðæs ðe eorla hleo,  
-bonan Ongenþeoes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;burgum in innan,  
-geongne guðcyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godne gefrunon  
-hringas dælan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelace wæs  
-sið Beowulfes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;snude gecyðed,  
-þæt ðær on worðig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigendra hleo,  
-lindgestealla,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lifigende cwom,  
-heaðolaces hal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hofe gongan.  
-Hraðe wæs gerymed,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa se rica bebead,  
-feðegestum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flet innanweard.  
-Gesæt þa wið sylfne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ða sæcce genæs,  
-mæg wið mæge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan mandryhten  
-þurh hleoðorcwyde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;holdne gegrette,  
-meaglum wordum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Meoduscencum hwearf  
-geond þæt healreced&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hæreðes dohtor,  
-lufode ða leode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;liðwæge bær  
-hæleðum to handa.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelac ongan  
-sinne geseldan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in sele þam hean  
-fægre fricgcean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(hyne fyrwet bræc,  
-hwylce Sægeata&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siðas wæron):  
-"Hu lomp eow on lade,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofa Biowulf,  
-þa ðu færinga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorr gehogodest  
-sæcce secean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofer sealt wæter,  
-hilde to Hiorote?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ac ðu Hroðgare  
-widcuðne wean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wihte gebettest,  
-mærum ðeodne?&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic ðæs modceare  
-sorhwylmum seað,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;siðe ne truwode  
-leofes mannes;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic ðe lange bæd  
-þæt ðu þone wælgæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wihte ne grette,  
-lete Suðdene&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sylfe geweorðan  
-guðe wið Grendel.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gode ic þanc secge  
-þæs ðe ic ðe gesundne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseon moste."  
-Biowulf maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgðioes:  
-"þæt is undyrne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dryhten Higelac,  
-micel gemeting,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;monegum fira,  
-hwylc orleghwil&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uncer Grendles  
-wearð on ðam wange,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he worna fela  
-Sigescyldingum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sorge gefremede,  
-yrmðe to aldre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic ðæt eall gewræc,  
-swa begylpan ne þearf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendeles maga  
-ænig ofer eorðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uhthlem þone,  
-se ðe lengest leofað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laðan cynnes,  
-facne bifongen.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic ðær furðum cwom  
-to ðam hringsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroðgar gretan;  
-sona me se mæra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mago Healfdenes,  
-syððan he modsefan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minne cuðe,  
-wið his sylfes sunu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;setl getæhte.  
-Weorod wæs on wynne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne seah ic widan feorh  
-under heofones hwealf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;healsittendra  
-medudream maran.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hwilum mæru cwen,  
-friðusibb folca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flet eall geondhwearf,  
-bædde byre geonge;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oft hio beahwriðan  
-secge sealde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær hie to setle geong.  
-Hwilum for duguðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dohtor Hroðgares  
-eorlum on ende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealuwæge bær;  
-þa ic Freaware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fletsittende  
-nemnan hyrde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær hio nægled sinc  
-hæleðum sealde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sio gehaten is,  
-geong, goldhroden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gladum suna Frodan;  
-hafað þæs geworden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine Scyldinga,  
-rices hyrde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þæt ræd talað,  
-þæt he mid ðy wife&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wælfæhða dæl,  
-sæcca gesette.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Oft seldan hwær  
-æfter leodhryre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lytle hwile  
-bongar bugeð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah seo bryd duge!  
-Mæg þæs þonne ofþyncan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðeodne Heaðobeardna  
-ond þegna gehwam&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara leoda,  
-þonne he mid fæmnan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on flett gæð,  
-dryhtbearn Dena,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;duguða biwenede;  
-on him gladiað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gomelra lafe,  
-heard ond hringmæl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heaðabeardna gestreon  
-þenden hie ðam wæpnum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wealdan moston,  
-oððæt hie forlæddan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to ðam lindplegan  
+<div class='line'>Gewat him ða se hearda<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mid his hondscole</div>
+<div class='line'>sylf æfter sande<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sæwong tredan,</div>
+<div class='line'>wide waroðas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Woruldcandel scan,</div>
+<div class='line'>sigel suðan fus.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hi sið drugon,</div>
+<div class='line'>elne geeodon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to ðæs ðe eorla hleo,</div>
+<div class='line'>bonan Ongenþeoes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>burgum in innan,</div>
+<div class='line'>geongne guðcyning<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>godne gefrunon</div>
+<div class='line'>hringas dælan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Higelace wæs</div>
+<div class='line'>sið Beowulfes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>snude gecyðed,</div>
+<div class='line'>þæt ðær on worðig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wigendra hleo,</div>
+<div class='line'>lindgestealla,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lifigende cwom,</div>
+<div class='line'>heaðolaces hal<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to hofe gongan.</div>
+<div class='line'>Hraðe wæs gerymed,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa se rica bebead,</div>
+<div class='line'>feðegestum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>flet innanweard.</div>
+<div class='line'>Gesæt þa wið sylfne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ða sæcce genæs,</div>
+<div class='line'>mæg wið mæge,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan mandryhten</div>
+<div class='line'>þurh hleoðorcwyde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>holdne gegrette,</div>
+<div class='line'>meaglum wordum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Meoduscencum hwearf</div>
+<div class='line'>geond þæt healreced<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hæreðes dohtor,</div>
+<div class='line'>lufode ða leode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>liðwæge bær</div>
+<div class='line'>hæleðum to handa.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Higelac ongan</div>
+<div class='line'>sinne geseldan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>in sele þam hean</div>
+<div class='line'>fægre fricgcean<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(hyne fyrwet bræc,</div>
+<div class='line'>hwylce Sægeata<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>siðas wæron):</div>
+<div class='line'>"Hu lomp eow on lade,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leofa Biowulf,</div>
+<div class='line'>þa ðu færinga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorr gehogodest</div>
+<div class='line'>sæcce secean<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ofer sealt wæter,</div>
+<div class='line'>hilde to Hiorote?<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ac ðu Hroðgare</div>
+<div class='line'>widcuðne wean<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wihte gebettest,</div>
+<div class='line'>mærum ðeodne?<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic ðæs modceare</div>
+<div class='line'>sorhwylmum seað,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>siðe ne truwode</div>
+<div class='line'>leofes mannes;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ic ðe lange bæd</div>
+<div class='line'>þæt ðu þone wælgæst<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wihte ne grette,</div>
+<div class='line'>lete Suðdene<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sylfe geweorðan</div>
+<div class='line'>guðe wið Grendel.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Gode ic þanc secge</div>
+<div class='line'>þæs ðe ic ðe gesundne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geseon moste."</div>
+<div class='line'>Biowulf maðelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearn Ecgðioes:</div>
+<div class='line'>"þæt is undyrne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dryhten Higelac,</div>
+<div class='line'>micel gemeting,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>monegum fira,</div>
+<div class='line'>hwylc orleghwil<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>uncer Grendles</div>
+<div class='line'>wearð on ðam wange,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær he worna fela</div>
+<div class='line'>Sigescyldingum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sorge gefremede,</div>
+<div class='line'>yrmðe to aldre.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic ðæt eall gewræc,</div>
+<div class='line'>swa begylpan ne þearf<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Grendeles maga</div>
+<div class='line'>ænig ofer eorðan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>uhthlem þone,</div>
+<div class='line'>se ðe lengest leofað<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>laðan cynnes,</div>
+<div class='line'>facne bifongen.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic ðær furðum cwom</div>
+<div class='line'>to ðam hringsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hroðgar gretan;</div>
+<div class='line'>sona me se mæra<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mago Healfdenes,</div>
+<div class='line'>syððan he modsefan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>minne cuðe,</div>
+<div class='line'>wið his sylfes sunu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>setl getæhte.</div>
+<div class='line'>Weorod wæs on wynne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne seah ic widan feorh</div>
+<div class='line'>under heofones hwealf<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>healsittendra</div>
+<div class='line'>medudream maran.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hwilum mæru cwen,</div>
+<div class='line'>friðusibb folca,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>flet eall geondhwearf,</div>
+<div class='line'>bædde byre geonge;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oft hio beahwriðan</div>
+<div class='line'>secge sealde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær hie to setle geong.</div>
+<div class='line'>Hwilum for duguðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dohtor Hroðgares</div>
+<div class='line'>eorlum on ende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealuwæge bær;</div>
+<div class='line'>þa ic Freaware<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fletsittende</div>
+<div class='line'>nemnan hyrde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær hio nægled sinc</div>
+<div class='line'>hæleðum sealde.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sio gehaten is,</div>
+<div class='line'>geong, goldhroden,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gladum suna Frodan;</div>
+<div class='line'>hafað þæs geworden<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wine Scyldinga,</div>
+<div class='line'>rices hyrde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þæt ræd talað,</div>
+<div class='line'>þæt he mid ðy wife<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wælfæhða dæl,</div>
+<div class='line'>sæcca gesette.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Oft seldan hwær</div>
+<div class='line'>æfter leodhryre<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lytle hwile</div>
+<div class='line'>bongar bugeð,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah seo bryd duge!</div>
+<div class='line'>Mæg þæs þonne ofþyncan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðeodne Heaðobeardna</div>
+<div class='line'>ond þegna gehwam<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þara leoda,</div>
+<div class='line'>þonne he mid fæmnan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on flett gæð,</div>
+<div class='line'>dryhtbearn Dena,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>duguða biwenede;</div>
+<div class='line'>on him gladiað<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gomelra lafe,</div>
+<div class='line'>heard ond hringmæl<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Heaðabeardna gestreon</div>
+<div class='line'>þenden hie ðam wæpnum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wealdan moston,</div>
+<div class='line'>oððæt hie forlæddan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to ðam lindplegan</div>
 [–] [top]  
-swæse gesiðas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond hyra sylfra feorh.  
-Þonne cwið æt beore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe beah gesyhð,  
-eald æscwiga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe eall geman,  
-garcwealm gumena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(him bið grim sefa),  
-onginneð geomormod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geongum cempan  
-þurh hreðra gehygd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;higes cunnian,  
-wigbealu weccean,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þæt word acwyð:  
-'Meaht ðu, min wine,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mece gecnawan  
-þone þin fæder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to gefeohte bær  
-under heregriman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hindeman siðe,  
-dyre iren,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær hyne Dene slogon,  
-weoldon wælstowe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan Wiðergyld læg,  
-æfter hæleþa hryre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwate Scyldungas?  
-Nu her þara banena&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byre nathwylces  
-frætwum hremig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on flet gæð,  
-morðres gylpeð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þone maðþum byreð,  
-þone þe ðu mid rihte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rædan sceoldest.'  
-Manað swa ond myndgað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæla gehwylce  
-sarum wordum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt sæl cymeð  
-þæt se fæmnan þegn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fore fæder dædum  
-æfter billes bite&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blodfag swefeð,  
-ealdres scyldig;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him se oðer þonan  
-losað lifigende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;con him land geare.  
-Þonne bioð abrocene&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on ba healfe  
-aðsweord eorla;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan Ingelde  
-weallað wælniðas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond him wiflufan  
-æfter cearwælmum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;colran weorðað.  
-Þy ic Heaðobeardna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyldo ne telge,  
-dryhtsibbe dæl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denum unfæcne,  
-freondscipe fæstne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic sceal forð sprecan  
-gen ymbe Grendel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðu geare cunne,  
-sinces brytta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hwan syððan wearð  
-hondræs hæleða.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Syððan heofones gim  
-glad ofer grundas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gæst yrre cwom,  
-eatol, æfengrom,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;user neosan,  
-ðær we gesunde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sæl weardodon.  
-Þær wæs Hondscio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hild onsæge,  
-feorhbealu fægum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he fyrmest læg,  
-gyrded cempa;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him Grendel wearð,  
-mærum maguþegne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to muðbonan,  
-leofes mannes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lic eall forswealg.  
-No ðy ær ut ða gen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;idelhende  
-bona blodigtoð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bealewa gemyndig,  
-of ðam goldsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gongan wolde,  
-ac he mægnes rof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;min costode,  
-grapode gearofolm.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Glof hangode  
-sid ond syllic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;searobendum fæst;  
-sio wæs orðoncum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eall gegyrwed  
-deofles cræftum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond dracan fellum.  
-He mec þær on innan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unsynnigne,  
-dior dædfruma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gedon wolde  
-manigra sumne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyt ne mihte swa,  
-syððan ic on yrre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;uppriht astod.  
-To lang ys to reccenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hu ic ðam leodsceaðan  
-yfla gehwylces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ondlean forgeald;  
-þær ic, þeoden min,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þine leode  
-weorðode weorcum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He on weg losade,  
-lytle hwile&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lifwynna breac;  
-hwæþre him sio swiðre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swaðe weardade  
-hand on Hiorte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond he hean ðonan  
-modes geomor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meregrund gefeoll.  
-Me þone wælræs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wine Scildunga  
-fættan golde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fela leanode,  
-manegum maðmum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan mergen com  
-ond we to symble&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseten hæfdon.  
-Þær wæs gidd ond gleo.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gomela Scilding,  
-felafricgende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorran rehte;  
-hwilum hildedeor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hearpan wynne,  
-gomenwudu grette,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwilum gyd awræc  
-soð ond sarlic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwilum syllic spell  
-rehte æfter rihte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rumheort cyning.  
-Hwilum eft ongan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eldo gebunden,  
-gomel guðwiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gioguðe cwiðan,  
-hildestrengo;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hreðer inne weoll,  
-þonne he wintrum frod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worn gemunde.  
-Swa we þær inne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ondlangne dæg  
-niode naman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt niht becwom  
-oðer to yldum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs eft hraðe  
-gearo gyrnwræce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendeles modor,  
-siðode sorhfull;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu deað fornam,  
-wighete Wedra.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wif unhyre  
-hyre bearn gewræc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorn acwealde  
-ellenlice;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær wæs Æschere,  
-frodan fyrnwitan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorh uðgenge.  
-Noðer hy hine ne moston,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan mergen cwom,  
-deaðwerigne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Denia leode,  
-bronde forbærnan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne on bęl hladan  
-leofne mannan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hio þæt lic ætbær  
-feondes fæðmum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under firgenstream.  
-Þæt wæs Hroðgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hreowa tornost  
-þara þe leodfruman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lange begeate.  
-Þa se ðeoden mec&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðine life  
-healsode hreohmod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic on holma geþring  
-eorlscipe efnde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdre geneðde,  
-mærðo fremede;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he me mede gehet.  
-Ic ða ðæs wælmes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe is wide cuð,  
-grimne gryrelicne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grundhyrde fond;  
-þær unc hwile wæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hand gemæne,  
-holm heolfre weoll,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond ic heafde becearf  
-in ðam guðsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendeles modor  
-eacnum ecgum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unsofte þonan  
-feorh oðferede.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs ic fæge þa gyt,  
-ac me eorla hleo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft gesealde  
-maðma menigeo,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maga Healfdenes.  
+<div class='line'>swæse gesiðas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond hyra sylfra feorh.</div>
+<div class='line'>Þonne cwið æt beore<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ðe beah gesyhð,</div>
+<div class='line'>eald æscwiga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ðe eall geman,</div>
+<div class='line'>garcwealm gumena<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(him bið grim sefa),</div>
+<div class='line'>onginneð geomormod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geongum cempan</div>
+<div class='line'>þurh hreðra gehygd<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>higes cunnian,</div>
+<div class='line'>wigbealu weccean,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þæt word acwyð:</div>
+<div class='line'>'Meaht ðu, min wine,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mece gecnawan</div>
+<div class='line'>þone þin fæder<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to gefeohte bær</div>
+<div class='line'>under heregriman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hindeman siðe,</div>
+<div class='line'>dyre iren,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær hyne Dene slogon,</div>
+<div class='line'>weoldon wælstowe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan Wiðergyld læg,</div>
+<div class='line'>æfter hæleþa hryre,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwate Scyldungas?</div>
+<div class='line'>Nu her þara banena<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>byre nathwylces</div>
+<div class='line'>frætwum hremig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on flet gæð,</div>
+<div class='line'>morðres gylpeð,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þone maðþum byreð,</div>
+<div class='line'>þone þe ðu mid rihte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>rædan sceoldest.'</div>
+<div class='line'>Manað swa ond myndgað<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mæla gehwylce</div>
+<div class='line'>sarum wordum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððæt sæl cymeð</div>
+<div class='line'>þæt se fæmnan þegn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fore fæder dædum</div>
+<div class='line'>æfter billes bite<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>blodfag swefeð,</div>
+<div class='line'>ealdres scyldig;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>him se oðer þonan</div>
+<div class='line'>losað lifigende,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>con him land geare.</div>
+<div class='line'>Þonne bioð abrocene<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on ba healfe</div>
+<div class='line'>aðsweord eorla;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan Ingelde</div>
+<div class='line'>weallað wælniðas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond him wiflufan</div>
+<div class='line'>æfter cearwælmum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>colran weorðað.</div>
+<div class='line'>Þy ic Heaðobeardna<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hyldo ne telge,</div>
+<div class='line'>dryhtsibbe dæl<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Denum unfæcne,</div>
+<div class='line'>freondscipe fæstne.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic sceal forð sprecan</div>
+<div class='line'>gen ymbe Grendel,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ðu geare cunne,</div>
+<div class='line'>sinces brytta,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to hwan syððan wearð</div>
+<div class='line'>hondræs hæleða.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Syððan heofones gim</div>
+<div class='line'>glad ofer grundas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gæst yrre cwom,</div>
+<div class='line'>eatol, æfengrom,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>user neosan,</div>
+<div class='line'>ðær we gesunde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sæl weardodon.</div>
+<div class='line'>Þær wæs Hondscio<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hild onsæge,</div>
+<div class='line'>feorhbealu fægum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he fyrmest læg,</div>
+<div class='line'>gyrded cempa;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>him Grendel wearð,</div>
+<div class='line'>mærum maguþegne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to muðbonan,</div>
+<div class='line'>leofes mannes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lic eall forswealg.</div>
+<div class='line'>No ðy ær ut ða gen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>idelhende</div>
+<div class='line'>bona blodigtoð,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bealewa gemyndig,</div>
+<div class='line'>of ðam goldsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gongan wolde,</div>
+<div class='line'>ac he mægnes rof<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>min costode,</div>
+<div class='line'>grapode gearofolm.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Glof hangode</div>
+<div class='line'>sid ond syllic,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>searobendum fæst;</div>
+<div class='line'>sio wæs orðoncum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eall gegyrwed</div>
+<div class='line'>deofles cræftum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond dracan fellum.</div>
+<div class='line'>He mec þær on innan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>unsynnigne,</div>
+<div class='line'>dior dædfruma,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gedon wolde</div>
+<div class='line'>manigra sumne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hyt ne mihte swa,</div>
+<div class='line'>syððan ic on yrre<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>uppriht astod.</div>
+<div class='line'>To lang ys to reccenne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hu ic ðam leodsceaðan</div>
+<div class='line'>yfla gehwylces<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ondlean forgeald;</div>
+<div class='line'>þær ic, þeoden min,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þine leode</div>
+<div class='line'>weorðode weorcum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He on weg losade,</div>
+<div class='line'>lytle hwile<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lifwynna breac;</div>
+<div class='line'>hwæþre him sio swiðre<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swaðe weardade</div>
+<div class='line'>hand on Hiorte,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond he hean ðonan</div>
+<div class='line'>modes geomor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>meregrund gefeoll.</div>
+<div class='line'>Me þone wælræs<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wine Scildunga</div>
+<div class='line'>fættan golde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fela leanode,</div>
+<div class='line'>manegum maðmum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan mergen com</div>
+<div class='line'>ond we to symble<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geseten hæfdon.</div>
+<div class='line'>Þær wæs gidd ond gleo.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Gomela Scilding,</div>
+<div class='line'>felafricgende,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorran rehte;</div>
+<div class='line'>hwilum hildedeor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hearpan wynne,</div>
+<div class='line'>gomenwudu grette,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwilum gyd awræc</div>
+<div class='line'>soð ond sarlic,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwilum syllic spell</div>
+<div class='line'>rehte æfter rihte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>rumheort cyning.</div>
+<div class='line'>Hwilum eft ongan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eldo gebunden,</div>
+<div class='line'>gomel guðwiga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gioguðe cwiðan,</div>
+<div class='line'>hildestrengo;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hreðer inne weoll,</div>
+<div class='line'>þonne he wintrum frod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>worn gemunde.</div>
+<div class='line'>Swa we þær inne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ondlangne dæg</div>
+<div class='line'>niode naman,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððæt niht becwom</div>
+<div class='line'>oðer to yldum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa wæs eft hraðe</div>
+<div class='line'>gearo gyrnwræce<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Grendeles modor,</div>
+<div class='line'>siðode sorhfull;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu deað fornam,</div>
+<div class='line'>wighete Wedra.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wif unhyre</div>
+<div class='line'>hyre bearn gewræc,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beorn acwealde</div>
+<div class='line'>ellenlice;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær wæs Æschere,</div>
+<div class='line'>frodan fyrnwitan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorh uðgenge.</div>
+<div class='line'>Noðer hy hine ne moston,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan mergen cwom,</div>
+<div class='line'>deaðwerigne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Denia leode,</div>
+<div class='line'>bronde forbærnan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne on bęl hladan</div>
+<div class='line'>leofne mannan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hio þæt lic ætbær</div>
+<div class='line'>feondes fæðmum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>under firgenstream.</div>
+<div class='line'>Þæt wæs Hroðgare<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hreowa tornost</div>
+<div class='line'>þara þe leodfruman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lange begeate.</div>
+<div class='line'>Þa se ðeoden mec<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðine life</div>
+<div class='line'>healsode hreohmod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ic on holma geþring</div>
+<div class='line'>eorlscipe efnde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdre geneðde,</div>
+<div class='line'>mærðo fremede;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he me mede gehet.</div>
+<div class='line'>Ic ða ðæs wælmes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe is wide cuð,</div>
+<div class='line'>grimne gryrelicne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>grundhyrde fond;</div>
+<div class='line'>þær unc hwile wæs<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hand gemæne,</div>
+<div class='line'>holm heolfre weoll,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond ic heafde becearf</div>
+<div class='line'>in ðam guðsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Grendeles modor</div>
+<div class='line'>eacnum ecgum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>unsofte þonan</div>
+<div class='line'>feorh oðferede.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næs ic fæge þa gyt,</div>
+<div class='line'>ac me eorla hleo<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eft gesealde</div>
+<div class='line'>maðma menigeo,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>maga Healfdenes.</div>
   
-Swa se ðeodkyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeawum lyfde.  
-Nealles ic ðam leanum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forloren hæfde,  
-mægnes mede,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he me maðmas geaf,  
-sunu Healfdenes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on minne sylfes dom;  
-ða ic ðe, beorncyning,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bringan wylle,  
-estum geywan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gen is eall æt ðe  
-lissa gelong;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic lyt hafo  
-heafodmaga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nefne, Hygelac, ðec."  
-Het ða in beran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eaforheafodsegn,  
-heaðosteapne helm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hare byrnan,  
-guðsweord geatolic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyd æfter wræc:  
-"Me ðis hildesceorp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hroðgar sealde,  
-snotra fengel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sume worde het  
-þæt ic his ærest ðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;est gesægde;  
-cwæð þæt hyt hæfde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hiorogar cyning,  
-leod Scyldunga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lange hwile;  
-no ðy ær suna sinum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syllan wolde,  
-hwatum Heorowearde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah he him hold wære,  
-breostgewædu.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bruc ealles well!"  
-Hyrde ic þæt þam frætwum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feower mearas  
-lungre, gelice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;last weardode,  
-æppelfealuwe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he him est geteah  
-meara ond maðma.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swa sceal mæg don,  
-nealles inwitnet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðrum bregdon  
-dyrnum cræfte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deað renian  
-hondgesteallan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hygelace wæs,  
-niða heardum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nefa swyðe hold,  
-ond gehwæðer oðrum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hroþra gemyndig.  
-Hyrde ic þæt he ðone healsbeah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hygde gesealde,  
-wrætlicne wundurmaððum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðone þe him Wealhðeo geaf,  
-ðeodnes dohtor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þrio wicg somod  
-swancor ond sadolbeorht;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyre syððan wæs  
-æfter beahðege&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;breost geweorðod.  
-Swa bealdode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgðeowes,  
-guma guðum cuð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godum dædum,  
-dreah æfter dome,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nealles druncne slog  
-heorðgeneatas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs him hreoh sefa,  
-ac he mancynnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæste cræfte  
-ginfæstan gife,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe him god sealde,  
-heold hildedeor.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hean wæs lange,  
-swa hyne Geata bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godne ne tealdon,  
-ne hyne on medobence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;micles wyrðne  
-drihten Wedera&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gedon wolde;  
-swyðe wendon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he sleac wære,  
-æðeling unfrom.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Edwenden cwom  
-tireadigum menn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;torna gehwylces.  
-Het ða eorla hleo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;in gefetian,  
-heaðorof cyning,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hreðles lafe  
-golde gegyrede;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs mid Geatum ða  
-sincmaðþum selra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sweordes had;  
-þæt he on Biowulfes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearm alegde  
-ond him gesealde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seofan þusendo,  
-bold ond bregostol.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him wæs bam samod  
-on ðam leodscipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lond gecynde,  
-eard, eðelriht,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðrum swiðor  
-side rice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þam ðær selra wæs.  
-Eft þæt geiode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ufaran dogrum  
-hildehlæmmum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan Hygelac læg  
-ond Heardrede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildemeceas  
-under bordhreoðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to bonan wurdon,  
-ða hyne gesohtan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sigeþeode  
-hearde hildefrecan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heaðoscilfingas,  
-niða genægdan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nefan Hererices,  
-syððan Beowulfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brade rice  
-on hand gehwearf;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he geheold tela  
-fiftig wintra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(wæs ða frod cyning,  
-eald eþelweard),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt an ongan  
-deorcum nihtum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;draca ricsian,  
-se ðe on heaum hofe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord beweotode,  
-stanbeorh steapne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stig under læg,  
-eldum uncuð.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þær on innan giong  
-niða nathwylc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe neh gefeng  
-hæðnum horde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hond ......,  
-since fahne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He þæt syððan ......,  
-þeah ðe he slæpende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;besyred wurde  
-þeofes cræfte;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt sie ðiod onfand,  
-bufolc beorna,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he gebolgen wæs.  
+<div class='line'>Swa se ðeodkyning<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeawum lyfde.</div>
+<div class='line'>Nealles ic ðam leanum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forloren hæfde,</div>
+<div class='line'>mægnes mede,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac he me maðmas geaf,</div>
+<div class='line'>sunu Healfdenes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on minne sylfes dom;</div>
+<div class='line'>ða ic ðe, beorncyning,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bringan wylle,</div>
+<div class='line'>estum geywan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Gen is eall æt ðe</div>
+<div class='line'>lissa gelong;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ic lyt hafo</div>
+<div class='line'>heafodmaga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nefne, Hygelac, ðec."</div>
+<div class='line'>Het ða in beran<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eaforheafodsegn,</div>
+<div class='line'>heaðosteapne helm,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hare byrnan,</div>
+<div class='line'>guðsweord geatolic,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gyd æfter wræc:</div>
+<div class='line'>"Me ðis hildesceorp<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hroðgar sealde,</div>
+<div class='line'>snotra fengel,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sume worde het</div>
+<div class='line'>þæt ic his ærest ðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>est gesægde;</div>
+<div class='line'>cwæð þæt hyt hæfde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hiorogar cyning,</div>
+<div class='line'>leod Scyldunga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lange hwile;</div>
+<div class='line'>no ðy ær suna sinum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syllan wolde,</div>
+<div class='line'>hwatum Heorowearde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah he him hold wære,</div>
+<div class='line'>breostgewædu.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Bruc ealles well!"</div>
+<div class='line'>Hyrde ic þæt þam frætwum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feower mearas</div>
+<div class='line'>lungre, gelice,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>last weardode,</div>
+<div class='line'>æppelfealuwe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he him est geteah</div>
+<div class='line'>meara ond maðma.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Swa sceal mæg don,</div>
+<div class='line'>nealles inwitnet<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oðrum bregdon</div>
+<div class='line'>dyrnum cræfte,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>deað renian</div>
+<div class='line'>hondgesteallan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hygelace wæs,</div>
+<div class='line'>niða heardum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nefa swyðe hold,</div>
+<div class='line'>ond gehwæðer oðrum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hroþra gemyndig.</div>
+<div class='line'>Hyrde ic þæt he ðone healsbeah<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hygde gesealde,</div>
+<div class='line'>wrætlicne wundurmaððum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðone þe him Wealhðeo geaf,</div>
+<div class='line'>ðeodnes dohtor,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þrio wicg somod</div>
+<div class='line'>swancor ond sadolbeorht;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hyre syððan wæs</div>
+<div class='line'>æfter beahðege<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>breost geweorðod.</div>
+<div class='line'>Swa bealdode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearn Ecgðeowes,</div>
+<div class='line'>guma guðum cuð,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>godum dædum,</div>
+<div class='line'>dreah æfter dome,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nealles druncne slog</div>
+<div class='line'>heorðgeneatas;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>næs him hreoh sefa,</div>
+<div class='line'>ac he mancynnes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mæste cræfte</div>
+<div class='line'>ginfæstan gife,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe him god sealde,</div>
+<div class='line'>heold hildedeor.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hean wæs lange,</div>
+<div class='line'>swa hyne Geata bearn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>godne ne tealdon,</div>
+<div class='line'>ne hyne on medobence<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>micles wyrðne</div>
+<div class='line'>drihten Wedera<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gedon wolde;</div>
+<div class='line'>swyðe wendon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he sleac wære,</div>
+<div class='line'>æðeling unfrom.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Edwenden cwom</div>
+<div class='line'>tireadigum menn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>torna gehwylces.</div>
+<div class='line'>Het ða eorla hleo<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>in gefetian,</div>
+<div class='line'>heaðorof cyning,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hreðles lafe</div>
+<div class='line'>golde gegyrede;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>næs mid Geatum ða</div>
+<div class='line'>sincmaðþum selra<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on sweordes had;</div>
+<div class='line'>þæt he on Biowulfes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearm alegde</div>
+<div class='line'>ond him gesealde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>seofan þusendo,</div>
+<div class='line'>bold ond bregostol.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Him wæs bam samod</div>
+<div class='line'>on ðam leodscipe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lond gecynde,</div>
+<div class='line'>eard, eðelriht,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oðrum swiðor</div>
+<div class='line'>side rice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þam ðær selra wæs.</div>
+<div class='line'>Eft þæt geiode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ufaran dogrum</div>
+<div class='line'>hildehlæmmum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan Hygelac læg</div>
+<div class='line'>ond Heardrede<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hildemeceas</div>
+<div class='line'>under bordhreoðan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to bonan wurdon,</div>
+<div class='line'>ða hyne gesohtan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on sigeþeode</div>
+<div class='line'>hearde hildefrecan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Heaðoscilfingas,</div>
+<div class='line'>niða genægdan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nefan Hererices,</div>
+<div class='line'>syððan Beowulfe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>brade rice</div>
+<div class='line'>on hand gehwearf;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he geheold tela</div>
+<div class='line'>fiftig wintra<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(wæs ða frod cyning,</div>
+<div class='line'>eald eþelweard),<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððæt an ongan</div>
+<div class='line'>deorcum nihtum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>draca ricsian,</div>
+<div class='line'>se ðe on heaum hofe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hord beweotode,</div>
+<div class='line'>stanbeorh steapne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>stig under læg,</div>
+<div class='line'>eldum uncuð.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þær on innan giong</div>
+<div class='line'>niða nathwylc,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ðe neh gefeng</div>
+<div class='line'>hæðnum horde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hond ......,</div>
+<div class='line'>since fahne.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He þæt syððan ......,</div>
+<div class='line'>þeah ðe he slæpende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>besyred wurde</div>
+<div class='line'>þeofes cræfte;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt sie ðiod onfand,</div>
+<div class='line'>bufolc beorna,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he gebolgen wæs.</div>
   
-Nealles mid gewealdum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrmhord abræc  
-sylfes willum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe him sare gesceod,  
-ac for þreanedlan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeow nathwylces  
-hæleða bearna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heteswengeas fleah,  
-ærnes þearfa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond ðær inne fealh,  
-secg synbysig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sona onfunde  
-þæt þær ðam gyste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gryrebroga stod;  
-hwæðre earmsceapen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+<div class='line'>Nealles mid gewealdum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wyrmhord abræc</div>
+<div class='line'>sylfes willum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ðe him sare gesceod,</div>
+<div class='line'>ac for þreanedlan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeow nathwylces</div>
+<div class='line'>hæleða bearna<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heteswengeas fleah,</div>
+<div class='line'>ærnes þearfa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond ðær inne fealh,</div>
+<div class='line'>secg synbysig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sona onfunde</div>
+<div class='line'>þæt þær ðam gyste<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gryrebroga stod;</div>
+<div class='line'>hwæðre earmsceapen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
     ...sceapen  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa hyne se fær begeat.  
-Sincfæt ......;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær wæs swylcra fela  
-in ðam eorðhuse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ærgestreona,  
-swa hy on geardagum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumena nathwylc,  
-eormenlafe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþelan cynnes,  
-þanchycgende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær gehydde,  
-deore maðmas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ealle hie deað fornam  
-ærran mælum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond se an ða gen  
-leoda duguðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðær lengest hwearf,  
-weard winegeomor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wende þæs ylcan,  
-þæt he lytel fæc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;longgestreona  
-brucan moste.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beorh eallgearo  
-wunode on wonge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæteryðum neah,  
-niwe be næsse,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nearocræftum fæst.  
-Þær on innan bær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorlgestreona  
-hringa hyrde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hordwyrðne dæl,  
-fættan goldes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fea worda cwæð:  
-"Heald þu nu, hruse,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nu hæleð ne moston,  
-eorla æhte!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hwæt, hyt ær on ðe  
-gode begeaton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guðdeað fornam,  
-feorhbealo frecne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyra gehwylcne  
-leoda minra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þara ðe þis lif ofgeaf,  
-gesawon seledream.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic nah hwa sweord wege  
-oððe feormie&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæted wæge,  
-dryncfæt deore;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;duguð ellor sceoc.  
-Sceal se hearda helm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyrsted golde  
-fætum befeallen;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feormynd swefað,  
-þa ðe beadogriman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bywan sceoldon,  
-ge swylce seo herepad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sio æt hilde gebad  
-ofer borda gebræc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bite irena,  
-brosnað æfter beorne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne mæg byrnan hring  
-æfter wigfruman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide feran,  
-hæleðum be healfe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs hearpan wyn,  
-gomen gleobeames,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne god hafoc  
-geond sæl swingeð,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne se swifta mearh  
-burhstede beateð.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bealocwealm hafað  
-fela feorhcynna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð onsended!"  
-Swa giomormod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;giohðo mænde  
-an æfter eallum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unbliðe hwearf  
-dæges ond nihtes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt deaðes wylm  
-hran æt heortan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hordwynne fond  
-eald uhtsceaða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;opene standan,  
-se ðe byrnende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;biorgas seceð,  
-nacod niðdraca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nihtes fleogeð  
-fyre befangen;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyne foldbuend  
-swiðe ondrædað.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He gesecean sceall  
-hord on hrusan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he hæðen gold  
-warað wintrum frod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne byð him wihte ðy sel.  
-Swa se ðeodsceaða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þreo hund wintra  
-heold on hrusan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hordærna sum,  
-eacencræftig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt hyne an abealch  
-mon on mode;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mandryhtne bær  
-fæted wæge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frioðowære bæd  
-hlaford sinne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða wæs hord rasod,  
-onboren beaga hord,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bene getiðad  
-feasceaftum men.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frea sceawode  
-fira fyrngeweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forman siðe.  
-Þa se wyrm onwoc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wroht wæs geniwad;  
-stonc ða æfter stane,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stearcheort onfand  
-feondes fotlast;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he to forð gestop  
-dyrnan cræfte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dracan heafde neah.  
-Swa mæg unfæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eaðe gedigan  
-wean ond wræcsið,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe waldendes  
-hyldo gehealdeþ!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hordweard sohte  
-georne æfter grunde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wolde guman findan,  
-þone þe him on sweofote&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sare geteode,  
-hat ond hreohmod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlæw oft ymbehwearf  
-ealne utanweardne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne ðær ænig mon  
-on þære westenne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæðre wiges gefeh,  
-beaduwe weorces,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwilum on beorh æthwearf,  
-sincfæt sohte.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He þæt sona onfand  
-ðæt hæfde gumena sum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;goldes gefandod,  
-heahgestreona.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hordweard onbad  
-earfoðlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt æfen cwom;  
-wæs ða gebolgen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorges hyrde,  
-wolde se laða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lige forgyldan  
-drincfæt dyre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs dæg sceacen  
-wyrme on willan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no on wealle læg,  
-bidan wolde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac mid bæle for,  
-fyre gefysed.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs se fruma egeslic  
-leodum on lande,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hyt lungre wearð  
-on hyra sincgifan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sare geendod.  
+<div class='line'>Sincfæt ......;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær wæs swylcra fela</div>
+<div class='line'>in ðam eorðhuse<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ærgestreona,</div>
+<div class='line'>swa hy on geardagum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gumena nathwylc,</div>
+<div class='line'>eormenlafe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æþelan cynnes,</div>
+<div class='line'>þanchycgende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær gehydde,</div>
+<div class='line'>deore maðmas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ealle hie deað fornam</div>
+<div class='line'>ærran mælum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond se an ða gen</div>
+<div class='line'>leoda duguðe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ðær lengest hwearf,</div>
+<div class='line'>weard winegeomor,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wende þæs ylcan,</div>
+<div class='line'>þæt he lytel fæc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>longgestreona</div>
+<div class='line'>brucan moste.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Beorh eallgearo</div>
+<div class='line'>wunode on wonge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæteryðum neah,</div>
+<div class='line'>niwe be næsse,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nearocræftum fæst.</div>
+<div class='line'>Þær on innan bær<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eorlgestreona</div>
+<div class='line'>hringa hyrde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hordwyrðne dæl,</div>
+<div class='line'>fættan goldes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fea worda cwæð:</div>
+<div class='line'>"Heald þu nu, hruse,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nu hæleð ne moston,</div>
+<div class='line'>eorla æhte!<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hwæt, hyt ær on ðe</div>
+<div class='line'>gode begeaton.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Guðdeað fornam,</div>
+<div class='line'>feorhbealo frecne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fyra gehwylcne</div>
+<div class='line'>leoda minra,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þara ðe þis lif ofgeaf,</div>
+<div class='line'>gesawon seledream.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic nah hwa sweord wege</div>
+<div class='line'>oððe feormie<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæted wæge,</div>
+<div class='line'>dryncfæt deore;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>duguð ellor sceoc.</div>
+<div class='line'>Sceal se hearda helm<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hyrsted golde</div>
+<div class='line'>fætum befeallen;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feormynd swefað,</div>
+<div class='line'>þa ðe beadogriman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bywan sceoldon,</div>
+<div class='line'>ge swylce seo herepad,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sio æt hilde gebad</div>
+<div class='line'>ofer borda gebræc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bite irena,</div>
+<div class='line'>brosnað æfter beorne.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne mæg byrnan hring</div>
+<div class='line'>æfter wigfruman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wide feran,</div>
+<div class='line'>hæleðum be healfe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næs hearpan wyn,</div>
+<div class='line'>gomen gleobeames,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne god hafoc</div>
+<div class='line'>geond sæl swingeð,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne se swifta mearh</div>
+<div class='line'>burhstede beateð.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Bealocwealm hafað</div>
+<div class='line'>fela feorhcynna<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forð onsended!"</div>
+<div class='line'>Swa giomormod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>giohðo mænde</div>
+<div class='line'>an æfter eallum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>unbliðe hwearf</div>
+<div class='line'>dæges ond nihtes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððæt deaðes wylm</div>
+<div class='line'>hran æt heortan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hordwynne fond</div>
+<div class='line'>eald uhtsceaða<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>opene standan,</div>
+<div class='line'>se ðe byrnende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>biorgas seceð,</div>
+<div class='line'>nacod niðdraca,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nihtes fleogeð</div>
+<div class='line'>fyre befangen;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hyne foldbuend</div>
+<div class='line'>swiðe ondrædað.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He gesecean sceall</div>
+<div class='line'>hord on hrusan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær he hæðen gold</div>
+<div class='line'>warað wintrum frod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne byð him wihte ðy sel.</div>
+<div class='line'>Swa se ðeodsceaða<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þreo hund wintra</div>
+<div class='line'>heold on hrusan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hordærna sum,</div>
+<div class='line'>eacencræftig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððæt hyne an abealch</div>
+<div class='line'>mon on mode;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mandryhtne bær</div>
+<div class='line'>fæted wæge,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frioðowære bæd</div>
+<div class='line'>hlaford sinne.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ða wæs hord rasod,</div>
+<div class='line'>onboren beaga hord,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bene getiðad</div>
+<div class='line'>feasceaftum men.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Frea sceawode</div>
+<div class='line'>fira fyrngeweorc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forman siðe.</div>
+<div class='line'>Þa se wyrm onwoc,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wroht wæs geniwad;</div>
+<div class='line'>stonc ða æfter stane,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>stearcheort onfand</div>
+<div class='line'>feondes fotlast;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he to forð gestop</div>
+<div class='line'>dyrnan cræfte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dracan heafde neah.</div>
+<div class='line'>Swa mæg unfæge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eaðe gedigan</div>
+<div class='line'>wean ond wræcsið,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ðe waldendes</div>
+<div class='line'>hyldo gehealdeþ!<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hordweard sohte</div>
+<div class='line'>georne æfter grunde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wolde guman findan,</div>
+<div class='line'>þone þe him on sweofote<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sare geteode,</div>
+<div class='line'>hat ond hreohmod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hlæw oft ymbehwearf</div>
+<div class='line'>ealne utanweardne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne ðær ænig mon</div>
+<div class='line'>on þære westenne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwæðre wiges gefeh,</div>
+<div class='line'>beaduwe weorces,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwilum on beorh æthwearf,</div>
+<div class='line'>sincfæt sohte.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He þæt sona onfand</div>
+<div class='line'>ðæt hæfde gumena sum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>goldes gefandod,</div>
+<div class='line'>heahgestreona.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hordweard onbad</div>
+<div class='line'>earfoðlice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððæt æfen cwom;</div>
+<div class='line'>wæs ða gebolgen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beorges hyrde,</div>
+<div class='line'>wolde se laða<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lige forgyldan</div>
+<div class='line'>drincfæt dyre.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa wæs dæg sceacen</div>
+<div class='line'>wyrme on willan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>no on wealle læg,</div>
+<div class='line'>bidan wolde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac mid bæle for,</div>
+<div class='line'>fyre gefysed.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wæs se fruma egeslic</div>
+<div class='line'>leodum on lande,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hyt lungre wearð</div>
+<div class='line'>on hyra sincgifan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sare geendod.</div>
   
-Ða se gæst ongan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gledum spiwan,  
-beorht hofu bærnan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bryneleoma stod  
-eldum on andan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No ðær aht cwices  
-lað lyftfloga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læfan wolde.  
-Wæs þæs wyrmes wig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide gesyne,  
-nearofages nið&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nean ond feorran,  
-hu se guðsceaða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leode  
-hatode ond hynde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord eft gesceat,  
-dryhtsele dyrnne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær dæges hwile.  
-Hæfde landwara&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lige befangen,  
-bæle ond bronde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorges getruwode,  
-wiges ond wealles;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him seo wen geleah.  
-Þa wæs Biowulfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;broga gecyðed  
-snude to soðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt his sylfes ham,  
-bolda selest,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brynewylmum mealt,  
-gifstol Geata.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt ðam godan wæs  
-hreow on hreðre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hygesorga mæst;  
-wende se wisa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he wealdende  
-ofer ealde riht,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ecean dryhtne,  
-bitre gebulge.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Breost innan weoll  
-þeostrum geþoncum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him geþywe ne wæs.  
-Hæfde ligdraca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leoda fæsten,  
-ealond utan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorðweard ðone  
-gledum forgrunden;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him ðæs guðkyning,  
-Wedera þioden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wræce leornode.  
-Heht him þa gewyrcean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigendra hleo  
-eallirenne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorla dryhten,  
-wigbord wrætlic;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wisse he gearwe  
-þæt him holtwudu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helpan ne meahte,  
-lind wið lige.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sceolde lændaga  
-æþeling ærgod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende gebidan,  
-worulde lifes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond se wyrm somod,  
-þeah ðe hordwelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heolde lange.  
-Oferhogode ða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringa fengel  
-þæt he þone widflogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorode gesohte,  
-sidan herge;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no he him þa sæcce ondred,  
-ne him þæs wyrmes wig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for wiht dyde,  
-eafoð ond ellen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forðon he ær fela  
-nearo neðende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niða gedigde,  
-hildehlemma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan he Hroðgares,  
-sigoreadig secg,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sele fælsode  
-ond æt guðe forgrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Grendeles mægum  
-laðan cynnes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No þæt læsest wæs  
-hondgemota,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær mon Hygelac sloh,  
-syððan Geata cyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðe ræsum,  
-freawine folca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Freslondum on,  
-Hreðles eafora&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hiorodryncum swealt,  
-bille gebeaten.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þonan Biowulf com  
-sylfes cræfte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sundnytte dreah;  
-hæfde him on earme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ana XXX  
-hildegeatwa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he to holme beag.  
-Nealles Hetware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hremge þorfton  
-feðewiges,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe him foran ongean  
-linde bæron;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lyt eft becwom  
-fram þam hildfrecan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hames niosan.  
-Oferswam ða sioleða bigong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Ecgðeowes,  
-earm anhaga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft to leodum;  
-þær him Hygd gebead&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord ond rice,  
-beagas ond bregostol,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearne ne truwode  
-þæt he wið ælfylcum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eþelstolas  
-healdan cuðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða wæs Hygelac dead.  
-No ðy ær feasceafte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;findan meahton  
-æt ðam æðelinge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænige ðinga,  
-þæt he Heardrede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlaford wære  
-oððe þone cynedom&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ciosan wolde;  
-hwæðre he him on folce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;freondlarum heold,  
-estum mid are,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt he yldra wearð,  
-Wedergeatum weold.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyne wræcmæcgas  
-ofer sæ sohtan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;suna Ohteres;  
-hæfdon hy forhealden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm Scylfinga,  
-þone selestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sæcyninga  
-þara ðe in Swiorice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sinc brytnade,  
-mærne þeoden.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him þæt to mearce wearð;  
-he þær for feorme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorhwunde hleat  
-sweordes swengum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Hygelaces,  
-ond him eft gewat&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ongenðioes bearn  
-hames niosan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan Heardred læg,  
-let ðone bregostol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biowulf healdan,  
-Geatum wealdan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þæt wæs god cyning!  
+<div class='line'>Ða se gæst ongan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gledum spiwan,</div>
+<div class='line'>beorht hofu bærnan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bryneleoma stod</div>
+<div class='line'>eldum on andan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>No ðær aht cwices</div>
+<div class='line'>lað lyftfloga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>læfan wolde.</div>
+<div class='line'>Wæs þæs wyrmes wig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wide gesyne,</div>
+<div class='line'>nearofages nið<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nean ond feorran,</div>
+<div class='line'>hu se guðsceaða<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geata leode</div>
+<div class='line'>hatode ond hynde;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hord eft gesceat,</div>
+<div class='line'>dryhtsele dyrnne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær dæges hwile.</div>
+<div class='line'>Hæfde landwara<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lige befangen,</div>
+<div class='line'>bæle ond bronde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beorges getruwode,</div>
+<div class='line'>wiges ond wealles;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>him seo wen geleah.</div>
+<div class='line'>Þa wæs Biowulfe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>broga gecyðed</div>
+<div class='line'>snude to soðe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt his sylfes ham,</div>
+<div class='line'>bolda selest,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>brynewylmum mealt,</div>
+<div class='line'>gifstol Geata.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þæt ðam godan wæs</div>
+<div class='line'>hreow on hreðre,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hygesorga mæst;</div>
+<div class='line'>wende se wisa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he wealdende</div>
+<div class='line'>ofer ealde riht,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ecean dryhtne,</div>
+<div class='line'>bitre gebulge.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Breost innan weoll</div>
+<div class='line'>þeostrum geþoncum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa him geþywe ne wæs.</div>
+<div class='line'>Hæfde ligdraca<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leoda fæsten,</div>
+<div class='line'>ealond utan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eorðweard ðone</div>
+<div class='line'>gledum forgrunden;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>him ðæs guðkyning,</div>
+<div class='line'>Wedera þioden,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wræce leornode.</div>
+<div class='line'>Heht him þa gewyrcean<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wigendra hleo</div>
+<div class='line'>eallirenne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eorla dryhten,</div>
+<div class='line'>wigbord wrætlic;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wisse he gearwe</div>
+<div class='line'>þæt him holtwudu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helpan ne meahte,</div>
+<div class='line'>lind wið lige.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sceolde lændaga</div>
+<div class='line'>æþeling ærgod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ende gebidan,</div>
+<div class='line'>worulde lifes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond se wyrm somod,</div>
+<div class='line'>þeah ðe hordwelan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heolde lange.</div>
+<div class='line'>Oferhogode ða<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hringa fengel</div>
+<div class='line'>þæt he þone widflogan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weorode gesohte,</div>
+<div class='line'>sidan herge;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>no he him þa sæcce ondred,</div>
+<div class='line'>ne him þæs wyrmes wig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>for wiht dyde,</div>
+<div class='line'>eafoð ond ellen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forðon he ær fela</div>
+<div class='line'>nearo neðende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>niða gedigde,</div>
+<div class='line'>hildehlemma,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan he Hroðgares,</div>
+<div class='line'>sigoreadig secg,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sele fælsode</div>
+<div class='line'>ond æt guðe forgrap<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Grendeles mægum</div>
+<div class='line'>laðan cynnes.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>No þæt læsest wæs</div>
+<div class='line'>hondgemota,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær mon Hygelac sloh,</div>
+<div class='line'>syððan Geata cyning<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guðe ræsum,</div>
+<div class='line'>freawine folca<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Freslondum on,</div>
+<div class='line'>Hreðles eafora<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hiorodryncum swealt,</div>
+<div class='line'>bille gebeaten.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þonan Biowulf com</div>
+<div class='line'>sylfes cræfte,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sundnytte dreah;</div>
+<div class='line'>hæfde him on earme<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ana XXX</div>
+<div class='line'>hildegeatwa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa he to holme beag.</div>
+<div class='line'>Nealles Hetware<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hremge þorfton</div>
+<div class='line'>feðewiges,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe him foran ongean</div>
+<div class='line'>linde bæron;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lyt eft becwom</div>
+<div class='line'>fram þam hildfrecan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hames niosan.</div>
+<div class='line'>Oferswam ða sioleða bigong<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu Ecgðeowes,</div>
+<div class='line'>earm anhaga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eft to leodum;</div>
+<div class='line'>þær him Hygd gebead<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hord ond rice,</div>
+<div class='line'>beagas ond bregostol,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearne ne truwode</div>
+<div class='line'>þæt he wið ælfylcum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eþelstolas</div>
+<div class='line'>healdan cuðe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða wæs Hygelac dead.</div>
+<div class='line'>No ðy ær feasceafte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>findan meahton</div>
+<div class='line'>æt ðam æðelinge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ænige ðinga,</div>
+<div class='line'>þæt he Heardrede<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hlaford wære</div>
+<div class='line'>oððe þone cynedom<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ciosan wolde;</div>
+<div class='line'>hwæðre he him on folce<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>freondlarum heold,</div>
+<div class='line'>estum mid are,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððæt he yldra wearð,</div>
+<div class='line'>Wedergeatum weold.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hyne wræcmæcgas</div>
+<div class='line'>ofer sæ sohtan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>suna Ohteres;</div>
+<div class='line'>hæfdon hy forhealden<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helm Scylfinga,</div>
+<div class='line'>þone selestan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sæcyninga</div>
+<div class='line'>þara ðe in Swiorice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sinc brytnade,</div>
+<div class='line'>mærne þeoden.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Him þæt to mearce wearð;</div>
+<div class='line'>he þær for feorme<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorhwunde hleat</div>
+<div class='line'>sweordes swengum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu Hygelaces,</div>
+<div class='line'>ond him eft gewat<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ongenðioes bearn</div>
+<div class='line'>hames niosan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan Heardred læg,</div>
+<div class='line'>let ðone bregostol<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Biowulf healdan,</div>
+<div class='line'>Geatum wealdan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þæt wæs god cyning!</div>
   
-Se ðæs leodhryres&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lean gemunde  
-uferan dogrum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eadgilse wearð  
-feasceaftum freond,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folce gestepte  
-ofer sæ side&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Ohteres,  
-wigum ond wæpnum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he gewræc syððan  
-cealdum cearsiðum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cyning ealdre bineat.  
-Swa he niða gehwane&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;genesen hæfde,  
-sliðra geslyhta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Ecgðiowes,  
-ellenweorca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oð ðone anne dæg  
-þe he wið þam wyrme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gewegan sceolde.  
-Gewat þa XIIa sum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;torne gebolgen  
-dryhten Geata&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dracan sceawian.  
-Hæfde þa gefrunen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwanan sio fæhð aras,  
-bealonið biorna;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him to bearme cwom  
-maðþumfæt mære&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þurh ðæs meldan hond.  
-Se wæs on ðam ðreate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þreotteoða secg,  
-se ðæs orleges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;or onstealde,  
-hæft hygegiomor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceolde hean ðonon  
-wong wisian.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He ofer willan giong  
-to ðæs ðe he eorðsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anne wisse,  
-hlæw under hrusan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;holmwylme neh,  
-yðgewinne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se wæs innan full  
-wrætta ond wira.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weard unhiore,  
-gearo guðfreca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;goldmaðmas heold,  
-eald under eorðan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs þæt yðe ceap  
-to gegangenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumena ænigum!  
-Gesæt ða on næsse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;niðheard cyning,  
-þenden hælo abead&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorðgeneatum,  
-goldwine Geata.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him wæs geomor sefa,  
-wæfre ond wælfus,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrd ungemete neah,  
-se ðone gomelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gretan sceolde,  
-secean sawle hord,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sundur gedælan  
-lif wið lice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no þon lange wæs  
-feorh æþelinges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flæsce bewunden.  
-Biowulf maþelade,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bearn Ecgðeowes:  
-"Fela ic on giogoðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðræsa genæs,  
-orleghwila;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic þæt eall gemon.  
-Ic wæs syfanwintre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa mec sinca baldor,  
-freawine folca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt minum fæder genam;  
-heold mec ond hæfde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hreðel cyning,  
-geaf me sinc ond symbel,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sibbe gemunde.  
-Næs ic him to life&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;laðra owihte,  
-beorn in burgum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne his bearna hwylc,  
-Herebeald ond Hæðcyn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe Hygelac min.  
-Wæs þam yldestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ungedefelice  
-mæges dædum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;morþorbed stred,  
-syððan hyne Hæðcyn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of hornbogan,  
-his freawine,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flane geswencte,  
-miste mercelses&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his mæg ofscet,  
-broðor oðerne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;blodigan gare.  
-Þæt wæs feohleas gefeoht,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrenum gesyngad,  
-hreðre hygemeðe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceolde hwæðre swa þeah  
-æðeling unwrecen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdres linnan.  
-Swa bið geomorlic&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gomelum ceorle  
-to gebidanne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt his byre ride  
-giong on galgan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne he gyd wrece,  
-sarigne sang,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne his sunu hangað  
-hrefne to hroðre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond he him helpe ne mæg,  
-eald ond infrod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænige gefremman.  
-Symble bið gemyndgad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;morna gehwylce  
-eaforan ellorsið;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðres ne gymeð  
-to gebidanne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;burgum in innan  
-yrfeweardas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne se an hafað  
-þurh deaðes nyd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dæda gefondad.  
-Gesyhð sorhcearig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on his suna bure  
-winsele westne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;windge reste  
-reote berofene.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ridend swefað,  
-hæleð in hoðman;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nis þær hearpan sweg,  
-gomen in geardum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce ðær iu wæron.  
+<div class='line'>Se ðæs leodhryres<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lean gemunde</div>
+<div class='line'>uferan dogrum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Eadgilse wearð</div>
+<div class='line'>feasceaftum freond,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>folce gestepte</div>
+<div class='line'>ofer sæ side<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu Ohteres,</div>
+<div class='line'>wigum ond wæpnum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he gewræc syððan</div>
+<div class='line'>cealdum cearsiðum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cyning ealdre bineat.</div>
+<div class='line'>Swa he niða gehwane<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>genesen hæfde,</div>
+<div class='line'>sliðra geslyhta,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu Ecgðiowes,</div>
+<div class='line'>ellenweorca,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oð ðone anne dæg</div>
+<div class='line'>þe he wið þam wyrme<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gewegan sceolde.</div>
+<div class='line'>Gewat þa XIIa sum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>torne gebolgen</div>
+<div class='line'>dryhten Geata<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dracan sceawian.</div>
+<div class='line'>Hæfde þa gefrunen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwanan sio fæhð aras,</div>
+<div class='line'>bealonið biorna;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>him to bearme cwom</div>
+<div class='line'>maðþumfæt mære<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þurh ðæs meldan hond.</div>
+<div class='line'>Se wæs on ðam ðreate<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þreotteoða secg,</div>
+<div class='line'>se ðæs orleges<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>or onstealde,</div>
+<div class='line'>hæft hygegiomor,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sceolde hean ðonon</div>
+<div class='line'>wong wisian.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He ofer willan giong</div>
+<div class='line'>to ðæs ðe he eorðsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>anne wisse,</div>
+<div class='line'>hlæw under hrusan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>holmwylme neh,</div>
+<div class='line'>yðgewinne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se wæs innan full</div>
+<div class='line'>wrætta ond wira.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Weard unhiore,</div>
+<div class='line'>gearo guðfreca,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>goldmaðmas heold,</div>
+<div class='line'>eald under eorðan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næs þæt yðe ceap</div>
+<div class='line'>to gegangenne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gumena ænigum!</div>
+<div class='line'>Gesæt ða on næsse<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>niðheard cyning,</div>
+<div class='line'>þenden hælo abead<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heorðgeneatum,</div>
+<div class='line'>goldwine Geata.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Him wæs geomor sefa,</div>
+<div class='line'>wæfre ond wælfus,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wyrd ungemete neah,</div>
+<div class='line'>se ðone gomelan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gretan sceolde,</div>
+<div class='line'>secean sawle hord,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sundur gedælan</div>
+<div class='line'>lif wið lice,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>no þon lange wæs</div>
+<div class='line'>feorh æþelinges<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>flæsce bewunden.</div>
+<div class='line'>Biowulf maþelade,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bearn Ecgðeowes:</div>
+<div class='line'>"Fela ic on giogoðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guðræsa genæs,</div>
+<div class='line'>orleghwila;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ic þæt eall gemon.</div>
+<div class='line'>Ic wæs syfanwintre,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa mec sinca baldor,</div>
+<div class='line'>freawine folca,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æt minum fæder genam;</div>
+<div class='line'>heold mec ond hæfde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hreðel cyning,</div>
+<div class='line'>geaf me sinc ond symbel,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sibbe gemunde.</div>
+<div class='line'>Næs ic him to life<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>laðra owihte,</div>
+<div class='line'>beorn in burgum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne his bearna hwylc,</div>
+<div class='line'>Herebeald ond Hæðcyn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððe Hygelac min.</div>
+<div class='line'>Wæs þam yldestan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ungedefelice</div>
+<div class='line'>mæges dædum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>morþorbed stred,</div>
+<div class='line'>syððan hyne Hæðcyn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>of hornbogan,</div>
+<div class='line'>his freawine,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>flane geswencte,</div>
+<div class='line'>miste mercelses<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond his mæg ofscet,</div>
+<div class='line'>broðor oðerne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>blodigan gare.</div>
+<div class='line'>Þæt wæs feohleas gefeoht,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fyrenum gesyngad,</div>
+<div class='line'>hreðre hygemeðe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sceolde hwæðre swa þeah</div>
+<div class='line'>æðeling unwrecen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdres linnan.</div>
+<div class='line'>Swa bið geomorlic<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gomelum ceorle</div>
+<div class='line'>to gebidanne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt his byre ride</div>
+<div class='line'>giong on galgan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne he gyd wrece,</div>
+<div class='line'>sarigne sang,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne his sunu hangað</div>
+<div class='line'>hrefne to hroðre,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond he him helpe ne mæg,</div>
+<div class='line'>eald ond infrod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ænige gefremman.</div>
+<div class='line'>Symble bið gemyndgad<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>morna gehwylce</div>
+<div class='line'>eaforan ellorsið;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oðres ne gymeð</div>
+<div class='line'>to gebidanne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>burgum in innan</div>
+<div class='line'>yrfeweardas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne se an hafað</div>
+<div class='line'>þurh deaðes nyd<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dæda gefondad.</div>
+<div class='line'>Gesyhð sorhcearig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on his suna bure</div>
+<div class='line'>winsele westne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>windge reste</div>
+<div class='line'>reote berofene.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ridend swefað,</div>
+<div class='line'>hæleð in hoðman;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nis þær hearpan sweg,</div>
+<div class='line'>gomen in geardum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swylce ðær iu wæron.</div>
   
-Gewiteð þonne on sealman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sorhleoð gæleð  
-an æfter anum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þuhte him eall to rum,  
-wongas ond wicstede.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swa Wedra helm  
-æfter Herebealde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heortan sorge  
-weallende wæg.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wihte ne meahte  
-on ðam feorhbonan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæghðe gebetan;  
-no ðy ær he þone heaðorinc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hatian ne meahte  
-laðum dædum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah him leof ne wæs.  
-He ða mid þære sorhge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe him swa sar belamp,  
-gumdream ofgeaf,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;godes leoht geceas,  
-eaferum læfde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa deð eadig mon,  
-lond ond leodbyrig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he of life gewat.  
-Þa wæs synn ond sacu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweona ond Geata  
-ofer wid wæter,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wroht gemæne,  
-herenið hearda,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan Hreðel swealt,  
-oððe him Ongenðeowes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eaferan wæran  
-frome, fyrdhwate,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;freode ne woldon  
-ofer heafo healdan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac ymb Hreosnabeorh  
-eatolne inwitscear&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oft gefremedon.  
-Þæt mægwine&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine gewræcan,  
-fæhðe ond fyrene,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hyt gefræge wæs,  
-þeah ðe oðer his&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdre gebohte,  
-heardan ceape;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hæðcynne wearð,  
-Geata dryhtne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guð onsæge.  
-Þa ic on morgne gefrægn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæg oðerne  
-billes ecgum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on bonan stælan,  
-þær Ongenþeow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eofores niosað.  
-Guðhelm toglad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gomela Scylfing  
-hreas hildeblac;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hond gemunde  
-fæhðo genoge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorhsweng ne ofteah.  
-Ic him þa maðmas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe he me sealde,  
-geald æt guðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa me gifeðe wæs,  
-leohtan sweorde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he me lond forgeaf,  
-eard, eðelwyn.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs him ænig þearf  
-þæt he to Gifðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe to Gardenum  
-oððe in Swiorice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secean þurfe  
-wyrsan wigfrecan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorðe gecypan.  
-Symle ic him on feðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beforan wolde,  
-ana on orde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond swa to aldre sceall  
-sæcce fremman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þenden þis sweord þolað,  
-þæt mec ær ond sið&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oft gelæste.  
-Syððan ic for dugeðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dæghrefne wearð  
-to handbonan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Huga cempan;  
-nalles he ða frætwe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frescyninge,  
-breostweorðunge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bringan moste,  
-ac in compe gecrong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cumbles hyrde,  
-æþeling on elne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne wæs ecg bona,  
-ac him hildegrap&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heortan wylmas,  
-banhus gebræc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu sceall billes ecg,  
-hond ond heard sweord,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ymb hord wigan."  
-Beowulf maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beotwordum spræc  
-niehstan siðe:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Ic geneðde fela  
-guða on geogoðe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyt ic wylle,  
-frod folces weard,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæhðe secan,  
-mærðu fremman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif mec se mansceaða  
-of eorðsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ut geseceð."  
-Gegrette ða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumena gehwylcne,  
-hwate helmberend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hindeman siðe,  
-swæse gesiðas:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Nolde ic sweord beran,  
-wæpen to wyrme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gif ic wiste hu  
-wið ðam aglæcean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;elles meahte  
-gylpe wiðgripan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa ic gio wið Grendle dyde.  
-Ac ic ðær heaðufyres&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hates wene,  
-oreðes ond attres;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forðon ic me on hafu  
-bord ond byrnan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nelle ic beorges weard  
-forfleon fotes trem,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac unc furður sceal  
-weorðan æt wealle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa unc wyrd geteoð,  
-metod manna gehwæs.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic eom on mode from  
-þæt ic wið þone guðflogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gylp ofersitte.  
-Gebide ge on beorge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byrnum werede,  
-secgas on searwum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæðer sel mæge  
-æfter wælræse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wunde gedygan  
-uncer twega.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nis þæt eower sið  
-ne gemet mannes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nefne min anes,  
-þæt he wið aglæcean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eofoðo dæle,  
-eorlscype efne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic mid elne sceall  
-gold gegangan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe guð nimeð,  
-feorhbealu frecne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frean eowerne!"  
-Aras ða bi ronde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rof oretta,  
-heard under helme,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hiorosercean bær  
-under stancleofu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strengo getruwode  
-anes mannes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne bið swylc earges sið!  
-Geseah ða be wealle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe worna fela,  
-gumcystum god,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guða gedigde,  
-hildehlemma,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne hnitan feðan,  
-stondan stanbogan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stream ut þonan  
-brecan of beorge.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs þære burnan wælm  
-heaðofyrum hat;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne meahte horde neah  
-unbyrnende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænige hwile  
-deop gedygan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for dracan lege.  
-Let ða of breostum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða he gebolgen wæs,  
-Wedergeata leod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;word ut faran,  
-stearcheort styrmde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stefn in becom  
-heaðotorht hlynnan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under harne stan.  
-Hete wæs onhrered,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hordweard oncniow  
-mannes reorde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs ðær mara fyrst  
-freode to friclan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;From ærest cwom  
-oruð aglæcean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ut of stane,  
-hat hildeswat.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hruse dynede.  
-Biorn under beorge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bordrand onswaf  
-wið ðam gryregieste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata dryhten;  
-ða wæs hringbogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorte gefysed  
-sæcce to seceanne.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweord ær gebræd  
-god guðcyning,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gomele lafe,  
-ecgum unslaw;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æghwæðrum wæs  
-bealohycgendra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;broga fram oðrum.  
-Stiðmod gestod&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wið steapne rond  
-winia bealdor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða se wyrm gebeah  
-snude tosomne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he on searwum bad.  
-Gewat ða byrnende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gebogen scriðan,  
-to gescipe scyndan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scyld wel gebearg  
-life ond lice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læssan hwile  
-mærum þeodne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne his myne sohte,  
-ðær he þy fyrste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forman dogore  
-wealdan moste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him wyrd ne gescraf  
-hreð æt hilde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hond up abræd  
-Geata dryhten,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gryrefahne sloh  
-incgelafe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt sio ecg gewac  
-brun on bane,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bat unswiðor  
-þonne his ðiodcyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þearfe hæfde,  
-bysigum gebæded.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs beorges weard  
-æfter heaðuswenge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on hreoum mode,  
-wearp wælfyre;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide sprungon  
-hildeleoman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hreðsigora ne gealp  
-goldwine Geata;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðbill geswac,  
-nacod æt niðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hyt no sceolde,  
-iren ærgod.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne wæs þæt eðe sið,  
-þæt se mæra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maga Ecgðeowes  
-grundwong þone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ofgyfan wolde;  
-sceolde ofer willan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wic eardian  
-elles hwergen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa sceal æghwylc mon  
-alætan lændagas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs ða long to ðon  
-þæt ða aglæcean hy&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eft gemetton.  
-Hyrte hyne hordweard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(hreðer æðme weoll)  
-niwan stefne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nearo ðrowode,  
-fyre befongen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe ær folce weold.  
-Nealles him on heape&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;handgesteallan,  
-æðelinga bearn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ymbe gestodon  
-hildecystum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac hy on holt bugon,  
-ealdre burgan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hiora in anum weoll  
-sefa wið sorgum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sibb æfre ne mæg  
-wiht onwendan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þam ðe wel þenceð.  
+<div class='line'>Gewiteð þonne on sealman,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sorhleoð gæleð</div>
+<div class='line'>an æfter anum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þuhte him eall to rum,</div>
+<div class='line'>wongas ond wicstede.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Swa Wedra helm</div>
+<div class='line'>æfter Herebealde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heortan sorge</div>
+<div class='line'>weallende wæg.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wihte ne meahte</div>
+<div class='line'>on ðam feorhbonan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæghðe gebetan;</div>
+<div class='line'>no ðy ær he þone heaðorinc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hatian ne meahte</div>
+<div class='line'>laðum dædum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah him leof ne wæs.</div>
+<div class='line'>He ða mid þære sorhge,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe him swa sar belamp,</div>
+<div class='line'>gumdream ofgeaf,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>godes leoht geceas,</div>
+<div class='line'>eaferum læfde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa deð eadig mon,</div>
+<div class='line'>lond ond leodbyrig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa he of life gewat.</div>
+<div class='line'>Þa wæs synn ond sacu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sweona ond Geata</div>
+<div class='line'>ofer wid wæter,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wroht gemæne,</div>
+<div class='line'>herenið hearda,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan Hreðel swealt,</div>
+<div class='line'>oððe him Ongenðeowes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eaferan wæran</div>
+<div class='line'>frome, fyrdhwate,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>freode ne woldon</div>
+<div class='line'>ofer heafo healdan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac ymb Hreosnabeorh</div>
+<div class='line'>eatolne inwitscear<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oft gefremedon.</div>
+<div class='line'>Þæt mægwine<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mine gewræcan,</div>
+<div class='line'>fæhðe ond fyrene,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hyt gefræge wæs,</div>
+<div class='line'>þeah ðe oðer his<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdre gebohte,</div>
+<div class='line'>heardan ceape;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hæðcynne wearð,</div>
+<div class='line'>Geata dryhtne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guð onsæge.</div>
+<div class='line'>Þa ic on morgne gefrægn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mæg oðerne</div>
+<div class='line'>billes ecgum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on bonan stælan,</div>
+<div class='line'>þær Ongenþeow<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Eofores niosað.</div>
+<div class='line'>Guðhelm toglad,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gomela Scylfing</div>
+<div class='line'>hreas hildeblac;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hond gemunde</div>
+<div class='line'>fæhðo genoge,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorhsweng ne ofteah.</div>
+<div class='line'>Ic him þa maðmas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe he me sealde,</div>
+<div class='line'>geald æt guðe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa me gifeðe wæs,</div>
+<div class='line'>leohtan sweorde;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he me lond forgeaf,</div>
+<div class='line'>eard, eðelwyn.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næs him ænig þearf</div>
+<div class='line'>þæt he to Gifðum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððe to Gardenum</div>
+<div class='line'>oððe in Swiorice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secean þurfe</div>
+<div class='line'>wyrsan wigfrecan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weorðe gecypan.</div>
+<div class='line'>Symle ic him on feðan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beforan wolde,</div>
+<div class='line'>ana on orde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond swa to aldre sceall</div>
+<div class='line'>sæcce fremman,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þenden þis sweord þolað,</div>
+<div class='line'>þæt mec ær ond sið<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oft gelæste.</div>
+<div class='line'>Syððan ic for dugeðum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Dæghrefne wearð</div>
+<div class='line'>to handbonan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Huga cempan;</div>
+<div class='line'>nalles he ða frætwe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Frescyninge,</div>
+<div class='line'>breostweorðunge,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bringan moste,</div>
+<div class='line'>ac in compe gecrong<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cumbles hyrde,</div>
+<div class='line'>æþeling on elne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne wæs ecg bona,</div>
+<div class='line'>ac him hildegrap<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heortan wylmas,</div>
+<div class='line'>banhus gebræc.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nu sceall billes ecg,</div>
+<div class='line'>hond ond heard sweord,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ymb hord wigan."</div>
+<div class='line'>Beowulf maðelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beotwordum spræc</div>
+<div class='line'>niehstan siðe:<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>"Ic geneðde fela</div>
+<div class='line'>guða on geogoðe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gyt ic wylle,</div>
+<div class='line'>frod folces weard,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæhðe secan,</div>
+<div class='line'>mærðu fremman,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gif mec se mansceaða</div>
+<div class='line'>of eorðsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ut geseceð."</div>
+<div class='line'>Gegrette ða<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gumena gehwylcne,</div>
+<div class='line'>hwate helmberend,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hindeman siðe,</div>
+<div class='line'>swæse gesiðas:<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>"Nolde ic sweord beran,</div>
+<div class='line'>wæpen to wyrme,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gif ic wiste hu</div>
+<div class='line'>wið ðam aglæcean<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>elles meahte</div>
+<div class='line'>gylpe wiðgripan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa ic gio wið Grendle dyde.</div>
+<div class='line'>Ac ic ðær heaðufyres<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hates wene,</div>
+<div class='line'>oreðes ond attres;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forðon ic me on hafu</div>
+<div class='line'>bord ond byrnan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nelle ic beorges weard</div>
+<div class='line'>forfleon fotes trem,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac unc furður sceal</div>
+<div class='line'>weorðan æt wealle,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa unc wyrd geteoð,</div>
+<div class='line'>metod manna gehwæs.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic eom on mode from</div>
+<div class='line'>þæt ic wið þone guðflogan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gylp ofersitte.</div>
+<div class='line'>Gebide ge on beorge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>byrnum werede,</div>
+<div class='line'>secgas on searwum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwæðer sel mæge</div>
+<div class='line'>æfter wælræse<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wunde gedygan</div>
+<div class='line'>uncer twega.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nis þæt eower sið</div>
+<div class='line'>ne gemet mannes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nefne min anes,</div>
+<div class='line'>þæt he wið aglæcean<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eofoðo dæle,</div>
+<div class='line'>eorlscype efne.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic mid elne sceall</div>
+<div class='line'>gold gegangan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððe guð nimeð,</div>
+<div class='line'>feorhbealu frecne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frean eowerne!"</div>
+<div class='line'>Aras ða bi ronde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>rof oretta,</div>
+<div class='line'>heard under helme,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hiorosercean bær</div>
+<div class='line'>under stancleofu,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>strengo getruwode</div>
+<div class='line'>anes mannes.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne bið swylc earges sið!</div>
+<div class='line'>Geseah ða be wealle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ðe worna fela,</div>
+<div class='line'>gumcystum god,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guða gedigde,</div>
+<div class='line'>hildehlemma,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne hnitan feðan,</div>
+<div class='line'>stondan stanbogan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>stream ut þonan</div>
+<div class='line'>brecan of beorge.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wæs þære burnan wælm</div>
+<div class='line'>heaðofyrum hat;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne meahte horde neah</div>
+<div class='line'>unbyrnende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ænige hwile</div>
+<div class='line'>deop gedygan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>for dracan lege.</div>
+<div class='line'>Let ða of breostum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða he gebolgen wæs,</div>
+<div class='line'>Wedergeata leod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>word ut faran,</div>
+<div class='line'>stearcheort styrmde;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>stefn in becom</div>
+<div class='line'>heaðotorht hlynnan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>under harne stan.</div>
+<div class='line'>Hete wæs onhrered,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hordweard oncniow</div>
+<div class='line'>mannes reorde;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>næs ðær mara fyrst</div>
+<div class='line'>freode to friclan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>From ærest cwom</div>
+<div class='line'>oruð aglæcean<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ut of stane,</div>
+<div class='line'>hat hildeswat.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hruse dynede.</div>
+<div class='line'>Biorn under beorge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bordrand onswaf</div>
+<div class='line'>wið ðam gryregieste,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geata dryhten;</div>
+<div class='line'>ða wæs hringbogan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heorte gefysed</div>
+<div class='line'>sæcce to seceanne.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sweord ær gebræd</div>
+<div class='line'>god guðcyning,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gomele lafe,</div>
+<div class='line'>ecgum unslaw;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æghwæðrum wæs</div>
+<div class='line'>bealohycgendra<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>broga fram oðrum.</div>
+<div class='line'>Stiðmod gestod<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wið steapne rond</div>
+<div class='line'>winia bealdor,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða se wyrm gebeah</div>
+<div class='line'>snude tosomne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he on searwum bad.</div>
+<div class='line'>Gewat ða byrnende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gebogen scriðan,</div>
+<div class='line'>to gescipe scyndan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Scyld wel gebearg</div>
+<div class='line'>life ond lice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>læssan hwile</div>
+<div class='line'>mærum þeodne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne his myne sohte,</div>
+<div class='line'>ðær he þy fyrste,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forman dogore</div>
+<div class='line'>wealdan moste<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa him wyrd ne gescraf</div>
+<div class='line'>hreð æt hilde.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hond up abræd</div>
+<div class='line'>Geata dryhten,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gryrefahne sloh</div>
+<div class='line'>incgelafe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt sio ecg gewac</div>
+<div class='line'>brun on bane,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bat unswiðor</div>
+<div class='line'>þonne his ðiodcyning<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þearfe hæfde,</div>
+<div class='line'>bysigum gebæded.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa wæs beorges weard</div>
+<div class='line'>æfter heaðuswenge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on hreoum mode,</div>
+<div class='line'>wearp wælfyre;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wide sprungon</div>
+<div class='line'>hildeleoman.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hreðsigora ne gealp</div>
+<div class='line'>goldwine Geata;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guðbill geswac,</div>
+<div class='line'>nacod æt niðe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hyt no sceolde,</div>
+<div class='line'>iren ærgod.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne wæs þæt eðe sið,</div>
+<div class='line'>þæt se mæra<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>maga Ecgðeowes</div>
+<div class='line'>grundwong þone<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ofgyfan wolde;</div>
+<div class='line'>sceolde ofer willan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wic eardian</div>
+<div class='line'>elles hwergen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa sceal æghwylc mon</div>
+<div class='line'>alætan lændagas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næs ða long to ðon</div>
+<div class='line'>þæt ða aglæcean hy<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eft gemetton.</div>
+<div class='line'>Hyrte hyne hordweard<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(hreðer æðme weoll)</div>
+<div class='line'>niwan stefne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nearo ðrowode,</div>
+<div class='line'>fyre befongen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ðe ær folce weold.</div>
+<div class='line'>Nealles him on heape<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>handgesteallan,</div>
+<div class='line'>æðelinga bearn,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ymbe gestodon</div>
+<div class='line'>hildecystum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac hy on holt bugon,</div>
+<div class='line'>ealdre burgan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hiora in anum weoll</div>
+<div class='line'>sefa wið sorgum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sibb æfre ne mæg</div>
+<div class='line'>wiht onwendan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þam ðe wel þenceð.</div>
   
-Wiglaf wæs haten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weoxstanes sunu,  
-leoflic lindwiga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leod Scylfinga,  
-mæg Ælfheres;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geseah his mondryhten  
-under heregriman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hat þrowian.  
-Gemunde ða ða are&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe he him ær forgeaf,  
-wicstede weligne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wægmundinga,  
-folcrihta gehwylc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa his fæder ahte.  
-Ne mihte ða forhabban;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hond rond gefeng,  
-geolwe linde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gomel swyrd geteah,  
-þæt wæs mid eldum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Eanmundes laf,  
-suna Ohteres.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þam æt sæcce wearð,  
-wræccan wineleasum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weohstan bana  
-meces ecgum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his magum ætbær  
-brunfagne helm,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringde byrnan,  
-eald sweord etonisc;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt him Onela forgeaf,  
-his gædelinges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðgewædu,  
-fyrdsearo fuslic,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;no ymbe ða fæhðe spræc,  
-þeah ðe he his broðor bearn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;abredwade.  
-He frætwe geheold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fela missera,  
-bill ond byrnan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððæt his byre mihte  
-eorlscipe efnan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa his ærfæder;  
-geaf him ða mid Geatum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðgewæda,  
-æghwæs unrim,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he of ealdre gewat,  
-frod on forðweg.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs forma sið  
-geongan cempan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he guðe ræs  
-mid his freodryhtne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fremman sceolde.  
-Ne gemealt him se modsefa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne his mæges laf  
-gewac æt wige;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt se wyrm onfand,  
-syððan hie togædre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gegan hæfdon.  
-Wiglaf maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordrihta fela  
-sægde gesiðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(him wæs sefa geomor):  
-"Ic ðæt mæl geman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær we medu þegun,  
-þonne we geheton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ussum hlaforde  
-in biorsele,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðe us ðas beagas geaf,  
-þæt we him ða guðgetawa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gyldan woldon  
-gif him þyslicu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þearf gelumpe,  
-helmas ond heard sweord.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ðe he usic on herge geceas  
-to ðyssum siðfate&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sylfes willum,  
-onmunde usic mærða,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond me þas maðmas geaf,  
-þe he usic garwigend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gode tealde,  
-hwate helmberend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ðe hlaford us  
-þis ellenweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ana aðohte  
-to gefremmanne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folces hyrde,  
-for ðam he manna mæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mærða gefremede,  
-dæda dollicra.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu is se dæg cumen  
-þæt ure mandryhten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenes behofað,  
-godra guðrinca;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wutun gongan to,  
-helpan hildfruman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þenden hyt sy,  
-gledegesa grim.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;God wat on mec  
-þæt me is micle leofre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt minne lichaman  
-mid minne goldgyfan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gled fæðmie.  
-Ne þynceð me gerysne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt we rondas beren  
-eft to earde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nemne we æror mægen  
-fane gefyllan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorh ealgian  
-Wedra ðeodnes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic wat geare  
-þæt næron ealdgewyrht,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he ana scyle  
-Geata duguðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gnorn þrowian,  
-gesigan æt sæcce;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;urum sceal sweord ond helm,  
-byrne ond beaduscrud,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bam gemæne."  
-Wod þa þurh þone wælrec,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigheafolan bær  
-frean on fultum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fea worda cwæð:  
-"Leofa Biowulf,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læst eall tela,  
-swa ðu on geoguðfeore&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geara gecwæde  
-þæt ðu ne alæte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;be ðe lifigendum  
-dom gedreosan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Scealt nu dædum rof,  
-æðeling anhydig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealle mægene  
-feorh ealgian;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic ðe fullæstu."  
-æfter ðam wordum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrm yrre cwom,  
-atol inwitgæst,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðre siðe  
-fyrwylmum fah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fionda niosian,  
-laðra manna;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ligyðum for.  
-Born bord wið rond,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byrne ne meahte  
-geongum garwigan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;geoce gefremman,  
-ac se maga geonga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under his mæges scyld  
-elne geeode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa his agen wæs  
-gledum forgrunden.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa gen guðcyning  
-mærða gemunde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenstrengo sloh  
-hildebille,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hyt on heafolan stod  
-niþe genyded;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nægling forbærst,  
-geswac æt sæcce&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweord Biowulfes,  
-gomol ond grægmæl.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Him þæt gifeðe ne wæs  
-þæt him irenna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ecge mihton  
-helpan æt hilde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs sio hond to strong,  
-se ðe meca gehwane,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine gefræge,  
-swenge ofersohte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne he to sæcce bær  
-wæpen wundrum heard;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs him wihte ðe sel.  
-Þa wæs þeodsceaða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þriddan siðe,  
-frecne fyrdraca,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæhða gemyndig,  
-ræsde on ðone rofan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa him rum ageald,  
-hat ond heaðogrim,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heals ealne ymbefeng  
-biteran banum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he geblodegod wearð  
-sawuldriore,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swat yðum weoll.  
+<div class='line'>Wiglaf wæs haten<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Weoxstanes sunu,</div>
+<div class='line'>leoflic lindwiga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leod Scylfinga,</div>
+<div class='line'>mæg Ælfheres;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geseah his mondryhten</div>
+<div class='line'>under heregriman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hat þrowian.</div>
+<div class='line'>Gemunde ða ða are<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe he him ær forgeaf,</div>
+<div class='line'>wicstede weligne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wægmundinga,</div>
+<div class='line'>folcrihta gehwylc,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa his fæder ahte.</div>
+<div class='line'>Ne mihte ða forhabban;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hond rond gefeng,</div>
+<div class='line'>geolwe linde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gomel swyrd geteah,</div>
+<div class='line'>þæt wæs mid eldum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Eanmundes laf,</div>
+<div class='line'>suna Ohteres.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þam æt sæcce wearð,</div>
+<div class='line'>wræccan wineleasum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Weohstan bana</div>
+<div class='line'>meces ecgum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond his magum ætbær</div>
+<div class='line'>brunfagne helm,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hringde byrnan,</div>
+<div class='line'>eald sweord etonisc;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt him Onela forgeaf,</div>
+<div class='line'>his gædelinges<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guðgewædu,</div>
+<div class='line'>fyrdsearo fuslic,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>no ymbe ða fæhðe spræc,</div>
+<div class='line'>þeah ðe he his broðor bearn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>abredwade.</div>
+<div class='line'>He frætwe geheold<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fela missera,</div>
+<div class='line'>bill ond byrnan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððæt his byre mihte</div>
+<div class='line'>eorlscipe efnan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa his ærfæder;</div>
+<div class='line'>geaf him ða mid Geatum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guðgewæda,</div>
+<div class='line'>æghwæs unrim,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa he of ealdre gewat,</div>
+<div class='line'>frod on forðweg.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa wæs forma sið</div>
+<div class='line'>geongan cempan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he guðe ræs</div>
+<div class='line'>mid his freodryhtne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fremman sceolde.</div>
+<div class='line'>Ne gemealt him se modsefa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne his mæges laf</div>
+<div class='line'>gewac æt wige;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt se wyrm onfand,</div>
+<div class='line'>syððan hie togædre<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gegan hæfdon.</div>
+<div class='line'>Wiglaf maðelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wordrihta fela</div>
+<div class='line'>sægde gesiðum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(him wæs sefa geomor):</div>
+<div class='line'>"Ic ðæt mæl geman,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær we medu þegun,</div>
+<div class='line'>þonne we geheton<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ussum hlaforde</div>
+<div class='line'>in biorsele,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðe us ðas beagas geaf,</div>
+<div class='line'>þæt we him ða guðgetawa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gyldan woldon</div>
+<div class='line'>gif him þyslicu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þearf gelumpe,</div>
+<div class='line'>helmas ond heard sweord.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ðe he usic on herge geceas</div>
+<div class='line'>to ðyssum siðfate<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sylfes willum,</div>
+<div class='line'>onmunde usic mærða,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond me þas maðmas geaf,</div>
+<div class='line'>þe he usic garwigend<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gode tealde,</div>
+<div class='line'>hwate helmberend,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah ðe hlaford us</div>
+<div class='line'>þis ellenweorc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ana aðohte</div>
+<div class='line'>to gefremmanne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>folces hyrde,</div>
+<div class='line'>for ðam he manna mæst<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mærða gefremede,</div>
+<div class='line'>dæda dollicra.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nu is se dæg cumen</div>
+<div class='line'>þæt ure mandryhten<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mægenes behofað,</div>
+<div class='line'>godra guðrinca;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wutun gongan to,</div>
+<div class='line'>helpan hildfruman,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þenden hyt sy,</div>
+<div class='line'>gledegesa grim.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>God wat on mec</div>
+<div class='line'>þæt me is micle leofre<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt minne lichaman</div>
+<div class='line'>mid minne goldgyfan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gled fæðmie.</div>
+<div class='line'>Ne þynceð me gerysne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt we rondas beren</div>
+<div class='line'>eft to earde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nemne we æror mægen</div>
+<div class='line'>fane gefyllan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorh ealgian</div>
+<div class='line'>Wedra ðeodnes.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic wat geare</div>
+<div class='line'>þæt næron ealdgewyrht,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he ana scyle</div>
+<div class='line'>Geata duguðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gnorn þrowian,</div>
+<div class='line'>gesigan æt sæcce;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>urum sceal sweord ond helm,</div>
+<div class='line'>byrne ond beaduscrud,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bam gemæne."</div>
+<div class='line'>Wod þa þurh þone wælrec,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wigheafolan bær</div>
+<div class='line'>frean on fultum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fea worda cwæð:</div>
+<div class='line'>"Leofa Biowulf,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>læst eall tela,</div>
+<div class='line'>swa ðu on geoguðfeore<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geara gecwæde</div>
+<div class='line'>þæt ðu ne alæte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>be ðe lifigendum</div>
+<div class='line'>dom gedreosan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Scealt nu dædum rof,</div>
+<div class='line'>æðeling anhydig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealle mægene</div>
+<div class='line'>feorh ealgian;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ic ðe fullæstu."</div>
+<div class='line'>æfter ðam wordum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wyrm yrre cwom,</div>
+<div class='line'>atol inwitgæst,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oðre siðe</div>
+<div class='line'>fyrwylmum fah<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fionda niosian,</div>
+<div class='line'>laðra manna;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ligyðum for.</div>
+<div class='line'>Born bord wið rond,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>byrne ne meahte</div>
+<div class='line'>geongum garwigan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>geoce gefremman,</div>
+<div class='line'>ac se maga geonga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>under his mæges scyld</div>
+<div class='line'>elne geeode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa his agen wæs</div>
+<div class='line'>gledum forgrunden.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa gen guðcyning</div>
+<div class='line'>mærða gemunde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mægenstrengo sloh</div>
+<div class='line'>hildebille,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hyt on heafolan stod</div>
+<div class='line'>niþe genyded;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nægling forbærst,</div>
+<div class='line'>geswac æt sæcce<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sweord Biowulfes,</div>
+<div class='line'>gomol ond grægmæl.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Him þæt gifeðe ne wæs</div>
+<div class='line'>þæt him irenna<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ecge mihton</div>
+<div class='line'>helpan æt hilde;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs sio hond to strong,</div>
+<div class='line'>se ðe meca gehwane,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mine gefræge,</div>
+<div class='line'>swenge ofersohte,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne he to sæcce bær</div>
+<div class='line'>wæpen wundrum heard;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>næs him wihte ðe sel.</div>
+<div class='line'>Þa wæs þeodsceaða<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þriddan siðe,</div>
+<div class='line'>frecne fyrdraca,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæhða gemyndig,</div>
+<div class='line'>ræsde on ðone rofan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa him rum ageald,</div>
+<div class='line'>hat ond heaðogrim,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heals ealne ymbefeng</div>
+<div class='line'>biteran banum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he geblodegod wearð</div>
+<div class='line'>sawuldriore,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swat yðum weoll.</div>
   
-Ða ic æt þearfe gefrægn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeodcyninges  
-andlongne eorl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ellen cyðan,  
-cræft ond cenðu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him gecynde wæs.  
-Ne hedde he þæs heafolan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac sio hand gebarn  
-modiges mannes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he his mæges healp,  
-þæt he þone niðgæst&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nioðor hwene sloh,  
-secg on searwum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðæt sweord gedeaf,  
-fah ond fæted,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðæt fyr ongon  
-sweðrian syððan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa gen sylf cyning  
-geweold his gewitte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wællseaxe gebræd  
-biter ond beaduscearp,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he on byrnan wæg;  
-forwrat Wedra helm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrm on middan.  
-Feond gefyldan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ferh ellen wræc),  
-ond hi hyne þa begen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;abroten hæfdon,  
-sibæðelingas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Swylc sceolde secg wesan,  
-þegn æt ðearfe!&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ðam þeodne wæs  
-siðast sigehwila&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sylfes dædum,  
-worlde geweorces.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða sio wund ongon,  
-þe him se eorðdraca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær geworhte,  
-swelan ond swellan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he þæt sona onfand,  
-þæt him on breostum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bealoniðe weoll  
-attor on innan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ða se æðeling giong  
-þæt he bi wealle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wishycgende  
-gesæt on sesse;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seah on enta geweorc,  
-hu ða stanbogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;stapulum fæste  
-ece eorðreced&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;innan healde.  
-Hyne þa mid handa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorodreorigne,  
-þeoden mærne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þegn ungemete till  
-winedryhten his&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wætere gelafede,  
-hilde sædne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his helm onspeon.  
-Biowulf maþelode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(he ofer benne spræc,  
-wunde wælbleate;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wisse he gearwe  
-þæt he dæghwila&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gedrogen hæfde,  
-eorðan wynne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða wæs eall sceacen  
-dogorgerimes,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deað ungemete neah):  
-"Nu ic suna minum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syllan wolde  
-guðgewædu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær me gifeðe swa  
-ænig yrfeweard&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfter wurde  
-lice gelenge.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic ðas leode heold  
-fiftig wintra;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs se folccyning,  
-ymbesittendra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænig ðara,  
-þe mec guðwinum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gretan dorste,  
-egesan ðeon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic on earde bad  
-mælgesceafta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heold min tela,  
-ne sohte searoniðas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne me swor fela  
-aða on unriht.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic ðæs ealles mæg  
-feorhbennum seoc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gefean habban;  
-for ðam me witan ne ðearf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;waldend fira  
-morðorbealo maga,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne min sceaceð  
-lif of lice.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu ðu lungre geong  
-hord sceawian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under harne stan,  
-Wiglaf leofa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nu se wyrm ligeð,  
-swefeð sare wund,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;since bereafod.  
-Bio nu on ofoste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic ærwelan,  
-goldæht ongite,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearo sceawige  
-swegle searogimmas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt ic ðy seft mæge  
-æfter maððumwelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;min alætan  
-lif ond leodscipe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone ic longe heold."  
+<div class='line'>Ða ic æt þearfe gefrægn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeodcyninges</div>
+<div class='line'>andlongne eorl<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ellen cyðan,</div>
+<div class='line'>cræft ond cenðu,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa him gecynde wæs.</div>
+<div class='line'>Ne hedde he þæs heafolan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac sio hand gebarn</div>
+<div class='line'>modiges mannes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær he his mæges healp,</div>
+<div class='line'>þæt he þone niðgæst<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nioðor hwene sloh,</div>
+<div class='line'>secg on searwum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ðæt sweord gedeaf,</div>
+<div class='line'>fah ond fæted,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ðæt fyr ongon</div>
+<div class='line'>sweðrian syððan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa gen sylf cyning</div>
+<div class='line'>geweold his gewitte,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wællseaxe gebræd</div>
+<div class='line'>biter ond beaduscearp,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he on byrnan wæg;</div>
+<div class='line'>forwrat Wedra helm<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wyrm on middan.</div>
+<div class='line'>Feond gefyldan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(ferh ellen wræc),</div>
+<div class='line'>ond hi hyne þa begen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>abroten hæfdon,</div>
+<div class='line'>sibæðelingas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Swylc sceolde secg wesan,</div>
+<div class='line'>þegn æt ðearfe!<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ðam þeodne wæs</div>
+<div class='line'>siðast sigehwila<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sylfes dædum,</div>
+<div class='line'>worlde geweorces.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ða sio wund ongon,</div>
+<div class='line'>þe him se eorðdraca<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær geworhte,</div>
+<div class='line'>swelan ond swellan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he þæt sona onfand,</div>
+<div class='line'>þæt him on breostum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bealoniðe weoll</div>
+<div class='line'>attor on innan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ða se æðeling giong</div>
+<div class='line'>þæt he bi wealle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wishycgende</div>
+<div class='line'>gesæt on sesse;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>seah on enta geweorc,</div>
+<div class='line'>hu ða stanbogan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>stapulum fæste</div>
+<div class='line'>ece eorðreced<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>innan healde.</div>
+<div class='line'>Hyne þa mid handa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heorodreorigne,</div>
+<div class='line'>þeoden mærne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þegn ungemete till</div>
+<div class='line'>winedryhten his<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wætere gelafede,</div>
+<div class='line'>hilde sædne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond his helm onspeon.</div>
+<div class='line'>Biowulf maþelode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(he ofer benne spræc,</div>
+<div class='line'>wunde wælbleate;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wisse he gearwe</div>
+<div class='line'>þæt he dæghwila<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gedrogen hæfde,</div>
+<div class='line'>eorðan wynne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða wæs eall sceacen</div>
+<div class='line'>dogorgerimes,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>deað ungemete neah):</div>
+<div class='line'>"Nu ic suna minum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syllan wolde</div>
+<div class='line'>guðgewædu,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær me gifeðe swa</div>
+<div class='line'>ænig yrfeweard<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æfter wurde</div>
+<div class='line'>lice gelenge.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic ðas leode heold</div>
+<div class='line'>fiftig wintra;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>næs se folccyning,</div>
+<div class='line'>ymbesittendra<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ænig ðara,</div>
+<div class='line'>þe mec guðwinum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gretan dorste,</div>
+<div class='line'>egesan ðeon.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic on earde bad</div>
+<div class='line'>mælgesceafta,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heold min tela,</div>
+<div class='line'>ne sohte searoniðas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne me swor fela</div>
+<div class='line'>aða on unriht.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic ðæs ealles mæg</div>
+<div class='line'>feorhbennum seoc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gefean habban;</div>
+<div class='line'>for ðam me witan ne ðearf<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>waldend fira</div>
+<div class='line'>morðorbealo maga,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne min sceaceð</div>
+<div class='line'>lif of lice.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nu ðu lungre geong</div>
+<div class='line'>hord sceawian<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>under harne stan,</div>
+<div class='line'>Wiglaf leofa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nu se wyrm ligeð,</div>
+<div class='line'>swefeð sare wund,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>since bereafod.</div>
+<div class='line'>Bio nu on ofoste,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ic ærwelan,</div>
+<div class='line'>goldæht ongite,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gearo sceawige</div>
+<div class='line'>swegle searogimmas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt ic ðy seft mæge</div>
+<div class='line'>æfter maððumwelan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>min alætan</div>
+<div class='line'>lif ond leodscipe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þone ic longe heold."</div>
   
-Ða ic snude gefrægn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Wihstanes  
-æfter wordcwydum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundum dryhtne  
-hyran heaðosiocum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringnet beran,  
-brogdne beadusercean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under beorges hrof.  
-Geseah ða sigehreðig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he bi sesse geong,  
-magoþegn modig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maððumsigla fealo,  
-gold glitinian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grunde getenge,  
-wundur on wealle,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þæs wyrmes denn,  
-ealdes uhtflogan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;orcas stondan,  
-fyrnmanna fatu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feormendlease,  
-hyrstum behrorene;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær wæs helm monig  
-eald ond omig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earmbeaga fela  
-searwum gesæled.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sinc eaðe mæg,  
-gold on grunde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gumcynnes gehwone  
-oferhigian,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyde se ðe wylle.  
-Swylce he siomian geseah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;segn eallgylden  
-heah ofer horde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hondwundra mæst,  
-gelocen leoðocræftum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;of ðam leoma stod,  
-þæt he þone grundwong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ongitan meahte,  
-wræte giondwlitan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs ðæs wyrmes þær  
-onsyn ænig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac hyne ecg fornam.  
-Ða ic on hlæwe gefrægn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord reafian,  
-eald enta geweorc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anne mannan,  
-him on bearm hladon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bunan ond discas  
-sylfes dome;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;segn eac genom,  
-beacna beorhtost.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bill ær gescod  
-(ecg wæs iren)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdhlafordes  
-þam ðara maðma&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mundbora wæs  
-longe hwile,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ligegesan wæg  
-hatne for horde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hioroweallende  
-middelnihtum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðþæt he morðre swealt.  
-Ar wæs on ofoste,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eftsiðes georn,  
-frætwum gefyrðred;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyne fyrwet bræc,  
-hwæðer collenferð&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cwicne gemette  
-in ðam wongstede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedra þeoden  
-ellensiocne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he hine ær forlet.  
-He ða mid þam maðmum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mærne þioden,  
-dryhten sinne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;driorigne fand  
-ealdres æt ende;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he hine eft ongon  
-wæteres weorpan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðþæt wordes ord  
-breosthord þurhbræc.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-gomel on giohðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(gold sceawode):  
-"Ic ðara frætwa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frean ealles ðanc,  
-wuldurcyninge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordum secge,  
-ecum dryhtne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe ic her on starie,  
-þæs ðe ic moste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minum leodum  
-ær swyltdæge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylc gestrynan.  
-Nu ic on maðma hord&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine bebohte  
-frode feorhlege,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fremmað gena  
-leoda þearfe;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne mæg ic her leng wesan.  
-Hatað heaðomære&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlæw gewyrcean  
-beorhtne æfter bæle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æt brimes nosan;  
-se scel to gemyndum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;minum leodum  
-heah hlifian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on Hronesnæsse,  
-þæt hit sæliðend&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan hatan  
-Biowulfes biorh,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða ðe brentingas  
-ofer floda genipu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorran drifað."  
-Dyde him of healse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hring gyldenne  
-þioden þristhydig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þegne gesealde,  
-geongum garwigan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;goldfahne helm,  
-beah ond byrnan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;het hyne brucan well:  
-"þu eart endelaf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;usses cynnes,  
-Wægmundinga.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ealle wyrd forsweop  
-mine magas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to metodsceafte,  
-eorlas on elne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic him æfter sceal."  
-Þæt wæs þam gomelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gingæste word  
-breostgehygdum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær he bæl cure,  
-hate heaðowylmas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him of hreðre gewat  
-sawol secean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;soðfæstra dom.  
-Ða wæs gegongen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guman unfrodum  
-earfoðlice,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he on eorðan geseah  
-þone leofestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lifes æt ende  
-bleate gebæran.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bona swylce læg,  
-egeslic eorðdraca&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdre bereafod,  
-bealwe gebæded.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Beahhordum leng  
-wyrm wohbogen&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wealdan ne moste,  
-ac hine irenna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ecga fornamon,  
-hearde, heaðoscearde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;homera lafe,  
-þæt se widfloga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundum stille  
-hreas on hrusan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hordærne neah.  
-Nalles æfter lyfte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lacende hwearf  
-middelnihtum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;maðmæhta wlonc  
-ansyn ywde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac he eorðan gefeoll  
-for ðæs hildfruman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hondgeweorce.  
-Huru þæt on lande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lyt manna ðah,  
-mægenagendra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mine gefræge,  
-þeah ðe he dæda gehwæs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dyrstig wære,  
-þæt he wið attorsceaðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oreðe geræsde,  
-oððe hringsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hondum styrede,  
-gif he wæccende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weard onfunde  
-buon on beorge.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Biowulfe wearð  
-dryhtmaðma dæl&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deaðe forgolden;  
-hæfde æghwæðer&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende gefered  
-lænan lifes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs ða lang to ðon  
-þæt ða hildlatan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;holt ofgefan,  
-tydre treowlogan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;tyne ætsomne.  
-Ða ne dorston ær&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dareðum lacan  
-on hyra mandryhtnes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;miclan þearfe,  
-ac hy scamiende&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;scyldas bæran,  
-guðgewædu,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær se gomela læg,  
-wlitan on Wilaf.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;He gewergad sæt,  
-feðecempa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frean eaxlum neah,  
-wehte hyne wætre;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;him wiht ne speow.  
-Ne meahte he on eorðan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðeah he uðe wel,  
-on ðam frumgare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorh gehealdan,  
-ne ðæs wealdendes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiht oncirran;  
-wolde dom godes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;dædum rædan  
-gumena gehwylcum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he nu gen deð.  
-Þa wæs æt ðam geongan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grim ondswaru  
-eðbegete&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þam ðe ær his elne forleas.  
-Wiglaf maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weohstanes sunu,  
-sec, sarigferð&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(seah on unleofe):  
-"þæt, la, mæg secgan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe wyle soð specan  
-þæt se mondryhten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se eow ða maðmas geaf,  
-eoredgeatwe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe ge þær on standað,  
-þonne he on ealubence&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oft gesealde  
-healsittendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm ond byrnan,  
-þeoden his þegnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce he þrydlicost  
-ower feor oððe neah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;findan meahte,  
-þæt he genunga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;guðgewædu  
-wraðe forwurpe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða hyne wig beget.  
-Nealles folccyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyrdgesteallum  
-gylpan þorfte;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwæðre him god uðe,  
-sigora waldend,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt he hyne sylfne gewræc  
-ana mid ecge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa him wæs elnes þearf.  
-Ic him lifwraðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lytle meahte  
-ætgifan æt guðe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond ongan swa þeah  
-ofer min gemet&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mæges helpan;  
-symle wæs þy sæmra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne ic sweorde drep  
-ferhðgeniðlan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyr unswiðor  
-weoll of gewitte.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wergendra to lyt  
-þrong ymbe þeoden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa hyne sio þrag becwom.  
-Nu sceal sincþego&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond swyrdgifu,  
-eall eðelwyn&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eowrum cynne,  
-lufen alicgean;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;londrihtes mot  
-þære mægburge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;monna æghwylc  
-idel hweorfan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan æðelingas  
-feorran gefricgean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fleam eowerne,  
-domleasan dæd.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Deað bið sella  
+<div class='line'>Ða ic snude gefrægn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu Wihstanes</div>
+<div class='line'>æfter wordcwydum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wundum dryhtne</div>
+<div class='line'>hyran heaðosiocum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hringnet beran,</div>
+<div class='line'>brogdne beadusercean<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>under beorges hrof.</div>
+<div class='line'>Geseah ða sigehreðig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa he bi sesse geong,</div>
+<div class='line'>magoþegn modig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>maððumsigla fealo,</div>
+<div class='line'>gold glitinian<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>grunde getenge,</div>
+<div class='line'>wundur on wealle,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þæs wyrmes denn,</div>
+<div class='line'>ealdes uhtflogan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>orcas stondan,</div>
+<div class='line'>fyrnmanna fatu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feormendlease,</div>
+<div class='line'>hyrstum behrorene;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær wæs helm monig</div>
+<div class='line'>eald ond omig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>earmbeaga fela</div>
+<div class='line'>searwum gesæled.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sinc eaðe mæg,</div>
+<div class='line'>gold on grunde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gumcynnes gehwone</div>
+<div class='line'>oferhigian,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hyde se ðe wylle.</div>
+<div class='line'>Swylce he siomian geseah<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>segn eallgylden</div>
+<div class='line'>heah ofer horde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hondwundra mæst,</div>
+<div class='line'>gelocen leoðocræftum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>of ðam leoma stod,</div>
+<div class='line'>þæt he þone grundwong<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ongitan meahte,</div>
+<div class='line'>wræte giondwlitan.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næs ðæs wyrmes þær</div>
+<div class='line'>onsyn ænig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac hyne ecg fornam.</div>
+<div class='line'>Ða ic on hlæwe gefrægn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hord reafian,</div>
+<div class='line'>eald enta geweorc,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>anne mannan,</div>
+<div class='line'>him on bearm hladon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bunan ond discas</div>
+<div class='line'>sylfes dome;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>segn eac genom,</div>
+<div class='line'>beacna beorhtost.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Bill ær gescod</div>
+<div class='line'>(ecg wæs iren)<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdhlafordes</div>
+<div class='line'>þam ðara maðma<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mundbora wæs</div>
+<div class='line'>longe hwile,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ligegesan wæg</div>
+<div class='line'>hatne for horde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hioroweallende</div>
+<div class='line'>middelnihtum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oðþæt he morðre swealt.</div>
+<div class='line'>Ar wæs on ofoste,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eftsiðes georn,</div>
+<div class='line'>frætwum gefyrðred;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hyne fyrwet bræc,</div>
+<div class='line'>hwæðer collenferð<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cwicne gemette</div>
+<div class='line'>in ðam wongstede<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wedra þeoden</div>
+<div class='line'>ellensiocne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær he hine ær forlet.</div>
+<div class='line'>He ða mid þam maðmum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mærne þioden,</div>
+<div class='line'>dryhten sinne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>driorigne fand</div>
+<div class='line'>ealdres æt ende;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he hine eft ongon</div>
+<div class='line'>wæteres weorpan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oðþæt wordes ord</div>
+<div class='line'>breosthord þurhbræc.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></div>
+<div class='line'>gomel on giohðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(gold sceawode):</div>
+<div class='line'>"Ic ðara frætwa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frean ealles ðanc,</div>
+<div class='line'>wuldurcyninge,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wordum secge,</div>
+<div class='line'>ecum dryhtne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe ic her on starie,</div>
+<div class='line'>þæs ðe ic moste<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>minum leodum</div>
+<div class='line'>ær swyltdæge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swylc gestrynan.</div>
+<div class='line'>Nu ic on maðma hord<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mine bebohte</div>
+<div class='line'>frode feorhlege,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fremmað gena</div>
+<div class='line'>leoda þearfe;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne mæg ic her leng wesan.</div>
+<div class='line'>Hatað heaðomære<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hlæw gewyrcean</div>
+<div class='line'>beorhtne æfter bæle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æt brimes nosan;</div>
+<div class='line'>se scel to gemyndum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>minum leodum</div>
+<div class='line'>heah hlifian<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on Hronesnæsse,</div>
+<div class='line'>þæt hit sæliðend<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan hatan</div>
+<div class='line'>Biowulfes biorh,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða ðe brentingas</div>
+<div class='line'>ofer floda genipu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorran drifað."</div>
+<div class='line'>Dyde him of healse<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hring gyldenne</div>
+<div class='line'>þioden þristhydig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þegne gesealde,</div>
+<div class='line'>geongum garwigan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>goldfahne helm,</div>
+<div class='line'>beah ond byrnan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>het hyne brucan well:</div>
+<div class='line'>"þu eart endelaf<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>usses cynnes,</div>
+<div class='line'>Wægmundinga.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ealle wyrd forsweop</div>
+<div class='line'>mine magas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to metodsceafte,</div>
+<div class='line'>eorlas on elne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ic him æfter sceal."</div>
+<div class='line'>Þæt wæs þam gomelan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gingæste word</div>
+<div class='line'>breostgehygdum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær he bæl cure,</div>
+<div class='line'>hate heaðowylmas;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>him of hreðre gewat</div>
+<div class='line'>sawol secean<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>soðfæstra dom.</div>
+<div class='line'>Ða wæs gegongen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guman unfrodum</div>
+<div class='line'>earfoðlice,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he on eorðan geseah</div>
+<div class='line'>þone leofestan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lifes æt ende</div>
+<div class='line'>bleate gebæran.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Bona swylce læg,</div>
+<div class='line'>egeslic eorðdraca<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdre bereafod,</div>
+<div class='line'>bealwe gebæded.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Beahhordum leng</div>
+<div class='line'>wyrm wohbogen<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wealdan ne moste,</div>
+<div class='line'>ac hine irenna<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ecga fornamon,</div>
+<div class='line'>hearde, heaðoscearde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>homera lafe,</div>
+<div class='line'>þæt se widfloga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wundum stille</div>
+<div class='line'>hreas on hrusan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hordærne neah.</div>
+<div class='line'>Nalles æfter lyfte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lacende hwearf</div>
+<div class='line'>middelnihtum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>maðmæhta wlonc</div>
+<div class='line'>ansyn ywde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac he eorðan gefeoll</div>
+<div class='line'>for ðæs hildfruman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hondgeweorce.</div>
+<div class='line'>Huru þæt on lande<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lyt manna ðah,</div>
+<div class='line'>mægenagendra,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mine gefræge,</div>
+<div class='line'>þeah ðe he dæda gehwæs<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dyrstig wære,</div>
+<div class='line'>þæt he wið attorsceaðan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oreðe geræsde,</div>
+<div class='line'>oððe hringsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hondum styrede,</div>
+<div class='line'>gif he wæccende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weard onfunde</div>
+<div class='line'>buon on beorge.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Biowulfe wearð</div>
+<div class='line'>dryhtmaðma dæl<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>deaðe forgolden;</div>
+<div class='line'>hæfde æghwæðer<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ende gefered</div>
+<div class='line'>lænan lifes.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næs ða lang to ðon</div>
+<div class='line'>þæt ða hildlatan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>holt ofgefan,</div>
+<div class='line'>tydre treowlogan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>tyne ætsomne.</div>
+<div class='line'>Ða ne dorston ær<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dareðum lacan</div>
+<div class='line'>on hyra mandryhtnes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>miclan þearfe,</div>
+<div class='line'>ac hy scamiende<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>scyldas bæran,</div>
+<div class='line'>guðgewædu,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær se gomela læg,</div>
+<div class='line'>wlitan on Wilaf.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>He gewergad sæt,</div>
+<div class='line'>feðecempa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frean eaxlum neah,</div>
+<div class='line'>wehte hyne wætre;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>him wiht ne speow.</div>
+<div class='line'>Ne meahte he on eorðan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðeah he uðe wel,</div>
+<div class='line'>on ðam frumgare<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorh gehealdan,</div>
+<div class='line'>ne ðæs wealdendes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wiht oncirran;</div>
+<div class='line'>wolde dom godes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>dædum rædan</div>
+<div class='line'>gumena gehwylcum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa he nu gen deð.</div>
+<div class='line'>Þa wæs æt ðam geongan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>grim ondswaru</div>
+<div class='line'>eðbegete<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þam ðe ær his elne forleas.</div>
+<div class='line'>Wiglaf maðelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Weohstanes sunu,</div>
+<div class='line'>sec, sarigferð<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(seah on unleofe):</div>
+<div class='line'>"þæt, la, mæg secgan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ðe wyle soð specan</div>
+<div class='line'>þæt se mondryhten<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se eow ða maðmas geaf,</div>
+<div class='line'>eoredgeatwe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe ge þær on standað,</div>
+<div class='line'>þonne he on ealubence<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oft gesealde</div>
+<div class='line'>healsittendum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helm ond byrnan,</div>
+<div class='line'>þeoden his þegnum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swylce he þrydlicost</div>
+<div class='line'>ower feor oððe neah<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>findan meahte,</div>
+<div class='line'>þæt he genunga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>guðgewædu</div>
+<div class='line'>wraðe forwurpe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða hyne wig beget.</div>
+<div class='line'>Nealles folccyning<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fyrdgesteallum</div>
+<div class='line'>gylpan þorfte;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwæðre him god uðe,</div>
+<div class='line'>sigora waldend,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt he hyne sylfne gewræc</div>
+<div class='line'>ana mid ecge,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa him wæs elnes þearf.</div>
+<div class='line'>Ic him lifwraðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lytle meahte</div>
+<div class='line'>ætgifan æt guðe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond ongan swa þeah</div>
+<div class='line'>ofer min gemet<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mæges helpan;</div>
+<div class='line'>symle wæs þy sæmra,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne ic sweorde drep</div>
+<div class='line'>ferhðgeniðlan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fyr unswiðor</div>
+<div class='line'>weoll of gewitte.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wergendra to lyt</div>
+<div class='line'>þrong ymbe þeoden,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa hyne sio þrag becwom.</div>
+<div class='line'>Nu sceal sincþego<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond swyrdgifu,</div>
+<div class='line'>eall eðelwyn<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eowrum cynne,</div>
+<div class='line'>lufen alicgean;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>londrihtes mot</div>
+<div class='line'>þære mægburge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>monna æghwylc</div>
+<div class='line'>idel hweorfan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan æðelingas</div>
+<div class='line'>feorran gefricgean<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fleam eowerne,</div>
+<div class='line'>domleasan dæd.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Deað bið sella</div>
   
-eorla gehwylcum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne edwitlif!"  
-Heht ða þæt heaðoweorc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hagan biodan  
-up ofer ecgclif,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær þæt eorlweorod  
-morgenlongne dæg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;modgiomor sæt,  
-bordhæbbende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bega on wenum,  
-endedogores&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond eftcymes  
-leofes monnes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lyt swigode  
-niwra spella&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe næs gerad,  
-ac he soðlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sægde ofer ealle:  
-"Nu is wilgeofa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedra leoda,  
-dryhten Geata,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;deaðbedde fæst,  
-wunað wælreste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyrmes dædum.  
-Him on efn ligeð&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdorgewinna  
-sexbennum seoc;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweorde ne meahte  
-on ðam aglæcean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænige þinga  
-wunde gewyrcean.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wiglaf siteð  
-ofer Biowulfe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byre Wihstanes,  
-eorl ofer oðrum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unlifigendum,  
-healdeð higemæðum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heafodwearde  
-leofes ond laðes.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu ys leodum wen  
-orleghwile,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan underne  
-Froncum ond Frysum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fyll cyninges  
-wide weorðeð.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wæs sio wroht scepen  
-heard wið Hugas,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan Higelac cwom  
-faran flotherge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on Fresna land,  
-þær hyne Hetware&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hilde genægdon,  
-elne geeodon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid ofermægene,  
-þæt se byrnwiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bugan sceolde,  
-feoll on feðan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalles frætwe geaf  
-ealdor dugoðe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Us wæs a syððan  
-Merewioingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;milts ungyfeðe.  
-Ne ic to Sweoðeode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sibbe oððe treowe  
-wihte ne wene,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac wæs wide cuð  
-þætte Ongenðio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealdre besnyðede  
-Hæðcen Hreþling&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wið Hrefnawudu,  
-þa for onmedlan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ærest gesohton  
-Geata leode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Guðscilfingas.  
-Sona him se froda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæder Ohtheres,  
-eald ond egesfull,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ondslyht ageaf,  
-abreot brimwisan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bryd ahredde,  
-gomela iomeowlan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;golde berofene,  
-Onelan modor&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond Ohtheres,  
-ond ða folgode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;feorhgeniðlan,  
-oððæt hi oðeodon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;earfoðlice  
-in Hrefnesholt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlafordlease.  
-Besæt ða sinherge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sweorda lafe,  
-wundum werge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wean oft gehet  
-earmre teohhe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ondlonge niht,  
-cwæð, he on mergenne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meces ecgum  
-getan wolde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sum on galgtreowum  
-fuglum to gamene.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Frofor eft gelamp  
-sarigmodum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;somod ærdæge,  
-syððan hie Hygelaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;horn ond byman,  
-gealdor ongeaton,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa se goda com  
-leoda dugoðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on last faran.  
+<div class='line'>eorla gehwylcum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne edwitlif!"</div>
+<div class='line'>Heht ða þæt heaðoweorc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to hagan biodan</div>
+<div class='line'>up ofer ecgclif,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær þæt eorlweorod</div>
+<div class='line'>morgenlongne dæg<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>modgiomor sæt,</div>
+<div class='line'>bordhæbbende,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bega on wenum,</div>
+<div class='line'>endedogores<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond eftcymes</div>
+<div class='line'>leofes monnes.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Lyt swigode</div>
+<div class='line'>niwra spella<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ðe næs gerad,</div>
+<div class='line'>ac he soðlice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sægde ofer ealle:</div>
+<div class='line'>"Nu is wilgeofa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wedra leoda,</div>
+<div class='line'>dryhten Geata,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>deaðbedde fæst,</div>
+<div class='line'>wunað wælreste<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wyrmes dædum.</div>
+<div class='line'>Him on efn ligeð<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdorgewinna</div>
+<div class='line'>sexbennum seoc;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sweorde ne meahte</div>
+<div class='line'>on ðam aglæcean<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ænige þinga</div>
+<div class='line'>wunde gewyrcean.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wiglaf siteð</div>
+<div class='line'>ofer Biowulfe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>byre Wihstanes,</div>
+<div class='line'>eorl ofer oðrum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>unlifigendum,</div>
+<div class='line'>healdeð higemæðum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heafodwearde</div>
+<div class='line'>leofes ond laðes.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nu ys leodum wen</div>
+<div class='line'>orleghwile,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan underne</div>
+<div class='line'>Froncum ond Frysum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fyll cyninges</div>
+<div class='line'>wide weorðeð.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wæs sio wroht scepen</div>
+<div class='line'>heard wið Hugas,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan Higelac cwom</div>
+<div class='line'>faran flotherge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on Fresna land,</div>
+<div class='line'>þær hyne Hetware<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hilde genægdon,</div>
+<div class='line'>elne geeodon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mid ofermægene,</div>
+<div class='line'>þæt se byrnwiga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bugan sceolde,</div>
+<div class='line'>feoll on feðan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nalles frætwe geaf</div>
+<div class='line'>ealdor dugoðe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Us wæs a syððan</div>
+<div class='line'>Merewioingas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>milts ungyfeðe.</div>
+<div class='line'>Ne ic to Sweoðeode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sibbe oððe treowe</div>
+<div class='line'>wihte ne wene,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac wæs wide cuð</div>
+<div class='line'>þætte Ongenðio<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealdre besnyðede</div>
+<div class='line'>Hæðcen Hreþling<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wið Hrefnawudu,</div>
+<div class='line'>þa for onmedlan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ærest gesohton</div>
+<div class='line'>Geata leode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Guðscilfingas.</div>
+<div class='line'>Sona him se froda<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæder Ohtheres,</div>
+<div class='line'>eald ond egesfull,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ondslyht ageaf,</div>
+<div class='line'>abreot brimwisan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bryd ahredde,</div>
+<div class='line'>gomela iomeowlan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>golde berofene,</div>
+<div class='line'>Onelan modor<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond Ohtheres,</div>
+<div class='line'>ond ða folgode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>feorhgeniðlan,</div>
+<div class='line'>oððæt hi oðeodon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>earfoðlice</div>
+<div class='line'>in Hrefnesholt<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hlafordlease.</div>
+<div class='line'>Besæt ða sinherge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sweorda lafe,</div>
+<div class='line'>wundum werge,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wean oft gehet</div>
+<div class='line'>earmre teohhe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ondlonge niht,</div>
+<div class='line'>cwæð, he on mergenne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>meces ecgum</div>
+<div class='line'>getan wolde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sum on galgtreowum</div>
+<div class='line'>fuglum to gamene.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Frofor eft gelamp</div>
+<div class='line'>sarigmodum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>somod ærdæge,</div>
+<div class='line'>syððan hie Hygelaces<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>horn ond byman,</div>
+<div class='line'>gealdor ongeaton,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa se goda com</div>
+<div class='line'>leoda dugoðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on last faran.</div>
   
-Wæs sio swatswaðu&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweona ond Geata,  
-wælræs weora&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide gesyne,  
-hu ða folc mid him&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæhðe towehton.  
-Gewat him ða se goda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid his gædelingum,  
-frod, felageomor,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fæsten secean,  
-eorl Ongenþio,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ufor oncirde;  
-hæfde Higelaces&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hilde gefrunen,  
-wlonces wigcræft,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiðres ne truwode,  
-þæt he sæmannum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;onsacan mihte,  
-heaðoliðendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord forstandan,  
-bearn ond bryde;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beah eft þonan  
-eald under eorðweall.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Þa wæs æht boden  
-Sweona leodum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;segn Higelaces  
-freoðowong þone&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;forð ofereodon,  
-syððan Hreðlingas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to hagan þrungon.  
-Þær wearð Ongenðiow&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ecgum sweorda,  
-blondenfexa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on bid wrecen,  
-þæt se þeodcyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðafian sceolde  
-Eafores anne dom.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hyne yrringa  
-Wulf Wonreding&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæpne geræhte,  
-þæt him for swenge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swat ædrum sprong  
-forð under fexe.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Næs he forht swa ðeh,  
-gomela Scilfing,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac forgeald hraðe  
-wyrsan wrixle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wælhlem þone,  
-syððan ðeodcyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þyder oncirde.  
-Ne meahte se snella&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Wonredes  
-ealdum ceorle&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ondslyht giofan,  
-ac he him on heafde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;helm ær gescer,  
-þæt he blode fah&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bugan sceolde,  
-feoll on foldan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;næs he fæge þa git,  
-ac he hyne gewyrpte,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þeah ðe him wund hrine.  
-Let se hearda&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelaces þegn  
-bradne mece,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa his broðor læg,  
-eald sweord eotonisc,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;entiscne helm  
-brecan ofer bordweal;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða gebeah cyning,  
-folces hyrde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs in feorh dropen.  
-Ða wæron monige&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe his mæg wriðon,  
-ricone arærdon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ða him gerymed wearð  
-þæt hie wælstowe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wealdan moston.  
-Þenden reafode&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;rinc oðerne,  
-nam on Ongenðio&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;irenbyrnan,  
-heard swyrd hilted&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his helm somod,  
-hares hyrste&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higelace bær.  
-He ðam frætwum feng&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond him fægre gehet  
-leana mid leodum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond gelæste swa;  
-geald þone guðræs&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata dryhten,  
-Hreðles eafora,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he to ham becom,  
-Iofore ond Wulfe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mid ofermaðmum,  
-sealde hiora gehwæðrum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hund þusenda  
-landes ond locenra beaga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(ne ðorfte him ða lean oðwitan  
-mon on middangearde),&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syððan hie ða mærða geslogon,  
-ond ða Iofore forgeaf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;angan dohtor,  
-hamweorðunge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hyldo to wedde.  
-Þæt ys sio fæhðo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond se feondscipe,  
-wælnið wera,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ðæs ðe ic wen hafo,  
-þe us seceað to&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sweona leoda,  
-syððan hie gefricgeað&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frean userne  
-ealdorleasne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone ðe ær geheold  
-wið hettendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord ond rice  
-æfter hæleða hryre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwate Scildingas,  
-folcred fremede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oððe furður gen  
-eorlscipe efnde.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nu is ofost betost  
-þæt we þeodcyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær sceawian  
-ond þone gebringan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þe us beagas geaf,  
-on adfære.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ne scel anes hwæt  
-meltan mid þam modigan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac þær is maðma hord,  
-gold unrime&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;grimme geceapod,  
-ond nu æt siðestan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sylfes feore  
-beagas gebohte.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa sceall brond fretan,  
-æled þeccean,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalles eorl wegan  
-maððum to gemyndum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ne mægð scyne  
-habban on healse&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hringweorðunge,  
-ac sceal geomormod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;golde bereafod,  
-oft nalles æne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;elland tredan,  
-nu se herewisa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hleahtor alegde,  
-gamen ond gleodream.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Forðon sceall gar wesan  
-monig, morgenceald,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mundum bewunden,  
-hæfen on handa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nalles hearpan sweg  
-wigend weccean,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ac se wonna hrefn  
-fus ofer fægum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fela reordian,  
-earne secgan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hu him æt æte speow,  
-þenden he wið wulf&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæl reafode."  
-Swa se secg hwata&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;secggende wæs  
-laðra spella;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he ne leag fela  
-wyrda ne worda.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weorod eall aras;  
-eodon unbliðe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under Earnanæs,  
-wollenteare&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundur sceawian.  
-Fundon ða on sande&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sawulleasne  
-hlimbed healdan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þone þe him hringas geaf  
-ærran mælum;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa wæs endedæg  
-godum gegongen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt se guðcyning,  
-Wedra þeoden,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wundordeaðe swealt.  
-Ær hi þær gesegan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;syllicran wiht,  
-wyrm on wonge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wiðerræhtes þær  
-laðne licgean;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs se legdraca  
-grimlic, gryrefah,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gledum beswæled.  
-Se wæs fiftiges&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;fotgemearces  
-lang on legere,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lyftwynne heold  
-nihtes hwilum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nyðer eft gewat  
-dennes niosian;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs ða deaðe fæst,  
-hæfde eorðscrafa&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende genyttod.  
-Him big stodan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bunan ond orcas,  
-discas lagon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond dyre swyrd,  
-omige, þurhetone,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hie wið eorðan fæðm  
-þusend wintra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær eardodon.  
-Þonne wæs þæt yrfe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eacencræftig,  
-iumonna gold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;galdre bewunden,  
-þæt ðam hringsele&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hrinan ne moste  
-gumena ænig,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;nefne god sylfa,  
-sigora soðcyning,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sealde þam ðe he wolde  
-(he is manna gehyld)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hord openian,  
-efne swa hwylcum manna&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa him gemet ðuhte.  
+<div class='line'>Wæs sio swatswaðu<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sweona ond Geata,</div>
+<div class='line'>wælræs weora<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wide gesyne,</div>
+<div class='line'>hu ða folc mid him<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæhðe towehton.</div>
+<div class='line'>Gewat him ða se goda<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mid his gædelingum,</div>
+<div class='line'>frod, felageomor,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fæsten secean,</div>
+<div class='line'>eorl Ongenþio,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ufor oncirde;</div>
+<div class='line'>hæfde Higelaces<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hilde gefrunen,</div>
+<div class='line'>wlonces wigcræft,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wiðres ne truwode,</div>
+<div class='line'>þæt he sæmannum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>onsacan mihte,</div>
+<div class='line'>heaðoliðendum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hord forstandan,</div>
+<div class='line'>bearn ond bryde;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beah eft þonan</div>
+<div class='line'>eald under eorðweall.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Þa wæs æht boden</div>
+<div class='line'>Sweona leodum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>segn Higelaces</div>
+<div class='line'>freoðowong þone<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>forð ofereodon,</div>
+<div class='line'>syððan Hreðlingas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to hagan þrungon.</div>
+<div class='line'>Þær wearð Ongenðiow<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ecgum sweorda,</div>
+<div class='line'>blondenfexa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on bid wrecen,</div>
+<div class='line'>þæt se þeodcyning<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðafian sceolde</div>
+<div class='line'>Eafores anne dom.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hyne yrringa</div>
+<div class='line'>Wulf Wonreding<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæpne geræhte,</div>
+<div class='line'>þæt him for swenge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swat ædrum sprong</div>
+<div class='line'>forð under fexe.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Næs he forht swa ðeh,</div>
+<div class='line'>gomela Scilfing,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac forgeald hraðe</div>
+<div class='line'>wyrsan wrixle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wælhlem þone,</div>
+<div class='line'>syððan ðeodcyning<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þyder oncirde.</div>
+<div class='line'>Ne meahte se snella<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu Wonredes</div>
+<div class='line'>ealdum ceorle<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ondslyht giofan,</div>
+<div class='line'>ac he him on heafde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>helm ær gescer,</div>
+<div class='line'>þæt he blode fah<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bugan sceolde,</div>
+<div class='line'>feoll on foldan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>næs he fæge þa git,</div>
+<div class='line'>ac he hyne gewyrpte,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þeah ðe him wund hrine.</div>
+<div class='line'>Let se hearda<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Higelaces þegn</div>
+<div class='line'>bradne mece,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa his broðor læg,</div>
+<div class='line'>eald sweord eotonisc,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>entiscne helm</div>
+<div class='line'>brecan ofer bordweal;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða gebeah cyning,</div>
+<div class='line'>folces hyrde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs in feorh dropen.</div>
+<div class='line'>Ða wæron monige<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe his mæg wriðon,</div>
+<div class='line'>ricone arærdon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ða him gerymed wearð</div>
+<div class='line'>þæt hie wælstowe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wealdan moston.</div>
+<div class='line'>Þenden reafode<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>rinc oðerne,</div>
+<div class='line'>nam on Ongenðio<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>irenbyrnan,</div>
+<div class='line'>heard swyrd hilted<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond his helm somod,</div>
+<div class='line'>hares hyrste<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Higelace bær.</div>
+<div class='line'>He ðam frætwum feng<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond him fægre gehet</div>
+<div class='line'>leana mid leodum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond gelæste swa;</div>
+<div class='line'>geald þone guðræs<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geata dryhten,</div>
+<div class='line'>Hreðles eafora,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa he to ham becom,</div>
+<div class='line'>Iofore ond Wulfe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mid ofermaðmum,</div>
+<div class='line'>sealde hiora gehwæðrum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hund þusenda</div>
+<div class='line'>landes ond locenra beaga<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(ne ðorfte him ða lean oðwitan</div>
+<div class='line'>mon on middangearde),<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syððan hie ða mærða geslogon,</div>
+<div class='line'>ond ða Iofore forgeaf<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>angan dohtor,</div>
+<div class='line'>hamweorðunge,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hyldo to wedde.</div>
+<div class='line'>Þæt ys sio fæhðo<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond se feondscipe,</div>
+<div class='line'>wælnið wera,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ðæs ðe ic wen hafo,</div>
+<div class='line'>þe us seceað to<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sweona leoda,</div>
+<div class='line'>syððan hie gefricgeað<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frean userne</div>
+<div class='line'>ealdorleasne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þone ðe ær geheold</div>
+<div class='line'>wið hettendum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hord ond rice</div>
+<div class='line'>æfter hæleða hryre,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwate Scildingas,</div>
+<div class='line'>folcred fremede<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oððe furður gen</div>
+<div class='line'>eorlscipe efnde.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Nu is ofost betost</div>
+<div class='line'>þæt we þeodcyning<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær sceawian</div>
+<div class='line'>ond þone gebringan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þe us beagas geaf,</div>
+<div class='line'>on adfære.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ne scel anes hwæt</div>
+<div class='line'>meltan mid þam modigan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac þær is maðma hord,</div>
+<div class='line'>gold unrime<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>grimme geceapod,</div>
+<div class='line'>ond nu æt siðestan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sylfes feore</div>
+<div class='line'>beagas gebohte.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa sceall brond fretan,</div>
+<div class='line'>æled þeccean,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nalles eorl wegan</div>
+<div class='line'>maððum to gemyndum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ne mægð scyne</div>
+<div class='line'>habban on healse<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hringweorðunge,</div>
+<div class='line'>ac sceal geomormod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>golde bereafod,</div>
+<div class='line'>oft nalles æne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>elland tredan,</div>
+<div class='line'>nu se herewisa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hleahtor alegde,</div>
+<div class='line'>gamen ond gleodream.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Forðon sceall gar wesan</div>
+<div class='line'>monig, morgenceald,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mundum bewunden,</div>
+<div class='line'>hæfen on handa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nalles hearpan sweg</div>
+<div class='line'>wigend weccean,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ac se wonna hrefn</div>
+<div class='line'>fus ofer fægum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fela reordian,</div>
+<div class='line'>earne secgan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hu him æt æte speow,</div>
+<div class='line'>þenden he wið wulf<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæl reafode."</div>
+<div class='line'>Swa se secg hwata<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>secggende wæs</div>
+<div class='line'>laðra spella;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>he ne leag fela</div>
+<div class='line'>wyrda ne worda.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Weorod eall aras;</div>
+<div class='line'>eodon unbliðe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>under Earnanæs,</div>
+<div class='line'>wollenteare<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wundur sceawian.</div>
+<div class='line'>Fundon ða on sande<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sawulleasne</div>
+<div class='line'>hlimbed healdan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þone þe him hringas geaf</div>
+<div class='line'>ærran mælum;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa wæs endedæg</div>
+<div class='line'>godum gegongen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt se guðcyning,</div>
+<div class='line'>Wedra þeoden,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wundordeaðe swealt.</div>
+<div class='line'>Ær hi þær gesegan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>syllicran wiht,</div>
+<div class='line'>wyrm on wonge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wiðerræhtes þær</div>
+<div class='line'>laðne licgean;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs se legdraca</div>
+<div class='line'>grimlic, gryrefah,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gledum beswæled.</div>
+<div class='line'>Se wæs fiftiges<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>fotgemearces</div>
+<div class='line'>lang on legere,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lyftwynne heold</div>
+<div class='line'>nihtes hwilum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nyðer eft gewat</div>
+<div class='line'>dennes niosian;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs ða deaðe fæst,</div>
+<div class='line'>hæfde eorðscrafa<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ende genyttod.</div>
+<div class='line'>Him big stodan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bunan ond orcas,</div>
+<div class='line'>discas lagon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond dyre swyrd,</div>
+<div class='line'>omige, þurhetone,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hie wið eorðan fæðm</div>
+<div class='line'>þusend wintra<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær eardodon.</div>
+<div class='line'>Þonne wæs þæt yrfe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eacencræftig,</div>
+<div class='line'>iumonna gold<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>galdre bewunden,</div>
+<div class='line'>þæt ðam hringsele<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hrinan ne moste</div>
+<div class='line'>gumena ænig,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>nefne god sylfa,</div>
+<div class='line'>sigora soðcyning,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sealde þam ðe he wolde</div>
+<div class='line'>(he is manna gehyld)<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hord openian,</div>
+<div class='line'>efne swa hwylcum manna<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa him gemet ðuhte.</div>
   
-Þa wæs gesyne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt se sið ne ðah  
-þam ðe unrihte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;inne gehydde  
-wræte under wealle.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weard ær ofsloh  
-feara sumne;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa sio fæhð gewearð  
-gewrecen wraðlice.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wundur hwar þonne  
-eorl ellenrof&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ende gefere  
-lifgesceafta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne leng ne mæg  
-mon mid his magum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;meduseld buan.  
-Swa wæs Biowulfe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa he biorges weard  
-sohte, searoniðas;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;seolfa ne cuðe  
-þurh hwæt his worulde gedal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;weorðan sceolde.  
-Swa hit oð domes dæg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;diope benemdon  
-þeodnas mære,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa ðæt þær dydon,  
-þæt se secg wære&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;synnum scildig,  
-hergum geheaðerod,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hellbendum fæst,  
-wommum gewitnad,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðone wong strude,  
-næs he goldhwæte&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gearwor hæfde  
-agendes est&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ær gesceawod.  
-Wiglaf maðelode,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wihstanes sunu:  
-"Oft sceall eorl monig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;anes willan  
-wræc adreogan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa us geworden is.  
-Ne meahton we gelæran&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leofne þeoden,  
-rices hyrde,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ræd ænigne,  
-þæt he ne grette&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;goldweard þone,  
-lete hyne licgean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he longe wæs,  
-wicum wunian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oð woruldende;  
-heold on heahgesceap.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hord ys gesceawod,  
-grimme gegongen;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wæs þæt gifeðe to swið  
-þe ðone þeodcyning&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þyder ontyhte.  
-Ic wæs þær inne&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond þæt eall geondseh,  
-recedes geatwa,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa me gerymed wæs,  
-nealles swæslice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sið alyfed  
-inn under eorðweall.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ic on ofoste gefeng  
-micle mid mundum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mægenbyrðenne  
-hordgestreona,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hider ut ætbær  
-cyninge minum.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cwico wæs þa gena,  
-wis ond gewittig;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worn eall gespræc  
-gomol on gehðo&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond eowic gretan het,  
-bæd þæt ge geworhton&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æfter wines dædum  
-in bælstede&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beorh þone hean,  
-micelne ond mærne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he manna wæs  
-wigend weorðfullost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide geond eorðan,  
-þenden he burhwelan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;brucan moste.  
-Uton nu efstan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;oðre siðe,  
-seon ond secean&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;searogimma geþræc,  
-wundur under wealle;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ic eow wisige,  
-þæt ge genoge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;neon sceawiað  
-beagas ond brad gold.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sie sio bær gearo,  
-ædre geæfned,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne we ut cymen,  
-ond þonne geferian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frean userne,  
-leofne mannan,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær he longe sceal  
-on ðæs waldendes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wære geþolian."  
-Het ða gebeodan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;byre Wihstanes,  
-hæle hildedior,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hæleða monegum,  
-boldagendra,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þæt hie bælwudu  
-feorran feredon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;folcagende,  
-godum togenes:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Nu sceal gled fretan,  
-weaxan wonna leg&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wigena strengel,  
-þone ðe oft gebad&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;isernscure,  
-þonne stræla storm&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;strengum gebæded  
-scoc ofer scildweall,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sceft nytte heold,  
-feðergearwum fus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;flane fulleode."  
-Huru se snotra&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sunu Wihstanes  
-acigde of corðre&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cyninges þegnas  
-syfone tosomne,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þa selestan,  
-eode eahta sum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;under inwithrof  
-hilderinca;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;sum on handa bær  
-æledleoman,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se ðe on orde geong.  
-Næs ða on hlytme&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hwa þæt hord strude,  
-syððan orwearde&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ænigne dæl  
-secgas gesegon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on sele wunian,  
-læne licgan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;lyt ænig mearn  
-þæt hi ofostlice&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ut geferedon  
-dyre maðmas.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Dracan ec scufun,  
-wyrm ofer weallclif,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;leton weg niman,  
-flod fæðmian&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;frætwa hyrde.  
-þa wæs wunden gold&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on wæn hladen,  
-æghwæs unrim,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;æþeling boren,  
-har hilderinc&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;to Hronesnæsse.  
+<div class='line'>Þa wæs gesyne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt se sið ne ðah</div>
+<div class='line'>þam ðe unrihte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>inne gehydde</div>
+<div class='line'>wræte under wealle.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Weard ær ofsloh</div>
+<div class='line'>feara sumne;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa sio fæhð gewearð</div>
+<div class='line'>gewrecen wraðlice.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wundur hwar þonne</div>
+<div class='line'>eorl ellenrof<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ende gefere</div>
+<div class='line'>lifgesceafta,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne leng ne mæg</div>
+<div class='line'>mon mid his magum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>meduseld buan.</div>
+<div class='line'>Swa wæs Biowulfe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa he biorges weard</div>
+<div class='line'>sohte, searoniðas;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>seolfa ne cuðe</div>
+<div class='line'>þurh hwæt his worulde gedal<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>weorðan sceolde.</div>
+<div class='line'>Swa hit oð domes dæg<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>diope benemdon</div>
+<div class='line'>þeodnas mære,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa ðæt þær dydon,</div>
+<div class='line'>þæt se secg wære<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>synnum scildig,</div>
+<div class='line'>hergum geheaðerod,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hellbendum fæst,</div>
+<div class='line'>wommum gewitnad,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ðone wong strude,</div>
+<div class='line'>næs he goldhwæte<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gearwor hæfde</div>
+<div class='line'>agendes est<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ær gesceawod.</div>
+<div class='line'>Wiglaf maðelode,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wihstanes sunu:</div>
+<div class='line'>"Oft sceall eorl monig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>anes willan</div>
+<div class='line'>wræc adreogan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa us geworden is.</div>
+<div class='line'>Ne meahton we gelæran<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leofne þeoden,</div>
+<div class='line'>rices hyrde,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ræd ænigne,</div>
+<div class='line'>þæt he ne grette<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>goldweard þone,</div>
+<div class='line'>lete hyne licgean<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær he longe wæs,</div>
+<div class='line'>wicum wunian<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oð woruldende;</div>
+<div class='line'>heold on heahgesceap.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Hord ys gesceawod,</div>
+<div class='line'>grimme gegongen;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wæs þæt gifeðe to swið</div>
+<div class='line'>þe ðone þeodcyning<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þyder ontyhte.</div>
+<div class='line'>Ic wæs þær inne<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond þæt eall geondseh,</div>
+<div class='line'>recedes geatwa,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa me gerymed wæs,</div>
+<div class='line'>nealles swæslice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sið alyfed</div>
+<div class='line'>inn under eorðweall.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Ic on ofoste gefeng</div>
+<div class='line'>micle mid mundum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mægenbyrðenne</div>
+<div class='line'>hordgestreona,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hider ut ætbær</div>
+<div class='line'>cyninge minum.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Cwico wæs þa gena,</div>
+<div class='line'>wis ond gewittig;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>worn eall gespræc</div>
+<div class='line'>gomol on gehðo<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond eowic gretan het,</div>
+<div class='line'>bæd þæt ge geworhton<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æfter wines dædum</div>
+<div class='line'>in bælstede<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beorh þone hean,</div>
+<div class='line'>micelne ond mærne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa he manna wæs</div>
+<div class='line'>wigend weorðfullost<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wide geond eorðan,</div>
+<div class='line'>þenden he burhwelan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>brucan moste.</div>
+<div class='line'>Uton nu efstan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>oðre siðe,</div>
+<div class='line'>seon ond secean<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>searogimma geþræc,</div>
+<div class='line'>wundur under wealle;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ic eow wisige,</div>
+<div class='line'>þæt ge genoge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>neon sceawiað</div>
+<div class='line'>beagas ond brad gold.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Sie sio bær gearo,</div>
+<div class='line'>ædre geæfned,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne we ut cymen,</div>
+<div class='line'>ond þonne geferian<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frean userne,</div>
+<div class='line'>leofne mannan,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær he longe sceal</div>
+<div class='line'>on ðæs waldendes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wære geþolian."</div>
+<div class='line'>Het ða gebeodan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>byre Wihstanes,</div>
+<div class='line'>hæle hildedior,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hæleða monegum,</div>
+<div class='line'>boldagendra,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þæt hie bælwudu</div>
+<div class='line'>feorran feredon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>folcagende,</div>
+<div class='line'>godum togenes:<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>"Nu sceal gled fretan,</div>
+<div class='line'>weaxan wonna leg<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wigena strengel,</div>
+<div class='line'>þone ðe oft gebad<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>isernscure,</div>
+<div class='line'>þonne stræla storm<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>strengum gebæded</div>
+<div class='line'>scoc ofer scildweall,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sceft nytte heold,</div>
+<div class='line'>feðergearwum fus<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>flane fulleode."</div>
+<div class='line'>Huru se snotra<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sunu Wihstanes</div>
+<div class='line'>acigde of corðre<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>cyninges þegnas</div>
+<div class='line'>syfone tosomne,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þa selestan,</div>
+<div class='line'>eode eahta sum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>under inwithrof</div>
+<div class='line'>hilderinca;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>sum on handa bær</div>
+<div class='line'>æledleoman,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se ðe on orde geong.</div>
+<div class='line'>Næs ða on hlytme<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hwa þæt hord strude,</div>
+<div class='line'>syððan orwearde<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ænigne dæl</div>
+<div class='line'>secgas gesegon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on sele wunian,</div>
+<div class='line'>læne licgan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>lyt ænig mearn</div>
+<div class='line'>þæt hi ofostlice<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ut geferedon</div>
+<div class='line'>dyre maðmas.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Dracan ec scufun,</div>
+<div class='line'>wyrm ofer weallclif,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>leton weg niman,</div>
+<div class='line'>flod fæðmian<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>frætwa hyrde.</div>
+<div class='line'>þa wæs wunden gold<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on wæn hladen,</div>
+<div class='line'>æghwæs unrim,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>æþeling boren,</div>
+<div class='line'>har hilderinc<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>to Hronesnæsse.</div>
   
-Him ða gegiredan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leode  
-ad on eorðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;unwaclicne,  
-helmum behongen,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildebordum,  
-beorhtum byrnum,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa he bena wæs;  
-alegdon ða tomiddes&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mærne þeoden  
-hæleð hiofende,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hlaford leofne.  
-Ongunnon þa on beorge&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bælfyra mæst  
-wigend weccan;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wudurec astah,  
-sweart ofer swioðole,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swogende leg  
-wope bewunden&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(windblond gelæg),  
-oðþæt he ða banhus&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;gebrocen hæfde,  
-hat on hreðre.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Higum unrote  
-modceare mændon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;mondryhtnes cwealm;  
-swylce giomorgyd&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geatisc meowle  
+<div class='line'>Him ða gegiredan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geata leode</div>
+<div class='line'>ad on eorðan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>unwaclicne,</div>
+<div class='line'>helmum behongen,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hildebordum,</div>
+<div class='line'>beorhtum byrnum,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa he bena wæs;</div>
+<div class='line'>alegdon ða tomiddes<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mærne þeoden</div>
+<div class='line'>hæleð hiofende,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hlaford leofne.</div>
+<div class='line'>Ongunnon þa on beorge<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bælfyra mæst</div>
+<div class='line'>wigend weccan;<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wudurec astah,</div>
+<div class='line'>sweart ofer swioðole,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swogende leg</div>
+<div class='line'>wope bewunden<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>(windblond gelæg),</div>
+<div class='line'>oðþæt he ða banhus<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>gebrocen hæfde,</div>
+<div class='line'>hat on hreðre.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Higum unrote</div>
+<div class='line'>modceare mændon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>mondryhtnes cwealm;</div>
+<div class='line'>swylce giomorgyd<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geatisc meowle</div>
     bundenheorde  
-song sorgcearig&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swiðe geneahhe  
-þæt hio hyre heofungdagas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hearde ondrede,  
-wælfylla worn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;werudes egesan,  
-hynðo ond hæftnyd.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Heofon rece swealg.  
-Geworhton ða&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Wedra leode  
-hleo on hoe,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;se wæs heah ond brad,  
-wægliðendum&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wide gesyne,  
-ond betimbredon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;on tyn dagum  
-beadurofes becn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bronda lafe  
-wealle beworhton,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hyt weorðlicost  
-foresnotre men&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;findan mihton.  
-Hi on beorg dydon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;beg ond siglu,  
-eall swylce hyrsta,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swylce on horde ær  
-niðhedige men&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;genumen hæfdon,  
-forleton eorla gestreon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;eorðan healdan,  
-gold on greote,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þær hit nu gen lifað  
-eldum swa unnyt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hit æror wæs.  
-Þa ymbe hlæw riodan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;hildediore,  
-æþelinga bearn,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ealra twelfe,  
-woldon ceare cwiðan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond kyning mænan,  
-wordgyd wrecan&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond ymb wer sprecan;  
-eahtodan eorlscipe&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond his ellenweorc  
-duguðum demdon,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;swa hit gedefe bið  
-þæt mon his winedryhten&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wordum herge,  
-ferhðum freoge,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;þonne he forð scile  
-of lichaman&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;læded weorðan.  
-Swa begnornodon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Geata leode  
-hlafordes hryre,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;heorðgeneatas,  
-cwædon þæt he wære&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;wyruldcyninga  
-manna mildust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond monðwærust,  
-leodum liðost&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ond lofgeornost.
+<div class='line'>song sorgcearig<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swiðe geneahhe</div>
+<div class='line'>þæt hio hyre heofungdagas<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hearde ondrede,</div>
+<div class='line'>wælfylla worn,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>werudes egesan,</div>
+<div class='line'>hynðo ond hæftnyd.<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Heofon rece swealg.</div>
+<div class='line'>Geworhton ða<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Wedra leode</div>
+<div class='line'>hleo on hoe,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>se wæs heah ond brad,</div>
+<div class='line'>wægliðendum<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wide gesyne,</div>
+<div class='line'>ond betimbredon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>on tyn dagum</div>
+<div class='line'>beadurofes becn,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>bronda lafe</div>
+<div class='line'>wealle beworhton,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hyt weorðlicost</div>
+<div class='line'>foresnotre men<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>findan mihton.</div>
+<div class='line'>Hi on beorg dydon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>beg ond siglu,</div>
+<div class='line'>eall swylce hyrsta,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swylce on horde ær</div>
+<div class='line'>niðhedige men<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>genumen hæfdon,</div>
+<div class='line'>forleton eorla gestreon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>eorðan healdan,</div>
+<div class='line'>gold on greote,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þær hit nu gen lifað</div>
+<div class='line'>eldum swa unnyt<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hit æror wæs.</div>
+<div class='line'>Þa ymbe hlæw riodan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>hildediore,</div>
+<div class='line'>æþelinga bearn,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ealra twelfe,</div>
+<div class='line'>woldon ceare cwiðan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond kyning mænan,</div>
+<div class='line'>wordgyd wrecan<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond ymb wer sprecan;</div>
+<div class='line'>eahtodan eorlscipe<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond his ellenweorc</div>
+<div class='line'>duguðum demdon,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>swa hit gedefe bið</div>
+<div class='line'>þæt mon his winedryhten<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wordum herge,</div>
+<div class='line'>ferhðum freoge,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>þonne he forð scile</div>
+<div class='line'>of lichaman<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>læded weorðan.</div>
+<div class='line'>Swa begnornodon<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>Geata leode</div>
+<div class='line'>hlafordes hryre,<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>heorðgeneatas,</div>
+<div class='line'>cwædon þæt he wære<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>wyruldcyninga</div>
+<div class='line'>manna mildust<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond monðwærust,</div>
+<div class='line'>leodum liðost<span class='gap'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>ond lofgeornost.</div>
