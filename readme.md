@@ -318,42 +318,54 @@ git checkout -b enneads/english
 - https://www.tititudorancea.org/z/tipitaka_tpt.htm
 - https://www.tipitaka.org/tibt/
 - https://www.tipitaka.org/khmr/
-- 
-https://wikisource.org/wiki/%E1%83%90%E1%83%95%E1%83%A2%E1%83%9D%E1%83%A0%E1%83%98:%E1%83%95%E1%83%90%E1%83%9F%E1%83%90-%E1%83%A4%E1%83%A8%E1%83%90%E1%83%95%E1%83%94%E1%83%9A%E1%83%90
+- https://wikisource.org/wiki/%E1%83%90%E1%83%95%E1%83%A2%E1%83%9D%E1%83%A0%E1%83%98:%E1%83%95%E1%83%90%E1%83%9F%E1%83%90-%E1%83%A4%E1%83%A8%E1%83%90%E1%83%95%E1%83%94%E1%83%9A%E1%83%90
+- https://jainelibrary.org/list-all/?q=Book_Devnagari
+- https://sa.m.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D
+- https://th.wikisource.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%8A
+- https://th.wikisource.org/wiki/%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AE%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%88%E0%B8%B7%E0%B8%AD%E0%B8%87
+- http://www.seasite.niu.edu/Indonesian/ramayana/rama1fs.htm
+- https://sunnah.com/bukhari/2
+- http://theology101.org/pag/index.htm
+- http://www.kb.dk/en/nb/samling/os/naeroest/persdigi.html
+- https://ko.wikisource.org/wiki/%ED%9A%A8%EB%8C%80
+- https://ko.wikisource.org/wiki/%EB%B3%B4%ED%98%84%EC%8B%AD%EC%9B%90%EA%B0%80
+- https://ko.wikisource.org/wiki/%EC%97%B0%EC%82%B0%EA%B5%B0%EC%9D%BC%EA%B8%B0
+- https://ko.wikisource.org/wiki/%ED%9B%88%EB%AA%BD%EC%9E%90%ED%9A%8C
+- https://ko.wikisource.org/wiki/%EB%B2%88%EC%97%AD:%EC%82%BC%EA%B5%AD%EC%9C%A0%EC%82%AC
+- https://ko.wikisource.org/wiki/%EC%83%81%EB%8C%80%EB%B3%84%EA%B3%A1
+- https://ko.wikisource.org/wiki/%EB%B2%88%EC%97%AD:%EC%82%BC%EA%B5%AD%EC%82%AC%EA%B8%B0/%EA%B6%8C01
+- https://ko.wikisource.org/wiki/%EB%B2%88%EC%97%AD:%EA%B8%88%EC%98%A4%EC%8B%A0%ED%99%94
+- https://ko.wikisource.org/wiki/%EC%9D%B4%EC%88%9C%EC%8B%A0
+- https://ko.wikisource.org/wiki/%EA%B0%9C%EC%B2%99%EC%9E%90
+- https://ko.wikisource.org/wiki/%EB%B0%B1%EB%B2%94%EC%9D%BC%EC%A7%80
+- https://ko.wikisource.org/wiki/%EC%9C%A0%EC%B6%A9%EB%A0%AC%EC%A0%84
+- https://ko.wikisource.org/wiki/%EC%9A%A9%EB%B9%84%EC%96%B4%EC%B2%9C%EA%B0%80#%EC%A0%9C18%EC%9E%A5
+- https://ko.wikisource.org/wiki/%EC%82%AC%EC%9A%A9%EC%9E%90:Cedar101/%EC%9A%A9%EB%B9%84%EC%96%B4%EC%B2%9C%EA%B0%80
+- https://th.wikisource.org/wiki/%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AE%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%88%E0%B8%B7%E0%B8%AD%E0%B8%87
+- https://te.wikisource.org/wiki/%E0%B0%AA%E0%B1%8B%E0%B0%A4%E0%B0%A8_%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B1%81%E0%B0%97%E0%B1%81_%E0%B0%AD%E0%B0%BE%E0%B0%97%E0%B0%B5%E0%B0%A4%E0%B0%AE%E0%B1%81
+- https://ta.wikisource.org/wiki/%E0%AE%86%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AE%AE%E0%AE%BE%E0%AE%A9_%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AF%8D
+- https://ta.wikisource.org/wiki/%E0%AE%95%E0%AE%A8%E0%AF%8D%E0%AE%A4_%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BE%E0%AE%A3%E0%AE%AE%E0%AF%8D
+- https://ta.wikisource.org/wiki/%E0%AE%8F%E0%AE%B4%E0%AE%BE%E0%AE%B5%E0%AE%A4%E0%AF%81_%E0%AE%B5%E0%AE%BE%E0%AE%9A%E0%AE%B2%E0%AF%8D
+- https://ta.wikisource.org/wiki/%E0%AE%A8%E0%AE%9F%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81
+- http://annaharibabu.blogspot.com/2017/04/blog-post.html
+- https://ta.wikisource.org/wiki/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AE%B4%E0%AF%8D
+- https://ta.wikisource.org/wiki/%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%A4%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D/1._%E0%AE%B5%E0%AE%BF%E0%AE%A8%E0%AE%BE%E0%AE%AF%E0%AE%95%E0%AE%B0%E0%AF%8D_%E0%AE%A8%E0%AE%BE%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AE%A3%E0%AE%BF_%E0%AE%AE%E0%AE%BE%E0%AE%B2%E0%AF%88
+- https://ta.wikisource.org/wiki/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B4%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D
+- https://sunnah.com/muslim/1
+- https://www.ancient-buddhist-texts.net/Buddhist-Texts/BT-index.htm
+- http://dharmacloud.tsadra.org/library/
+- https://dharmaebooks.org/dulwa-commentary/
+- http://buddhasutra.com/
+- https://tibetan.works/etext/reader.php?collection=kangyur&index=1.01
+- https://www.christian-steinert.de/home/tibetan-texts/tsongkhapa-middling-lamrim
+- http://www.tibetebook.com/kagyur/kagyur.htm
+- http://data.copticscriptorium.org/texts/victor/martyrdomvictor01/verses
+- https://ganjoor.net/ferdousi/shahname/
+- https://ganjoor.net/sanaee/hadighe/
+- https://ganjoor.net/sanaee/
 
-https://jainelibrary.org/list-all/?q=Book_Devnagari
+- https://ar.wikisource.org/wiki/%D8%A3%D9%84%D9%81_%D9%84%D9%8A%D9%84%D8%A9_%D9%88%D9%84%D9%8A%D9%84%D8%A9
+- https://fa.wikisource.org/wiki/%D8%B4%D8%A7%D9%87%D9%86%D8%A7%D9%85%D9%87
+- https://kn.wikisource.org/wiki/%E0%B2%AD%E0%B2%97%E0%B2%B5%E0%B2%A6%E0%B3%8D%E0%B2%97%E0%B3%80%E0%B2%A4%E0%B3%86
 
-https://sa.m.wikisource.org/wiki/%E0%A4%B6%E0%A4%BF%E0%A4%B5%E0%A4%AA%E0%A5%81%E0%A4%B0%E0%A4%BE%E0%A4%A3%E0%A4%AE%E0%A5%8D
-
-https://th.wikisource.org/wiki/%E0%B8%A3%E0%B8%B2%E0%B8%8A%E0%B8%B2%E0%B8%98%E0%B8%B4%E0%B8%A3%E0%B8%B2%E0%B8%8A
-https://th.wikisource.org/wiki/%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AE%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%88%E0%B8%B7%E0%B8%AD%E0%B8%87
-
-http://www.seasite.niu.edu/Indonesian/ramayana/rama1fs.htm
-https://sunnah.com/bukhari/2
-http://theology101.org/pag/index.htm
-http://www.kb.dk/en/nb/samling/os/naeroest/persdigi.html
-https://ko.wikisource.org/wiki/%ED%9A%A8%EB%8C%80
-https://ko.wikisource.org/wiki/%EB%B3%B4%ED%98%84%EC%8B%AD%EC%9B%90%EA%B0%80
-https://ko.wikisource.org/wiki/%EC%97%B0%EC%82%B0%EA%B5%B0%EC%9D%BC%EA%B8%B0
-https://ko.wikisource.org/wiki/%ED%9B%88%EB%AA%BD%EC%9E%90%ED%9A%8C
-https://ko.wikisource.org/wiki/%EB%B2%88%EC%97%AD:%EC%82%BC%EA%B5%AD%EC%9C%A0%EC%82%AC
-https://ko.wikisource.org/wiki/%EC%83%81%EB%8C%80%EB%B3%84%EA%B3%A1
-https://ko.wikisource.org/wiki/%EB%B2%88%EC%97%AD:%EC%82%BC%EA%B5%AD%EC%82%AC%EA%B8%B0/%EA%B6%8C01
-https://ko.wikisource.org/wiki/%EB%B2%88%EC%97%AD:%EA%B8%88%EC%98%A4%EC%8B%A0%ED%99%94
-https://ko.wikisource.org/wiki/%EC%9D%B4%EC%88%9C%EC%8B%A0
-https://ko.wikisource.org/wiki/%EA%B0%9C%EC%B2%99%EC%9E%90
-https://ko.wikisource.org/wiki/%EB%B0%B1%EB%B2%94%EC%9D%BC%EC%A7%80
-https://ko.wikisource.org/wiki/%EC%9C%A0%EC%B6%A9%EB%A0%AC%EC%A0%84
-https://ko.wikisource.org/wiki/%EC%9A%A9%EB%B9%84%EC%96%B4%EC%B2%9C%EA%B0%80#%EC%A0%9C18%EC%9E%A5
-https://ko.wikisource.org/wiki/%EC%82%AC%EC%9A%A9%EC%9E%90:Cedar101/%EC%9A%A9%EB%B9%84%EC%96%B4%EC%B2%9C%EA%B0%80
-
-https://th.wikisource.org/wiki/%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%AE%E0%B8%B8%E0%B9%88%E0%B8%87%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B9%80%E0%B8%88%E0%B8%B7%E0%B8%AD%E0%B8%87
-https://te.wikisource.org/wiki/%E0%B0%AA%E0%B1%8B%E0%B0%A4%E0%B0%A8_%E0%B0%A4%E0%B1%86%E0%B0%B2%E0%B1%81%E0%B0%97%E0%B1%81_%E0%B0%AD%E0%B0%BE%E0%B0%97%E0%B0%B5%E0%B0%A4%E0%B0%AE%E0%B1%81
-https://ta.wikisource.org/wiki/%E0%AE%86%E0%AE%B1%E0%AF%81%E0%AE%AE%E0%AF%81%E0%AE%95%E0%AE%AE%E0%AE%BE%E0%AE%A9_%E0%AE%AA%E0%AF%8A%E0%AE%B0%E0%AF%81%E0%AE%B3%E0%AF%8D
-https://ta.wikisource.org/wiki/%E0%AE%95%E0%AE%A8%E0%AF%8D%E0%AE%A4_%E0%AE%AA%E0%AF%81%E0%AE%B0%E0%AE%BE%E0%AE%A3%E0%AE%AE%E0%AF%8D
-https://ta.wikisource.org/wiki/%E0%AE%8F%E0%AE%B4%E0%AE%BE%E0%AE%B5%E0%AE%A4%E0%AF%81_%E0%AE%B5%E0%AE%BE%E0%AE%9A%E0%AE%B2%E0%AF%8D
-https://ta.wikisource.org/wiki/%E0%AE%A8%E0%AE%9F%E0%AE%B0%E0%AE%BE%E0%AE%9C%E0%AE%AA%E0%AF%8D_%E0%AE%AA%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AF%81
-http://annaharibabu.blogspot.com/2017/04/blog-post.html
-https://ta.wikisource.org/wiki/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%95%E0%AE%B4%E0%AF%8D
-https://ta.wikisource.org/wiki/%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AE%A4%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%B0%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%A4%E0%AF%86%E0%AE%AF%E0%AF%8D%E0%AE%B5%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%9F%E0%AE%B2%E0%AF%8D%E0%AE%95%E0%AE%B3%E0%AF%8D/1._%E0%AE%B5%E0%AE%BF%E0%AE%A8%E0%AE%BE%E0%AE%AF%E0%AE%95%E0%AE%B0%E0%AF%8D_%E0%AE%A8%E0%AE%BE%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AE%A3%E0%AE%BF_%E0%AE%AE%E0%AE%BE%E0%AE%B2%E0%AF%88
-https://ta.wikisource.org/wiki/%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%88_%E0%AE%B5%E0%AE%B4%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D
+- http://www.alwaraq.net/Core/AlwaraqSrv/bookpage?book=26&session=ABBBVFAGFGFHAAWER&fkey=2&page=1&option=1
